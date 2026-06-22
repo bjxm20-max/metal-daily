@@ -141,6 +141,30 @@
     padding:9px 13px;border-radius:11px;margin:10px 14px 0}
   #histBanner button{margin-left:auto;background:var(--power);color:#0c0d10;border:none;
     font-weight:800;padding:6px 12px;border-radius:999px;font-size:.78rem}
+  #plBtn{position:fixed;right:14px;bottom:calc(env(safe-area-inset-bottom) + 78px);z-index:35;
+    display:none;align-items:center;gap:7px;background:var(--spotify);color:#08120b;font-weight:800;
+    font-size:.84rem;border:none;padding:12px 16px;border-radius:999px;box-shadow:0 6px 18px rgba(0,0,0,.45)}
+  #plBtn svg{width:16px;height:16px}
+  #plBanner{display:none;align-items:center;gap:10px;background:rgba(29,185,84,.12);
+    border:1px solid var(--spotify);color:var(--spotify);font-size:.8rem;font-weight:700;
+    padding:9px 13px;border-radius:11px;margin:10px 14px 0}
+  #plBanner a{margin-left:auto;background:var(--spotify);color:#08120b;font-weight:800;
+    padding:6px 12px;border-radius:999px;font-size:.78rem}
+  #spModal{position:fixed;inset:0;z-index:60;background:rgba(0,0,0,.62);display:none;align-items:flex-end}
+  #spModal.show{display:flex}
+  #spModal .sheet{background:var(--bg2);border-top:1px solid var(--line);width:100%;max-height:80vh;
+    border-radius:18px 18px 0 0;padding:16px 16px calc(env(safe-area-inset-bottom) + 16px);overflow:auto}
+  #spModal h4{margin:2px 0 6px;font-size:1.02rem}
+  #spModal p{margin:0 0 10px;color:var(--muted);font-size:.78rem;line-height:1.5}
+  #spModal code{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:2px 6px;
+    font-size:.74rem;color:var(--symph);word-break:break-all}
+  #spModal input{width:100%;padding:11px 13px;border-radius:11px;border:1px solid var(--line);
+    background:var(--card);color:var(--text);font-size:.92rem;outline:none;margin:4px 0 12px}
+  #spModal .row{display:flex;gap:9px}
+  #spModal .row button{flex:1;border:none;font-weight:800;font-size:.88rem;padding:12px;border-radius:11px}
+  #spSave{background:var(--spotify);color:#08120b}
+  #spClose{background:var(--card);color:var(--text);border:1px solid var(--line)!important}
+  #spModal ol{margin:6px 0 12px;padding-left:18px} #spModal ol li{font-size:.8rem;margin-bottom:6px;color:var(--text)}
 </style>
 </head>
 <body>
@@ -160,6 +184,7 @@
 </header>
 
 <div id="histBanner">🕑 A ver o histórico de <b id="histLbl" style="margin:0 4px">—</b><button id="histBack">Voltar ao mais recente</button></div>
+<div id="plBanner"><span id="plMsg">Playlist criada</span><a id="plOpen" href="#" target="_blank" rel="noopener">Abrir no Spotify</a></div>
 
 <div class="navtabs" id="seg">
   <button data-sec="recent" class="on">Fontes<span class="n" id="c-recent"></span></button>
@@ -177,8 +202,11 @@
 <footer>
   <strong>Metal Daily</strong> &middot; dados de <span id="fdate">&mdash;</span><br>
   Fontes: Metal Connect &middot; Loudwire &middot; Invisible Oranges &middot; Metal Storm &middot; Metal Collision &middot; Alterportal<br>
-  <span id="favnote"></span>
+  <span id="favnote"></span><br>
+  <button id="spCfg" style="margin-top:8px;background:none;border:1px solid var(--line);color:var(--muted);font-weight:700;font-size:.72rem;padding:6px 11px;border-radius:999px">⚙ Definições Spotify</button>
 </footer>
+
+<button id="plBtn"><svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm4.6 14.4a.62.62 0 0 1-.86.21c-2.35-1.44-5.3-1.76-8.79-.96a.62.62 0 1 1-.28-1.22c3.8-.87 7.07-.5 9.71 1.11.3.18.39.57.22.86Zm1.23-2.74a.78.78 0 0 1-1.07.26c-2.69-1.65-6.79-2.13-9.97-1.16a.78.78 0 1 1-.45-1.49c3.63-1.1 8.15-.56 11.24 1.33.36.22.48.7.25 1.06Zm.11-2.85C14.83 8.96 9.4 8.78 6.3 9.72a.94.94 0 1 1-.54-1.8c3.56-1.08 9.56-.87 13.34 1.37a.94.94 0 0 1-.96 1.61Z\"/></svg>Criar playlist</button>
 
 <div class="bottombar">
   <button data-view="all" class="on"><span class="bi">&#128451;&#65039;</span>Tudo</button>
@@ -190,6 +218,19 @@
   <h4>🕑 Histórico diário</h4>
   <p>Edições anteriores, lidas direto do GitHub. Toca num dia para o abrir.</p>
   <div id="histList"><div class="empty">A carregar&hellip;</div></div>
+</div></div>
+
+<div id="spModal"><div class="sheet">
+  <h4>🎧 Playlist automática (Spotify)</h4>
+  <p>Cria uma playlist com os lançamentos do dia no <b>teu</b> Spotify. Só precisas de colar o teu <b>Client ID</b> uma vez (fica guardado neste telemóvel).</p>
+  <ol>
+    <li>Abre <code>developer.spotify.com/dashboard</code> e faz login.</li>
+    <li>"Create app" — nome à escolha (ex.: Metal Daily).</li>
+    <li>Em <b>Redirect URIs</b> adiciona os dois:<br><code>https://bjxm20-max.github.io/metal-daily/index.html</code><br><code>https://bjxm20-max.github.io/metal-daily/</code></li>
+    <li>Em APIs marca <b>Web API</b>, guarda e copia o <b>Client ID</b>.</li>
+  </ol>
+  <input id="spInput" type="text" placeholder="Cola aqui o Client ID" autocomplete="off" autocapitalize="off" spellcheck="false">
+  <div class="row"><button id="spClose">Fechar</button><button id="spSave">Guardar e ligar</button></div>
 </div></div>
 
 <div id="toast"></div>
@@ -260,6 +301,79 @@ async function loadSnapshot(sha,lbl){
     document.getElementById('chips').dataset.built='';
     buildChips(); applyCounts(); render(); window.scrollTo(0,0);
   }catch(e){ toast('Falha ao abrir esse dia',''); }
+}
+
+/* ---------- Spotify playlist (Authorization Code + PKCE, sem servidor) ---------- */
+const SP_REDIRECT = location.origin + location.pathname;
+function spClientId(){ return localStorage.getItem('md_spclient')||''; }
+function openSpSettings(){ document.getElementById('spInput').value=spClientId(); document.getElementById('spModal').classList.add('show'); }
+function b64url(buf){ return btoa(String.fromCharCode.apply(null,new Uint8Array(buf))).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,''); }
+function randStr(n){ const a=new Uint8Array(n); crypto.getRandomValues(a); return Array.from(a,b=>('0'+b.toString(16)).slice(-2)).join('').slice(0,n); }
+async function sha256(str){ return await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str)); }
+async function spTokenReq(params){ params.client_id=spClientId();
+  const r=await fetch('https://accounts.spotify.com/api/token',{method:'POST',
+    headers:{'Content-Type':'application/x-www-form-urlencoded'}, body:new URLSearchParams(params)});
+  if(!r.ok) throw new Error('token '+r.status); return await r.json(); }
+function saveTok(t){ const prev=JSON.parse(localStorage.getItem('md_sptok')||'{}');
+  const o={access_token:t.access_token, expires_at:Date.now()+((t.expires_in||3600)-60)*1000,
+    refresh_token:t.refresh_token||prev.refresh_token}; localStorage.setItem('md_sptok',JSON.stringify(o)); }
+async function getToken(){ const o=JSON.parse(localStorage.getItem('md_sptok')||'null');
+  if(o&&o.access_token&&o.expires_at>Date.now()) return o.access_token;
+  if(o&&o.refresh_token){ try{ const t=await spTokenReq({grant_type:'refresh_token',refresh_token:o.refresh_token}); saveTok(t); return t.access_token; }catch(e){} }
+  return null; }
+async function startSpotifyAuth(){
+  const cid=spClientId(); if(!cid){ openSpSettings(); return; }
+  const verifier=randStr(96); localStorage.setItem('md_pkce',verifier); localStorage.setItem('md_plintent','1');
+  const challenge=b64url(await sha256(verifier));
+  const p=new URLSearchParams({client_id:cid,response_type:'code',redirect_uri:SP_REDIRECT,
+    code_challenge_method:'S256',code_challenge:challenge,state:'pl',
+    scope:'playlist-modify-public playlist-modify-private'});
+  location.href='https://accounts.spotify.com/authorize?'+p.toString();
+}
+async function handleAuthReturn(){
+  const u=new URL(location.href); const code=u.searchParams.get('code'); const err=u.searchParams.get('error');
+  if(!code && !err) return;
+  const verifier=localStorage.getItem('md_pkce'); history.replaceState({},'',SP_REDIRECT);
+  if(err){ toast('Login Spotify cancelado',''); return; }
+  if(!verifier) return;
+  try{ const t=await spTokenReq({grant_type:'authorization_code',code:code,redirect_uri:SP_REDIRECT,code_verifier:verifier});
+    saveTok(t); localStorage.removeItem('md_pkce');
+    if(localStorage.getItem('md_plintent')){ localStorage.removeItem('md_plintent'); await createPlaylistFlow(); }
+  }catch(e){ toast('Falha no login do Spotify',''); }
+}
+async function createPlaylistFlow(){
+  if(!D){ toast('Dados ainda a carregar…',''); return; }
+  const tk=await getToken(); if(!tk){ startSpotifyAuth(); return; }
+  const items=[].concat(D.recent||[], D.alter||[]);
+  if(!items.length){ toast('Sem lançamentos para adicionar',''); return; }
+  toast('🎧 A criar playlist…','ok');
+  const H={'Authorization':'Bearer '+tk};
+  try{
+    const me=await (await fetch('https://api.spotify.com/v1/me',{headers:H})).json();
+    if(!me||!me.id){ localStorage.removeItem('md_sptok'); startSpotifyAuth(); return; }
+    const dlabel=(D.range||D.generated||'').toString();
+    const plr=await fetch('https://api.spotify.com/v1/users/'+me.id+'/playlists',{method:'POST',
+      headers:Object.assign({'Content-Type':'application/json'},H),
+      body:JSON.stringify({name:'Metal Daily — '+dlabel,description:'Lançamentos de metal & rock via Metal Daily.',public:false})});
+    const pl=await plr.json();
+    const uris=[]; let miss=0;
+    for(const r of items){
+      const q=encodeURIComponent((r.b+' '+(r.t||'').replace(/\(.*?\)/g,'')).trim());
+      try{ const sr=await (await fetch('https://api.spotify.com/v1/search?type=track&limit=1&q='+q,{headers:H})).json();
+        const it=sr.tracks&&sr.tracks.items&&sr.tracks.items[0];
+        if(it) uris.push(it.uri); else miss++;
+      }catch(e){ miss++; }
+    }
+    for(let i=0;i<uris.length;i+=100){
+      await fetch('https://api.spotify.com/v1/playlists/'+pl.id+'/tracks',{method:'POST',
+        headers:Object.assign({'Content-Type':'application/json'},H),
+        body:JSON.stringify({uris:uris.slice(i,i+100)})});
+    }
+    const bn=document.getElementById('plBanner'); bn.style.display='flex';
+    document.getElementById('plMsg').textContent='✅ Playlist criada · '+uris.length+' faixas'+(miss?(' ('+miss+' não encontradas)'):'');
+    document.getElementById('plOpen').href=(pl.external_urls&&pl.external_urls.spotify)||'https://open.spotify.com';
+    toast('Playlist pronta! 🤘','ok');
+  }catch(e){ toast('Erro ao criar a playlist',''); }
 }
 function sig(d){return (d.generated||'')+'|'+((d.recent&&d.recent.length)||0)+'|'+((d.alter&&d.alter.length)||0)+'|'+
   (d.future||[]).reduce((a,x)=>a+x.items.length,0)+'|'+((d.news&&d.news.length)||0)+'|'+((d.dt&&d.dt.length)||0)+'|'+((d.st&&d.st.length)||0);}
@@ -382,6 +496,7 @@ function render(){
   if(!D) return;
   const m=document.getElementById('main'); let html='', shown=0;
   document.getElementById('chips').style.display=(sec==='news'||sec==='dt'||sec==='st')?'none':'flex';
+  document.getElementById('plBtn').style.display=(sec==='recent'||sec==='alter')?'inline-flex':'none';
   if(sec==='news'){ m.innerHTML=feedHTML(D.news,'var(--symph)'); updateBadge(); return; }
   if(sec==='dt'){ m.innerHTML=bioCard((D.bios||{}).dt,'var(--prog)')+feedHTML(D.dt,'var(--prog)'); updateBadge(); return; }
   if(sec==='st'){ m.innerHTML=bioCard((D.bios||{}).st,'var(--indus)')+feedHTML(D.st,'var(--indus)'); updateBadge(); return; }
@@ -435,6 +550,16 @@ let qt;document.getElementById('q').addEventListener('input',e=>{
 document.getElementById('hdate').addEventListener('click',openHistory);
 document.getElementById('histBack').addEventListener('click',()=>loadSnapshot(''));
 document.getElementById('histModal').addEventListener('click',e=>{ if(e.target.id==='histModal') e.currentTarget.classList.remove('show'); });
+document.getElementById('plBtn').addEventListener('click',createPlaylistFlow);
+document.getElementById('spCfg').addEventListener('click',openSpSettings);
+document.getElementById('spModal').addEventListener('click',e=>{ if(e.target.id==='spModal') e.currentTarget.classList.remove('show'); });
+document.getElementById('spClose').addEventListener('click',()=>document.getElementById('spModal').classList.remove('show'));
+document.getElementById('spSave').addEventListener('click',()=>{
+  const v=document.getElementById('spInput').value.trim();
+  if(!v){ toast('Cola o Client ID primeiro',''); return; }
+  localStorage.setItem('md_spclient',v); document.getElementById('spModal').classList.remove('show');
+  toast('Client ID guardado — a ligar…','ok'); startSpotifyAuth();
+});
 
 document.addEventListener('visibilitychange',()=>{ if(document.visibilityState==='visible') loadData('resume'); });
 window.addEventListener('pageshow',e=>{ if(e.persisted) loadData('resume'); });
@@ -463,7 +588,7 @@ window.addEventListener('focus',()=>loadData('resume'));
   });
 })();
 
-loadData('boot');
+(async function(){ await loadData('boot'); await handleAuthReturn(); })();
 if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(()=>{});}
 </script>
 </body>
