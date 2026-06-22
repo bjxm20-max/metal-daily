@@ -419,7 +419,7 @@ async function startTidalAuth(){
   const challenge=b64url(await sha256(verifier));
   const p=new URLSearchParams({client_id:TD_CLIENT,response_type:'code',redirect_uri:TD_REDIRECT,
     code_challenge_method:'S256',code_challenge:challenge,state:'tpl',
-    scope:'user.read playlists.write playlists.read collection.read'});
+    scope:'user.read playlists.write collection.read'});
   location.href=TD_AUTH+'?'+p.toString();
 }
 async function handleTidalReturn(){
