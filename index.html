@@ -305,7 +305,7 @@ async function loadSnapshot(sha,lbl){
 
 /* ---------- Spotify playlist (Authorization Code + PKCE, sem servidor) ---------- */
 const SP_REDIRECT = location.origin + location.pathname;
-function spClientId(){ return localStorage.getItem('md_spclient')||''; }
+function spClientId(){ return localStorage.getItem('md_spclient')||'2946a52fcd9c44d3a49aad0b5b95ede6'; }
 function openSpSettings(){ document.getElementById('spInput').value=spClientId(); document.getElementById('spModal').classList.add('show'); }
 function b64url(buf){ return btoa(String.fromCharCode.apply(null,new Uint8Array(buf))).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,''); }
 function randStr(n){ const a=new Uint8Array(n); crypto.getRandomValues(a); return Array.from(a,b=>('0'+b.toString(16)).slice(-2)).join('').slice(0,n); }
