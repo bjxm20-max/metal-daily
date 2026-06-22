@@ -1,5 +1,5 @@
 // Metal Daily — service worker (offline cache + fresh data)
-const CACHE = 'metal-daily-v2';
+const CACHE = 'metal-daily-v3';
 const ASSETS = [
   './', './index.html', './data.json', './manifest.webmanifest',
   './icon-180.png', './icon-192.png', './icon-512.png'
