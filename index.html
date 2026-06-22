@@ -374,7 +374,7 @@ async function createPlaylistFlow(){
     const dlabel=(D.range||D.generated||'').toString();
     const plr=await fetch('https://api.spotify.com/v1/users/'+me.id+'/playlists',{method:'POST',
       headers:Object.assign({'Content-Type':'application/json'},H),
-      body:JSON.stringify({name:'Metal Daily — '+dlabel,description:'Lançamentos de metal & rock via Metal Daily.',public:false})});
+      body:JSON.stringify({name:'Metal Daily — '+dlabel,description:'Lançamentos de metal & rock via Metal Daily.',public:true})});
     const pl=await plr.json();
     const uris=[]; let miss=0;
     for(const r of items){
