@@ -107,6 +107,14 @@
     box-shadow:0 6px 20px rgba(0,0,0,.5)}
   #toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
   #toast.ok{border-color:var(--spotify)} #toast.new{border-color:var(--power)}
+  .biocard{background:linear-gradient(180deg,#1b1e27,#15171e)}
+  .biocard .bsub{font-size:.72rem;font-weight:700;margin-top:3px}
+  .biocard .blabel{font-size:.64rem;font-weight:800;text-transform:uppercase;letter-spacing:.7px;margin:11px 0 5px}
+  .biocard .bmems{display:flex;flex-wrap:wrap;gap:6px}
+  .biocard .bmem{font-size:.74rem;background:rgba(255,255,255,.06);border:1px solid var(--line);
+    padding:4px 9px;border-radius:999px;color:var(--text)}
+  .biocard .btriv{margin:4px 0 0;padding-left:17px}
+  .biocard .btriv li{font-size:.8rem;color:var(--text);margin-bottom:5px;line-height:1.42}
 </style>
 </head>
 <body>
@@ -260,6 +268,18 @@ function renderGrouped(list){
   return html;
 }
 const NSRC={'Whiplash':'#4caf50','Blabbermouth':'#f29a3b','Loudwire':'#e23b3b','Metal Injection':'#a259d9','MetalSucks':'#ed6ea7','Metal Hammer':'#3bd4d4'};
+function bioCard(b, accent){
+  if(!b) return '';
+  const mem=(b.members||[]).map(m=>'<span class="bmem">'+m+'</span>').join('');
+  const tri=(b.trivia||[]).map(t=>'<li>'+t+'</li>').join('');
+  return '<div class="card biocard" style="border-left-color:'+accent+'">'+
+    '<div class="band" style="padding-right:0;font-size:1.18rem">'+b.name+'</div>'+
+    (b.formed?'<div class="bsub" style="color:'+accent+'">'+b.formed+'</div>':'')+
+    '<div class="meta" style="margin:7px 0 2px">'+(b.summary||'')+'</div>'+
+    (mem?'<div class="blabel" style="color:'+accent+'">Formação</div><div class="bmems">'+mem+'</div>':'')+
+    (tri?'<div class="blabel" style="color:'+accent+'">Sabias que?</div><ul class="btriv">'+tri+'</ul>':'')+
+  '</div>';
+}
 function feedHTML(list, accent){
   list=(list||[]);
   if(query) list=list.filter(n=>((n.title+' '+(n.src||'')+' '+(n.d||'')).toLowerCase().includes(query)));
@@ -276,8 +296,8 @@ function render(){
   const m=document.getElementById('main'); let html='', shown=0;
   document.getElementById('chips').style.display=(sec==='news'||sec==='dt'||sec==='st')?'none':'flex';
   if(sec==='news'){ m.innerHTML=feedHTML(D.news,'var(--symph)'); updateBadge(); return; }
-  if(sec==='dt'){ m.innerHTML=feedHTML(D.dt,'var(--prog)'); updateBadge(); return; }
-  if(sec==='st'){ m.innerHTML=feedHTML(D.st,'var(--indus)'); updateBadge(); return; }
+  if(sec==='dt'){ m.innerHTML=bioCard((D.bios||{}).dt,'var(--prog)')+feedHTML(D.dt,'var(--prog)'); updateBadge(); return; }
+  if(sec==='st'){ m.innerHTML=bioCard((D.bios||{}).st,'var(--indus)')+feedHTML(D.st,'var(--indus)'); updateBadge(); return; }
   if(sec==='future'){
     D.future.forEach(day=>{
       const items=day.items.filter(matchFilter); if(!items.length)return; shown+=items.length;
