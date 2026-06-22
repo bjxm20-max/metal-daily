@@ -48,12 +48,13 @@
     background:var(--bg2);color:var(--text);font-size:.95rem;outline:none}
   .search input:focus{border-color:#3a3f4d}
   .search .ic{position:absolute;left:12px;top:50%;transform:translateY(-50%);color:var(--muted)}
-  .seg{display:flex;margin:10px 14px 0;background:var(--bg2);border:1px solid var(--line);
-    border-radius:12px;padding:4px;gap:4px}
-  .seg button{flex:1;border:none;background:transparent;color:var(--muted);font-weight:700;
-    font-size:.72rem;padding:9px 2px;border-radius:9px;transition:.12s;white-space:nowrap}
-  .seg button.on{background:var(--card);color:var(--text);box-shadow:0 1px 4px rgba(0,0,0,.4)}
-  .seg button .n{font-size:.66rem;opacity:.7;display:block}
+  .navtabs{display:flex;gap:8px;margin:0;padding:10px 14px 2px;overflow-x:auto;
+    -webkit-overflow-scrolling:touch;scrollbar-width:none}
+  .navtabs::-webkit-scrollbar{display:none}
+  .navtabs button{flex:0 0 auto;border:1px solid var(--line);background:var(--bg2);color:var(--muted);
+    font-weight:800;font-size:.82rem;padding:9px 15px;border-radius:999px;transition:.12s;white-space:nowrap}
+  .navtabs button.on{background:var(--card);color:var(--text);border-color:#3a3f4d}
+  .navtabs button .n{font-size:.64rem;opacity:.6;margin-left:4px}
   .chips{display:flex;gap:8px;overflow-x:auto;padding:10px 14px 4px;-webkit-overflow-scrolling:touch;
     scrollbar-width:none}
   .chips::-webkit-scrollbar{display:none}
@@ -124,11 +125,13 @@
   </div>
 </header>
 
-<div class="seg" id="seg">
+<div class="navtabs" id="seg">
   <button data-sec="recent" class="on">Fontes<span class="n" id="c-recent"></span></button>
   <button data-sec="alter">Alterportal<span class="n" id="c-alter"></span></button>
   <button data-sec="future">Future<span class="n" id="c-future"></span></button>
   <button data-sec="news">Notícias<span class="n" id="c-news"></span></button>
+  <button data-sec="dt">Dream Theater<span class="n" id="c-dt"></span></button>
+  <button data-sec="st">Sleep Token<span class="n" id="c-st"></span></button>
 </div>
 
 <div class="chips" id="chips"></div>
@@ -175,7 +178,7 @@ function nowHM(){const d=new Date();return ('0'+d.getHours()).slice(-2)+':'+('0'
 
 let lastSig=null, loading=false;
 function sig(d){return (d.generated||'')+'|'+((d.recent&&d.recent.length)||0)+'|'+((d.alter&&d.alter.length)||0)+'|'+
-  (d.future||[]).reduce((a,x)=>a+x.items.length,0)+'|'+((d.news&&d.news.length)||0);}
+  (d.future||[]).reduce((a,x)=>a+x.items.length,0)+'|'+((d.news&&d.news.length)||0)+'|'+((d.dt&&d.dt.length)||0)+'|'+((d.st&&d.st.length)||0);}
 
 async function loadData(reason){
   if(loading) return; loading=true;
@@ -203,6 +206,8 @@ function applyCounts(){
   document.getElementById('c-alter').textContent=D.alter.length;
   document.getElementById('c-future').textContent=D.future.reduce((a,d)=>a+d.items.length,0);
   document.getElementById('c-news').textContent=(D.news||[]).length;
+  document.getElementById('c-dt').textContent=(D.dt||[]).length;
+  document.getElementById('c-st').textContent=(D.st||[]).length;
 }
 function buildChips(){
   const chips=document.getElementById('chips'); if(chips.dataset.built) return;
@@ -255,22 +260,24 @@ function renderGrouped(list){
   return html;
 }
 const NSRC={'Whiplash':'#4caf50','Blabbermouth':'#f29a3b','Loudwire':'#e23b3b','Metal Injection':'#a259d9','MetalSucks':'#ed6ea7','Metal Hammer':'#3bd4d4'};
-function newsHTML(){
-  let list=(D.news||[]);
+function feedHTML(list, accent){
+  list=(list||[]);
   if(query) list=list.filter(n=>((n.title+' '+(n.src||'')+' '+(n.d||'')).toLowerCase().includes(query)));
-  if(!list.length) return '<div class="empty">Sem notícias.</div>';
-  return list.map(n=>{ const col=NSRC[n.src]||'var(--muted)'; const star=n.star?' ★':'';
+  if(!list.length) return '<div class="empty">Nada por aqui ainda.</div>';
+  return list.map(n=>{ const col=accent; const star=n.star?' ★':'';
     return '<div class="card" style="border-left-color:'+col+'">'+
       '<div class="band" style="padding-right:0">'+n.title+'<span style="color:var(--power)">'+star+'</span></div>'+
       '<div class="meta" style="margin-top:6px"><b style="color:'+col+'">'+(n.src||'')+'</b> · '+(n.date||'')+(n.d?'<br>'+n.d:'')+'</div>'+
-      '<a class="spot" style="background:var(--bg2);color:var(--symph);border:1px solid var(--line)" href="'+(n.url||'#')+'" target="_blank" rel="noopener">Ler notícia →</a>'+
+      '<a class="spot" style="background:var(--bg2);color:var(--symph);border:1px solid var(--line)" href="'+(n.url||'#')+'" target="_blank" rel="noopener">Ler →</a>'+
     '</div>'; }).join('');
 }
 function render(){
   if(!D) return;
   const m=document.getElementById('main'); let html='', shown=0;
-  document.getElementById('chips').style.display=(sec==='news')?'none':'flex';
-  if(sec==='news'){ m.innerHTML=newsHTML(); updateBadge(); return; }
+  document.getElementById('chips').style.display=(sec==='news'||sec==='dt'||sec==='st')?'none':'flex';
+  if(sec==='news'){ m.innerHTML=feedHTML(D.news,'var(--symph)'); updateBadge(); return; }
+  if(sec==='dt'){ m.innerHTML=feedHTML(D.dt,'var(--prog)'); updateBadge(); return; }
+  if(sec==='st'){ m.innerHTML=feedHTML(D.st,'var(--indus)'); updateBadge(); return; }
   if(sec==='future'){
     D.future.forEach(day=>{
       const items=day.items.filter(matchFilter); if(!items.length)return; shown+=items.length;
