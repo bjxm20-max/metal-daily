@@ -125,6 +125,22 @@
     padding:4px 9px;border-radius:999px;color:var(--text)}
   .biocard .btriv{margin:4px 0 0;padding-left:17px}
   .biocard .btriv li{font-size:.8rem;color:var(--text);margin-bottom:5px;line-height:1.42}
+  .date.hist{cursor:pointer}
+  .date.hist u{color:var(--symph);text-decoration:none;border-bottom:1px dotted var(--symph)}
+  #histModal{position:fixed;inset:0;z-index:60;background:rgba(0,0,0,.62);display:none;align-items:flex-end}
+  #histModal.show{display:flex}
+  #histModal .sheet{background:var(--bg2);border-top:1px solid var(--line);width:100%;max-height:72vh;
+    border-radius:18px 18px 0 0;padding:16px 16px calc(env(safe-area-inset-bottom) + 16px);overflow:auto}
+  #histModal .sheet h4{margin:2px 0 4px;font-size:1.02rem}
+  #histModal .sheet p{margin:0 0 12px;color:var(--muted);font-size:.76rem}
+  .hitem{display:block;width:100%;text-align:left;background:var(--card);border:1px solid var(--line);
+    color:var(--text);font-weight:700;font-size:.9rem;padding:11px 13px;border-radius:11px;margin-bottom:8px}
+  .hitem.cur{color:var(--power);border-color:var(--power)}
+  #histBanner{display:none;align-items:center;gap:10px;background:rgba(242,210,59,.12);
+    border:1px solid var(--power);color:var(--power);font-size:.8rem;font-weight:700;
+    padding:9px 13px;border-radius:11px;margin:10px 14px 0}
+  #histBanner button{margin-left:auto;background:var(--power);color:#0c0d10;border:none;
+    font-weight:800;padding:6px 12px;border-radius:999px;font-size:.78rem}
 </style>
 </head>
 <body>
@@ -135,13 +151,15 @@
   <div class="brand">
     <span class="logo">&#9889;</span>
     <h1>Metal Daily</h1>
-    <div class="date" id="hdate">a carregar&hellip;</div>
+    <div class="date hist" id="hdate">a carregar&hellip;</div>
   </div>
   <div class="search">
     <span class="ic">&#128270;</span>
     <input id="q" type="search" placeholder="Procurar banda, editora, &aacute;lbum&hellip;" autocomplete="off" autocapitalize="off">
   </div>
 </header>
+
+<div id="histBanner">🕑 A ver o histórico de <b id="histLbl" style="margin:0 4px">—</b><button id="histBack">Voltar ao mais recente</button></div>
 
 <div class="navtabs" id="seg">
   <button data-sec="recent" class="on">Fontes<span class="n" id="c-recent"></span></button>
@@ -167,6 +185,12 @@
   <button data-view="fav" style="position:relative"><span class="bi">&#10084;&#65039;</span>Favoritos<span class="badge" id="favbadge" style="display:none">0</span></button>
   <button data-view="unheard"><span class="bi">&#127911;</span>Por ouvir</button>
 </div>
+
+<div id="histModal"><div class="sheet">
+  <h4>🕑 Histórico diário</h4>
+  <p>Edições anteriores, lidas direto do GitHub. Toca num dia para o abrir.</p>
+  <div id="histList"><div class="empty">A carregar&hellip;</div></div>
+</div></div>
 
 <div id="toast"></div>
 
@@ -203,12 +227,47 @@ function toast(msg,cls){const t=document.getElementById('toast');t.textContent=m
   clearTimeout(t._h);t._h=setTimeout(()=>t.className='',2200);}
 function nowHM(){const d=new Date();return ('0'+d.getHours()).slice(-2)+':'+('0'+d.getMinutes()).slice(-2);}
 
-let lastSig=null, loading=false;
+let lastSig=null, loading=false, histMode=false;
+const GH_REPO='bjxm20-max/metal-daily';
+async function openHistory(){
+  const box=document.getElementById('histList');
+  document.getElementById('histModal').classList.add('show');
+  box.innerHTML='<div class="empty">A carregar&hellip;</div>';
+  try{
+    const r=await fetch('https://api.github.com/repos/'+GH_REPO+'/commits?path=data.json&per_page=60',{cache:'no-store'});
+    if(!r.ok) throw new Error(r.status);
+    const arr=await r.json(); const seen=new Set();
+    let html='<button class="hitem cur" data-sha="">\u26A1 Mais recente (ao vivo)</button>';
+    arr.forEach(c=>{
+      let lbl=((c.commit&&c.commit.message)||'').replace(/^.*?(\d{4}-\d{2}-\d{2}).*$/,'$1');
+      if(!/^\d{4}-\d{2}-\d{2}$/.test(lbl)) lbl=((c.commit&&c.commit.committer&&c.commit.committer.date)||'').slice(0,10);
+      if(!lbl||seen.has(lbl))return; seen.add(lbl);
+      html+='<button class="hitem" data-sha="'+c.sha+'" data-lbl="'+lbl+'">'+lbl+'</button>';
+    });
+    box.innerHTML=html;
+    box.querySelectorAll('.hitem').forEach(b=>b.onclick=()=>loadSnapshot(b.dataset.sha,b.dataset.lbl));
+  }catch(e){ box.innerHTML='<div class="empty">Não consegui carregar o histórico agora<br>(limite do GitHub?). Tenta daqui a pouco.</div>'; }
+}
+async function loadSnapshot(sha,lbl){
+  document.getElementById('histModal').classList.remove('show');
+  if(!sha){ histMode=false; document.getElementById('histBanner').style.display='none'; loadData('boot'); return; }
+  try{
+    const r=await fetch('https://raw.githubusercontent.com/'+GH_REPO+'/'+sha+'/data.json',{cache:'no-store'});
+    if(!r.ok) throw new Error(r.status);
+    const j=await r.json(); D=j; lastSig=sig(j); histMode=true;
+    document.getElementById('histBanner').style.display='flex';
+    document.getElementById('histLbl').textContent=lbl||j.range||j.generated||'';
+    document.getElementById('chips').dataset.built='';
+    buildChips(); applyCounts(); render(); window.scrollTo(0,0);
+  }catch(e){ toast('Falha ao abrir esse dia',''); }
+}
 function sig(d){return (d.generated||'')+'|'+((d.recent&&d.recent.length)||0)+'|'+((d.alter&&d.alter.length)||0)+'|'+
   (d.future||[]).reduce((a,x)=>a+x.items.length,0)+'|'+((d.news&&d.news.length)||0)+'|'+((d.dt&&d.dt.length)||0)+'|'+((d.st&&d.st.length)||0);}
 
 async function loadData(reason){
-  if(loading) return; loading=true;
+  if(loading) return;
+  if(histMode && reason!=='boot') return;
+  loading=true;
   try{
     const res=await fetch('data.json?t='+Date.now(),{cache:'no-store'});
     if(!res.ok) throw new Error(res.status);
@@ -217,7 +276,7 @@ async function loadData(reason){
     const changed = lastSig && s!==lastSig;
     D=fresh; lastSig=s;
     buildChips(); applyCounts(); render();
-    document.getElementById('hdate').innerHTML='Atualizado<br><b>'+nowHM()+'</b>';
+    document.getElementById('hdate').innerHTML='Atualizado <u>'+nowHM()+'</u><br><span style="opacity:.7">🕑 ver histórico</span>';
     document.getElementById('fdate').textContent=D.range||D.generated||'';
     if(reason==='pull'){ toast(changed?'⚡ Novas releases!':'Já estás na versão mais recente', changed?'new':'ok'); }
     else if(changed){ toast('⚡ Novas releases disponíveis','new'); }
@@ -373,6 +432,9 @@ document.querySelectorAll('.bottombar button').forEach(b=>b.onclick=()=>{
 let qt;document.getElementById('q').addEventListener('input',e=>{
   clearTimeout(qt);qt=setTimeout(()=>{query=e.target.value.trim().toLowerCase();render();},120);
 });
+document.getElementById('hdate').addEventListener('click',openHistory);
+document.getElementById('histBack').addEventListener('click',()=>loadSnapshot(''));
+document.getElementById('histModal').addEventListener('click',e=>{ if(e.target.id==='histModal') e.currentTarget.classList.remove('show'); });
 
 document.addEventListener('visibilitychange',()=>{ if(document.visibilityState==='visible') loadData('resume'); });
 window.addEventListener('pageshow',e=>{ if(e.persisted) loadData('resume'); });
