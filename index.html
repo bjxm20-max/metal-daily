@@ -71,14 +71,15 @@
   .card{background:linear-gradient(180deg,var(--card),var(--card2));border:1px solid var(--line);
     border-left-width:5px;border-radius:13px;padding:13px 14px;margin-bottom:11px;position:relative}
   .card.heard{opacity:.5}
-  .card .band{font-weight:800;font-size:1.04rem;padding-right:58px}
-  .card .title{font-style:italic;color:#d4d7df;font-size:.92rem;margin:2px 0 6px;padding-right:58px}
+  .card .band{font-weight:800;font-size:1.04rem;padding-right:104px}
+  .card .title{font-style:italic;color:#d4d7df;font-size:.92rem;margin:2px 0 6px;padding-right:104px}
   .card .meta{font-size:.78rem;color:var(--muted)}
   .card .tag{display:inline-block;font-size:.66rem;font-weight:700;padding:2px 8px;border-radius:999px;
     margin-top:9px;background:rgba(255,255,255,.06)}
-  .card .acts{position:absolute;top:11px;right:11px;display:flex;gap:6px}
-  .card .acts button{width:34px;height:34px;border-radius:10px;border:1px solid var(--line);
-    background:var(--bg2);color:var(--muted);font-size:1rem;display:flex;align-items:center;justify-content:center}
+  .card .acts{position:absolute;top:11px;right:11px;display:flex;gap:5px}
+  .card .acts button{width:30px;height:30px;border-radius:9px;border:1px solid var(--line);
+    background:var(--bg2);color:var(--muted);font-size:.92rem;display:flex;align-items:center;justify-content:center}
+  .card .acts button.sh{color:#7aa2f7}
   .card .acts button.fav.on{color:#ff5a7a;border-color:#ff5a7a}
   .card .acts button.hd.on{color:var(--symph);border-color:var(--symph)}
   .card .spot{display:inline-flex;align-items:center;gap:6px;margin-top:11px;font-size:.78rem;
@@ -91,6 +92,8 @@
   .card .strm.sp{color:#0c0d10;background:var(--spotify);border-color:var(--spotify)}
   .card .strm.yt{color:#fff;background:#ff0000;border-color:#ff0000}
   .card .strm.td{color:#27e3e3;background:#06141c;border-color:#0d3b45}
+  .card .strm.am{color:#fff;background:#fa233b;border-color:#fa233b}
+  .card .strm.bc{color:#031a22;background:#1da0c3;border-color:#1da0c3}
   .tl-date{display:flex;align-items:center;gap:10px;margin:22px 4px 10px}
   .tl-date .bub{width:14px;height:14px;border-radius:50%;background:var(--power);
     border:3px solid var(--bg);box-shadow:0 0 0 2px var(--power);flex:0 0 auto}
@@ -177,7 +180,7 @@ const GL={death:'Death',black:'Black',doom:'Doom / Sludge / Stoner',power:'Power
 const ORDER=['death','black','thrash','doom','heavy','power','symph','folk','prog','core','indus','punk','grind','rock'];
 const cv=g=>'var('+(C[g]||'--line')+')';
 
-let D=null, sec='recent', view='all', query='', activeGenres=new Set();
+let D=null, sec='recent', view='all', query='', activeGenres=new Set(JSON.parse(localStorage.getItem('md_genres')||'[]'));
 const store={
   get fav(){return JSON.parse(localStorage.getItem('md_fav')||'{}')},
   get heard(){return JSON.parse(localStorage.getItem('md_heard')||'{}')},
@@ -190,6 +193,10 @@ function spotifyUrl(r){return 'https://open.spotify.com/search/'+encodeURICompon
 function strmQ(r){return encodeURIComponent((r.b+' '+r.t.replace(/\(.*?\)/g,'')).trim())}
 function ytmUrl(r){return 'https://music.youtube.com/search?q='+strmQ(r)}
 function tidalUrl(r){return 'https://tidal.com/search?q='+strmQ(r)}
+function amUrl(r){return 'https://music.apple.com/search?term='+strmQ(r)}
+function bcUrl(r){return 'https://bandcamp.com/search?q='+strmQ(r)}
+const AM_SVG='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M16 3.5 8.6 5.1c-.5.1-.8.5-.8 1v8.7a2.7 2.7 0 1 0 1.4 2.4V9l5.6-1.2v5.2a2.7 2.7 0 1 0 1.4 2.4V4.5c0-.7-.6-1.1-1.2-1Z"/></svg>';
+const BC_SVG='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 7h14l-4 10H-1 z M16 7h5l-4 10h-5z" transform="translate(1 0)"/></svg>';
 const YTM_SVG='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm0 1.5a8.5 8.5 0 1 1 0 17 8.5 8.5 0 0 1 0-17ZM9.8 8.2v7.6l6.4-3.8-6.4-3.8Z"/></svg>';
 const TIDAL_SVG='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M5.33 6 8 8.67 5.33 11.33 2.67 8.67 5.33 6Zm5.34 0L13.33 8.67 10.67 11.33 8 8.67 10.67 6Zm5.33 0L18.67 8.67 16 11.33 13.33 8.67 16 6Zm-5.33 5.33L13.33 14 10.67 16.67 8 14l2.67-2.67Z"/></svg>';
 function toast(msg,cls){const t=document.getElementById('toast');t.textContent=msg;t.className='show '+(cls||'');
@@ -237,7 +244,9 @@ function buildChips(){
   presentG.forEach(g=>{
     const b=document.createElement('button');b.className='chip';b.dataset.g=g;
     b.innerHTML='<span class="sw" style="background:'+cv(g)+'"></span>'+GL[g];
+    if(activeGenres.has(g)) b.classList.add('on');
     b.onclick=()=>{activeGenres.has(g)?activeGenres.delete(g):activeGenres.add(g);
+      localStorage.setItem('md_genres',JSON.stringify([...activeGenres]));
       b.classList.toggle('on');render();};
     chips.appendChild(b);
   });
@@ -259,6 +268,7 @@ function cardHTML(r){
   const subline=(r.sub?r.sub+' · ':'')+subParts.join(' · ');
   return '<div class="card'+(heard?' heard':'')+'" style="border-left-color:'+cv(r.g)+'">'+
     '<div class="acts">'+
+      '<button class="sh" data-act="share" data-id="'+id+'">↗</button>'+
       '<button class="fav'+(fav?' on':'')+'" data-act="fav" data-id="'+id+'">'+(fav?'❤':'♡')+'</button>'+
       '<button class="hd'+(heard?' on':'')+'" data-act="heard" data-id="'+id+'">✓</button>'+
     '</div>'+
@@ -270,6 +280,8 @@ function cardHTML(r){
       '<a class="strm sp" href="'+spotifyUrl(r)+'" target="_blank" rel="noopener">'+SPOT_SVG+'Spotify</a>'+
       '<a class="strm yt" href="'+ytmUrl(r)+'" target="_blank" rel="noopener">'+YTM_SVG+'YT Music</a>'+
       '<a class="strm td" href="'+tidalUrl(r)+'" target="_blank" rel="noopener">'+TIDAL_SVG+'Tidal</a>'+
+      '<a class="strm am" href="'+amUrl(r)+'" target="_blank" rel="noopener">'+AM_SVG+'Apple</a>'+
+      '<a class="strm bc" href="'+bcUrl(r)+'" target="_blank" rel="noopener">'+BC_SVG+'Bandcamp</a>'+
     '</div>'+
   '</div>';
 }
@@ -328,15 +340,26 @@ function render(){
   m.innerHTML = shown ? html :
     '<div class="empty">Nada encontrado.<br>'+(view!=='all'?'Experimenta o separador "Tudo".':'Ajusta a pesquisa ou os filtros.')+'</div>';
   m.querySelectorAll('.acts button').forEach(b=>b.onclick=e=>{
-    e.preventDefault();const k=b.dataset.act,id=b.dataset.id;const o=store[k];
-    if(o[id])delete o[id];else o[id]=1;store.set(k,o);render();
+    e.preventDefault();const k=b.dataset.act,id=b.dataset.id;
+    if(k==='share'){
+      const card=b.closest('.card');
+      const band=card.querySelector('.band').childNodes[0].nodeValue.trim();
+      const title=card.querySelector('.title').textContent.trim();
+      const url='https://open.spotify.com/search/'+encodeURIComponent(band+' '+title);
+      const data={title:band+' — '+title,text:'Novo lançamento: '+band+' — '+title+' \uD83E\uDD18',url:url};
+      if(navigator.share){navigator.share(data).catch(()=>{});}
+      else if(navigator.clipboard){navigator.clipboard.writeText(data.text+' '+url);toast('Link copiado','ok');}
+      return;
+    }
+    const o=store[k];if(o[id])delete o[id];else o[id]=1;store.set(k,o);render();
   });
   updateBadge();
 }
 function updateBadge(){
   const n=Object.keys(store.fav).length;const bd=document.getElementById('favbadge');
   bd.style.display=n?'flex':'none';bd.textContent=n;
-  document.getElementById('favnote').textContent=n?('❤ '+n+' favorito(s) guardado(s) neste telemóvel'):'';
+  const hh=Object.keys(store.heard).length;
+  document.getElementById('favnote').textContent=(n||hh)?('❤ '+n+' favorito(s) · 🎧 '+hh+' ouvido(s) neste telemóvel'):'';
 }
 
 document.getElementById('seg').querySelectorAll('button').forEach(b=>b.onclick=()=>{
