@@ -10,6 +10,19 @@
 <meta name="apple-mobile-web-app-title" content="Metal Daily">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="icon-180.png">
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+  OneSignalDeferred.push(async function(OneSignal){
+    try{
+      await OneSignal.init({
+        appId: "4d21e493-57f4-45e2-9e89-0855f696e8b2",
+        serviceWorkerPath: "push/OneSignalSDKWorker.js",
+        serviceWorkerParam: { scope: "/metal-daily/push/" }
+      });
+    }catch(e){ console.warn("OneSignal init", e); }
+  });
+</script>
 <title>Metal Daily</title>
 <style>
   :root{
@@ -203,7 +216,8 @@
   <strong>Metal Daily</strong> &middot; dados de <span id="fdate">&mdash;</span><br>
   Fontes: Metal Connect &middot; Loudwire &middot; Invisible Oranges &middot; Metal Storm &middot; Metal Collision &middot; Alterportal<br>
   <span id="favnote"></span><br>
-  <button id="spCfg" style="margin-top:8px;background:none;border:1px solid var(--line);color:var(--muted);font-weight:700;font-size:.72rem;padding:6px 11px;border-radius:999px">⚙ Definições Spotify</button>
+  <button id="notifBtn" style="margin-top:8px;background:none;border:1px solid var(--symph);color:var(--symph);font-weight:700;font-size:.72rem;padding:6px 11px;border-radius:999px">🔔 Ativar notificações</button>
+  <button id="spCfg" style="margin-top:8px;margin-left:6px;background:none;border:1px solid var(--line);color:var(--muted);font-weight:700;font-size:.72rem;padding:6px 11px;border-radius:999px">⚙ Definições Spotify</button>
 </footer>
 
 <button id="plBtn"><svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm4.6 14.4a.62.62 0 0 1-.86.21c-2.35-1.44-5.3-1.76-8.79-.96a.62.62 0 1 1-.28-1.22c3.8-.87 7.07-.5 9.71 1.11.3.18.39.57.22.86Zm1.23-2.74a.78.78 0 0 1-1.07.26c-2.69-1.65-6.79-2.13-9.97-1.16a.78.78 0 1 1-.45-1.49c3.63-1.1 8.15-.56 11.24 1.33.36.22.48.7.25 1.06Zm.11-2.85C14.83 8.96 9.4 8.78 6.3 9.72a.94.94 0 1 1-.54-1.8c3.56-1.08 9.56-.87 13.34 1.37a.94.94 0 0 1-.96 1.61Z\"/></svg>Criar playlist</button>
@@ -552,6 +566,14 @@ document.getElementById('histBack').addEventListener('click',()=>loadSnapshot(''
 document.getElementById('histModal').addEventListener('click',e=>{ if(e.target.id==='histModal') e.currentTarget.classList.remove('show'); });
 document.getElementById('plBtn').addEventListener('click',createPlaylistFlow);
 document.getElementById('spCfg').addEventListener('click',openSpSettings);
+document.getElementById('notifBtn').addEventListener('click',function(){
+  window.OneSignalDeferred=window.OneSignalDeferred||[];
+  OneSignalDeferred.push(async function(OneSignal){
+    try{ await OneSignal.Notifications.requestPermission();
+      toast(OneSignal.Notifications.permission?'Notificações ativadas 🔔':'Permissão não concedida', OneSignal.Notifications.permission?'ok':'');
+    }catch(e){ toast('Não foi possível ativar as notificações',''); }
+  });
+});
 document.getElementById('spModal').addEventListener('click',e=>{ if(e.target.id==='spModal') e.currentTarget.classList.remove('show'); });
 document.getElementById('spClose').addEventListener('click',()=>document.getElementById('spModal').classList.remove('show'));
 document.getElementById('spSave').addEventListener('click',()=>{
