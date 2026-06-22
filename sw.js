@@ -1,5 +1,5 @@
-// Metal Daily — service worker (offline cache + fresh data)
-const CACHE = 'metal-daily-v4';
+// Metal Daily — service worker (network-first no shell + dados frescos)
+const CACHE = 'metal-daily-v5';
 const ASSETS = [
   './', './index.html', './data.json', './manifest.webmanifest',
   './icon-180.png', './icon-192.png', './icon-512.png'
@@ -12,15 +12,20 @@ self.addEventListener('activate', e => {
     Promise.all(keys.filter(k => k !== CACHE).map(k => caches.delete(k)))
   ).then(() => self.clients.claim()));
 });
+// network-first para navegação, index.html e data.json (apanha sempre código/dados novos);
+// cache-first só para ícones e manifest.
 self.addEventListener('fetch', e => {
   const url = new URL(e.request.url);
-  if (url.pathname.endsWith('data.json')) {
+  const isShell = e.request.mode === 'navigate'
+    || url.pathname.endsWith('/') || url.pathname.endsWith('index.html')
+    || url.pathname.endsWith('data.json');
+  if (isShell) {
     e.respondWith(
       fetch(e.request).then(r => {
         const copy = r.clone();
-        caches.open(CACHE).then(c => c.put('./data.json', copy));
+        caches.open(CACHE).then(c => c.put(e.request, copy));
         return r;
-      }).catch(() => caches.match('./data.json'))
+      }).catch(() => caches.match(e.request).then(m => m || caches.match('./index.html')))
     );
   } else {
     e.respondWith(caches.match(e.request).then(r => r || fetch(e.request)));
