@@ -298,7 +298,7 @@ async function openHistory(){
     const r=await fetch('https://api.github.com/repos/'+GH_REPO+'/commits?path=data.json&per_page=60',{cache:'no-store'});
     if(!r.ok) throw new Error(r.status);
     const arr=await r.json(); const seen=new Set();
-    let html='<button class="hitem cur" data-sha="">\u26A1 Mais recente (ao vivo)</button>';
+    let html='<button class="hitem cur" data-sha="">⚡ Mais recente (ao vivo)</button>';
     arr.forEach(c=>{
       let lbl=((c.commit&&c.commit.message)||'').replace(/^.*?(\d{4}-\d{2}-\d{2}).*$/,'$1');
       if(!/^\d{4}-\d{2}-\d{2}$/.test(lbl)) lbl=((c.commit&&c.commit.committer&&c.commit.committer.date)||'').slice(0,10);
@@ -446,7 +446,7 @@ async function createTidalPlaylist(){
   const tk=await tdGetToken(); if(!tk){ startTidalAuth(); return; }
   const items=[].concat(D.recent||[], D.alter||[]);
   if(!items.length){ toast('Sem lançamentos para adicionar',''); return; }
-  toast('\u25C8 A criar playlist no Tidal…','ok');
+  toast('◈ A criar playlist no Tidal…','ok');
   try{
     const dlabel=(D.range||D.generated||'').toString();
     const pl=await tdApi('POST','/playlists',{ data:{ attributes:{ name:'Metal Daily — '+dlabel,
@@ -465,7 +465,7 @@ async function createTidalPlaylist(){
       await tdApi('POST','/playlists/'+pid+'/relationships/items?countryCode='+TD_CC,{ data:chunk });
     }
     const bn=document.getElementById('plBanner'); bn.style.display='flex';
-    document.getElementById('plMsg').textContent='\u2705 Tidal: playlist criada \u00b7 '+ids.length+' faixas'+(miss?(' ('+miss+' n\u00e3o encontradas)'):'');
+    document.getElementById('plMsg').textContent='✅ Tidal: playlist criada · '+ids.length+' faixas'+(miss?(' ('+miss+' não encontradas)'):'');
     const a=document.getElementById('plOpen'); a.textContent='Abrir no Tidal'; a.href='https://tidal.com/playlist/'+pid;
     toast('Playlist Tidal pronta! 🤘','ok');
   }catch(e){ const m=(e&&e.message)||''; if(e&&e.status===401){ localStorage.removeItem('md_tdtok'); startTidalAuth(); return; }
@@ -617,7 +617,7 @@ function render(){
       const band=card.querySelector('.band').childNodes[0].nodeValue.trim();
       const title=card.querySelector('.title').textContent.trim();
       const url='https://open.spotify.com/search/'+encodeURIComponent(band+' '+title);
-      const data={title:band+' — '+title,text:'Novo lançamento: '+band+' — '+title+' \uD83E\uDD18',url:url};
+      const data={title:band+' — '+title,text:'Novo lançamento: '+band+' — '+title+' 🤘',url:url};
       if(navigator.share){navigator.share(data).catch(()=>{});}
       else if(navigator.clipboard){navigator.clipboard.writeText(data.text+' '+url);toast('Link copiado','ok');}
       return;
