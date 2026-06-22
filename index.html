@@ -376,6 +376,9 @@ async function createPlaylistFlow(){
       headers:Object.assign({'Content-Type':'application/json'},H),
       body:JSON.stringify({name:'Metal Daily — '+dlabel,description:'Lançamentos de metal & rock via Metal Daily.',public:true})});
     const pl=await plr.json();
+    if(!plr.ok || !pl.id){ console.warn('SPOTIFY create FAIL', plr.status, JSON.stringify(pl));
+      if(plr.status===401||plr.status===403){ localStorage.removeItem('md_sptok'); toast('A reautenticar no Spotify…','ok'); startSpotifyAuth(); return; }
+      toast('Erro Spotify: '+((pl&&pl.error&&pl.error.message)||('HTTP '+plr.status)),''); return; }
     const uris=[]; let miss=0;
     for(const r of items){
       const q=encodeURIComponent((r.b+' '+(r.t||'').replace(/\(.*?\)/g,'')).trim());
@@ -384,13 +387,16 @@ async function createPlaylistFlow(){
         if(it) uris.push(it.uri); else miss++;
       }catch(e){ miss++; }
     }
+    let added=0;
     for(let i=0;i<uris.length;i+=100){
-      await fetch('https://api.spotify.com/v1/playlists/'+pl.id+'/tracks',{method:'POST',
+      const chunk=uris.slice(i,i+100);
+      const ar=await fetch('https://api.spotify.com/v1/playlists/'+pl.id+'/tracks',{method:'POST',
         headers:Object.assign({'Content-Type':'application/json'},H),
-        body:JSON.stringify({uris:uris.slice(i,i+100)})});
+        body:JSON.stringify({uris:chunk})});
+      if(ar.ok) added+=chunk.length; else console.warn('SPOTIFY add FAIL', ar.status, await ar.text().catch(function(){return'';}));
     }
     const bn=document.getElementById('plBanner'); bn.style.display='flex';
-    document.getElementById('plMsg').textContent='✅ Playlist criada · '+uris.length+' faixas'+(miss?(' ('+miss+' não encontradas)'):'');
+    document.getElementById('plMsg').textContent='✅ Playlist criada · '+added+' faixas'+(miss?(' ('+miss+' não encontradas)'):'');
     document.getElementById('plOpen').href=(pl.external_urls&&pl.external_urls.spotify)||'https://open.spotify.com';
     toast('Playlist pronta! 🤘','ok');
   }catch(e){ toast('Erro ao criar a playlist',''); }
