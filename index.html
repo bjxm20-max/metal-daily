@@ -377,7 +377,8 @@ async function createPlaylistFlow(){
       body:JSON.stringify({name:'Metal Daily — '+dlabel,description:'Lançamentos de metal & rock via Metal Daily.',public:true})});
     const pl=await plr.json();
     if(!plr.ok || !pl.id){ console.warn('SPOTIFY create FAIL', plr.status, JSON.stringify(pl));
-      if(plr.status===401||plr.status===403){ localStorage.removeItem('md_sptok'); toast('A reautenticar no Spotify…','ok'); startSpotifyAuth(); return; }
+      if(plr.status===401){ localStorage.removeItem('md_sptok'); toast('Sessão Spotify expirou — toca outra vez',''); return; }
+      if(plr.status===403){ toast('Spotify 403: adiciona a tua conta em User Management (modo dev) e espera 1-2 min',''); return; }
       toast('Erro Spotify: '+((pl&&pl.error&&pl.error.message)||('HTTP '+plr.status)),''); return; }
     const uris=[]; let miss=0;
     for(const r of items){
