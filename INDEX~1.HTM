@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#0c0d10">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Metal Daily">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-180.png">
+<title>Metal Daily</title>
+<style>
+  :root{
+    --bg:#0c0d10; --bg2:#131419; --card:#181a21; --card2:#1e2129;
+    --text:#e7e9ee; --muted:#9aa0a6; --line:#262932;
+    --death:#e23b3b; --black:#9aa0a6; --doom:#a259d9; --power:#f2d23b;
+    --thrash:#f29a3b; --heavy:#c8ccd4; --symph:#3bd4d4; --core:#4caf50;
+    --rock:#ed6ea7; --folk:#aed63b; --prog:#2fa6a0; --indus:#7c6cf0;
+    --punk:#d94fd0; --grind:#b07a3b; --spotify:#1db954;
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html,body{margin:0;background:var(--bg);color:var(--text);
+    font-family:-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;line-height:1.4;
+    -webkit-font-smoothing:antialiased}
+  body{padding-bottom:84px;overscroll-behavior-y:contain}
+  a{color:inherit;text-decoration:none}
+  #ptr{position:fixed;top:0;left:0;right:0;height:0;overflow:hidden;z-index:40;
+    display:flex;align-items:flex-end;justify-content:center;pointer-events:none;
+    color:var(--muted);font-size:.78rem;font-weight:700;transition:height .15s ease}
+  #ptr .inner{display:flex;align-items:center;gap:8px;padding-bottom:8px}
+  #ptr .spin{width:15px;height:15px;border:2px solid var(--line);border-top-color:var(--symph);
+    border-radius:50%}
+  #ptr.loading .spin{animation:sp .7s linear infinite}
+  @keyframes sp{to{transform:rotate(360deg)}}
+  header{position:sticky;top:0;z-index:30;background:rgba(12,13,16,.94);backdrop-filter:blur(10px);
+    border-bottom:1px solid var(--line);padding:calc(env(safe-area-inset-top) + 12px) 14px 10px}
+  .brand{display:flex;align-items:center;gap:10px}
+  .brand h1{margin:0;font-size:1.25rem;font-weight:900;letter-spacing:.3px;
+    background:linear-gradient(90deg,#e23b3b,#f2d23b,#3bd4d4,#ed6ea7);
+    -webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+  .brand .logo{font-size:1.3rem}
+  .brand .date{margin-left:auto;font-size:.7rem;color:var(--muted);text-align:right;line-height:1.3}
+  .brand .date b{color:var(--symph)}
+  .search{margin-top:10px;position:relative}
+  .search input{width:100%;padding:11px 14px 11px 38px;border-radius:12px;border:1px solid var(--line);
+    background:var(--bg2);color:var(--text);font-size:.95rem;outline:none}
+  .search input:focus{border-color:#3a3f4d}
+  .search .ic{position:absolute;left:12px;top:50%;transform:translateY(-50%);color:var(--muted)}
+  .seg{display:flex;margin:10px 14px 0;background:var(--bg2);border:1px solid var(--line);
+    border-radius:12px;padding:4px;gap:4px}
+  .seg button{flex:1;border:none;background:transparent;color:var(--muted);font-weight:700;
+    font-size:.82rem;padding:9px 4px;border-radius:9px;transition:.12s}
+  .seg button.on{background:var(--card);color:var(--text);box-shadow:0 1px 4px rgba(0,0,0,.4)}
+  .seg button .n{font-size:.66rem;opacity:.7;display:block}
+  .chips{display:flex;gap:8px;overflow-x:auto;padding:10px 14px 4px;-webkit-overflow-scrolling:touch;
+    scrollbar-width:none}
+  .chips::-webkit-scrollbar{display:none}
+  .chip{flex:0 0 auto;font-size:.78rem;font-weight:700;padding:7px 13px;border-radius:999px;
+    border:1.5px solid var(--line);background:var(--card);color:var(--muted);white-space:nowrap;
+    display:flex;align-items:center;gap:6px;transition:.12s}
+  .chip .sw{width:9px;height:9px;border-radius:50%}
+  .chip.on{background:rgba(255,255,255,.07)}
+  main{padding:6px 12px 0}
+  .genre-h{display:flex;align-items:center;gap:9px;margin:20px 4px 10px;font-size:.92rem;
+    font-weight:800;text-transform:uppercase;letter-spacing:.5px}
+  .genre-h .dot{width:11px;height:11px;border-radius:50%}
+  .genre-h .count{font-size:.72rem;color:var(--muted);font-weight:600;text-transform:none}
+  .card{background:linear-gradient(180deg,var(--card),var(--card2));border:1px solid var(--line);
+    border-left-width:5px;border-radius:13px;padding:13px 14px;margin-bottom:11px;position:relative}
+  .card.heard{opacity:.5}
+  .card .band{font-weight:800;font-size:1.04rem;padding-right:58px}
+  .card .title{font-style:italic;color:#d4d7df;font-size:.92rem;margin:2px 0 6px;padding-right:58px}
+  .card .meta{font-size:.78rem;color:var(--muted)}
+  .card .tag{display:inline-block;font-size:.66rem;font-weight:700;padding:2px 8px;border-radius:999px;
+    margin-top:9px;background:rgba(255,255,255,.06)}
+  .card .acts{position:absolute;top:11px;right:11px;display:flex;gap:6px}
+  .card .acts button{width:34px;height:34px;border-radius:10px;border:1px solid var(--line);
+    background:var(--bg2);color:var(--muted);font-size:1rem;display:flex;align-items:center;justify-content:center}
+  .card .acts button.fav.on{color:#ff5a7a;border-color:#ff5a7a}
+  .card .acts button.hd.on{color:var(--symph);border-color:var(--symph)}
+  .card .spot{display:inline-flex;align-items:center;gap:6px;margin-top:11px;font-size:.78rem;
+    font-weight:700;color:#0c0d10;background:var(--spotify);padding:7px 12px;border-radius:999px}
+  .card .spot svg{width:14px;height:14px}
+  .tl-date{display:flex;align-items:center;gap:10px;margin:22px 4px 10px}
+  .tl-date .bub{width:14px;height:14px;border-radius:50%;background:var(--power);
+    border:3px solid var(--bg);box-shadow:0 0 0 2px var(--power);flex:0 0 auto}
+  .tl-date h3{margin:0;font-size:1rem;font-weight:800}
+  .tl-date .lbl{font-size:.72rem;color:var(--muted);font-weight:600}
+  .empty{text-align:center;color:var(--muted);padding:50px 20px;font-size:.9rem}
+  footer{margin-top:28px;padding:18px 16px calc(env(safe-area-inset-bottom) + 18px);
+    border-top:1px solid var(--line);color:var(--muted);font-size:.74rem;text-align:center}
+  .bottombar{position:fixed;bottom:0;left:0;right:0;z-index:30;display:flex;
+    background:rgba(12,13,16,.96);backdrop-filter:blur(10px);border-top:1px solid var(--line);
+    padding:8px 6px calc(env(safe-area-inset-bottom) + 8px)}
+  .bottombar button{flex:1;background:none;border:none;color:var(--muted);font-size:.68rem;
+    font-weight:700;display:flex;flex-direction:column;align-items:center;gap:3px;padding:4px}
+  .bottombar button .bi{font-size:1.15rem}
+  .bottombar button.on{color:var(--text)}
+  .badge{position:absolute;top:-2px;right:24%;background:var(--death);color:#fff;font-size:.6rem;
+    min-width:16px;height:16px;border-radius:8px;display:flex;align-items:center;justify-content:center;padding:0 4px}
+  #toast{position:fixed;left:50%;transform:translateX(-50%) translateY(20px);bottom:92px;z-index:50;
+    background:var(--card2);border:1px solid var(--line);color:var(--text);font-size:.82rem;
+    font-weight:700;padding:10px 16px;border-radius:999px;opacity:0;transition:.25s;pointer-events:none;
+    box-shadow:0 6px 20px rgba(0,0,0,.5)}
+  #toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
+  #toast.ok{border-color:var(--spotify)} #toast.new{border-color:var(--power)}
+</style>
+</head>
+<body>
+
+<div id="ptr"><div class="inner"><span class="spin"></span><span id="ptrtxt">Puxar para atualizar</span></div></div>
+
+<header>
+  <div class="brand">
+    <span class="logo">&#9889;</span>
+    <h1>Metal Daily</h1>
+    <div class="date" id="hdate">a carregar&hellip;</div>
+  </div>
+  <div class="search">
+    <span class="ic">&#128270;</span>
+    <input id="q" type="search" placeholder="Procurar banda, editora, &aacute;lbum&hellip;" autocomplete="off" autocapitalize="off">
+  </div>
+</header>
+
+<div class="seg" id="seg">
+  <button data-sec="recent" class="on">Fontes<span class="n" id="c-recent"></span></button>
+  <button data-sec="alter">Alterportal<span class="n" id="c-alter"></span></button>
+  <button data-sec="future">Future<span class="n" id="c-future"></span></button>
+</div>
+
+<div class="chips" id="chips"></div>
+
+<main id="main"><div class="empty">A carregar releases&hellip;</div></main>
+
+<footer>
+  <strong>Metal Daily</strong> &middot; dados de <span id="fdate">&mdash;</span><br>
+  Fontes: Metal Connect &middot; Loudwire &middot; Invisible Oranges &middot; Metal Storm &middot; Metal Collision &middot; Alterportal<br>
+  <span id="favnote"></span>
+</footer>
+
+<div class="bottombar">
+  <button data-view="all" class="on"><span class="bi">&#128451;&#65039;</span>Tudo</button>
+  <button data-view="fav" style="position:relative"><span class="bi">&#10084;&#65039;</span>Favoritos<span class="badge" id="favbadge" style="display:none">0</span></button>
+  <button data-view="unheard"><span class="bi">&#127911;</span>Por ouvir</button>
+</div>
+
+<div id="toast"></div>
+
+<script>
+const C={death:'--death',black:'--black',doom:'--doom',power:'--power',thrash:'--thrash',
+  heavy:'--heavy',symph:'--symph',core:'--core',rock:'--rock',folk:'--folk',prog:'--prog',
+  indus:'--indus',punk:'--punk',grind:'--grind'};
+const GL={death:'Death',black:'Black',doom:'Doom / Sludge / Stoner',power:'Power',thrash:'Thrash / Speed',
+  heavy:'Heavy',symph:'Symphonic / Viking',core:'Metalcore / Deathcore',rock:'Alt / Hard Rock',
+  folk:'Folk',prog:'Prog / Post / Avant',indus:'Industrial / Darkwave',punk:'Punk / Hardcore',grind:'Grind'};
+const ORDER=['death','black','thrash','doom','heavy','power','symph','folk','prog','core','indus','punk','grind','rock'];
+const cv=g=>'var('+(C[g]||'--line')+')';
+
+let D=null, sec='recent', view='all', query='', activeGenres=new Set();
+const store={
+  get fav(){return JSON.parse(localStorage.getItem('md_fav')||'{}')},
+  get heard(){return JSON.parse(localStorage.getItem('md_heard')||'{}')},
+  set(k,o){localStorage.setItem('md_'+k,JSON.stringify(o))}
+};
+const idOf=r=>(r.b+'|'+r.t).toLowerCase();
+const SPOT_SVG='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm4.6 14.4a.62.62 0 0 1-.86.21c-2.35-1.44-5.3-1.76-8.79-.96a.62.62 0 1 1-.28-1.22c3.8-.87 7.07-.5 9.71 1.11.3.18.39.57.22.86Zm1.23-2.74a.78.78 0 0 1-1.07.26c-2.69-1.65-6.79-2.13-9.97-1.16a.78.78 0 1 1-.45-1.49c3.63-1.1 8.15-.56 11.24 1.33.36.22.48.7.25 1.06Zm.11-2.85C14.83 8.96 9.4 8.78 6.3 9.72a.94.94 0 1 1-.54-1.8c3.56-1.08 9.56-.87 13.34 1.37a.94.94 0 0 1-.96 1.61Z"/></svg>';
+
+function spotifyUrl(r){return 'https://open.spotify.com/search/'+encodeURIComponent(r.b+' '+r.t.replace(/\(.*?\)/g,''))}
+function toast(msg,cls){const t=document.getElementById('toast');t.textContent=msg;t.className='show '+(cls||'');
+  clearTimeout(t._h);t._h=setTimeout(()=>t.className='',2200);}
+function nowHM(){const d=new Date();return ('0'+d.getHours()).slice(-2)+':'+('0'+d.getMinutes()).slice(-2);}
+
+let lastSig=null, loading=false;
+function sig(d){return (d.generated||'')+'|'+((d.recent&&d.recent.length)||0)+'|'+((d.alter&&d.alter.length)||0)+'|'+
+  (d.future||[]).reduce((a,x)=>a+x.items.length,0);}
+
+async function loadData(reason){
+  if(loading) return; loading=true;
+  try{
+    const res=await fetch('data.json?t='+Date.now(),{cache:'no-store'});
+    if(!res.ok) throw new Error(res.status);
+    const fresh=await res.json();
+    const s=sig(fresh);
+    const changed = lastSig && s!==lastSig;
+    D=fresh; lastSig=s;
+    buildChips(); applyCounts(); render();
+    document.getElementById('hdate').innerHTML='Atualizado<br><b>'+nowHM()+'</b>';
+    document.getElementById('fdate').textContent=D.range||D.generated||'';
+    if(reason==='pull'){ toast(changed?'⚡ Novas releases!':'Já estás na versão mais recente', changed?'new':'ok'); }
+    else if(changed){ toast('⚡ Novas releases disponíveis','new'); }
+  }catch(err){
+    if(!D){ document.getElementById('main').innerHTML=
+      '<div class="empty">Sem ligação e sem dados em cache ainda.<br>Liga-te à internet e abre outra vez.</div>'; }
+    if(reason==='pull') toast('Sem ligação — a mostrar o que tens','');
+  }finally{ loading=false; }
+}
+
+function applyCounts(){
+  document.getElementById('c-recent').textContent=D.recent.length;
+  document.getElementById('c-alter').textContent=D.alter.length;
+  document.getElementById('c-future').textContent=D.future.reduce((a,d)=>a+d.items.length,0);
+}
+function buildChips(){
+  const chips=document.getElementById('chips'); if(chips.dataset.built) return;
+  const allItems=[].concat(D.recent,D.alter,D.future.reduce((a,d)=>a.concat(d.items),[]));
+  const presentG=ORDER.filter(g=>allItems.some(r=>r.g===g));
+  chips.innerHTML='';
+  presentG.forEach(g=>{
+    const b=document.createElement('button');b.className='chip';b.dataset.g=g;
+    b.innerHTML='<span class="sw" style="background:'+cv(g)+'"></span>'+GL[g];
+    b.onclick=()=>{activeGenres.has(g)?activeGenres.delete(g):activeGenres.add(g);
+      b.classList.toggle('on');render();};
+    chips.appendChild(b);
+  });
+  chips.dataset.built='1';
+}
+
+function matchFilter(r){
+  if(activeGenres.size && !activeGenres.has(r.g)) return false;
+  if(view==='fav' && !store.fav[idOf(r)]) return false;
+  if(view==='unheard' && store.heard[idOf(r)]) return false;
+  if(query){const s=(r.b+' '+r.t+' '+(r.lbl||'')+' '+(r.d||'')).toLowerCase();
+    if(!s.includes(query)) return false;}
+  return true;
+}
+function cardHTML(r){
+  const id=idOf(r), fav=store.fav[id], heard=store.heard[id];
+  const star=r.star?' ★':'';
+  const subParts=[]; if(r.lbl&&r.lbl!=='—')subParts.push(r.lbl); if(r.date)subParts.push(r.date);
+  const subline=(r.sub?r.sub+' · ':'')+subParts.join(' · ');
+  return '<div class="card'+(heard?' heard':'')+'" style="border-left-color:'+cv(r.g)+'">'+
+    '<div class="acts">'+
+      '<button class="fav'+(fav?' on':'')+'" data-act="fav" data-id="'+id+'">'+(fav?'❤':'♡')+'</button>'+
+      '<button class="hd'+(heard?' on':'')+'" data-act="heard" data-id="'+id+'">✓</button>'+
+    '</div>'+
+    '<div class="band">'+r.b+'<span style="color:var(--power)">'+star+'</span></div>'+
+    '<div class="title">'+r.t+'</div>'+
+    '<div class="meta">'+subline+'<br>'+(r.d||'')+'</div>'+
+    '<span class="tag" style="color:'+cv(r.g)+'">'+(GL[r.g]||r.g)+'</span><br>'+
+    '<a class="spot" href="'+spotifyUrl(r)+'" target="_blank" rel="noopener">'+SPOT_SVG+'Abrir no Spotify</a>'+
+  '</div>';
+}
+function renderGrouped(list){
+  const byG={}; list.forEach(r=>{(byG[r.g]=byG[r.g]||[]).push(r)});
+  let html='';
+  ORDER.forEach(g=>{ if(!byG[g])return;
+    html+='<div class="genre-h"><span class="dot" style="background:'+cv(g)+'"></span>'+
+      '<span style="color:'+cv(g)+'">'+GL[g]+'</span><span class="count">'+byG[g].length+'</span></div>';
+    html+=byG[g].map(cardHTML).join('');
+  });
+  return html;
+}
+function render(){
+  if(!D) return;
+  const m=document.getElementById('main'); let html='', shown=0;
+  if(sec==='future'){
+    D.future.forEach(day=>{
+      const items=day.items.filter(matchFilter); if(!items.length)return; shown+=items.length;
+      html+='<div class="tl-date"><span class="bub"></span><div><h3>'+day.date+'</h3>'+
+        '<div class="lbl">'+day.lbl+'</div></div></div>';
+      html+=items.map(cardHTML).join('');
+    });
+  } else {
+    const list=(sec==='alter'?D.alter:D.recent).filter(matchFilter);
+    shown=list.length; html=renderGrouped(list);
+  }
+  m.innerHTML = shown ? html :
+    '<div class="empty">Nada encontrado.<br>'+(view!=='all'?'Experimenta o separador "Tudo".':'Ajusta a pesquisa ou os filtros.')+'</div>';
+  m.querySelectorAll('.acts button').forEach(b=>b.onclick=e=>{
+    e.preventDefault();const k=b.dataset.act,id=b.dataset.id;const o=store[k];
+    if(o[id])delete o[id];else o[id]=1;store.set(k,o);render();
+  });
+  updateBadge();
+}
+function updateBadge(){
+  const n=Object.keys(store.fav).length;const bd=document.getElementById('favbadge');
+  bd.style.display=n?'flex':'none';bd.textContent=n;
+  document.getElementById('favnote').textContent=n?('❤ '+n+' favorito(s) guardado(s) neste telemóvel'):'';
+}
+
+document.getElementById('seg').querySelectorAll('button').forEach(b=>b.onclick=()=>{
+  sec=b.dataset.sec;document.querySelectorAll('#seg button').forEach(x=>x.classList.toggle('on',x===b));
+  window.scrollTo(0,0);render();
+});
+document.querySelectorAll('.bottombar button').forEach(b=>b.onclick=()=>{
+  view=b.dataset.view;document.querySelectorAll('.bottombar button').forEach(x=>x.classList.toggle('on',x===b));
+  render();
+});
+let qt;document.getElementById('q').addEventListener('input',e=>{
+  clearTimeout(qt);qt=setTimeout(()=>{query=e.target.value.trim().toLowerCase();render();},120);
+});
+
+document.addEventListener('visibilitychange',()=>{ if(document.visibilityState==='visible') loadData('resume'); });
+window.addEventListener('pageshow',e=>{ if(e.persisted) loadData('resume'); });
+window.addEventListener('focus',()=>loadData('resume'));
+
+(function(){
+  const ptr=document.getElementById('ptr'), txt=document.getElementById('ptrtxt');
+  let startY=0, pulling=false, dist=0; const TH=70;
+  window.addEventListener('touchstart',e=>{
+    if(window.scrollY<=0 && !loading){ startY=e.touches[0].clientY; pulling=true; dist=0; }
+  },{passive:true});
+  window.addEventListener('touchmove',e=>{
+    if(!pulling) return;
+    dist=e.touches[0].clientY-startY;
+    if(dist>0){ const h=Math.min(dist*0.5,80); ptr.style.height=h+'px';
+      txt.textContent = h>=TH*0.5 ? 'Larga para atualizar' : 'Puxar para atualizar'; }
+  },{passive:true});
+  window.addEventListener('touchend',async()=>{
+    if(!pulling) return; pulling=false;
+    if(parseFloat(ptr.style.height||'0')>=TH*0.5){
+      ptr.classList.add('loading'); ptr.style.height='44px'; txt.textContent='A atualizar…';
+      await loadData('pull');
+      ptr.classList.remove('loading');
+    }
+    ptr.style.height='0px';
+  });
+})();
+
+loadData('boot');
+if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(()=>{});}
+</script>
+</body>
+</html>
