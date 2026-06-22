@@ -160,6 +160,9 @@
     display:none;align-items:center;gap:7px;background:var(--spotify);color:#08120b;font-weight:800;
     font-size:.84rem;border:none;padding:12px 16px;border-radius:999px;box-shadow:0 6px 18px rgba(0,0,0,.45)}
   #plBtn svg{width:16px;height:16px}
+  #plBtnTd{position:fixed;right:14px;bottom:calc(env(safe-area-inset-bottom) + 134px);z-index:35;
+    display:none;align-items:center;gap:7px;background:#06121a;color:#27e3e3;font-weight:800;
+    font-size:.84rem;border:1px solid #27e3e3;padding:11px 16px;border-radius:999px;box-shadow:0 6px 18px rgba(0,0,0,.45)}
   #plBanner{display:none;align-items:center;gap:10px;background:rgba(29,185,84,.12);
     border:1px solid var(--spotify);color:var(--spotify);font-size:.8rem;font-weight:700;
     padding:9px 13px;border-radius:11px;margin:10px 14px 0}
@@ -222,6 +225,7 @@
   <button id="spCfg" style="margin-top:8px;margin-left:6px;background:none;border:1px solid var(--line);color:var(--muted);font-weight:700;font-size:.72rem;padding:6px 11px;border-radius:999px">⚙ Definições Spotify</button>
 </footer>
 
+<button id="plBtnTd">\u25C8 Criar playlist Tidal</button>
 <button id="plBtn"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm4.6 14.4a.62.62 0 0 1-.86.21c-2.35-1.44-5.3-1.76-8.79-.96a.62.62 0 1 1-.28-1.22c3.8-.87 7.07-.5 9.71 1.11.3.18.39.57.22.86Zm1.23-2.74a.78.78 0 0 1-1.07.26c-2.69-1.65-6.79-2.13-9.97-1.16a.78.78 0 1 1-.45-1.49c3.63-1.1 8.15-.56 11.24 1.33.36.22.48.7.25 1.06Zm.11-2.85C14.83 8.96 9.4 8.78 6.3 9.72a.94.94 0 1 1-.54-1.8c3.56-1.08 9.56-.87 13.34 1.37a.94.94 0 0 1-.96 1.61Z"/></svg>Criar playlist</button>
 
 <div class="bottombar">
@@ -391,6 +395,82 @@ async function createPlaylistFlow(){
     toast('Playlist pronta! 🤘','ok');
   }catch(e){ toast('Erro ao criar a playlist',''); }
 }
+
+/* ---------- Tidal playlist (Authorization Code + PKCE, API v2 JSON:API) ---------- */
+const TD_CLIENT='MhXRWPSHGcyzVoDT';
+const TD_REDIRECT=location.origin+location.pathname;
+const TD_AUTH='https://login.tidal.com/authorize';
+const TD_TOKEN='https://auth.tidal.com/v1/oauth2/token';
+const TD_API='https://openapi.tidal.com/v2';
+const TD_CC='PT';
+async function tdToken(params){ params.client_id=TD_CLIENT;
+  const r=await fetch(TD_TOKEN,{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:new URLSearchParams(params)});
+  const t=await r.text(); if(!r.ok) throw new Error('tdtoken '+r.status+' '+t.slice(0,150));
+  return JSON.parse(t); }
+function tdSaveTok(t){ const prev=JSON.parse(localStorage.getItem('md_tdtok')||'{}');
+  localStorage.setItem('md_tdtok',JSON.stringify({access_token:t.access_token,
+    expires_at:Date.now()+((t.expires_in||86400)-60)*1000, refresh_token:t.refresh_token||prev.refresh_token})); }
+async function tdGetToken(){ const o=JSON.parse(localStorage.getItem('md_tdtok')||'null');
+  if(o&&o.access_token&&o.expires_at>Date.now()) return o.access_token;
+  if(o&&o.refresh_token){ try{ const t=await tdToken({grant_type:'refresh_token',refresh_token:o.refresh_token}); tdSaveTok(t); return t.access_token; }catch(e){} }
+  return null; }
+async function startTidalAuth(){
+  const verifier=randStr(96); localStorage.setItem('md_tdpkce',verifier); localStorage.setItem('md_tdintent','1');
+  const challenge=b64url(await sha256(verifier));
+  const p=new URLSearchParams({client_id:TD_CLIENT,response_type:'code',redirect_uri:TD_REDIRECT,
+    code_challenge_method:'S256',code_challenge:challenge,state:'tpl',
+    scope:'user.read playlists.write playlists.read collection.read'});
+  location.href=TD_AUTH+'?'+p.toString();
+}
+async function handleTidalReturn(){
+  const u=new URL(location.href); const code=u.searchParams.get('code'); const err=u.searchParams.get('error');
+  const verifier=localStorage.getItem('md_tdpkce'); history.replaceState({},'',TD_REDIRECT);
+  if(err){ toast('Login Tidal cancelado',''); return; }
+  if(!code||!verifier) return;
+  try{ const t=await tdToken({grant_type:'authorization_code',code:code,redirect_uri:TD_REDIRECT,code_verifier:verifier});
+    tdSaveTok(t); localStorage.removeItem('md_tdpkce');
+    if(localStorage.getItem('md_tdintent')){ localStorage.removeItem('md_tdintent'); await createTidalPlaylist(); }
+  }catch(e){ console.warn('tidal token',e); toast('Falha no login do Tidal',''); }
+}
+async function tdApi(method,path,body){
+  const tk=await tdGetToken(); if(!tk) throw new Error('no token');
+  const h={'Authorization':'Bearer '+tk,'Accept':'application/vnd.api+json'};
+  if(body) h['Content-Type']='application/vnd.api+json';
+  const r=await fetch(TD_API+path,{method:method,headers:h,body:body?JSON.stringify(body):undefined});
+  const txt=await r.text(); let j=null; try{ j=txt?JSON.parse(txt):null; }catch(e){}
+  if(!r.ok){ const e=new Error('tidal '+r.status+' '+(txt||'').slice(0,160)); e.status=r.status; throw e; }
+  return j;
+}
+async function createTidalPlaylist(){
+  if(!D){ toast('Dados ainda a carregar…',''); return; }
+  const tk=await tdGetToken(); if(!tk){ startTidalAuth(); return; }
+  const items=[].concat(D.recent||[], D.alter||[]);
+  if(!items.length){ toast('Sem lançamentos para adicionar',''); return; }
+  toast('\u25C8 A criar playlist no Tidal…','ok');
+  try{
+    const dlabel=(D.range||D.generated||'').toString();
+    const pl=await tdApi('POST','/playlists',{ data:{ attributes:{ name:'Metal Daily — '+dlabel,
+      description:'Lançamentos de metal & rock via Metal Daily.', privacy:'PRIVATE' }, type:'playlists' } });
+    const pid=pl&&pl.data&&pl.data.id; if(!pid) throw new Error('sem id de playlist');
+    const ids=[]; let miss=0;
+    for(const r of items){
+      const q=encodeURIComponent((r.b+' '+(r.t||'').replace(/\(.*?\)/g,'')).trim());
+      try{ const sr=await tdApi('GET','/searchResults/'+q+'?countryCode='+TD_CC+'&include=tracks');
+        const ref=sr&&sr.data&&sr.data.relationships&&sr.data.relationships.tracks&&sr.data.relationships.tracks.data;
+        if(ref&&ref.length){ ids.push(ref[0].id); } else miss++;
+      }catch(e){ miss++; }
+    }
+    for(let i=0;i<ids.length;i+=20){
+      const chunk=ids.slice(i,i+20).map(function(id){return {id:id,type:'tracks'};});
+      await tdApi('POST','/playlists/'+pid+'/relationships/items?countryCode='+TD_CC,{ data:chunk });
+    }
+    const bn=document.getElementById('plBanner'); bn.style.display='flex';
+    document.getElementById('plMsg').textContent='\u2705 Tidal: playlist criada \u00b7 '+ids.length+' faixas'+(miss?(' ('+miss+' n\u00e3o encontradas)'):'');
+    const a=document.getElementById('plOpen'); a.textContent='Abrir no Tidal'; a.href='https://tidal.com/playlist/'+pid;
+    toast('Playlist Tidal pronta! 🤘','ok');
+  }catch(e){ const m=(e&&e.message)||''; if(e&&e.status===401){ localStorage.removeItem('md_tdtok'); startTidalAuth(); return; }
+    console.warn('tidal create',e); toast('Erro no Tidal: '+m.slice(0,80),''); }
+}
 function sig(d){return (d.generated||'')+'|'+((d.recent&&d.recent.length)||0)+'|'+((d.alter&&d.alter.length)||0)+'|'+
   (d.future||[]).reduce((a,x)=>a+x.items.length,0)+'|'+((d.news&&d.news.length)||0)+'|'+((d.dt&&d.dt.length)||0)+'|'+((d.st&&d.st.length)||0);}
 
@@ -513,6 +593,7 @@ function render(){
   const m=document.getElementById('main'); let html='', shown=0;
   document.getElementById('chips').style.display=(sec==='news'||sec==='dt'||sec==='st')?'none':'flex';
   document.getElementById('plBtn').style.display=(sec==='recent'||sec==='alter')?'inline-flex':'none';
+  document.getElementById('plBtnTd').style.display=(sec==='recent'||sec==='alter')?'inline-flex':'none';
   if(sec==='news'){ m.innerHTML=feedHTML(D.news,'var(--symph)'); updateBadge(); return; }
   if(sec==='dt'){ m.innerHTML=bioCard((D.bios||{}).dt,'var(--prog)')+feedHTML(D.dt,'var(--prog)'); updateBadge(); return; }
   if(sec==='st'){ m.innerHTML=bioCard((D.bios||{}).st,'var(--indus)')+feedHTML(D.st,'var(--indus)'); updateBadge(); return; }
@@ -567,6 +648,7 @@ document.getElementById('hdate').addEventListener('click',openHistory);
 document.getElementById('histBack').addEventListener('click',()=>loadSnapshot(''));
 document.getElementById('histModal').addEventListener('click',e=>{ if(e.target.id==='histModal') e.currentTarget.classList.remove('show'); });
 document.getElementById('plBtn').addEventListener('click',createPlaylistFlow);
+document.getElementById('plBtnTd').addEventListener('click',createTidalPlaylist);
 document.getElementById('spCfg').addEventListener('click',openSpSettings);
 document.getElementById('notifBtn').addEventListener('click',function(){
   window.OneSignalDeferred=window.OneSignalDeferred||[];
@@ -612,7 +694,11 @@ window.addEventListener('focus',()=>loadData('resume'));
   });
 })();
 
-(async function(){ await loadData('boot'); await handleAuthReturn(); })();
+(async function(){ await loadData('boot');
+  var _u=new URL(location.href);
+  if(_u.searchParams.get('code') && _u.searchParams.get('state')==='tpl'){ await handleTidalReturn(); }
+  else { await handleAuthReturn(); }
+})();
 if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(()=>{});}
 </script>
 </body>
