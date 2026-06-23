@@ -378,7 +378,7 @@ async function createPlaylistFlow(){
     const pl=await plr.json();
     if(!plr.ok || !pl.id){ console.warn('SPOTIFY create FAIL', plr.status, JSON.stringify(pl));
       if(plr.status===401){ localStorage.removeItem('md_sptok'); toast('Sessão Spotify expirou — toca outra vez',''); return; }
-      if(plr.status===403){ toast('Spotify 403: adiciona a tua conta em User Management (modo dev) e espera 1-2 min',''); return; }
+      if(plr.status===403){ toast('Spotify bloqueia criação de playlists no modo dev da app — usa o botão Tidal 🔱',''); return; }
       toast('Erro Spotify: '+((pl&&pl.error&&pl.error.message)||('HTTP '+plr.status)),''); return; }
     const uris=[]; let miss=0;
     for(const r of items){
