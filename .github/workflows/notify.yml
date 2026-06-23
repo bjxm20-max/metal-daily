@@ -24,7 +24,7 @@ jobs:
           msg = f"\u26a1 {n} novas releases" + (f" · {rng}" if rng else "") + tip
           payload = {
               "app_id": "4d21e493-57f4-45e2-9e89-0855f696e8b2",
-              "included_segments": ["Subscribed Users"],
+              "included_segments": ["Total Subscriptions"],
               "headings": {"en": "Metal Daily", "pt": "Metal Daily"},
               "contents": {"en": msg, "pt": msg},
               "url": "https://bjxm20-max.github.io/metal-daily/"
