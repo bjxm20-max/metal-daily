@@ -7,7 +7,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="Metal Daily">
+<meta name="apple-mobile-web-app-title" content="Now Playing">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="icon-180.png">
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
@@ -25,7 +25,7 @@
     }catch(e){ console.warn("OneSignal init", e); }
   });
 </script>
-<title>Metal Daily</title>
+<title>Now Playing</title>
 <style>
   :root{
     --bg:#0c0d10; --bg2:#131419; --card:#181a21; --card2:#1e2129;
@@ -34,6 +34,7 @@
     --thrash:#f29a3b; --heavy:#c8ccd4; --symph:#3bd4d4; --core:#4caf50;
     --rock:#ed6ea7; --folk:#aed63b; --prog:#2fa6a0; --indus:#7c6cf0;
     --punk:#d94fd0; --grind:#b07a3b; --spotify:#1db954;
+    --pop:#ff79c6; --indie:#6ee7b7; --hiphop:#f5b14c; --electro:#5ad1ff; --rnb:#c77dff;
   }
   *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
   html,body{margin:0;background:var(--bg);color:var(--text);
@@ -192,7 +193,7 @@
 <header>
   <div class="brand">
     <span class="logo">&#9889;</span>
-    <h1>Metal Daily</h1>
+    <h1>Now Playing</h1>
     <div class="date hist" id="hdate">a carregar&hellip;</div>
   </div>
   <div class="search">
@@ -207,8 +208,10 @@
 <div class="navtabs" id="seg">
   <button data-sec="recent" class="on">Fontes<span class="n" id="c-recent"></span></button>
   <button data-sec="alter">Alterportal<span class="n" id="c-alter"></span></button>
+  <button data-sec="main">Mainstream<span class="n" id="c-main"></span></button>
   <button data-sec="future">Future<span class="n" id="c-future"></span></button>
   <button data-sec="news">Notícias<span class="n" id="c-news"></span></button>
+  <button data-sec="buzz">Buzz<span class="n" id="c-buzz"></span></button>
   <button data-sec="dt">Dream Theater<span class="n" id="c-dt"></span></button>
   <button data-sec="st">Sleep Token<span class="n" id="c-st"></span></button>
 </div>
@@ -218,8 +221,8 @@
 <main id="main"><div class="empty">A carregar releases&hellip;</div></main>
 
 <footer>
-  <strong>Metal Daily</strong> &middot; dados de <span id="fdate">&mdash;</span><br>
-  Fontes: Metal Connect &middot; Loudwire &middot; Invisible Oranges &middot; Metal Storm &middot; Metal Collision &middot; Alterportal<br>
+  <strong>Now Playing</strong> &middot; dados de <span id="fdate">&mdash;</span><br>
+  Fontes: Metal Connect &middot; Loudwire &middot; Alterportal &middot; Billboard &middot; Rolling Stone &middot; Pitchfork &middot; Whiplash<br>
   <span id="favnote"></span><br>
   <button id="notifBtn" style="margin-top:8px;background:none;border:1px solid var(--symph);color:var(--symph);font-weight:700;font-size:.72rem;padding:6px 11px;border-radius:999px">🔔 Ativar notificações</button>
   <button id="spCfg" style="margin-top:8px;margin-left:6px;background:none;border:1px solid var(--line);color:var(--muted);font-weight:700;font-size:.72rem;padding:6px 11px;border-radius:999px">⚙ Definições Spotify</button>
@@ -257,11 +260,14 @@
 <script>
 const C={death:'--death',black:'--black',doom:'--doom',power:'--power',thrash:'--thrash',
   heavy:'--heavy',symph:'--symph',core:'--core',rock:'--rock',folk:'--folk',prog:'--prog',
-  indus:'--indus',punk:'--punk',grind:'--grind'};
+  indus:'--indus',punk:'--punk',grind:'--grind',
+  pop:'--pop',indie:'--indie',hiphop:'--hiphop',electro:'--electro',rnb:'--rnb'};
 const GL={death:'Death',black:'Black',doom:'Doom / Sludge / Stoner',power:'Power',thrash:'Thrash / Speed',
   heavy:'Heavy',symph:'Symphonic / Viking',core:'Metalcore / Deathcore',rock:'Alt / Hard Rock',
-  folk:'Folk',prog:'Prog / Post / Avant',indus:'Industrial / Darkwave',punk:'Punk / Hardcore',grind:'Grind'};
+  folk:'Folk',prog:'Prog / Post / Avant',indus:'Industrial / Darkwave',punk:'Punk / Hardcore',grind:'Grind',
+  pop:'Pop',indie:'Indie / Alternativo',hiphop:'Hip-Hop / R&B',electro:'Eletrónica',rnb:'R&B / Soul'};
 const ORDER=['death','black','thrash','doom','heavy','power','symph','folk','prog','core','indus','punk','grind','rock'];
+const MORDER=['rock','pop','indie','rnb','hiphop','electro'];
 const cv=g=>'var('+(C[g]||'--line')+')';
 
 let D=null, sec='recent', view='all', query='', activeGenres=new Set(JSON.parse(localStorage.getItem('md_genres')||'[]'));
@@ -363,7 +369,7 @@ async function handleAuthReturn(){
 async function createPlaylistFlow(){
   if(!D){ toast('Dados ainda a carregar…',''); return; }
   const tk=await getToken(); if(!tk){ startSpotifyAuth(); return; }
-  const items=[].concat(D.recent||[], D.alter||[]);
+  const items = sec==='main' ? (D.main||[]) : [].concat(D.recent||[], D.alter||[]);
   if(!items.length){ toast('Sem lançamentos para adicionar',''); return; }
   toast('🎧 A criar playlist…','ok');
   const H={'Authorization':'Bearer '+tk};
@@ -373,7 +379,7 @@ async function createPlaylistFlow(){
     const dlabel=(D.range||D.generated||'').toString();
     const plr=await fetch('https://api.spotify.com/v1/users/'+me.id+'/playlists',{method:'POST',
       headers:Object.assign({'Content-Type':'application/json'},H),
-      body:JSON.stringify({name:'Metal Daily — '+dlabel,description:'Lançamentos de metal & rock via Metal Daily.',public:true})});
+      body:JSON.stringify({name:'Now Playing — '+dlabel,description:'Novos lançamentos via Now Playing.',public:true})});
     const pl=await plr.json();
     if(!plr.ok || !pl.id){ console.warn('SPOTIFY create FAIL', plr.status, JSON.stringify(pl));
       if(plr.status===401){ localStorage.removeItem('md_sptok'); toast('Sessão Spotify expirou — toca outra vez',''); return; }
@@ -450,13 +456,13 @@ async function tdApi(method,path,body){
 async function createTidalPlaylist(){
   if(!D){ toast('Dados ainda a carregar…',''); return; }
   const tk=await tdGetToken(); if(!tk){ startTidalAuth(); return; }
-  const items=[].concat(D.recent||[], D.alter||[]);
+  const items = sec==='main' ? (D.main||[]) : [].concat(D.recent||[], D.alter||[]);
   if(!items.length){ toast('Sem lançamentos para adicionar',''); return; }
   toast('◈ A criar playlist no Tidal…','ok');
   try{
     const dlabel=(D.range||D.generated||'').toString();
-    const pl=await tdApi('POST','/playlists',{ data:{ attributes:{ name:'Metal Daily — '+dlabel,
-      description:'Lançamentos de metal & rock via Metal Daily.', privacy:'PRIVATE' }, type:'playlists' } });
+    const pl=await tdApi('POST','/playlists',{ data:{ attributes:{ name:'Now Playing — '+dlabel,
+      description:'Novos lançamentos via Now Playing.', privacy:'PRIVATE' }, type:'playlists' } });
     const pid=pl&&pl.data&&pl.data.id; if(!pid) throw new Error('sem id de playlist');
     const ids=[]; let miss=0;
     for(const r of items){
@@ -478,7 +484,8 @@ async function createTidalPlaylist(){
     console.warn('tidal create',e); toast('Erro no Tidal: '+m.slice(0,80),''); }
 }
 function sig(d){return (d.generated||'')+'|'+((d.recent&&d.recent.length)||0)+'|'+((d.alter&&d.alter.length)||0)+'|'+
-  (d.future||[]).reduce((a,x)=>a+x.items.length,0)+'|'+((d.news&&d.news.length)||0)+'|'+((d.dt&&d.dt.length)||0)+'|'+((d.st&&d.st.length)||0);}
+  ((d.main&&d.main.length)||0)+'|'+(d.future||[]).reduce((a,x)=>a+x.items.length,0)+'|'+((d.news&&d.news.length)||0)+'|'+
+  ((d.buzz&&d.buzz.length)||0)+'|'+((d.dt&&d.dt.length)||0)+'|'+((d.st&&d.st.length)||0);}
 
 async function loadData(reason){
   if(loading) return;
@@ -506,8 +513,10 @@ async function loadData(reason){
 function applyCounts(){
   document.getElementById('c-recent').textContent=D.recent.length;
   document.getElementById('c-alter').textContent=D.alter.length;
+  document.getElementById('c-main').textContent=(D.main||[]).length;
   document.getElementById('c-future').textContent=D.future.reduce((a,d)=>a+d.items.length,0);
   document.getElementById('c-news').textContent=(D.news||[]).length;
+  document.getElementById('c-buzz').textContent=(D.buzz||[]).length;
   document.getElementById('c-dt').textContent=(D.dt||[]).length;
   document.getElementById('c-st').textContent=(D.st||[]).length;
 }
@@ -529,7 +538,7 @@ function buildChips(){
 }
 
 function matchFilter(r){
-  if(activeGenres.size && !activeGenres.has(r.g)) return false;
+  if(sec!=='main' && activeGenres.size && !activeGenres.has(r.g)) return false;
   if(view==='fav' && !store.fav[idOf(r)]) return false;
   if(view==='unheard' && store.heard[idOf(r)]) return false;
   if(query){const s=(r.b+' '+r.t+' '+(r.lbl||'')+' '+(r.d||'')).toLowerCase();
@@ -560,10 +569,11 @@ function cardHTML(r){
     '</div>'+
   '</div>';
 }
-function renderGrouped(list){
+function renderGrouped(list, order){
+  order=order||ORDER;
   const byG={}; list.forEach(r=>{(byG[r.g]=byG[r.g]||[]).push(r)});
   let html='';
-  ORDER.forEach(g=>{ if(!byG[g])return;
+  order.forEach(g=>{ if(!byG[g])return;
     html+='<div class="genre-h"><span class="dot" style="background:'+cv(g)+'"></span>'+
       '<span style="color:'+cv(g)+'">'+GL[g]+'</span><span class="count">'+byG[g].length+'</span></div>';
     html+=byG[g].map(cardHTML).join('');
@@ -597,9 +607,10 @@ function feedHTML(list, accent){
 function render(){
   if(!D) return;
   const m=document.getElementById('main'); let html='', shown=0;
-  document.getElementById('chips').style.display=(sec==='news'||sec==='dt'||sec==='st')?'none':'flex';
-  document.getElementById('plBtnTd').style.display=(sec==='recent'||sec==='alter')?'inline-flex':'none';
+  document.getElementById('chips').style.display=(sec==='news'||sec==='buzz'||sec==='dt'||sec==='st'||sec==='main')?'none':'flex';
+  document.getElementById('plBtnTd').style.display=(sec==='recent'||sec==='alter'||sec==='main')?'inline-flex':'none';
   if(sec==='news'){ m.innerHTML=feedHTML(D.news,'var(--symph)'); updateBadge(); return; }
+  if(sec==='buzz'){ m.innerHTML=feedHTML(D.buzz,'var(--pop)'); updateBadge(); return; }
   if(sec==='dt'){ m.innerHTML=bioCard((D.bios||{}).dt,'var(--prog)')+feedHTML(D.dt,'var(--prog)'); updateBadge(); return; }
   if(sec==='st'){ m.innerHTML=bioCard((D.bios||{}).st,'var(--indus)')+feedHTML(D.st,'var(--indus)'); updateBadge(); return; }
   if(sec==='future'){
@@ -610,8 +621,9 @@ function render(){
       html+=items.map(cardHTML).join('');
     });
   } else {
-    const list=(sec==='alter'?D.alter:D.recent).filter(matchFilter);
-    shown=list.length; html=renderGrouped(list);
+    const src=(sec==='alter'?D.alter:(sec==='main'?(D.main||[]):D.recent));
+    const list=src.filter(matchFilter);
+    shown=list.length; html=renderGrouped(list, sec==='main'?MORDER:ORDER);
   }
   m.innerHTML = shown ? html :
     '<div class="empty">Nada encontrado.<br>'+(view!=='all'?'Experimenta o separador "Tudo".':'Ajusta a pesquisa ou os filtros.')+'</div>';
