@@ -1,0 +1,46 @@
+name: Push notify (OneSignal)
+
+on:
+  push:
+    branches: [ main ]
+    paths: [ 'data.json' ]
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build payload from data.json
+        run: |
+          python3 - <<'PY'
+          import json
+          d = json.load(open('data.json'))
+          rng = d.get('range') or d.get('generated') or ''
+          n = len(d.get('recent', [])) + len(d.get('alter', []))
+          stars = [x for x in (d.get('recent', []) + d.get('alter', [])) if x.get('star')]
+          tip = f" · destaque: {stars[0].get('b','')}" if stars else ''
+          msg = f"\u26a1 {n} novas releases" + (f" · {rng}" if rng else "") + tip
+          payload = {
+              "app_id": "4d21e493-57f4-45e2-9e89-0855f696e8b2",
+              "included_segments": ["Subscribed Users"],
+              "headings": {"en": "Metal Daily", "pt": "Metal Daily"},
+              "contents": {"en": msg, "pt": msg},
+              "url": "https://bjxm20-max.github.io/metal-daily/"
+          }
+          open('payload.json', 'w').write(json.dumps(payload, ensure_ascii=False))
+          print("payload:", msg)
+          PY
+
+      - name: Send to OneSignal
+        env:
+          ONESIGNAL_REST_KEY: ${{ secrets.ONESIGNAL_REST_KEY }}
+        run: |
+          if [ -z "$ONESIGNAL_REST_KEY" ]; then echo "::error::Falta o secret"; exit 1; fi
+          code=$(curl -s -o resp.json -w "%{http_code}" -X POST 'https://api.onesignal.com/notifications' \
+            -H "Authorization: Key $ONESIGNAL_REST_KEY" \
+            -H 'Content-Type: application/json; charset=utf-8' \
+            --data @payload.json)
+          echo "HTTP $code"; cat resp.json; echo ""
+          if [ "$code" -ge 400 ]; then echo "::error::OneSignal devolveu $code"; exit 1; fi
