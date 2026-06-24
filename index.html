@@ -110,6 +110,7 @@
   .card .strm.td{color:#27e3e3;background:#06141c;border-color:#0d3b45}
   .card .strm.am{color:#fff;background:#fa233b;border-color:#fa233b}
   .card .strm.bc{color:#031a22;background:#1da0c3;border-color:#1da0c3}
+  .card .strm.qz{color:#fff;background:#1454c8;border-color:#1454c8}
   .tl-date{display:flex;align-items:center;gap:10px;margin:22px 4px 10px}
   .tl-date .bub{width:14px;height:14px;border-radius:50%;background:var(--power);
     border:3px solid var(--bg);box-shadow:0 0 0 2px var(--power);flex:0 0 auto}
@@ -285,10 +286,12 @@ function ytmUrl(r){return 'https://music.youtube.com/search?q='+strmQ(r)}
 function tidalUrl(r){return 'https://tidal.com/search?q='+strmQ(r)}
 function amUrl(r){return 'https://music.apple.com/search?term='+strmQ(r)}
 function bcUrl(r){return 'https://bandcamp.com/search?q='+strmQ(r)}
+function qobuzUrl(r){return 'https://www.qobuz.com/search?q='+strmQ(r)}
 const AM_SVG='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M16 3.5 8.6 5.1c-.5.1-.8.5-.8 1v8.7a2.7 2.7 0 1 0 1.4 2.4V9l5.6-1.2v5.2a2.7 2.7 0 1 0 1.4 2.4V4.5c0-.7-.6-1.1-1.2-1Z"/></svg>';
 const BC_SVG='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 7h14l-4 10H-1 z M16 7h5l-4 10h-5z" transform="translate(1 0)"/></svg>';
 const YTM_SVG='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm0 1.5a8.5 8.5 0 1 1 0 17 8.5 8.5 0 0 1 0-17ZM9.8 8.2v7.6l6.4-3.8-6.4-3.8Z"/></svg>';
 const TIDAL_SVG='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M5.33 6 8 8.67 5.33 11.33 2.67 8.67 5.33 6Zm5.34 0L13.33 8.67 10.67 11.33 8 8.67 10.67 6Zm5.33 0L18.67 8.67 16 11.33 13.33 8.67 16 6Zm-5.33 5.33L13.33 14 10.67 16.67 8 14l2.67-2.67Z"/></svg>';
+const QOB_SVG='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 1 0 5.6 18.27l1.7 1.7 1.4-1.4-1.7-1.7A10 10 0 0 0 12 2Zm0 2a8 8 0 1 1 0 16 8 8 0 0 1 0-16Z"/></svg>';
 function toast(msg,cls){const t=document.getElementById('toast');t.textContent=msg;t.className='show '+(cls||'');
   clearTimeout(t._h);t._h=setTimeout(()=>t.className='',2200);}
 function nowHM(){const d=new Date();return ('0'+d.getHours()).slice(-2)+':'+('0'+d.getMinutes()).slice(-2);}
@@ -566,6 +569,7 @@ function cardHTML(r){
       '<a class="strm td" href="'+tidalUrl(r)+'" target="_blank" rel="noopener">'+TIDAL_SVG+'Tidal</a>'+
       '<a class="strm am" href="'+amUrl(r)+'" target="_blank" rel="noopener">'+AM_SVG+'Apple</a>'+
       '<a class="strm bc" href="'+bcUrl(r)+'" target="_blank" rel="noopener">'+BC_SVG+'Bandcamp</a>'+
+      '<a class="strm qz" href="'+qobuzUrl(r)+'" target="_blank" rel="noopener">'+QOB_SVG+'Qobuz</a>'+
     '</div>'+
   '</div>';
 }
