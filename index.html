@@ -444,7 +444,7 @@ function reviewCard(r){
 }
 function renderReviews(){
   const list=(D.rev||[]); if(!list.length) return '<div class="empty">Sem reviews nesta edição.<br>Volta amanhã para novas críticas.</div>';
-  const met=list.filter(r=>r.cat==='metal'); const ger=list.filter(r=>r.cat!=='metal');
+  const met=sortFeed(list.filter(r=>r.cat==='metal')); const ger=sortFeed(list.filter(r=>r.cat!=='metal'));
   let html='';
   if(met.length){ html+='<div class="genre-h"><span class="dot" style="background:var(--death)"></span><span style="color:var(--death)">Metal</span><span class="count">'+met.length+'</span></div>'+met.map(reviewCard).join(''); }
   if(ger.length){ html+='<div class="genre-h"><span class="dot" style="background:var(--pop)"></span><span style="color:var(--pop)">Geral</span><span class="count">'+ger.length+'</span></div>'+ger.map(reviewCard).join(''); }
@@ -900,9 +900,13 @@ function bioCard(b, accent){
     (tri?'<div class="blabel" style="color:'+accent+'">Sabias que?</div><ul class="btriv">'+tri+'</ul>':'')+
   '</div>';
 }
+const _MO={jan:1,fev:2,feb:2,mar:3,abr:4,apr:4,mai:5,may:5,jun:6,jul:7,ago:8,aug:8,set:9,sep:9,out:10,oct:10,nov:11,dez:12,dec:12};
+function dkey(d){ d=(d||'').toLowerCase(); const mm=d.match(/([a-zç]{3})/); if(!mm||!_MO[mm[1]]) return -1; const dd=d.match(/(\d{1,2})/); return _MO[mm[1]]*100+(dd?parseInt(dd[1],10):0); }
+function sortFeed(list){ return (list||[]).slice().sort((a,b)=>dkey(b.date)-dkey(a.date)); }
 function feedHTML(list, accent){
   list=(list||[]);
   if(query) list=list.filter(n=>((n.title+' '+(n.src||'')+' '+(n.d||'')).toLowerCase().includes(query)));
+  list=sortFeed(list);
   if(!list.length) return '<div class="empty">Nada por aqui ainda.</div>';
   return list.map(n=>{ const col=accent; const star=n.star?' ★':'';
     return '<div class="card" style="border-left-color:'+col+'">'+
