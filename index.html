@@ -76,7 +76,7 @@
   #home{padding:8px 12px 0;display:none}
   .hometitle{font-size:.76rem;font-weight:800;color:var(--muted);text-transform:uppercase;
     letter-spacing:.6px;margin:6px 6px 12px}
-  .foldergrid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .foldergrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(165px,1fr));gap:12px}
   .folder{position:relative;display:flex;flex-direction:column;align-items:flex-start;gap:2px;
     text-align:left;background:linear-gradient(180deg,var(--card),var(--card2));
     border:1px solid var(--line);border-left:5px solid var(--fc,var(--line));border-radius:15px;
@@ -215,6 +215,20 @@
   #spSave{background:var(--spotify);color:#08120b}
   #spClose{background:var(--card);color:var(--text);border:1px solid var(--line)!important}
   #spModal ol{margin:6px 0 12px;padding-left:18px} #spModal ol li{font-size:.8rem;margin-bottom:6px;color:var(--text)}
+  /* ---- ecrãs grandes: Android grande / tablet / landscape / foldable ---- */
+  @media(min-width:640px){
+    header .brand, header .search, #secbar, #home, .chips, main, footer{
+      max-width:1000px;margin-left:auto;margin-right:auto;width:100%}
+    main{display:grid;grid-template-columns:1fr 1fr;gap:13px;align-items:start}
+    main>.card{margin-bottom:0}
+    .genre-h,.tl-date,.empty,.card.biocard{grid-column:1/-1}
+    .bottombar{justify-content:center;gap:12px}
+    .bottombar button{flex:0 1 175px}
+  }
+  @media(min-width:1000px){
+    main{grid-template-columns:1fr 1fr 1fr}
+    header .brand, header .search, #secbar, #home, .chips, main, footer{max-width:1140px}
+  }
 </style>
 </head>
 <body>
@@ -564,7 +578,7 @@ function setChrome(){
   const home=route==='home';
   const rel=(sec==='recent'||sec==='alter'||sec==='main'||sec==='future');
   document.getElementById('home').style.display=home?'block':'none';
-  document.getElementById('main').style.display=home?'none':'block';
+  document.getElementById('main').style.display=home?'none':'';
   document.getElementById('secbar').style.display=home?'none':'flex';
   document.querySelector('.search').style.display=home?'none':'block';
   document.querySelector('.bottombar').style.display=(!home&&rel)?'flex':'none';
