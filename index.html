@@ -71,9 +71,39 @@
     font-weight:800;font-size:.82rem;padding:9px 15px;border-radius:999px;transition:.12s;white-space:nowrap}
   .navtabs button.on{background:var(--card);color:var(--text);border-color:#3a3f4d}
   .navtabs button .n{font-size:.64rem;opacity:.6;margin-left:4px}
-  .chips{display:flex;gap:8px;overflow-x:auto;padding:10px 14px 4px;-webkit-overflow-scrolling:touch;
-    scrollbar-width:none}
-  .chips::-webkit-scrollbar{display:none}
+  .chips{display:flex;flex-wrap:wrap;gap:8px;padding:10px 14px 4px}
+  /* ---- ecrã inicial de pastas ---- */
+  #home{padding:8px 12px 0;display:none}
+  .hometitle{font-size:.76rem;font-weight:800;color:var(--muted);text-transform:uppercase;
+    letter-spacing:.6px;margin:6px 6px 12px}
+  .foldergrid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .folder{position:relative;display:flex;flex-direction:column;align-items:flex-start;gap:2px;
+    text-align:left;background:linear-gradient(180deg,var(--card),var(--card2));
+    border:1px solid var(--line);border-left:5px solid var(--fc,var(--line));border-radius:15px;
+    padding:15px 14px 14px;min-height:108px;color:var(--text);transition:transform .08s}
+  .folder:active{transform:scale(.97)}
+  .folder .fic{font-size:1.75rem;line-height:1}
+  .folder .ft{font-weight:900;font-size:1.02rem;margin-top:9px;line-height:1.15}
+  .folder .fsub{font-size:.73rem;color:var(--muted);font-weight:600}
+  .folder .fcount{position:absolute;top:12px;right:12px;min-width:24px;height:24px;padding:0 7px;
+    border-radius:999px;background:var(--fc,var(--line));color:#0c0d10;font-weight:900;font-size:.8rem;
+    display:flex;align-items:center;justify-content:center}
+  /* ---- barra da secção ---- */
+  #secbar{display:none;align-items:center;gap:10px;padding:12px 14px 2px}
+  #backBtn{background:var(--bg2);border:1px solid var(--line);color:var(--text);font-weight:800;
+    font-size:.86rem;padding:8px 14px;border-radius:999px}
+  #backBtn:active{background:var(--card)}
+  #secTitle{font-weight:900;font-size:1.06rem}
+  .brand h1{cursor:pointer}
+  /* ---- cartão que abre ao toque ---- */
+  .card .chead{cursor:pointer}
+  .card .cmetarow{display:flex;align-items:center;gap:8px;margin-top:9px}
+  .card .cmeta-min{font-size:.74rem;color:var(--muted);flex:1;min-width:0;overflow:hidden;
+    text-overflow:ellipsis;white-space:nowrap}
+  .card .chev{color:var(--muted);font-size:.8rem;transition:transform .18s;flex:0 0 auto}
+  .card.open .chev{transform:rotate(180deg)}
+  .card .cbody{display:none;margin-top:11px}
+  .card.open .cbody{display:block}
   .chip{flex:0 0 auto;font-size:.78rem;font-weight:700;padding:7px 13px;border-radius:999px;
     border:1.5px solid var(--line);background:var(--card);color:var(--muted);white-space:nowrap;
     display:flex;align-items:center;gap:6px;transition:.12s}
@@ -206,20 +236,13 @@
 <div id="histBanner">🕑 A ver o histórico de <b id="histLbl" style="margin:0 4px">—</b><button id="histBack">Voltar ao mais recente</button></div>
 <div id="plBanner"><span id="plMsg">Playlist criada</span><a id="plOpen" href="#" target="_blank" rel="noopener">Abrir no Spotify</a></div>
 
-<div class="navtabs" id="seg">
-  <button data-sec="recent" class="on">Fontes<span class="n" id="c-recent"></span></button>
-  <button data-sec="alter">Alterportal<span class="n" id="c-alter"></span></button>
-  <button data-sec="main">Mainstream<span class="n" id="c-main"></span></button>
-  <button data-sec="future">Future<span class="n" id="c-future"></span></button>
-  <button data-sec="news">Notícias<span class="n" id="c-news"></span></button>
-  <button data-sec="buzz">Buzz<span class="n" id="c-buzz"></span></button>
-  <button data-sec="dt">Dream Theater<span class="n" id="c-dt"></span></button>
-  <button data-sec="st">Sleep Token<span class="n" id="c-st"></span></button>
-</div>
+<div id="secbar"><button id="backBtn">&lsaquo; Pastas</button><span id="secTitle"></span></div>
+
+<div id="home"><div class="empty">A carregar&hellip;</div></div>
 
 <div class="chips" id="chips"></div>
 
-<main id="main"><div class="empty">A carregar releases&hellip;</div></main>
+<main id="main"></main>
 
 <footer>
   <strong>Now Playing</strong> &middot; dados de <span id="fdate">&mdash;</span><br>
@@ -271,7 +294,7 @@ const ORDER=['death','black','thrash','doom','heavy','power','symph','folk','pro
 const MORDER=['rock','pop','indie','rnb','hiphop','electro'];
 const cv=g=>'var('+(C[g]||'--line')+')';
 
-let D=null, sec='recent', view='all', query='', activeGenres=new Set(JSON.parse(localStorage.getItem('md_genres')||'[]'));
+let D=null, sec='recent', route='home', view='all', query='', activeGenres=new Set(JSON.parse(localStorage.getItem('md_genres')||'[]'));
 const store={
   get fav(){return JSON.parse(localStorage.getItem('md_fav')||'{}')},
   get heard(){return JSON.parse(localStorage.getItem('md_heard')||'{}')},
@@ -327,7 +350,7 @@ async function loadSnapshot(sha,lbl){
     document.getElementById('histBanner').style.display='flex';
     document.getElementById('histLbl').textContent=lbl||j.range||j.generated||'';
     document.getElementById('chips').dataset.built='';
-    buildChips(); applyCounts(); render(); window.scrollTo(0,0);
+    buildChips(); paint(); applyCounts(); window.scrollTo(0,0);
   }catch(e){ toast('Falha ao abrir esse dia',''); }
 }
 
@@ -501,7 +524,7 @@ async function loadData(reason){
     const s=sig(fresh);
     const changed = lastSig && s!==lastSig;
     D=fresh; lastSig=s;
-    buildChips(); applyCounts(); render();
+    buildChips(); paint(); applyCounts();
     document.getElementById('hdate').innerHTML='Atualizado <u>'+nowHM()+'</u><br><span style="opacity:.7">🕑 ver histórico</span>';
     document.getElementById('fdate').textContent=D.range||D.generated||'';
     if(reason==='pull'){ toast(changed?'⚡ Novas releases!':'Já estás na versão mais recente', changed?'new':'ok'); }
@@ -513,15 +536,53 @@ async function loadData(reason){
   }finally{ loading=false; }
 }
 
+/* ---------- Navegação por pastas ---------- */
+const FOLDERS=[
+  {s:'recent', ic:'⚡', t:'Lançamentos', sub:'Fontes', col:'--death'},
+  {s:'alter',  ic:'🌐', t:'Alterportal', sub:'Singles & EPs', col:'--symph'},
+  {s:'main',   ic:'🎵', t:'Mainstream', sub:'Pop / Rock', col:'--pop'},
+  {s:'future', ic:'📅', t:'Future', sub:'A chegar', col:'--power'},
+  {s:'news',   ic:'📰', t:'Notícias', sub:'Metal / Rock', col:'--symph'},
+  {s:'buzz',   ic:'✨', t:'Buzz', sub:'Música geral', col:'--indus'},
+  {s:'dt',     ic:'🎹', t:'Dream Theater', sub:'Banda', col:'--prog'},
+  {s:'st',     ic:'🎭', t:'Sleep Token', sub:'Banda', col:'--rnb'}
+];
+function countOf(s){ if(!D) return 0;
+  if(s==='future') return (D.future||[]).reduce((a,d)=>a+d.items.length,0);
+  return (D[s]||[]).length; }
+function renderHome(){
+  const h=document.getElementById('home');
+  if(!D){ h.innerHTML='<div class="empty">A carregar&hellip;</div>'; return; }
+  h.innerHTML='<div class="hometitle">Escolhe uma pasta</div><div class="foldergrid">'+
+    FOLDERS.map(f=>'<button class="folder" data-s="'+f.s+'" style="--fc:var('+f.col+')">'+
+      '<span class="fcount">'+countOf(f.s)+'</span>'+
+      '<span class="fic">'+f.ic+'</span>'+
+      '<span class="ft">'+f.t+'</span>'+
+      '<span class="fsub">'+f.sub+'</span></button>').join('')+'</div>';
+  h.querySelectorAll('.folder').forEach(b=>b.onclick=()=>openSection(b.dataset.s));
+}
+function setChrome(){
+  const home=route==='home';
+  const rel=(sec==='recent'||sec==='alter'||sec==='main'||sec==='future');
+  document.getElementById('home').style.display=home?'block':'none';
+  document.getElementById('main').style.display=home?'none':'block';
+  document.getElementById('secbar').style.display=home?'none':'flex';
+  document.querySelector('.search').style.display=home?'none':'block';
+  document.querySelector('.bottombar').style.display=(!home&&rel)?'flex':'none';
+  document.getElementById('chips').style.display=
+    (!home&&(sec==='recent'||sec==='alter'||sec==='future'))?'flex':'none';
+  document.getElementById('plBtnTd').style.display=
+    (!home&&(sec==='recent'||sec==='alter'||sec==='main'))?'inline-flex':'none';
+}
+function openSection(s){ sec=s; route='section'; query=''; const q=document.getElementById('q'); if(q) q.value='';
+  const f=FOLDERS.find(x=>x.s===s)||{}; document.getElementById('secTitle').textContent=f.t||s;
+  setChrome(); window.scrollTo(0,0); render(); }
+function goHome(){ route='home'; setChrome(); renderHome(); window.scrollTo(0,0); }
+function paint(){ setChrome(); route==='home'?renderHome():render(); }
 function applyCounts(){
-  document.getElementById('c-recent').textContent=D.recent.length;
-  document.getElementById('c-alter').textContent=D.alter.length;
-  document.getElementById('c-main').textContent=(D.main||[]).length;
-  document.getElementById('c-future').textContent=D.future.reduce((a,d)=>a+d.items.length,0);
-  document.getElementById('c-news').textContent=(D.news||[]).length;
-  document.getElementById('c-buzz').textContent=(D.buzz||[]).length;
-  document.getElementById('c-dt').textContent=(D.dt||[]).length;
-  document.getElementById('c-st').textContent=(D.st||[]).length;
+  document.querySelectorAll('.folder .fcount').forEach(el=>{
+    const s=el.closest('.folder').dataset.s; el.textContent=countOf(s);
+  });
 }
 function buildChips(){
   const chips=document.getElementById('chips'); if(chips.dataset.built) return;
@@ -553,23 +614,32 @@ function cardHTML(r){
   const star=r.star?' ★':'';
   const subParts=[]; if(r.lbl&&r.lbl!=='—')subParts.push(r.lbl); if(r.date)subParts.push(r.date);
   const subline=(r.sub?r.sub+' · ':'')+subParts.join(' · ');
-  return '<div class="card'+(heard?' heard':'')+'" style="border-left-color:'+cv(r.g)+'">'+
+  const open=(query||view!=='all'); // já filtrado → mostra aberto
+  return '<div class="card'+(heard?' heard':'')+(open?' open':'')+'" style="border-left-color:'+cv(r.g)+'">'+
     '<div class="acts">'+
       '<button class="sh" data-act="share" data-id="'+id+'">↗</button>'+
       '<button class="fav'+(fav?' on':'')+'" data-act="fav" data-id="'+id+'">'+(fav?'❤':'♡')+'</button>'+
       '<button class="hd'+(heard?' on':'')+'" data-act="heard" data-id="'+id+'">✓</button>'+
     '</div>'+
-    '<div class="band">'+r.b+'<span style="color:var(--power)">'+star+'</span></div>'+
-    '<div class="title">'+r.t+'</div>'+
-    '<div class="meta">'+subline+'<br>'+(r.d||'')+'</div>'+
-    '<span class="tag" style="color:'+cv(r.g)+'">'+(GL[r.g]||r.g)+'</span><br>'+
-    '<div class="streams">'+
-      '<a class="strm sp" href="'+spotifyUrl(r)+'" target="_blank" rel="noopener">'+SPOT_SVG+'Spotify</a>'+
-      '<a class="strm yt" href="'+ytmUrl(r)+'" target="_blank" rel="noopener">'+YTM_SVG+'YT Music</a>'+
-      '<a class="strm td" href="'+tidalUrl(r)+'" target="_blank" rel="noopener">'+TIDAL_SVG+'Tidal</a>'+
-      '<a class="strm am" href="'+amUrl(r)+'" target="_blank" rel="noopener">'+AM_SVG+'Apple</a>'+
-      '<a class="strm bc" href="'+bcUrl(r)+'" target="_blank" rel="noopener">'+BC_SVG+'Bandcamp</a>'+
-      '<a class="strm qz" href="'+qobuzUrl(r)+'" target="_blank" rel="noopener">'+QOB_SVG+'Qobuz</a>'+
+    '<div class="chead">'+
+      '<div class="band">'+r.b+'<span style="color:var(--power)">'+star+'</span></div>'+
+      '<div class="title">'+r.t+'</div>'+
+      '<div class="cmetarow">'+
+        '<span class="tag" style="color:'+cv(r.g)+'">'+(GL[r.g]||r.g)+'</span>'+
+        '<span class="cmeta-min">'+subline+'</span>'+
+        '<span class="chev">▾</span>'+
+      '</div>'+
+    '</div>'+
+    '<div class="cbody">'+
+      (r.d?'<div class="meta" style="margin-bottom:4px">'+r.d+'</div>':'')+
+      '<div class="streams">'+
+        '<a class="strm sp" href="'+spotifyUrl(r)+'" target="_blank" rel="noopener">'+SPOT_SVG+'Spotify</a>'+
+        '<a class="strm yt" href="'+ytmUrl(r)+'" target="_blank" rel="noopener">'+YTM_SVG+'YT Music</a>'+
+        '<a class="strm td" href="'+tidalUrl(r)+'" target="_blank" rel="noopener">'+TIDAL_SVG+'Tidal</a>'+
+        '<a class="strm am" href="'+amUrl(r)+'" target="_blank" rel="noopener">'+AM_SVG+'Apple</a>'+
+        '<a class="strm bc" href="'+bcUrl(r)+'" target="_blank" rel="noopener">'+BC_SVG+'Bandcamp</a>'+
+        '<a class="strm qz" href="'+qobuzUrl(r)+'" target="_blank" rel="noopener">'+QOB_SVG+'Qobuz</a>'+
+      '</div>'+
     '</div>'+
   '</div>';
 }
@@ -631,6 +701,7 @@ function render(){
   }
   m.innerHTML = shown ? html :
     '<div class="empty">Nada encontrado.<br>'+(view!=='all'?'Experimenta o separador "Tudo".':'Ajusta a pesquisa ou os filtros.')+'</div>';
+  m.querySelectorAll('.card .chead').forEach(h=>h.onclick=()=>h.closest('.card').classList.toggle('open'));
   m.querySelectorAll('.acts button').forEach(b=>b.onclick=e=>{
     e.preventDefault();const k=b.dataset.act,id=b.dataset.id;
     if(k==='share'){
@@ -648,78 +719,4 @@ function render(){
   updateBadge();
 }
 function updateBadge(){
-  const n=Object.keys(store.fav).length;const bd=document.getElementById('favbadge');
-  bd.style.display=n?'flex':'none';bd.textContent=n;
-  const hh=Object.keys(store.heard).length;
-  document.getElementById('favnote').textContent=(n||hh)?('❤ '+n+' favorito(s) · 🎧 '+hh+' ouvido(s) neste telemóvel'):'';
-}
-
-document.getElementById('seg').querySelectorAll('button').forEach(b=>b.onclick=()=>{
-  sec=b.dataset.sec;document.querySelectorAll('#seg button').forEach(x=>x.classList.toggle('on',x===b));
-  window.scrollTo(0,0);render();
-});
-document.querySelectorAll('.bottombar button').forEach(b=>b.onclick=()=>{
-  view=b.dataset.view;document.querySelectorAll('.bottombar button').forEach(x=>x.classList.toggle('on',x===b));
-  render();
-});
-let qt;document.getElementById('q').addEventListener('input',e=>{
-  clearTimeout(qt);qt=setTimeout(()=>{query=e.target.value.trim().toLowerCase();render();},120);
-});
-document.getElementById('hdate').addEventListener('click',openHistory);
-document.getElementById('histBack').addEventListener('click',()=>loadSnapshot(''));
-document.getElementById('histModal').addEventListener('click',e=>{ if(e.target.id==='histModal') e.currentTarget.classList.remove('show'); });
-document.getElementById('plBtnTd').addEventListener('click',createTidalPlaylist);
-document.getElementById('spCfg').addEventListener('click',openSpSettings);
-document.getElementById('notifBtn').addEventListener('click',function(){
-  window.OneSignalDeferred=window.OneSignalDeferred||[];
-  OneSignalDeferred.push(async function(OneSignal){
-    try{ await OneSignal.Notifications.requestPermission();
-      toast(OneSignal.Notifications.permission?'Notificações ativadas 🔔':'Permissão não concedida', OneSignal.Notifications.permission?'ok':'');
-    }catch(e){ toast('Não foi possível ativar as notificações',''); }
-  });
-});
-document.getElementById('spModal').addEventListener('click',e=>{ if(e.target.id==='spModal') e.currentTarget.classList.remove('show'); });
-document.getElementById('spClose').addEventListener('click',()=>document.getElementById('spModal').classList.remove('show'));
-document.getElementById('spSave').addEventListener('click',()=>{
-  const v=document.getElementById('spInput').value.trim();
-  if(!v){ toast('Cola o Client ID primeiro',''); return; }
-  localStorage.setItem('md_spclient',v); document.getElementById('spModal').classList.remove('show');
-  toast('Client ID guardado — a ligar…','ok'); startSpotifyAuth();
-});
-
-document.addEventListener('visibilitychange',()=>{ if(document.visibilityState==='visible') loadData('resume'); });
-window.addEventListener('pageshow',e=>{ if(e.persisted) loadData('resume'); });
-window.addEventListener('focus',()=>loadData('resume'));
-
-(function(){
-  const ptr=document.getElementById('ptr'), txt=document.getElementById('ptrtxt');
-  let startY=0, pulling=false, dist=0; const TH=70;
-  window.addEventListener('touchstart',e=>{
-    if(window.scrollY<=0 && !loading){ startY=e.touches[0].clientY; pulling=true; dist=0; }
-  },{passive:true});
-  window.addEventListener('touchmove',e=>{
-    if(!pulling) return;
-    dist=e.touches[0].clientY-startY;
-    if(dist>0){ const h=Math.min(dist*0.5,80); ptr.style.height=h+'px';
-      txt.textContent = h>=TH*0.5 ? 'Larga para atualizar' : 'Puxar para atualizar'; }
-  },{passive:true});
-  window.addEventListener('touchend',async()=>{
-    if(!pulling) return; pulling=false;
-    if(parseFloat(ptr.style.height||'0')>=TH*0.5){
-      ptr.classList.add('loading'); ptr.style.height='44px'; txt.textContent='A atualizar…';
-      await loadData('pull');
-      ptr.classList.remove('loading');
-    }
-    ptr.style.height='0px';
-  });
-})();
-
-(async function(){ await loadData('boot');
-  var _u=new URL(location.href);
-  if(_u.searchParams.get('code') && _u.searchParams.get('state')==='tpl'){ await handleTidalReturn(); }
-  else { await handleAuthReturn(); }
-})();
-if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(()=>{});}
-</script>
-</body>
-</html>
+  const n=Object.keys(stor
