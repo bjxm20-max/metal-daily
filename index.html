@@ -307,6 +307,8 @@
   .bd-alb{display:flex;gap:10px;font-size:.85rem;padding:6px 0;border-bottom:1px solid var(--line)}
   .bd-yr{flex:0 0 42px;color:var(--muted);font-weight:700}
   .bd-al{flex:1}
+  .bd-btns{display:flex;gap:8px;margin-bottom:10px}
+  .rev-score{float:right;font-size:.74rem;font-weight:900;border:1.5px solid;border-radius:8px;padding:1px 7px;margin-left:6px}
 </style>
 </head>
 <body>
@@ -397,6 +399,7 @@ const store={
   get fav(){return JSON.parse(localStorage.getItem('md_fav')||'{}')},
   get heard(){return JSON.parse(localStorage.getItem('md_heard')||'{}')},
   get follow(){return JSON.parse(localStorage.getItem('md_follow')||'{}')},
+  get watch(){return JSON.parse(localStorage.getItem('md_watch')||'{}')},
   set(k,o){localStorage.setItem('md_'+k,JSON.stringify(o))}
 };
 const bandKey=b=>(b||'').toLowerCase().trim();
@@ -411,6 +414,42 @@ function isPT(r){ const b=bandKey(r.b); if(PT_BANDS.has(b)) return true;
 let REPO_FOLLOW=new Set();
 function isFollowed(b){ const k=bandKey(b); const lf=store.follow; if(k in lf) return !!lf[k]; return REPO_FOLLOW.has(k); }
 function followKeys(){ const lf=store.follow; const s=new Set(REPO_FOLLOW); Object.keys(lf).forEach(k=>{ if(lf[k]) s.add(k); else s.delete(k); }); return [...s]; }
+function isWatched(nm){ return !!store.watch[bandKey(nm)]; }
+function watchKeys(){ const o=store.watch; return Object.keys(o).filter(k=>o[k]); }
+function toggleList(t,nm){ const key=t==='watch'?'watch':'follow'; const o=store[key]; const k=bandKey(nm); const now=t==='watch'?isWatched(nm):isFollowed(nm); o[k]=now?0:1; store.set(key,o); applyCounts(); return !now; }
+function renderWatch(){
+  const keys=watchKeys();
+  const search='<div class="bandsearch"><input id="bandQ" data-target="watch" type="search" placeholder="🔎 Procurar banda promissora…" autocomplete="off" autocapitalize="off" spellcheck="false"><div id="bandRes"></div></div>';
+  if(!keys.length) return search+'<div class="empty">Lista vazia por agora.<br>Vai pondo aqui as bandas-promessa que vais descobrindo.<br>Procura uma banda acima para começar.</div>';
+  const rel=allReleases().filter(r=>isWatched(r.b));
+  const nws=allNews().filter(n=>keys.some(k=>(n.title||'').toLowerCase().includes(k)));
+  const chips=keys.map(k=>{ const disp=k.replace(/\b\w/g,c=>c.toUpperCase()); return '<button class="bchip" data-name="'+encodeURIComponent(k)+'">'+disp+'</button>'; }).join('');
+  let html=search+'<div class="digcard" style="border-left-color:var(--folk)"><h3>👀 Para estar atento ('+keys.length+')</h3><div class="dl">Bandas que prometem, escolhidas por ti à medida que ouves. Toca numa para bio e discografia.</div><div class="bchips">'+chips+'</div></div>';
+  if(rel.length){ html+='<div class="genre-h"><span class="dot" style="background:var(--folk)"></span><span style="color:var(--folk)">Lançamentos</span><span class="count">'+rel.length+'</span></div>'+rel.map(cardHTML).join(''); }
+  if(nws.length){ html+='<div class="genre-h"><span class="dot" style="background:var(--symph)"></span><span style="color:var(--symph)">Notícias</span><span class="count">'+nws.length+'</span></div>'+feedHTML(nws,'var(--symph)'); }
+  if(!rel.length && !nws.length) html+='<div class="empty">Sem novidades das bandas em vigia nesta edição.</div>';
+  return html;
+}
+function reviewCard(r){
+  const col=r.cat==='metal'?'var(--death)':'var(--pop)';
+  const sc=r.score?'<span class="rev-score" style="border-color:'+col+';color:'+col+'">'+r.score+'</span>':'';
+  const star=r.star?' ★':'';
+  return '<div class="card" style="border-left-color:'+col+'">'+
+    coverHTML(coverQ((r.b||'')+' '+(r.t||'')), col)+
+    '<div class="band" style="padding-right:8px">'+(r.b||'')+sc+'<span style="color:var(--power)">'+star+'</span></div>'+
+    '<div class="title">'+(r.t||'')+'</div>'+
+    '<div class="meta" style="margin-top:6px"><b style="color:'+col+'">'+(r.src||'')+'</b> · '+(r.date||'')+(r.d?'<br>'+r.d:'')+'</div>'+
+    '<a class="spot" style="background:var(--bg2);color:var(--symph);border:1px solid var(--line)" href="'+(r.url||'#')+'" target="_blank" rel="noopener">Ler review →</a>'+
+  '</div>';
+}
+function renderReviews(){
+  const list=(D.rev||[]); if(!list.length) return '<div class="empty">Sem reviews nesta edição.<br>Volta amanhã para novas críticas.</div>';
+  const met=list.filter(r=>r.cat==='metal'); const ger=list.filter(r=>r.cat!=='metal');
+  let html='';
+  if(met.length){ html+='<div class="genre-h"><span class="dot" style="background:var(--death)"></span><span style="color:var(--death)">Metal</span><span class="count">'+met.length+'</span></div>'+met.map(reviewCard).join(''); }
+  if(ger.length){ html+='<div class="genre-h"><span class="dot" style="background:var(--pop)"></span><span style="color:var(--pop)">Geral</span><span class="count">'+ger.length+'</span></div>'+ger.map(reviewCard).join(''); }
+  return html;
+}
 async function loadBands(){ try{ const r=await fetch('bands.json?t='+Date.now(),{cache:'no-store'}); if(!r.ok) return;
   const a=await r.json(); REPO_FOLLOW=new Set((a||[]).map(x=>bandKey(typeof x==='string'?x:(x&&x.b)||''))); applyCounts(); if(route!=='home') render(); }catch(e){} }
 const MC_BANDS=new Set(['motionless in white','ice nine kills','bad omens','spiritbox','lorna shore','bring me the horizon','architects','wage war','currents','make them suffer','dayseeker','black veil brides','fit for a king','static dress','beartooth','the amity affliction','parkway drive','while she sleeps','polaris','invent animate','erra','after the burial','kublai khan tx','paleface swiss','signs of the swarm','we came as romans','falling in reverse','asking alexandria','crown the empire','sleeping with sirens','pierce the veil','i prevail','the devil wears prada','silent planet','northlane','in hearts wake','thornhill','alpha wolf','vended','bilmuri','holding absence','sleep theory']);
@@ -684,6 +723,8 @@ const FOLDERS=[
   {s:'follow', ic:'⭐', t:'A Seguir', sub:'Guardadas', col:'--power'},
   {s:'pt',     ic:'🇵🇹', t:'Portugal', sub:'Cena nacional', col:'--core'},
   {s:'mc',     ic:'🔪', t:'Metalcore', sub:'MIW · INK · estilo', col:'--rock'},
+  {s:'watch',  ic:'👀', t:'A Vigiar', sub:'Promessas', col:'--folk'},
+  {s:'rev',    ic:'📝', t:'Reviews', sub:'Críticas', col:'--doom'},
   {s:'digest', ic:'🗞️', t:'Digest', sub:'Resumo semanal', col:'--symph'},
   {s:'stats',  ic:'📊', t:'Estatísticas', sub:'Por subgénero', col:'--indus'}
 ];
@@ -699,6 +740,8 @@ function countOf(s){ if(!D) return 0;
   if(s==='follow') return followCount();
   if(s==='pt') return allReleases().filter(isPT).length + allNews().filter(isPT).length;
   if(s==='mc') return (D.mc||[]).length + allReleases().filter(isMC).length + allNews().filter(isMC).length;
+  if(s==='watch') return Object.keys(store.watch).filter(k=>store.watch[k]).length;
+  if(s==='rev') return (D.rev||[]).length;
   if(s==='digest') return allReleases().filter(r=>r.star).length;
   if(s==='stats') return new Set(allReleases().map(r=>r.g)).size;
   return (D[s]||[]).length; }
@@ -877,6 +920,8 @@ function render(){
   if(sec==='follow'){ m.innerHTML=renderFollow(); wireCards(); observeCovers(); updateBadge(); return; }
   if(sec==='pt'){ m.innerHTML=renderPT(); wireCards(); observeCovers(); updateBadge(); return; }
   if(sec==='mc'){ m.innerHTML=renderMC(); wireCards(); observeCovers(); updateBadge(); return; }
+  if(sec==='watch'){ m.innerHTML=renderWatch(); wireCards(); observeCovers(); updateBadge(); return; }
+  if(sec==='rev'){ m.innerHTML=renderReviews(); observeCovers(); updateBadge(); return; }
   if(sec==='digest'){ m.innerHTML=renderDigest(); observeCovers(); updateBadge(); return; }
   if(sec==='stats'){ m.innerHTML=renderStats(); updateBadge(); return; }
   if(sec==='news'){ m.innerHTML=feedHTML(D.news,'var(--symph)'); observeCovers(); updateBadge(); return; }
@@ -969,21 +1014,23 @@ function jsonp(url){ return new Promise(res=>{
 });}
 function toggleFollowName(nm){ const bk=bandKey(nm); const o=store.follow; const now=isFollowed(nm); o[bk]=now?0:1; store.set('follow',o); applyCounts(); return !now; }
 async function searchBands(term){
+  const inp=document.getElementById('bandQ'); const target=(inp&&inp.dataset.target)||'follow';
   const box=document.getElementById('bandRes'); if(!box) return;
   if(!term||term.length<2){ box.innerHTML=''; return; }
   box.innerHTML='<div class="bres-load">A procurar…</div>';
   const d=await jsonp('https://itunes.apple.com/search?media=music&entity=musicArtist&limit=8&term='+encodeURIComponent(term));
   const arr=(d&&d.results)||[];
   if(!arr.length){ box.innerHTML='<div class="bres-load">Nada encontrado. Tenta outro nome.</div>'; return; }
-  box.innerHTML=arr.map(a=>{ const nm=(a.artistName||'').replace(/"/g,''); const on=isFollowed(nm);
+  const onTxt=target==='watch'?'✓ A vigiar':'✓ Guardada', addTxt=target==='watch'?'＋ Vigiar':'＋ Guardar';
+  box.innerHTML=arr.map(a=>{ const nm=(a.artistName||'').replace(/"/g,''); const on=target==='watch'?isWatched(nm):isFollowed(nm);
     return '<div class="bres" data-name="'+encodeURIComponent(nm)+'" data-aid="'+(a.artistId||'')+'">'+
       '<div class="bres-i"><div class="bres-n">'+nm+'</div><div class="bres-g">'+(a.primaryGenreName||'')+'</div></div>'+
-      '<button class="bres-add'+(on?' on':'')+'" data-name="'+encodeURIComponent(nm)+'">'+(on?'✓ Guardada':'＋ Guardar')+'</button>'+
+      '<button class="bres-add'+(on?' on':'')+'" data-name="'+encodeURIComponent(nm)+'">'+(on?onTxt:addTxt)+'</button>'+
     '</div>'; }).join('');
   box.querySelectorAll('.bres-add').forEach(b=>b.onclick=ev=>{ ev.stopPropagation();
-    const nm=decodeURIComponent(b.dataset.name); const added=toggleFollowName(nm);
-    b.classList.toggle('on',added); b.textContent=added?'✓ Guardada':'＋ Guardar';
-    toast(added?('Guardaste '+nm+' ⭐'):('Removeste '+nm), added?'ok':''); });
+    const nm=decodeURIComponent(b.dataset.name); const added=toggleList(target,nm);
+    b.classList.toggle('on',added); b.textContent=added?onTxt:addTxt;
+    toast(added?(nm+' adicionada ⭐'):('Removeste '+nm), added?'ok':''); });
   box.querySelectorAll('.bres').forEach(r=>r.onclick=()=>openBand(decodeURIComponent(r.dataset.name), r.dataset.aid));
 }
 function bandBio(name){ return new Promise(async res=>{
@@ -997,15 +1044,19 @@ function bandBio(name){ return new Promise(async res=>{
 async function openBand(name, aid){
   const modal=document.getElementById('bandModal'), body=document.getElementById('bandBody');
   modal.classList.add('show'); try{history.pushState({nav:'modal'},'');}catch(e){}
-  const on=isFollowed(name);
-  body.innerHTML='<div class="bd-head"><div class="bd-name">'+name+'</div>'+
-    '<button id="bdFollow" class="bd-foll'+(on?' on':'')+'">'+(on?'★ Guardada':'☆ Guardar')+'</button></div>'+
+  const on=isFollowed(name), onW=isWatched(name);
+  body.innerHTML='<div class="bd-head"><div class="bd-name">'+name+'</div></div>'+
+    '<div class="bd-btns"><button id="bdFollow" class="bd-foll'+(on?' on':'')+'">'+(on?'★ Guardada':'☆ Guardar')+'</button>'+
+    '<button id="bdWatch" class="bd-foll'+(onW?' on':'')+'">'+(onW?'👀 A vigiar':'👁 Vigiar')+'</button></div>'+
     '<div id="bdBio" class="bd-bio">A carregar bio…</div>'+
     '<a class="bd-sp" href="https://open.spotify.com/search/'+encodeURIComponent(name)+'" target="_blank" rel="noopener">Abrir no Spotify</a>'+
     '<div class="bd-disc-h">Discografia</div><div id="bdDisc" class="bd-disc">A carregar…</div>';
-  document.getElementById('bdFollow').onclick=function(){ const added=toggleFollowName(name);
+  document.getElementById('bdFollow').onclick=function(){ const added=toggleList('follow',name);
     this.classList.toggle('on',added); this.textContent=added?'★ Guardada':'☆ Guardar';
     toast(added?('Guardaste '+name+' ⭐'):('Removeste '+name), added?'ok':''); };
+  document.getElementById('bdWatch').onclick=function(){ const added=toggleList('watch',name);
+    this.classList.toggle('on',added); this.textContent=added?'👀 A vigiar':'👁 Vigiar';
+    toast(added?(name+' em vigia 👀'):('Saiu da vigia: '+name), added?'ok':''); };
   bandBio(name).then(t=>{ const el=document.getElementById('bdBio'); if(el) el.textContent=t||'Sem biografia disponível.'; });
   let id=aid;
   if(!id){ const s=await jsonp('https://itunes.apple.com/search?media=music&entity=musicArtist&limit=1&term='+encodeURIComponent(name)); id=s&&s.results&&s.results[0]&&s.results[0].artistId; }
@@ -1018,7 +1069,7 @@ async function openBand(name, aid){
 }
 function renderFollow(){
   const keys=followKeys();
-  const search='<div class="bandsearch"><input id="bandQ" type="search" placeholder="🔎 Procurar banda para guardar…" autocomplete="off" autocapitalize="off" spellcheck="false"><div id="bandRes"></div></div>';
+  const search='<div class="bandsearch"><input id="bandQ" data-target="follow" type="search" placeholder="🔎 Procurar banda para guardar…" autocomplete="off" autocapitalize="off" spellcheck="false"><div id="bandRes"></div></div>';
   if(!keys.length) return search+'<div class="empty">Ainda não tens bandas guardadas.<br>Procura uma banda acima para a adicionar,<br>ou toca na ☆ de qualquer lançamento.</div>';
   const rel=allReleases().filter(r=>isFollowed(r.b));
   const nws=allNews().filter(n=>keys.some(k=>(n.title||'').toLowerCase().includes(k)));
