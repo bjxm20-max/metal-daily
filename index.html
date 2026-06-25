@@ -117,8 +117,8 @@
   .card{background:linear-gradient(180deg,var(--card),var(--card2));border:1px solid var(--line);
     border-left-width:5px;border-radius:13px;padding:13px 14px;margin-bottom:11px;position:relative}
   .card.heard{opacity:.5}
-  .card .band{font-weight:800;font-size:1.04rem;padding-right:104px}
-  .card .title{font-style:italic;color:#d4d7df;font-size:.92rem;margin:2px 0 6px;padding-right:104px}
+  .card .band{font-weight:800;font-size:1.04rem;padding-right:140px}
+  .card .title{font-style:italic;color:#d4d7df;font-size:.92rem;margin:2px 0 6px;padding-right:140px}
   .card .meta{font-size:.78rem;color:var(--muted)}
   .card .tag{display:inline-block;font-size:.66rem;font-weight:700;padding:2px 8px;border-radius:999px;
     margin-top:9px;background:rgba(255,255,255,.06)}
@@ -238,6 +238,33 @@
   .card .cover.has-img .cover-fb{display:none}
   .card .cover ~ .band,.card .cover ~ .title{padding-right:8px}
   .card .acts button{box-shadow:0 1px 5px rgba(0,0,0,.5)}
+  .card .acts button.fl.on{color:var(--power);border-color:var(--power)}
+  .statwrap{padding:4px 4px 0}
+  .statrow{display:flex;align-items:center;gap:9px;margin-bottom:9px}
+  .statrow .sl{width:118px;flex:0 0 auto;font-size:.76rem;font-weight:700;color:var(--text);
+    display:flex;align-items:center;gap:6px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .statrow .sl .dot{width:9px;height:9px;border-radius:50%;flex:0 0 auto}
+  .statrow .sbar{flex:1;height:18px;background:var(--bg2);border-radius:999px;overflow:hidden}
+  .statrow .sbar i{display:block;height:100%;border-radius:999px;min-width:3px;transition:width .5s ease}
+  .statrow .sv{width:30px;flex:0 0 auto;text-align:right;font-size:.78rem;font-weight:800;color:var(--muted)}
+  .statbox{background:linear-gradient(180deg,var(--card),var(--card2));border:1px solid var(--line);
+    border-radius:13px;padding:15px 15px 6px;margin-bottom:14px}
+  .statbox h3{margin:0 0 13px;font-size:.92rem;font-weight:800;text-transform:uppercase;letter-spacing:.5px;color:var(--text)}
+  .stattiles{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:14px}
+  .sttile{flex:1;min-width:90px;background:linear-gradient(180deg,var(--card),var(--card2));
+    border:1px solid var(--line);border-radius:13px;padding:13px 14px;text-align:center}
+  .sttile .big{font-size:1.7rem;font-weight:900;line-height:1}
+  .sttile .lab{font-size:.68rem;color:var(--muted);font-weight:700;text-transform:uppercase;letter-spacing:.5px;margin-top:5px}
+  .digcard{background:linear-gradient(180deg,var(--card),var(--card2));border:1px solid var(--line);
+    border-left:5px solid var(--power);border-radius:13px;padding:15px;margin-bottom:13px}
+  .digcard h3{margin:0 0 6px;font-size:1rem;font-weight:800}
+  .digcard .dl{font-size:.84rem;color:var(--text);margin:4px 0;padding-left:18px;position:relative}
+  .digcard .dl:before{content:'▸';position:absolute;left:2px;color:var(--power)}
+  .digcard .dl b{color:var(--symph)}
+  .icsbtn{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;
+    background:linear-gradient(180deg,var(--card),var(--card2));border:1px solid var(--power);
+    color:var(--power);font-weight:800;font-size:.86rem;padding:13px;border-radius:13px;margin:4px 0 14px}
+  .icsbtn:active{transform:scale(.98)}
 </style>
 </head>
 <body>
@@ -279,6 +306,7 @@
 
 <div class="bottombar">
   <button data-view="all" class="on"><span class="bi">&#128451;&#65039;</span>Tudo</button>
+  <button data-view="star"><span class="bi">&#11088;</span>Destaques</button>
   <button data-view="fav" style="position:relative"><span class="bi">&#10084;&#65039;</span>Favoritos<span class="badge" id="favbadge" style="display:none">0</span></button>
   <button data-view="unheard"><span class="bi">&#127911;</span>Por ouvir</button>
 </div>
@@ -321,8 +349,18 @@ let D=null, sec='recent', route='home', view='all', query='', activeGenres=new S
 const store={
   get fav(){return JSON.parse(localStorage.getItem('md_fav')||'{}')},
   get heard(){return JSON.parse(localStorage.getItem('md_heard')||'{}')},
+  get follow(){return JSON.parse(localStorage.getItem('md_follow')||'{}')},
   set(k,o){localStorage.setItem('md_'+k,JSON.stringify(o))}
 };
+const bandKey=b=>(b||'').toLowerCase().trim();
+const PT_BANDS=new Set(['moonspell','gaerea','oblivion','ramp','tarantula','sacred sin','filii nigrantium infernalium',
+  'decayed','heavenwood','desire','ava inferi','grog','holocausto canibal','corpus christii','process of guilt',
+  'bizarra locomotiva','more than a thousand','for the glory','colosso','analepsy','concealment','equaleft',
+  'angelus apatrida','sinistro','besta','dawnrider','jering','switchtense','vibrion','revolution within',
+  'before the harvest','blasted','the soulbreaker company','wells valley','daxma','iron void']);
+function isPT(r){ const b=bandKey(r.b); if(PT_BANDS.has(b)) return true;
+  const t=((r.title||'')+' '+(r.d||'')).toLowerCase();
+  return /\b(portug|português|portuguesa|lisboa|porto|moonspell|gaerea)\b/.test(t) || PT_BANDS.has(bandKey(r.title)); }
 const idOf=r=>(r.b+'|'+r.t).toLowerCase();
 const SPOT_SVG='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm4.6 14.4a.62.62 0 0 1-.86.21c-2.35-1.44-5.3-1.76-8.79-.96a.62.62 0 1 1-.28-1.22c3.8-.87 7.07-.5 9.71 1.11.3.18.39.57.22.86Zm1.23-2.74a.78.78 0 0 1-1.07.26c-2.69-1.65-6.79-2.13-9.97-1.16a.78.78 0 1 1-.45-1.49c3.63-1.1 8.15-.56 11.24 1.33.36.22.48.7.25 1.06Zm.11-2.85C14.83 8.96 9.4 8.78 6.3 9.72a.94.94 0 1 1-.54-1.8c3.56-1.08 9.56-.87 13.34 1.37a.94.94 0 0 1-.96 1.61Z"/></svg>';
 
@@ -536,6 +574,17 @@ function sig(d){return (d.generated||'')+'|'+((d.recent&&d.recent.length)||0)+'|
   ((d.main&&d.main.length)||0)+'|'+(d.future||[]).reduce((a,x)=>a+x.items.length,0)+'|'+((d.news&&d.news.length)||0)+'|'+
   ((d.buzz&&d.buzz.length)||0)+'|'+((d.dt&&d.dt.length)||0)+'|'+((d.st&&d.st.length)||0);}
 
+function notifyFollowed(fresh){
+  const f=store.follow; const keys=Object.keys(f); if(!keys.length||!fresh) return;
+  const rel=[].concat(fresh.recent||[],fresh.alter||[],fresh.main||[],(fresh.future||[]).reduce((a,d)=>a.concat(d.items),[]));
+  const hits=rel.filter(r=>f[bandKey(r.b)]); if(!hits.length) return;
+  const cur=(fresh.generated||'')+'|'+hits.map(h=>h.b+h.t).join(',');
+  if(localStorage.getItem('md_follownotif')===cur) return; localStorage.setItem('md_follownotif',cur);
+  const names=[...new Set(hits.map(h=>h.b))].slice(0,3).join(', ');
+  toast('⭐ Novidade de '+names,'new');
+  try{ if('Notification' in window && Notification.permission==='granted'){
+    new Notification('Now Playing — bandas que segues',{body:names+': '+hits.length+' lançamento(s) 🤘',icon:'icon-192.png'}); } }catch(e){}
+}
 async function loadData(reason){
   if(loading) return;
   if(histMode && reason!=='boot') return;
@@ -547,7 +596,7 @@ async function loadData(reason){
     const s=sig(fresh);
     const changed = lastSig && s!==lastSig;
     D=fresh; lastSig=s;
-    buildChips(); paint(); applyCounts();
+    buildChips(); paint(); applyCounts(); notifyFollowed(fresh);
     document.getElementById('hdate').innerHTML='Atualizado <u>'+nowHM()+'</u><br><span style="opacity:.7">🕑 ver histórico</span>';
     document.getElementById('fdate').textContent=D.range||D.generated||'';
     if(reason==='pull'){ toast(changed?'⚡ Novas releases!':'Já estás na versão mais recente', changed?'new':'ok'); }
@@ -567,10 +616,25 @@ const FOLDERS=[
   {s:'news',   ic:'📰', t:'Notícias', sub:'Metal / Rock', col:'--symph'},
   {s:'buzz',   ic:'✨', t:'Buzz', sub:'Música geral', col:'--indus'},
   {s:'dt',     ic:'🎹', t:'Dream Theater', sub:'Banda', col:'--prog'},
-  {s:'st',     ic:'🎭', t:'Sleep Token', sub:'Banda', col:'--rnb'}
+  {s:'st',     ic:'🎭', t:'Sleep Token', sub:'Banda', col:'--rnb'},
+  {s:'follow', ic:'⭐', t:'A Seguir', sub:'Bandas tuas', col:'--power'},
+  {s:'pt',     ic:'🇵🇹', t:'Portugal', sub:'Cena nacional', col:'--core'},
+  {s:'digest', ic:'🗞️', t:'Digest', sub:'Resumo semanal', col:'--symph'},
+  {s:'stats',  ic:'📊', t:'Estatísticas', sub:'Por subgénero', col:'--indus'}
 ];
+function allReleases(){ if(!D) return [];
+  return [].concat(D.recent||[],D.alter||[],D.main||[],(D.future||[]).reduce((a,d)=>a.concat(d.items),[])); }
+function allNews(){ if(!D) return [];
+  return [].concat(D.news||[],D.buzz||[],D.dt||[],D.st||[]); }
+function followCount(){ const f=store.follow;
+  return allReleases().filter(r=>f[bandKey(r.b)]).length
+    + allNews().filter(n=>Object.keys(f).some(k=>(n.title||'').toLowerCase().includes(k))).length; }
 function countOf(s){ if(!D) return 0;
   if(s==='future') return (D.future||[]).reduce((a,d)=>a+d.items.length,0);
+  if(s==='follow') return followCount();
+  if(s==='pt') return allReleases().filter(isPT).length + allNews().filter(isPT).length;
+  if(s==='digest') return allReleases().filter(r=>r.star).length;
+  if(s==='stats') return new Set(allReleases().map(r=>r.g)).size;
   return (D[s]||[]).length; }
 function renderHome(){
   const h=document.getElementById('home');
@@ -626,6 +690,7 @@ function buildChips(){
 function matchFilter(r){
   if(sec!=='main' && activeGenres.size && !activeGenres.has(r.g)) return false;
   if(view==='fav' && !store.fav[idOf(r)]) return false;
+  if(view==='star' && !r.star) return false;
   if(view==='unheard' && store.heard[idOf(r)]) return false;
   if(query){const s=(r.b+' '+r.t+' '+(r.lbl||'')+' '+(r.d||'')).toLowerCase();
     if(!s.includes(query)) return false;}
@@ -665,13 +730,14 @@ function observeCovers(){
   } else { els.forEach(loadCover); }
 }
 function cardHTML(r){
-  const id=idOf(r), fav=store.fav[id], heard=store.heard[id];
+  const id=idOf(r), fav=store.fav[id], heard=store.heard[id], foll=store.follow[bandKey(r.b)];
   const star=r.star?' ★':'';
   const subParts=[]; if(r.lbl&&r.lbl!=='—')subParts.push(r.lbl); if(r.date)subParts.push(r.date);
   const subline=(r.sub?r.sub+' · ':'')+subParts.join(' · ');
   const open=(query||view!=='all');
   return '<div class="card'+(heard?' heard':'')+(open?' open':'')+'" style="border-left-color:'+cv(r.g)+'">'+
     '<div class="acts">'+
+      '<button class="fl'+(foll?' on':'')+'" data-act="follow" data-band="'+encodeURIComponent(r.b)+'" title="Seguir banda">'+(foll?'★':'☆')+'</button>'+
       '<button class="sh" data-act="share" data-id="'+id+'">↗</button>'+
       '<button class="fav'+(fav?' on':'')+'" data-act="fav" data-id="'+id+'">'+(fav?'❤':'♡')+'</button>'+
       '<button class="hd'+(heard?' on':'')+'" data-act="heard" data-id="'+id+'">✓</button>'+
@@ -739,13 +805,18 @@ function feedHTML(list, accent){
 function render(){
   if(!D) return;
   const m=document.getElementById('main'); let html='', shown=0;
-  document.getElementById('chips').style.display=(sec==='news'||sec==='buzz'||sec==='dt'||sec==='st'||sec==='main')?'none':'flex';
+  document.getElementById('chips').style.display=(sec==='recent'||sec==='alter'||sec==='future')?'flex':'none';
   document.getElementById('plBtnTd').style.display=(sec==='recent'||sec==='alter'||sec==='main')?'inline-flex':'none';
+  if(sec==='follow'){ m.innerHTML=renderFollow(); wireCards(); observeCovers(); updateBadge(); return; }
+  if(sec==='pt'){ m.innerHTML=renderPT(); wireCards(); observeCovers(); updateBadge(); return; }
+  if(sec==='digest'){ m.innerHTML=renderDigest(); observeCovers(); updateBadge(); return; }
+  if(sec==='stats'){ m.innerHTML=renderStats(); updateBadge(); return; }
   if(sec==='news'){ m.innerHTML=feedHTML(D.news,'var(--symph)'); observeCovers(); updateBadge(); return; }
   if(sec==='buzz'){ m.innerHTML=feedHTML(D.buzz,'var(--pop)'); observeCovers(); updateBadge(); return; }
   if(sec==='dt'){ m.innerHTML=bioCard((D.bios||{}).dt,'var(--prog)')+feedHTML(D.dt,'var(--prog)'); observeCovers(); updateBadge(); return; }
   if(sec==='st'){ m.innerHTML=bioCard((D.bios||{}).st,'var(--indus)')+feedHTML(D.st,'var(--indus)'); observeCovers(); updateBadge(); return; }
   if(sec==='future'){
+    html+='<button class="icsbtn" id="icsBtn">📅 Exportar para o calendário (.ics)</button>';
     D.future.forEach(day=>{
       const items=day.items.filter(matchFilter); if(!items.length)return; shown+=items.length;
       html+='<div class="tl-date"><span class="bub"></span><div><h3>'+day.date+'</h3>'+
@@ -759,6 +830,40 @@ function render(){
   }
   m.innerHTML = shown ? html :
     '<div class="empty">Nada encontrado.<br>'+(view!=='all'?'Experimenta o separador "Tudo".':'Ajusta a pesquisa ou os filtros.')+'</div>';
+  wireCards();
+  updateBadge();
+}
+const MONTHS={'jan':0,'fev':1,'mar':2,'abr':3,'mai':4,'jun':5,'jul':6,'ago':7,'set':8,'out':9,'nov':10,'dez':11};
+function parseFutureDate(s){
+  const m=(s||'').toLowerCase().match(/(\d{1,2})\s*([a-zç]{3})/); if(!m) return null;
+  const mo=MONTHS[m[2].slice(0,3)]; if(mo===undefined) return null;
+  const base=D&&D.generated?new Date(D.generated):new Date();
+  let yr=base.getFullYear(); if(mo<base.getMonth()) yr++;
+  return new Date(yr,mo,parseInt(m[1],10)); }
+function icsDate(d){ return d.getFullYear()+('0'+(d.getMonth()+1)).slice(-2)+('0'+d.getDate()).slice(-2); }
+function exportICS(){
+  if(!D||!D.future){ toast('Sem dados',''); return; }
+  let ev='';
+  D.future.forEach(day=>{ const dt=parseFutureDate(day.date); if(!dt) return;
+    const start=icsDate(dt); const end=icsDate(new Date(dt.getTime()+86400000));
+    day.items.forEach((r,i)=>{
+      const uid=icsDate(dt)+'-'+i+'-'+(r.b||'').replace(/[^a-z0-9]/gi,'').slice(0,16)+'@nowplaying';
+      const sum=(r.b+' — '+r.t).replace(/[,;\\]/g,' ');
+      const desc=((r.lbl&&r.lbl!=='—'?r.lbl+' · ':'')+(GL[r.g]||r.g)+(r.d?' · '+r.d:'')).replace(/[,;\\]/g,' ').replace(/\n/g,' ');
+      ev+='BEGIN:VEVENT\r\nUID:'+uid+'\r\nDTSTART;VALUE=DATE:'+start+'\r\nDTEND;VALUE=DATE:'+end+
+        '\r\nSUMMARY:🤘 '+sum+'\r\nDESCRIPTION:'+desc+'\r\nEND:VEVENT\r\n';
+    });
+  });
+  if(!ev){ toast('Sem datas para exportar',''); return; }
+  const ics='BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Now Playing//Metal Daily//PT\r\nCALSCALE:GREGORIAN\r\n'+ev+'END:VCALENDAR\r\n';
+  const blob=new Blob([ics],{type:'text/calendar'}); const url=URL.createObjectURL(blob);
+  const a=document.createElement('a'); a.href=url; a.download='lancamentos-metal.ics';
+  document.body.appendChild(a); a.click(); a.remove(); setTimeout(()=>URL.revokeObjectURL(url),2000);
+  toast('Calendário exportado 📅','ok');
+}
+function wireCards(){
+  const m=document.getElementById('main');
+  const ics=document.getElementById('icsBtn'); if(ics) ics.onclick=exportICS;
   m.querySelectorAll('.card .chead').forEach(h=>h.onclick=()=>h.closest('.card').classList.toggle('open'));
   observeCovers();
   m.querySelectorAll('.acts button').forEach(b=>b.onclick=e=>{
@@ -773,9 +878,78 @@ function render(){
       else if(navigator.clipboard){navigator.clipboard.writeText(data.text+' '+url);toast('Link copiado','ok');}
       return;
     }
+    if(k==='follow'){
+      const band=decodeURIComponent(b.dataset.band); const bk=bandKey(band);
+      const o=store.follow; if(o[bk]){delete o[bk];toast('Deixaste de seguir '+band,'');}
+      else{o[bk]=1;toast('A seguir '+band+' ⭐','ok');}
+      store.set('follow',o); applyCounts(); render(); return;
+    }
     const o=store[k];if(o[id])delete o[id];else o[id]=1;store.set(k,o);render();
   });
-  updateBadge();
+}
+function renderFollow(){
+  const f=store.follow; const keys=Object.keys(f);
+  if(!keys.length) return '<div class="empty">Ainda não segues nenhuma banda.<br>Toca na ☆ de qualquer lançamento para a seguir<br>e teres aqui só o que te interessa.</div>';
+  const rel=allReleases().filter(r=>f[bandKey(r.b)]);
+  const nws=allNews().filter(n=>keys.some(k=>(n.title||'').toLowerCase().includes(k)));
+  let html='';
+  if(rel.length){ html+='<div class="genre-h"><span class="dot" style="background:var(--power)"></span><span style="color:var(--power)">Lançamentos</span><span class="count">'+rel.length+'</span></div>'+rel.map(cardHTML).join(''); }
+  if(nws.length){ html+='<div class="genre-h"><span class="dot" style="background:var(--symph)"></span><span style="color:var(--symph)">Notícias</span><span class="count">'+nws.length+'</span></div>'+feedHTML(nws,'var(--symph)'); }
+  if(!rel.length && !nws.length) html='<div class="empty">Segues '+keys.length+' banda(s), mas não há novidades delas nesta edição.<br>Voltamos a avisar quando houver. 🤘</div>';
+  return html;
+}
+function renderPT(){
+  const rel=allReleases().filter(isPT); const nws=allNews().filter(isPT);
+  if(!rel.length && !nws.length) return '<div class="empty">🇵🇹 Sem novidades nacionais nesta edição.<br>Quando saírem Moonspell, Gaerea, Process of Guilt e companhia, aparecem aqui.</div>';
+  let html='';
+  if(rel.length){ html+='<div class="genre-h"><span class="dot" style="background:var(--core)"></span><span style="color:var(--core)">Lançamentos PT</span><span class="count">'+rel.length+'</span></div>'+rel.map(cardHTML).join(''); }
+  if(nws.length){ html+='<div class="genre-h"><span class="dot" style="background:var(--symph)"></span><span style="color:var(--symph)">Notícias PT</span><span class="count">'+nws.length+'</span></div>'+feedHTML(nws,'var(--symph)'); }
+  return html;
+}
+function renderDigest(){
+  const rel=[].concat(D.recent||[],D.alter||[]); const fut=(D.future||[]).reduce((a,d)=>a.concat(d.items),[]);
+  const stars=allReleases().filter(r=>r.star);
+  const gcount={}; rel.forEach(r=>gcount[r.g]=(gcount[r.g]||0)+1);
+  const topG=Object.keys(gcount).sort((a,b)=>gcount[b]-gcount[a]).slice(0,3);
+  const topNews=(D.news||[]).filter(n=>n.star).slice(0,4);
+  let h='<div class="digcard"><h3>🗞️ Resumo · '+(D.range||D.generated||'')+'</h3>'+
+    '<div class="dl"><b>'+rel.length+'</b> lançamentos de metal/rock e <b>'+(D.main||[]).length+'</b> mainstream nesta edição.</div>'+
+    '<div class="dl"><b>'+(D.news||[]).length+'</b> notícias e <b>'+(D.buzz||[]).length+'</b> de música geral.</div>'+
+    '<div class="dl"><b>'+fut.length+'</b> lançamentos já anunciados na timeline.</div>'+
+    (topG.length?'<div class="dl">Subgéneros mais ativos: <b>'+topG.map(g=>GL[g]).join('</b>, <b>')+'</b>.</div>':'')+
+    '</div>';
+  if(stars.length){ h+='<div class="genre-h"><span class="dot" style="background:var(--power)"></span><span style="color:var(--power)">★ Destaques da semana</span><span class="count">'+stars.length+'</span></div>'+stars.map(cardHTML).join(''); }
+  if(topNews.length){ h+='<div class="genre-h"><span class="dot" style="background:var(--symph)"></span><span style="color:var(--symph)">Manchetes</span></div>'+feedHTML(topNews,'var(--symph)'); }
+  return h;
+}
+function renderStats(){
+  const rel=allReleases(); const metalRel=[].concat(D.recent||[],D.alter||[],(D.future||[]).reduce((a,d)=>a.concat(d.items),[]));
+  const gcount={}; metalRel.forEach(r=>gcount[r.g]=(gcount[r.g]||0)+1);
+  const mcount={}; (D.main||[]).forEach(r=>mcount[r.g]=(mcount[r.g]||0)+1);
+  const stars=rel.filter(r=>r.star).length; const foll=Object.keys(store.follow).length;
+  let h='<div class="statwrap">';
+  h+='<div class="stattiles">'+
+    '<div class="sttile"><div class="big" style="color:var(--death)">'+metalRel.length+'</div><div class="lab">Metal/Rock</div></div>'+
+    '<div class="sttile"><div class="big" style="color:var(--pop)">'+(D.main||[]).length+'</div><div class="lab">Mainstream</div></div>'+
+    '<div class="sttile"><div class="big" style="color:var(--power)">'+stars+'</div><div class="lab">Destaques</div></div>'+
+    '<div class="sttile"><div class="big" style="color:var(--core)">'+foll+'</div><div class="lab">A seguir</div></div>'+
+    '</div>';
+  const order=ORDER.filter(g=>gcount[g]).sort((a,b)=>gcount[b]-gcount[a]);
+  const max=Math.max.apply(null,order.map(g=>gcount[g]).concat([1]));
+  h+='<div class="statbox"><h3>Metal / Rock por subgénero</h3>';
+  order.forEach(g=>{ const w=Math.round(gcount[g]/max*100);
+    h+='<div class="statrow"><span class="sl"><span class="dot" style="background:'+cv(g)+'"></span>'+GL[g]+'</span>'+
+      '<span class="sbar"><i style="width:'+w+'%;background:'+cv(g)+'"></i></span><span class="sv">'+gcount[g]+'</span></div>'; });
+  h+='</div>';
+  const morder=MORDER.filter(g=>mcount[g]).sort((a,b)=>mcount[b]-mcount[a]);
+  if(morder.length){ const mmax=Math.max.apply(null,morder.map(g=>mcount[g]).concat([1]));
+    h+='<div class="statbox"><h3>Mainstream por género</h3>';
+    morder.forEach(g=>{ const w=Math.round(mcount[g]/mmax*100);
+      h+='<div class="statrow"><span class="sl"><span class="dot" style="background:'+cv(g)+'"></span>'+GL[g]+'</span>'+
+        '<span class="sbar"><i style="width:'+w+'%;background:'+cv(g)+'"></i></span><span class="sv">'+mcount[g]+'</span></div>'; });
+    h+='</div>'; }
+  h+='</div>';
+  return h;
 }
 function updateBadge(){
   const n=Object.keys(store.fav).length;const bd=document.getElementById('favbadge');
@@ -848,6 +1022,7 @@ window.addEventListener('focus',()=>loadData('resume'));
   else { await handleAuthReturn(); }
 })();
 if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(()=>{});}
+/* features v2: follow, star, PT, digest, stats, ics */
 </script>
 </body>
 </html>
