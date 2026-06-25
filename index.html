@@ -76,7 +76,7 @@
   #home{padding:8px 12px 0;display:none}
   .hometitle{font-size:.76rem;font-weight:800;color:var(--muted);text-transform:uppercase;
     letter-spacing:.6px;margin:6px 6px 12px}
-  .foldergrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(165px,1fr));gap:12px}
+  .foldergrid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
   .folder{position:relative;display:flex;flex-direction:column;align-items:flex-start;gap:2px;
     text-align:left;background:linear-gradient(180deg,var(--card),var(--card2));
     border:1px solid var(--line);border-left:5px solid var(--fc,var(--line));border-radius:15px;
@@ -265,6 +265,18 @@
     background:linear-gradient(180deg,var(--card),var(--card2));border:1px solid var(--power);
     color:var(--power);font-weight:800;font-size:.86rem;padding:13px;border-radius:13px;margin:4px 0 14px}
   .icsbtn:active{transform:scale(.98)}
+  /* home: tiles coloridos estilo Browse (Spotify) */
+  @media(min-width:560px){.foldergrid{grid-template-columns:repeat(3,1fr)}}
+  @media(min-width:1000px){.foldergrid{grid-template-columns:repeat(4,1fr)}}
+  .folder{background:var(--fc,var(--card));border-color:transparent;border-left:1px solid transparent;
+    color:#fff;overflow:hidden;min-height:96px}
+  .folder:after{content:'';position:absolute;inset:0;pointer-events:none;
+    background:linear-gradient(155deg,rgba(255,255,255,.10),rgba(0,0,0,.36))}
+  .folder>*{position:relative;z-index:1}
+  .folder .ft{text-shadow:0 1px 4px rgba(0,0,0,.45)}
+  .folder .fic{opacity:.95}
+  .folder .fsub{color:rgba(255,255,255,.85);text-shadow:0 1px 3px rgba(0,0,0,.4)}
+  .folder .fcount{background:rgba(0,0,0,.3);color:#fff}
 </style>
 </head>
 <body>
@@ -296,7 +308,7 @@
 
 <footer>
   <strong>Now Playing</strong> &middot; dados de <span id="fdate">&mdash;</span><br>
-  Fontes: Metal Connect &middot; Loudwire &middot; Alterportal &middot; Billboard &middot; Rolling Stone &middot; Pitchfork &middot; Whiplash<br>
+  Fontes: Metal Connect &middot; Loudwire &middot; Alterportal &middot; Billboard &middot; Whiplash &middot; Metal Imperium &middot; Caminhos Metálicos<br>
   <span id="favnote"></span><br>
   <button id="notifBtn" style="margin-top:8px;background:none;border:1px solid var(--symph);color:var(--symph);font-weight:700;font-size:.72rem;padding:6px 11px;border-radius:999px">🔔 Ativar notificações</button>
   <button id="spCfg" style="margin-top:8px;margin-left:6px;background:none;border:1px solid var(--line);color:var(--muted);font-weight:700;font-size:.72rem;padding:6px 11px;border-radius:999px">⚙ Definições Spotify</button>
@@ -361,6 +373,11 @@ const PT_BANDS=new Set(['moonspell','gaerea','oblivion','ramp','tarantula','sacr
 function isPT(r){ const b=bandKey(r.b); if(PT_BANDS.has(b)) return true;
   const t=((r.title||'')+' '+(r.d||'')).toLowerCase();
   return /\b(portug|português|portuguesa|lisboa|porto|moonspell|gaerea)\b/.test(t) || PT_BANDS.has(bandKey(r.title)); }
+let REPO_FOLLOW=new Set();
+function isFollowed(b){ const k=bandKey(b); const lf=store.follow; if(k in lf) return !!lf[k]; return REPO_FOLLOW.has(k); }
+function followKeys(){ const lf=store.follow; const s=new Set(REPO_FOLLOW); Object.keys(lf).forEach(k=>{ if(lf[k]) s.add(k); else s.delete(k); }); return [...s]; }
+async function loadBands(){ try{ const r=await fetch('bands.json?t='+Date.now(),{cache:'no-store'}); if(!r.ok) return;
+  const a=await r.json(); REPO_FOLLOW=new Set((a||[]).map(x=>bandKey(typeof x==='string'?x:(x&&x.b)||''))); applyCounts(); if(route!=='home') render(); }catch(e){} }
 const idOf=r=>(r.b+'|'+r.t).toLowerCase();
 const SPOT_SVG='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm4.6 14.4a.62.62 0 0 1-.86.21c-2.35-1.44-5.3-1.76-8.79-.96a.62.62 0 1 1-.28-1.22c3.8-.87 7.07-.5 9.71 1.11.3.18.39.57.22.86Zm1.23-2.74a.78.78 0 0 1-1.07.26c-2.69-1.65-6.79-2.13-9.97-1.16a.78.78 0 1 1-.45-1.49c3.63-1.1 8.15-.56 11.24 1.33.36.22.48.7.25 1.06Zm.11-2.85C14.83 8.96 9.4 8.78 6.3 9.72a.94.94 0 1 1-.54-1.8c3.56-1.08 9.56-.87 13.34 1.37a.94.94 0 0 1-.96 1.61Z"/></svg>';
 
@@ -385,6 +402,7 @@ const GH_REPO='bjxm20-max/metal-daily';
 async function openHistory(){
   const box=document.getElementById('histList');
   document.getElementById('histModal').classList.add('show');
+  try{history.pushState({nav:'modal'},'');}catch(e){}
   box.innerHTML='<div class="empty">A carregar&hellip;</div>';
   try{
     const r=await fetch('https://api.github.com/repos/'+GH_REPO+'/commits?path=data.json&per_page=60',{cache:'no-store'});
@@ -418,7 +436,7 @@ async function loadSnapshot(sha,lbl){
 /* ---------- Spotify playlist (Authorization Code + PKCE, sem servidor) ---------- */
 const SP_REDIRECT = location.origin + location.pathname;
 function spClientId(){ return localStorage.getItem('md_spclient')||'2946a52fcd9c44d3a49aad0b5b95ede6'; }
-function openSpSettings(){ document.getElementById('spInput').value=spClientId(); document.getElementById('spModal').classList.add('show'); }
+function openSpSettings(){ document.getElementById('spInput').value=spClientId(); document.getElementById('spModal').classList.add('show'); try{history.pushState({nav:'modal'},'');}catch(e){} }
 function b64url(buf){ return btoa(String.fromCharCode.apply(null,new Uint8Array(buf))).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,''); }
 function randStr(n){ const a=new Uint8Array(n); crypto.getRandomValues(a); return Array.from(a,b=>('0'+b.toString(16)).slice(-2)).join('').slice(0,n); }
 async function sha256(str){ return await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str)); }
@@ -575,9 +593,9 @@ function sig(d){return (d.generated||'')+'|'+((d.recent&&d.recent.length)||0)+'|
   ((d.buzz&&d.buzz.length)||0)+'|'+((d.dt&&d.dt.length)||0)+'|'+((d.st&&d.st.length)||0);}
 
 function notifyFollowed(fresh){
-  const f=store.follow; const keys=Object.keys(f); if(!keys.length||!fresh) return;
+  if(!fresh) return; const keys=followKeys(); if(!keys.length) return;
   const rel=[].concat(fresh.recent||[],fresh.alter||[],fresh.main||[],(fresh.future||[]).reduce((a,d)=>a.concat(d.items),[]));
-  const hits=rel.filter(r=>f[bandKey(r.b)]); if(!hits.length) return;
+  const hits=rel.filter(r=>isFollowed(r.b)); if(!hits.length) return;
   const cur=(fresh.generated||'')+'|'+hits.map(h=>h.b+h.t).join(',');
   if(localStorage.getItem('md_follownotif')===cur) return; localStorage.setItem('md_follownotif',cur);
   const names=[...new Set(hits.map(h=>h.b))].slice(0,3).join(', ');
@@ -617,7 +635,7 @@ const FOLDERS=[
   {s:'buzz',   ic:'✨', t:'Buzz', sub:'Música geral', col:'--indus'},
   {s:'dt',     ic:'🎹', t:'Dream Theater', sub:'Banda', col:'--prog'},
   {s:'st',     ic:'🎭', t:'Sleep Token', sub:'Banda', col:'--rnb'},
-  {s:'follow', ic:'⭐', t:'A Seguir', sub:'Bandas tuas', col:'--power'},
+  {s:'follow', ic:'⭐', t:'A Seguir', sub:'Guardadas', col:'--power'},
   {s:'pt',     ic:'🇵🇹', t:'Portugal', sub:'Cena nacional', col:'--core'},
   {s:'digest', ic:'🗞️', t:'Digest', sub:'Resumo semanal', col:'--symph'},
   {s:'stats',  ic:'📊', t:'Estatísticas', sub:'Por subgénero', col:'--indus'}
@@ -626,9 +644,9 @@ function allReleases(){ if(!D) return [];
   return [].concat(D.recent||[],D.alter||[],D.main||[],(D.future||[]).reduce((a,d)=>a.concat(d.items),[])); }
 function allNews(){ if(!D) return [];
   return [].concat(D.news||[],D.buzz||[],D.dt||[],D.st||[]); }
-function followCount(){ const f=store.follow;
-  return allReleases().filter(r=>f[bandKey(r.b)]).length
-    + allNews().filter(n=>Object.keys(f).some(k=>(n.title||'').toLowerCase().includes(k))).length; }
+function followCount(){
+  return allReleases().filter(r=>isFollowed(r.b)).length
+    + allNews().filter(n=>followKeys().some(k=>(n.title||'').toLowerCase().includes(k))).length; }
 function countOf(s){ if(!D) return 0;
   if(s==='future') return (D.future||[]).reduce((a,d)=>a+d.items.length,0);
   if(s==='follow') return followCount();
@@ -662,6 +680,7 @@ function setChrome(){
 }
 function openSection(s){ sec=s; route='section'; query=''; const q=document.getElementById('q'); if(q) q.value='';
   const f=FOLDERS.find(x=>x.s===s)||{}; document.getElementById('secTitle').textContent=f.t||s;
+  try{ if(!(history.state&&history.state.nav==='section')) history.pushState({nav:'section'},''); }catch(e){}
   setChrome(); window.scrollTo(0,0); render(); }
 function goHome(){ route='home'; setChrome(); renderHome(); window.scrollTo(0,0); }
 function paint(){ setChrome(); route==='home'?renderHome():render(); }
@@ -730,7 +749,7 @@ function observeCovers(){
   } else { els.forEach(loadCover); }
 }
 function cardHTML(r){
-  const id=idOf(r), fav=store.fav[id], heard=store.heard[id], foll=store.follow[bandKey(r.b)];
+  const id=idOf(r), fav=store.fav[id], heard=store.heard[id], foll=isFollowed(r.b);
   const star=r.star?' ★':'';
   const subParts=[]; if(r.lbl&&r.lbl!=='—')subParts.push(r.lbl); if(r.date)subParts.push(r.date);
   const subline=(r.sub?r.sub+' · ':'')+subParts.join(' · ');
@@ -880,30 +899,31 @@ function wireCards(){
     }
     if(k==='follow'){
       const band=decodeURIComponent(b.dataset.band); const bk=bandKey(band);
-      const o=store.follow; if(o[bk]){delete o[bk];toast('Deixaste de seguir '+band,'');}
-      else{o[bk]=1;toast('A seguir '+band+' ⭐','ok');}
+      const o=store.follow; const now=isFollowed(band);
+      o[bk]=now?0:1; toast(now?('Removeste '+band):('Guardaste '+band+' ⭐'), now?'':'ok');
       store.set('follow',o); applyCounts(); render(); return;
     }
     const o=store[k];if(o[id])delete o[id];else o[id]=1;store.set(k,o);render();
   });
 }
 function renderFollow(){
-  const f=store.follow; const keys=Object.keys(f);
-  if(!keys.length) return '<div class="empty">Ainda não segues nenhuma banda.<br>Toca na ☆ de qualquer lançamento para a seguir<br>e teres aqui só o que te interessa.</div>';
-  const rel=allReleases().filter(r=>f[bandKey(r.b)]);
+  const keys=followKeys();
+  if(!keys.length) return '<div class="empty">Ainda não tens bandas guardadas.<br>Toca na ☆ de qualquer lançamento para a guardar,<br>ou pede ao Claude para juntar bandas à tua lista (bands.json).</div>';
+  const rel=allReleases().filter(r=>isFollowed(r.b));
   const nws=allNews().filter(n=>keys.some(k=>(n.title||'').toLowerCase().includes(k)));
-  let html='';
+  let html='<div class="digcard" style="border-left-color:var(--power)"><h3>⭐ As tuas bandas ('+keys.length+')</h3><div class="dl">Guardadas neste telemóvel e sincronizadas a partir do repositório (bands.json).</div></div>';
   if(rel.length){ html+='<div class="genre-h"><span class="dot" style="background:var(--power)"></span><span style="color:var(--power)">Lançamentos</span><span class="count">'+rel.length+'</span></div>'+rel.map(cardHTML).join(''); }
   if(nws.length){ html+='<div class="genre-h"><span class="dot" style="background:var(--symph)"></span><span style="color:var(--symph)">Notícias</span><span class="count">'+nws.length+'</span></div>'+feedHTML(nws,'var(--symph)'); }
-  if(!rel.length && !nws.length) html='<div class="empty">Segues '+keys.length+' banda(s), mas não há novidades delas nesta edição.<br>Voltamos a avisar quando houver. 🤘</div>';
+  if(!rel.length && !nws.length) html+='<div class="empty">Sem novidades das tuas bandas nesta edição.<br>Voltamos a avisar quando houver. 🤘</div>';
   return html;
 }
 function renderPT(){
-  const rel=allReleases().filter(isPT); const nws=allNews().filter(isPT);
-  if(!rel.length && !nws.length) return '<div class="empty">🇵🇹 Sem novidades nacionais nesta edição.<br>Quando saírem Moonspell, Gaerea, Process of Guilt e companhia, aparecem aqui.</div>';
+  const rel=allReleases().filter(isPT); const nws=allNews().filter(isPT); const pt=(D.pt||[]);
+  if(!rel.length && !nws.length && !pt.length) return '<div class="empty">🇵🇹 Sem novidades nacionais nesta edição.<br>Fontes: Metal Imperium e Caminhos Metálicos.</div>';
   let html='';
+  if(pt.length){ html+='<div class="genre-h"><span class="dot" style="background:var(--core)"></span><span style="color:var(--core)">Cena Nacional</span><span class="count">'+pt.length+'</span></div>'+feedHTML(pt,'var(--core)'); }
   if(rel.length){ html+='<div class="genre-h"><span class="dot" style="background:var(--core)"></span><span style="color:var(--core)">Lançamentos PT</span><span class="count">'+rel.length+'</span></div>'+rel.map(cardHTML).join(''); }
-  if(nws.length){ html+='<div class="genre-h"><span class="dot" style="background:var(--symph)"></span><span style="color:var(--symph)">Notícias PT</span><span class="count">'+nws.length+'</span></div>'+feedHTML(nws,'var(--symph)'); }
+  if(nws.length){ html+='<div class="genre-h"><span class="dot" style="background:var(--symph)"></span><span style="color:var(--symph)">Mais Notícias PT</span><span class="count">'+nws.length+'</span></div>'+feedHTML(nws,'var(--symph)'); }
   return html;
 }
 function renderDigest(){
@@ -958,8 +978,10 @@ function updateBadge(){
   document.getElementById('favnote').textContent=(n||hh)?('❤ '+n+' favorito(s) · 🎧 '+hh+' ouvido(s) neste telemóvel'):'';
 }
 
-document.getElementById('backBtn').addEventListener('click',goHome);
-document.querySelector('.brand h1').addEventListener('click',goHome);
+document.getElementById('backBtn').addEventListener('click',()=>{ if(route!=='home'){ history.back(); } else { goHome(); } });
+document.querySelector('.brand h1').addEventListener('click',()=>{ if(route!=='home') history.back(); });
+function closeOpenModals(){ let c=false; ['histModal','spModal'].forEach(id=>{ const el=document.getElementById(id); if(el&&el.classList.contains('show')){ el.classList.remove('show'); c=true; } }); return c; }
+window.addEventListener('popstate',function(){ if(closeOpenModals()) return; if(route!=='home'){ goHome(); } });
 document.querySelectorAll('.bottombar button').forEach(b=>b.onclick=()=>{
   view=b.dataset.view;document.querySelectorAll('.bottombar button').forEach(x=>x.classList.toggle('on',x===b));
   render();
@@ -969,7 +991,7 @@ let qt;document.getElementById('q').addEventListener('input',e=>{
 });
 document.getElementById('hdate').addEventListener('click',openHistory);
 document.getElementById('histBack').addEventListener('click',()=>loadSnapshot(''));
-document.getElementById('histModal').addEventListener('click',e=>{ if(e.target.id==='histModal') e.currentTarget.classList.remove('show'); });
+document.getElementById('histModal').addEventListener('click',e=>{ if(e.target.id==='histModal') history.back(); });
 document.getElementById('plBtnTd').addEventListener('click',createTidalPlaylist);
 document.getElementById('spCfg').addEventListener('click',openSpSettings);
 document.getElementById('notifBtn').addEventListener('click',function(){
@@ -980,8 +1002,8 @@ document.getElementById('notifBtn').addEventListener('click',function(){
     }catch(e){ toast('Não foi possível ativar as notificações',''); }
   });
 });
-document.getElementById('spModal').addEventListener('click',e=>{ if(e.target.id==='spModal') e.currentTarget.classList.remove('show'); });
-document.getElementById('spClose').addEventListener('click',()=>document.getElementById('spModal').classList.remove('show'));
+document.getElementById('spModal').addEventListener('click',e=>{ if(e.target.id==='spModal') history.back(); });
+document.getElementById('spClose').addEventListener('click',()=>history.back());
 document.getElementById('spSave').addEventListener('click',()=>{
   const v=document.getElementById('spInput').value.trim();
   if(!v){ toast('Cola o Client ID primeiro',''); return; }
@@ -1016,7 +1038,7 @@ window.addEventListener('focus',()=>loadData('resume'));
   });
 })();
 
-(async function(){ setChrome(); renderHome(); await loadData('boot');
+(async function(){ setChrome(); renderHome(); await loadData('boot'); loadBands();
   var _u=new URL(location.href);
   if(_u.searchParams.get('code') && _u.searchParams.get('state')==='tpl'){ await handleTidalReturn(); }
   else { await handleAuthReturn(); }
