@@ -72,7 +72,7 @@
   .navtabs button.on{background:var(--card);color:var(--text);border-color:#3a3f4d}
   .navtabs button .n{font-size:.64rem;opacity:.6;margin-left:4px}
   .chips{display:flex;flex-wrap:wrap;gap:8px;padding:10px 14px 4px}
-  /* ---- ecrã inicial de pastas ---- */
+  /* ---- ecra inicial de pastas ---- */
   #home{padding:8px 12px 0;display:none}
   .hometitle{font-size:.76rem;font-weight:800;color:var(--muted);text-transform:uppercase;
     letter-spacing:.6px;margin:6px 6px 12px}
@@ -88,14 +88,14 @@
   .folder .fcount{position:absolute;top:12px;right:12px;min-width:24px;height:24px;padding:0 7px;
     border-radius:999px;background:var(--fc,var(--line));color:#0c0d10;font-weight:900;font-size:.8rem;
     display:flex;align-items:center;justify-content:center}
-  /* ---- barra da secção ---- */
+  /* ---- barra da seccao ---- */
   #secbar{display:none;align-items:center;gap:10px;padding:12px 14px 2px}
   #backBtn{background:var(--bg2);border:1px solid var(--line);color:var(--text);font-weight:800;
     font-size:.86rem;padding:8px 14px;border-radius:999px}
   #backBtn:active{background:var(--card)}
   #secTitle{font-weight:900;font-size:1.06rem}
   .brand h1{cursor:pointer}
-  /* ---- cartão que abre ao toque ---- */
+  /* ---- cartao que abre ao toque ---- */
   .card .chead{cursor:pointer}
   .card .cmetarow{display:flex;align-items:center;gap:8px;margin-top:9px}
   .card .cmeta-min{font-size:.74rem;color:var(--muted);flex:1;min-width:0;overflow:hidden;
@@ -536,7 +536,6 @@ async function loadData(reason){
   }finally{ loading=false; }
 }
 
-/* ---------- Navegação por pastas ---------- */
 const FOLDERS=[
   {s:'recent', ic:'⚡', t:'Lançamentos', sub:'Fontes', col:'--death'},
   {s:'alter',  ic:'🌐', t:'Alterportal', sub:'Singles & EPs', col:'--symph'},
@@ -614,7 +613,7 @@ function cardHTML(r){
   const star=r.star?' ★':'';
   const subParts=[]; if(r.lbl&&r.lbl!=='—')subParts.push(r.lbl); if(r.date)subParts.push(r.date);
   const subline=(r.sub?r.sub+' · ':'')+subParts.join(' · ');
-  const open=(query||view!=='all'); // já filtrado → mostra aberto
+  const open=(query||view!=='all');
   return '<div class="card'+(heard?' heard':'')+(open?' open':'')+'" style="border-left-color:'+cv(r.g)+'">'+
     '<div class="acts">'+
       '<button class="sh" data-act="share" data-id="'+id+'">↗</button>'+
@@ -719,4 +718,76 @@ function render(){
   updateBadge();
 }
 function updateBadge(){
-  const n=Object.keys(stor
+  const n=Object.keys(store.fav).length;const bd=document.getElementById('favbadge');
+  bd.style.display=n?'flex':'none';bd.textContent=n;
+  const hh=Object.keys(store.heard).length;
+  document.getElementById('favnote').textContent=(n||hh)?('❤ '+n+' favorito(s) · 🎧 '+hh+' ouvido(s) neste telemóvel'):'';
+}
+
+document.getElementById('backBtn').addEventListener('click',goHome);
+document.querySelector('.brand h1').addEventListener('click',goHome);
+document.querySelectorAll('.bottombar button').forEach(b=>b.onclick=()=>{
+  view=b.dataset.view;document.querySelectorAll('.bottombar button').forEach(x=>x.classList.toggle('on',x===b));
+  render();
+});
+let qt;document.getElementById('q').addEventListener('input',e=>{
+  clearTimeout(qt);qt=setTimeout(()=>{query=e.target.value.trim().toLowerCase();render();},120);
+});
+document.getElementById('hdate').addEventListener('click',openHistory);
+document.getElementById('histBack').addEventListener('click',()=>loadSnapshot(''));
+document.getElementById('histModal').addEventListener('click',e=>{ if(e.target.id==='histModal') e.currentTarget.classList.remove('show'); });
+document.getElementById('plBtnTd').addEventListener('click',createTidalPlaylist);
+document.getElementById('spCfg').addEventListener('click',openSpSettings);
+document.getElementById('notifBtn').addEventListener('click',function(){
+  window.OneSignalDeferred=window.OneSignalDeferred||[];
+  OneSignalDeferred.push(async function(OneSignal){
+    try{ await OneSignal.Notifications.requestPermission();
+      toast(OneSignal.Notifications.permission?'Notificações ativadas 🔔':'Permissão não concedida', OneSignal.Notifications.permission?'ok':'');
+    }catch(e){ toast('Não foi possível ativar as notificações',''); }
+  });
+});
+document.getElementById('spModal').addEventListener('click',e=>{ if(e.target.id==='spModal') e.currentTarget.classList.remove('show'); });
+document.getElementById('spClose').addEventListener('click',()=>document.getElementById('spModal').classList.remove('show'));
+document.getElementById('spSave').addEventListener('click',()=>{
+  const v=document.getElementById('spInput').value.trim();
+  if(!v){ toast('Cola o Client ID primeiro',''); return; }
+  localStorage.setItem('md_spclient',v); document.getElementById('spModal').classList.remove('show');
+  toast('Client ID guardado — a ligar…','ok'); startSpotifyAuth();
+});
+
+document.addEventListener('visibilitychange',()=>{ if(document.visibilityState==='visible') loadData('resume'); });
+window.addEventListener('pageshow',e=>{ if(e.persisted) loadData('resume'); });
+window.addEventListener('focus',()=>loadData('resume'));
+
+(function(){
+  const ptr=document.getElementById('ptr'), txt=document.getElementById('ptrtxt');
+  let startY=0, pulling=false, dist=0; const TH=70;
+  window.addEventListener('touchstart',e=>{
+    if(window.scrollY<=0 && !loading){ startY=e.touches[0].clientY; pulling=true; dist=0; }
+  },{passive:true});
+  window.addEventListener('touchmove',e=>{
+    if(!pulling) return;
+    dist=e.touches[0].clientY-startY;
+    if(dist>0){ const h=Math.min(dist*0.5,80); ptr.style.height=h+'px';
+      txt.textContent = h>=TH*0.5 ? 'Larga para atualizar' : 'Puxar para atualizar'; }
+  },{passive:true});
+  window.addEventListener('touchend',async()=>{
+    if(!pulling) return; pulling=false;
+    if(parseFloat(ptr.style.height||'0')>=TH*0.5){
+      ptr.classList.add('loading'); ptr.style.height='44px'; txt.textContent='A atualizar…';
+      await loadData('pull');
+      ptr.classList.remove('loading');
+    }
+    ptr.style.height='0px';
+  });
+})();
+
+(async function(){ setChrome(); renderHome(); await loadData('boot');
+  var _u=new URL(location.href);
+  if(_u.searchParams.get('code') && _u.searchParams.get('state')==='tpl'){ await handleTidalReturn(); }
+  else { await handleAuthReturn(); }
+})();
+if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(()=>{});}
+</script>
+</body>
+</html>
