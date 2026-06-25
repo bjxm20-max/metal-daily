@@ -378,6 +378,17 @@ function isFollowed(b){ const k=bandKey(b); const lf=store.follow; if(k in lf) r
 function followKeys(){ const lf=store.follow; const s=new Set(REPO_FOLLOW); Object.keys(lf).forEach(k=>{ if(lf[k]) s.add(k); else s.delete(k); }); return [...s]; }
 async function loadBands(){ try{ const r=await fetch('bands.json?t='+Date.now(),{cache:'no-store'}); if(!r.ok) return;
   const a=await r.json(); REPO_FOLLOW=new Set((a||[]).map(x=>bandKey(typeof x==='string'?x:(x&&x.b)||''))); applyCounts(); if(route!=='home') render(); }catch(e){} }
+const MC_BANDS=new Set(['motionless in white','ice nine kills','bad omens','spiritbox','lorna shore','bring me the horizon','architects','wage war','currents','make them suffer','dayseeker','black veil brides','fit for a king','static dress','beartooth','the amity affliction','parkway drive','while she sleeps','polaris','invent animate','erra','after the burial','kublai khan tx','paleface swiss','signs of the swarm','we came as romans','falling in reverse','asking alexandria','crown the empire','sleeping with sirens','pierce the veil','i prevail','the devil wears prada','silent planet','northlane','in hearts wake','thornhill','alpha wolf','vended','bilmuri','holding absence','sleep theory']);
+function isMC(x){ const b=bandKey(x.b||''); if(MC_BANDS.has(b)) return true; const t=((x.title||'')+' '+(x.d||'')).toLowerCase(); for(const k of MC_BANDS){ if(t.includes(k)) return true; } return false; }
+function renderMC(){
+  const feed=(D.mc||[]); const rel=allReleases().filter(isMC); const nws=allNews().filter(isMC);
+  if(!feed.length && !rel.length && !nws.length) return '<div class="empty">🔪 Sem novidades de metalcore nesta edição.<br>Volta amanhã para mais MIW, INK e companhia.</div>';
+  let html='<div class="digcard" style="border-left-color:var(--rock)"><h3>🔪 Metalcore</h3><div class="dl">Bandas estilo Motionless In White, Ice Nine Kills, Bad Omens, Spiritbox, Lorna Shore…</div></div>';
+  if(feed.length){ html+='<div class="genre-h"><span class="dot" style="background:var(--rock)"></span><span style="color:var(--rock)">Em foco</span><span class="count">'+feed.length+'</span></div>'+feedHTML(feed,'var(--rock)'); }
+  if(rel.length){ html+='<div class="genre-h"><span class="dot" style="background:var(--core)"></span><span style="color:var(--core)">Lançamentos</span><span class="count">'+rel.length+'</span></div>'+rel.map(cardHTML).join(''); }
+  if(nws.length){ html+='<div class="genre-h"><span class="dot" style="background:var(--symph)"></span><span style="color:var(--symph)">Mais notícias</span><span class="count">'+nws.length+'</span></div>'+feedHTML(nws,'var(--symph)'); }
+  return html;
+}
 const idOf=r=>(r.b+'|'+r.t).toLowerCase();
 const SPOT_SVG='<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm4.6 14.4a.62.62 0 0 1-.86.21c-2.35-1.44-5.3-1.76-8.79-.96a.62.62 0 1 1-.28-1.22c3.8-.87 7.07-.5 9.71 1.11.3.18.39.57.22.86Zm1.23-2.74a.78.78 0 0 1-1.07.26c-2.69-1.65-6.79-2.13-9.97-1.16a.78.78 0 1 1-.45-1.49c3.63-1.1 8.15-.56 11.24 1.33.36.22.48.7.25 1.06Zm.11-2.85C14.83 8.96 9.4 8.78 6.3 9.72a.94.94 0 1 1-.54-1.8c3.56-1.08 9.56-.87 13.34 1.37a.94.94 0 0 1-.96 1.61Z"/></svg>';
 
@@ -637,6 +648,7 @@ const FOLDERS=[
   {s:'st',     ic:'🎭', t:'Sleep Token', sub:'Banda', col:'--rnb'},
   {s:'follow', ic:'⭐', t:'A Seguir', sub:'Guardadas', col:'--power'},
   {s:'pt',     ic:'🇵🇹', t:'Portugal', sub:'Cena nacional', col:'--core'},
+  {s:'mc',     ic:'🔪', t:'Metalcore', sub:'MIW · INK · estilo', col:'--rock'},
   {s:'digest', ic:'🗞️', t:'Digest', sub:'Resumo semanal', col:'--symph'},
   {s:'stats',  ic:'📊', t:'Estatísticas', sub:'Por subgénero', col:'--indus'}
 ];
@@ -651,6 +663,7 @@ function countOf(s){ if(!D) return 0;
   if(s==='future') return (D.future||[]).reduce((a,d)=>a+d.items.length,0);
   if(s==='follow') return followCount();
   if(s==='pt') return allReleases().filter(isPT).length + allNews().filter(isPT).length;
+  if(s==='mc') return (D.mc||[]).length + allReleases().filter(isMC).length + allNews().filter(isMC).length;
   if(s==='digest') return allReleases().filter(r=>r.star).length;
   if(s==='stats') return new Set(allReleases().map(r=>r.g)).size;
   return (D[s]||[]).length; }
@@ -828,6 +841,7 @@ function render(){
   document.getElementById('plBtnTd').style.display=(sec==='recent'||sec==='alter'||sec==='main')?'inline-flex':'none';
   if(sec==='follow'){ m.innerHTML=renderFollow(); wireCards(); observeCovers(); updateBadge(); return; }
   if(sec==='pt'){ m.innerHTML=renderPT(); wireCards(); observeCovers(); updateBadge(); return; }
+  if(sec==='mc'){ m.innerHTML=renderMC(); wireCards(); observeCovers(); updateBadge(); return; }
   if(sec==='digest'){ m.innerHTML=renderDigest(); observeCovers(); updateBadge(); return; }
   if(sec==='stats'){ m.innerHTML=renderStats(); updateBadge(); return; }
   if(sec==='news'){ m.innerHTML=feedHTML(D.news,'var(--symph)'); observeCovers(); updateBadge(); return; }
