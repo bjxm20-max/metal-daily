@@ -277,6 +277,36 @@
   .folder .fic{opacity:.95}
   .folder .fsub{color:rgba(255,255,255,.85);text-shadow:0 1px 3px rgba(0,0,0,.4)}
   .folder .fcount{background:rgba(0,0,0,.3);color:#fff}
+  /* pesquisa de bandas + pagina de banda */
+  .bandsearch{margin-bottom:12px}
+  .bandsearch input{width:100%;padding:11px 14px;border-radius:12px;border:1px solid var(--line);background:var(--bg2);color:var(--text);font-size:.95rem;outline:none}
+  #bandRes{margin-top:8px;display:flex;flex-direction:column;gap:7px}
+  #bandRes .bres-load{color:var(--muted);font-size:.82rem;padding:6px 2px}
+  .bres{display:flex;align-items:center;gap:10px;background:var(--card);border:1px solid var(--line);border-radius:11px;padding:9px 11px}
+  .bres-i{flex:1;min-width:0}
+  .bres-n{font-weight:700;font-size:.92rem}
+  .bres-g{font-size:.72rem;color:var(--muted)}
+  .bres-add{flex:0 0 auto;background:var(--power);color:#0c0d10;border:none;font-weight:800;font-size:.74rem;padding:7px 11px;border-radius:999px}
+  .bres-add.on{background:var(--card2);color:var(--symph);border:1px solid var(--symph)}
+  .bchips{display:flex;flex-wrap:wrap;gap:7px;margin-top:11px}
+  .bchip{background:rgba(255,255,255,.06);border:1px solid var(--line);color:var(--text);font-weight:700;font-size:.78rem;padding:6px 11px;border-radius:999px}
+  .bchip:active{background:var(--card2)}
+  #bandModal{position:fixed;inset:0;z-index:60;background:rgba(0,0,0,.62);display:none;align-items:flex-end}
+  #bandModal.show{display:flex}
+  #bandModal .sheet{background:var(--bg2);border-top:1px solid var(--line);width:100%;max-height:84vh;border-radius:18px 18px 0 0;padding:16px 16px calc(env(safe-area-inset-bottom) + 16px);overflow:auto}
+  @media(min-width:640px){#bandModal{align-items:center}#bandModal .sheet{max-width:600px;margin:0 auto;border-radius:18px}}
+  .bd-head{display:flex;align-items:center;gap:10px;margin-bottom:8px}
+  .bd-name{font-size:1.25rem;font-weight:900;flex:1;line-height:1.15}
+  .bd-foll{flex:0 0 auto;background:var(--card);border:1px solid var(--line);color:var(--text);font-weight:800;font-size:.78rem;padding:8px 12px;border-radius:999px}
+  .bd-foll.on{border-color:var(--power);color:var(--power)}
+  .bd-meta{font-size:.74rem;color:var(--muted);margin:-2px 0 10px}
+  .bd-bio{font-size:.86rem;color:var(--text);line-height:1.5;margin:4px 0 12px}
+  .bd-sp{display:inline-flex;background:var(--spotify);color:#08120b;font-weight:800;font-size:.8rem;padding:8px 13px;border-radius:999px;margin-bottom:14px}
+  .bd-disc-h{font-size:.72rem;font-weight:800;text-transform:uppercase;letter-spacing:.6px;color:var(--symph);margin-bottom:7px}
+  .bd-disc{display:flex;flex-direction:column;gap:0}
+  .bd-alb{display:flex;gap:10px;font-size:.85rem;padding:6px 0;border-bottom:1px solid var(--line)}
+  .bd-yr{flex:0 0 42px;color:var(--muted);font-weight:700}
+  .bd-al{flex:1}
 </style>
 </head>
 <body>
@@ -340,6 +370,11 @@
   </ol>
   <input id="spInput" type="text" placeholder="Cola aqui o Client ID" autocomplete="off" autocapitalize="off" spellcheck="false">
   <div class="row"><button id="spClose">Fechar</button><button id="spSave">Guardar e ligar</button></div>
+</div></div>
+
+<div id="bandModal"><div class="sheet">
+  <div style="display:flex;justify-content:flex-end;margin-bottom:4px"><button id="bandClose" style="background:var(--card);border:1px solid var(--line);color:var(--text);font-weight:800;font-size:.82rem;padding:7px 13px;border-radius:999px">Fechar</button></div>
+  <div id="bandBody"></div>
 </div></div>
 
 <div id="toast"></div>
@@ -897,6 +932,8 @@ function exportICS(){
 function wireCards(){
   const m=document.getElementById('main');
   const ics=document.getElementById('icsBtn'); if(ics) ics.onclick=exportICS;
+  const bq=document.getElementById('bandQ'); if(bq && !bq._wired){ bq._wired=1; let _bt; bq.addEventListener('input',function(e){ clearTimeout(_bt); const v=e.target.value.trim(); _bt=setTimeout(function(){ searchBands(v); },300); }); }
+  m.querySelectorAll('.bchip').forEach(c=>c.onclick=()=>openBand(decodeURIComponent(c.dataset.name)));
   m.querySelectorAll('.card .chead').forEach(h=>h.onclick=()=>h.closest('.card').classList.toggle('open'));
   observeCovers();
   m.querySelectorAll('.acts button').forEach(b=>b.onclick=e=>{
@@ -920,12 +957,73 @@ function wireCards(){
     const o=store[k];if(o[id])delete o[id];else o[id]=1;store.set(k,o);render();
   });
 }
+let _jpN=0;
+function jsonp(url){ return new Promise(res=>{
+  const cb='__jp'+(++_jpN); let done=false; const sc=document.createElement('script');
+  function fin(v){ if(done)return; done=true; try{delete window[cb];}catch(e){window[cb]=undefined;} if(sc.parentNode)sc.parentNode.removeChild(sc); res(v); }
+  window[cb]=function(d){ fin(d); };
+  sc.onerror=function(){ fin(null); };
+  sc.src=url+(url.indexOf('?')<0?'?':'&')+'callback='+cb;
+  (document.body||document.documentElement).appendChild(sc);
+  setTimeout(function(){ fin(null); },8000);
+});}
+function toggleFollowName(nm){ const bk=bandKey(nm); const o=store.follow; const now=isFollowed(nm); o[bk]=now?0:1; store.set('follow',o); applyCounts(); return !now; }
+async function searchBands(term){
+  const box=document.getElementById('bandRes'); if(!box) return;
+  if(!term||term.length<2){ box.innerHTML=''; return; }
+  box.innerHTML='<div class="bres-load">A procurar…</div>';
+  const d=await jsonp('https://itunes.apple.com/search?media=music&entity=musicArtist&limit=8&term='+encodeURIComponent(term));
+  const arr=(d&&d.results)||[];
+  if(!arr.length){ box.innerHTML='<div class="bres-load">Nada encontrado. Tenta outro nome.</div>'; return; }
+  box.innerHTML=arr.map(a=>{ const nm=(a.artistName||'').replace(/"/g,''); const on=isFollowed(nm);
+    return '<div class="bres" data-name="'+encodeURIComponent(nm)+'" data-aid="'+(a.artistId||'')+'">'+
+      '<div class="bres-i"><div class="bres-n">'+nm+'</div><div class="bres-g">'+(a.primaryGenreName||'')+'</div></div>'+
+      '<button class="bres-add'+(on?' on':'')+'" data-name="'+encodeURIComponent(nm)+'">'+(on?'✓ Guardada':'＋ Guardar')+'</button>'+
+    '</div>'; }).join('');
+  box.querySelectorAll('.bres-add').forEach(b=>b.onclick=ev=>{ ev.stopPropagation();
+    const nm=decodeURIComponent(b.dataset.name); const added=toggleFollowName(nm);
+    b.classList.toggle('on',added); b.textContent=added?'✓ Guardada':'＋ Guardar';
+    toast(added?('Guardaste '+nm+' ⭐'):('Removeste '+nm), added?'ok':''); });
+  box.querySelectorAll('.bres').forEach(r=>r.onclick=()=>openBand(decodeURIComponent(r.dataset.name), r.dataset.aid));
+}
+function bandBio(name){ return new Promise(async res=>{
+  for(const lang of ['pt','en']){
+    const d=await jsonp('https://'+lang+'.wikipedia.org/w/api.php?action=query&prop=extracts&exintro&explaintext&redirects=1&format=json&titles='+encodeURIComponent(name));
+    try{ const pg=d&&d.query&&d.query.pages; if(pg){ const k=Object.keys(pg)[0]; const ex=pg[k]&&pg[k].extract;
+      if(ex&&ex.length>40){ res(ex.length>650?ex.slice(0,650)+'…':ex); return; } } }catch(e){}
+  }
+  res('');
+});}
+async function openBand(name, aid){
+  const modal=document.getElementById('bandModal'), body=document.getElementById('bandBody');
+  modal.classList.add('show'); try{history.pushState({nav:'modal'},'');}catch(e){}
+  const on=isFollowed(name);
+  body.innerHTML='<div class="bd-head"><div class="bd-name">'+name+'</div>'+
+    '<button id="bdFollow" class="bd-foll'+(on?' on':'')+'">'+(on?'★ Guardada':'☆ Guardar')+'</button></div>'+
+    '<div id="bdBio" class="bd-bio">A carregar bio…</div>'+
+    '<a class="bd-sp" href="https://open.spotify.com/search/'+encodeURIComponent(name)+'" target="_blank" rel="noopener">Abrir no Spotify</a>'+
+    '<div class="bd-disc-h">Discografia</div><div id="bdDisc" class="bd-disc">A carregar…</div>';
+  document.getElementById('bdFollow').onclick=function(){ const added=toggleFollowName(name);
+    this.classList.toggle('on',added); this.textContent=added?'★ Guardada':'☆ Guardar';
+    toast(added?('Guardaste '+name+' ⭐'):('Removeste '+name), added?'ok':''); };
+  bandBio(name).then(t=>{ const el=document.getElementById('bdBio'); if(el) el.textContent=t||'Sem biografia disponível.'; });
+  let id=aid;
+  if(!id){ const s=await jsonp('https://itunes.apple.com/search?media=music&entity=musicArtist&limit=1&term='+encodeURIComponent(name)); id=s&&s.results&&s.results[0]&&s.results[0].artistId; }
+  let albums=[];
+  if(id){ const d=await jsonp('https://itunes.apple.com/lookup?id='+id+'&entity=album&limit=80'); albums=((d&&d.results)||[]).filter(x=>x.wrapperType==='collection'); }
+  const seen={}; albums=albums.filter(a=>{ const n=(a.collectionName||'').toLowerCase(); if(seen[n])return false; seen[n]=1; return true; });
+  albums.sort((a,b)=>(b.releaseDate||'').localeCompare(a.releaseDate||''));
+  const disc=document.getElementById('bdDisc'); if(!disc) return;
+  disc.innerHTML = albums.length ? albums.map(a=>'<div class="bd-alb"><span class="bd-yr">'+((a.releaseDate||'').slice(0,4)||'—')+'</span><span class="bd-al">'+(a.collectionName||'')+'</span></div>').join('') : 'Sem discografia encontrada.';
+}
 function renderFollow(){
   const keys=followKeys();
-  if(!keys.length) return '<div class="empty">Ainda não tens bandas guardadas.<br>Toca na ☆ de qualquer lançamento para a guardar,<br>ou pede ao Claude para juntar bandas à tua lista (bands.json).</div>';
+  const search='<div class="bandsearch"><input id="bandQ" type="search" placeholder="🔎 Procurar banda para guardar…" autocomplete="off" autocapitalize="off" spellcheck="false"><div id="bandRes"></div></div>';
+  if(!keys.length) return search+'<div class="empty">Ainda não tens bandas guardadas.<br>Procura uma banda acima para a adicionar,<br>ou toca na ☆ de qualquer lançamento.</div>';
   const rel=allReleases().filter(r=>isFollowed(r.b));
   const nws=allNews().filter(n=>keys.some(k=>(n.title||'').toLowerCase().includes(k)));
-  let html='<div class="digcard" style="border-left-color:var(--power)"><h3>⭐ As tuas bandas ('+keys.length+')</h3><div class="dl">Guardadas neste telemóvel e sincronizadas a partir do repositório (bands.json).</div></div>';
+  const chips=keys.map(k=>{ const disp=k.replace(/\b\w/g,c=>c.toUpperCase()); return '<button class="bchip" data-name="'+encodeURIComponent(k)+'">'+disp+'</button>'; }).join('');
+  let html=search+'<div class="digcard" style="border-left-color:var(--power)"><h3>⭐ As tuas bandas ('+keys.length+')</h3><div class="dl">Toca numa banda para ver bio e discografia. Guardadas no telemóvel + repositório (bands.json).</div><div class="bchips">'+chips+'</div></div>';
   if(rel.length){ html+='<div class="genre-h"><span class="dot" style="background:var(--power)"></span><span style="color:var(--power)">Lançamentos</span><span class="count">'+rel.length+'</span></div>'+rel.map(cardHTML).join(''); }
   if(nws.length){ html+='<div class="genre-h"><span class="dot" style="background:var(--symph)"></span><span style="color:var(--symph)">Notícias</span><span class="count">'+nws.length+'</span></div>'+feedHTML(nws,'var(--symph)'); }
   if(!rel.length && !nws.length) html+='<div class="empty">Sem novidades das tuas bandas nesta edição.<br>Voltamos a avisar quando houver. 🤘</div>';
@@ -994,7 +1092,7 @@ function updateBadge(){
 
 document.getElementById('backBtn').addEventListener('click',()=>{ if(route!=='home'){ history.back(); } else { goHome(); } });
 document.querySelector('.brand h1').addEventListener('click',()=>{ if(route!=='home') history.back(); });
-function closeOpenModals(){ let c=false; ['histModal','spModal'].forEach(id=>{ const el=document.getElementById(id); if(el&&el.classList.contains('show')){ el.classList.remove('show'); c=true; } }); return c; }
+function closeOpenModals(){ let c=false; ['histModal','spModal','bandModal'].forEach(id=>{ const el=document.getElementById(id); if(el&&el.classList.contains('show')){ el.classList.remove('show'); c=true; } }); return c; }
 window.addEventListener('popstate',function(){ if(closeOpenModals()) return; if(route!=='home'){ goHome(); } });
 document.querySelectorAll('.bottombar button').forEach(b=>b.onclick=()=>{
   view=b.dataset.view;document.querySelectorAll('.bottombar button').forEach(x=>x.classList.toggle('on',x===b));
@@ -1018,6 +1116,8 @@ document.getElementById('notifBtn').addEventListener('click',function(){
 });
 document.getElementById('spModal').addEventListener('click',e=>{ if(e.target.id==='spModal') history.back(); });
 document.getElementById('spClose').addEventListener('click',()=>history.back());
+document.getElementById('bandClose').addEventListener('click',()=>history.back());
+document.getElementById('bandModal').addEventListener('click',e=>{ if(e.target.id==='bandModal') history.back(); });
 document.getElementById('spSave').addEventListener('click',()=>{
   const v=document.getElementById('spInput').value.trim();
   if(!v){ toast('Cola o Client ID primeiro',''); return; }
