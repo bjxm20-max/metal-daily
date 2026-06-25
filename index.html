@@ -229,6 +229,15 @@
     main{grid-template-columns:1fr 1fr 1fr}
     header .brand, header .search, #secbar, #home, .chips, main, footer{max-width:1140px}
   }
+  /* ---- capas de album / fotos ---- */
+  .card .cover{position:relative;width:100%;height:150px;border-radius:11px;overflow:hidden;margin-bottom:10px;
+    background:linear-gradient(135deg,var(--gc,#333),#0c0d10);background-size:cover;background-position:center}
+  .card.biocard .cover{height:175px}
+  .card .cover .cover-fb{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
+    font-size:2.7rem;font-weight:900;color:rgba(255,255,255,.9);text-shadow:0 2px 10px rgba(0,0,0,.55)}
+  .card .cover.has-img .cover-fb{display:none}
+  .card .cover ~ .band,.card .cover ~ .title{padding-right:8px}
+  .card .acts button{box-shadow:0 1px 5px rgba(0,0,0,.5)}
 </style>
 </head>
 <body>
@@ -622,6 +631,39 @@ function matchFilter(r){
     if(!s.includes(query)) return false;}
   return true;
 }
+/* ---------- Capas de album (iTunes Search, lazy + cache) ---------- */
+function coverQ(s){ return (s||'').replace(/\([^)]*\)|\[[^\]]*\]/g,'').replace(/["'<>]/g,' ').replace(/\s+/g,' ').trim(); }
+function newsQ(t){ return coverQ(t).split(' ').slice(0,4).join(' '); }
+function fbLetter(s){ const t=(s||'').trim(); return t?t[0].toUpperCase():'♪'; }
+function coverHTML(q,g){ return '<div class="cover" data-cq="'+(q||'').replace(/"/g,'')+'" style="--gc:'+(g||'#333')+'"><span class="cover-fb">'+fbLetter(q)+'</span></div>'; }
+const COVER_TTL=1000*60*60*24*30;
+function covGet(q){ try{const o=JSON.parse(localStorage.getItem('cov_'+q)||'null'); if(o&&(Date.now()-o.t)<COVER_TTL) return o.u;}catch(e){} return undefined; }
+function covSet(q,u){ try{localStorage.setItem('cov_'+q,JSON.stringify({u:u||'',t:Date.now()}));}catch(e){} }
+let _cbN=0;
+function itunes(term){ return new Promise(res=>{
+  if(!term){ res(''); return; }
+  const cb='__itcb'+(++_cbN); let done=false; const sc=document.createElement('script');
+  function fin(v){ if(done)return; done=true; try{delete window[cb];}catch(e){window[cb]=undefined;} if(sc.parentNode)sc.parentNode.removeChild(sc); res(v); }
+  window[cb]=function(d){ let u=''; try{const r=d&&d.results&&d.results[0]; u=r?(r.artworkUrl100||'').replace('100x100','600x600'):'';}catch(e){} fin(u); };
+  sc.onerror=function(){ fin(''); };
+  sc.src='https://itunes.apple.com/search?media=music&entity=album&limit=1&term='+encodeURIComponent(term)+'&callback='+cb;
+  (document.body||document.documentElement).appendChild(sc);
+  setTimeout(function(){ fin(''); },7000);
+});}
+async function loadCover(el){
+  const q=el.getAttribute('data-cq'); if(!q){ return; } el.removeAttribute('data-cq');
+  let u=covGet(q);
+  if(u===undefined){ u=await itunes(q); covSet(q,u); }
+  if(u){ const im=new Image(); im.onload=function(){ el.style.backgroundImage='url("'+u+'")'; el.classList.add('has-img'); }; im.src=u; }
+}
+let _covIO=null;
+function observeCovers(){
+  const els=document.querySelectorAll('.cover[data-cq]');
+  if('IntersectionObserver' in window){
+    if(!_covIO) _covIO=new IntersectionObserver(function(ents){ ents.forEach(function(e){ if(e.isIntersecting){ loadCover(e.target); _covIO.unobserve(e.target);} }); },{rootMargin:'250px'});
+    els.forEach(function(el){ _covIO.observe(el); });
+  } else { els.forEach(loadCover); }
+}
 function cardHTML(r){
   const id=idOf(r), fav=store.fav[id], heard=store.heard[id];
   const star=r.star?' ★':'';
@@ -635,6 +677,7 @@ function cardHTML(r){
       '<button class="hd'+(heard?' on':'')+'" data-act="heard" data-id="'+id+'">✓</button>'+
     '</div>'+
     '<div class="chead">'+
+      coverHTML(coverQ(r.b+' '+r.t), cv(r.g))+
       '<div class="band">'+r.b+'<span style="color:var(--power)">'+star+'</span></div>'+
       '<div class="title">'+r.t+'</div>'+
       '<div class="cmetarow">'+
@@ -673,6 +716,7 @@ function bioCard(b, accent){
   const mem=(b.members||[]).map(m=>'<span class="bmem">'+m+'</span>').join('');
   const tri=(b.trivia||[]).map(t=>'<li>'+t+'</li>').join('');
   return '<div class="card biocard" style="border-left-color:'+accent+'">'+
+    coverHTML(b.name, accent)+
     '<div class="band" style="padding-right:0;font-size:1.18rem">'+b.name+'</div>'+
     (b.formed?'<div class="bsub" style="color:'+accent+'">'+b.formed+'</div>':'')+
     '<div class="meta" style="margin:7px 0 2px">'+(b.summary||'')+'</div>'+
@@ -686,6 +730,7 @@ function feedHTML(list, accent){
   if(!list.length) return '<div class="empty">Nada por aqui ainda.</div>';
   return list.map(n=>{ const col=accent; const star=n.star?' ★':'';
     return '<div class="card" style="border-left-color:'+col+'">'+
+      coverHTML(newsQ(n.title), col)+
       '<div class="band" style="padding-right:0">'+n.title+'<span style="color:var(--power)">'+star+'</span></div>'+
       '<div class="meta" style="margin-top:6px"><b style="color:'+col+'">'+(n.src||'')+'</b> · '+(n.date||'')+(n.d?'<br>'+n.d:'')+'</div>'+
       '<a class="spot" style="background:var(--bg2);color:var(--symph);border:1px solid var(--line)" href="'+(n.url||'#')+'" target="_blank" rel="noopener">Ler →</a>'+
@@ -696,10 +741,10 @@ function render(){
   const m=document.getElementById('main'); let html='', shown=0;
   document.getElementById('chips').style.display=(sec==='news'||sec==='buzz'||sec==='dt'||sec==='st'||sec==='main')?'none':'flex';
   document.getElementById('plBtnTd').style.display=(sec==='recent'||sec==='alter'||sec==='main')?'inline-flex':'none';
-  if(sec==='news'){ m.innerHTML=feedHTML(D.news,'var(--symph)'); updateBadge(); return; }
-  if(sec==='buzz'){ m.innerHTML=feedHTML(D.buzz,'var(--pop)'); updateBadge(); return; }
-  if(sec==='dt'){ m.innerHTML=bioCard((D.bios||{}).dt,'var(--prog)')+feedHTML(D.dt,'var(--prog)'); updateBadge(); return; }
-  if(sec==='st'){ m.innerHTML=bioCard((D.bios||{}).st,'var(--indus)')+feedHTML(D.st,'var(--indus)'); updateBadge(); return; }
+  if(sec==='news'){ m.innerHTML=feedHTML(D.news,'var(--symph)'); observeCovers(); updateBadge(); return; }
+  if(sec==='buzz'){ m.innerHTML=feedHTML(D.buzz,'var(--pop)'); observeCovers(); updateBadge(); return; }
+  if(sec==='dt'){ m.innerHTML=bioCard((D.bios||{}).dt,'var(--prog)')+feedHTML(D.dt,'var(--prog)'); observeCovers(); updateBadge(); return; }
+  if(sec==='st'){ m.innerHTML=bioCard((D.bios||{}).st,'var(--indus)')+feedHTML(D.st,'var(--indus)'); observeCovers(); updateBadge(); return; }
   if(sec==='future'){
     D.future.forEach(day=>{
       const items=day.items.filter(matchFilter); if(!items.length)return; shown+=items.length;
@@ -715,6 +760,7 @@ function render(){
   m.innerHTML = shown ? html :
     '<div class="empty">Nada encontrado.<br>'+(view!=='all'?'Experimenta o separador "Tudo".':'Ajusta a pesquisa ou os filtros.')+'</div>';
   m.querySelectorAll('.card .chead').forEach(h=>h.onclick=()=>h.closest('.card').classList.toggle('open'));
+  observeCovers();
   m.querySelectorAll('.acts button').forEach(b=>b.onclick=e=>{
     e.preventDefault();const k=b.dataset.act,id=b.dataset.id;
     if(k==='share'){
