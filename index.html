@@ -542,7 +542,7 @@ async function startSpotifyAuth(){
   const challenge=b64url(await sha256(verifier));
   const p=new URLSearchParams({client_id:cid,response_type:'code',redirect_uri:SP_REDIRECT,
     code_challenge_method:'S256',code_challenge:challenge,state:'pl',
-    scope:'playlist-modify-public playlist-modify-private'});
+    scope:'playlist-modify-public playlist-modify-private user-follow-read'});
   location.href='https://accounts.spotify.com/authorize?'+p.toString();
 }
 async function handleAuthReturn(){
@@ -554,6 +554,7 @@ async function handleAuthReturn(){
   try{ const t=await spTokenReq({grant_type:'authorization_code',code:code,redirect_uri:SP_REDIRECT,code_verifier:verifier});
     saveTok(t); localStorage.removeItem('md_pkce');
     if(localStorage.getItem('md_plintent')){ localStorage.removeItem('md_plintent'); await createPlaylistFlow(); }
+    else if(localStorage.getItem('md_freshintent')){ localStorage.removeItem('md_freshintent'); openSection('fresh'); setTimeout(checkFreshSingles,400); }
   }catch(e){ toast('Falha no login do Spotify',''); }
 }
 async function createPlaylistFlow(){
@@ -904,12 +905,68 @@ function bioCard(b, accent){
 const _MO={jan:1,fev:2,feb:2,mar:3,abr:4,apr:4,mai:5,may:5,jun:6,jul:7,ago:8,aug:8,set:9,sep:9,out:10,oct:10,nov:11,dez:12,dec:12};
 function dkey(d){ d=(d||'').toLowerCase(); const mm=d.match(/([a-zç]{3})/); if(!mm||!_MO[mm[1]]) return -1; const dd=d.match(/(\d{1,2})/); return _MO[mm[1]]*100+(dd?parseInt(dd[1],10):0); }
 function sortFeed(list){ return (list||[]).slice().sort((a,b)=>dkey(b.date)-dkey(a.date)); }
+var freshLive=(function(){try{return JSON.parse(localStorage.getItem('md_fresh_live')||'null');}catch(e){return null;}})();
+function wireFresh(){ var b=document.getElementById('freshChk'); if(b) b.onclick=checkFreshSingles; }
+function fsRelDate(s){ if(!s) return null; var p=(''+s).split('-'); var dt=new Date(+p[0],(+p[1]||1)-1,(+p[2]||1)); return isNaN(dt.getTime())?null:dt; }
+function fsKey(al){ return (((al.artists&&al.artists[0]&&al.artists[0].name)||'')+'|'+(al.name||'')).toLowerCase(); }
+function fsFmt(al){ var t=al.album_type||al.type||'single'; if(t==='single') return (al.total_tracks&&al.total_tracks>3)?'EP':'Single'; return 'Album'; }
+function fsShort(dt){ var M=['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez']; return dt.getDate()+' '+M[dt.getMonth()]; }
+function fsAdd(found,al,bname,src){ var k=fsKey(al); if(found[k]) return; var dt=fsRelDate(al.release_date);
+  found[k]={b:bname||((al.artists&&al.artists[0]&&al.artists[0].name)||''),t:al.name,fmt:fsFmt(al),src:src,date:dt?fsShort(dt):'',url:(al.external_urls&&al.external_urls.spotify)||'',_id:al.id,_t:dt?dt.getTime():0}; }
+async function freshAuth(){ var cid=spClientId(); if(!cid){ openSpSettings(); return; }
+  var verifier=randStr(96); localStorage.setItem('md_pkce',verifier); localStorage.setItem('md_freshintent','1');
+  var challenge=b64url(await sha256(verifier));
+  var p=new URLSearchParams({client_id:cid,response_type:'code',redirect_uri:SP_REDIRECT,code_challenge_method:'S256',code_challenge:challenge,state:'fresh',scope:'playlist-modify-public playlist-modify-private user-follow-read'});
+  location.href='https://accounts.spotify.com/authorize?'+p.toString(); }
+async function checkFreshSingles(){
+  var msg=document.getElementById('freshMsg'), btn=document.getElementById('freshChk');
+  function setMsg(x){ if(msg) msg.innerHTML=x; }
+  var tk=await getToken(); if(!tk){ setMsg('🔑 A abrir login do Spotify…'); freshAuth(); return; }
+  if(btn){ btn.disabled=true; btn.textContent='⏳ A verificar…'; } setMsg('A consultar o Spotify…');
+  var H={'Authorization':'Bearer '+tk};
+  try{
+    var meR=await fetch('https://api.spotify.com/v1/me',{headers:H});
+    if(meR.status===401){ localStorage.removeItem('md_sptok'); freshAuth(); return; }
+    var me=await meR.json(); var mkt=(me&&me.country)||'PT';
+    var artists=[], after='', guard=0;
+    while(guard++<25){
+      var fr=await fetch('https://api.spotify.com/v1/me/following?type=artist&limit=50'+(after?'&after='+after:''),{headers:H});
+      if(fr.status===401||fr.status===403){ localStorage.removeItem('md_sptok'); setMsg('🔑 Precisa de autorizar o acesso aos artistas seguidos…'); freshAuth(); return; }
+      var fj=await fr.json(); var ar=(fj.artists&&fj.artists.items)||[]; artists=artists.concat(ar);
+      after=(fj.artists&&fj.artists.cursors&&fj.artists.cursors.after)||''; if(!after||ar.length<50) break;
+    }
+    var cutoff=Date.now()-1000*60*60*24*21, found={}, cap=Math.min(artists.length,120), idx=0;
+    setMsg('A verificar '+cap+' artistas seguidos…');
+    async function worker(){ while(idx<cap){ var a=artists[idx++]; if(!a||!a.id) continue;
+      try{ var rr=await fetch('https://api.spotify.com/v1/artists/'+a.id+'/albums?include_groups=single,album&market='+mkt+'&limit=5',{headers:H});
+        if(rr.status===429){ await new Promise(function(r){setTimeout(r,1500);}); idx--; continue; }
+        var rj=await rr.json(); (rj.items||[]).forEach(function(al){ var d=fsRelDate(al.release_date); if(d&&d.getTime()>=cutoff) fsAdd(found,al,a.name,'Seguidos'); });
+      }catch(e){} } }
+    var wk=[]; for(var w=0;w<6;w++) wk.push(worker()); await Promise.all(wk);
+    try{ var nr=await fetch('https://api.spotify.com/v1/browse/new-releases?country='+mkt+'&limit=50',{headers:H});
+      var nj=await nr.json(); ((nj.albums&&nj.albums.items)||[]).forEach(function(al){ var d=fsRelDate(al.release_date); if(d&&d.getTime()>=cutoff) fsAdd(found,al,(al.artists&&al.artists[0]&&al.artists[0].name)||'','New Releases'); });
+    }catch(e){}
+    var items=Object.keys(found).map(function(k){return found[k];}); items.sort(function(a,b){return (b._t||0)-(a._t||0);});
+    var seen={}; try{ seen=JSON.parse(localStorage.getItem('md_fresh_seen')||'{}'); }catch(e){}
+    var firstRun=!Object.keys(seen).length;
+    var news=items.filter(function(it){ return !seen[it._id]; });
+    items.forEach(function(it){ it.star=(!firstRun&&!seen[it._id])?1:0; });
+    var nseen={}; items.forEach(function(it){ nseen[it._id]=1; }); localStorage.setItem('md_fresh_seen',JSON.stringify(nseen));
+    freshLive=items.slice(0,80); try{ localStorage.setItem('md_fresh_live',JSON.stringify(freshLive)); }catch(e){}
+    if(btn){ btn.disabled=false; btn.textContent='🔄 Verificar novos singles'; }
+    if(firstRun){ setMsg('✅ Guardei '+items.length+' lançamentos recentes. Da próxima aviso-te do que for novo.'); }
+    else if(news.length){ setMsg('🎉 <b>'+news.length+'</b> novidade'+(news.length>1?'s':'')+'! (marcadas com ★) · '+items.length+' recentes'); }
+    else { setMsg('✅ Nada de novo desde a última verificação. ('+items.length+' recentes)'); }
+    if(sec==='fresh') render();
+  }catch(e){ if(btn){ btn.disabled=false; btn.textContent='🔄 Verificar novos singles'; } setMsg('⚠️ Erro a consultar o Spotify. Tenta novamente.'); }
+}
+
 function freshHTML(list){
   list=(list||[]);
   if(query) list=list.filter(function(n){return ((n.b+' '+n.t+' '+(n.src||'')).toLowerCase().includes(query));});
   if(!list.length) return '<div class="empty">🎧 Sem fresh singles ainda.<br>Volta mais logo.</div>';
   var SP='var(--spotify)';
-  var html='<div class="digcard" style="border-left-color:'+SP+'"><h3>🎧 Fresh Singles</h3><div class="dl">Lançamentos personalizados do teu Spotify — feed pessoal (What\'s New) + Release Radar.'+(D.freshAt?' Atualizado '+D.freshAt+'.':'')+'</div></div>';
+  var html='<div class="digcard" style="border-left-color:'+SP+'"><h3>🎧 Fresh Singles</h3><div class="dl">Lançamentos personalizados do teu Spotify — feed pessoal (What\'s New) + Release Radar.'+(D.freshAt?' Atualizado '+D.freshAt+'.':'')+'</div></div>'+'<div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:2px 0 14px"><button id="freshChk" class="icsbtn" style="margin:0;background:var(--spotify);color:#08120b;border:none">🔄 Verificar novos singles</button><span id="freshMsg" style="font-size:.82rem;color:var(--muted)"></span></div>';
   html+=list.map(function(r){
     var star=r.star?' <span style="color:var(--power)">★</span>':'';
     var fmt=(r.fmt||'Single'); var fc=fmt==='Album'?'var(--power)':(fmt==='EP'?'var(--symph)':SP);
@@ -946,7 +1003,7 @@ function render(){
   const m=document.getElementById('main'); let html='', shown=0;
   document.getElementById('chips').style.display=(sec==='recent'||sec==='alter'||sec==='future')?'flex':'none';
   document.getElementById('plBtnTd').style.display=(sec==='recent'||sec==='alter'||sec==='main')?'inline-flex':'none';
-  if(sec==='fresh'){ m.innerHTML=freshHTML(D.fresh); observeCovers(); updateBadge(); return; }
+  if(sec==='fresh'){ m.innerHTML=freshHTML(freshLive||D.fresh); observeCovers(); wireFresh(); updateBadge(); return; }
   if(sec==='follow'){ m.innerHTML=renderFollow(); wireCards(); observeCovers(); updateBadge(); return; }
   if(sec==='pt'){ m.innerHTML=renderPT(); wireCards(); observeCovers(); updateBadge(); return; }
   if(sec==='mc'){ m.innerHTML=renderMC(); wireCards(); observeCovers(); updateBadge(); return; }
