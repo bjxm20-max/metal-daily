@@ -909,7 +909,7 @@ var freshLive=(function(){try{return JSON.parse(localStorage.getItem('md_fresh_l
 function wireFresh(){ var b=document.getElementById('freshChk'); if(b) b.onclick=checkFreshSingles; }
 function fsRelDate(s){ if(!s) return null; var p=(''+s).split('-'); var dt=new Date(+p[0],(+p[1]||1)-1,(+p[2]||1)); return isNaN(dt.getTime())?null:dt; }
 function fsKey(al){ return (((al.artists&&al.artists[0]&&al.artists[0].name)||'')+'|'+(al.name||'')).toLowerCase(); }
-function fsFmt(al){ var t=al.album_type||al.type||'single'; if(t==='single') return (al.total_tracks&&al.total_tracks>3)?'EP':'Single'; return 'Album'; }
+function fsFmt(al){ var g=al.album_group||''; if(g==='appears_on') return 'Feat.'; if(g==='compilation'||al.album_type==='compilation') return 'Comp'; var t=al.album_type||al.type||'single'; if(t==='single') return (al.total_tracks&&al.total_tracks>3)?'EP':'Single'; return 'Album'; }
 function fsShort(dt){ var M=['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez']; return dt.getDate()+' '+M[dt.getMonth()]; }
 function fsAdd(found,al,bname,src){ var k=fsKey(al); if(found[k]) return; var dt=fsRelDate(al.release_date);
   found[k]={b:bname||((al.artists&&al.artists[0]&&al.artists[0].name)||''),t:al.name,fmt:fsFmt(al),src:src,date:dt?fsShort(dt):'',url:(al.external_urls&&al.external_urls.spotify)||'',_id:al.id,_t:dt?dt.getTime():0}; }
@@ -938,7 +938,7 @@ async function checkFreshSingles(){
     var cutoff=Date.now()-1000*60*60*24*21, found={}, cap=Math.min(artists.length,120), idx=0;
     setMsg('A verificar '+cap+' artistas seguidos…');
     async function worker(){ while(idx<cap){ var a=artists[idx++]; if(!a||!a.id) continue;
-      try{ var rr=await fetch('https://api.spotify.com/v1/artists/'+a.id+'/albums?include_groups=single,album&market='+mkt+'&limit=5',{headers:H});
+      try{ var rr=await fetch('https://api.spotify.com/v1/artists/'+a.id+'/albums?include_groups=album,single,compilation,appears_on&market='+mkt+'&limit=8',{headers:H});
         if(rr.status===429){ await new Promise(function(r){setTimeout(r,1500);}); idx--; continue; }
         var rj=await rr.json(); (rj.items||[]).forEach(function(al){ var d=fsRelDate(al.release_date); if(d&&d.getTime()>=cutoff) fsAdd(found,al,a.name,'Seguidos'); });
       }catch(e){} } }
