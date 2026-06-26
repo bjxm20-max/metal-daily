@@ -675,7 +675,7 @@ async function createTidalPlaylist(){
 }
 function sig(d){return (d.generated||'')+'|'+((d.recent&&d.recent.length)||0)+'|'+((d.alter&&d.alter.length)||0)+'|'+
   ((d.main&&d.main.length)||0)+'|'+(d.future||[]).reduce((a,x)=>a+x.items.length,0)+'|'+((d.news&&d.news.length)||0)+'|'+
-  ((d.buzz&&d.buzz.length)||0)+'|'+((d.dt&&d.dt.length)||0)+'|'+((d.st&&d.st.length)||0);}
+  ((d.buzz&&d.buzz.length)||0)+'|'+((d.dt&&d.dt.length)||0)+'|'+((d.st&&d.st.length)||0)+'|'+((d.fresh&&d.fresh.length)||0);}
 
 function notifyFollowed(fresh){
   if(!fresh) return; const keys=followKeys(); if(!keys.length) return;
@@ -713,6 +713,7 @@ async function loadData(reason){
 
 const FOLDERS=[
   {s:'recent', ic:'⚡', t:'Lançamentos', sub:'Fontes', col:'--death'},
+  {s:'fresh',  ic:'🎧', t:'Fresh Singles', sub:'Spotify · Radar', col:'--spotify'},
   {s:'alter',  ic:'🌐', t:'Alterportal', sub:'Singles & EPs', col:'--symph'},
   {s:'main',   ic:'🎵', t:'Mainstream', sub:'Pop / Rock', col:'--pop'},
   {s:'future', ic:'📅', t:'Future', sub:'A chegar', col:'--power'},
@@ -903,6 +904,30 @@ function bioCard(b, accent){
 const _MO={jan:1,fev:2,feb:2,mar:3,abr:4,apr:4,mai:5,may:5,jun:6,jul:7,ago:8,aug:8,set:9,sep:9,out:10,oct:10,nov:11,dez:12,dec:12};
 function dkey(d){ d=(d||'').toLowerCase(); const mm=d.match(/([a-zç]{3})/); if(!mm||!_MO[mm[1]]) return -1; const dd=d.match(/(\d{1,2})/); return _MO[mm[1]]*100+(dd?parseInt(dd[1],10):0); }
 function sortFeed(list){ return (list||[]).slice().sort((a,b)=>dkey(b.date)-dkey(a.date)); }
+function freshHTML(list){
+  list=(list||[]);
+  if(query) list=list.filter(function(n){return ((n.b+' '+n.t+' '+(n.src||'')).toLowerCase().includes(query));});
+  if(!list.length) return '<div class="empty">🎧 Sem fresh singles ainda.<br>Volta mais logo.</div>';
+  var SP='var(--spotify)';
+  var html='<div class="digcard" style="border-left-color:'+SP+'"><h3>🎧 Fresh Singles</h3><div class="dl">Lançamentos personalizados do teu Spotify — feed pessoal (What\'s New) + Release Radar.'+(D.freshAt?' Atualizado '+D.freshAt+'.':'')+'</div></div>';
+  html+=list.map(function(r){
+    var star=r.star?' <span style="color:var(--power)">★</span>':'';
+    var fmt=(r.fmt||'Single'); var fc=fmt==='Album'?'var(--power)':(fmt==='EP'?'var(--symph)':SP);
+    return '<div class="card" style="border-left-color:'+SP+'">'+
+      coverHTML(r.b+' '+r.t, SP)+
+      '<div class="band" style="padding-right:0">'+r.b+star+
+        ' <span style="font-size:.56rem;font-weight:800;color:#0c0d10;background:'+fc+';padding:2px 7px;border-radius:999px;vertical-align:middle">'+fmt.toUpperCase()+'</span>'+
+      '</div>'+
+      '<div class="title">'+r.t+'</div>'+
+      '<div class="meta" style="margin-top:6px"><b style="color:'+SP+'">'+(r.src||'Spotify')+'</b>'+(r.date?' · '+r.date:'')+'</div>'+
+      '<div class="streams" style="margin-top:8px">'+
+        '<a class="strm sp" href="'+spotifyUrl(r)+'" target="_blank" rel="noopener">'+SPOT_SVG+'Spotify</a>'+
+        '<a class="strm yt" href="'+ytmUrl(r)+'" target="_blank" rel="noopener">'+YTM_SVG+'YT Music</a>'+
+      '</div>'+
+    '</div>'; }).join('');
+  return html;
+}
+
 function feedHTML(list, accent){
   list=(list||[]);
   if(query) list=list.filter(n=>((n.title+' '+(n.src||'')+' '+(n.d||'')).toLowerCase().includes(query)));
@@ -921,6 +946,7 @@ function render(){
   const m=document.getElementById('main'); let html='', shown=0;
   document.getElementById('chips').style.display=(sec==='recent'||sec==='alter'||sec==='future')?'flex':'none';
   document.getElementById('plBtnTd').style.display=(sec==='recent'||sec==='alter'||sec==='main')?'inline-flex':'none';
+  if(sec==='fresh'){ m.innerHTML=freshHTML(D.fresh); observeCovers(); updateBadge(); return; }
   if(sec==='follow'){ m.innerHTML=renderFollow(); wireCards(); observeCovers(); updateBadge(); return; }
   if(sec==='pt'){ m.innerHTML=renderPT(); wireCards(); observeCovers(); updateBadge(); return; }
   if(sec==='mc'){ m.innerHTML=renderMC(); wireCards(); observeCovers(); updateBadge(); return; }
