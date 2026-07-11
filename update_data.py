@@ -4,6 +4,8 @@ from datetime import datetime as dt
 
 DATA_FILE = "data.json"
 
+print("🚀 Iniciando update...")
+
 def load_data():
     with open(DATA_FILE, "r", encoding="utf-8") as f:
         return json.load(f)
@@ -17,44 +19,33 @@ def update_generated(d):
     d["generated"] = today
     d["generatedAt"] = dt.now().isoformat()
     d["range"] = f"{dt.now().strftime('%d %b')} – {(dt.now() + datetime.timedelta(days=1)).strftime('%d %b %Y')}"
+    print("📅 Data atualizada:", today)
 
 def scrape_future():
+    print("🔍 Scraping future releases...")
     try:
         r = requests.get("https://heavymusichq.com/heavy-metal-album-release-calendar/", headers={"User-Agent": "Mozilla/5.0"}, timeout=15)
+        print("Status calendar:", r.status_code)
         soup = BeautifulSoup(r.text, "lxml")
         items = []
         for h in soup.find_all(["h2","h3"]):
             text = h.get_text(strip=True)
             if "2026" in text and any(m in text for m in ["Jul","Aug","Sep","Oct"]):
                 items.append({"date": text, "lbl": "Heavy Music HQ", "items": []})
+        print("Encontrados future items:", len(items))
         return items or d.get("future", [])
-    except:
+    except Exception as e:
+        print("Erro future:", e)
         return d.get("future", [])
 
-def scrape_tidal_new():
-    try:
-        # Busca pública Tidal para metal new releases
-        r = requests.get("https://api.tidal.com/v1/search?query=metal%20new%20release&limit=20&type=ALBUMS", headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
-        data = r.json()
-        items = []
-        for item in data.get("items", [])[:10]:
-            items.append({
-                "b": item.get("artist", {}).get("name", "Unknown"),
-                "t": item.get("title", ""),
-                "lbl": "Tidal",
-                "date": dt.now().strftime("%d %b"),
-                "g": "heavy"
-            })
-        return items
-    except:
-        return []
-
 def scrape_recent_news():
+    print("🔍 Scraping news...")
     try:
         r = requests.get("https://metalinjection.net/", headers={"User-Agent": "Mozilla/5.0"}, timeout=15)
+        print("Status news:", r.status_code)
         soup = BeautifulSoup(r.text, "lxml")
         news = []
-        for a in soup.find_all("a", href=True)[:15]:
+        for a in soup.find_all("a", href=True)[:20]:
             title = a.get_text(strip=True)
             if len(title) > 25 and any(k in title.lower() for k in ["release", "new", "album"]):
                 news.append({
@@ -63,21 +54,15 @@ def scrape_recent_news():
                     "date": dt.now().strftime("%d %b"),
                     "url": "https://metalinjection.net" + a['href'] if not a['href'].startswith("http") else a['href']
                 })
+        print("Encontradas notícias:", len(news))
         return news[:12] or d.get("news", [])
-    except:
+    except Exception as e:
+        print("Erro news:", e)
         return d.get("news", [])
 
 d = load_data()
 update_generated(d)
 d["future"] = scrape_future()
 d["news"] = scrape_recent_news()
-
-# Adiciona Tidal new releases ao recent ou fresh
-tidal_items = scrape_tidal_new()
-if tidal_items:
-    if "recent" not in d:
-        d["recent"] = []
-    d["recent"] = tidal_items + d.get("recent", [])[:10]  # mistura com existentes
-
 save_data(d)
-print("✅ data.json atualizado com Tidal + mais conteúdo")
+print("✅ data.json salvo com sucesso!")
