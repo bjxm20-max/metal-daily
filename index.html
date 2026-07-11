@@ -16,20 +16,30 @@
     --power: #f2d23b;
     --symph: #3bd4d4;
   }
-  body { margin:0; background:var(--bg); color:var(--text); font-family: system-ui, -apple-system, sans-serif; }
-  /* Estilo das pastas e cards igual ao antigo - vai expandir */
-  .folder { /* mesmo estilo das pastas coloridas */ }
-  /* ... resto do CSS virá na próxima parte */
+  body { margin:0; background:var(--bg); color:var(--text); font-family: system-ui, -apple-system, sans-serif; padding-bottom: 90px; }
+  header { position: sticky; top:0; background: rgba(12,13,16,.95); padding: 12px 14px; border-bottom: 1px solid var(--line); }
+  .brand { display:flex; align-items:center; gap:10px; }
+  .brand h1 { margin:0; font-size:1.3rem; font-weight:900; background: linear-gradient(90deg,#e23b3b,#f2d23b,#3bd4d4); -webkit-background-clip:text; -webkit-text-fill-color:transparent; }
 </style>
 </head>
 <body>
-  <!-- Header, Pastas, Main, Bottombar igual ao antigo -->
-  <h1>Now Playing (versão limpa - Tidal focus)</h1>
-  <p>App reescrita do zero. Mesma experiência.</p>
 
-  <script>
-    // Toda a lógica JavaScript nova e limpa virá aqui
-    console.log("App nova carregada");
-  </script>
+<header>
+  <div class="brand">
+    <span style="font-size:1.4rem">⚡</span>
+    <h1>Now Playing</h1>
+  </div>
+</header>
+
+<main>
+  <!-- Aqui vão as pastas e conteúdo -->
+  <p style="padding:20px; text-align:center; color:var(--muted);">App reescrita limpa. Tidal em destaque.</p>
+</main>
+
+<script>
+  // Toda a lógica JavaScript nova vem aqui
+  console.log("App nova carregada com sucesso");
+</script>
+
 </body>
 </html>
