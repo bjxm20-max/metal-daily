@@ -31,6 +31,24 @@ def scrape_future():
     except:
         return d.get("future", [])
 
+def scrape_tidal_new():
+    try:
+        # Busca pública Tidal para metal new releases
+        r = requests.get("https://api.tidal.com/v1/search?query=metal%20new%20release&limit=20&type=ALBUMS", headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
+        data = r.json()
+        items = []
+        for item in data.get("items", [])[:10]:
+            items.append({
+                "b": item.get("artist", {}).get("name", "Unknown"),
+                "t": item.get("title", ""),
+                "lbl": "Tidal",
+                "date": dt.now().strftime("%d %b"),
+                "g": "heavy"
+            })
+        return items
+    except:
+        return []
+
 def scrape_recent_news():
     try:
         r = requests.get("https://metalinjection.net/", headers={"User-Agent": "Mozilla/5.0"}, timeout=15)
@@ -38,7 +56,7 @@ def scrape_recent_news():
         news = []
         for a in soup.find_all("a", href=True)[:15]:
             title = a.get_text(strip=True)
-            if len(title) > 25 and ("release" in title.lower() or "new" in title.lower() or "album" in title.lower()):
+            if len(title) > 25 and any(k in title.lower() for k in ["release", "new", "album"]):
                 news.append({
                     "title": title[:140],
                     "src": "Metal Injection",
@@ -53,5 +71,13 @@ d = load_data()
 update_generated(d)
 d["future"] = scrape_future()
 d["news"] = scrape_recent_news()
+
+# Adiciona Tidal new releases ao recent ou fresh
+tidal_items = scrape_tidal_new()
+if tidal_items:
+    if "recent" not in d:
+        d["recent"] = []
+    d["recent"] = tidal_items + d.get("recent", [])[:10]  # mistura com existentes
+
 save_data(d)
-print("✅ data.json atualizado com mais conteúdo")
+print("✅ data.json atualizado com Tidal + mais conteúdo")
