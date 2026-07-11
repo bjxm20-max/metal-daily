@@ -2,14 +2,19 @@ name: Daily Metal Update (Tidal focus)
 
 on:
   schedule:
-    - cron: '0 9 * * *'   # todos os dias às 9h
-  workflow_dispatch:      # permite correr manualmente
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write   # <--- isto resolve o push
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # <--- importante
 
       - name: Setup Python
         uses: actions/setup-python@v5
