@@ -27,6 +27,9 @@ jobs:
       - name: Install deps
         run: pip install requests beautifulsoup4 lxml
 
+      - name: Debug files
+        run: ls -la
+
       - name: Run updater
         run: python update_data.py
 
