@@ -4,7 +4,7 @@ from datetime import datetime as dt
 
 DATA_FILE = "data.json"
 
-print("🚀 Iniciando update completo...")
+print("🚀 Iniciando update ULTRA AGRESSIVO...")
 
 def load_data():
     with open(DATA_FILE, "r", encoding="utf-8") as f:
@@ -19,48 +19,53 @@ def update_generated(d):
     d["generated"] = today
     d["generatedAt"] = dt.now().isoformat()
     d["range"] = f"{dt.now().strftime('%d %b')} – {(dt.now() + datetime.timedelta(days=1)).strftime('%d %b %Y')}"
-    print("📅 Data atualizada:", today)
+    print("📅 Data:", today)
 
 def scrape_future():
-    print("🔍 Scraping future...")
+    print("🔍 Future from Heavy Music HQ...")
     try:
         r = requests.get("https://heavymusichq.com/heavy-metal-album-release-calendar/", headers={"User-Agent": "Mozilla/5.0"}, timeout=15)
         soup = BeautifulSoup(r.text, "lxml")
         items = []
-        for h in soup.find_all(["h2","h3"]):
+        for h in soup.find_all(["h2","h3","strong"]):
             text = h.get_text(strip=True)
             if "2026" in text:
                 items.append({"date": text, "lbl": "Heavy Music HQ", "items": []})
-        print("Future items encontrados:", len(items))
+        print("Future items:", len(items))
         return items or d.get("future", [])
     except Exception as e:
         print("Erro future:", e)
         return d.get("future", [])
 
 def scrape_news():
-    print("🔍 Scraping news...")
-    try:
-        r = requests.get("https://metalinjection.net/", headers={"User-Agent": "Mozilla/5.0"}, timeout=15)
-        soup = BeautifulSoup(r.text, "lxml")
-        news = []
-        for a in soup.find_all("a", href=True)[:30]:
-            title = a.get_text(strip=True)
-            if len(title) > 30 and any(k in title.lower() for k in ["release", "new", "album", "tour"]):
-                news.append({
-                    "title": title[:150],
-                    "src": "Metal Injection",
-                    "date": dt.now().strftime("%d %b"),
-                    "url": "https://metalinjection.net" + a['href'] if not a['href'].startswith("http") else a['href']
-                })
-        print("Notícias encontradas:", len(news))
-        return news[:20] or d.get("news", [])
-    except Exception as e:
-        print("Erro news:", e)
-        return d.get("news", [])
+    print("🔍 News from multiple sources...")
+    news = []
+    sources = [
+        "https://metalinjection.net/",
+        "https://loudwire.com/",
+        "https://www.blabbermouth.net/"
+    ]
+    for url in sources:
+        try:
+            r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=15)
+            soup = BeautifulSoup(r.text, "lxml")
+            for a in soup.find_all("a", href=True)[:15]:
+                title = a.get_text(strip=True)
+                if len(title) > 30 and any(k in title.lower() for k in ["release", "new", "album", "tour", "announce"]):
+                    news.append({
+                        "title": title[:150],
+                        "src": url.split("//")[1].split(".")[0].title(),
+                        "date": dt.now().strftime("%d %b"),
+                        "url": a['href'] if a['href'].startswith("http") else url + a['href']
+                    })
+        except:
+            pass
+    print("Notícias totais:", len(news))
+    return news[:30] or d.get("news", [])
 
 d = load_data()
 update_generated(d)
 d["future"] = scrape_future()
 d["news"] = scrape_news()
 save_data(d)
-print("✅ data.json atualizado com lista gigante!")
+print("✅ data.json atualizado ULTRA!")
