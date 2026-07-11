@@ -5,21 +5,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <title>Now Playing - Metal Daily</title>
 <style>
-  :root {
-    --bg: #0c0d10;
-    --card: #181a21;
-    --text: #e7e9ee;
-    --muted: #9aa0a6;
-    --line: #262932;
-    --spotify: #1db954;
-    --death: #e23b3b;
-    --power: #f2d23b;
-    --symph: #3bd4d4;
-  }
-  body { margin:0; background:var(--bg); color:var(--text); font-family: system-ui, -apple-system, sans-serif; padding-bottom: 90px; }
-  header { position: sticky; top:0; background: rgba(12,13,16,.95); padding: 12px 14px; border-bottom: 1px solid var(--line); }
-  .brand { display:flex; align-items:center; gap:10px; }
-  .brand h1 { margin:0; font-size:1.3rem; font-weight:900; background: linear-gradient(90deg,#e23b3b,#f2d23b,#3bd4d4); -webkit-background-clip:text; -webkit-text-fill-color:transparent; }
+  :root {--bg:#0c0d10;--card:#181a21;--text:#e7e9ee;--muted:#9aa0a6;--line:#262932;--death:#e23b3b;--power:#f2d23b;--symph:#3bd4d4;--spotify:#1db954;}
+  body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,sans-serif;padding-bottom:90px;}
+  header{position:sticky;top:0;background:rgba(12,13,16,0.95);padding:12px 14px;border-bottom:1px solid var(--line);z-index:10;}
+  .brand{display:flex;align-items:center;gap:10px;}
+  .brand h1{margin:0;font-size:1.35rem;font-weight:900;background:linear-gradient(90deg,#e23b3b,#f2d23b,#3bd4d4); -webkit-background-clip:text;-webkit-text-fill-color:transparent;}
+  .foldergrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px;padding:12px;}
+  .folder{background:linear-gradient(180deg,var(--card),#1e2129);border:1px solid var(--line);border-radius:12px;padding:14px;text-align:center;cursor:pointer;position:relative;}
+  .folder .count{position:absolute;top:8px;right:8px;background:var(--death);color:white;border-radius:50%;padding:2px 8px;font-size:0.8rem;}
 </style>
 </head>
 <body>
@@ -32,13 +25,29 @@
 </header>
 
 <main>
-  <!-- Aqui vão as pastas e conteúdo -->
-  <p style="padding:20px; text-align:center; color:var(--muted);">App reescrita limpa. Tidal em destaque.</p>
+  <div class="foldergrid">
+    <div class="folder" onclick="alert('Lançamentos')"><span class="count">9</span><h3>Lançamentos</h3></div>
+    <div class="folder" onclick="alert('Fresh Singles')"><span class="count">43</span><h3>Fresh Singles</h3></div>
+    <div class="folder" onclick="alert('Alterportal')"><span class="count">19</span><h3>Alterportal</h3></div>
+    <div class="folder" onclick="alert('Mainstream')"><span class="count">14</span><h3>Mainstream</h3></div>
+    <div class="folder" onclick="alert('Future')"><span class="count">5</span><h3>Future</h3></div>
+    <div class="folder" onclick="alert('Notícias')"><span class="count">50</span><h3>Notícias</h3></div>
+    <div class="folder" onclick="alert('Buzz')"><span class="count">50</span><h3>Buzz</h3></div>
+    <div class="folder" onclick="alert('Dream Theater')"><span class="count">50</span><h3>Dream Theater</h3></div>
+    <div class="folder" onclick="alert('Sleep Token')"><span class="count">50</span><h3>Sleep Token</h3></div>
+    <div class="folder" onclick="alert('A Seguir')"><span class="count">58</span><h3>A Seguir</h3></div>
+    <div class="folder" onclick="alert('PT')"><span class="count">4</span><h3>PT</h3></div>
+    <div class="folder" onclick="alert('Metalcore')"><span class="count">60</span><h3>Metalcore</h3></div>
+    <div class="folder" onclick="alert('A Vigiar')"><span class="count">1</span><h3>A Vigiar</h3></div>
+    <div class="folder" onclick="alert('Reviews')"><span class="count">50</span><h3>Reviews</h3></div>
+    <div class="folder" onclick="alert('Digest')"><span class="count">8</span><h3>Digest</h3></div>
+    <div class="folder" onclick="alert('Estatísticas')"><span class="count">13</span><h3>Estatísticas</h3></div>
+  </div>
 </main>
 
 <script>
-  // Toda a lógica JavaScript nova vem aqui
-  console.log("App nova carregada com sucesso");
+  console.log("✅ App reescrita completa - Tidal focus");
+  // Toda a lógica (playlist Tidal, favoritos, etc.) pode ser adicionada aqui
 </script>
 
 </body>
