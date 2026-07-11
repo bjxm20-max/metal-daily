@@ -3,8 +3,6 @@ from bs4 import BeautifulSoup
 from datetime import datetime as dt
 
 DATA_FILE = "data.json"
-CALENDAR_URL = "https://heavymusichq.com/heavy-metal-album-release-calendar/"
-NEWS_URL = "https://metalinjection.net/"   # para notícias recentes
 
 def load_data():
     with open(DATA_FILE, "r", encoding="utf-8") as f:
@@ -22,38 +20,38 @@ def update_generated(d):
 
 def scrape_future():
     try:
-        r = requests.get(CALENDAR_URL, headers={"User-Agent": "Mozilla/5.0"}, timeout=15)
+        r = requests.get("https://heavymusichq.com/heavy-metal-album-release-calendar/", headers={"User-Agent": "Mozilla/5.0"}, timeout=15)
         soup = BeautifulSoup(r.text, "lxml")
         items = []
         for h in soup.find_all(["h2","h3"]):
             text = h.get_text(strip=True)
-            if "2026" in text and any(m in text for m in ["Jul","Aug","Sep"]):
+            if "2026" in text and any(m in text for m in ["Jul","Aug","Sep","Oct"]):
                 items.append({"date": text, "lbl": "Heavy Music HQ", "items": []})
         return items or d.get("future", [])
     except:
         return d.get("future", [])
 
-def scrape_news():
+def scrape_recent_news():
     try:
-        r = requests.get(NEWS_URL, headers={"User-Agent": "Mozilla/5.0"}, timeout=15)
+        r = requests.get("https://metalinjection.net/", headers={"User-Agent": "Mozilla/5.0"}, timeout=15)
         soup = BeautifulSoup(r.text, "lxml")
         news = []
-        for a in soup.find_all("a", href=True)[:8]:  # pega alguns headlines
+        for a in soup.find_all("a", href=True)[:15]:
             title = a.get_text(strip=True)
-            if len(title) > 20 and "release" in title.lower() or "new" in title.lower():
+            if len(title) > 25 and ("release" in title.lower() or "new" in title.lower() or "album" in title.lower()):
                 news.append({
-                    "title": title[:120],
+                    "title": title[:140],
                     "src": "Metal Injection",
                     "date": dt.now().strftime("%d %b"),
                     "url": "https://metalinjection.net" + a['href'] if not a['href'].startswith("http") else a['href']
                 })
-        return news or d.get("news", [])
+        return news[:12] or d.get("news", [])
     except:
         return d.get("news", [])
 
 d = load_data()
 update_generated(d)
 d["future"] = scrape_future()
-d["news"] = scrape_news()   # <--- novo: atualiza notícias
+d["news"] = scrape_recent_news()
 save_data(d)
-print("✅ data.json atualizado (future + notícias)")
+print("✅ data.json atualizado com mais conteúdo")
