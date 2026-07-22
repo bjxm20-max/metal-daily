@@ -22,6 +22,11 @@
         serviceWorkerParam: { scope: "/metal-daily/push/" },
         notifyButton: { enable: true, position: 'bottom-left', offset: { bottom: '92px', left: '10px' } }
       });
+      const defaults={breaking:true,followed:true,releases:false,rumours:false,portugal:false,core:false,digest:false};
+      let preferences=defaults;
+      try{preferences=Object.assign({},defaults,JSON.parse(localStorage.getItem('md_notifications')||'{}'));}catch(e){}
+      const tags={}; Object.keys(preferences).forEach(key=>tags['notify_'+key]=preferences[key]?'1':'0');
+      if(OneSignal.User&&OneSignal.User.addTags) await OneSignal.User.addTags(tags);
     }catch(e){ console.warn("OneSignal init", e); }
   });
 </script>
