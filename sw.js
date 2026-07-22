@@ -1,7 +1,7 @@
 // Metal Daily — service worker (network-first no shell + dados frescos)
-const CACHE = 'metal-daily-v5';
+const CACHE = 'metal-daily-v6';
 const ASSETS = [
-  './', './index.html', './data.json', './manifest.webmanifest',
+  './', './index.html', './styles.css', './app.js', './data.json', './manifest.webmanifest',
   './icon-180.png', './icon-192.png', './icon-512.png'
 ];
 self.addEventListener('install', e => {
@@ -18,6 +18,7 @@ self.addEventListener('fetch', e => {
   const url = new URL(e.request.url);
   const isShell = e.request.mode === 'navigate'
     || url.pathname.endsWith('/') || url.pathname.endsWith('index.html')
+    || url.pathname.endsWith('styles.css') || url.pathname.endsWith('app.js')
     || url.pathname.endsWith('data.json');
   if (isShell) {
     e.respondWith(
