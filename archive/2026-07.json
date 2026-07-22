@@ -517,10 +517,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -542,10 +542,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -592,10 +592,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -617,10 +617,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -642,10 +642,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -692,10 +692,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -796,10 +796,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -1341,15 +1341,11 @@
       {
         "name": "Pitchfork",
         "url": "https://pitchfork.com/story/m83-announces-new-album-i-wrote-you-a-letter/"
-      },
-      {
-        "name": "Consequence",
-        "url": "https://consequence.net/2026/07/m83-i-wrote-you-a-letter-new-album/"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "isBreaking": true,
     "isPT": false,
     "isCore": false,
@@ -1975,10 +1971,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2125,10 +2121,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2150,10 +2146,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2200,10 +2196,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2250,10 +2246,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2308,13 +2304,13 @@
     "section": "buzz"
   },
   {
-    "title": "Traé Scott Interview – RGM Introducing | RGM : REYT GOOD MAGAZINE Traé Scott Interview - RGM Introducing - rgm.press",
+    "title": "Traé Scott Interview – RGM Introducing - rgm.press",
     "src": "rgm.press",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ER0xZSWFxU1d4c0hIdTRWNlc2ZDNhWTRWMlVFci1zaXpRR2ZfU05FUFRhZWtlLU9DdWFMdkJ6bjBRLUpFTzczeXdFTXBycDE1Q2ZMQkdmcjhHdGZaRWpEU2dLZmdiN1BXdEd4QV9mNHhkRGc?oc=5",
     "timestamp": "2026-07-22T06:13:39+00:00",
     "isoDate": "2026-07-22",
     "date": "22 Jul",
-    "d": "Traé Scott Interview – RGM Introducing | RGM : REYT GOOD MAGAZINE Traé Scott Interview - RGM Introducing rgm.press",
+    "d": "Traé Scott Interview – RGM Introducing rgm.press",
     "category": "general",
     "sources": [
       {
@@ -2336,7 +2332,7 @@
     "title": "Chelsea Wolfe to release new album The Dark on September 18 - Northern Transmissions",
     "src": "Northern Transmissions",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU09NRHBpWnVzTHZjMEw1b3UtTmRKYUtSR1JDS090d0kxNUY4Qi15X3FVZTZQZEI0bkVtR1MyaVRVbGh0WkcwcnJNaGFvcEpoQjBsbHRJa1lUZ0tVNUJZb3BWTjhrWnVoVHhfLVltbVhNSUhucVM3bnRGSHVCRWgzN3pheFRwaE9Qd3NjazlNcmJhaWxRM0F0N3FB?oc=5",
-    "timestamp": "2026-07-22T05:50:02+00:00",
+    "timestamp": "2026-07-22T03:50:02+00:00",
     "isoDate": "2026-07-22",
     "date": "22 Jul",
     "d": "Chelsea Wolfe to release new album The Dark on September 18 Northern Transmissions",
@@ -2561,7 +2557,7 @@
     "title": "Morreu Luís Represas, rosto dos Trovante. Tinha 69 anos - CNN Portugal",
     "src": "CNN Portugal",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNHBWNlBDRTRMcFlkNVBKSHA3aE5yMUswbU5HR19DSUR6MnoyUkRwOHhveE84Q056Q2VUWDA0QklMZ0sxeF9ja1poeThDUmF3SWlLWUxPRWFnenpaSHNYX0FySUdZQXQ4cEdtY2xIYldvN09XRnlmQ1FUVUxUSFNGbk9HbDJPUnh1YThVaGF1MndQQzJFZE9wRXdQdWxRTGhRcGhjYV9NRm9FbnpRcnptYjZoYjMtblh2YXNMY0FaUzBRZ1I5YXYyYW4ydW9MVXRxVlZTWDcyaERvcXJC?oc=5",
-    "timestamp": "2026-07-22T13:44:17+00:00",
+    "timestamp": "2026-07-22T07:41:00+00:00",
     "isoDate": "2026-07-22",
     "date": "22 Jul",
     "d": "Morreu Luís Represas, rosto dos Trovante. Tinha 69 anos CNN Portugal",
@@ -2575,10 +2571,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -2604,7 +2600,7 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 2,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
     "star": true,
@@ -2629,10 +2625,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -2679,10 +2675,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -2704,10 +2700,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -2729,10 +2725,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -2779,10 +2775,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -3649,10 +3645,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -3674,10 +3670,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -5009,6 +5005,1571 @@
     "star": true,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "b": "Astral Alchemy",
+    "t": "Weaving Chilling Magical Dreamworlds",
+    "g": "black",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "22 Jul",
+    "isoDate": "2026-07-22",
+    "url": "https://alterportal.net/2026_albums/189878-astral-alchemy-weaving-chilling-magical-dreamworlds-2026.html",
+    "d": "Atmospheric Black Metal / Melodic Black Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/189878-astral-alchemy-weaving-chilling-magical-dreamworlds-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "Black Spikes Unveil Their “Zelvar” Music Video",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/07/22/news/black-spikes-unveil-their-zelvar-music-video/",
+    "timestamp": "2026-07-22T20:44:48+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "A tale of the \"demon of greed.\" The post Black Spikes Unveil Their “Zelvar” Music Video appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/07/22/news/black-spikes-unveil-their-zelvar-music-video/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Nervosa Announce Early 2027 North American Tour With Castrator, Embryonic Autopsy & Anger Within",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/07/22/news/nervosa-announce-early-2027-north-american-tour-with-castrator-embryonic-autopsy-anger-within/",
+    "timestamp": "2026-07-22T20:01:23+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Openers will vary by leg. The post Nervosa Announce Early 2027 North American Tour With Castrator, Embryonic Autopsy & Anger Within appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/07/22/news/nervosa-announce-early-2027-north-american-tour-with-castrator-embryonic-autopsy-anger-within/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "One Year Ago Today, We Lost the “Godfather of Heavy Metal” Just Days After One of the Greatest Farewell Shows in Music History - American Songwriter",
+    "src": "American Songwriter",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMGRaYnpoeGIzVjItNnlnMWVlbW9Va1QwSzNzbGhDdUl5bHlwV1F1WmUwMUFjbHR5Xzg1NFVXeHZQNVBLRTdOdEtzTjBkSnBWeDVCblg5ZmFaNElpamU2cURBWHU3WkpmQ2xLT08zcnRyRF9VWG44Q0U5c2FjSF8zc2luSmhBQVB3eGlpRDd3b1dhLUJsZDl1Qkc0NXNFbEYtZUJKZG90aW1HcE84VkI2NllVSGkzOTBIdEtWY0dQcnI4RDdXaHRSV2gycDNVVVFfeExxbE9wOWVDeUFMSGg0cUJZN2RtZzlqOGxN?oc=5",
+    "timestamp": "2026-07-22T19:57:03+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "One Year Ago Today, We Lost the “Godfather of Heavy Metal” Just Days After One of the Greatest Farewell Shows in Music History American Songwriter",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "American Songwriter",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMGRaYnpoeGIzVjItNnlnMWVlbW9Va1QwSzNzbGhDdUl5bHlwV1F1WmUwMUFjbHR5Xzg1NFVXeHZQNVBLRTdOdEtzTjBkSnBWeDVCblg5ZmFaNElpamU2cURBWHU3WkpmQ2xLT08zcnRyRF9VWG44Q0U5c2FjSF8zc2luSmhBQVB3eGlpRDd3b1dhLUJsZDl1Qkc0NXNFbEYtZUJKZG90aW1HcE84VkI2NllVSGkzOTBIdEtWY0dQcnI4RDdXaHRSV2gycDNVVVFfeExxbE9wOWVDeUFMSGg0cUJZN2RtZzlqOGxN?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Halestorm Pay Tribute To Ozzy Osbourne With “Perry Mason” Live Cover From November 2025 Birmingham, UK Show",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/07/22/news/halestorm-pay-tribute-to-ozzy-osbourne-with-perry-mason-live-cover-from-november-2025-birmingham-uk-show/",
+    "timestamp": "2026-07-22T19:55:24+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Halestorm previously covered that track at last year's all-star 'Back To The Beginning' concert. The post Halestorm Pay Tribute To Ozzy Osbourne With “Perry Mason” Live Cover From November 2025 Birmingham, UK Show appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/07/22/news/halestorm-pay-tribute-to-ozzy-osbourne-with-perry-mason-live-cover-from-november-2025-birmingham-uk-show/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "\"He's Always Afraid No One Will Show Up\": Remembering the Real OZZY OSBOURNE One Year Later",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/ozzy-osbourne-forever/remembering-ozzy-osbourne-legacy-one-year-later",
+    "timestamp": "2026-07-22T19:49:56+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "The absurdism wasn't separate from the fear. It was the answer to it. The post \"He's Always Afraid No One Will Show Up\": Remembering the Real OZZY OSBOURNE One Year Later appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/ozzy-osbourne-forever/remembering-ozzy-osbourne-legacy-one-year-later"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "See Trailer For 'If These Walls Could Rock' Documentary Featuring SLASH, DAVE GROHL And GENE SIMMONS",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/see-trailer-for-if-these-walls-could-rock-documentary-featuring-slash-dave-grohl-and-gene-simmons",
+    "timestamp": "2026-07-22T19:30:14+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "For more than 60 years, there has been one place in Los Angeles that has served as the home away from home for the biggest names in rock and roll. Tucked just off the Sunset Strip, the Sunset Marquis Hotel became more than a place to stay while on tour. It became a creative sanctuary where songs wer...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/see-trailer-for-if-these-walls-could-rock-documentary-featuring-slash-dave-grohl-and-gene-simmons"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Popular Rock Band Halts Concert to Have Violent Fan Removed By Security - Wide Open Country",
+    "src": "Wide Open Country",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkNUNXYjE1RnNUR0lMSXpzZ3JCQkRYSVNCRjFJVnJsamJabi1aMDR6M1hsU1RwWkQ4NnQxT0hoT1g4dTJrTW9kaEdHcExGblpLN2dtdFQ5aFdnb3BmTWVNbmo2RGtET08wRnZEb3AwbU9nN25Qb0hqVWlhQQ?oc=5",
+    "timestamp": "2026-07-22T19:25:00+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Popular Rock Band Halts Concert to Have Violent Fan Removed By Security Wide Open Country",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Wide Open Country",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkNUNXYjE1RnNUR0lMSXpzZ3JCQkRYSVNCRjFJVnJsamJabi1aMDR6M1hsU1RwWkQ4NnQxT0hoT1g4dTJrTW9kaEdHcExGblpLN2dtdFQ5aFdnb3BmTWVNbmo2RGtET08wRnZEb3AwbU9nN25Qb0hqVWlhQQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Uncle Acid & The Deadbeats Pay Tribute To Ozzy Osbourne With Their Cover Of “Believer”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/07/22/news/uncle-acid-the-deadbeats-pay-tribute-to-ozzy-osbourne-with-their-cover-of-believer/",
+    "timestamp": "2026-07-22T19:15:22+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Today marks the first anniversary of Osbourne's passing. The post Uncle Acid & The Deadbeats Pay Tribute To Ozzy Osbourne With Their Cover Of “Believer” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/07/22/news/uncle-acid-the-deadbeats-pay-tribute-to-ozzy-osbourne-with-their-cover-of-believer/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "HALESTORM Shares Pro-Shot Video Of Cover Of OZZY OSBOURNE's 'Perry Mason'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/halestorm-shares-pro-shot-video-of-cover-of-ozzy-osbournes-perry-mason",
+    "timestamp": "2026-07-22T19:13:34+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "To mark the first anniversary of Ozzy Osbourne's passing, HALESTORM has shared a professionally filmed video of the band performing a cover of the Ozzy classic \"Perry Mason\". In a message accompanying the YouTube release of the video, HALESTORM wrote: \"In honor of Ozzy Osbourne day, we'd like to pay...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/halestorm-shares-pro-shot-video-of-cover-of-ozzy-osbournes-perry-mason"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "WATCH: SPIRITBOX's COURTNEY LAPLANTE Ejects Fan From Crowd, \"This Isn't the Gold Medal Karate Match\"",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/watch-spiritboxs-courtney-laplante-ejects-fan-from-crowd-this-isnt-the-gold-medal-karate-match",
+    "timestamp": "2026-07-22T19:12:41+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "\"[Zev Rose] sees some fuckery about.\" The post WATCH: SPIRITBOX's COURTNEY LAPLANTE Ejects Fan From Crowd, \"This Isn't the Gold Medal Karate Match\" appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/watch-spiritboxs-courtney-laplante-ejects-fan-from-crowd-this-isnt-the-gold-medal-karate-match"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Imminence Reveal New Album “Axis Mundi” Alongside “Crestfallen” Debut",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/07/22/news/imminence-reveal-new-album-axis-mundi-alongside-crestfallen-debut/",
+    "timestamp": "2026-07-22T19:01:15+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Their second new single of the week. The post Imminence Reveal New Album “Axis Mundi” Alongside “Crestfallen” Debut appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/07/22/news/imminence-reveal-new-album-axis-mundi-alongside-crestfallen-debut/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "IRON MAIDEN Shares Official Video Recap Of 2026 EDDFEST",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/iron-maiden-shares-official-video-recap-of-2026-eddfest",
+    "timestamp": "2026-07-22T18:58:22+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "British heavy metal legends IRON MAIDEN have shared an official video recap of Eddfest, their two-day 50th-anniversary celebration event, which took place July 10-11 in Knebworth, United Kingdom. Eddfest, named after IRON MAIDEN's mascot Eddie, included \"The Infinite Dreams Experience\", a walkthroug...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/iron-maiden-shares-official-video-recap-of-2026-eddfest"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "What Musicians Said About Ozzy Osbourne In The Year After He Died",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/ozzy-osbourne-death-remembered/",
+    "timestamp": "2026-07-22T18:46:35+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Loudwire has spent the past year talking to rock and metal artists along with family members to get their perspective on Ozzy Osbourne following his death. Here's what they told us... Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/ozzy-osbourne-death-remembered/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Kim Dracula Signs With Rise Records, Debuts “Molecular Conversion” Video",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/07/22/news/kim-dracula-signs-with-rise-records-debuts-molecular-conversion-video/",
+    "timestamp": "2026-07-22T18:42:30+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Drawing some blood. The post Kim Dracula Signs With Rise Records, Debuts “Molecular Conversion” Video appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/07/22/news/kim-dracula-signs-with-rise-records-debuts-molecular-conversion-video/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "MASTODON: We Get To Honor BRENT HINDS By Playing His Songs And Keeping His Music Alive",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/mastodon-we-get-to-honor-brent-hinds-by-playing-his-songs-and-keeping-his-music-alive",
+    "timestamp": "2026-07-22T18:17:50+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "In a new interview with Germany's Visions magazine, MASTODON members Brann Dailor (drums, vocals) and Bill Kelliher (rhythm guitar, backing vocals) spoke about the band's upcoming first new album in five years and the veteran heavy rock band's first full-length since the departure and death of found...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/mastodon-we-get-to-honor-brent-hinds-by-playing-his-songs-and-keeping-his-music-alive"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Raised Wrong (Ex-Himsa/Undertow, Etc.) Stream New Track “Revealed” From Their Upcoming EP",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/07/22/news/raised-wrong-ex-himsa-undertow-etc-stream-new-revealed-from-their-upcoming-ep/",
+    "timestamp": "2026-07-22T18:14:47+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "The hardcore supergroup will be dropping \"Show Me What This Means To You\" this August. The post Raised Wrong (Ex-Himsa/Undertow, Etc.) Stream New Track “Revealed” From Their Upcoming EP appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/07/22/news/raised-wrong-ex-himsa-undertow-etc-stream-new-revealed-from-their-upcoming-ep/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Slaughter To Prevail’s “Koschei” Music Video Has Officially Debuted",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/07/22/news/slaughter-to-prevails-koschei-music-video-has-officially-debuted/",
+    "timestamp": "2026-07-22T17:58:18+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "With a bonus history lesson on Slavic mythology. The post Slaughter To Prevail’s “Koschei” Music Video Has Officially Debuted appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/07/22/news/slaughter-to-prevails-koschei-music-video-has-officially-debuted/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Atreyu Announce Three Headlining Shows Around Their Tour With Underoath This Fall",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/07/22/news/atreyu-announce-three-headlining-shows-around-their-tour-with-underoath-this-fall/",
+    "timestamp": "2026-07-22T17:45:52+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Should the \"Define The Great Line\" 20th anniversary tour not be making its way to your hood. The post Atreyu Announce Three Headlining Shows Around Their Tour With Underoath This Fall appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/07/22/news/atreyu-announce-three-headlining-shows-around-their-tour-with-underoath-this-fall/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Melvins Announce October U.S. Headlining Shows",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/07/22/news/melvins-announce-october-u-s-headlining-shows/",
+    "timestamp": "2026-07-22T17:32:12+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Three dates have been booked around their stop at the Fort Worth 'Sick New World' festival. The post Melvins Announce October U.S. Headlining Shows appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/07/22/news/melvins-announce-october-u-s-headlining-shows/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "INTERVIEW: CODY JINKS on \"Why Country Needs to Learn Everything From Metal\"",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/video/interview-cody-jinks-on-why-country-needs-to-learn-everything-from-metal",
+    "timestamp": "2026-07-22T17:14:31+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "\"I think I have a country heart and a rock and roll soul. I think after all these years, and really this week, preparing for this interview, I think I […] The post INTERVIEW: CODY JINKS on \"Why Country Needs to Learn Everything From Metal\" appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/video/interview-cody-jinks-on-why-country-needs-to-learn-everything-from-metal"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "KISS's PAUL STANLEY And GENE SIMMONS Talk About Importance Of Great Songwriting On 'Track Star' Podcast",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/kisss-paul-stanley-and-gene-simmons-talk-about-importance-of-great-songwriting-on-track-star-podcast",
+    "timestamp": "2026-07-22T17:06:35+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "On the latest episode of the Track Star podcast, Paul Stanley and Gene Simmons of KISS join host Jack Coyne to talk about rock and roll songwriting, the New York City music scene, and what it really takes to make a song, or a band, truly great. With a collection of songs spanning American and Englis...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/kisss-paul-stanley-and-gene-simmons-talk-about-importance-of-great-songwriting-on-track-star-podcast"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Do I Suck For… Loading Up The TouchTunes At The Bar With Butt Rock?",
+    "src": "MetalSucks",
+    "url": "https://www.metalsucks.net/2026/07/22/do-i-suck-for-loading-up-the-touchtunes-at-the-bar-with-butt-rock/",
+    "timestamp": "2026-07-22T14:00:00+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "\"Do I Suck?\" is MetalSucks' new Wednesday column, reporting on the scene's burning AITA questions. The post Do I Suck For… Loading Up The TouchTunes At The Bar With Butt Rock? appeared first on MetalSucks .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "MetalSucks",
+        "url": "https://www.metalsucks.net/2026/07/22/do-i-suck-for-loading-up-the-touchtunes-at-the-bar-with-butt-rock/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "“One of the most consistent forces in heavy music”: Every Mastodon album ranked from worst to best - Louder",
+    "src": "Louder",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LN21ySUp5OTNwTFRUTTlvOHM5NTZueVJ4Z2RMYVYtZE81ZHhLNExYVVJneWR6MnJCTXp5NVNmUXhUeU10RnpVVE9FUGNKd2stMDBoSTBBUnhfd0k1MGdJZTZfVjJKS0xkMzVhX0JkcGU0RC0yYmN5dGN6T0Ytdw?oc=5",
+    "timestamp": "2026-07-22T12:07:16+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "“One of the most consistent forces in heavy music”: Every Mastodon album ranked from worst to best Louder",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Louder",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LN21ySUp5OTNwTFRUTTlvOHM5NTZueVJ4Z2RMYVYtZE81ZHhLNExYVVJneWR6MnJCTXp5NVNmUXhUeU10RnpVVE9FUGNKd2stMDBoSTBBUnhfd0k1MGdJZTZfVjJKS0xkMzVhX0JkcGU0RC0yYmN5dGN6T0Ytdw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Iconic 00s band are making shock comeback 15 years after lead singer quit say fans - after string of social media clues - The Sun",
+    "src": "The Sun",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaWs5M0xsSFNoWnFzLWoxaGd4allPbE1wNVV4S1N6ZEk2YXhsRk15WVkwWGdmTGI1dTNmc1J4eTZCQ2RKLTRDajhFOUdaOGk4TW9tRzl4OURiRzNvVXQzSWVUd2N1clc3WHUwLU5JZlVvZWp6MG5vUEFLcEQyTHRLQXNYbGY4Q3dURHpVMTBEclg?oc=5",
+    "timestamp": "2026-07-22T11:34:03+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Iconic 00s band are making shock comeback 15 years after lead singer quit say fans - after string of social media clues The Sun",
+    "category": "core",
+    "sources": [
+      {
+        "name": "The Sun",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaWs5M0xsSFNoWnFzLWoxaGd4allPbE1wNVV4S1N6ZEk2YXhsRk15WVkwWGdmTGI1dTNmc1J4eTZCQ2RKLTRDajhFOUdaOGk4TW9tRzl4OURiRzNvVXQzSWVUd2N1clc3WHUwLU5JZlVvZWp6MG5vUEFLcEQyTHRLQXNYbGY4Q3dURHpVMTBEclg?oc=5"
+      },
+      {
+        "name": "The Irish Sun",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdURvbVZOTGh1clp0U3M4Q0YxU3ZseTZiZVNtc3o2MlVpMUgxTk1SanlFWmoxYXVQNWY4bGJVbjNxb19NOHVIaFhXMXlNZV8tenVHeDA3MEtGWE1iQ2JlRmtNSFg0T3ZaZXdaMTVpdHotN2N6ZVgyclloTHlYb1FydmgyejVtcGhMdzh5ag?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 2,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "New compact Casio G-Shock watches revealed, featuring slim metal ring insets - Notebookcheck",
+    "src": "Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTjY5bFJYSWNZWFFjUTdPYTZ3d285VmtZNmxWUjUxZ0pldm1rVTZxcUo5cm5Udi1rMnVxdTlnS2NveEhJaFdacExlLWJnNzJ0aFJkT1o5ekM5Ny10TUhoYm1TQTg1LWI1czBHNFYydV9XOXc3OHZsQmp1dlZGVEw2UndnajBrXzliRDE2TGxrdUc1VjYyZFVuMXc3c3JCVjhTRUlLNzhmZW0wQXVadGpTaGl1dXBQa2oxc0hYMg?oc=5",
+    "timestamp": "2026-07-22T07:24:00+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "New compact Casio G-Shock watches revealed, featuring slim metal ring insets Notebookcheck",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Notebookcheck",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTjY5bFJYSWNZWFFjUTdPYTZ3d285VmtZNmxWUjUxZ0pldm1rVTZxcUo5cm5Udi1rMnVxdTlnS2NveEhJaFdacExlLWJnNzJ0aFJkT1o5ekM5Ny10TUhoYm1TQTg1LWI1czBHNFYydV9XOXc3OHZsQmp1dlZGVEw2UndnajBrXzliRDE2TGxrdUc1VjYyZFVuMXc3c3JCVjhTRUlLNzhmZW0wQXVadGpTaGl1dXBQa2oxc0hYMg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Victoria Monét Announces ‘Frequency of Love’ Release Date & Drops Kaytranada-Produced ‘Reach Out’ Single - Billboard",
+    "src": "Billboard",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLTI3WXA1eEZVT3pJR1BzZlZGaEhiQ001N3pTWmk4ajNZc2FJN0xRMUhmLWF3UXA3aXVuS3I4NVFWM005MzJ0Tmh6NGQtSVkyTkxudTJ4MURSb2VpZFowNHI4NlliSEVzVE5ORHVWbEFMeHVvaV91SEZfblJid3RtS1M5NjNfblFScXpOZmg0Q1FpWHFINjlDMGxaYTByTlV3aTZFQ2RWNjdESEdL?oc=5",
+    "timestamp": "2026-07-22T20:43:55+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Victoria Monét Announces ‘Frequency of Love’ Release Date & Drops Kaytranada-Produced ‘Reach Out’ Single Billboard",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Billboard",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLTI3WXA1eEZVT3pJR1BzZlZGaEhiQ001N3pTWmk4ajNZc2FJN0xRMUhmLWF3UXA3aXVuS3I4NVFWM005MzJ0Tmh6NGQtSVkyTkxudTJ4MURSb2VpZFowNHI4NlliSEVzVE5ORHVWbEFMeHVvaV91SEZfblJid3RtS1M5NjNfblFScXpOZmg0Q1FpWHFINjlDMGxaYTByTlV3aTZFQ2RWNjdESEdL?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Rolling Stones’ Mick Jagger says there’s “nothing good” about getting older",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/the-rolling-stones-mick-jagger-says-theres-nothing-good-about-getting-older-3958531?utm_source=rss&utm_medium=rss&utm_campaign=the-rolling-stones-mick-jagger-says-theres-nothing-good-about-getting-older",
+    "timestamp": "2026-07-22T20:36:05+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "\"You don’t get wisdom. You forget everything\" The post The Rolling Stones’ Mick Jagger says there’s “nothing good” about getting older appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/the-rolling-stones-mick-jagger-says-theres-nothing-good-about-getting-older-3958531?utm_source=rss&utm_medium=rss&utm_campaign=the-rolling-stones-mick-jagger-says-theres-nothing-good-about-getting-older"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Charli XCX – “If You Take Away The Music, Then What Has She Got?”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506037/charli-xcx-if-you-take-away-the-music-then-what-has-she-got/music/",
+    "timestamp": "2026-07-22T20:06:38+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Only two days until Music, Fashion, Film , but Charli XCX isn't done with the rollout. We got the latest single \" Camera \" on Tuesday (July 21), but she still has B-sides in store. Previous B-sides are \" I Keep Thinking About You Every Single Day And Night \" and \" Playboy Bunny ,\" and today she's sharing the final B-si",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506037/charli-xcx-if-you-take-away-the-music-then-what-has-she-got/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "[INTERVIEW] WONHO lets CORE do the talking - United By Pop",
+    "src": "United By Pop",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORU9DUDhkcF9JQW44cTVxU0Q4U2lnT0VpV3BKTjRLUW5ueUtiZDFQd2NYRkhXR2VrX3NLd1loSzFITjBEVnhtN3Eza3owODZsOE94UGZQYkRiR01uQTZuQnBwX01udjV0c0wwVXc0SFlVVEc4TVVuQ0Q3R1RSRkpTQVEtNFNuNHZWR0wzTmZiajJ3MWp2UmFz?oc=5",
+    "timestamp": "2026-07-22T20:03:46+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "[INTERVIEW] WONHO lets CORE do the talking United By Pop",
+    "category": "general",
+    "sources": [
+      {
+        "name": "United By Pop",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORU9DUDhkcF9JQW44cTVxU0Q4U2lnT0VpV3BKTjRLUW5ueUtiZDFQd2NYRkhXR2VrX3NLd1loSzFITjBEVnhtN3Eza3owODZsOE94UGZQYkRiR01uQTZuQnBwX01udjV0c0wwVXc0SFlVVEc4TVVuQ0Q3R1RSRkpTQVEtNFNuNHZWR0wzTmZiajJ3MWp2UmFz?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Conan O’Brien Explains His Horrifying New Hairdo",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/conan-obrien-hairdo-explained-sunburn/",
+    "timestamp": "2026-07-22T19:46:57+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Did Larry King dye his hair red? Conan O’Brien Explains His Horrifying New Hairdo Liz Shannon Miller",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/conan-obrien-hairdo-explained-sunburn/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "AI will create historically accurate ‘The Odyssey’ by end of 2026, promises Elon Musk",
+    "src": "NME",
+    "url": "https://www.nme.com/news/film/ai-will-create-historically-accurate-the-odyssey-by-end-of-2026-promises-elon-musk-3958525?utm_source=rss&utm_medium=rss&utm_campaign=ai-will-create-historically-accurate-the-odyssey-by-end-of-2026-promises-elon-musk",
+    "timestamp": "2026-07-22T19:38:12+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "The tech billionaire has repeatedly attacked Christopher Nolan’s film over its casting choices The post AI will create historically accurate ‘The Odyssey’ by end of 2026, promises Elon Musk appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/film/ai-will-create-historically-accurate-the-odyssey-by-end-of-2026-promises-elon-musk-3958525?utm_source=rss&utm_medium=rss&utm_campaign=ai-will-create-historically-accurate-the-odyssey-by-end-of-2026-promises-elon-musk"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Glen Powell to Star in Lou Gehrig Biopic Directed by Richard Linklater",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/glen-powell-lou-gehrig-biopic-richard-linklater/",
+    "timestamp": "2026-07-22T19:29:53+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Saturday Night Live head honcho Lorne Michaels, a lifelong Yankees fan, will produce the project. Glen Powell to Star in Lou Gehrig Biopic Directed by Richard Linklater Eddie Fu",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/glen-powell-lou-gehrig-biopic-richard-linklater/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Trusselina – “Gastro” & “Trusselina Archimboldi”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506032/trusselina-gastro-trusselina-archimboldi/music/",
+    "timestamp": "2026-07-22T19:27:30+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Mikaela Oppenheimer used to be in the Brooklyn emo band Hello Mary, while Hayden McGarvey is a former member of the Philadelphia shoegaze crew Bleary Eyed. The two of them got to know each other when their bands toured together in 2024, and now they've joined forces to form Trusselina, a new duo whose music doesn't sou",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506032/trusselina-gastro-trusselina-archimboldi/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Beach Boys postpone portion of summer tour, cancel Schenectady show - Times Union",
+    "src": "Times Union",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2d0UWZ5NGNtRVVCZUQyUWk0SHpNcXY2TkxUV2RRZk8zWmhWeXNJY1pER3FjNWJOTHJTRTRRUkgtd3NMb2kxejhMWUZ1YTFpMUZrLWJvNHdhUVkzWGlzeWd1S2lBV0w0bGE2ZnNfQjJpc3RfdXdfcUVCb3lyUWFBNWw0X2pOME82NWNDWXVPX0ptSWF6?oc=5",
+    "timestamp": "2026-07-22T19:19:39+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "The Beach Boys postpone portion of summer tour, cancel Schenectady show Times Union",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Times Union",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2d0UWZ5NGNtRVVCZUQyUWk0SHpNcXY2TkxUV2RRZk8zWmhWeXNJY1pER3FjNWJOTHJTRTRRUkgtd3NMb2kxejhMWUZ1YTFpMUZrLWJvNHdhUVkzWGlzeWd1S2lBV0w0bGE2ZnNfQjJpc3RfdXdfcUVCb3lyUWFBNWw0X2pOME82NWNDWXVPX0ptSWF6?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Wild Pink – “500 Is The New 250”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506024/wild-pink-250-is-the-new-500/music/",
+    "timestamp": "2026-07-22T19:10:35+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Wild Pink's upcoming album Still Coming Down feels a lot like MJ Lenderman cosplay, but can we even be mad about it? It sounds good , and Lenderman himself works on the record, so he must not mind. \"500 Is The New 250\" — which follows \" Round Of Applause At The End Of The World \" and \" Box Store \" — has a man taking a ",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506024/wild-pink-250-is-the-new-500/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Origami Angel – “Play Around The Crit” & “Compound Eyes”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506023/origami-angel-play-around-the-crit-compound-eyes/music/",
+    "timestamp": "2026-07-22T19:07:37+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "The playful and fired-up DC emo duo Origami Angel have been touring hard since the release of their very good 2024 album Feeling Not Found , and they dropped the compilation track \" Back To Life \" last year. Today, they've got two brand new songs, at least one of which is named after a Pokémon reference. The post Origa",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506023/origami-angel-play-around-the-crit-compound-eyes/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Oasis Break Beatles’ UK Chart Record, Return To Hot 100, Inspire Travis Scott’s New Sound",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506010/oasis-break-beatles-chart-record-return-to-hot-100-inspire-travis-scotts-new-sound/news/",
+    "timestamp": "2026-07-22T18:54:23+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "It's Oasis Summer. The recently reunited Britpop greats' seminal LP (What's The Story) Morning Glory? has been named the UK's Official biggest studio album of all time, surpassing the Beatles. The post Oasis Break Beatles’ UK Chart Record, Return To Hot 100, Inspire Travis Scott’s New Sound appeared first on Stereogum ",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506010/oasis-break-beatles-chart-record-return-to-hot-100-inspire-travis-scotts-new-sound/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Nigel Godrich e Dhani Harrison anunciam álbum de estreia como Dragonflies: Ouça “Slower”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506014/nigel-godrich-dhani-harrison-announce-debut-album-as-dragonflies-hear-slower/music/",
+    "timestamp": "2026-07-22T18:48:05+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Here's a combination that I, personally did not expect. Nigel Godrich is a British producer best-known for his work with Radiohead and Thom Yorke's various offshoots, though he's also produced big records for people like Beck and IDLES. Dhani Harrison is a British musician best-known for being George Harrison's son, th",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506014/nigel-godrich-dhani-harrison-announce-debut-album-as-dragonflies-hear-slower/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "titleOriginal": "Nigel Godrich & Dhani Harrison Announce Debut Album As Dragonflies: Hear “Slower”",
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "SoundCloud Acquires What’s Left of Nina Protocol",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/soundcloud-acquires-whats-left-of-nina-protocol/",
+    "timestamp": "2026-07-22T18:34:10+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/soundcloud-acquires-whats-left-of-nina-protocol/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Harry Potter to return to cinemas for 25th anniversary of ‘Philosopher’s Stone’",
+    "src": "NME",
+    "url": "https://www.nme.com/news/film/harry-potter-to-return-to-cinemas-for-25th-anniversary-of-philosophers-stone-3958520?utm_source=rss&utm_medium=rss&utm_campaign=harry-potter-to-return-to-cinemas-for-25th-anniversary-of-philosophers-stone",
+    "timestamp": "2026-07-22T18:30:37+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "The film will include 12 minutes of behind-the-scenes footage that has never previously been shown on the big screen The post Harry Potter to return to cinemas for 25th anniversary of ‘Philosopher’s Stone’ appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/film/harry-potter-to-return-to-cinemas-for-25th-anniversary-of-philosophers-stone-3958520?utm_source=rss&utm_medium=rss&utm_campaign=harry-potter-to-return-to-cinemas-for-25th-anniversary-of-philosophers-stone"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ariana Grande at TD Garden: How to Get Last-Minute Tickets",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/ariana-grande-td-garden-boston-how-to-get-last-minute-tickets/",
+    "timestamp": "2026-07-22T18:25:45+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Two of Grande's three Boston shows may have been shuffled around due to a production delay, but tickets are still available. Ariana Grande at TD Garden: How to Get Last-Minute Tickets Paolo Ragusa",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/ariana-grande-td-garden-boston-how-to-get-last-minute-tickets/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "William Shatner, 95, Recently Beat Stage 4 Melanoma",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/william-shatner-cancer-battle/",
+    "timestamp": "2026-07-22T18:22:11+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "All while his daughter, Melanie, fought and won her own battle with breast cancer. William Shatner, 95, Recently Beat Stage 4 Melanoma Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/william-shatner-cancer-battle/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Sacha Baron Cohen Revives Ali G for New Movie Coming to Theaters in October",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/sacha-baron-cohen-new-ali-g-movie-who-iz-i/",
+    "timestamp": "2026-07-22T18:20:17+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "The satirical London rude boy is back over 20 years later. Sacha Baron Cohen Revives Ali G for New Movie Coming to Theaters in October Eddie Fu",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/sacha-baron-cohen-new-ali-g-movie-who-iz-i/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Forbidden announce first new album in 15 years, release “Psyclops” music video - NextMosh",
+    "src": "NextMosh",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORTFUMktqWHZseF9nVjYzSzRYSGxPYjdVLVhmYVo2cE9mMEt3TWdjdjBVbHFBQ2Z5OTAwUnZCX3FkalFkLVBEQ212NWFWUlNfMGh0MWJMYWZBcXQybi1zajlNOFJReGk0N2lLb1lGVDN6WGhWRTNWR3hPMG9WRDRXeGx3UGFVR1paS185WWhTVFJqclptalF1aXFBWXdvQQ?oc=5",
+    "timestamp": "2026-07-22T18:09:57+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Forbidden announce first new album in 15 years, release “Psyclops” music video NextMosh",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NextMosh",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORTFUMktqWHZseF9nVjYzSzRYSGxPYjdVLVhmYVo2cE9mMEt3TWdjdjBVbHFBQ2Z5OTAwUnZCX3FkalFkLVBEQ212NWFWUlNfMGh0MWJMYWZBcXQybi1zajlNOFJReGk0N2lLb1lGVDN6WGhWRTNWR3hPMG9WRDRXeGx3UGFVR1paS185WWhTVFJqclptalF1aXFBWXdvQQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Brennan Wedl – “Let’s Be Models”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506007/brennan-wedl-lets-be-models/music/",
+    "timestamp": "2026-07-22T18:07:43+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Brennan Wedl's eponymous debut album arrives next month, and the lead single \" Pretty Little Fantasy \" was a riot. Today, we're getting another preview with the laid-back \"Let's Be Models.\" The post Brennan Wedl – “Let’s Be Models” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506007/brennan-wedl-lets-be-models/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Tom Morello launches Mary Morello Memorial Project in honour of late mother",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/tom-morello-launches-mary-morello-memorial-project-in-honour-of-late-mother-3958516?utm_source=rss&utm_medium=rss&utm_campaign=tom-morello-launches-mary-morello-memorial-project-in-honour-of-late-mother",
+    "timestamp": "2026-07-22T17:38:11+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "The Rage Against The Machine guitarist has urged people to “do as Mary did” through “caring, service and action\" The post Tom Morello launches Mary Morello Memorial Project in honour of late mother appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/tom-morello-launches-mary-morello-memorial-project-in-honour-of-late-mother-3958516?utm_source=rss&utm_medium=rss&utm_campaign=tom-morello-launches-mary-morello-memorial-project-in-honour-of-late-mother"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Bryce Bowyn – “Fever Dream” Album Release Show - PoPville",
+    "src": "PoPville",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYTlxSGNiSDVGN3lON1Y1WWZYaVQ0Q2R2dEJRVTI0T3E0TzMyVU1JRURfWUItUlF2akFuak85SGdrTjVKdElQWi13Vk1SM1Zna0lKUFRaS0d4dnVyejFVbEZqY2VDRVBqS0FYT25sUElrN004NEExZU9DY3F5bWNOV3NvSzBVNWtI?oc=5",
+    "timestamp": "2026-07-22T17:37:25+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Bryce Bowyn – “Fever Dream” Album Release Show PoPville",
+    "category": "general",
+    "sources": [
+      {
+        "name": "PoPville",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYTlxSGNiSDVGN3lON1Y1WWZYaVQ0Q2R2dEJRVTI0T3E0TzMyVU1JRURfWUItUlF2akFuak85SGdrTjVKdElQWi13Vk1SM1Zna0lKUFRaS0d4dnVyejFVbEZqY2VDRVBqS0FYT25sUElrN004NEExZU9DY3F5bWNOV3NvSzBVNWtI?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Victoria Monét Reveals New Album Frequency of Love",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/victoria-monet-reveals-new-album-frequency-of-love/",
+    "timestamp": "2026-07-22T17:32:55+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/victoria-monet-reveals-new-album-frequency-of-love/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "2hollis – “Hurt”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2505992/2hollis-hurt/music/",
+    "timestamp": "2026-07-22T17:31:45+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Happy 2hollis Day to all who celebrate. The hyperpop rapper is back today with his first new music since last year's star , which earned a spot on our list of the best albums of 2025 . He's sort of shared songs since then, but only via since-deleted Instagram posts and on SoundCloud under other names . Last month, he s",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2505992/2hollis-hurt/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Tubs – “Stoop To Me”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506000/the-tubs-stoop-to-me/music/",
+    "timestamp": "2026-07-22T17:27:22+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "London janglers the Tubs are about two months away from releasing their new album Hard Life . This is good news. Right now, the Tubs are among the most dependably tuneful bands on the indie rock landscape. Hopefully, you've already heard the very good lead single \" Who's Gonna Love You Now .\" Today, they follow it with",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506000/the-tubs-stoop-to-me/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Pat McAfee Announces Release Date For Debut Album, ‘The Diary Of A Polarizing Figure,’ Which Was Brought To Life With The Help Of Ernest - Whiskey Riff",
+    "src": "Whiskey Riff",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQXMxNEhYVmNtUXRkblBxemF5a180b01Udkg2azRQNXVYZlY5elJheUdFVElBaFhrek1zRF9CSThhUVpQU1RjRnZrMVpPbm54VEs2Zm9MbXI4OWpXYWJyRmlhR3dQbExJa3pZbHNna3o0X09RdlU2MkNzb2N4bUdWWU9GZ0NRUTRCSnZCeTlBZ0xNcGFrWVYycXhTbzlMU2oyaGNTRkVVaUZNQ1pVanA5ZjBzRjJJTEhfenVjR0RvamdzNWtuT01VM2VLWThJMnAtRi1xN0x0cER3dEUzdHEwZTU1cUwzYVljc3ZKTjlqdGZkeXlBbTdIb003d3FqRWJCcVE?oc=5",
+    "timestamp": "2026-07-22T15:05:20+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Pat McAfee Announces Release Date For Debut Album, ‘The Diary Of A Polarizing Figure,’ Which Was Brought To Life With The Help Of Ernest Whiskey Riff",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Whiskey Riff",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQXMxNEhYVmNtUXRkblBxemF5a180b01Udkg2azRQNXVYZlY5elJheUdFVElBaFhrek1zRF9CSThhUVpQU1RjRnZrMVpPbm54VEs2Zm9MbXI4OWpXYWJyRmlhR3dQbExJa3pZbHNna3o0X09RdlU2MkNzb2N4bUdWWU9GZ0NRUTRCSnZCeTlBZ0xNcGFrWVYycXhTbzlMU2oyaGNTRkVVaUZNQ1pVanA5ZjBzRjJJTEhfenVjR0RvamdzNWtuT01VM2VLWThJMnAtRi1xN0x0cER3dEUzdHEwZTU1cUwzYVljc3ZKTjlqdGZkeXlBbTdIb003d3FqRWJCcVE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Agnostic Front release “Divided” music video ahead of European tour - NextMosh",
+    "src": "NextMosh",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFJ5R2E2ejlKajU4Rjg1RzhscUNFclRaYndJc2RMN3JBamlWRVNHdm1KamtDLTQxaENRNXVwVnhwblYxUWlNa2FPQVd4MnAtU3RhdU0xRnhxYlRfZ2Z3VmhrZUcySUJsOFZaSERTblNkNkwtZ1U4ZGJpU2p6bmxHeXJXalhfMGR4MTRBeHdDai0?oc=5",
+    "timestamp": "2026-07-22T14:32:57+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Agnostic Front release “Divided” music video ahead of European tour NextMosh",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NextMosh",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcFJ5R2E2ejlKajU4Rjg1RzhscUNFclRaYndJc2RMN3JBamlWRVNHdm1KamtDLTQxaENRNXVwVnhwblYxUWlNa2FPQVd4MnAtU3RhdU0xRnhxYlRfZ2Z3VmhrZUcySUJsOFZaSERTblNkNkwtZ1U4ZGJpU2p6bmxHeXJXalhfMGR4MTRBeHdDai0?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Garbage Performs Final European Tour Show in Dublin, Band’s Future Unclear - 95.9 The RAT",
+    "src": "95.9 The RAT",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYTV0VWR3TjlpZ3IwLVFDN3Jabk1qbGUwOUppekpQR0ZYQjJMNkh1bEw5WTNKTE9qaWVycFByOExNS3VnUlpRSm5WakdZVER3UmtrSDlLRWlBM2lnWWVDOHpqWFd2b1otcVVocVFBZk9IT0M2d2JrT0FkNUdvckczaWVTWnk1QzBqaW4tZkV3RXhDaVFRRWVBbGVuOWwydFNEXzBF?oc=5",
+    "timestamp": "2026-07-22T13:07:48+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Garbage Performs Final European Tour Show in Dublin, Band’s Future Unclear 95.9 The RAT",
+    "category": "general",
+    "sources": [
+      {
+        "name": "95.9 The RAT",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYTV0VWR3TjlpZ3IwLVFDN3Jabk1qbGUwOUppekpQR0ZYQjJMNkh1bEw5WTNKTE9qaWVycFByOExNS3VnUlpRSm5WakdZVER3UmtrSDlLRWlBM2lnWWVDOHpqWFd2b1otcVVocVFBZk9IT0M2d2JrT0FkNUdvckczaWVTWnk1QzBqaW4tZkV3RXhDaVFRRWVBbGVuOWwydFNEXzBF?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "THE EXILES Release Official Music Video For “Rainmaker” Single - BraveWords",
+    "src": "BraveWords",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUDhIZGZ4anNfanQzOEJnbkFiS1pGQkhhVUNXLVNOU1JSeUJsZEV6bUxuNFZvVGxXTXdGZVdkX1ZoeHlYLVJxcWdsaDE2emNadGZGQ1lSY3VRQjBvbzc0YXdlNmhLemI2U2otUlE3Qm92by1hY2hRdmw2RzB1R3B1OVpMV1hfWWZBQ3ItbTlMM2l3QkHSAZsBQVVfeXFMTkJxcjlTMmRWMkJaU3Qtb1V0bmRDd2pUNVFjSnhIN0poU1M2aGRFY2FteHNGRDhHcERWb0xMT3BnU1hrYWNhNDhMZWc1WkVYbVhzQlpPeHZuSFhETTgwMTZFZmcxRnYyTHA0c2t1QXNNNkJEX29UdnJLZ29rZ2U5Sy14Qm1HRlFHQmV3ZDFFczdJNjhBX3pfVDhJMzg?oc=5",
+    "timestamp": "2026-07-22T13:00:05+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "THE EXILES Release Official Music Video For “Rainmaker” Single BraveWords",
+    "category": "general",
+    "sources": [
+      {
+        "name": "BraveWords",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUDhIZGZ4anNfanQzOEJnbkFiS1pGQkhhVUNXLVNOU1JSeUJsZEV6bUxuNFZvVGxXTXdGZVdkX1ZoeHlYLVJxcWdsaDE2emNadGZGQ1lSY3VRQjBvbzc0YXdlNmhLemI2U2otUlE3Qm92by1hY2hRdmw2RzB1R3B1OVpMV1hfWWZBQ3ItbTlMM2l3QkHSAZsBQVVfeXFMTkJxcjlTMmRWMkJaU3Qtb1V0bmRDd2pUNVFjSnhIN0poU1M2aGRFY2FteHNGRDhHcERWb0xMT3BnU1hrYWNhNDhMZWc1WkVYbVhzQlpPeHZuSFhETTgwMTZFZmcxRnYyTHA0c2t1QXNNNkJEX29UdnJLZ29rZ2U5Sy14Qm1HRlFHQmV3ZDFFczdJNjhBX3pfVDhJMzg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Two of music’s biggest stars talk going on tour together - Yahoo",
+    "src": "Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbEpkaVBBWW5RRDVMUVpjaWM4bVV1WUx0Z29OSXRKYW02ekxWdVNjeHVndXNlZHl5emY0OU5SM1U3NUFHXzJmTmpvTHo5ejRQRWtTbWF0eHlCbDhLZVRLdUFiS0E0V2VCTUhmb0RMcFd4VUkzR2pTZDhUVVE4eGZ2ZWtSdVpLOFpKUVlBc0JLaFlRVlBIRi1fZUo2a0g2cjNoZ0Fj?oc=5",
+    "timestamp": "2026-07-22T12:04:05+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Two of music’s biggest stars talk going on tour together Yahoo",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbEpkaVBBWW5RRDVMUVpjaWM4bVV1WUx0Z29OSXRKYW02ekxWdVNjeHVndXNlZHl5emY0OU5SM1U3NUFHXzJmTmpvTHo5ejRQRWtTbWF0eHlCbDhLZVRLdUFiS0E0V2VCTUhmb0RMcFd4VUkzR2pTZDhUVVE4eGZ2ZWtSdVpLOFpKUVlBc0JLaFlRVlBIRi1fZUo2a0g2cjNoZ0Fj?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "156/SILENCE release music video for latest single “Swept From Under (Call Of The Void)” - Lambgoat",
+    "src": "Lambgoat",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM09odHRHLWFJNXd0Zk5udnQxQWhZR1NUcllrclM2cWVIUV9RR1BpSHRBb2tjZGRJd3VXVVZLOW4tUFM3X3NmLUNaaUtBTEVaYVRENmItcWdOdEJXOUhmNk5Relh2azBHcHA4NlNDVnZNZWtTeWR2Ti00U0hOWS00RnRRTlk2elhxaXVYSW4zMWxFTFgwSWNoMW1lb3lhS0JjOFUwNXZXM0J0TlZPV2RRMnhiZU9GUQ?oc=5",
+    "timestamp": "2026-07-22T08:23:00+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "156/SILENCE release music video for latest single “Swept From Under (Call Of The Void)” Lambgoat",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Lambgoat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM09odHRHLWFJNXd0Zk5udnQxQWhZR1NUcllrclM2cWVIUV9RR1BpSHRBb2tjZGRJd3VXVVZLOW4tUFM3X3NmLUNaaUtBTEVaYVRENmItcWdOdEJXOUhmNk5Relh2azBHcHA4NlNDVnZNZWtTeWR2Ti00U0hOWS00RnRRTlk2elhxaXVYSW4zMWxFTFgwSWNoMW1lb3lhS0JjOFUwNXZXM0J0TlZPV2RRMnhiZU9GUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "RTP1 homenageia esta noite Luís Represas - Magazine.HD",
+    "src": "Magazine.HD",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcV9EaU5jMlZGSGIyN1ZqdFNQS0VhTnhjbHRia2ZJUDJ5VVg4dlZXQTBIT1dHXzR2VWxrcHJtRDJ6OFNHWXotRVBHLUg5anJaTWFUT21rVXZHdDZhY1JLQmRMSXJuWHNDZkU4VHptZF9ocUdlN2g2YVVYVy04WHNwWkRRSQ?oc=5",
+    "timestamp": "2026-07-22T19:45:45+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "RTP1 homenageia esta noite Luís Represas Magazine.HD",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Magazine.HD",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcV9EaU5jMlZGSGIyN1ZqdFNQS0VhTnhjbHRia2ZJUDJ5VVg4dlZXQTBIT1dHXzR2VWxrcHJtRDJ6OFNHWXotRVBHLUg5anJaTWFUT21rVXZHdDZhY1JLQmRMSXJuWHNDZkU4VHptZF9ocUdlN2g2YVVYVy04WHNwWkRRSQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Adeus a uma voz histórica: Luís Represas morre aos 69 anos em Portugal - MundoBA",
+    "src": "MundoBA",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS25ST2dLQUFSTmx1M291MkJnNjU2ZFF1bE5EXzRZRm8xWnlTY3lDYlN3d1c5djZoOEtFQjlkMUZTdEVpYm9yeTFKb0g5VnVLejdzdUMtSlR3U2EyZHR6MlZHeTFGN2tYaFlwYWFLOFBYZzczdnBrd0VGVGdOR1otSDJJTnhyQWNpWE81b2gyTnhVVFpUUHdoVjRERXBLd3kzal9KaldKV2JwWU9S?oc=5",
+    "timestamp": "2026-07-22T19:34:00+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Adeus a uma voz histórica: Luís Represas morre aos 69 anos em Portugal MundoBA",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "MundoBA",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS25ST2dLQUFSTmx1M291MkJnNjU2ZFF1bE5EXzRZRm8xWnlTY3lDYlN3d1c5djZoOEtFQjlkMUZTdEVpYm9yeTFKb0g5VnVLejdzdUMtSlR3U2EyZHR6MlZHeTFGN2tYaFlwYWFLOFBYZzczdnBrd0VGVGdOR1otSDJJTnhyQWNpWE81b2gyTnhVVFpUUHdoVjRERXBLd3kzal9KaldKV2JwWU9S?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Ícone da música portuguesa Luís Represas morre aos 69 anos - Portugal Resident",
+    "src": "Portugal Resident",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IdnVJMXFoTTlQTXlKbTZWWnkxbTdlYU5mZzNmSWRoOGJVLVFQRDhfbmEwSVV6QkxaaEg1NW5jaGpPQWdWVDVwX1BRVTRVNDJaNndGVGJyakRJN1ZGT1NOcm5SWmJMOWk0a0FFQXJGcllNek12SkRoaQ?oc=5",
+    "timestamp": "2026-07-22T18:42:13+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Ícone da música portuguesa Luís Represas morre aos 69 anos Portugal Resident",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Portugal Resident",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IdnVJMXFoTTlQTXlKbTZWWnkxbTdlYU5mZzNmSWRoOGJVLVFQRDhfbmEwSVV6QkxaaEg1NW5jaGpPQWdWVDVwX1BRVTRVNDJaNndGVGJyakRJN1ZGT1NOcm5SWmJMOWk0a0FFQXJGcllNek12SkRoaQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Cantor português Luís Represas, ex-vocalista do Trovante, morre aos 69 anos - UOL",
+    "src": "UOL",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcHItaDBTTzlVck9Hb1U1cF9lc1N4OXY3TXRidXhyNGdjUW9DQ0FjXzRjZnB5XzdXUDVKbGQtd3BNYTFpNXJNeFVCU09NcFc2emZqbGdBTVlmR0NVZndJNm5nVEJXVl9iY1VuSTBZLTFsMzMweFhKVnUyZDZDVnlyZ2JEQjhSVDlwWmFRZ0tZczZfMUhTS2hOa2xpUEdjV2I5U3NXUmtneHZiVk9DRTV0NDVNWlVhSmtlYWdGalBibmlGTlVwdzB2cC1Fb2JuM3Qtdk1Lcjg4aGpmOWVXZHRkUw?oc=5",
+    "timestamp": "2026-07-22T17:49:52+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Cantor português Luís Represas, ex-vocalista do Trovante, morre aos 69 anos UOL",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "UOL",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcHItaDBTTzlVck9Hb1U1cF9lc1N4OXY3TXRidXhyNGdjUW9DQ0FjXzRjZnB5XzdXUDVKbGQtd3BNYTFpNXJNeFVCU09NcFc2emZqbGdBTVlmR0NVZndJNm5nVEJXVl9iY1VuSTBZLTFsMzMweFhKVnUyZDZDVnlyZ2JEQjhSVDlwWmFRZ0tZczZfMUhTS2hOa2xpUEdjV2I5U3NXUmtneHZiVk9DRTV0NDVNWlVhSmtlYWdGalBibmlGTlVwdzB2cC1Fb2JuM3Qtdk1Lcjg4aGpmOWVXZHRkUw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Luís Represas, a voz que deu música às memórias de Portugal - 24 Notícias",
+    "src": "24 Notícias",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVC1hRmR6TjVvUzN2WXRBYi10Z2FWNm9idG85UHl4WU5ZVlZDZDlPaTg4a0c4cGcycFp5cG5OU0FMT2p0bDVWWGViRnJrVHhpb1plRUx2RUlQLTZKWU9faExmbDlnb2VrcWI5bHNkaTRNQ2l5MUNyb1dqT1lhblY2WENhSExxUEVNY29VczNKYURlc2JGZHdDNFUzT3dhWG8?oc=5",
+    "timestamp": "2026-07-22T09:36:15+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Luís Represas, a voz que deu música às memórias de Portugal 24 Notícias",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "24 Notícias",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVC1hRmR6TjVvUzN2WXRBYi10Z2FWNm9idG85UHl4WU5ZVlZDZDlPaTg4a0c4cGcycFp5cG5OU0FMT2p0bDVWWGViRnJrVHhpb1plRUx2RUlQLTZKWU9faExmbDlnb2VrcWI5bHNkaTRNQ2l5MUNyb1dqT1lhblY2WENhSExxUEVNY29VczNKYURlc2JGZHdDNFUzT3dhWG8?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Imperium",
+    "t": "Exodus Unknown Review",
+    "src": "Angry Metal Guy",
+    "date": "22 Jul",
+    "isoDate": "2026-07-22",
+    "timestamp": "2026-07-22T18:00:21+00:00",
+    "url": "https://www.angrymetalguy.com/imperium-exodus-unknown-review/",
+    "d": "\"Thrash has enjoyed a solid year thus far...Whether your poison has included the head-spinning technical fireworks of Cryptic Shift , the sprightly horns-up gallop of Kreator 's inspired latest, lean, mean death-thrash of Nuclear Tomb , hard-hitting punch of F",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "imperium|exodus unknown review",
+    "kind": "review",
+    "section": "rev"
   },
   {
     "b": "UNIDARK",
@@ -6778,17 +8339,17 @@
     "section": "news"
   },
   {
-    "title": "Bad Brains' 1982 self-titled debut ranked among the 'greatest punk albums of all time' - MSN",
-    "src": "MSN",
+    "title": "Bad Brains' 1982 self-titled debut ranked among the 'greatest punk albums of all time' - msn.com",
+    "src": "msn.com",
     "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQdG5hRURMbTkzcDV4WFN5RjM1T3djYmI4OTQzVjdEN3V2c1dwT0lFYnZBT0hTWEp6T21SVFpNaWhXS294bDEyUjhNLUVDdmloSjdYdUdLd01DMjhrb0l6dWVSYW43UUp0WXEtUVA2LTZDVGV1NkF5YXI4OEFZUVZZWU92Yk9mWWlWdERURDdDV2RNVFBmVFNPdFEzUFE3am5Xb09vQjctaFdaVlR2NGFGMmQ5OVBIQTl0V1lGeGR2dmg5M2JSNFVCcVVIa00tdF9pTVVGdXJ4Z21HWVhNWGhRaFQ4MHNqTXdMNGZSLXFmY1NtcGZnOHFaMzRFa1BvUnZSM3F6SWhnT25VS3p3SUVmTzRyaktKb1ktOEdaX0gxRWVjbHV5UXNWQXU1Y2VvWEY2cldZTkpibnFiUWZPN1hVbWNjX2lqZnhybkxCMFFDWURBVUJ1LTZaSEJfXzF0UWZmMGdv?oc=5",
     "timestamp": "2026-07-21T10:26:04+00:00",
     "isoDate": "2026-07-21",
     "date": "21 Jul",
-    "d": "Bad Brains' 1982 self-titled debut ranked among the 'greatest punk albums of all time' MSN",
+    "d": "Bad Brains' 1982 self-titled debut ranked among the 'greatest punk albums of all time' msn.com",
     "category": "core",
     "sources": [
       {
-        "name": "MSN",
+        "name": "msn.com",
         "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQdG5hRURMbTkzcDV4WFN5RjM1T3djYmI4OTQzVjdEN3V2c1dwT0lFYnZBT0hTWEp6T21SVFpNaWhXS294bDEyUjhNLUVDdmloSjdYdUdLd01DMjhrb0l6dWVSYW43UUp0WXEtUVA2LTZDVGV1NkF5YXI4OEFZUVZZWU92Yk9mWWlWdERURDdDV2RNVFBmVFNPdFEzUFE3am5Xb09vQjctaFdaVlR2NGFGMmQ5OVBIQTl0V1lGeGR2dmg5M2JSNFVCcVVIa00tdF9pTVVGdXJ4Z21HWVhNWGhRaFQ4MHNqTXdMNGZSLXFmY1NtcGZnOHFaMzRFa1BvUnZSM3F6SWhnT25VS3p3SUVmTzRyaktKb1ktOEdaX0gxRWVjbHV5UXNWQXU1Y2VvWEY2cldZTkpibnFiUWZPN1hVbWNjX2lqZnhybkxCMFFDWURBVUJ1LTZaSEJfXzF0UWZmMGdv?oc=5"
       }
     ],
@@ -9355,6 +10916,77 @@
     "section": "news"
   },
   {
+    "b": "chelsea wolfe",
+    "t": "Cold",
+    "g": "folk",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "21 Jul",
+    "isoDate": "2026-07-21",
+    "url": "https://musicbrainz.org/release-group/443632d7-7a32-479d-af82-af4e411f7d93",
+    "d": "singer-songwriter, folk rock",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/443632d7-7a32-479d-af82-af4e411f7d93"
+      }
+    ],
+    "mbid": "443632d7-7a32-479d-af82-af4e411f7d93",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "title": "Doja Cat & Latto Team Up for Sexy 2000s-Themed ‘Okayyy’ Video, Atlanta Rapper to Join Doja’s Ma Vie World Tour - Billboard",
+    "src": "Billboard",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3RMUXVRcmFrRW9ybHlxWkRrcmI2THJBbHdCVEVGZFpaWm4wSDB6X3c5Nk1LRGZWSnFUa2ZGRHpuVTYwbVVvV0czNUhRU21jdTlhUFJlbHJFcHBXZC1qbnBsS2J6SF9pUVk3ZW1FaFFuR3VTVGhDM0duazVEMWEtd2FWZTBmVFNoaGRkNVNIdmRnUUVFRWoyMzNB?oc=5",
+    "timestamp": "2026-07-21T23:38:05+00:00",
+    "isoDate": "2026-07-21",
+    "date": "21 Jul",
+    "d": "Doja Cat & Latto Team Up for Sexy 2000s-Themed ‘Okayyy’ Video, Atlanta Rapper to Join Doja’s Ma Vie World Tour Billboard",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Billboard",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3RMUXVRcmFrRW9ybHlxWkRrcmI2THJBbHdCVEVGZFpaWm4wSDB6X3c5Nk1LRGZWSnFUa2ZGRHpuVTYwbVVvV0czNUhRU21jdTlhUFJlbHJFcHBXZC1qbnBsS2J6SF9pUVk3ZW1FaFFuR3VTVGhDM0duazVEMWEtd2FWZTBmVFNoaGRkNVNIdmRnUUVFRWoyMzNB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "INTERVIEW: Blues Traveler's lead axman shares his thoughts on live music and more ahead of Saturday show in Quincy - whig.com",
+    "src": "whig.com",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZGduS2tqMGF3YWs0ZUI2WEJhSmtnVDZEMnZsRGQ0S2VydGp6OUZZVWtocnhTRWthY1FLdVJQanJoUGVxQ0R4VkxIWFpaek0zaFlmaU9pRk0yZnNvT01xTHJMWlpDLWYzYWxYSnJkVHNLZk9remJJbkV4RHpLdFpVU1dUX0RkNnNBdjg1N1VkTHFTZ1FoQ3d3aWt6X09uZVY4ckFWMnFfMnZIZkZaanlRTTVFUFpkajN1R0NzbFN0Q2FpN056RWF1anA2ZGV4ZWh6MzVWSExJeXY?oc=5",
+    "timestamp": "2026-07-21T22:21:40+00:00",
+    "isoDate": "2026-07-21",
+    "date": "21 Jul",
+    "d": "INTERVIEW: Blues Traveler's lead axman shares his thoughts on live music and more ahead of Saturday show in Quincy whig.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "whig.com",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZGduS2tqMGF3YWs0ZUI2WEJhSmtnVDZEMnZsRGQ0S2VydGp6OUZZVWtocnhTRWthY1FLdVJQanJoUGVxQ0R4VkxIWFpaek0zaFlmaU9pRk0yZnNvT01xTHJMWlpDLWYzYWxYSnJkVHNLZk9remJJbkV4RHpLdFpVU1dUX0RkNnNBdjg1N1VkTHFTZ1FoQ3d3aWt6X09uZVY4ckFWMnFfMnZIZkZaanlRTTVFUFpkajN1R0NzbFN0Q2FpN056RWF1anA2ZGV4ZWh6MzVWSExJeXY?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
     "title": "Froth & Fury Fest 2027 Unleashes Massive First Wave Led By Clutch, Alpha Wolf & Paleface Swiss - Blunt Magazine",
     "src": "Blunt Magazine",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90MjVkdG1iRjQ1cjBmbGpmWVVWYVF0OWNWaDBmQ3ZJdU9MbnRHNjkybnlyVzNSaTRnTlFFODhNQ0ZzVlRzM2luRHVFN1dZSVFsRnhVNEpsRTQ0cUZueVpEVS0wcHJBYWVkOEt3aERDSkZuREJHMjU4?oc=5",
@@ -11549,21 +13181,21 @@
     "section": "news"
   },
   {
-    "title": "Beloved metal band announces new album 21 years after forming - MSN",
-    "src": "MSN",
+    "title": "Beloved metal band announces new album 21 years after forming - msn.com",
+    "src": "msn.com",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUhxX3FsZU5IcklEand1V3E2SUc3TGdYcmtvZVZOQjVpMUhQUU5vVzFEbEVEb2pkcXZFQkZiaVRyMEJOaTMwcnpiNzd1TWlMMVVLTEt6SHlnSjlHYVFjZ05GWWJUSDVjaGZDQXBSZTdVSmZJUEllaTRZME0tQlA4ZGpDZm9reGtBcUMxMXpKM1ZzR21DRE12QkNmTlN2VWdtcGZuU2pwZU5OLVphV1RwRkNXNUNkWW5uWkdkNkRjZDh3Zw?oc=5",
     "timestamp": "2026-07-20T07:00:17+00:00",
     "isoDate": "2026-07-20",
     "date": "20 Jul",
-    "d": "Beloved metal band announces new album 21 years after forming MSN",
+    "d": "Beloved metal band announces new album 21 years after forming msn.com",
     "category": "metal",
     "sources": [
       {
-        "name": "MSN",
+        "name": "msn.com",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUhxX3FsZU5IcklEand1V3E2SUc3TGdYcmtvZVZOQjVpMUhQUU5vVzFEbEVEb2pkcXZFQkZiaVRyMEJOaTMwcnpiNzd1TWlMMVVLTEt6SHlnSjlHYVFjZ05GWWJUSDVjaGZDQXBSZTdVSmZJUEllaTRZME0tQlA4ZGpDZm9reGtBcUMxMXpKM1ZzR21DRE12QkNmTlN2VWdtcGZuU2pwZU5OLVphV1RwRkNXNUNkWW5uWkdkNkRjZDh3Zw?oc=5"
       },
       {
-        "name": "MSN",
+        "name": "msn.com",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU0pzQklQQW9McHprUHdvRElEanBDdzBncGVWaDdvc25aYTJrOFh5X3pQNzRPSXROa3dOVjc5Nk9yR1JGN0N0cW1EVWU1Z2s2VmFpamd5cXlRaFBLVmNjZ1kteTRJLXFQQmo4SDBTZlAxUlV0RGhJT0ppZkZ4dDhkQzlXdWhJWE9Ea1BuMlJBZHVzWmFsN25XYnhvUWxtaEcweEhCWkRCd3lMOFZuY1lz?oc=5"
       }
     ],
@@ -11590,6 +13222,31 @@
       {
         "name": "Blabbermouth",
         "url": "https://blabbermouth.net/news/accepts-wolf-hoffmann-we-released-some-albums-in-the-90s-that-im-less-proud-of"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Beloved Rock Band, Disbanded for 22 Years, Announces Return to Stage - Yahoo",
+    "src": "Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOakxaaERsQy1JS0k5elo2WGVWR0hkS3IyVEY3c1E3eEhnRVNkaVRJdzZhMzBRXy1wTU5LNjJyR2M0TGhTWldVS1RPU2N6alYxaUVtcndvUzFUNEFKR0FRNnBiYlFXUnNpYkdLVVhka2V6LU1mQk1mUVBjQWRzV3pFYktITUstVTdVeG1jUl9LNHpzSGgweXZPZ01HU0w?oc=5",
+    "timestamp": "2026-07-20T10:30:00+00:00",
+    "isoDate": "2026-07-20",
+    "date": "20 Jul",
+    "d": "Beloved Rock Band, Disbanded for 22 Years, Announces Return to Stage Yahoo",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOakxaaERsQy1JS0k5elo2WGVWR0hkS3IyVEY3c1E3eEhnRVNkaVRJdzZhMzBRXy1wTU5LNjJyR2M0TGhTWldVS1RPU2N6alYxaUVtcndvUzFUNEFKR0FRNnBiYlFXUnNpYkdLVVhka2V6LU1mQk1mUVBjQWRzV3pFYktITUstVTdVeG1jUl9LNHpzSGgweXZPZ01HU0w?oc=5"
       }
     ],
     "status": "official",
@@ -12318,17 +13975,17 @@
     "section": "pt"
   },
   {
-    "title": "Música, tradições e muita emoção: Tudo o que aconteceu no 'Alô Portugal' de hoje - SIC",
-    "src": "SIC",
+    "title": "Música, tradições e muita emoção: Tudo o que aconteceu no 'Alô Portugal' de hoje - sic.pt",
+    "src": "sic.pt",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONkxqY2FTV3NhMmlfTFM4QlJYNmpVZnpSaEdqQ2t2Uk9ra1Zsc0hxVktuN0YtbHBtRlQ2bXhOU28xNHRQeXpNMXU3VFBoTWVZVThhWndNallXdmZ4ZzdoWFA5b1VLSlFobXFlczdpY1NXbWJFeUxOenVOSDhWMVNYdHRXQ0NZbGNpNWtzTGZvZEoyNGY2N2d0aG85dFNfR2RjNkN5ODJvU3dRZDVvS21oTUhCOVB1OHhpclBjcTFTSzRZQ09CaVVkdWV5eWhCcE5obkZReGVn?oc=5",
     "timestamp": "2026-07-18T13:30:57+00:00",
     "isoDate": "2026-07-18",
     "date": "18 Jul",
-    "d": "Música, tradições e muita emoção: Tudo o que aconteceu no 'Alô Portugal' de hoje SIC",
+    "d": "Música, tradições e muita emoção: Tudo o que aconteceu no 'Alô Portugal' de hoje sic.pt",
     "category": "pt",
     "sources": [
       {
-        "name": "SIC",
+        "name": "sic.pt",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONkxqY2FTV3NhMmlfTFM4QlJYNmpVZnpSaEdqQ2t2Uk9ra1Zsc0hxVktuN0YtbHBtRlQ2bXhOU28xNHRQeXpNMXU3VFBoTWVZVThhWndNallXdmZ4ZzdoWFA5b1VLSlFobXFlczdpY1NXbWJFeUxOenVOSDhWMVNYdHRXQ0NZbGNpNWtzTGZvZEoyNGY2N2d0aG85dFNfR2RjNkN5ODJvU3dRZDVvS21oTUhCOVB1OHhpclBjcTFTSzRZQ09CaVVkdWV5eWhCcE5obkZReGVn?oc=5"
       }
     ],
@@ -12846,6 +14503,106 @@
     "star": false,
     "kind": "news",
     "section": "core"
+  },
+  {
+    "title": "Tragedy as concertgoer, 51, plummets to his death in front of horrified wife at MSG - msn.com",
+    "src": "msn.com",
+    "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNSk9lWlF6U1BKVEI1VnVEQ0VVd3QxZE9SR19vdzZZcGx2Z25pQjM4dXpPallQVkJXcV9QUU9Qa3hlZmp4c2lCN2hOSFlUVXB0QXNnTDZXODdJNVQ5ZzZkdTFjTjRObGJ1LXpzX1NjdEpWR0dvQXd2RVVVYzlKUU5WV2xVTjJZVVc2SDNjVVp1UGtIQXpQU2FoTlpPdGVOMjIzYXY0MzkyWElhRkpNWHVaY0MxcUtyWmU1NjVremFQYkZIZFZpNjA5cU1QTG5hRkdqYk5KXzBSeVp0RTdKbTRYMUY4ZDFuQXYzVXZLaWtrLXBRUmZWcGV0a3dvVHVCQjV4R3JlM0FUQlh0dnk3QjBPbVlVZHoxbHd3Z0x2bl9nUEYyekR4MXZzaTZCTzNENmFUaGhHUk1OVG12NGNTeG9vOUFqWk1UYmFhTW5KZmNycy13Q0dhaUlOWE9QV0M0dHM0QWNlVE5TVzJ3ajBYNlJZ?oc=5",
+    "timestamp": "2026-07-18T02:45:47+00:00",
+    "isoDate": "2026-07-18",
+    "date": "18 Jul",
+    "d": "Tragedy as concertgoer, 51, plummets to his death in front of horrified wife at MSG msn.com",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "msn.com",
+        "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNSk9lWlF6U1BKVEI1VnVEQ0VVd3QxZE9SR19vdzZZcGx2Z25pQjM4dXpPallQVkJXcV9QUU9Qa3hlZmp4c2lCN2hOSFlUVXB0QXNnTDZXODdJNVQ5ZzZkdTFjTjRObGJ1LXpzX1NjdEpWR0dvQXd2RVVVYzlKUU5WV2xVTjJZVVc2SDNjVVp1UGtIQXpQU2FoTlpPdGVOMjIzYXY0MzkyWElhRkpNWHVaY0MxcUtyWmU1NjVremFQYkZIZFZpNjA5cU1QTG5hRkdqYk5KXzBSeVp0RTdKbTRYMUY4ZDFuQXYzVXZLaWtrLXBRUmZWcGV0a3dvVHVCQjV4R3JlM0FUQlh0dnk3QjBPbVlVZHoxbHd3Z0x2bl9nUEYyekR4MXZzaTZCTzNENmFUaGhHUk1OVG12NGNTeG9vOUFqWk1UYmFhTW5KZmNycy13Q0dhaUlOWE9QV0M0dHM0QWNlVE5TVzJ3ajBYNlJZ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Poppy’s Band Just Played Without Her at Upheaval Festival - Loudwire",
+    "src": "Loudwire",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CZGVYVEktdHE5Wk5uNzZUOWpiajdJMlNwZVpVTWJMc09WWDdVT2FmQTFiRlBUV2MzTFZOOC1yTTB0OFpqNzNaZThORHZoOVBMWXpsYmgyNlhyRmxyRkk0?oc=5",
+    "timestamp": "2026-07-18T01:19:52+00:00",
+    "isoDate": "2026-07-18",
+    "date": "18 Jul",
+    "d": "Poppy’s Band Just Played Without Her at Upheaval Festival Loudwire",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CZGVYVEktdHE5Wk5uNzZUOWpiajdJMlNwZVpVTWJMc09WWDdVT2FmQTFiRlBUV2MzTFZOOC1yTTB0OFpqNzNaZThORHZoOVBMWXpsYmgyNlhyRmxyRkk0?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Poppy's Band Plays Full Set Without Her at Upheaval Festival",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/poppy-upheaval-festival-2026/",
+    "timestamp": "2026-07-18T00:18:30+00:00",
+    "isoDate": "2026-07-18",
+    "date": "18 Jul",
+    "d": "Poppy has issued a statement on her absence onstage during her band's set at Upheaval Festival in Grand Rapids, Michigan. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/poppy-upheaval-festival-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Jovem DJ portuguesa BIIA estreia-se hoje no Tomorrowland com orgulho nas suas origens - Diário do Minho",
+    "src": "Diário do Minho",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRU1Za2JTRVdWa3doa244Q2hydnZKRXhhXzdVazREUU5pUUlmWVZvY1VFVE9UdzJnQVVSLVk2Z0VoTzIwam5BUFAwYkM0M1BIOWNlQlBUWEJ5Q3p5bE53bmx1eVkyNmJ3bU9IYTVpZEZmLThkMFhPSV9EVmRQQ2dCaDc2NVhJRGFSNlVLVDBwTWVUb3pldXdrd3FEcHBLRG9HMzFib1N6QjRWNGQ0SXpZeFdxY25ZY3N1aG1aTElPRmFoSUZrYlM1SnpNbDFidFRnVDVNazd5OUZZZ24yXzh5VlNrU0dBUnhxY2l5eWpfVzlzRGJZckM5RtIB_gFBVV95cUxPY3FnU2ZvbEV2TEpiNGhCQ1hSdGNlREZRVzJKYUFiR1Z5akcwZzhmRVpPWW9wV2VaTnlqY2p0dXF2QlcwMGpnQ09RMF9FZHVIaFR6bTJ2enhoNWdrMmc2dkxLdk13MVIxcmVKaVdNZUJIbmhzYlh1Wk4ydkR5N1RSSnVCYlUyWEVlZF93MGF6WXhFeHNuaEo2WkFLSXlreEJ6dUN2SFNrR05BOVZMM3ZJeGRFbDByYVFhNVkyMHpveU5nQ2lHWDJvRTQtU1d1NG1OYTAzN0FGejZnN3VFR0FOal9BdHhkVEFZUkdvTmdudTliTnJuWXlpLWo4ZDZ3dw?oc=5",
+    "timestamp": "2026-07-18T12:36:00+00:00",
+    "isoDate": "2026-07-18",
+    "date": "18 Jul",
+    "d": "Jovem DJ portuguesa BIIA estreia-se hoje no Tomorrowland com orgulho nas suas origens Diário do Minho",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Diário do Minho",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRU1Za2JTRVdWa3doa244Q2hydnZKRXhhXzdVazREUU5pUUlmWVZvY1VFVE9UdzJnQVVSLVk2Z0VoTzIwam5BUFAwYkM0M1BIOWNlQlBUWEJ5Q3p5bE53bmx1eVkyNmJ3bU9IYTVpZEZmLThkMFhPSV9EVmRQQ2dCaDc2NVhJRGFSNlVLVDBwTWVUb3pldXdrd3FEcHBLRG9HMzFib1N6QjRWNGQ0SXpZeFdxY25ZY3N1aG1aTElPRmFoSUZrYlM1SnpNbDFidFRnVDVNazd5OUZZZ24yXzh5VlNrU0dBUnhxY2l5eWpfVzlzRGJZckM5RtIB_gFBVV95cUxPY3FnU2ZvbEV2TEpiNGhCQ1hSdGNlREZRVzJKYUFiR1Z5akcwZzhmRVpPWW9wV2VaTnlqY2p0dXF2QlcwMGpnQ09RMF9FZHVIaFR6bTJ2enhoNWdrMmc2dkxLdk13MVIxcmVKaVdNZUJIbmhzYlh1Wk4ydkR5N1RSSnVCYlUyWEVlZF93MGF6WXhFeHNuaEo2WkFLSXlreEJ6dUN2SFNrR05BOVZMM3ZJeGRFbDByYVFhNVkyMHpveU5nQ2lHWDJvRTQtU1d1NG1OYTAzN0FGejZnN3VFR0FOal9BdHhkVEFZUkdvTmdudTliTnJuWXlpLWo4ZDZ3dw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "b": "Yard Act",
@@ -13801,6 +15558,386 @@
     "star": false,
     "kind": "news",
     "section": "core"
+  },
+  {
+    "title": "Metal band drummer named Mario replaced by Luigi after pulling out of festivals - Dexerto",
+    "src": "Dexerto",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZVJhNXdBSzQ2MWdiWlY5WEVXQ3gxcm9uRDFaZ3pyR0J3dVNLLVcwSmxaY1VES1VSamhCeWpIQTg3cHNXWGRlYnQtY2NKNkRiTXRRU0RTOTU3bXJMWUJJeWVMOU8waThEZUFEdGFIMzJLVUZZSE1QVUd1dUxNSnM5djFrNDJnZFFPVW9ES3Zmc3dYY0lfUHVSMk5xTWxGZF9xSlVvVEx4eWNSYlZXaFBWYUV3OG5lcHZnVTAyTWNuV2Q3MU1B?oc=5",
+    "timestamp": "2026-07-17T22:34:29+00:00",
+    "isoDate": "2026-07-17",
+    "date": "17 Jul",
+    "d": "Metal band drummer named Mario replaced by Luigi after pulling out of festivals Dexerto",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Dexerto",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZVJhNXdBSzQ2MWdiWlY5WEVXQ3gxcm9uRDFaZ3pyR0J3dVNLLVcwSmxaY1VES1VSamhCeWpIQTg3cHNXWGRlYnQtY2NKNkRiTXRRU0RTOTU3bXJMWUJJeWVMOU8waThEZUFEdGFIMzJLVUZZSE1QVUd1dUxNSnM5djFrNDJnZFFPVW9ES3Zmc3dYY0lfUHVSMk5xTWxGZF9xSlVvVEx4eWNSYlZXaFBWYUV3OG5lcHZnVTAyTWNuV2Q3MU1B?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "William Shatner, 95, performing at Riot Fest with his heavy metal band - CBC",
+    "src": "CBC",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXUwT29TMk4xelo5dmYtQ3BWb2dpSDEyeDJPNWZBY1ozMVBoV01lcHptek94QmlrNklydUZMdlJ2dXlZUktEWjhsbHFlcFRrdUppUERYTGpuZGFfZ1BUaXEyRUlEUmRNTFBOVE9seEZyRUJ6clVRX1dQb29YQ3R6dGdRdjBzMTllZmpDb2JR?oc=5",
+    "timestamp": "2026-07-17T22:12:00+00:00",
+    "isoDate": "2026-07-17",
+    "date": "17 Jul",
+    "d": "William Shatner, 95, performing at Riot Fest with his heavy metal band CBC",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXUwT29TMk4xelo5dmYtQ3BWb2dpSDEyeDJPNWZBY1ozMVBoV01lcHptek94QmlrNklydUZMdlJ2dXlZUktEWjhsbHFlcFRrdUppUERYTGpuZGFfZ1BUaXEyRUlEUmRNTFBOVE9seEZyRUJ6clVRX1dQb29YQ3R6dGdRdjBzMTllZmpDb2JR?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Buzz Osborne Mocks Mike Patton for Faith No More Influencing Nü-Metal Bands - Rock Celebrities",
+    "src": "Rock Celebrities",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZG9MRk1BTXNha2tjQXNQREZhQ0RQa0dZemVfekhWMXpYYm1BQmR1bVpZdzhJUUdDekVIc2N4STVpZ3RIVHpBMFVWVkZPczFGeHNmMUhHeWlEWk9FUHh2b0Ffd21ZWmxmTnU2NWFhcnZNS2lvRlpEajZSUGw2ZGxCZ3FaNk1KZ3JwTmJrellUWHpIRjAxckJLVFRzNm8wVDA5X2RUeF9FZw?oc=5",
+    "timestamp": "2026-07-17T21:20:58+00:00",
+    "isoDate": "2026-07-17",
+    "date": "17 Jul",
+    "d": "Buzz Osborne Mocks Mike Patton for Faith No More Influencing Nü-Metal Bands Rock Celebrities",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Rock Celebrities",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZG9MRk1BTXNha2tjQXNQREZhQ0RQa0dZemVfekhWMXpYYm1BQmR1bVpZdzhJUUdDekVIc2N4STVpZ3RIVHpBMFVWVkZPczFGeHNmMUhHeWlEWk9FUHh2b0Ffd21ZWmxmTnU2NWFhcnZNS2lvRlpEajZSUGw2ZGxCZ3FaNk1KZ3JwTmJrellUWHpIRjAxckJLVFRzNm8wVDA5X2RUeF9FZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "What REALLY Killed Hair Metal? Veteran Rock Producer Weighs In",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/howard-benson-interview-grunge-hair-metal/",
+    "timestamp": "2026-07-17T19:35:28+00:00",
+    "isoDate": "2026-07-17",
+    "date": "17 Jul",
+    "d": "The answer isn't as cut-and-dry as you've been led to believe. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/howard-benson-interview-grunge-hair-metal/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Did Grunge REALLY Kill Hair Metal? Grammy-Winning Rock Producer Points to Another Cause - Loudwire",
+    "src": "Loudwire",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsLUcyUDZZR2dXdUx5QWRnaVkwWTBIZXZadXVwTGRUUGlqc204a2NHQkJpWGoxb1FCdjVibTJ6SmxxVnZ1aW1INllxN2xTeVhFV0V1WURaLVlWNVYwdkRXd3d6ZmlBOW1yS216TnBZWlA?oc=5",
+    "timestamp": "2026-07-17T19:35:28+00:00",
+    "isoDate": "2026-07-17",
+    "date": "17 Jul",
+    "d": "Did Grunge REALLY Kill Hair Metal? Grammy-Winning Rock Producer Points to Another Cause Loudwire",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsLUcyUDZZR2dXdUx5QWRnaVkwWTBIZXZadXVwTGRUUGlqc204a2NHQkJpWGoxb1FCdjVibTJ6SmxxVnZ1aW1INllxN2xTeVhFV0V1WURaLVlWNVYwdkRXd3d6ZmlBOW1yS216TnBZWlA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "William Shatner to debut heavy metal band, The *uckers, at Riot Fest - NewsNation",
+    "src": "NewsNation",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLWtrcDhuM0xvYndGNjV0bXBhR2kxRUN6M2ptVjVLRTlybWtDYjRmaDNzWjBlQkxDRi1oaWNPMEh1VkVYS0NJTTk0Z2RFUTRaUmlkUUxVU2JMbTlmeE1TcWtJZWVBVW84SGV6TlRJc2NER1JsMzJHRGZRSGVLYUhTX3BKUU5MV0MyS0sxMElOeWVRN3d3UlM40gGcAUFVX3lxTE1Nc1ZyUVJMMlJwUjJaUEF6U3lCYURJLTI2c3g3UXVvRDA1X0pzbVRiMjRCTzdJYzRaMVpTQ0FOaTVySy1jUHpnYlVmUzY0a3gwNGRWNDJ1SW81WUxjQmJIam9mdWF6NlFiWHpjNm5TeldreUZrbzN4OWRURVBsdU5PaHlOcXBzYTFGWUk2dVVTajhVWGxVamdYYUdfNg?oc=5",
+    "timestamp": "2026-07-17T19:30:12+00:00",
+    "isoDate": "2026-07-17",
+    "date": "17 Jul",
+    "d": "William Shatner to debut heavy metal band, The *uckers, at Riot Fest NewsNation",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "NewsNation",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLWtrcDhuM0xvYndGNjV0bXBhR2kxRUN6M2ptVjVLRTlybWtDYjRmaDNzWjBlQkxDRi1oaWNPMEh1VkVYS0NJTTk0Z2RFUTRaUmlkUUxVU2JMbTlmeE1TcWtJZWVBVW84SGV6TlRJc2NER1JsMzJHRGZRSGVLYUhTX3BKUU5MV0MyS0sxMElOeWVRN3d3UlM40gGcAUFVX3lxTE1Nc1ZyUVJMMlJwUjJaUEF6U3lCYURJLTI2c3g3UXVvRDA1X0pzbVRiMjRCTzdJYzRaMVpTQ0FOaTVySy1jUHpnYlVmUzY0a3gwNGRWNDJ1SW81WUxjQmJIam9mdWF6NlFiWHpjNm5TeldreUZrbzN4OWRURVBsdU5PaHlOcXBzYTFGWUk2dVVTajhVWGxVamdYYUdfNg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "William Shatner, 95, set to debut his new heavy metal band this fall - National News Desk",
+    "src": "National News Desk",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3JfdkZoek1MOXVmUzA1dnFYbWd0elZXdWV5cWloYjB6bk9XMFg1ZXgwZUhfTzd1OFZQQmlRWFNYV3Uxb29lSTNRTGtpUC1LRVR1Y3hjSGdfcGdjZWJMZnd1RlJGVlZwMVR4NV9lV3c0cUpDbWROZDk4RVJBLWw5Wkd1dE51OERpcXdjWVJwSVVqSV9SMGlYaXBkMGRIblE2ZDQwRGNyZWdQQnpmOFduUWhjOA?oc=5",
+    "timestamp": "2026-07-17T19:28:30+00:00",
+    "isoDate": "2026-07-17",
+    "date": "17 Jul",
+    "d": "William Shatner, 95, set to debut his new heavy metal band this fall National News Desk",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "National News Desk",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3JfdkZoek1MOXVmUzA1dnFYbWd0elZXdWV5cWloYjB6bk9XMFg1ZXgwZUhfTzd1OFZQQmlRWFNYV3Uxb29lSTNRTGtpUC1LRVR1Y3hjSGdfcGdjZWJMZnd1RlJGVlZwMVR4NV9lV3c0cUpDbWROZDk4RVJBLWw5Wkd1dE51OERpcXdjWVJwSVVqSV9SMGlYaXBkMGRIblE2ZDQwRGNyZWdQQnpmOFduUWhjOA?oc=5"
+      },
+      {
+        "name": "KABB",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcnNFQlUtOWpseUg3ekJXeWhzR1E5M1hDVkw4WlhhTXZNR2VDakFYOU9zTk1RVU8ydWxyT1dBTmNXNTJhVzJYeGNVOE9WNGxLd0RVa1VLdWZwQWNFM1Z4UnNPTF9wWjZ5T1JwTllZTmZvSW9Ib280ZVV1cDM1UkVMYXJpMnBpV1p4cUN0N0tsZGstLXNjN2drRkNXc1BJZ0UxdFFKN1diWHRqWlZpNzZqWA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 2,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "William Shatner, 95, Set to Make Festival Debut With His Heavy Metal Band - Closer Weekly",
+    "src": "Closer Weekly",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWXVxcGRIajVkbmtoRGd2Tmk4eUZ6eXpVUGUxYVlFTVJNX2FROGRVV200RXVkbGlHUk4xQ1o3MFA4Tlo1N3JiTEFBSkd0eWdFSVA1ZGdWNkhPN3VSNGlLMUJocWlFTkF0SVJzQmZIUEUwMFZSRTU4dzNxZENFcUtPZEhIS2FKaF9UZ212czFlOGNSNjBURHcyVUNDa3JiUQ?oc=5",
+    "timestamp": "2026-07-17T18:49:24+00:00",
+    "isoDate": "2026-07-17",
+    "date": "17 Jul",
+    "d": "William Shatner, 95, Set to Make Festival Debut With His Heavy Metal Band Closer Weekly",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Closer Weekly",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWXVxcGRIajVkbmtoRGd2Tmk4eUZ6eXpVUGUxYVlFTVJNX2FROGRVV200RXVkbGlHUk4xQ1o3MFA4Tlo1N3JiTEFBSkd0eWdFSVA1ZGdWNkhPN3VSNGlLMUJocWlFTkF0SVJzQmZIUEUwMFZSRTU4dzNxZENFcUtPZEhIS2FKaF9UZ212czFlOGNSNjBURHcyVUNDa3JiUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "What It's Like Opening For Metallica (Ft. Evanescence's Amy Lee)",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/amy-lee-evanescence-open-metallica-interview/",
+    "timestamp": "2026-07-17T16:45:45+00:00",
+    "isoDate": "2026-07-17",
+    "date": "17 Jul",
+    "d": "Amy Lee tells Loudwire about what it was like opening for Metallica on the M72 tour. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/amy-lee-evanescence-open-metallica-interview/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Why Did System of a Down Change the Title of a 'Toxicity' Track?",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/system-of-a-down-change-title-toxicity-arto/",
+    "timestamp": "2026-07-17T16:19:41+00:00",
+    "isoDate": "2026-07-17",
+    "date": "17 Jul",
+    "d": "System of a Down have changed the title of the 'Toxicity' track 'Arto' to 'Der Voghormia' because it's an Armenian hymn. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/system-of-a-down-change-title-toxicity-arto/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Rock Bands That Have Been Together 40+ Years and Never Broke Up",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/rock-bands-40-years-never-broke-up/",
+    "timestamp": "2026-07-17T14:00:34+00:00",
+    "isoDate": "2026-07-17",
+    "date": "17 Jul",
+    "d": "These bands have been together for at least four decades and have never formally broken up, even if they underwent lineup changes. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/rock-bands-40-years-never-broke-up/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "DROPOCALYPSE SEXTA-FEIRA: Então, você gosta de Prog, não é?",
+    "src": "MetalSucks",
+    "url": "https://www.metalsucks.net/2026/07/17/dropocalypse-friday-so-ya-like-prog-do-ya/",
+    "timestamp": "2026-07-17T14:00:00+00:00",
+    "isoDate": "2026-07-17",
+    "date": "17 Jul",
+    "d": "Preparing myself for the 'that's not prog' comments. The post DROPOCALYPSE FRIDAY: So, Ya Like Prog, Do Ya? appeared first on MetalSucks .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "MetalSucks",
+        "url": "https://www.metalsucks.net/2026/07/17/dropocalypse-friday-so-ya-like-prog-do-ya/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "titleOriginal": "DROPOCALYPSE FRIDAY: So, Ya Like Prog, Do Ya?",
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Star Trek legend William Shatner reveals he's launching rock career with VERY rude band name at 95 years old - The Sun",
+    "src": "The Sun",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbmdBaXBPa3B6TkJENFVGaWNyNWkxUF9CWUdwWU94SmRMcnNjTlZLMjVnd3M2VnFYaUsxSjhMalczZ0doVDVrN2VkRGhVeFNJdEdvLTNIOXBESXgxTVlyRzB0TENqdWJTM3lDMWlMMGRxX1Q3WFhnUGtGRHJEMEpqUDMwdzV6WW91TWcyaVEzY0Zqc280MEtDZ0QwbjZqM3V4?oc=5",
+    "timestamp": "2026-07-17T13:23:00+00:00",
+    "isoDate": "2026-07-17",
+    "date": "17 Jul",
+    "d": "Star Trek legend William Shatner reveals he's launching rock career with VERY rude band name at 95 years old The Sun",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "The Sun",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbmdBaXBPa3B6TkJENFVGaWNyNWkxUF9CWUdwWU94SmRMcnNjTlZLMjVnd3M2VnFYaUsxSjhMalczZ0doVDVrN2VkRGhVeFNJdEdvLTNIOXBESXgxTVlyRzB0TENqdWJTM3lDMWlMMGRxX1Q3WFhnUGtGRHJEMEpqUDMwdzV6WW91TWcyaVEzY0Zqc280MEtDZ0QwbjZqM3V4?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "The 20 greatest rock bands from the Bay Area - Yardbarker",
+    "src": "Yardbarker",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdUVpaUFpV05HTWZYTkN5U3RBTV9SMVdpYW9nR2UxQTdYdnFiNjZoTUFzSzRBWnJhYXg4dWpVZnhzY2luV3RBRnV0S0tvclVGYlIyMHZpWWpTbVc0aGVwMWt4a3lwdWZlaVNOMDQ3Q3dKcE5QZHZZNEp3MjVidWdXbWRWcGRNUEN0UU43MmdQZVpNVThYWXNRblBfWXdXRWRHT1hjSXNHUEpyS29ucGZDMk95RjBYSGdndmExaHFLN0M?oc=5",
+    "timestamp": "2026-07-17T12:53:18+00:00",
+    "isoDate": "2026-07-17",
+    "date": "17 Jul",
+    "d": "The 20 greatest rock bands from the Bay Area Yardbarker",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Yardbarker",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdUVpaUFpV05HTWZYTkN5U3RBTV9SMVdpYW9nR2UxQTdYdnFiNjZoTUFzSzRBWnJhYXg4dWpVZnhzY2luV3RBRnV0S0tvclVGYlIyMHZpWWpTbVc0aGVwMWt4a3lwdWZlaVNOMDQ3Q3dKcE5QZHZZNEp3MjVidWdXbWRWcGRNUEN0UU43MmdQZVpNVThYWXNRblBfWXdXRWRHT1hjSXNHUEpyS29ucGZDMk95RjBYSGdndmExaHFLN0M?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Wildfires Cause Creed, Sebastian Bach Concert Postponements",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/wildfires-concert-postponements/",
+    "timestamp": "2026-07-17T12:33:03+00:00",
+    "isoDate": "2026-07-17",
+    "date": "17 Jul",
+    "d": "Over 800 blazes in Canada have led to health warnings in the U.S., with artists changing plans to minimize risk to fans. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/wildfires-concert-postponements/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
   },
   {
     "b": "Under Auburn Skies",
@@ -15569,7 +17706,7 @@
     "date": "10 Jul",
     "isoDate": "2026-07-10",
     "url": "https://musicbrainz.org/release-group/ffda8751-8281-4329-8c25-4a9d58fb1c01",
-    "d": "technical death metal",
+    "d": "technical death metal, dissonant death metal",
     "sources": [
       {
         "name": "MusicBrainz",
