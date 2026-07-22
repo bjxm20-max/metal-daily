@@ -4,24 +4,38 @@ on:
   push:
     branches: [ main ]
     paths: [ 'data.json' ]
+  workflow_run:
+    workflows: [ 'Metal Daily Auto-Sync' ]
+    types: [ completed ]
   workflow_dispatch:
 
 jobs:
   notify:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 2
+          ref: main
 
       - name: Build targeted notifications
+        env:
+          TRIGGER_HEAD_SHA: ${{ github.event.workflow_run.head_sha }}
         run: |
           python3 - <<'PY'
           import datetime as dt
           import json
+          import os
           import subprocess
 
           current = json.load(open('data.json', encoding='utf-8'))
+          trigger_head = os.environ.get('TRIGGER_HEAD_SHA', '')
+          current_head = subprocess.check_output(['git', 'rev-parse', 'HEAD'], text=True).strip()
+          if trigger_head and trigger_head == current_head:
+              json.dump([], open('payloads.json', 'w', encoding='utf-8'))
+              print('The updater created no commit; notifications skipped')
+              raise SystemExit(0)
           try:
               raw = subprocess.check_output(['git', 'show', 'HEAD^:data.json'])
               previous = json.loads(raw)
