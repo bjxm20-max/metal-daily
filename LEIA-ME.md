@@ -4,8 +4,9 @@ PWA pessoal para acompanhar lançamentos e notícias de metal, rock e música em
 
 ## Funcionalidades
 
-- Pastas para lançamentos, Fresh Singles, Alterportal, mainstream, futuro, notícias, bandas, Portugal, metalcore, reviews, digest e estatísticas.
-- Pesquisa e filtros por subgénero.
+- Pastas para lançamentos, Radar Geral/Spotify, Alterportal, mainstream, futuro, notícias, Buzz, bandas dedicadas, Portugal, CORE, reviews, digest e estatísticas.
+- Notícias e Buzz separados entre informação confirmada e rumores, com nível de confiança e indicação de última hora.
+- Pesquisa global e filtros por subgénero, incluindo um arquivo pesquisável de seis meses.
 - Favoritos, ouvidos, bandas seguidas e watchlist guardados no dispositivo.
 - Capas, biografias e discografias através de fontes públicas.
 - Pesquisa no Spotify, Tidal, Apple Music, YouTube Music, Bandcamp e Qobuz.
@@ -21,9 +22,12 @@ PWA pessoal para acompanhar lançamentos e notícias de metal, rock e música em
 - `data.json` — edição de conteúdos consumida pela aplicação.
 - `bands.json` — bandas seguidas por predefinição.
 - `manifest.webmanifest`, `sw.js`, `icon-*.png` — instalação e funcionamento offline.
-- `update_data.py` — atualização diária defensiva das notícias e metadados.
+- `update_data.py` — recolha defensiva de lançamentos, notícias, rumores, reviews e tendências em fontes mundiais e portuguesas.
+- `archive/` — arquivo mensal pesquisável, limitado aos últimos seis meses.
 
-O atualizador preserva a última edição válida quando uma fonte externa falha ou devolve poucos resultados. A timeline futura é curada e não é substituída por cabeçalhos vazios.
+O atualizador preserva a última edição válida quando uma fonte externa falha, consolida repetições e só publica quando encontra conteúdo novo ou alterado. O Alterportal é usado apenas como fonte de metadados e ligação para o post; a aplicação não extrai ligações de download.
+
+O Radar Spotify usa OAuth PKCE no navegador. Cada utilizador pode indicar o próprio Client ID; a sessão, artistas seguidos e resultados pessoais ficam no respetivo dispositivo. O sino do Spotify não é exposto pela Web API e, por isso, existe uma ligação separada para o abrir no Spotify Web Player.
 
 ## Atualização
 

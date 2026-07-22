@@ -11,36 +11,94 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
-      - name: Build payload from data.json
+      - name: Build targeted notifications
         run: |
           python3 - <<'PY'
+          import datetime as dt
           import json
-          d = json.load(open('data.json'))
-          rng = d.get('range') or d.get('generated') or ''
-          n = len(d.get('recent', [])) + len(d.get('alter', []))
-          stars = [x for x in (d.get('recent', []) + d.get('alter', [])) if x.get('star')]
-          tip = f" · destaque: {stars[0].get('b','')}" if stars else ''
-          msg = f"\u26a1 {n} novas releases" + (f" · {rng}" if rng else "") + tip
-          payload = {
-              "app_id": "4d21e493-57f4-45e2-9e89-0855f696e8b2",
-              "included_segments": ["Total Subscriptions"],
-              "headings": {"en": "Metal Daily", "pt": "Metal Daily"},
-              "contents": {"en": msg, "pt": msg},
-              "url": "https://bjxm20-max.github.io/metal-daily/"
-          }
-          open('payload.json', 'w').write(json.dumps(payload, ensure_ascii=False))
-          print("payload:", msg)
+          import subprocess
+
+          current = json.load(open('data.json', encoding='utf-8'))
+          try:
+              raw = subprocess.check_output(['git', 'show', 'HEAD^:data.json'])
+              previous = json.loads(raw)
+          except Exception:
+              previous = {}
+
+          def identity(item):
+              return item.get('url') or '|'.join((item.get('b',''), item.get('t',''), item.get('title',''))).lower()
+
+          def new_items(section):
+              old = {identity(item) for item in previous.get(section, [])}
+              return [item for item in current.get(section, []) if identity(item) not in old]
+
+          app_id = '4d21e493-57f4-45e2-9e89-0855f696e8b2'
+          home = 'https://bjxm20-max.github.io/metal-daily/'
+          payloads = []
+
+          def add(tag, heading, message, url=home):
+              payloads.append({
+                  'app_id': app_id,
+                  'filters': [{'field': 'tag', 'key': 'notify_' + tag, 'relation': '=', 'value': '1'}],
+                  'headings': {'en': heading, 'pt': heading},
+                  'contents': {'en': message, 'pt': message},
+                  'url': url,
+              })
+
+          releases = new_items('recent')
+          breaking = [item for item in new_items('news') + new_items('buzz') if item.get('isBreaking')]
+          rumours = [item for item in new_items('news') + new_items('buzz') if item.get('status') == 'rumor']
+          portugal = new_items('pt')
+          core = new_items('core')
+
+          if breaking:
+              first = breaking[0]
+              add('breaking', 'Metal Daily · Última hora', first.get('title', 'Nova notícia'), first.get('url', home))
+          if releases:
+              first = releases[0]
+              add('releases', 'Novos lançamentos', f"{len(releases)} novidades · {first.get('b','')} — {first.get('t','')}")
+          if rumours:
+              first = rumours[0]
+              add('rumours', 'Novo rumor identificado', first.get('title', 'Informação não confirmada'), first.get('url', home))
+          if portugal:
+              add('portugal', 'Cena portuguesa', portugal[0].get('title', 'Nova atualização nacional'), portugal[0].get('url', home))
+          if core:
+              add('core', 'CORE atualizado', core[0].get('title', 'Nova atualização CORE'), core[0].get('url', home))
+          if dt.datetime.now(dt.timezone.utc).weekday() == 6:
+              add('digest', 'Digest semanal', 'A semana Metal Daily já está consolidada.')
+
+          json.dump(payloads, open('payloads.json', 'w', encoding='utf-8'), ensure_ascii=False)
+          print(f'{len(payloads)} targeted notification(s) prepared')
           PY
 
       - name: Send to OneSignal
         env:
           ONESIGNAL_REST_KEY: ${{ secrets.ONESIGNAL_REST_KEY }}
         run: |
-          if [ -z "$ONESIGNAL_REST_KEY" ]; then echo "::error::Falta o secret"; exit 1; fi
-          code=$(curl -s -o resp.json -w "%{http_code}" -X POST 'https://api.onesignal.com/notifications' \
-            -H "Authorization: Key $ONESIGNAL_REST_KEY" \
-            -H 'Content-Type: application/json; charset=utf-8' \
-            --data @payload.json)
-          echo "HTTP $code"; cat resp.json; echo ""
-          if [ "$code" -ge 400 ]; then echo "::error::OneSignal devolveu $code"; exit 1; fi
+          python3 - <<'PY'
+          import json
+          import os
+          import urllib.error
+          import urllib.request
+
+          key = os.environ.get('ONESIGNAL_REST_KEY', '')
+          if not key:
+              raise SystemExit('Missing ONESIGNAL_REST_KEY secret')
+          payloads = json.load(open('payloads.json', encoding='utf-8'))
+          for payload in payloads:
+              request = urllib.request.Request(
+                  'https://api.onesignal.com/notifications',
+                  data=json.dumps(payload, ensure_ascii=False).encode('utf-8'),
+                  headers={'Authorization': 'Key ' + key, 'Content-Type': 'application/json; charset=utf-8'},
+                  method='POST',
+              )
+              try:
+                  with urllib.request.urlopen(request, timeout=30) as response:
+                      print(response.status, response.read().decode('utf-8'))
+              except urllib.error.HTTPError as error:
+                  print(error.read().decode('utf-8'))
+                  raise
+          PY

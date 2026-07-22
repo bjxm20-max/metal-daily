@@ -7,7 +7,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="Now Playing">
+<meta name="apple-mobile-web-app-title" content="Metal Daily">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="icon-180.png">
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
@@ -25,7 +25,7 @@
     }catch(e){ console.warn("OneSignal init", e); }
   });
 </script>
-<title>Now Playing</title>
+<title>Metal Daily · Now Playing</title>
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -35,7 +35,7 @@
 <header>
   <div class="brand">
     <span class="logo">&#9889;</span>
-    <h1>Now Playing</h1>
+    <div class="brandname"><h1>Metal Daily</h1><span>NOW PLAYING</span></div>
     <div class="date hist" id="hdate">a carregar&hellip;</div>
   </div>
   <div class="search">
@@ -56,8 +56,8 @@
 <main id="main"></main>
 
 <footer>
-  <strong>Now Playing</strong> &middot; dados de <span id="fdate">&mdash;</span><br>
-  Fontes: Metal Connect &middot; Loudwire &middot; Alterportal &middot; Billboard &middot; Whiplash &middot; Metal Imperium &middot; Caminhos Metálicos<br>
+  <strong>Metal Daily</strong> &middot; dados de <span id="fdate">&mdash;</span><br>
+  Fontes mundiais, portuguesas e independentes, consolidadas sem repetições.<br>
   <span id="favnote"></span><br>
   <button id="notifBtn" style="margin-top:8px;background:none;border:1px solid var(--symph);color:var(--symph);font-weight:700;font-size:.72rem;padding:6px 11px;border-radius:999px">🔔 Ativar notificações</button>
   <button id="spCfg" style="margin-top:8px;margin-left:6px;background:none;border:1px solid var(--line);color:var(--muted);font-weight:700;font-size:.72rem;padding:6px 11px;border-radius:999px">⚙ Definições Spotify</button>
@@ -94,6 +94,21 @@
 <div id="bandModal"><div class="sheet">
   <div style="display:flex;justify-content:flex-end;margin-bottom:4px"><button id="bandClose" style="background:var(--card);border:1px solid var(--line);color:var(--text);font-weight:800;font-size:.82rem;padding:7px 13px;border-radius:999px">Fechar</button></div>
   <div id="bandBody"></div>
+</div></div>
+
+<div id="notifModal"><div class="sheet">
+  <h4>🔔 As tuas notificações</h4>
+  <p>Escolhe o que merece interromper o silêncio. Por defeito ficam ativos apenas última hora e artistas seguidos.</p>
+  <div class="notif-grid">
+    <label><input type="checkbox" value="breaking" checked> Última hora</label>
+    <label><input type="checkbox" value="followed" checked> Artistas seguidos</label>
+    <label><input type="checkbox" value="releases"> Lançamentos</label>
+    <label><input type="checkbox" value="rumours"> Rumores</label>
+    <label><input type="checkbox" value="portugal"> Portugal</label>
+    <label><input type="checkbox" value="core"> CORE</label>
+    <label><input type="checkbox" value="digest"> Digest semanal</label>
+  </div>
+  <div class="row"><button id="notifClose">Fechar</button><button id="notifSave">Guardar e ativar</button></div>
 </div></div>
 
 <div id="toast"></div>

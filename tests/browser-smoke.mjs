@@ -25,7 +25,10 @@ const server = http.createServer((request, response) => {
   fs.createReadStream(target).pipe(response);
 });
 
-await new Promise(resolve => server.listen(0, '127.0.0.1', resolve));
+await new Promise((resolve, reject) => {
+  server.once('error', reject);
+  server.listen(4173, '127.0.0.1', resolve);
+});
 const address = server.address();
 const browser = await chromium.launch({
   headless: true,
@@ -38,12 +41,30 @@ page.on('pageerror', error => pageErrors.push(error.message));
 try {
   await page.goto(`http://127.0.0.1:${address.port}/`, { waitUntil: 'networkidle' });
   await page.waitForFunction(() => document.querySelectorAll('.folder').length >= 10);
-  assert.equal(await page.title(), 'Now Playing');
+  assert.equal(await page.title(), 'Metal Daily · Now Playing');
   assert.ok((await page.locator('.folder').count()) >= 10, 'home folders did not render');
   assert.match(await page.locator('#hdate').innerText(), /Atualizado/i);
+  if (process.env.HOME_SCREENSHOT_PATH) {
+    await page.screenshot({ path: process.env.HOME_SCREENSHOT_PATH, fullPage: true });
+  }
   await page.locator('.folder').first().click();
   await page.waitForFunction(() => document.querySelectorAll('.card').length > 0);
   assert.ok((await page.locator('.card').count()) > 0, 'release cards did not render');
+  await page.locator('#backBtn').click();
+  await page.waitForFunction(() => getComputedStyle(document.querySelector('#home')).display !== 'none');
+  await page.locator('.folder[data-s="fresh"]').click();
+  await page.waitForSelector('.radarseg');
+  assert.equal(await page.locator('[data-radar="general"]').getAttribute('class'), 'on');
+  await page.locator('[data-radar="spotify"]').click();
+  await page.waitForSelector('.spotifyintro');
+  await page.locator('#backBtn').click();
+  await page.waitForFunction(() => getComputedStyle(document.querySelector('#home')).display !== 'none');
+  await page.locator('.folder[data-s="news"]').click();
+  await page.waitForSelector('.newsseg');
+  assert.ok((await page.locator('[data-news="official"]').count()) === 1, 'official news tab missing');
+  if (process.env.SCREENSHOT_PATH) {
+    await page.screenshot({ path: process.env.SCREENSHOT_PATH, fullPage: true });
+  }
   assert.deepEqual(pageErrors, [], `browser errors: ${pageErrors.join('; ')}`);
   console.log('Metal Daily browser smoke checks passed.');
 } finally {
