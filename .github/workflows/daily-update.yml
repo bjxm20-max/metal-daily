@@ -1,8 +1,14 @@
-name: Daily Metal Update
+name: Metal Daily Auto-Sync
 
 on:
   schedule:
+    # Five daily runs. GitHub schedules use UTC; in Lisbon these are
+    # approximately 07:00, 10:00, 13:00, 17:00 and 21:00 during summer time.
+    - cron: '0 6 * * *'
     - cron: '0 9 * * *'
+    - cron: '0 12 * * *'
+    - cron: '0 16 * * *'
+    - cron: '0 20 * * *'
   workflow_dispatch:
 
 permissions:
@@ -37,5 +43,5 @@ jobs:
             exit 0
           fi
           git add data.json
-          git commit -m "🔄 Daily update $(date +%Y-%m-%d)"
+          git commit -m "🔄 Auto-sync $(date -u +%Y-%m-%dT%H:%MZ)"
           git push

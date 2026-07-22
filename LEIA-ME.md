@@ -27,7 +27,7 @@ O atualizador preserva a última edição válida quando uma fonte externa falha
 
 ## Atualização
 
-A aplicação procura um `data.json` novo quando abre, volta ao primeiro plano ou recebe um pull-to-refresh. O GitHub Actions executa o atualizador diariamente às 09:00 UTC e também pode ser iniciado manualmente.
+A aplicação procura um `data.json` novo quando abre, volta ao primeiro plano ou recebe um pull-to-refresh. O GitHub Actions executa o atualizador cinco vezes por dia — aproximadamente às 07:00, 10:00, 13:00, 17:00 e 21:00 em Lisboa durante o horário de verão — e também pode ser iniciado manualmente.
 
 ## Instalação no iPhone
 
