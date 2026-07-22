@@ -2,52 +2,102 @@
 <html lang="pt">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<title>Now Playing - Metal Daily</title>
-<style>
-  :root {--bg:#0c0d10;--card:#181a21;--text:#e7e9ee;--muted:#9aa0a6;--line:#262932;--death:#e23b3b;--power:#f2d23b;--symph:#3bd4d4;--spotify:#1db954;}
-  body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,sans-serif;padding-bottom:90px;}
-  header{position:sticky;top:0;background:rgba(12,13,16,0.95);padding:12px 14px;border-bottom:1px solid var(--line);z-index:10;}
-  .brand{display:flex;align-items:center;gap:10px;}
-  .brand h1{margin:0;font-size:1.35rem;font-weight:900;background:linear-gradient(90deg,#e23b3b,#f2d23b,#3bd4d4); -webkit-background-clip:text;-webkit-text-fill-color:transparent;}
-  .foldergrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px;padding:12px;}
-  .folder{background:linear-gradient(180deg,var(--card),#1e2129);border:1px solid var(--line);border-radius:12px;padding:14px;text-align:center;cursor:pointer;position:relative;}
-  .folder .count{position:absolute;top:8px;right:8px;background:var(--death);color:white;border-radius:50%;padding:2px 8px;font-size:0.8rem;}
-</style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#0c0d10">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Now Playing">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-180.png">
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+  OneSignalDeferred.push(async function(OneSignal){
+    try{
+      await OneSignal.init({
+        appId: "4d21e493-57f4-45e2-9e89-0855f696e8b2",
+        safari_web_id: "web.onesignal.auto.33b67024-44c4-4b60-aec5-91af5568c874",
+        serviceWorkerPath: "/metal-daily/push/OneSignalSDKWorker.js",
+        serviceWorkerParam: { scope: "/metal-daily/push/" },
+        notifyButton: { enable: true, position: 'bottom-left', offset: { bottom: '92px', left: '10px' } }
+      });
+    }catch(e){ console.warn("OneSignal init", e); }
+  });
+</script>
+<title>Now Playing</title>
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
+<div id="ptr"><div class="inner"><span class="spin"></span><span id="ptrtxt">Puxar para atualizar</span></div></div>
+
 <header>
   <div class="brand">
-    <span style="font-size:1.4rem">⚡</span>
+    <span class="logo">&#9889;</span>
     <h1>Now Playing</h1>
+    <div class="date hist" id="hdate">a carregar&hellip;</div>
+  </div>
+  <div class="search">
+    <span class="ic">&#128270;</span>
+    <input id="q" type="search" placeholder="Procurar banda, editora, &aacute;lbum&hellip;" autocomplete="off" autocapitalize="off">
   </div>
 </header>
 
-<main>
-  <div class="foldergrid">
-    <div class="folder" onclick="alert('Lançamentos')"><span class="count">9</span><h3>Lançamentos</h3></div>
-    <div class="folder" onclick="alert('Fresh Singles')"><span class="count">43</span><h3>Fresh Singles</h3></div>
-    <div class="folder" onclick="alert('Alterportal')"><span class="count">19</span><h3>Alterportal</h3></div>
-    <div class="folder" onclick="alert('Mainstream')"><span class="count">14</span><h3>Mainstream</h3></div>
-    <div class="folder" onclick="alert('Future')"><span class="count">5</span><h3>Future</h3></div>
-    <div class="folder" onclick="alert('Notícias')"><span class="count">50</span><h3>Notícias</h3></div>
-    <div class="folder" onclick="alert('Buzz')"><span class="count">50</span><h3>Buzz</h3></div>
-    <div class="folder" onclick="alert('Dream Theater')"><span class="count">50</span><h3>Dream Theater</h3></div>
-    <div class="folder" onclick="alert('Sleep Token')"><span class="count">50</span><h3>Sleep Token</h3></div>
-    <div class="folder" onclick="alert('A Seguir')"><span class="count">58</span><h3>A Seguir</h3></div>
-    <div class="folder" onclick="alert('PT')"><span class="count">4</span><h3>PT</h3></div>
-    <div class="folder" onclick="alert('Metalcore')"><span class="count">60</span><h3>Metalcore</h3></div>
-    <div class="folder" onclick="alert('A Vigiar')"><span class="count">1</span><h3>A Vigiar</h3></div>
-    <div class="folder" onclick="alert('Reviews')"><span class="count">50</span><h3>Reviews</h3></div>
-    <div class="folder" onclick="alert('Digest')"><span class="count">8</span><h3>Digest</h3></div>
-    <div class="folder" onclick="alert('Estatísticas')"><span class="count">13</span><h3>Estatísticas</h3></div>
-  </div>
-</main>
+<div id="histBanner">🕑 A ver o histórico de <b id="histLbl" style="margin:0 4px">—</b><button id="histBack">Voltar ao mais recente</button></div>
+<div id="plBanner"><span id="plMsg">Playlist criada</span><a id="plOpen" href="#" target="_blank" rel="noopener">Abrir no Spotify</a></div>
 
-<script>
-  console.log("✅ App reescrita completa - Tidal focus");
-</script>
+<div id="secbar"><button id="backBtn">&lsaquo; Pastas</button><span id="secTitle"></span></div>
 
+<div id="home"><div class="empty">A carregar&hellip;</div></div>
+
+<div class="chips" id="chips"></div>
+
+<main id="main"></main>
+
+<footer>
+  <strong>Now Playing</strong> &middot; dados de <span id="fdate">&mdash;</span><br>
+  Fontes: Metal Connect &middot; Loudwire &middot; Alterportal &middot; Billboard &middot; Whiplash &middot; Metal Imperium &middot; Caminhos Metálicos<br>
+  <span id="favnote"></span><br>
+  <button id="notifBtn" style="margin-top:8px;background:none;border:1px solid var(--symph);color:var(--symph);font-weight:700;font-size:.72rem;padding:6px 11px;border-radius:999px">🔔 Ativar notificações</button>
+  <button id="spCfg" style="margin-top:8px;margin-left:6px;background:none;border:1px solid var(--line);color:var(--muted);font-weight:700;font-size:.72rem;padding:6px 11px;border-radius:999px">⚙ Definições Spotify</button>
+</footer>
+
+<button id="plBtnTd">◈ Criar playlist Tidal</button>
+
+<div class="bottombar">
+  <button data-view="all" class="on"><span class="bi">&#128451;&#65039;</span>Tudo</button>
+  <button data-view="star"><span class="bi">&#11088;</span>Destaques</button>
+  <button data-view="fav" style="position:relative"><span class="bi">&#10084;&#65039;</span>Favoritos<span class="badge" id="favbadge" style="display:none">0</span></button>
+  <button data-view="unheard"><span class="bi">&#127911;</span>Por ouvir</button>
+</div>
+
+<div id="histModal"><div class="sheet">
+  <h4>🕑 Histórico diário</h4>
+  <p>Edições anteriores, lidas direto do GitHub. Toca num dia para o abrir.</p>
+  <div id="histList"><div class="empty">A carregar&hellip;</div></div>
+</div></div>
+
+<div id="spModal"><div class="sheet">
+  <h4>🎧 Playlist automática (Spotify)</h4>
+  <p>Cria uma playlist com os lançamentos do dia no <b>teu</b> Spotify. Só precisas de colar o teu <b>Client ID</b> uma vez (fica guardado neste telemóvel).</p>
+  <ol>
+    <li>Abre <code>developer.spotify.com/dashboard</code> e faz login.</li>
+    <li>"Create app" — nome à escolha (ex.: Now Playing).</li>
+    <li>Em <b>Redirect URIs</b> adiciona os dois:<br><code>https://bjxm20-max.github.io/metal-daily/index.html</code><br><code>https://bjxm20-max.github.io/metal-daily/</code></li>
+    <li>Em APIs marca <b>Web API</b>, guarda e copia o <b>Client ID</b>.</li>
+  </ol>
+  <input id="spInput" type="text" placeholder="Cola aqui o Client ID" autocomplete="off" autocapitalize="off" spellcheck="false">
+  <div class="row"><button id="spClose">Fechar</button><button id="spSave">Guardar e ligar</button></div>
+</div></div>
+
+<div id="bandModal"><div class="sheet">
+  <div style="display:flex;justify-content:flex-end;margin-bottom:4px"><button id="bandClose" style="background:var(--card);border:1px solid var(--line);color:var(--text);font-weight:800;font-size:.82rem;padding:7px 13px;border-radius:999px">Fechar</button></div>
+  <div id="bandBody"></div>
+</div></div>
+
+<div id="toast"></div>
+
+<script src="app.js" defer></script>
 </body>
 </html>

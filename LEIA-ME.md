@@ -1,38 +1,38 @@
-# Metal Daily — app para iPhone (PWA)
+# Metal Daily — Now Playing
 
-App à medida com as novas releases de metal e rock. Funciona como app no iPhone 11
-(ecrã inteiro, ícone próprio, offline), sem App Store e sem custos.
+PWA pessoal para acompanhar lançamentos e notícias de metal, rock e música em geral. Pode ser instalada no iPhone sem App Store e continua a abrir offline.
 
-## O que tem
-- 3 separadores: **Fontes**, **Alterportal**, **Future** (timeline).
-- **Filtros por subgénero** (as bolinhas coloridas no topo — tocar para filtrar).
-- **Pesquisa** por banda, editora ou álbum.
-- **Favoritos** (❤) e **marcar como ouvido** (✓) — fica guardado no telemóvel.
-- Barra inferior: Tudo · Favoritos · Por ouvir.
-- Botão **Abrir no Spotify** em cada release.
+## Funcionalidades
 
-## Como se atualiza
-A app vai buscar o `data.json` mais recente em 3 momentos:
-- **ao abrir** a app;
-- **sempre que voltas a ela** (sais e regressas);
-- com **pull-to-refresh** (puxar a lista para baixo).
+- Pastas para lançamentos, Fresh Singles, Alterportal, mainstream, futuro, notícias, bandas, Portugal, metalcore, reviews, digest e estatísticas.
+- Pesquisa e filtros por subgénero.
+- Favoritos, ouvidos, bandas seguidas e watchlist guardados no dispositivo.
+- Capas, biografias e discografias através de fontes públicas.
+- Pesquisa no Spotify, Tidal, Apple Music, YouTube Music, Bandcamp e Qobuz.
+- Criação de playlists no Spotify e Tidal através de OAuth PKCE.
+- Histórico diário, notificações OneSignal e exportação de lançamentos para calendário.
+- Pull-to-refresh, service worker e instalação PWA.
 
-Mostra "Atualizado às HH:MM" no canto e avisa com "⚡ Novas releases!" quando há novidades.
-Importante: só aparece conteúdo novo depois de a tarefa agendada gerar e publicar um
-`data.json` novo (uma vez por dia) — a app não pesquisa as fontes sozinha.
+## Estrutura
 
-## Ficheiros
-- `index.html` — a app
-- `data.json` — os dados (é este que se atualiza todos os dias)
-- `manifest.webmanifest`, `sw.js`, `icon-*.png` — instalação e modo offline
+- `index.html` — estrutura e acessibilidade da página.
+- `styles.css` — apresentação responsiva.
+- `app.js` — estado, renderização e integrações.
+- `data.json` — edição de conteúdos consumida pela aplicação.
+- `bands.json` — bandas seguidas por predefinição.
+- `manifest.webmanifest`, `sw.js`, `icon-*.png` — instalação e funcionamento offline.
+- `update_data.py` — atualização diária defensiva das notícias e metadados.
 
-## Como pôr no iPhone (recomendado: GitHub Pages, gratuito)
-1. Cria um repositório no GitHub e ativa **Pages** (Settings → Pages → Branch: main).
-2. Faz upload de todos os ficheiros desta pasta.
-3. Abre o link `https://<utilizador>.github.io/<repo>/` no **Safari** do iPhone.
-4. Botão Partilhar → **Adicionar ao ecrã principal**.
-5. Para atualizar diariamente, basta substituir o `data.json` no repositório
-   (a tarefa agendada pode fazer isto automaticamente — é só pedir para configurar).
+O atualizador preserva a última edição válida quando uma fonte externa falha ou devolve poucos resultados. A timeline futura é curada e não é substituída por cabeçalhos vazios.
 
-> Nota: abrir o `index.html` direto do Ficheiros (file://) bloqueia o `data.json` por
-> segurança do Safari. A app tem de ser servida por http/https (ex.: GitHub Pages).
+## Atualização
+
+A aplicação procura um `data.json` novo quando abre, volta ao primeiro plano ou recebe um pull-to-refresh. O GitHub Actions executa o atualizador diariamente às 09:00 UTC e também pode ser iniciado manualmente.
+
+## Instalação no iPhone
+
+1. Ativa o GitHub Pages para a branch publicada.
+2. Abre `https://bjxm20-max.github.io/metal-daily/` no Safari.
+3. Escolhe **Partilhar → Adicionar ao ecrã principal**.
+
+Abrir diretamente o `index.html` por `file://` não funciona porque o navegador bloqueia o carregamento de `data.json`. A aplicação deve ser servida por HTTPS.

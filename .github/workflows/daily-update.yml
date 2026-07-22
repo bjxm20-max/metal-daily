@@ -1,10 +1,8 @@
-name: Daily Metal Update (Tidal focus)
+name: Daily Metal Update
 
 on:
   schedule:
     - cron: '0 9 * * *'
-    - cron: '0 13 * * *'
-    - cron: '0 17 * * *'
   workflow_dispatch:
 
 permissions:
@@ -25,10 +23,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install deps
-        run: pip install requests beautifulsoup4 lxml
-
-      - name: Debug files
-        run: ls -la
+        run: pip install -r requirements.txt
 
       - name: Run updater
         run: python update_data.py
@@ -42,5 +37,5 @@ jobs:
             exit 0
           fi
           git add data.json
-          git commit -m "🔄 Daily update $(date +%Y-%m-%d %H:%M)"
+          git commit -m "🔄 Daily update $(date +%Y-%m-%d)"
           git push
