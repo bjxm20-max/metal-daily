@@ -17,10 +17,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -212,10 +212,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -270,13 +270,13 @@
     "section": "buzz"
   },
   {
-    "title": "Lawyers For Eminem Appeal Trademark Decision Against Swim Shady - Rolling Stone Australia",
+    "title": "Lawyers For Eminem Appeal Trademark Decision Against Australian Swimwear Brand Swim Shady - Rolling Stone Australia",
     "src": "Rolling Stone Australia",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWkxOMWM3NUlxY0hzbEtmYm1WTEFpZHF2dGJXWTNxNjJYZGxRcDB4Wm1hcjAzQVJ4eXpqYXNyMktZYnMyYl9KaGg2M0M4aFVOM1VJTExfTVpPbEkyQXVXY09Dd2x1QXFsbWhMZmZlaS1hUlpfYmZWWnVEeS1IZ1pKU0VBMll3YS02dzZ3WVNGdGxXSTg4WVBWaW1Scw?oc=5",
     "timestamp": "2026-07-23T04:53:52+00:00",
     "isoDate": "2026-07-23",
     "date": "23 Jul",
-    "d": "Lawyers For Eminem Appeal Trademark Decision Against Swim Shady Rolling Stone Australia",
+    "d": "Lawyers For Eminem Appeal Trademark Decision Against Australian Swimwear Brand Swim Shady Rolling Stone Australia",
     "category": "general",
     "sources": [
       {
@@ -337,10 +337,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -401,6 +401,526 @@
     "score": "",
     "cat": "general",
     "releaseKey": "pitchfork|bruise",
+    "kind": "review",
+    "section": "rev"
+  },
+  {
+    "b": "The Hu",
+    "t": "Hun",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "23 Jul",
+    "isoDate": "2026-07-23",
+    "url": "https://alterportal.net/2026_albums/189882-the-hu-hun-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/189882-the-hu-hun-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Mayday Parade",
+    "t": "Sugar",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "23 Jul",
+    "isoDate": "2026-07-23",
+    "url": "https://alterportal.net/2026_albums/189881-mayday-parade-sugar-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/189881-mayday-parade-sugar-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Madball",
+    "t": "Not Your Kingdom",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "23 Jul",
+    "isoDate": "2026-07-23",
+    "url": "https://alterportal.net/2026_albums/189880-madball-not-your-kingdom-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/189880-madball-not-your-kingdom-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Combichrist",
+    "t": "The Venom In The Mouth Of God",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "23 Jul",
+    "isoDate": "2026-07-23",
+    "url": "https://alterportal.net/2026_albums/189883-combichrist-the-venom-in-the-mouth-of-god-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/189883-combichrist-the-venom-in-the-mouth-of-god-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "Dinosaur Jr., Left Lane Cruiser take the music indoors this weekend - Lansing State Journal",
+    "src": "Lansing State Journal",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTFZtakVxaW9jSzRHMkJGMWlzSUlXM3dtRG50Q0pZYXczYlpBZGtJel9vMlQ4SHZKS1ZzcVpwV1k3Z1gxaUdhU29BTjV2MVc0X0JscTdtMm52SDhTOUxNOFdTVXB6VVdpZGZmWlJYS2YxUmNPZlpWTnFEU2RlZGVMa1Facm5OOW1hb3UtbnphN2tVRVptZDlnZ0VzN2RGaWhTaEo2MUtidVYwWEtKYUUwNkc4YldoRnBvbUlqU1hVaw?oc=5",
+    "timestamp": "2026-07-23T09:45:00+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Dinosaur Jr., Left Lane Cruiser take the music indoors this weekend Lansing State Journal",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Lansing State Journal",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTFZtakVxaW9jSzRHMkJGMWlzSUlXM3dtRG50Q0pZYXczYlpBZGtJel9vMlQ4SHZKS1ZzcVpwV1k3Z1gxaUdhU29BTjV2MVc0X0JscTdtMm52SDhTOUxNOFdTVXB6VVdpZGZmWlJYS2YxUmNPZlpWTnFEU2RlZGVMa1Facm5OOW1hb3UtbnphN2tVRVptZDlnZ0VzN2RGaWhTaEo2MUtidVYwWEtKYUUwNkc4YldoRnBvbUlqU1hVaw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "AGNOSTIC FRONT Share “Divided” Single / Video - BraveWords",
+    "src": "BraveWords",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80LTlTWEs4U3JFOWdqVjl2UDNfcTc0dGpHQ2dmWGxPaGxNbC1mREpsMXkzQmZianRFc3V2OUltV2NKa0Vuc2plWm9HLUNRQXlxWG16SXdMM0RRZ0t1RzdKVlZ1ZkMtbmVKUnhkb015WDVyUEdXUi1icldn0gGCAUFVX3lxTFBtZ1RvOWoxS0Z5VUpJWlJ1SWFNZ2htRFV4aDhZZGFCaUZVV21wTDl2M1dHemdKQU9kLTR2SklaNHlkVXIwb0dQSFdEekxoVE54LWtfRGFmZmtGSDB3czBzSlI3TTh4ZTV5RFNLOHBBVWN2NUphT3p6Tm8ySnY5UGVhYWc?oc=5",
+    "timestamp": "2026-07-23T07:00:47+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "AGNOSTIC FRONT Share “Divided” Single / Video BraveWords",
+    "category": "core",
+    "sources": [
+      {
+        "name": "BraveWords",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80LTlTWEs4U3JFOWdqVjl2UDNfcTc0dGpHQ2dmWGxPaGxNbC1mREpsMXkzQmZianRFc3V2OUltV2NKa0Vuc2plWm9HLUNRQXlxWG16SXdMM0RRZ0t1RzdKVlZ1ZkMtbmVKUnhkb015WDVyUEdXUi1icldn0gGCAUFVX3lxTFBtZ1RvOWoxS0Z5VUpJWlJ1SWFNZ2htRFV4aDhZZGFCaUZVV21wTDl2M1dHemdKQU9kLTR2SklaNHlkVXIwb0dQSFdEekxoVE54LWtfRGFmZmtGSDB3czBzSlI3TTh4ZTV5RFNLOHBBVWN2NUphT3p6Tm8ySnY5UGVhYWc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "BBC may lock iPlayer if you don’t pay license fee",
+    "src": "NME",
+    "url": "https://www.nme.com/news/tv/bbc-may-lock-iplayer-if-you-dont-pay-license-fee-3958588?utm_source=rss&utm_medium=rss&utm_campaign=bbc-may-lock-iplayer-if-you-dont-pay-license-fee",
+    "timestamp": "2026-07-23T11:12:27+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "The corporation is looking to find a way to tackle non-payers who use BBC services The post BBC may lock iPlayer if you don’t pay license fee appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/tv/bbc-may-lock-iplayer-if-you-dont-pay-license-fee-3958588?utm_source=rss&utm_medium=rss&utm_campaign=bbc-may-lock-iplayer-if-you-dont-pay-license-fee"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "CEX and the second-hand games market is “doomed” if Sony kills PlayStation discs, says report",
+    "src": "NME",
+    "url": "https://www.nme.com/news/gaming-news/cex-second-hand-games-market-sony-kills-playstation-discs-3958585?utm_source=rss&utm_medium=rss&utm_campaign=cex-second-hand-games-market-sony-kills-playstation-discs",
+    "timestamp": "2026-07-23T10:52:20+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "“This is an extremely anti-consumer decision\" The post CEX and the second-hand games market is “doomed” if Sony kills PlayStation discs, says report appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/gaming-news/cex-second-hand-games-market-sony-kills-playstation-discs-3958585?utm_source=rss&utm_medium=rss&utm_campaign=cex-second-hand-games-market-sony-kills-playstation-discs"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The ending of ‘Heartstopper Forever’ explained: do Nick and Charlie stay together?",
+    "src": "NME",
+    "url": "https://www.nme.com/news/film/the-ending-of-heartstopper-forever-explained-do-nick-and-charlie-stay-together-3958586?utm_source=rss&utm_medium=rss&utm_campaign=the-ending-of-heartstopper-forever-explained-do-nick-and-charlie-stay-together",
+    "timestamp": "2026-07-23T10:47:29+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Spoilers ahead for the Netflix feature film The post The ending of ‘Heartstopper Forever’ explained: do Nick and Charlie stay together? appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/film/the-ending-of-heartstopper-forever-explained-do-nick-and-charlie-stay-together-3958586?utm_source=rss&utm_medium=rss&utm_campaign=the-ending-of-heartstopper-forever-explained-do-nick-and-charlie-stay-together"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Brian Eno, Gary Lineker and Richard Curtis among UK millionaires asking Andy Burnham to tax them more",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/brian-eno-gary-lineker-and-richard-curtis-among-uk-millionaires-asking-andy-burnham-to-tax-them-more-3958578?utm_source=rss&utm_medium=rss&utm_campaign=brian-eno-gary-lineker-and-richard-curtis-among-uk-millionaires-asking-andy-burnham-to-tax-them-more",
+    "timestamp": "2026-07-23T10:34:49+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "“Those that can't see past the end of their own self interest have no place in designing a Britain for the future” The post Brian Eno, Gary Lineker and Richard Curtis among UK millionaires asking Andy Burnham to tax them more appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/brian-eno-gary-lineker-and-richard-curtis-among-uk-millionaires-asking-andy-burnham-to-tax-them-more-3958578?utm_source=rss&utm_medium=rss&utm_campaign=brian-eno-gary-lineker-and-richard-curtis-among-uk-millionaires-asking-andy-burnham-to-tax-them-more"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Every song on the ‘Heartstopper Forever’ soundtrack",
+    "src": "NME",
+    "url": "https://www.nme.com/news/film/every-song-on-the-heartstopper-forever-soundtrack-3958580?utm_source=rss&utm_medium=rss&utm_campaign=every-song-on-the-heartstopper-forever-soundtrack",
+    "timestamp": "2026-07-23T10:26:52+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "The Netflix film features music by Billie Eilish, The National, Maggie Rogers and more The post Every song on the ‘Heartstopper Forever’ soundtrack appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/film/every-song-on-the-heartstopper-forever-soundtrack-3958580?utm_source=rss&utm_medium=rss&utm_campaign=every-song-on-the-heartstopper-forever-soundtrack"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘Seinfeld’ star Jason Alexander apologises to Courtney Stodden for filming “inappropriate” sketch when she was 17",
+    "src": "NME",
+    "url": "https://www.nme.com/news/tv/seinfeld-star-jason-alexander-apologises-to-courtney-stodden-for-filming-inappropriate-sketch-when-she-was-17-3958572?utm_source=rss&utm_medium=rss&utm_campaign=seinfeld-star-jason-alexander-apologises-to-courtney-stodden-for-filming-inappropriate-sketch-when-she-was-17",
+    "timestamp": "2026-07-23T10:20:15+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "The activist and former reality star called out the incident on Instagram recently The post ‘Seinfeld’ star Jason Alexander apologises to Courtney Stodden for filming “inappropriate” sketch when she was 17 appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/tv/seinfeld-star-jason-alexander-apologises-to-courtney-stodden-for-filming-inappropriate-sketch-when-she-was-17-3958572?utm_source=rss&utm_medium=rss&utm_campaign=seinfeld-star-jason-alexander-apologises-to-courtney-stodden-for-filming-inappropriate-sketch-when-she-was-17"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Xbox Game Pass adds iconic noughties titles",
+    "src": "NME",
+    "url": "https://www.nme.com/news/gaming-news/xbox-game-pass-iconic-noughties-titles-backwards-compatibility-3958573?utm_source=rss&utm_medium=rss&utm_campaign=xbox-game-pass-iconic-noughties-titles-backwards-compatibility",
+    "timestamp": "2026-07-23T10:08:46+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "“New tech shouldn't mean leaving behind old games” The post Xbox Game Pass adds iconic noughties titles appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/gaming-news/xbox-game-pass-iconic-noughties-titles-backwards-compatibility-3958573?utm_source=rss&utm_medium=rss&utm_campaign=xbox-game-pass-iconic-noughties-titles-backwards-compatibility"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The National’s Aaron Dessner speaks out on if Gracie Abrams’ ‘Death Wish’ is about Taylor Swift",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/the-nationals-aaron-dessner-speaks-out-on-if-gracie-abrams-death-wish-is-about-taylor-swift-3958555?utm_source=rss&utm_medium=rss&utm_campaign=the-nationals-aaron-dessner-speaks-out-on-if-gracie-abrams-death-wish-is-about-taylor-swift",
+    "timestamp": "2026-07-23T09:56:28+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Dessner has produced a number of albums from Swift and Abrams, including the latter's most recently released 'Daughter From Hell' The post The National’s Aaron Dessner speaks out on if Gracie Abrams’ ‘Death Wish’ is about Taylor Swift appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/the-nationals-aaron-dessner-speaks-out-on-if-gracie-abrams-death-wish-is-about-taylor-swift-3958555?utm_source=rss&utm_medium=rss&utm_campaign=the-nationals-aaron-dessner-speaks-out-on-if-gracie-abrams-death-wish-is-about-taylor-swift"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Teenage Fanclub announce new album ‘Do Not Dare To Dream’ with atmospheric single ‘Day In The Sun’",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/teenage-fanclub-announce-new-album-do-not-dare-to-dream-with-atmospheric-single-day-in-the-sun-3958562?utm_source=rss&utm_medium=rss&utm_campaign=teenage-fanclub-announce-new-album-do-not-dare-to-dream-with-atmospheric-single-day-in-the-sun",
+    "timestamp": "2026-07-23T09:43:26+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "The indie giants will be heading on tour across the UK and Ireland later this year The post Teenage Fanclub announce new album ‘Do Not Dare To Dream’ with atmospheric single ‘Day In The Sun’ appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/teenage-fanclub-announce-new-album-do-not-dare-to-dream-with-atmospheric-single-day-in-the-sun-3958562?utm_source=rss&utm_medium=rss&utm_campaign=teenage-fanclub-announce-new-album-do-not-dare-to-dream-with-atmospheric-single-day-in-the-sun"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Nintendo boss defends remaking classic games",
+    "src": "NME",
+    "url": "https://www.nme.com/news/gaming-news/nintendo-boss-defends-classic-game-remakes-zelda-star-fox-3958563?utm_source=rss&utm_medium=rss&utm_campaign=nintendo-boss-defends-classic-game-remakes-zelda-star-fox",
+    "timestamp": "2026-07-23T09:39:24+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "'Star Fox 64' and 'The Legend Of Zelda: Ocarina Of Time' have been revisited this year The post Nintendo boss defends remaking classic games appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/gaming-news/nintendo-boss-defends-classic-game-remakes-zelda-star-fox-3958563?utm_source=rss&utm_medium=rss&utm_campaign=nintendo-boss-defends-classic-game-remakes-zelda-star-fox"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "FIFA Final, NORMAL Music Video Drives High Spotify Streams for BTS | Outlook Respawn - Outlook Respawn",
+    "src": "Outlook Respawn",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVFFTaEg3NFpGVnFKQzZkZnhTMWFPTjBqOW82aEJBNVl3Z2p4Z0FudXl0WjR1ek5PenJPcC1wR25jdjZTejBreFBxLVJHN2NHVmZHaFd5emgwNF9kRTEzeEZZZm45REZCUHE1T1Y5U0h2VlUzUFl5WElTZ0p6RU5sc3dpSkdCMzM3cVUtVXlIRmdUbEJlTC1wNlBTSzM4SHRBbTFZallxTGZFbDJOb29jWUZSb1hDcW9DRUV6WEZ5cDBQWTjSAcMBQVVfeXFMTVRRU2hINzRaRlZxSkM2ZGZ4UzFhT04wajlvNmhCQTVZd2dqeGdBbnV5dFo0dXpOT3pyT3AtcEduY3Y2U3owa3hQcS1SRzdjR1ZmR2hXeXpoMDRfZEUxM3hGWWZuOURGQlBxNU9WOVNIdlZVM1BZeVhJU2dKekVObHN3aUpHQjMzN3FVLVV5SEZnVGxCZUwtcDZQU0szOEh0QW0xWWpZcUxmRWwyTm9vY1lGUm9YQ3FvQ0VFelhGeXAwUFk4?oc=5",
+    "timestamp": "2026-07-23T09:01:00+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "FIFA Final, NORMAL Music Video Drives High Spotify Streams for BTS | Outlook Respawn Outlook Respawn",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Outlook Respawn",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVFFTaEg3NFpGVnFKQzZkZnhTMWFPTjBqOW82aEJBNVl3Z2p4Z0FudXl0WjR1ek5PenJPcC1wR25jdjZTejBreFBxLVJHN2NHVmZHaFd5emgwNF9kRTEzeEZZZm45REZCUHE1T1Y5U0h2VlUzUFl5WElTZ0p6RU5sc3dpSkdCMzM3cVUtVXlIRmdUbEJlTC1wNlBTSzM4SHRBbTFZallxTGZFbDJOb29jWUZSb1hDcW9DRUV6WEZ5cDBQWTjSAcMBQVVfeXFMTVRRU2hINzRaRlZxSkM2ZGZ4UzFhT04wajlvNmhCQTVZd2dqeGdBbnV5dFo0dXpOT3pyT3AtcEduY3Y2U3owa3hQcS1SRzdjR1ZmR2hXeXpoMDRfZEUxM3hGWWZuOURGQlBxNU9WOVNIdlZVM1BZeVhJU2dKekVObHN3aUpHQjMzN3FVLVV5SEZnVGxCZUwtcDZQU0szOEh0QW0xWWpZcUxmRWwyTm9vY1lGUm9YQ3FvQ0VFelhGeXAwUFk4?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Release the Folk Punk - Eugene Weekly",
+    "src": "Eugene Weekly",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mcTloUzhJcncwRmxGS3hnanFrdGhOdVVlX21nNF9tMms2Y1V5Uy14aVNPTF9jTmZFU2lHZEJnZXhIR1I3Slg0bXFRQ2FHUDA0VHpiVmUyZm9JM3RrWnZCZWlPOGt1Um4yY2c?oc=5",
+    "timestamp": "2026-07-23T07:00:00+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Release the Folk Punk Eugene Weekly",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Eugene Weekly",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mcTloUzhJcncwRmxGS3hnanFrdGhOdVVlX21nNF9tMms2Y1V5Uy14aVNPTF9jTmZFU2lHZEJnZXhIR1I3Slg0bXFRQ2FHUDA0VHpiVmUyZm9JM3RrWnZCZWlPOGt1Um4yY2c?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "R.I.P. Vicky Marques",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/r-i-p-faleceu-vicky-marques-baterista/",
+    "timestamp": "2026-07-23T09:40:08+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Faleceu, aos 51 anos, o baterista português Vicky Marques, um dos mais talentosos da sua geração.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/r-i-p-faleceu-vicky-marques-baterista/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Vagos Metal Fest: Horários",
+    "src": "Caminhos Metálicos",
+    "url": "https://www.caminhosmetalicos.com/noticias/vagos-metal-fest-horarios/",
+    "timestamp": "2026-07-23T09:09:26+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "O conteúdo Vagos Metal Fest: Horários aparece primeiro em Caminhos Metálicos .",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Caminhos Metálicos",
+        "url": "https://www.caminhosmetalicos.com/noticias/vagos-metal-fest-horarios/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Rock da Velha – Fotos | 18.07.2026",
+    "src": "Caminhos Metálicos",
+    "url": "https://www.caminhosmetalicos.com/reportagens-2026/rock-da-velha-fotos-18-07-2026/",
+    "timestamp": "2026-07-23T08:36:59+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "O conteúdo Rock da Velha – Fotos | 18.07.2026 aparece primeiro em Caminhos Metálicos .",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Caminhos Metálicos",
+        "url": "https://www.caminhosmetalicos.com/reportagens-2026/rock-da-velha-fotos-18-07-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Into Darkness",
+    "t": "Route to the Outer Side Review",
+    "src": "Angry Metal Guy",
+    "date": "23 Jul",
+    "isoDate": "2026-07-23",
+    "timestamp": "2026-07-23T11:06:38+00:00",
+    "url": "https://www.angrymetalguy.com/into-darkness-route-to-the-outer-side-review/",
+    "d": "\"As AMG readers surely know, death metal and science fiction go together like science and fiction. Foundational and contemporary examples alike confirm that atonal riffing, guttural growling, and machine-gun drumming pair well with spaceships, aliens, and exop",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "into darkness|route to the outer side review",
     "kind": "review",
     "section": "rev"
   },
@@ -547,10 +1067,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -572,10 +1092,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -772,10 +1292,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -2326,10 +2846,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2462,7 +2982,7 @@
     "title": "Melissa Etheridge, Wynonna Judd open up about grief, healing on tour together - ABC News - Breaking News, Latest News and Videos",
     "src": "ABC News - Breaking News, Latest News and Videos",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONFdQa1pITy10SEt2SHlGU3pBMFVzOFg0c1ZXaWdFZURxOTMzOXBuSnBHbjh2S2RjdUJ1YTZtajI4cXhVTTc3U3ZEaTVqOVZhWldwdjVVNkhBRGdyVmJ0dHRtZzV2Z19sakpSeGE2R3ZkUTBWMklmOHpCSzBQY2RoZFJiTDJRZGM5Q25qTFRpVGppN29tWldoUGd4bHlpX1dlV3dhZDBpcjnSAa4BQVVfeXFMT0RCcDBpNmZxLVBZcmE0UFhfSUNRVENuSXZ2YkJfWTVyQ3F3bXRxbnhaUmJHeDM0My02VXhuLUJOYXp4Wk5weUJ6blh4c05QYkRnblp1SHlTSkJUbWpFYnczWmxrZXA1YTctZWdNSTBhZWFXX1QzaFBqOFVtNmNJUlk5TmVZM216Mm5pMGZ0aFZiWEpKaVgwUXVRaDh5dnN6cDlOMUZFNS1OYVpEb19n?oc=5",
-    "timestamp": "2026-07-22T16:02:49+00:00",
+    "timestamp": "2026-07-22T12:09:53+00:00",
     "isoDate": "2026-07-22",
     "date": "22 Jul",
     "d": "Melissa Etheridge, Wynonna Judd open up about grief, healing on tour together ABC News - Breaking News, Latest News and Videos",
@@ -2476,10 +2996,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2951,10 +3471,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -4654,10 +5174,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -4804,10 +5324,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -7748,6 +8268,185 @@
       {
         "name": "Expresso",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWm1PX0hyUDc4dVRnSkxrdmlycG9tUHpYalVsNTdZc0NUSXk2ckNUaWhhRmxtX2xFeXpNZ2FhV1YyUEduWWpoVk9rbk1lZXZuZVBhR3RFLVdYaksxNUNZNzdWSFVXWnRTYnd6Zm0yN3hsU2VhUU9qZTJ4b1VIRGhGRmowS0ZzVGdDdXdJY283VWpYalVqbmxUNFJvUFZJS1B1bjcwZklvMmxzNndUTFp6b2ZoQ2h3RFNWb2FNZ0p4Z2dsRGQtX2JBYmJsM2ZSTEJhaWZFR2h5NV9rNTI2RkN3NVl0ZC1fQnZjZVZXT2xCbFFua00?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Resident Evil Requiem: Music Leak Hints at Mercenaries Mode Return in May 2026 Capcom Update - VPEsports",
+    "src": "VPEsports",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQTFzcmZSMWxFQzVJTjRLUm9KMG52WTREdWVCem9yTGwtV2RESGJnMUxfTmQyMXBnM1dHS09fTk9mQlFiSWtTbHhoWmdua3hFUXpueWlrY1UyUVRPa3JqbkEydDd3X1ZjQjUyUWlJcHZCT0hzSUlpTUtTc2VlZzFzVkZNTjlpRnZSZXI2M3A2UTRlUERtOHJrN1NfNFk?oc=5",
+    "timestamp": "2026-07-22T19:38:40+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Resident Evil Requiem: Music Leak Hints at Mercenaries Mode Return in May 2026 Capcom Update VPEsports",
+    "category": "general",
+    "sources": [
+      {
+        "name": "VPEsports",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQTFzcmZSMWxFQzVJTjRLUm9KMG52WTREdWVCem9yTGwtV2RESGJnMUxfTmQyMXBnM1dHS09fTk9mQlFiSWtTbHhoWmdua3hFUXpueWlrY1UyUVRPa3JqbkEydDd3X1ZjQjUyUWlJcHZCT0hzSUlpTUtTc2VlZzFzVkZNTjlpRnZSZXI2M3A2UTRlUERtOHJrN1NfNFk?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Bart van Rijn: “Seeing an idea come to life is what makes creating music so rewarding” - Electronic Groove",
+    "src": "Electronic Groove",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpSjhWNXZNaDZ6VnVlcUlRRzExQTh6eXZOX3Bwdzlfb1pGMlZ5NFlGbmhTRlVoN3RRaVc1U08wR2ZNdGxlaVZFWlJhRFFGbnhMTUZVSTd1ZlpqakFJS3JsMHNpVXBVY0RyN2c?oc=5",
+    "timestamp": "2026-07-22T16:04:03+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Bart van Rijn: “Seeing an idea come to life is what makes creating music so rewarding” Electronic Groove",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Electronic Groove",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpSjhWNXZNaDZ6VnVlcUlRRzExQTh6eXZOX3Bwdzlfb1pGMlZ5NFlGbmhTRlVoN3RRaVc1U08wR2ZNdGxlaVZFWlJhRFFGbnhMTUZVSTd1ZlpqakFJS3JsMHNpVXBVY0RyN2c?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Carly Pearce previews upcoming ‘Honest Woman’ album with the release of ‘She Don’t’ - 92.1 Hank FM",
+    "src": "92.1 Hank FM",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdHZxT2ZjWWRiNThoMWYtNTdPWkMxemYwNWw0M2R2SGk1SWtPYnU1R2sybmF0VFA1RTRJUlhZRUZFTlJXVXk2SUY1LTlqZnFxX0M3czB4V2ZkVGdXUzRGYUNiX0pfOWxBQ2lhNVJVZ1FDVnZJYWlZWlItYVVQMUp1MjBubDR3c2NpejlNRDJnVUlTaTNBZjRfZ0VKU2Q0aUtJdGJNQWpTSnU?oc=5",
+    "timestamp": "2026-07-22T14:40:23+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Carly Pearce previews upcoming ‘Honest Woman’ album with the release of ‘She Don’t’ 92.1 Hank FM",
+    "category": "general",
+    "sources": [
+      {
+        "name": "92.1 Hank FM",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdHZxT2ZjWWRiNThoMWYtNTdPWkMxemYwNWw0M2R2SGk1SWtPYnU1R2sybmF0VFA1RTRJUlhZRUZFTlJXVXk2SUY1LTlqZnFxX0M3czB4V2ZkVGdXUzRGYUNiX0pfOWxBQ2lhNVJVZ1FDVnZJYWlZWlItYVVQMUp1MjBubDR3c2NpejlNRDJnVUlTaTNBZjRfZ0VKU2Q0aUtJdGJNQWpTSnU?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Taylor Swift reportedly walked down the aisle to string quartet version of her own hit song - MSN",
+    "src": "MSN",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTS1sa1NXV3J4alBrYWpmcDBkNGpIQ1lZNHFYVFp5a3FQaG8tQ3NLZHVycDRFNFh6ektiZTdxX3N2b1RZZXZ5MHRaRWFEbWpMWDdWcHVET3NBVlRJNlZMRnhNRWF6Z1lkLUt2cGRabXYxaWhTajhscHBpRnU4bHZOUzVjQTBPWW1RZTA3LVFkemdLbEJ1bjM3dFpzVGRSZmZDd1gwc0hwYjVUcXFOdVFJTmdOU25FbjRCQUFPYnotMVQxdlhucTVweUxKYWFxQXpReHpFb1N0LWtmdDVpbXNTRGVZQjcyOWVpbHBfbGQ1TUNXYlhlOTFjWnlR?oc=5",
+    "timestamp": "2026-07-22T13:38:29+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Taylor Swift reportedly walked down the aisle to string quartet version of her own hit song MSN",
+    "category": "general",
+    "sources": [
+      {
+        "name": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTS1sa1NXV3J4alBrYWpmcDBkNGpIQ1lZNHFYVFp5a3FQaG8tQ3NLZHVycDRFNFh6ektiZTdxX3N2b1RZZXZ5MHRaRWFEbWpMWDdWcHVET3NBVlRJNlZMRnhNRWF6Z1lkLUt2cGRabXYxaWhTajhscHBpRnU4bHZOUzVjQTBPWW1RZTA3LVFkemdLbEJ1bjM3dFpzVGRSZmZDd1gwc0hwYjVUcXFOdVFJTmdOU25FbjRCQUFPYnotMVQxdlhucTVweUxKYWFxQXpReHpFb1N0LWtmdDVpbXNTRGVZQjcyOWVpbHBfbGQ1TUNXYlhlOTFjWnlR?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Angelus Apatrida e Vio-Lence: Horários e Informações",
+    "src": "Caminhos Metálicos",
+    "url": "https://www.caminhosmetalicos.com/noticias/angelus-apatrida-e-vio-lence-horarios-e-informacoes/",
+    "timestamp": "2026-07-22T22:53:57+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "O conteúdo Angelus Apatrida e Vio-Lence: Horários e Informações aparece primeiro em Caminhos Metálicos .",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Caminhos Metálicos",
+        "url": "https://www.caminhosmetalicos.com/noticias/angelus-apatrida-e-vio-lence-horarios-e-informacoes/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Bajonca Rock Fest – Fotos | 11.07.2026",
+    "src": "Caminhos Metálicos",
+    "url": "https://www.caminhosmetalicos.com/reportagens-2026/bajonca-rock-fest-fotos-11-07-2026/",
+    "timestamp": "2026-07-22T22:42:32+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "O conteúdo Bajonca Rock Fest – Fotos | 11.07.2026 aparece primeiro em Caminhos Metálicos .",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Caminhos Metálicos",
+        "url": "https://www.caminhosmetalicos.com/reportagens-2026/bajonca-rock-fest-fotos-11-07-2026/"
+      },
+      {
+        "name": "Caminhos Metálicos",
+        "url": "https://www.caminhosmetalicos.com/reportagens-2026/bajonca-rock-fest-fotos-10-07-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Trovante, Luís Represas e “Timor”: uma das mais belas histórias da música portuguesa",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/trovante-luis-represas-e-timor-uma-das-mais-belas-historias-da-musica-portuguesa/",
+    "timestamp": "2026-07-22T21:31:45+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Neste dia triste para a música portuguesa, recordamos um dos momentos mais bonitos da música enquanto elemento agregador de uma causa: \"Timor\", dos Trovante.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/trovante-luis-represas-e-timor-uma-das-mais-belas-historias-da-musica-portuguesa/"
       }
     ],
     "status": "official",
@@ -17277,6 +17976,27 @@
     "star": false,
     "kind": "news",
     "section": "news"
+  },
+  {
+    "b": "Gloss",
+    "t": "Bitter and Insolent",
+    "g": "punk",
+    "fmt": "EP",
+    "lbl": "MusicBrainz",
+    "date": "17 Jul",
+    "isoDate": "2026-07-17",
+    "url": "https://musicbrainz.org/release-group/9b4a403f-7f82-47fe-810c-b1967b5d8f34",
+    "d": "alternative rock, shoegaze, punk, perth, alternative",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/9b4a403f-7f82-47fe-810c-b1967b5d8f34"
+      }
+    ],
+    "mbid": "9b4a403f-7f82-47fe-810c-b1967b5d8f34",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
   },
   {
     "b": "Under Auburn Skies",
