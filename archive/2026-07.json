@@ -87,10 +87,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -112,10 +112,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -527,10 +527,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -827,10 +827,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -877,10 +877,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -902,10 +902,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1215,13 +1215,13 @@
     "section": "news"
   },
   {
-    "title": "Chad Hugo teams up with Tierra Whack, Leikeli47 and Rochelle Jordan for rowdy single ‘JUMPUPW!NYA’ with epic video",
+    "title": "Chad Hugo teams up with Tierra Whack and Leikeli47 for rowdy single ‘JUMPUPW!NYA’ with epic video",
     "src": "NME",
     "url": "https://www.nme.com/news/music/chad-hugo-teams-up-with-tierra-whack-leikeli47-and-rochelle-jordan-for-rowdy-single-jumpupwnya-with-epic-video-3958627?utm_source=rss&utm_medium=rss&utm_campaign=chad-hugo-teams-up-with-tierra-whack-leikeli47-and-rochelle-jordan-for-rowdy-single-jumpupwnya-with-epic-video",
     "timestamp": "2026-07-23T13:48:59+00:00",
     "isoDate": "2026-07-23",
     "date": "23 Jul",
-    "d": "More music will be on the way from the former Neptunes musician The post Chad Hugo teams up with Tierra Whack, Leikeli47 and Rochelle Jordan for rowdy single ‘JUMPUPW!NYA’ with epic video appeared first on NME .",
+    "d": "More music will be on the way from the former Neptunes musician The post Chad Hugo teams up with Tierra Whack and Leikeli47 for rowdy single ‘JUMPUPW!NYA’ with epic video appeared first on NME .",
     "category": "general",
     "sources": [
       {
@@ -1346,7 +1346,7 @@
     "timestamp": "2026-07-23T13:10:06+00:00",
     "isoDate": "2026-07-23",
     "date": "23 Jul",
-    "d": "It has been a long, long time since the Detroit indie rock singer-songwriter Stef Chura last released an album — seven years, in fact, since she worked with Car Seat Headrest frontman Will Toledo to make Midnight . Lots have happened in Chura's life since then, and how she's unveiling new new LP Dancing Alone On The Co",
+    "d": "It has been a long, long time since the Detroit indie rock singer-songwriter Stef Chura last released an album — seven years, in fact, since she worked with Car Seat Headrest frontman Will Toledo to make Midnight . A lot has happened in Chura's life since then, and now she's unveiling her new LP Dancing Alone On The Co",
     "category": "general",
     "sources": [
       {
@@ -1782,10 +1782,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1807,12 +1807,1808 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Rezn",
+    "t": "Cycles in the Infinite Dream",
+    "g": "doom",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "23 Jul",
+    "isoDate": "2026-07-23",
+    "url": "https://alterportal.net/2026_albums/189897-rezn-cycles-in-the-infinite-dream-2026.html",
+    "d": "Psychedelic Doom Metal / Post-Metal / Doomgaze",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/189897-rezn-cycles-in-the-infinite-dream-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Profane Burial",
+    "t": "Desolate Echoes Of Turmoil",
+    "g": "black",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "23 Jul",
+    "isoDate": "2026-07-23",
+    "url": "https://alterportal.net/2026_albums/189898-profane-burial-desolate-echoes-of-turmoil-2026.html",
+    "d": "Symphonic Black Metal / Progressive Black Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/189898-profane-burial-desolate-echoes-of-turmoil-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Lyric Noel",
+    "t": "Acid Bloom (feat. Stitched Up Heart)",
+    "g": "heavy",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "23 Jul",
+    "isoDate": "2026-07-23",
+    "url": "https://alterportal.net/alternative/189891-lyric-noel-acid-bloom-feat-stitched-up-heart-single-2026.html",
+    "d": "",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/189891-lyric-noel-acid-bloom-feat-stitched-up-heart-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Litosth",
+    "t": "Dreaming",
+    "g": "death",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "23 Jul",
+    "isoDate": "2026-07-23",
+    "url": "https://alterportal.net/2026_albums/189900-litosth-dreaming-2026.html",
+    "d": "Melodic Black Metal / Death Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/189900-litosth-dreaming-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Insomnium",
+    "t": "Gleam in the Black",
+    "g": "death",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "23 Jul",
+    "isoDate": "2026-07-23",
+    "url": "https://alterportal.net/newsongs/189895-insomnium-gleam-in-the-black-single-2026.html",
+    "d": "Melodic Death Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/newsongs/189895-insomnium-gleam-in-the-black-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "If I Were You",
+    "t": "SILVERMAZE",
+    "g": "core",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "23 Jul",
+    "isoDate": "2026-07-23",
+    "url": "https://alterportal.net/core/189893-if-i-were-you-silvermaze-single-2026.html",
+    "d": "Metalcore / Post-Hardcore",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/core/189893-if-i-were-you-silvermaze-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Code:Words",
+    "t": "Blackout",
+    "g": "electro",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "23 Jul",
+    "isoDate": "2026-07-23",
+    "url": "https://alterportal.net/alternative/189892-codewords-blackout-single-2026.html",
+    "d": "Alternative Metal / Electronic",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/189892-codewords-blackout-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Butcher Babies",
+    "t": "Leaving California",
+    "g": "electro",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "23 Jul",
+    "isoDate": "2026-07-23",
+    "url": "https://alterportal.net/alternative/189899-butcher-babies-leaving-california-single-2026.html",
+    "d": "Alternative Metal / Electronic / Female Vocal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/189899-butcher-babies-leaving-california-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Blessed by a Burden",
+    "t": "Black Wolf",
+    "g": "core",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "23 Jul",
+    "isoDate": "2026-07-23",
+    "url": "https://alterportal.net/core/189894-blessed-by-a-burden-black-wolf-single-2026.html",
+    "d": "Metalcore",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/core/189894-blessed-by-a-burden-black-wolf-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "Slipknot’s M. Shawn “Clown” Crahan Seemingly Embraces AI For His Apparent New Project O’ Day Monster",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/07/23/news/slipknots-m-shawn-clown-crahan-seemingly-embraces-ai-for-his-apparent-new-project-o-day-monster/",
+    "timestamp": "2026-07-23T17:19:18+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Clown publicly advocated for AI last December. The post Slipknot’s M. Shawn “Clown” Crahan Seemingly Embraces AI For His Apparent New Project O’ Day Monster appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/07/23/news/slipknots-m-shawn-clown-crahan-seemingly-embraces-ai-for-his-apparent-new-project-o-day-monster/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "ATTACK ATTACK! Drummer's Storage Unit Broken Into, All the Band's Merch Left Behind",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/attack-attack-drummers-storage-unit-broken-into-all-the-bands-merch-left-behind",
+    "timestamp": "2026-07-23T17:01:39+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "The thieves didn't take any merch, though. The post ATTACK ATTACK! Drummer's Storage Unit Broken Into, All the Band's Merch Left Behind appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/attack-attack-drummers-storage-unit-broken-into-all-the-bands-merch-left-behind"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Cold Slither (Gruesome, Exhumed, Etc.) Launch “Cobra Island” Music Video",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/07/23/news/cold-slither-gruesome-exhumed-etc-launch-cobra-island-music-video/",
+    "timestamp": "2026-07-23T16:56:01+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "The group's origins date back to an episode of the 80s 'G.I. Joe: A Real American Hero' animated series. The post Cold Slither (Gruesome, Exhumed, Etc.) Launch “Cobra Island” Music Video appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/07/23/news/cold-slither-gruesome-exhumed-etc-launch-cobra-island-music-video/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "William Shatner's Heavy Metal Band (Yup) Set for Chicago's Riot Fest - Bleeding Cool News",
+    "src": "Bleeding Cool News",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdE02SDhScDhrNjNXNUI3LXItOFczNWx4TlQzX2J1QWE0Sk1FZXdiQjhrNjQzTkhvemxEVGIzUldDeGVJYkxVdzhoblFLUlBfTTZUcEJXd2ZLREpoYkRCNUwzcC0yVHR5Uk1EQWJnUXdPTk94MlhFb2tpd0pUVDNiMnd6eVlyM1VfWGZiQzhyX1dhVEQ2WGFUTw?oc=5",
+    "timestamp": "2026-07-23T16:37:10+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "William Shatner's Heavy Metal Band (Yup) Set for Chicago's Riot Fest Bleeding Cool News",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Bleeding Cool News",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdE02SDhScDhrNjNXNUI3LXItOFczNWx4TlQzX2J1QWE0Sk1FZXdiQjhrNjQzTkhvemxEVGIzUldDeGVJYkxVdzhoblFLUlBfTTZUcEJXd2ZLREpoYkRCNUwzcC0yVHR5Uk1EQWJnUXdPTk94MlhFb2tpd0pUVDNiMnd6eVlyM1VfWGZiQzhyX1dhVEQ2WGFUTw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Mac Sabbath Announce Fall Tour With Clownvis Presley, Descartes A Kant & Alyson Anomaly",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/07/23/news/mac-sabbath-announce-fall-tour-with-clownvis-presley-descartes-a-kant-alyson-anomaly/",
+    "timestamp": "2026-07-23T16:34:55+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Including a Halloween show. The post Mac Sabbath Announce Fall Tour With Clownvis Presley, Descartes A Kant & Alyson Anomaly appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/07/23/news/mac-sabbath-announce-fall-tour-with-clownvis-presley-descartes-a-kant-alyson-anomaly/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "PRESIDENT Post Tease Of Their Upcoming New Single “Dark Heaven”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/07/23/news/president-post-tease-of-their-upcoming-new-single-dark-heaven/",
+    "timestamp": "2026-07-23T16:22:36+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "It will arrive in full at the end of the month. The post PRESIDENT Post Tease Of Their Upcoming New Single “Dark Heaven” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/07/23/news/president-post-tease-of-their-upcoming-new-single-dark-heaven/"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "medium",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "SLEEP TOKEN's 'Take Me Back To Eden' Album Certified Platinum In U.S.",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/sleep-tokens-take-me-back-to-eden-album-certified-platinum-in-u-s",
+    "timestamp": "2026-07-23T16:12:58+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "SLEEP TOKEN's third studio album, 2023's \"Take Me Back To Eden\", has been officially certified platinum by the RIAA (Recording Industry Association of America), while the single \"The Summoning\" has been certified gold. The LP, which was released on May 19, 2023 via Spinefarm, has accrued over two bi...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/sleep-tokens-take-me-back-to-eden-album-certified-platinum-in-u-s"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Ghost Share Trailer For Their New Live Film ‘2 Big To Rig’",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/07/23/news/ghost-share-trailer-for-their-new-live-film-2-big-to-rig/",
+    "timestamp": "2026-07-23T16:10:44+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Filmed this past September in Mexico City. The post Ghost Share Trailer For Their New Live Film ‘2 Big To Rig’ appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/07/23/news/ghost-share-trailer-for-their-new-live-film-2-big-to-rig/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Nicko McBrain Names 3 Best Iron Maiden Songs Steve Harris Wrote",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/nicko-mcbrain-steve-harris-best-iron-maiden-songs/",
+    "timestamp": "2026-07-23T15:48:07+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "He cites classics AND modern-day epics. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/nicko-mcbrain-steve-harris-best-iron-maiden-songs/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Chris Garza Announces Return to SUICIDE SILENCE, Playing on Upcoming Tour",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/chris-garza-announces-return-to-suicide-silence-playing-on-upcoming-tour",
+    "timestamp": "2026-07-23T15:20:09+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "After taking a brief hiatus from touring, Suicide Silence guitarist Chris Garza is returning to the stage with the band. Chris Garza is killing it. After years of playing guitar […] The post Chris Garza Announces Return to SUICIDE SILENCE, Playing on Upcoming Tour appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/chris-garza-announces-return-to-suicide-silence-playing-on-upcoming-tour"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "BIOHAZARD's EVAN SEINFELD Says His New Solo Project Will 'Release Something In 2027': 'You Can Expect A Lot Of Collaborations'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/biohazards-evan-seinfeld-says-his-new-solo-project-will-release-something-in-2027-you-can-expect-a-lot-of-collaborations",
+    "timestamp": "2026-07-23T15:09:44+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "In an interview with Bulgarian journalist Elena Rosberg, Evan Seinfeld — founding member, frontman and bassist of the hardcore/metal powerhouse BIOHAZARD — revealed that he is working on a \"trap metal\" solo project, with plans to release new music next year. He said (as transcribed by BLABBERMOUTH.N...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/biohazards-evan-seinfeld-says-his-new-solo-project-will-release-something-in-2027-you-can-expect-a-lot-of-collaborations"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "MOTIONLESS IN WHITE’s CHRIS MOTIONLESS on greatest success, worst songs, weirdest fan gifts and more",
+    "src": "Revolver",
+    "url": "https://www.revolvermag.com/feature/motionless-in-white-2026-cover-story/",
+    "timestamp": "2026-07-23T15:05:29+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Motionless in White singer gives \"The Greatest Interview Ever\"",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Revolver",
+        "url": "https://www.revolvermag.com/feature/motionless-in-white-2026-cover-story/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "'Ring of Fire' alumni musical to be presented at Forest Hills High School - The Tribune-Democrat",
+    "src": "The Tribune-Democrat",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVHJ6bm91Q252SENlY0N0dHpXejl4bXZZQnBGV2JibVlXdUQ5MWdBTl96RU9nWW10Y01MSWhTN0NaLXdyVTg1eHFtSTljMDNnQzdUSmhVMThkR0ZRdmdUZW9nbnY1QzJDck9DVWY5WkZzT2s3VTJpdWlHN2xrMGs4bjZHRGo1bmx3WTNGMWxUemRXeVNGd0pXcVJsRTZja2t5ay1YNnY3dW5UNzhWdmNLNjBTckdKTHJzanQ2ZUNNcnRqWmg2U05iakM5MllrQlQ3eGR6Q1NqQllEWDhlOUdkOHBVNXo1MXpnQnY1cGR3RzNsbnlYdG1N?oc=5",
+    "timestamp": "2026-07-23T14:50:00+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "'Ring of Fire' alumni musical to be presented at Forest Hills High School The Tribune-Democrat",
+    "category": "core",
+    "sources": [
+      {
+        "name": "The Tribune-Democrat",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVHJ6bm91Q252SENlY0N0dHpXejl4bXZZQnBGV2JibVlXdUQ5MWdBTl96RU9nWW10Y01MSWhTN0NaLXdyVTg1eHFtSTljMDNnQzdUSmhVMThkR0ZRdmdUZW9nbnY1QzJDck9DVWY5WkZzT2s3VTJpdWlHN2xrMGs4bjZHRGo1bmx3WTNGMWxUemRXeVNGd0pXcVJsRTZja2t5ay1YNnY3dW5UNzhWdmNLNjBTckdKTHJzanQ2ZUNNcnRqWmg2U05iakM5MllrQlQ3eGR6Q1NqQllEWDhlOUdkOHBVNXo1MXpnQnY1cGR3RzNsbnlYdG1N?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "The Setlist For 29 Big Rock + Metal Bands’ Final Shows",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/final-shows-setlists-rock-metal/",
+    "timestamp": "2026-07-23T14:47:58+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "We recently tracked down the setlists from 29 big hard rock and metal bands' final shows to look back at how they went out. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/final-shows-setlists-rock-metal/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "See trailer for new GHOST concert film ‘2 Big 2 Rig’",
+    "src": "Revolver",
+    "url": "https://www.revolvermag.com/culture/see-trailer-for-new-ghost-concert-film-2-big-2-rig/",
+    "timestamp": "2026-07-23T14:38:21+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "“Is it too hot for you?”",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Revolver",
+        "url": "https://www.revolvermag.com/culture/see-trailer-for-new-ghost-concert-film-2-big-2-rig/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "WATCH: GHOST Release First Trailer For IMAX Spectacle '2 Big 2 Rig'",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/watch-ghost-release-first-trailer-for-imax-spectacle-2-big-2-rig",
+    "timestamp": "2026-07-23T14:28:39+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Ghost are going really big this August. The post WATCH: GHOST Release First Trailer For IMAX Spectacle '2 Big 2 Rig' appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/watch-ghost-release-first-trailer-for-imax-spectacle-2-big-2-rig"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "TESTAMENT Partners With KnuckleBonz360 For First-Of-Its-Kind Immersive Experience",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/testament-partners-with-knucklebonz360-for-first-of-its-kind-immersive-experience",
+    "timestamp": "2026-07-23T14:15:42+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "KnuckleBonz has announced an official collaboration with TESTAMENT to bring the iconic Bay Area thrash metal institution into KnuckleBonz360 BackStage Experience, a first-of-its-kind immersive 3D digital platform launching summer 2026. \"TESTAMENT is very excited to be a part of a new experience for...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/testament-partners-with-knucklebonz360-for-first-of-its-kind-immersive-experience"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "New book chronicles Philly punk icons The Dead Milkmen’s history - WXPN",
+    "src": "WXPN",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTdYdE1fUUlfT3pUYUg2TkVVWWVidENGaXV5QmhjWDBrb0NWTTNHWWU1eHNWemN6N1lGekIzLV9YWVdXbWxzX1JNcy0yMDduU3V5dFVPUHVqR0swZ3JTM3RJOTJqcC1PYUNJUVgtdi01RTQ4VDVZSklGX1NrMW9MRXpYNEFpeHc?oc=5",
+    "timestamp": "2026-07-23T14:14:54+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "New book chronicles Philly punk icons The Dead Milkmen’s history WXPN",
+    "category": "core",
+    "sources": [
+      {
+        "name": "WXPN",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSTdYdE1fUUlfT3pUYUg2TkVVWWVidENGaXV5QmhjWDBrb0NWTTNHWWU1eHNWemN6N1lGekIzLV9YWVdXbWxzX1JNcy0yMDduU3V5dFVPUHVqR0swZ3JTM3RJOTJqcC1PYUNJUVgtdi01RTQ4VDVZSklGX1NrMW9MRXpYNEFpeHc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "🔥 Rammstein Are Preparing for a New Festival Tour in Two Years – The Fire May Rise Again! 🤘 - theriffreport.co.uk",
+    "src": "theriffreport.co.uk",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUU9GaU1KMEltdmxuVHBrdTVxeXRvWHRDekJ1dW52ZjctY0l2cjlNNFJuY0VQRTdQTV9SVUhlN0dGQ240MnVDRDdPckhaME9jRzdJdUpyOVdMTVJTX0hYNjktSGdaODBrU09iM1BDaXNXSGhIb2RqV3U4V2dzbE1sY3FySnZQa3MxU1dwZ3R2eG1Gd0tsNXBXei1wSEVlWG5HVTlUTnh6X3F4cktDSEtaTUM1LVpPc2R3RWloaFRzNkxuWnBRVVNHWTQxeFNuZGJPdVRPaGFMT0RvbFZmaERuWGtYakI?oc=5",
+    "timestamp": "2026-07-23T12:15:29+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "🔥 Rammstein Are Preparing for a New Festival Tour in Two Years – The Fire May Rise Again! 🤘 theriffreport.co.uk",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "theriffreport.co.uk",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUU9GaU1KMEltdmxuVHBrdTVxeXRvWHRDekJ1dW52ZjctY0l2cjlNNFJuY0VQRTdQTV9SVUhlN0dGQ240MnVDRDdPckhaME9jRzdJdUpyOVdMTVJTX0hYNjktSGdaODBrU09iM1BDaXNXSGhIb2RqV3U4V2dzbE1sY3FySnZQa3MxU1dwZ3R2eG1Gd0tsNXBXei1wSEVlWG5HVTlUTnh6X3F4cktDSEtaTUM1LVpPc2R3RWloaFRzNkxuWnBRVVNHWTQxeFNuZGJPdVRPaGFMT0RvbFZmaERuWGtYakI?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Mac Sabbath Announce Headlining Fall 2026 US Tour Ahead of Run with GWAR",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/mac-sabbath-headlining-fall-2026-us-tour/",
+    "timestamp": "2026-07-23T17:00:09+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Clownvis, Descartes A Kant, and Alyson Anomaly of Flummox will provide support. Mac Sabbath Announce Headlining Fall 2026 US Tour Ahead of Run with GWAR Langdon Hickman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/mac-sabbath-headlining-fall-2026-us-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Listen to Chad Hugo’s First Solo Single Featuring Tierra Whack and Leikeli47",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/watch-chad-hugo-and-tierra-whack-dance-through-an-apocalyptic-planet/",
+    "timestamp": "2026-07-23T16:42:51+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/watch-chad-hugo-and-tierra-whack-dance-through-an-apocalyptic-planet/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Avalanches and Karen O Share New Single",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/the-avalanches-and-karen-o-share-new-single/",
+    "timestamp": "2026-07-23T16:42:32+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/the-avalanches-and-karen-o-share-new-single/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Conor Oberst Opens Up About Personal Struggles: “I Was Really Close To The Edge”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506114/conor-oberst-opens-up-about-personal-struggles-i-was-really-close-to-the-edge/news/",
+    "timestamp": "2026-07-23T16:31:26+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Back in 2024, Bright Eyes canceled a bunch of tour dates , citing frontman Conor Oberst's vocal issues. At the time, there was plenty of speculation that Oberst was suffering from other problems as well, and he has basically confirmed that speculation. Oberst was having a hard time. These days, Oberst seems like he's d",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506114/conor-oberst-opens-up-about-personal-struggles-i-was-really-close-to-the-edge/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "“Love Actually Live in Concert” Orchestral Tour Announced for 2026",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/love-actually-live-orchestra-2026-tour-dates/",
+    "timestamp": "2026-07-23T16:30:32+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "The concert series will hit 30 cities across the United States this November and December. “Love Actually Live in Concert” Orchestral Tour Announced for 2026 Eddie Fu",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/love-actually-live-orchestra-2026-tour-dates/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Emma Ruth Rundle Announces Fall 2026 US Tour, Unveils Single “Enough”: Stream",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/emma-ruth-rundle-fall-2026-tour-enough/",
+    "timestamp": "2026-07-23T16:30:00+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "The headlining tour is set to follow her outing supporting All Them Witches. Emma Ruth Rundle Announces Fall 2026 US Tour, Unveils Single “Enough”: Stream Langdon Hickman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/emma-ruth-rundle-fall-2026-tour-enough/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘Mina The Hollower’ soundtrack is coming to vinyl for the first time",
+    "src": "NME",
+    "url": "https://www.nme.com/news/gaming-news/mina-the-hollower-soundtrack-vinyl-pre-order-tracklist-3958611?utm_source=rss&utm_medium=rss&utm_campaign=mina-the-hollower-soundtrack-vinyl-pre-order-tracklist",
+    "timestamp": "2026-07-23T16:08:48+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Yacht Club Games’ Jake Kaufman and Yuzo Koshiro composed the chirpy score The post ‘Mina The Hollower’ soundtrack is coming to vinyl for the first time appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/gaming-news/mina-the-hollower-soundtrack-vinyl-pre-order-tracklist-3958611?utm_source=rss&utm_medium=rss&utm_campaign=mina-the-hollower-soundtrack-vinyl-pre-order-tracklist"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Teenage Fanclub Announce New Album Do Not Dare to Dream",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/teenage-fanclub-announce-new-album-do-not-dare-to-dream/",
+    "timestamp": "2026-07-23T16:07:47+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/teenage-fanclub-announce-new-album-do-not-dare-to-dream/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Fugazi’s Brendan Canty Sets Music to Disney World’s Criminal Underground: Interview - Consequence of Sound",
+    "src": "Consequence of Sound",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYktNWXRaT2p1ZzVOZUZlOGlwa2prbmkzR2VDb005dXlPVkZMXzFLOVBwUDd0Unk5MEJYOHZXRmJwNC1zZDltTDc0WFprTk55blpRb2llSlEyQ2hMMy0wZVVKMTBTUUowaVJsOW9welZOa3Jkc2pfSlRHVXdRN1dqcFVqTmlZeWV6VE04RG8wM1p0TTA?oc=5",
+    "timestamp": "2026-07-23T16:07:41+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Fugazi’s Brendan Canty Sets Music to Disney World’s Criminal Underground: Interview Consequence of Sound",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence of Sound",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYktNWXRaT2p1ZzVOZUZlOGlwa2prbmkzR2VDb005dXlPVkZMXzFLOVBwUDd0Unk5MEJYOHZXRmJwNC1zZDltTDc0WFprTk55blpRb2llSlEyQ2hMMy0wZVVKMTBTUUowaVJsOW9welZOa3Jkc2pfSlRHVXdRN1dqcFVqTmlZeWV6VE04RG8wM1p0TTA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "'George Michael: The Faith Tour' coming to theaters later this year - Willmar Radio",
+    "src": "Willmar Radio",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSjVZYTVldnVyODJqT2JhT0JoNFIweGJmUU44UmVlZjVZMFFwRnZqUURyMHA3Z19vX0FMeXAtbVc3X19ZX3R5TVRDRS0yb1BVanZpRFlkeXFlWXBzRWFqR3lNY050NnJaZG85WkxZalVWQk1VYmNrN3pXVE8xSHc3YUlCc3Z2OWdtZHY5VXhYQjNFbS0wcWk0MjhnVzVsa2tyNlZPaHFWS1d2a19fWTRfV3c2Wm9LLVJCNV90TkNsaW0zdi1ucmNZYW1wNDlObXRlUGJldkFRam5TUS1IZDdtdTB6MEFJTUdDZmNGSGY4S2lrS2FrWUJF?oc=5",
+    "timestamp": "2026-07-23T16:00:00+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "'George Michael: The Faith Tour' coming to theaters later this year Willmar Radio",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Willmar Radio",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSjVZYTVldnVyODJqT2JhT0JoNFIweGJmUU44UmVlZjVZMFFwRnZqUURyMHA3Z19vX0FMeXAtbVc3X19ZX3R5TVRDRS0yb1BVanZpRFlkeXFlWXBzRWFqR3lNY050NnJaZG85WkxZalVWQk1VYmNrN3pXVE8xSHc3YUlCc3Z2OWdtZHY5VXhYQjNFbS0wcWk0MjhnVzVsa2tyNlZPaHFWS1d2a19fWTRfV3c2Wm9LLVJCNV90TkNsaW0zdi1ucmNZYW1wNDlObXRlUGJldkFRam5TUS1IZDdtdTB6MEFJTUdDZmNGSGY4S2lrS2FrWUJF?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "RIP Magic – “Light Over There”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506061/rip-magic-light-over-there/music/",
+    "timestamp": "2026-07-23T15:56:19+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "For the past year, RIP Magic — Marco Pini, Felix Bayley-Higgins, Beth Boswell-Knight and Pedro Takahashi — have been routinely dropping singles. It started with \" Loot\" and \"Dox .\" Since then, the London underground electronic pop wizards started to gain traction, which led to supporting major acts like Tame Impala and",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506061/rip-magic-light-over-there/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Nicole Atkins – “Singing In The Mirror”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506110/nicole-atkins-singing-in-the-mirror/music/",
+    "timestamp": "2026-07-23T15:52:19+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "The Nashville-based singer-songwriter Nicole Atkins has been making really good music for a long time. It's the kind of sharp, classicist pop music that's easy to take for granted, but you shouldn't do that. Every time I hear a new Atkins song, I'm surprised at how good it is. At this point, I shouldn't be surprised an",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506110/nicole-atkins-singing-in-the-mirror/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Trailer and one-night-only cinema release date announced for Pulp’s new ‘What Do You Do For An Encore’ film",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/trailer-and-one-night-only-cinema-release-date-announced-for-pulps-new-what-do-you-do-for-an-encore-film-3958643?utm_source=rss&utm_medium=rss&utm_campaign=trailer-and-one-night-only-cinema-release-date-announced-for-pulps-new-what-do-you-do-for-an-encore-film",
+    "timestamp": "2026-07-23T15:51:43+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "“How do you get to a moment like this? That’s a long story,” Jarvis Cocker says in the clip. “I’ll tell you it, if you’ve got the time” The post Trailer and one-night-only cinema release date announced for Pulp’s new ‘What Do You Do For An Encore’ film appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/trailer-and-one-night-only-cinema-release-date-announced-for-pulps-new-what-do-you-do-for-an-encore-film-3958643?utm_source=rss&utm_medium=rss&utm_campaign=trailer-and-one-night-only-cinema-release-date-announced-for-pulps-new-what-do-you-do-for-an-encore-film"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "YG Announces 19-City Fall Tour Supporting ‘The Gentlemen’s Club’ Album - foxy99.com",
+    "src": "foxy99.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUGEzeGptRTlrWW4zUDltaUdvTm94OTZucEF5c3B6VDl6UnVTSDk2S1p1OVdyaklIZ3ZyejgzWldZTHd6VllzSTBGTlJ5a20tVC1QOXk1NUZ4TTdxaTZZSmFuazZqRU1palkzcUt1c2pOVVBoMUpHakhJNVp3S3pINzRMVGtOTWYyc1VLRkZXRV9LV0phWWhyWnhDYXExOVE?oc=5",
+    "timestamp": "2026-07-23T15:49:01+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "YG Announces 19-City Fall Tour Supporting ‘The Gentlemen’s Club’ Album foxy99.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "foxy99.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUGEzeGptRTlrWW4zUDltaUdvTm94OTZucEF5c3B6VDl6UnVTSDk2S1p1OVdyaklIZ3ZyejgzWldZTHd6VllzSTBGTlJ5a20tVC1QOXk1NUZ4TTdxaTZZSmFuazZqRU1palkzcUt1c2pOVVBoMUpHakhJNVp3S3pINzRMVGtOTWYyc1VLRkZXRV9LV0phWWhyWnhDYXExOVE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Fuji Rock 2026 Livestream Schedule and Details",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/fuji-rock-2026-livestream-schedule-and-details/",
+    "timestamp": "2026-07-23T15:42:48+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/fuji-rock-2026-livestream-schedule-and-details/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ghost Unveil Trailer for New Big-Screen Film 2 Big To Rig",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/ghost-film-2-big-to-rig-skeletour/",
+    "timestamp": "2026-07-23T15:40:20+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "The movie hits cinemas and IMAX screens beginning August 26th. Ghost Unveil Trailer for New Big-Screen Film 2 Big To Rig Langdon Hickman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/ghost-film-2-big-to-rig-skeletour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Avalanches – “Blue Shadows” (Feat. Karen O)",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506103/the-avalanches-blue-shadows-feat-karen-o/music/",
+    "timestamp": "2026-07-23T15:33:17+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "The Avalanches have lately been cryptically teasing a new album , and they've also been dropping collaborative singles — first \" Together \" with Nikki Nair, Jessy Lanza, and Prentiss, and then \" Every Single Weekend \" with Jamie xx. Today, they quietly posted a video for another new song, and this one is a team-up with",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506103/the-avalanches-blue-shadows-feat-karen-o/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Listen to an Unvaulted John Prine Song From Archival Album Found Dogs",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/listen-to-an-unvaulted-john-prine-song-from-archival-album-found-dogs/",
+    "timestamp": "2026-07-23T15:25:32+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/listen-to-an-unvaulted-john-prine-song-from-archival-album-found-dogs/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Enguias – “All Forgotten” e “I’m On Standby”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506098/eels-all-forgotten-im-on-standby/music/",
+    "timestamp": "2026-07-23T15:10:03+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Los Angeles fixture Mark Oliver Everett has been making permanently bummed-out orchestral alt-pop for decades. Right now, Everett has a few projects in various stages of completion, including a Judd Apatow-produced documentary and an upcoming album called Cookie Happened . We've already heard lead single \" Cap In Hand,",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506098/eels-all-forgotten-im-on-standby/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "titleOriginal": "Eels – “All Forgotten” & “I’m On Standby”",
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Melaina Kol – “Idola”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506092/melaina-kol-idola/music/",
+    "timestamp": "2026-07-23T15:08:54+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Nashville-based artist Logan Hornyak, who makes tangled glitch-folk music as Melaina Kol, is releasing his new album Okay that’s a great idea because if I do that then , his first for Philly label Julia's War, in a few weeks. Yesterday, he released the new single \"Idola,\" which is another captivating web of sound, both",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506092/melaina-kol-idola/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ineffekt – “OPTION”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506083/ineffekt-option/music/",
+    "timestamp": "2026-07-23T15:08:03+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "dh2 has had a busy run of releases lately. The electronic label, launched by The 1975's George Daniel in 2024, recently welcomed Nikki Nair — whose new EP The Sick Dimension arrives at the beginning of August — and Ineffekt, the project of producer Rick Bouwkamp, to its roster. The post Ineffekt – “OPTION” appeared fir",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506083/ineffekt-option/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Billie Joe Armstrong and Epiphone Unveil Les Paul Junior in Radiant Red",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/billie-joe-armstrong-epiphone-les-paul-junior-radiant-red/",
+    "timestamp": "2026-07-23T15:07:29+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "The instrument keeps it simple with one pickup and two knobs for tone and volume, retailing for $649. Billie Joe Armstrong and Epiphone Unveil Les Paul Junior in Radiant Red Langdon Hickman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/billie-joe-armstrong-epiphone-les-paul-junior-radiant-red/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Desperate Noah Kahan Turns to “Congress” to Make Fans Wear Diapers",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/noah-kahan-fan-diapers-congress/",
+    "timestamp": "2026-07-23T15:01:17+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Following the second in-concert incident involving a fan's bowel movements. Desperate Noah Kahan Turns to “Congress” to Make Fans Wear Diapers Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/noah-kahan-fan-diapers-congress/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Unreleased John Prine Recordings to Be Compiled In New Collection Found Dogs",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/john-prine-found-dogs-2026/",
+    "timestamp": "2026-07-23T15:00:27+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "The collection features outtakes and more from 1995's Lost Dogs & Mixed Blessings. Unreleased John Prine Recordings to Be Compiled In New Collection Found Dogs Chris Coplan",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/john-prine-found-dogs-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Check Out Marimba-Punk Band Son Rompe Pera’s New Album And Catch Them On Their US Tour - Wildfire Music + News",
+    "src": "Wildfire Music + News",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOEtnUDA1MFNXVUVvOG90ODhuYjRONVNqcHlQaGRmVndVXzVfUy1DdjhlZW5jU3VNV3BYMUt5RXFfVXhpSDFpRGwwcGJVamxhaXZEblBUSHEtNEhkd004bGh6UVpPRHJEVjRRVU9nTDM2U254Nlc0Y1RDQ3drSWxjZ3hSbUdrRnR5eWFSMFFJS0RRZDlzYXpoYnJBRGF6OGRVR01vZVMzdnZkSUxndjRlU2JfbXRpT0dGQnl3QWtGdi0?oc=5",
+    "timestamp": "2026-07-23T15:00:00+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Check Out Marimba-Punk Band Son Rompe Pera’s New Album And Catch Them On Their US Tour Wildfire Music + News",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Wildfire Music + News",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOEtnUDA1MFNXVUVvOG90ODhuYjRONVNqcHlQaGRmVndVXzVfUy1DdjhlZW5jU3VNV3BYMUt5RXFfVXhpSDFpRGwwcGJVamxhaXZEblBUSHEtNEhkd004bGh6UVpPRHJEVjRRVU9nTDM2U254Nlc0Y1RDQ3drSWxjZ3hSbUdrRnR5eWFSMFFJS0RRZDlzYXpoYnJBRGF6OGRVR01vZVMzdnZkSUxndjRlU2JfbXRpT0dGQnl3QWtGdi0?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Eau the Music announces new single and debut album release - CW33.com",
+    "src": "CW33.com",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1k3RGlEN19OTW5Ka3J6SmxYVC12MmhRUzFOYWF3cHhrV2VSNWc1Z2c4bW1GcWxGYTI0ZUItb295SlBTUzJvNWNJUzdjTFRGci1CbUR3ekI5alhfbHJiaFJDYWw0V29LSU5YUEZtS3lvZWRmY0JfcHFjWmViVTVjNkhmcGFUTmp50gGOAUFVX3lxTE8yRjVvd0lkcUxGZlBEd1lKRnF6Z25oT0p5ckxLczV4NzVxRnZXYmZ1NTZTbVVYNTFjckxCNlJVQ3htcDZTVWZQQnU4T3lHWjRqVEJtY3poVExoYWkxRlBzQVN2VlBGSXJvaTJsUklwMDA4aVgzSy1NMzAzaFZfVnp3QWo2RmZiR0gzZlhXeGc?oc=5",
+    "timestamp": "2026-07-23T14:53:21+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Eau the Music announces new single and debut album release CW33.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "CW33.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1k3RGlEN19OTW5Ka3J6SmxYVC12MmhRUzFOYWF3cHhrV2VSNWc1Z2c4bW1GcWxGYTI0ZUItb295SlBTUzJvNWNJUzdjTFRGci1CbUR3ekI5alhfbHJiaFJDYWw0V29LSU5YUEZtS3lvZWRmY0JfcHFjWmViVTVjNkhmcGFUTmp50gGOAUFVX3lxTE8yRjVvd0lkcUxGZlBEd1lKRnF6Z25oT0p5ckxLczV4NzVxRnZXYmZ1NTZTbVVYNTFjckxCNlJVQ3htcDZTVWZQQnU4T3lHWjRqVEJtY3poVExoYWkxRlBzQVN2VlBGSXJvaTJsUklwMDA4aVgzSy1NMzAzaFZfVnp3QWo2RmZiR0gzZlhXeGc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Emma Ruth Rundle – “Enough”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506086/emma-ruth-rundle-enough/music/",
+    "timestamp": "2026-07-23T14:43:08+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "There's this series of moments in Emma Ruth Rundle's video for her new song \"Enough\" where she's on a rocky beach at night. (Rundle is based in Portland, which has plenty of rocky beaches, so I don't know why I immediately assumed it was Scotland. It does look like Scotland, though.) Rundle's got a light shining undern",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506086/emma-ruth-rundle-enough/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Marmozets part ways with bassist Sam Macintyre due to “relationship becoming unworkable”",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/marmozets-part-ways-with-bassist-sam-macintyre-due-to-relationship-becoming-unworkable-3958637?utm_source=rss&utm_medium=rss&utm_campaign=marmozets-part-ways-with-bassist-sam-macintyre-due-to-relationship-becoming-unworkable",
+    "timestamp": "2026-07-23T14:40:35+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "“Please be assured that this decision is in the best interests of everyone involved” The post Marmozets part ways with bassist Sam Macintyre due to “relationship becoming unworkable” appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/marmozets-part-ways-with-bassist-sam-macintyre-due-to-relationship-becoming-unworkable-3958637?utm_source=rss&utm_medium=rss&utm_campaign=marmozets-part-ways-with-bassist-sam-macintyre-due-to-relationship-becoming-unworkable"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Lizzy McAlpine Is Lovestruck on Majestic New Song “The light in the painting”: Stream",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/lizzy-mcalpine-the-light-in-the-painting-stream/",
+    "timestamp": "2026-07-23T14:36:18+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Angel, McAlpine's fourth album, arrives on September 18th. Lizzy McAlpine Is Lovestruck on Majestic New Song “The light in the painting”: Stream Paolo Ragusa",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/lizzy-mcalpine-the-light-in-the-painting-stream/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "“Weird Al” Yankovic Turned Down Over $1 Million for Saudi Arabia Comedy Festival",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/weird-al-yankovic-turned-down-saudi-arabia-comedy-festival/",
+    "timestamp": "2026-07-23T14:35:30+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "The parody king explained that at this point in his career, he can reject any offer that makes him feel \"icky.\" “Weird Al” Yankovic Turned Down Over $1 Million for Saudi Arabia Comedy Festival Eddie Fu",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/weird-al-yankovic-turned-down-saudi-arabia-comedy-festival/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Travis Scott Reveals Oasis, Van Halen, and Daft Punk as Influences for New Album",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/travis-scott-new-album-daft-punk-van-halen-oasis/",
+    "timestamp": "2026-07-23T14:30:07+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "The MC really loves \"mega-choruses and hard bass lines.\" Travis Scott Reveals Oasis, Van Halen, and Daft Punk as Influences for New Album Chris Coplan",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/travis-scott-new-album-daft-punk-van-halen-oasis/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Emma Ruth Rundle share \"Enough,\" announces full-band fall tour - BrooklynVegan",
+    "src": "BrooklynVegan",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSVIxMU0yN0FHRExGMUh0NWN1dVV0TU5OZE1UOUR5LVdGc3k4dzJqNlBiMUNubnZ5TUZuR2tpVDZMMmw4MHlkWGdHRm5iN3JuQnBGZ2xsRVp1amlqZUgwZnFDWmhBTlZGQV9MWWxncmN5V0pJV3BNaE9oZGxkSkNfS1pFcjdZOFhfR2pDTXdQT2ZKVDY1?oc=5",
+    "timestamp": "2026-07-23T14:30:06+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Emma Ruth Rundle share \"Enough,\" announces full-band fall tour BrooklynVegan",
+    "category": "general",
+    "sources": [
+      {
+        "name": "BrooklynVegan",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSVIxMU0yN0FHRExGMUh0NWN1dVV0TU5OZE1UOUR5LVdGc3k4dzJqNlBiMUNubnZ5TUZuR2tpVDZMMmw4MHlkWGdHRm5iN3JuQnBGZ2xsRVp1amlqZUgwZnFDWmhBTlZGQV9MWWxncmN5V0pJV3BNaE9oZGxkSkNfS1pFcjdZOFhfR2pDTXdQT2ZKVDY1?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Stef Chura Recruits Peter Buck, Mike Mills for New Album",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/stef-chura-recruits-peter-buck-mike-mills-for-new-album/",
+    "timestamp": "2026-07-23T14:22:47+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/stef-chura-recruits-peter-buck-mike-mills-for-new-album/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Teenage Fanclub Announce New Album Do Not Dare To Dream: Hear “Day In The Sun”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506077/teenage-fanclub-announce-new-album-do-not-dare-to-dream-hear-day-in-the-sun/music/",
+    "timestamp": "2026-07-23T14:16:53+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Once upon a time, SPIN picked Nirvana's Nevermind as the second-best album of 1991. Nevermind was clearly a great and important record, but as far as the SPIN editors were concerned, it couldn't quite compete with Teenage Fanclub's Bandwagonesque . Bandwagonesque was the Scottish power-poppers' third LP, so they were a",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506077/teenage-fanclub-announce-new-album-do-not-dare-to-dream-hear-day-in-the-sun/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "By Congressional Order, Noah Kahan Tells Concertgoers To Wear Diapers",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506045/by-congressional-order-noah-kahan-tells-concertgoers-to-wear-diapers/news/",
+    "timestamp": "2026-07-23T14:07:17+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "I don't know what it is with Noah Kahan, but something about his music and live performances has fans releasing things that are not meant to be released in public. For the past month, concertgoers, on separate occasions, have been shitting and peeing themselves at his shows. Despite this embarrassing, confounding, and ",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506045/by-congressional-order-noah-kahan-tells-concertgoers-to-wear-diapers/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Rockettes Announce 2026 Christmas Spectacular: How to Get Tickets",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/the-rockettes-2026-christmas-spectacular-how-to-get-tickets/",
+    "timestamp": "2026-07-23T14:06:54+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Now featuring a total of 230 performances, plus a brand new dance number. The Rockettes Announce 2026 Christmas Spectacular: How to Get Tickets Paolo Ragusa",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/the-rockettes-2026-christmas-spectacular-how-to-get-tickets/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Rock Music Menu: Metallica closes out M72 tour, preps for Sphere residency - Delco Times",
+    "src": "Delco Times",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2VKZy1GVFpWZF9qMHZxNGh1eU9teDVWa19VcXZod0ZQQklsNjJFQjJaWWZGV0E4UXQyZ3ctTHpucmZUX0YxUmU3NE1jTTJRN2kzNjVlUUczVldVY2VOdmluNThsSEg2cGExQkljNW9MWHhfYVUtMko4cUlmTXB5RUt6c0NqSnRtQ3NoVE9sQnRLNEZsOXpTcjB5dEV0enJuWkFOZ0lmS0VNcXZTemlwdQ?oc=5",
+    "timestamp": "2026-07-23T13:55:56+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Rock Music Menu: Metallica closes out M72 tour, preps for Sphere residency Delco Times",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Delco Times",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2VKZy1GVFpWZF9qMHZxNGh1eU9teDVWa19VcXZod0ZQQklsNjJFQjJaWWZGV0E4UXQyZ3ctTHpucmZUX0YxUmU3NE1jTTJRN2kzNjVlUUczVldVY2VOdmluNThsSEg2cGExQkljNW9MWHhfYVUtMko4cUlmTXB5RUt6c0NqSnRtQ3NoVE9sQnRLNEZsOXpTcjB5dEV0enJuWkFOZ0lmS0VNcXZTemlwdQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Rumor: What Titans Nike Rivalry Jerseys Might Look Like - roundtable.io",
+    "src": "roundtable.io",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdndRdXhOcTMtRHlfcGdGSHR1cTZDdnVBS0tjM2ZwLWRoYVRwa3pXZGFJYU5ZUzAzQUZieEVUbDdoaEVPMFZqOEtleXNjeUkwbENiVktpWUd6UkluV2JTSndYSjlDRnNRZjVIQkxFNkNwczZQbnZrMnB4bER2V2xxQzVJckd6Y3FhWEFGQ1NRVk5yS1ctTWY0dkZYNVU?oc=5",
+    "timestamp": "2026-07-23T13:54:28+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Rumor: What Titans Nike Rivalry Jerseys Might Look Like roundtable.io",
+    "category": "general",
+    "sources": [
+      {
+        "name": "roundtable.io",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdndRdXhOcTMtRHlfcGdGSHR1cTZDdnVBS0tjM2ZwLWRoYVRwa3pXZGFJYU5ZUzAzQUZieEVUbDdoaEVPMFZqOEtleXNjeUkwbENiVktpWUd6UkluV2JTSndYSjlDRnNRZjVIQkxFNkNwczZQbnZrMnB4bER2V2xxQzVJckd6Y3FhWEFGQ1NRVk5yS1ctTWY0dkZYNVU?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Morgan Wallen's 'Still the Problem Tour' Projects $500 Million Gross, Eyes Country Music Record - Country 103.7",
+    "src": "Country 103.7",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZzkwbWYtOWNaWVY0Y2hfZVVVWE91M1ppUEFKQi1QYVVkM2F0dFNDaG5yMnByR2h2WDM1b0laSHlGRkRQc01QZFVhVVFUaGRWTHBid2R5RVJiR1JaaXdkM2dqRWNTeTdtRlBrZjRBR0c0azVudG1DbUtVTjlvQlYzVGppQTlVaUdoMmJLR0VtTWQ3bDFLV1FqRm9BcmFEU0ktVEczNlRlNzNsYVd4Q3AybVFXam9XZFl2WjVXdjI3djJRaHVhOWhz?oc=5",
+    "timestamp": "2026-07-23T12:48:46+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Morgan Wallen's 'Still the Problem Tour' Projects $500 Million Gross, Eyes Country Music Record Country 103.7",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Country 103.7",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZzkwbWYtOWNaWVY0Y2hfZVVVWE91M1ppUEFKQi1QYVVkM2F0dFNDaG5yMnByR2h2WDM1b0laSHlGRkRQc01QZFVhVVFUaGRWTHBid2R5RVJiR1JaaXdkM2dqRWNTeTdtRlBrZjRBR0c0azVudG1DbUtVTjlvQlYzVGppQTlVaUdoMmJLR0VtTWQ3bDFLV1FqRm9BcmFEU0ktVEczNlRlNzNsYVd4Q3AybVFXam9XZFl2WjVXdjI3djJRaHVhOWhz?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Interview & Preview: “Summer Dreams” edition of Northwords and Music - WNMU-FM",
+    "src": "WNMU-FM",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDJYNXdHM2puMDJhS1RNODdQcWhDNEhPLXAwemY0aXgzRTVzT1JOYTVwd3pqc2hFMzM4aUp3M2hEbVBsS2RZbWd1ZTZ4b3BUWmFzV3E3LTBlM1UySUVfU0l6OWgwUU1XZjl5LXJ0NGRrZHh2VmdWQ2o5U0s2cUYybHBNdnJiT1VqZEVBdklsamtyenA3TDBQVWU2Wk5IUThtVzdhMmEtLTVRNFczYnlhMGNhYzh5WGs2bUtYQ3JPcVF6eUgxWVBiTw?oc=5",
+    "timestamp": "2026-07-23T12:33:00+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Interview & Preview: “Summer Dreams” edition of Northwords and Music WNMU-FM",
+    "category": "general",
+    "sources": [
+      {
+        "name": "WNMU-FM",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDJYNXdHM2puMDJhS1RNODdQcWhDNEhPLXAwemY0aXgzRTVzT1JOYTVwd3pqc2hFMzM4aUp3M2hEbVBsS2RZbWd1ZTZ4b3BUWmFzV3E3LTBlM1UySUVfU0l6OWgwUU1XZjl5LXJ0NGRrZHh2VmdWQ2o5U0s2cUYybHBNdnJiT1VqZEVBdklsamtyenA3TDBQVWU2Wk5IUThtVzdhMmEtLTVRNFczYnlhMGNhYzh5WGs2bUtYQ3JPcVF6eUgxWVBiTw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Strokes’ ‘Reality Awaits’: Reality Bites a Little Too Hard - Rolling Stone",
+    "src": "Rolling Stone",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdVNoQU9PaGVoUHhaWG1SYy10alJpWEVwcWJhbUtaa0I2Y1Qta0xXOU9YaEppTUIxRmVZR2FHYURGdTVBZlZzRExpMG1vOEd1a3pTeTdVVGZjU3hwNl9VUkxTRUxLRWhXbkcxTkEwYmI2V0tiSWpmaGIwVHFPeEhuUzd4R1hqUlpMbXVEa3RLdDl2RTIwNml2X2pFekk?oc=5",
+    "timestamp": "2026-07-23T12:00:00+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "The Strokes’ ‘Reality Awaits’: Reality Bites a Little Too Hard Rolling Stone",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Rolling Stone",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdVNoQU9PaGVoUHhaWG1SYy10alJpWEVwcWJhbUtaa0I2Y1Qta0xXOU9YaEppTUIxRmVZR2FHYURGdTVBZlZzRExpMG1vOEd1a3pTeTdVVGZjU3hwNl9VUkxTRUxLRWhXbkcxTkEwYmI2V0tiSWpmaGIwVHFPeEhuUzd4R1hqUlpMbXVEa3RLdDl2RTIwNml2X2pFekk?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Festival de Lavre volta a animar o Alentejo com entrada acessível e três palcos",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/festival-de-lavre-volta-a-animar-o-alentejo-com-entrada-acessivel-e-tres-palcos/",
+    "timestamp": "2026-07-23T17:05:27+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "A vila do Lavre volta receber o festival de Lavre com nomes como Michsyne, Cristóvão Colômbia e Luís Fialho. O Festival de Lavre são três dias de música, tradição e cultura no coração do Alentejo, três dias de celebração intensa, onde a música portuguesa, a gastronomia local e a tradição popular se fundem num ambiente ",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/festival-de-lavre-volta-a-animar-o-alentejo-com-entrada-acessivel-e-tres-palcos/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
     "isBreaking": true,
     "isPT": true,
     "isCore": false,
     "star": true,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Em 2026, o Festival Sinsal SON Estrella Galicia decorre com edição inédita entre a Galiza e Portugal",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/em-2026-o-festival-sinsal-son-estrella-galicia-decorre-com-edicao-inedita-entre-a-galiza-e-portugal/",
+    "timestamp": "2026-07-23T16:40:20+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Festival Sinsal SON Estrella Galicia arranca dia 24 de julho, com uma edição inédita entre a Galiza e Portugal.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/em-2026-o-festival-sinsal-son-estrella-galicia-decorre-com-edicao-inedita-entre-a-galiza-e-portugal/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Em directo da redacção - Luís Represas (1656-2026) deixa legado de cinco décadas à música popular portuguesa - RFI",
+    "src": "RFI",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORUozREMwclFldHF4Ynd2MHpVd1ZBTjlid2hIV25SZV93SEdOYVg2c1BlemNDMGZOamZnRW9MZFVUX1hJaWZuOHhLcFBCOTRYSllCekRHWWVKWmxyNjVONEE4QmxzX3hicWZZQUxVM1pNNFotaXVnRTVZNTJaUmxiSzFhNWNfbklCVE9RRlkzRC1NUTVCNm9Ea1ZaeUptSmlTajN6YnFFTlllcUltSWFvbmFQYmI5VEt0ZFgtMVdUeDhhWUpRZVRKWjZIV2Z1TTc2cWtWeUp5Rzd3UTFXaUlINDNrWTVkUG5fczhGZ3hKbUF2OEV1eVAxckpCVF9VcVJSZ0JfY0dn?oc=5",
+    "timestamp": "2026-07-23T16:20:09+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Em directo da redacção - Luís Represas (1656-2026) deixa legado de cinco décadas à música popular portuguesa RFI",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "RFI",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORUozREMwclFldHF4Ynd2MHpVd1ZBTjlid2hIV25SZV93SEdOYVg2c1BlemNDMGZOamZnRW9MZFVUX1hJaWZuOHhLcFBCOTRYSllCekRHWWVKWmxyNjVONEE4QmxzX3hicWZZQUxVM1pNNFotaXVnRTVZNTJaUmxiSzFhNWNfbklCVE9RRlkzRC1NUTVCNm9Ea1ZaeUptSmlTajN6YnFFTlllcUltSWFvbmFQYmI5VEt0ZFgtMVdUeDhhWUpRZVRKWjZIV2Z1TTc2cWtWeUp5Rzd3UTFXaUlINDNrWTVkUG5fczhGZ3hKbUF2OEV1eVAxckpCVF9VcVJSZ0JfY0dn?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Filme-concerto dos Ghost, “2 BIG TO RIG”, estreia nos cinemas portugueses",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/filme-concerto-dos-ghost-2-big-to-rig-estreia-nos-cinemas-portugueses/",
+    "timestamp": "2026-07-23T15:04:55+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "No final de Agosto chega aos cinemas portugueses o registo definitivo da \"SKELETOUR WORLD TOUR\", a digressão que acompanhou o álbum \"SKELETÁ\", que passou por Portugal.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/filme-concerto-dos-ghost-2-big-to-rig-estreia-nos-cinemas-portugueses/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Sallow Moth",
+    "t": "Hydrophilous Brood Review",
+    "src": "Angry Metal Guy",
+    "date": "23 Jul",
+    "isoDate": "2026-07-23",
+    "timestamp": "2026-07-23T15:44:15+00:00",
+    "url": "https://www.angrymetalguy.com/sallow-moth-hydrophilous-brood-review/",
+    "d": "\"Less than a year after delivering one of my favorite albums of 2025, Sallow Moth flutters in to unload another monstrous helping of progressive death metal. Thematically, Hydrophilous Brood continues exploring the quantum entanglements of the Mossbane Lantern",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "sallow moth|hydrophilous brood review",
+    "kind": "review",
+    "section": "rev"
   },
   {
     "b": "Noumena",
@@ -4435,15 +6231,19 @@
       {
         "name": "Blabbermouth",
         "url": "https://blabbermouth.net/news/70000-tons-of-metal-2027-uli-jon-roth-arch-enemy-and-moonspell-among-first-confirmed-bands-for-worlds-biggest-heavy-metal-cruise"
+      },
+      {
+        "name": "BLABBERMOUTH.NET",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOb2RLTzhhbkpLNHdXalVLZlJzT0NSQ2tOZE1qMHNBVHY3aTI0TWVGYXNxQXhpbVdmcGk5cHJpVndaajFWMnZWTUZHOWN6dnlCQlVEWnhsLUc0dGtDUjFVQWZFUk1HcmVrV2NGLXdYZmJaV3Rfb2lFV0pkR280dHRNT3I3SVRsN0pzRUdpa1ByaDVvMmNJTWVCSWhaUXpHRWhSZWdGX1JWRGhHaE9nN041Y2Z5NjJhUHhCSlZWLWhVMy16YThBYkJrWkEzV2YweFlsZXcwY29kY0lKaXBjRDR4T29LYmp3c0ZVWm0tZWdyVQ?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 1,
+    "sourceCount": 2,
     "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": false,
+    "star": true,
     "kind": "news",
     "section": "pt"
   },
@@ -8313,15 +10113,19 @@
       {
         "name": "UOL",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcHItaDBTTzlVck9Hb1U1cF9lc1N4OXY3TXRidXhyNGdjUW9DQ0FjXzRjZnB5XzdXUDVKbGQtd3BNYTFpNXJNeFVCU09NcFc2emZqbGdBTVlmR0NVZndJNm5nVEJXVl9iY1VuSTBZLTFsMzMweFhKVnUyZDZDVnlyZ2JEQjhSVDlwWmFRZ0tZczZfMUhTS2hOa2xpUEdjV2I5U3NXUmtneHZiVk9DRTV0NDVNWlVhSmtlYWdGalBibmlGTlVwdzB2cC1Fb2JuM3Qtdk1Lcjg4aGpmOWVXZHRkUw?oc=5"
+      },
+      {
+        "name": "BOL",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYVpGdnh6UUI1TTNpc1ZsalB4TDZYVlNTTmVhNEJ4eXE3azI5YWMzN3d4TnVMcDNoWmF1ZDlJOFBYS2E3N1RUalV5cXhxcG5HaHBzdEJEN1F5VkpHRThJMXlHX2k0RlRFT2hCcDVTTFg0MXd0X3lOMmtkOWpmdUZCalRaYmpfaTVTUi1fbHdsZC1NMW9NeW93NmpHSzhvZ1FGQ3VNalYyWmFITWJFcF9GWTc5MlI4U2lu0gG4AUFVX3lxTE9hWkZ2eHpRQjVNM2lzVmxqUHhMNlhWU1NOZWE0Qnh5cTdrMjlhYzM3d3hOdUxwM2haYXVkOUk4UFhLYTc3VFRqVXlxeHFwbkdocHN0QkQ3UXlWSkdFOEkxeUdfaTRGVEVPaEJwNVNMWDQxd3RfeU4ya2Q5amZ1RkJqVFpial9pNVNSLV9sd2xkLU0xb015b3c2akdLOG9nUUZDdU1qVjJaYUhNYkVwX0ZZNzkyUjhTaW4?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 1,
+    "sourceCount": 2,
     "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": false,
+    "star": true,
     "kind": "news",
     "section": "pt"
   },
@@ -9408,6 +11212,81 @@
       {
         "name": "Consequence of Sound",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOWJtV0p6Z0l0Uk9kc1A3RjJwMlk5N3B0NnhqTmlSQ2xheDVqUTlwNUhONE03T1NHZl9ZQkdPSXJEdS1qaVpPMG9fMXVmdC1HOWJhWjNUcGJZbHp3aFg2dlI0UGVoRWd6QkdpLWZtNF96Y2gxWk1RUzVzNkZfeGhwNFVxUVJadw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Quadeca Announces 2026 Tour, Shares New Song \"Hell of a Time\" - Consequence of Sound",
+    "src": "Consequence of Sound",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNzdIRFllV2x2OXJ4QWZRd0h1QnlNU19DT3I3TEFxT1pTdkd1U3Q5Z1QzbDFLWWhiWC1jeE1XQk9teHd0TFhIYWJDM1NCWG5fdDV0Y2F6YzJtU1RXajZJdGxkYXk0eTI2dThfV0tVVGVHajVOX29od0tLZnc3RWpxXzZYdW42Zw?oc=5",
+    "timestamp": "2026-07-22T17:00:02+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Quadeca Announces 2026 Tour, Shares New Song \"Hell of a Time\" Consequence of Sound",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence of Sound",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNzdIRFllV2x2OXJ4QWZRd0h1QnlNU19DT3I3TEFxT1pTdkd1U3Q5Z1QzbDFLWWhiWC1jeE1XQk9teHd0TFhIYWJDM1NCWG5fdDV0Y2F6YzJtU1RXajZJdGxkYXk0eTI2dThfV0tVVGVHajVOX29od0tLZnc3RWpxXzZYdW42Zw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "FORBIDDEN To Release New Studio Album In October; “Psyclops” Music Video Streaming; Tour Dates Revealed - BraveWords",
+    "src": "BraveWords",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVk50MjZObHJDSl9jRmNKU2JLRi0tNlB2S2tfOU5VSVd1SUlfOWdxc1FoNUNnMmFzMnpQNXg2R1hjM1N0dEQtSWYtT284STlkZFhnQ3E4WFdxM2lOY3NBd1BTb1paSTlqakdwSmlmdmdhcmtDTEVnYllyTFMzZXRsVm0zcDRGN3hLV25mOHNTX2tsU3Eyb09IdWhpT1dRa01CejdZWFdFV3p6UV90eFlRX0NMaVI2NHg5eTBsV3laTUt6SWxmM3hF0gHPAUFVX3lxTE1Xc01EUjFQeDJYb0xIdnBCWlJHenJHbDJlUlJfcV9NOURLdTZ5am5sa04yaENWN25zOHpnZVJ6b294cmlELS0wdzNWd3FpMzk1QXd3aHdXVFFZRGEyZ0FGV2stT25hRVgwRExTd1Ewdlo1b1VPOTgzM01DV1lZNmJ4MkYwRjk3RU52UV9pbmVuRGFIMURPZjJtUU5saGxiTTFha25QRExBZDB5LXVEbDZiTjNHdWEtQnBmRlE0cFVKUnNhSnB4a3hkQTFfcGx2bw?oc=5",
+    "timestamp": "2026-07-22T15:39:41+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "FORBIDDEN To Release New Studio Album In October; “Psyclops” Music Video Streaming; Tour Dates Revealed BraveWords",
+    "category": "general",
+    "sources": [
+      {
+        "name": "BraveWords",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVk50MjZObHJDSl9jRmNKU2JLRi0tNlB2S2tfOU5VSVd1SUlfOWdxc1FoNUNnMmFzMnpQNXg2R1hjM1N0dEQtSWYtT284STlkZFhnQ3E4WFdxM2lOY3NBd1BTb1paSTlqakdwSmlmdmdhcmtDTEVnYllyTFMzZXRsVm0zcDRGN3hLV25mOHNTX2tsU3Eyb09IdWhpT1dRa01CejdZWFdFV3p6UV90eFlRX0NMaVI2NHg5eTBsV3laTUt6SWxmM3hF0gHPAUFVX3lxTE1Xc01EUjFQeDJYb0xIdnBCWlJHenJHbDJlUlJfcV9NOURLdTZ5am5sa04yaENWN25zOHpnZVJ6b294cmlELS0wdzNWd3FpMzk1QXd3aHdXVFFZRGEyZ0FGV2stT25hRVgwRExTd1Ewdlo1b1VPOTgzM01DV1lZNmJ4MkYwRjk3RU52UV9pbmVuRGFIMURPZjJtUU5saGxiTTFha25QRExBZDB5LXVEbDZiTjNHdWEtQnBmRlE0cFVKUnNhSnB4a3hkQTFfcGx2bw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "50 Cent Roasts Rick Ross Over Reported 2k Album Sales! - mediatakeout.com",
+    "src": "mediatakeout.com",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV0tUN3dGMkpGU3BRaGxmNnFNc2hlSUJ2Um5raFhfc0l3WDZROThSM3JvQmdrRGpxV1ZNWE9qMGVka0dOOXNrRmZPN2w0cFVKVEFveUM2VXZQVW42YWx1MW1JeHJjS1NrNXdlMU4xU01qS18xeEdOV3YyeHN0TF9JNk92M2E5UdIBiwFBVV95cUxNcEpEcHMxLW0tcWcwSlV4Q0hmdzQxNmtxMnByUUJaTGQtaGdVWFo1dTRjVDJ0V2thOWZEdm1GejhTQVVlMFFzbFQ2WFBseWU1dlJEOUVmQzB2bERHNlhiZTJMdEU5b3M4c2xTMmRLclNZci12TUJZUGZISmozb3Myd2xRdTB6NXZKU2NJ?oc=5",
+    "timestamp": "2026-07-22T12:30:52+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "50 Cent Roasts Rick Ross Over Reported 2k Album Sales! mediatakeout.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "mediatakeout.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV0tUN3dGMkpGU3BRaGxmNnFNc2hlSUJ2Um5raFhfc0l3WDZROThSM3JvQmdrRGpxV1ZNWE9qMGVka0dOOXNrRmZPN2w0cFVKVEFveUM2VXZQVW42YWx1MW1JeHJjS1NrNXdlMU4xU01qS18xeEdOV3YyeHN0TF9JNk92M2E5UdIBiwFBVV95cUxNcEpEcHMxLW0tcWcwSlV4Q0hmdzQxNmtxMnByUUJaTGQtaGdVWFo1dTRjVDJ0V2thOWZEdm1GejhTQVVlMFFzbFQ2WFBseWU1dlJEOUVmQzB2bERHNlhiZTJMdEU5b3M4c2xTMmRLclNZci12TUJZUGZISmozb3Myd2xRdTB6NXZKU2NJ?oc=5"
       }
     ],
     "status": "official",
@@ -16092,10 +17971,6 @@
       {
         "name": "MSN",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUhxX3FsZU5IcklEand1V3E2SUc3TGdYcmtvZVZOQjVpMUhQUU5vVzFEbEVEb2pkcXZFQkZiaVRyMEJOaTMwcnpiNzd1TWlMMVVLTEt6SHlnSjlHYVFjZ05GWWJUSDVjaGZDQXBSZTdVSmZJUEllaTRZME0tQlA4ZGpDZm9reGtBcUMxMXpKM1ZzR21DRE12QkNmTlN2VWdtcGZuU2pwZU5OLVphV1RwRkNXNUNkWW5uWkdkNkRjZDh3Zw?oc=5"
-      },
-      {
-        "name": "MSN",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU0pzQklQQW9McHprUHdvRElEanBDdzBncGVWaDdvc25aYTJrOFh5X3pQNzRPSXROa3dOVjc5Nk9yR1JGN0N0cW1EVWU1Z2s2VmFpamd5cXlRaFBLVmNjZ1kteTRJLXFQQmo4SDBTZlAxUlV0RGhJT0ppZkZ4dDhkQzlXdWhJWE9Ea1BuMlJBZHVzWmFsN25XYnhvUWxtaEcweEhCWkRCd3lMOFZuY1lz?oc=5"
       }
     ],
     "status": "official",
@@ -16207,6 +18082,56 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Album Review: Motionless in White – Decades - Metal Planet Music",
+    "src": "Metal Planet Music",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUVh6V0NBZ3Q4ZE15NUtSYVUyLVNfRFFrWlJLWGNxc2xFdS1ocEIzSzBTakR5ZUo1QnRSVjlzNXRwQ242RTJYRWhwcV9WS015eGZXMmRUVWFPQXZUZF9rM0E5Q3MyNHFVbUJ4SjJIZ2ZPY19UY3FETmkyYVZ4UHFxU3VORXE?oc=5",
+    "timestamp": "2026-07-20T07:40:13+00:00",
+    "isoDate": "2026-07-20",
+    "date": "20 Jul",
+    "d": "Album Review: Motionless in White – Decades Metal Planet Music",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Planet Music",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUVh6V0NBZ3Q4ZE15NUtSYVUyLVNfRFFrWlJLWGNxc2xFdS1ocEIzSzBTakR5ZUo1QnRSVjlzNXRwQ242RTJYRWhwcV9WS015eGZXMmRUVWFPQXZUZF9rM0E5Q3MyNHFVbUJ4SjJIZ2ZPY19UY3FETmkyYVZ4UHFxU3VORXE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Queen | We Will Rock You, Movie, Freddie Mercury, Songs, Band Members, Albums, & Facts - Encyclopedia Britannica",
+    "src": "Encyclopedia Britannica",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mLUgwS3dEc0hCUFlOTVV5aGoxaHBGczFhQTV5TDVnS2llWDJtRUsySF92cnVhYXpNbXBWeDBBaDZIRVpDMHV0T2JnSVVWQ050bDQ1NGZYdGdkUnF3c1Y2bmEwLS1OeFd5?oc=5",
+    "timestamp": "2026-07-20T05:00:00+00:00",
+    "isoDate": "2026-07-20",
+    "date": "20 Jul",
+    "d": "Queen | We Will Rock You, Movie, Freddie Mercury, Songs, Band Members, Albums, & Facts Encyclopedia Britannica",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Encyclopedia Britannica",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mLUgwS3dEc0hCUFlOTVV5aGoxaHBGczFhQTV5TDVnS2llWDJtRUsySF92cnVhYXpNbXBWeDBBaDZIRVpDMHV0T2JnSVVWQ050bDQ1NGZYdGdkUnF3c1Y2bmEwLS1OeFd5?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
   },
   {
     "b": "PlasticSkin",
