@@ -21,7 +21,7 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 2,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
     "star": true,
@@ -489,10 +489,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -514,10 +514,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -764,10 +764,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -789,10 +789,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -814,10 +814,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -980,6 +980,282 @@
     "releaseKey": "pitchfork|the friendliest fight we know",
     "kind": "review",
     "section": "rev"
+  },
+  {
+    "title": "Cenógrafo de ‘Marvelous Mrs. Maisel’ esfaqueado mortalmente",
+    "src": "NME",
+    "url": "https://www.nme.com/news/tv/marvelous-mrs-maisel-set-designer-fatally-stabbed-3958776?utm_source=rss&utm_medium=rss&utm_campaign=marvelous-mrs-maisel-set-designer-fatally-stabbed",
+    "timestamp": "2026-07-24T10:48:39+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Mary Kate Golding was found in her apartment by police on Tuesday (July 21) The post ‘Marvelous Mrs. Maisel’ set designer fatally stabbed appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/tv/marvelous-mrs-maisel-set-designer-fatally-stabbed-3958776?utm_source=rss&utm_medium=rss&utm_campaign=marvelous-mrs-maisel-set-designer-fatally-stabbed"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "titleOriginal": "‘Marvelous Mrs. Maisel’ set designer fatally stabbed",
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Teddy Swims announces massive 2027 UK and Europe arena tour",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/teddy-swims-announces-massive-2027-uk-and-europe-arena-tour-3958792?utm_source=rss&utm_medium=rss&utm_campaign=teddy-swims-announces-massive-2027-uk-and-europe-arena-tour",
+    "timestamp": "2026-07-24T10:45:34+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "The ‘Ugly Tour’ concludes with a show at The O2 in London next spring The post Teddy Swims announces massive 2027 UK and Europe arena tour appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/teddy-swims-announces-massive-2027-uk-and-europe-arena-tour-3958792?utm_source=rss&utm_medium=rss&utm_campaign=teddy-swims-announces-massive-2027-uk-and-europe-arena-tour"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "KoRn’s Jonathan Davis married Brittany Parisi on same day as Taylor Swift and Travis Kelce wed",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/korns-jonathan-davis-married-brittany-parisi-on-same-day-as-taylor-swift-and-travis-kelce-wed-3958777?utm_source=rss&utm_medium=rss&utm_campaign=korns-jonathan-davis-married-brittany-parisi-on-same-day-as-taylor-swift-and-travis-kelce-wed",
+    "timestamp": "2026-07-24T10:08:16+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "“Here is to the rest of our lives. I’m so lucky to have you” The post KoRn’s Jonathan Davis married Brittany Parisi on same day as Taylor Swift and Travis Kelce wed appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/korns-jonathan-davis-married-brittany-parisi-on-same-day-as-taylor-swift-and-travis-kelce-wed-3958777?utm_source=rss&utm_medium=rss&utm_campaign=korns-jonathan-davis-married-brittany-parisi-on-same-day-as-taylor-swift-and-travis-kelce-wed"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Check out Johnny Marr’s majestic new song ‘Ophelia’",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/check-out-johnny-marrs-majestic-new-song-ophelia-3958768?utm_source=rss&utm_medium=rss&utm_campaign=check-out-johnny-marrs-majestic-new-song-ophelia",
+    "timestamp": "2026-07-24T10:02:29+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "His next solo album, 'The Age Of Everything', arrives this autumn The post Check out Johnny Marr’s majestic new song ‘Ophelia’ appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/check-out-johnny-marrs-majestic-new-song-ophelia-3958768?utm_source=rss&utm_medium=rss&utm_campaign=check-out-johnny-marrs-majestic-new-song-ophelia"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Bright Eyes’ Conor Oberst opens up about being “really close to the edge” with personal struggles and finding it “almost impossible” to write about Trump era",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/bright-eyes-conor-oberst-opens-up-about-being-really-close-to-the-edge-with-personal-struggles-and-finding-it-almost-impossible-to-write-about-trump-era-3958732?utm_source=rss&utm_medium=rss&utm_campaign=bright-eyes-conor-oberst-opens-up-about-being-really-close-to-the-edge-with-personal-struggles-and-finding-it-almost-impossible-to-write-about-trump-era",
+    "timestamp": "2026-07-24T09:41:27+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "\"You can't satirise what is already like a parody, and a disgusting, gross cartoon\" The post Bright Eyes’ Conor Oberst opens up about being “really close to the edge” with personal struggles and finding it “almost impossible” to write about Trump era appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/bright-eyes-conor-oberst-opens-up-about-being-really-close-to-the-edge-with-personal-struggles-and-finding-it-almost-impossible-to-write-about-trump-era-3958732?utm_source=rss&utm_medium=rss&utm_campaign=bright-eyes-conor-oberst-opens-up-about-being-really-close-to-the-edge-with-personal-struggles-and-finding-it-almost-impossible-to-write-about-trump-era"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kevin Morby and Waxahatchee welcome newborn baby",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/kevin-morby-and-waxahatchee-welcome-newborn-baby-3958757?utm_source=rss&utm_medium=rss&utm_campaign=kevin-morby-and-waxahatchee-welcome-newborn-baby",
+    "timestamp": "2026-07-24T09:32:38+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "“I returned from my European tour just in time for our little beautiful baby to kick the door in two weeks ahead of schedule,” Morby said The post Kevin Morby and Waxahatchee welcome newborn baby appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/kevin-morby-and-waxahatchee-welcome-newborn-baby-3958757?utm_source=rss&utm_medium=rss&utm_campaign=kevin-morby-and-waxahatchee-welcome-newborn-baby"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Tyla – ‘A*Pop’ review: safe, polished pop that could’ve gone further",
+    "src": "NME",
+    "url": "https://www.nme.com/reviews/album/tyla-apop-review-3958756?utm_source=rss&utm_medium=rss&utm_campaign=tyla-apop-review",
+    "timestamp": "2026-07-24T09:30:28+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "The breakout South African artist’s second album is packed with irresistible singles and effortless charm, but it falls short of the bold promise of its rollout The post Tyla – ‘A*Pop’ review: safe, polished pop that could’ve gone further appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/reviews/album/tyla-apop-review-3958756?utm_source=rss&utm_medium=rss&utm_campaign=tyla-apop-review"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Tom Holland confirms next film after ‘The Odyssey’ is Fred Astaire biopic in which he’ll do all dancing himself",
+    "src": "NME",
+    "url": "https://www.nme.com/news/film/tom-holland-confirms-next-film-after-the-odyssey-is-fred-astaire-biopic-in-which-hell-do-all-dancing-himself-3958742?utm_source=rss&utm_medium=rss&utm_campaign=tom-holland-confirms-next-film-after-the-odyssey-is-fred-astaire-biopic-in-which-hell-do-all-dancing-himself",
+    "timestamp": "2026-07-24T09:09:59+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "\"I’ve got so much work to do to try and do Fred proud\" The post Tom Holland confirms next film after ‘The Odyssey’ is Fred Astaire biopic in which he’ll do all dancing himself appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/film/tom-holland-confirms-next-film-after-the-odyssey-is-fred-astaire-biopic-in-which-hell-do-all-dancing-himself-3958742?utm_source=rss&utm_medium=rss&utm_campaign=tom-holland-confirms-next-film-after-the-odyssey-is-fred-astaire-biopic-in-which-hell-do-all-dancing-himself"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Strokes – ‘Reality Awaits’ review: on playful, powerful form",
+    "src": "NME",
+    "url": "https://www.nme.com/reviews/album/the-strokes-reality-awaits-review-3958741?utm_source=rss&utm_medium=rss&utm_campaign=the-strokes-reality-awaits-review",
+    "timestamp": "2026-07-24T09:00:17+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "The New Yorkers’ first album in six years takes them even further away from where they started out. That, as this weird and wonderful collection proves, is no bad thing at all The post The Strokes – ‘Reality Awaits’ review: on playful, powerful form appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/reviews/album/the-strokes-reality-awaits-review-3958741?utm_source=rss&utm_medium=rss&utm_campaign=the-strokes-reality-awaits-review"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Noah Kahan calls on Congress to force his fans to wear diapers to gigs to stop them pissing and shitting everywhere",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/noah-kahan-calls-on-congress-to-force-his-fans-to-wear-diapers-to-gigs-to-stop-them-pissing-and-shitting-everywhere-3958735?utm_source=rss&utm_medium=rss&utm_campaign=noah-kahan-calls-on-congress-to-force-his-fans-to-wear-diapers-to-gigs-to-stop-them-pissing-and-shitting-everywhere",
+    "timestamp": "2026-07-24T08:38:51+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "“You heard Congress, fucking put some diapers on next time, y’all” The post Noah Kahan calls on Congress to force his fans to wear diapers to gigs to stop them pissing and shitting everywhere appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/noah-kahan-calls-on-congress-to-force-his-fans-to-wear-diapers-to-gigs-to-stop-them-pissing-and-shitting-everywhere-3958735?utm_source=rss&utm_medium=rss&utm_campaign=noah-kahan-calls-on-congress-to-force-his-fans-to-wear-diapers-to-gigs-to-stop-them-pissing-and-shitting-everywhere"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Suncoast Post Interview with Karen Klarich Lally of The Karen & Jimmy Band - The Suncoast Post",
+    "src": "The Suncoast Post",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbVZkTXo5RXY4SHVRSHlsWU5kLWZyTlFmUHZPTUVHV0FtQmlDalBIcjZLYXAyclZybERrUnFGeWxJbGJOOGVpemdONVptbmFESDhzUkRnUGJtcXhhSUNtcTFBRmZCVlAxVndjOU9xYVpYWlRWYkJJN2hjaFBKdUFBY2xJdnc1TmM4aFhYdWMwUGEwSV8wS2V3UmNmLTZWUFVIRkNFR2hLVjhEWnV0?oc=5",
+    "timestamp": "2026-07-24T05:00:00+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Suncoast Post Interview with Karen Klarich Lally of The Karen & Jimmy Band The Suncoast Post",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Suncoast Post",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbVZkTXo5RXY4SHVRSHlsWU5kLWZyTlFmUHZPTUVHV0FtQmlDalBIcjZLYXAyclZybERrUnFGeWxJbGJOOGVpemdONVptbmFESDhzUkRnUGJtcXhhSUNtcTFBRmZCVlAxVndjOU9xYVpYWlRWYkJJN2hjaFBKdUFBY2xJdnc1TmM4aFhYdWMwUGEwSV8wS2V3UmNmLTZWUFVIRkNFR2hLVjhEWnV0?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
   },
   {
     "title": "Rock Kids Drive Legendary Bands' Korean Tours This Summer - 조선일보",
@@ -5857,10 +6133,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQanRTdXh5Q1FhRTNzV2t6SzF1UkxnOGdId0VPTjdmZEtndG1xc1otV2IwQ1VoRDN5TzV3ZFlVNUNYSWZEOFhlRWJsazRWaEgzT2ZkdXZzWVlYMDZaMk9ybXJSVXQ2SWtBNFg5ZlJLSGxBUElhczVlRllfdHNDOUVUbjVJd2I0ZWloTGtVVEV1WXl5Uk5LUkRpTWZjM0NwU3hCRllvRkp2eVdDOWx2UlhrVDRrOG5zRXQzR0l0M1Y4emIxMUt2aHd5UFpDR050Y3BOLV9MVWxqeW5pdkF6RW5BTjlsY3NyVG8?oc=5"
       },
       {
-        "name": "El Paso Times",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdTFBWVdBMzUzYjhnbkJYNE1GdFRtYll5RWxTTkhVWGlfcnRlZGRoc3hkR1pzaGFubGpYSUZTZ0tTdEZmMS00eXQ0ZGpKRi1jSTV1MmhZODZieUt3TG9tcHhqaHRNM2VMS1NzVkRVM3BXME9mYVNqZVNYRDNZcWUxallaQmd6b2l1cXF3M0h5OGtGeTBxNXVtQXVaTWpWSWhzRXRfUFFXbDRTNGQ3bjVpMm1xaTdobnZhdUxwQlJkMVlHLTZGRnlRQ01hejh6d2g1ajZ6X2FvUkp1cWprYV83dlRoSTUtVlVX?oc=5"
-      },
-      {
         "name": "The Desert Sun",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRnZwck9FMDJ5QnpvWldpcURXd0hkM3Z1UTQ1d0tLWXpNREhMTFh1YzN1UzQzNnE0VmpGZ0JHQTRuZkxGVXBpRHNFUV9lTkVicXB2TXNKWVpPMkJBamhzZERvSG00MVpyMFFQekVTNFJNbi1TVFVGQk1ra21xdzdjR09oNTZmWmFJMy11Q21tbENfY2tfbG4ydDliOWRTbGJKN0lLa0hyZ1ZHVFQzNDlNXy1waHozWEpxM2FBREVfQ2RsU2pOYk5CYjVSNzgwQUJlaDhhYkJWeDQteW1CSUVhaTRCWEFuQQ?oc=5"
       },
@@ -5879,7 +6151,7 @@
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 6,
+    "sourceCount": 5,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
@@ -6700,6 +6972,31 @@
       {
         "name": "newsroom.churchofjesuschrist.org",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR3c2T2xfNFZNaThsLTY2LV85SWJBVVlVZ2FULWU0MTNiaVQtdGNmcmFQdElFbFdKbkdnTGxxYjg4WmtJYUUtLTR5SDZ3Rm9LUTQ1N3pQelpGTFZqTEFhb1pwM05tSE1mY2FsaVJiSHRrWGY3R2FDbGpneXlEcFdsNXFjSFoxYV9zYlpyNUp5ZHYyak8waU5xbUQ2ek96Ym8?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Beach Boys Postpone Summer Tour Dates as Mike Love Says Band Is ‘Taking a Short Break to Recharge’ - People.com",
+    "src": "People.com",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VeWhCZmhRWDQzNzAxOExPU0pKenphNXNIbWozM0ZjSDZfTmlIRzlpTWlETmh2V1ZtUzhRajFyVEYtc1JjNk5nUXZwUkdwM0VPY1hkTzdYc2xkeWZ6cXZQSHAtVklXS2xLUlgydFpVWm9YcVB0RzZiag?oc=5",
+    "timestamp": "2026-07-23T15:37:16+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "The Beach Boys Postpone Summer Tour Dates as Mike Love Says Band Is ‘Taking a Short Break to Recharge’ People.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "People.com",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VeWhCZmhRWDQzNzAxOExPU0pKenphNXNIbWozM0ZjSDZfTmlIRzlpTWlETmh2V1ZtUzhRajFyVEYtc1JjNk5nUXZwUkdwM0VPY1hkTzdYc2xkeWZ6cXZQSHAtVklXS2xLUlgydFpVWm9YcVB0RzZiag?oc=5"
       }
     ],
     "status": "official",
@@ -14327,6 +14624,31 @@
     "section": "buzz"
   },
   {
+    "title": "Album Review: 4EPs - Muzic.NZ",
+    "src": "Muzic.NZ",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00OHlZdDJ5QXZDRVZDbXR4VmJaZmt4bzlvSlU0TWR6eHNNbDVyQzBwWEtaSW83OThnTE9OYWhIOU9TeFhpd09nX3ZEa25tOFdqV1F1WVlXc3BaWDA?oc=5",
+    "timestamp": "2026-07-22T02:39:03+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Album Review: 4EPs Muzic.NZ",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Muzic.NZ",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00OHlZdDJ5QXZDRVZDbXR4VmJaZmt4bzlvSlU0TWR6eHNNbDVyQzBwWEtaSW83OThnTE9OYWhIOU9TeFhpd09nX3ZEa25tOFdqV1F1WVlXc3BaWDA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
     "b": "UNIDARK",
     "t": "The Filth Testament – Blackdeathgrin Metal Ascends",
     "g": "core",
@@ -21130,6 +21452,56 @@
     "star": false,
     "kind": "news",
     "section": "news"
+  },
+  {
+    "title": "Warped Tour D.C.: Jimmy Eat World, Rise Against, Sleeping With Sirens - TicketNews",
+    "src": "TicketNews",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSTcwazI2U2thX2t6bk91U3Bld0NzOGNnZWhFWHJJSmxyY2N3aHZYOFpWSW1BRHA1dHpGb0xJY2pUczNPbWh1VlpkVjZtM292eVpSOTlGdDhsZ2pnQXJSQ3AtODFkUkdXOGNfcVc4ZE5JWW5BRS1lMEkxM0hRNmNtUWNIdWtEa29ibm9EbXQzV2hYbFJlYlJBNVZCRjVjY1VrXzU4?oc=5",
+    "timestamp": "2026-07-20T17:53:45+00:00",
+    "isoDate": "2026-07-20",
+    "date": "20 Jul",
+    "d": "Warped Tour D.C.: Jimmy Eat World, Rise Against, Sleeping With Sirens TicketNews",
+    "category": "core",
+    "sources": [
+      {
+        "name": "TicketNews",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSTcwazI2U2thX2t6bk91U3Bld0NzOGNnZWhFWHJJSmxyY2N3aHZYOFpWSW1BRHA1dHpGb0xJY2pUczNPbWh1VlpkVjZtM292eVpSOTlGdDhsZ2pnQXJSQ3AtODFkUkdXOGNfcVc4ZE5JWW5BRS1lMEkxM0hRNmNtUWNIdWtEa29ibm9EbXQzV2hYbFJlYlJBNVZCRjVjY1VrXzU4?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Undying passion: How NEUROSIS returned to the world with burning ambition - Revolver Magazine",
+    "src": "Revolver Magazine",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdW1KWEJFeFhVa05HRmdyY3JFZ2FKMHpBeWk0WFRhNjlKZGlFcVhVU3Y2SkdMaXJMTHRFd0VYeHVYZnp6M1hsWC1WdGFQMWlkNGo0WlQ3dVU4ZnQ3c21hcVdvaThrSFZaS0ZFdXdzSnBzU1d3X2VsdXctNU1fUXBOWlU3RWI0S1FEN0N4RkQxaGpSaWsxYzZmTkJHelRjWTlCMk1sNmJ1WkVqX2NPRFE?oc=5",
+    "timestamp": "2026-07-20T14:52:02+00:00",
+    "isoDate": "2026-07-20",
+    "date": "20 Jul",
+    "d": "Undying passion: How NEUROSIS returned to the world with burning ambition Revolver Magazine",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Revolver Magazine",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdW1KWEJFeFhVa05HRmdyY3JFZ2FKMHpBeWk0WFRhNjlKZGlFcVhVU3Y2SkdMaXJMTHRFd0VYeHVYZnp6M1hsWC1WdGFQMWlkNGo0WlQ3dVU4ZnQ3c21hcVdvaThrSFZaS0ZFdXdzSnBzU1d3X2VsdXctNU1fUXBOWlU3RWI0S1FEN0N4RkQxaGpSaWsxYzZmTkJHelRjWTlCMk1sNmJ1WkVqX2NPRFE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
   },
   {
     "b": "PlasticSkin",
