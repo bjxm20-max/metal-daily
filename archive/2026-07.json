@@ -264,10 +264,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -289,10 +289,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -314,10 +314,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -339,10 +339,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -364,10 +364,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -389,10 +389,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -414,10 +414,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -439,10 +439,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -464,10 +464,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -639,10 +639,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -664,10 +664,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -689,10 +689,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -700,7 +700,7 @@
     "title": "Mayday Parade’s Jeremy Lenzo On ‘Sugar’ And 20 Years As A Band – Interview - PopHorror",
     "src": "PopHorror",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeUxKd3V2MnZkNjFYeWxCeDRhdldCZjlTOUlPSEt3WFoyWWgyZjc2bnZoQUxEeWlwTUdHemZrMzE2aVdhQ09idmxWamQtS0lQU19Dc2MyZ2pNSXdua29yS21ueU1PMEl2eVZ1MUZXOHpnclRNcUpnS0M2TTdzQnJFcGVnMnJPSjZicjExTWR2bkdaX21sSmpB?oc=5",
-    "timestamp": "2026-07-24T03:41:53+00:00",
+    "timestamp": "2026-07-24T03:07:03+00:00",
     "isoDate": "2026-07-24",
     "date": "24 Jul",
     "d": "Mayday Parade’s Jeremy Lenzo On ‘Sugar’ And 20 Years As A Band – Interview PopHorror",
@@ -714,10 +714,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -739,10 +739,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1250,12 +1250,875 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "b": "Burak Karakurt",
+    "t": "KARAKURTIZMA",
+    "g": "indie",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "24 Jul",
+    "isoDate": "2026-07-24",
+    "url": "https://musicbrainz.org/release-group/d9d7c9e0-f194-4b12-bfe0-dfdab3921b96",
+    "d": "turkish, singer-songwriter, indie pop, alternative pop, turkey",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/d9d7c9e0-f194-4b12-bfe0-dfdab3921b96"
+      }
+    ],
+    "mbid": "d9d7c9e0-f194-4b12-bfe0-dfdab3921b96",
+    "star": false,
+    "kind": "release",
+    "section": "main"
+  },
+  {
+    "title": "DAN DONEGAN, guitarrista do DISTURBED, vende casa em Illinois por US$ 1,575 milhão",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/disturbed-guitarist-dan-donegan-sells-illinois-home-for-1-575-million",
+    "timestamp": "2026-07-24T13:18:08+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "DISTURBED guitarist Dan Donegan sold his home in Orland Park, Illinois on July 21 for $1.575 million. According to public records, the 57-year-old musician bought the 7,000-square-foot house in March 2023 for $1.3 million. On March 28, Dan shared a few photos of the house and he included the followi...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/disturbed-guitarist-dan-donegan-sells-illinois-home-for-1-575-million"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "titleOriginal": "DISTURBED Guitarist DAN DONEGAN Sells Illinois Home For $1.575 Million",
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "ESCUTE: AVENGED SEVENFOLD Surprise Release Trippy, EP futurista 'Statica'",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/listen-avenged-sevenfold-surprise-release-trippy-futuristic-ep-statica",
+    "timestamp": "2026-07-24T13:05:38+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "It sounds very 'My Beautiful Dark Twisted Fantasy.' The post LISTEN: AVENGED SEVENFOLD Surprise Release Trippy, Futuristic EP 'Statica' appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/listen-avenged-sevenfold-surprise-release-trippy-futuristic-ep-statica"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "titleOriginal": "LISTEN: AVENGED SEVENFOLD Surprise Release Trippy, Futuristic EP 'Statica'",
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Ministry Announce Final Album (Again) + 2027 Farewell Tour Dates",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/ministry-hate-to-go-album-farerwell-tour/",
+    "timestamp": "2026-07-24T13:04:27+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "For the third time, Ministry will release their final album. The industrial legends will start their farewell tour next year. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/ministry-hate-to-go-album-farerwell-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "MINISTRY Announces 'Final' Album 'Hate To Go (Take Out Or Delivery)', Shares 'Burned Out' Single",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/ministry-announces-final-album-hate-to-go-take-out-or-delivery-shares-burned-out-single",
+    "timestamp": "2026-07-24T13:04:09+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Done. Sayonara. Finito. However you want to say it, MINISTRY is coming to an end. But before bidding adieu, creator and music madman Al Jourgensen has a few final things to say about the state of the world, those in charge and how we should all collectively move forward. He gets it all off his chest...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/ministry-announces-final-album-hate-to-go-take-out-or-delivery-shares-burned-out-single"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "BEARTOOTH Shares New Single 'Eyes Closed' From Upcoming 'Pure Ecstasy' Album",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/beartooth-shares-new-single-eyes-closed-from-upcoming-pure-ecstasy-album",
+    "timestamp": "2026-07-24T12:38:01+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "BEARTOOTH will release its new album, \"Pure Ecstasy\", on August 28 via Fearless Records. Written, recorded, and largely produced by BEARTOOTH frontman Caleb Shomo, the LP finds the band pushing its sound further than ever before. While Shomo remains BEARTOOTH's singular creative force, the album als...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/beartooth-shares-new-single-eyes-closed-from-upcoming-pure-ecstasy-album"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "14 New Rock + Metal Tours Announced This Past Week",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/new-rock-metal-tours-announced-july-17-23-2026/",
+    "timestamp": "2026-07-24T12:21:16+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Every Friday, we've got your weekly roundup of all the latest rock and metal tour announcements. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/new-rock-metal-tours-announced-july-17-23-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "14 New Rock + Metal Tours Announced This Past Week (July 17-23, 2026) - Loudwire",
+    "src": "Loudwire",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85RXo2VkJZS1Y1SWQ2emViaEV1VHhXWndVWHBoc29tWVFPbmExVmVLVWFMdzVpWW9XNjltSGpnLWxMdUdWQ0tGTWpKZW92NUxEdTFjU1VNdnBjMUgxOWNLWEN3Z0l5Z3RtcndCdUxLeVN5TEZyTDJB?oc=5",
+    "timestamp": "2026-07-24T12:21:16+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "14 New Rock + Metal Tours Announced This Past Week (July 17-23, 2026) Loudwire",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85RXo2VkJZS1Y1SWQ2emViaEV1VHhXWndVWHBoc29tWVFPbmExVmVLVWFMdzVpWW9XNjltSGpnLWxMdUdWQ0tGTWpKZW92NUxEdTFjU1VNdnBjMUgxOWNLWEN3Z0l5Z3RtcndCdUxLeVN5TEZyTDJB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch: IRON MAIDEN's BRUCE DICKINSON Joins BILLIE JOE ARMSTRONG And THE COVERUPS On Stage At San Diego Comic-Con Party",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/watch-iron-maidens-bruce-dickinson-joins-billie-joe-armstrong-and-the-coverups-on-stage-at-san-diego-comic-con-party",
+    "timestamp": "2026-07-24T12:16:46+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Fandom and Z2 turned the volume all the way up in San Diego last night (Thursday, July 23), kicking off San Diego Comic-Con weekend with their annual party, marking the unofficial start of San Diego Comic-Con. Headlined by rock and roll cover band THE COVERUPS, fronted by GREEN DAY's legendary Billi...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/watch-iron-maidens-bruce-dickinson-joins-billie-joe-armstrong-and-the-coverups-on-stage-at-san-diego-comic-con-party"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "DAVID LEE ROTH Cancels Remaining Summer 2026 Tour Dates; SAMMY HAGAR Reacts",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/david-lee-roth-cancels-remaining-summer-2026-tour-dates-sammy-hagar-reacts",
+    "timestamp": "2026-07-24T12:02:19+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "David Lee Roth has canceled all but one of the remaining dates of his current U.S. tour. The legendary VAN HALEN frontman kicked off the trek in April and later added several new shows to his tour schedule, which at one point ran through early September. On Thursday morning (July 23), it was reveale...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/david-lee-roth-cancels-remaining-summer-2026-tour-dates-sammy-hagar-reacts"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "BON JOVI Ends Madison Square Garden Concert Early Due To JON BON JOVI's Sinus Infection",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/bon-jovi-ends-madison-square-garden-concert-early-due-to-jon-bon-jovis-sinus-infection",
+    "timestamp": "2026-07-24T11:26:22+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "BON JOVI abruptly ended its concert Thursday night (July 23) at Madison Square Garden in New York City after frontman Jon Bon Jovi revealed he was suffering from a sinus infection. About 90 minutes into the set, Bon Jovi told the crowd that he would have to stop the show because he wasn't feeli...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/bon-jovi-ends-madison-square-garden-concert-early-due-to-jon-bon-jovis-sinus-infection"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "School of Noize: Khulna University alumni reconnect through an original music legacy - Prothom Alo English",
+    "src": "Prothom Alo English",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50QTFoXzJLMDRSdkpVUDl1SHcwVWtPY2hsOUl3RkFabGVOV3FmNmtoanFEbTEzQ3JVYWVqVmdjekh4MnMyZkgzR1lxYXpzeTM5bkVwUkZ5eXFaZXNrUGFOV1lRck94dUlkZ0xpeEh2aVNtMEh50gF0QVVfeXFMTnRBMWhfMkswNFJ2SlVQOXVIdzBVa09jaGw5SXdGQVpsZU5XcWY2a2hqcURtMTNDclVhZWpWZ2N6SHgyczJmSDNHWXFhenN5MzluRXBSRnl5cVplc2tQYU5XWVFyT3h1SWRnTGl4SHZpU20wSHk?oc=5",
+    "timestamp": "2026-07-24T11:16:00+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "School of Noize: Khulna University alumni reconnect through an original music legacy Prothom Alo English",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Prothom Alo English",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50QTFoXzJLMDRSdkpVUDl1SHcwVWtPY2hsOUl3RkFabGVOV3FmNmtoanFEbTEzQ3JVYWVqVmdjekh4MnMyZkgzR1lxYXpzeTM5bkVwUkZ5eXFaZXNrUGFOV1lRck94dUlkZ0xpeEh2aVNtMEh50gF0QVVfeXFMTnRBMWhfMkswNFJ2SlVQOXVIdzBVa09jaGw5SXdGQVpsZU5XcWY2a2hqcURtMTNDclVhZWpWZ2N6SHgyczJmSDNHWXFhenN5MzluRXBSRnl5cVplc2tQYU5XWVFyT3h1SWRnTGl4SHZpU20wSHk?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Forbidden Premiere New Music Video For \"Psyclops\" From Upcoming New Album - Metal Underground.com",
+    "src": "Metal Underground.com",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4c0JXWGpUN3ZFS09fYlJKVTE0V0JOSUFMWHJ6QlA5VG9xUXNZbGZISHljQkN0T1hOUkgzTXJGRnVlc1cya0V1UG1ucU1HN2E0aE5XSTMtbGpjWThSUEU4emozZDFEUVZVb2h5c1JQT3A?oc=5",
+    "timestamp": "2026-07-24T06:50:00+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Forbidden Premiere New Music Video For \"Psyclops\" From Upcoming New Album Metal Underground.com",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Underground.com",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4c0JXWGpUN3ZFS09fYlJKVTE0V0JOSUFMWHJ6QlA5VG9xUXNZbGZISHljQkN0T1hOUkgzTXJGRnVlc1cya0V1UG1ucU1HN2E0aE5XSTMtbGpjWThSUEU4emozZDFEUVZVb2h5c1JQT3A?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Bon Jovi Abruptly Ends 8th MSG Show - 'I’m F--king Hurting'",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/bon-jovi-ends-show-hurting/",
+    "timestamp": "2026-07-24T06:00:10+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Jon Bon Jovi was clearly struggling during the shortened performance. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/bon-jovi-ends-show-hurting/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Sean ‘Diddy’ Combs reportedly placed in solitary confinement after prison altercation - The Express Tribune",
+    "src": "The Express Tribune",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbHB3d0lNZks4Y3RZTDluaC1zQmxxZEQ2YXgtMEZHbHItWWtNNV95MWhpYVNDTkEyaENyNzVLWnlDSy14LU5uRVRWcDVZbjlqaXdBODNpNGFYcDNWcmJxcjJtY2Q4SThzUXVmUzdhT0RUdHlZb2NXVjZZUFZBdlg1NE84QVItUVNhUlJrcFo0R3FrRDV2dVpnRkFJSTROLW9UN3p3MjgwYzVZQXBocjVoRlEtb1VSR1lPWWJPedIBxAFBVV95cUxQUk9NLVNCQXF4VTFSWFFrRm5KUVlNbjlQVGtsYzlyZncwaWtfX09QTExwTDRUME5xQnNpXzkwQjExQzlGdk1mTndIYndZejdUUml2MlRTNDliSVVwZnBoa1dPaUhvVUFJOUUxS1ZHN1FfakdVMk1aWmhGUEFTN2tHQ3JQSTB4enlPNVBZVUJKYXFkY0tHVFlEWU54Zm1SNHJwVWRXVkhLSG1POFlaRlBKVmdPUzlSVU9HM2xKNkNyS0xoMHk5?oc=5",
+    "timestamp": "2026-07-24T13:36:37+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Sean ‘Diddy’ Combs reportedly placed in solitary confinement after prison altercation The Express Tribune",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbHB3d0lNZks4Y3RZTDluaC1zQmxxZEQ2YXgtMEZHbHItWWtNNV95MWhpYVNDTkEyaENyNzVLWnlDSy14LU5uRVRWcDVZbjlqaXdBODNpNGFYcDNWcmJxcjJtY2Q4SThzUXVmUzdhT0RUdHlZb2NXVjZZUFZBdlg1NE84QVItUVNhUlJrcFo0R3FrRDV2dVpnRkFJSTROLW9UN3p3MjgwYzVZQXBocjVoRlEtb1VSR1lPWWJPedIBxAFBVV95cUxQUk9NLVNCQXF4VTFSWFFrRm5KUVlNbjlQVGtsYzlyZncwaWtfX09QTExwTDRUME5xQnNpXzkwQjExQzlGdk1mTndIYndZejdUUml2MlRTNDliSVVwZnBoa1dPaUhvVUFJOUUxS1ZHN1FfakdVMk1aWmhGUEFTN2tHQ3JQSTB4enlPNVBZVUJKYXFkY0tHVFlEWU54Zm1SNHJwVWRXVkhLSG1POFlaRlBKVmdPUzlSVU9HM2xKNkNyS0xoMHk5?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
     "isBreaking": true,
     "isPT": false,
     "isCore": false,
     "star": true,
     "kind": "news",
     "section": "buzz"
+  },
+  {
+    "title": "U2 & Martin Garrix – “Fireflies”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506188/u2-martin-garrix-fireflies/music/",
+    "timestamp": "2026-07-24T13:34:31+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Once upon a time, U2 tried to make dance music. After successfully reinventing themselves as ironic aesthetes on Achtung Baby and Zooropa , U2 steered all the way into the late-'90s electronica hype wave on their 1997 album Pop , and the result was not what they wanted . U2 quickly abandoned that aesthetic path, leanin",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506188/u2-martin-garrix-fireflies/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Chris Brown Pleads Guilty to Attacking Man with Tequila Bottle",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/chris-brown-pleads-guilty-to-attacking-man-with-tequila-bottle/",
+    "timestamp": "2026-07-24T13:17:53+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "The attack involving music producer Abe Diaw occurred at a London nightclub in 2023. Chris Brown Pleads Guilty to Attacking Man with Tequila Bottle Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/chris-brown-pleads-guilty-to-attacking-man-with-tequila-bottle/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘I’m F-cking Done’: Ministry to Release Final Album in October - Rolling Stone",
+    "src": "Rolling Stone",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGlUNTZjaWY4RlI2ME9GWVFfTllLemtTbnFvdm9RRHhzaTZ4RG9hNmhQR2dsa3J0NVc4MUtPejJpUnh5ZHlJY3AyczFKWmotRVJzVGVtcEJqTVc3NG5TemlCMzBidHJFbFR6X2U5cU5WRUVKRklweUhnSjBrVHRDNHczZW5iTjRmSmtxU2FaTG5yMW45bmw0?oc=5",
+    "timestamp": "2026-07-24T13:12:34+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "‘I’m F-cking Done’: Ministry to Release Final Album in October Rolling Stone",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Rolling Stone",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGlUNTZjaWY4RlI2ME9GWVFfTllLemtTbnFvdm9RRHhzaTZ4RG9hNmhQR2dsa3J0NVc4MUtPejJpUnh5ZHlJY3AyczFKWmotRVJzVGVtcEJqTVc3NG5TemlCMzBidHJFbFR6X2U5cU5WRUVKRklweUhnSjBrVHRDNHczZW5iTjRmSmtxU2FaTG5yMW45bmw0?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Jack White Covers Free With The Black Crowes’ Chris Robinson",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506183/jack-white-covers-free-with-the-black-crowes-chris-robinson/news/",
+    "timestamp": "2026-07-24T13:10:17+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Years ago, one of my editors made a point about Jack White that I've had in my head ever since: He's Robert Plant and Jimmy Page at the same time. Within the White Stripes, White was more or less forced to play that role. This was a bare-bones duo who wanted to achieve rock-star immortality, so White had to be both fro",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506183/jack-white-covers-free-with-the-black-crowes-chris-robinson/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Diddy Reportedly Placed in Solitary Confinement After Alleged Prison Altercation - The Trumpet Newspaper Nigeria",
+    "src": "The Trumpet Newspaper Nigeria",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjNYTlZxYXNNejF0OEV6dFNXR2Vrcko1bEF5Skw1RlBMa0dVdHBJZUhmclNtSUZ2Q1RWdTJydFZ3aWJmZEkzYlZUZ2pjRmllalN0NjhnVXMzbUhtMVN2OVhqOG9YVGd3dldHLWtDYi1GemUxWGZjMUZsR3JnOExmai1zSXI2eTNaVFUzamg3X18yd3pHNUtjMWZvcnBoc2R4cmJoTG9B?oc=5",
+    "timestamp": "2026-07-24T12:59:11+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Diddy Reportedly Placed in Solitary Confinement After Alleged Prison Altercation The Trumpet Newspaper Nigeria",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Trumpet Newspaper Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdjNYTlZxYXNNejF0OEV6dFNXR2Vrcko1bEF5Skw1RlBMa0dVdHBJZUhmclNtSUZ2Q1RWdTJydFZ3aWJmZEkzYlZUZ2pjRmllalN0NjhnVXMzbUhtMVN2OVhqOG9YVGd3dldHLWtDYi1GemUxWGZjMUZsR3JnOExmai1zSXI2eTNaVFUzamg3X18yd3pHNUtjMWZvcnBoc2R4cmJoTG9B?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Barstool Sports Suffers Worst Loss in Celebrity Family Feud History",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/barstool-sports-suffers-worst-lost-in-celebrity-family-feud-history/",
+    "timestamp": "2026-07-24T12:41:32+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "They lost to Cooper Flagg's family by a score of 543-0. Barstool Sports Suffers Worst Loss in Celebrity Family Feud History Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/barstool-sports-suffers-worst-lost-in-celebrity-family-feud-history/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Strokes’ New Album Reality Awaits Is Here",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506138/the-strokes-new-album-reality-awaits-is-here/music/",
+    "timestamp": "2026-07-24T12:41:31+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Everyone was mad about the Auto-Tune. I wasn’t mad about the Auto-Tune. Sure, Julian Casablancas kind of sounds like a malfunctioning robot, but what sucked about “ Going Shopping ” and “ Falling Out Of Love ” is how utterly forgettable they were. The Strokes are one of this century's most important rock bands because ",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506138/the-strokes-new-album-reality-awaits-is-here/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Watch Green Day’s Billie Joe Armstrong cover David Bowie with Iron Maiden’s Bruce Dickinson and dedicate Nirvana’s ‘Drain You’ to L7 icon Jennifer Finch with The Coverups",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/watch-green-days-billie-joe-armstrong-cover-david-bowie-with-iron-maidens-bruce-dickinson-and-dedicate-nirvanas-drain-you-to-l7-icon-jennifer-finch-with-the-coverups-3958807?utm_source=rss&utm_medium=rss&utm_campaign=watch-green-days-billie-joe-armstrong-cover-david-bowie-with-iron-maidens-bruce-dickinson-and-dedicate-nirvanas-drain-you-to-l7-icon-jennifer-finch-with-the-coverups",
+    "timestamp": "2026-07-24T12:30:53+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Dickinson assisted on a rendition of 'All The Young Dudes' The post Watch Green Day’s Billie Joe Armstrong cover David Bowie with Iron Maiden’s Bruce Dickinson and dedicate Nirvana’s ‘Drain You’ to L7 icon Jennifer Finch with The Coverups appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/watch-green-days-billie-joe-armstrong-cover-david-bowie-with-iron-maidens-bruce-dickinson-and-dedicate-nirvanas-drain-you-to-l7-icon-jennifer-finch-with-the-coverups-3958807?utm_source=rss&utm_medium=rss&utm_campaign=watch-green-days-billie-joe-armstrong-cover-david-bowie-with-iron-maidens-bruce-dickinson-and-dedicate-nirvanas-drain-you-to-l7-icon-jennifer-finch-with-the-coverups"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Premature Evaluation: Charli XCX Music, Fashion, Film",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506143/premature-evaluation-charli-xcx-music-fashion-film/reviews/premature-evaluation/",
+    "timestamp": "2026-07-24T12:30:39+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "The post Premature Evaluation: Charli XCX <em>Music, Fashion, Film</em> appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506143/premature-evaluation-charli-xcx-music-fashion-film/reviews/premature-evaluation/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Worldpeace DMT Drop Mixtape and Announce Album",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/worldpeace-dmt-drop-mixtape-and-announce-album/",
+    "timestamp": "2026-07-24T12:09:14+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/worldpeace-dmt-drop-mixtape-and-announce-album/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Diddy Reportedly Placed in Solitary Confinement After Prison Fight - Complex",
+    "src": "Complex",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNczljY1BWY1RWRThOR0pVZUVSZk96MktIUnRhekJiRkxjcFlQRVZHdll5NTRseXpxVmowSURJcGplODhOWFNsUm5yTk1ZbXA4TWhVSDk0N09tWklvRmpPV05uem00aXZ1VEkwaE9ZdHU0ZTQ1VzhkM01UTHBESGhNeE5nV2JncTNtb2tGV1M5Yw?oc=5",
+    "timestamp": "2026-07-24T12:00:15+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Diddy Reportedly Placed in Solitary Confinement After Prison Fight Complex",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Complex",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNczljY1BWY1RWRThOR0pVZUVSZk96MktIUnRhekJiRkxjcFlQRVZHdll5NTRseXpxVmowSURJcGplODhOWFNsUm5yTk1ZbXA4TWhVSDk0N09tWklvRmpPV05uem00aXZ1VEkwaE9ZdHU0ZTQ1VzhkM01UTHBESGhNeE5nV2JncTNtb2tGV1M5Yw?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘The Odyssey’ crew damaged replica Viking ship and hasn’t paid for repair, owner claims",
+    "src": "NME",
+    "url": "https://www.nme.com/news/film/the-odyssey-crew-damaged-replica-viking-ship-and-hasnt-paid-for-repair-owner-claims-3958819?utm_source=rss&utm_medium=rss&utm_campaign=the-odyssey-crew-damaged-replica-viking-ship-and-hasnt-paid-for-repair-owner-claims",
+    "timestamp": "2026-07-24T11:54:20+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "The non-profit that owns the ship said \"We feel forgotten\" The post ‘The Odyssey’ crew damaged replica Viking ship and hasn’t paid for repair, owner claims appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/film/the-odyssey-crew-damaged-replica-viking-ship-and-hasnt-paid-for-repair-owner-claims-3958819?utm_source=rss&utm_medium=rss&utm_campaign=the-odyssey-crew-damaged-replica-viking-ship-and-hasnt-paid-for-repair-owner-claims"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Watch The Strokes debut ‘Dine N’Dash’ as they launch ‘Reality Awaits’ at iconic Red Rocks",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/watch-the-strokes-debut-dine-ndash-as-they-launch-reality-awaits-at-iconic-red-rocks-3958812?utm_source=rss&utm_medium=rss&utm_campaign=watch-the-strokes-debut-dine-ndash-as-they-launch-reality-awaits-at-iconic-red-rocks",
+    "timestamp": "2026-07-24T11:32:58+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "The NYC indie icons dropped their first new record in six years today (Friday July 24) The post Watch The Strokes debut ‘Dine N’Dash’ as they launch ‘Reality Awaits’ at iconic Red Rocks appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/watch-the-strokes-debut-dine-ndash-as-they-launch-reality-awaits-at-iconic-red-rocks-3958812?utm_source=rss&utm_medium=rss&utm_campaign=watch-the-strokes-debut-dine-ndash-as-they-launch-reality-awaits-at-iconic-red-rocks"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Finn Wolfhard shares update on The Replacements biopic he’s been working on with his dad",
+    "src": "NME",
+    "url": "https://www.nme.com/news/film/finn-wolfhard-shares-update-on-the-replacements-biopic-hes-been-working-on-with-his-dad-3958800?utm_source=rss&utm_medium=rss&utm_campaign=finn-wolfhard-shares-update-on-the-replacements-biopic-hes-been-working-on-with-his-dad",
+    "timestamp": "2026-07-24T11:17:56+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "He also shared which music biopic he doesn't want the film to emulate The post Finn Wolfhard shares update on The Replacements biopic he’s been working on with his dad appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/film/finn-wolfhard-shares-update-on-the-replacements-biopic-hes-been-working-on-with-his-dad-3958800?utm_source=rss&utm_medium=rss&utm_campaign=finn-wolfhard-shares-update-on-the-replacements-biopic-hes-been-working-on-with-his-dad"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Fresh off album release, Santa Fe soundscape artist Michael Stearns performs at Paradiso - Santa Fe New Mexican",
+    "src": "Santa Fe New Mexican",
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY0xyM3dyRG9SbXdyTzdMRUJvQnZLTXkxNDhnT3lOWHoycUlWMDdSRWtiaDdGV2I2X2hSZ2d3SHl0SFNGTDQxcjViOXIza2c5MER5ZEc4LS03MVVPZlVMc0FhTS1RUHZMU3JvM2JtOUdUdVhYazFtT3ZqU2E4WWZIOTROdjBJb0hoblRBcWJsRFVOZUE4TnVKV3BMYWJ5ODJRMU1mUDVWMWlrM0ZfbFAtaUY1S3YwTDVoY2xqNUZScUZ3ZzVXTjdEY3VwdDljUzVqZDBxd3RxWndQUG1PV1RHT1J1NTNJeTRESmFVQTlkSHhQM1pTNFF2ZWUtUlEtWnFtRElOaFFfbDJHV1ZPNm9z?oc=5",
+    "timestamp": "2026-07-24T11:00:00+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Fresh off album release, Santa Fe soundscape artist Michael Stearns performs at Paradiso Santa Fe New Mexican",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Santa Fe New Mexican",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY0xyM3dyRG9SbXdyTzdMRUJvQnZLTXkxNDhnT3lOWHoycUlWMDdSRWtiaDdGV2I2X2hSZ2d3SHl0SFNGTDQxcjViOXIza2c5MER5ZEc4LS03MVVPZlVMc0FhTS1RUHZMU3JvM2JtOUdUdVhYazFtT3ZqU2E4WWZIOTROdjBJb0hoblRBcWJsRFVOZUE4TnVKV3BMYWJ5ODJRMU1mUDVWMWlrM0ZfbFAtaUY1S3YwTDVoY2xqNUZScUZ3ZzVXTjdEY3VwdDljUzVqZDBxd3RxWndQUG1PV1RHT1J1NTNJeTRESmFVQTlkSHhQM1pTNFF2ZWUtUlEtWnFtRElOaFFfbDJHV1ZPNm9z?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Why Bad Bunny's global tour signals music industry shift - Reuters",
+    "src": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pRWlYM19vX1h0U0loaXdwNWJDNmlPWm1HX3NLSHZ0TFVyTmlhbnVIM3lXcjQ1SElpSWtpdm43ZFZhSFhKMHhkcFU0cjZlOFduRzV3XzFYcC1ZRVRLQmt5NG44Q0U0aDg?oc=5",
+    "timestamp": "2026-07-24T08:20:04+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Why Bad Bunny's global tour signals music industry shift Reuters",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pRWlYM19vX1h0U0loaXdwNWJDNmlPWm1HX3NLSHZ0TFVyTmlhbnVIM3lXcjQ1SElpSWtpdm43ZFZhSFhKMHhkcFU0cjZlOFduRzV3XzFYcC1ZRVRLQmt5NG44Q0U0aDg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Mateus Asato estreia-se em Lisboa e apresenta no LAV o seu álbum de estreia",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/mateus-asato-estreia-se-em-lisboa-e-apresenta-no-lav-o-seu-album-de-estreia-bilhetes/",
+    "timestamp": "2026-07-24T13:22:48+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Mateus Asato atua no LAV, Lisboa ao Vivo, a 15 de outubro de 2026, numa data integrada na sua nova digressão mundial. O guitarrista brasileiro, considerado um dos mais influentes da sua geração, apresenta ao público português \"ASATO\", o seu aguardado álbum de estreia.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/mateus-asato-estreia-se-em-lisboa-e-apresenta-no-lav-o-seu-album-de-estreia-bilhetes/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Fado e Música Tradicional Portuguesa - Casa da Música",
+    "src": "Casa da Música",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2RDlsZFBsYlI0MF9WbXZqbDhqQ1pPQUFQWnNkUjdoa0ZlcHdXR3FYSUx2RnN6U1VLTXF6TW1GQi1YQzZJVE5sT3FSWUgxbGw3UGN4YnEzMkhIVWFBSFhZSmRySk91Ym9fT2ZlRDhEWQ?oc=5",
+    "timestamp": "2026-07-24T11:50:48+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Fado e Música Tradicional Portuguesa Casa da Música",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Casa da Música",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2RDlsZFBsYlI0MF9WbXZqbDhqQ1pPQUFQWnNkUjdoa0ZlcHdXR3FYSUx2RnN6U1VLTXF6TW1GQi1YQzZJVE5sT3FSWUgxbGw3UGN4YnEzMkhIVWFBSFhZSmRySk91Ym9fT2ZlRDhEWQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Sonic Blast Fest 2026: horários já disponíveis",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/sonic-blast-fest-2026-horarios-ja-disponiveis/",
+    "timestamp": "2026-07-24T11:05:46+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "A 14.ª edição do Sonic Blast Fest está cada vez mais próxima. O festival minhoto volta à Praia da Duna dos Caldeirões, em Âncora, de 06 a 08 de agosto e apresenta agora os horários de cada concerto.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/sonic-blast-fest-2026-horarios-ja-disponiveis/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Ripper",
+    "t": "Towards Rebirth Review",
+    "src": "Angry Metal Guy",
+    "date": "24 Jul",
+    "isoDate": "2026-07-24",
+    "timestamp": "2026-07-24T11:15:38+00:00",
+    "url": "https://www.angrymetalguy.com/ripper-towards-rebirth-review/",
+    "d": "\"Apparently Chilean death-thrash crew Ripper raised quite a ruckus in the 2014-2017 period with a series of well-regarded hyperkinetic death-thrash albums, the most recent of which was 2016s Experiment of Existence . I missed all of this buzz-worthy carrying o",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "ripper|towards rebirth review",
+    "kind": "review",
+    "section": "rev"
   },
   {
     "title": "Rock Kids Drive Legendary Bands' Korean Tours This Summer - 조선일보",
@@ -7008,6 +7871,106 @@
     "star": false,
     "kind": "news",
     "section": "buzz"
+  },
+  {
+    "title": "’90s Metal Band Announces Special Appearance Amid Tour Hiatus - parade.com",
+    "src": "parade.com",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdGsxVElmTTJBTTdqek9hTVJKZ1dXVlhwQ24tOXRLWTB6QlZrVlRXdU42Y3lNbDVoRGFFMTh3RURtRG5zWlNmLUxpdVd1dHpuMDBWaDdiZkVwRmJiR2ZkWHVOT2tTVV90Ti1QdmpsVGd4Sm54eU8ya3pGXzlPVlROaDB1Q3NHRm1CbXR0dEYxTTNSZWlabWswUTJ0VWhMY01kSVMtRnpQejliZEI2VFlqRkdyVjY0SlphVDdB?oc=5",
+    "timestamp": "2026-07-23T23:03:42+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "’90s Metal Band Announces Special Appearance Amid Tour Hiatus parade.com",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "parade.com",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdGsxVElmTTJBTTdqek9hTVJKZ1dXVlhwQ24tOXRLWTB6QlZrVlRXdU42Y3lNbDVoRGFFMTh3RURtRG5zWlNmLUxpdVd1dHpuMDBWaDdiZkVwRmJiR2ZkWHVOT2tTVV90Ti1QdmpsVGd4Sm54eU8ya3pGXzlPVlROaDB1Q3NHRm1CbXR0dEYxTTNSZWlabWswUTJ0VWhMY01kSVMtRnpQejliZEI2VFlqRkdyVjY0SlphVDdB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "In Schwerer See Drops Lead Single - Thoughts Words Action",
+    "src": "Thoughts Words Action",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vSEh2SkRUQkgtejVid0VMUmZzWHJmVjhibDJROE0zaDZDc3p2Y0J5eGcybV9tdWNLamZYU1F0dDAxV0pDYVZFejZIMXp3TWgyc2JPM1U5NGhSOTFOY3NMYkVHY1J1TEV0aGNwTWJ3Mm94QjRIUHJqbFpRcWh5XzTSAX9BVV95cUxNb0hIdkpEVEJILXo1YndFTFJmc1hyZlY4YmwyUThNM2g2Q3N6dmNCeXhnMm1fbXVjS2pmWFNRdHQwMVdKQ2FWRXo2SDF6d01oMnNiTzNVOTRoUjkxTmNzTGJFR2NSdUxFdGhjcE1idzJveEI0SFByamxaUXFoeV80?oc=5",
+    "timestamp": "2026-07-23T11:00:42+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "In Schwerer See Drops Lead Single Thoughts Words Action",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Thoughts Words Action",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vSEh2SkRUQkgtejVid0VMUmZzWHJmVjhibDJROE0zaDZDc3p2Y0J5eGcybV9tdWNLamZYU1F0dDAxV0pDYVZFejZIMXp3TWgyc2JPM1U5NGhSOTFOY3NMYkVHY1J1TEV0aGNwTWJ3Mm94QjRIUHJqbFpRcWh5XzTSAX9BVV95cUxNb0hIdkpEVEJILXo1YndFTFJmc1hyZlY4YmwyUThNM2g2Q3N6dmNCeXhnMm1fbXVjS2pmWFNRdHQwMVdKQ2FWRXo2SDF6d01oMnNiTzNVOTRoUjkxTmNzTGJFR2NSdUxFdGhjcE1idzJveEI0SFByamxaUXFoeV80?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "156/Silence release new music video for ‘Swept From Under (Call Of The Void)’ - Distorted Sound Magazine -",
+    "src": "Distorted Sound Magazine -",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPckp6czNsWFVGR1BzbTdob2pvbVJjQ29zOExQajVfS20wVDk3cjJWSl85b25WZTRNTkxaY2Y0RlNITlR2NEZKZkZ6SE5LUVRHdGtDQVZmd0Nyblg0YU11NlNBNEVuQ3RWN2NOSElNeW9UdDNybmdlX1RBQVhjaWVEdmp0ckViUnRYc0l5THhRR3ZNMTBBMVhvcUk3R1FxZzRpZDd6aExnWQ?oc=5",
+    "timestamp": "2026-07-23T23:39:23+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "156/Silence release new music video for ‘Swept From Under (Call Of The Void)’ Distorted Sound Magazine -",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Distorted Sound Magazine -",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPckp6czNsWFVGR1BzbTdob2pvbVJjQ29zOExQajVfS20wVDk3cjJWSl85b25WZTRNTkxaY2Y0RlNITlR2NEZKZkZ6SE5LUVRHdGtDQVZmd0Nyblg0YU11NlNBNEVuQ3RWN2NOSElNeW9UdDNybmdlX1RBQVhjaWVEdmp0ckViUnRYc0l5THhRR3ZNMTBBMVhvcUk3R1FxZzRpZDd6aExnWQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Morreu Hugo 'Vicky' Marques - CNN Portugal",
+    "src": "CNN Portugal",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZzgzVlN6UVBlZ25WU1Z2QUlEbXg3QTc2RmROMW5JOWhPLWFmNFNoTGthd3B2djZPRDFrQXpFM3dveDRrQ1V2WkV1QXpqd3NWeWtSeEt0eTdUSGpPSml6cjg0aU5kRVNNY3gzN2JwRVJldGF2LVBYSnNfRVB2T0hlbHh2SHhXdm9lTzZEY2pTcjBCSkJkd3BvNGIxbDd2aEVZRktsd2ZqWWFSV3Z0TTZJMEVB?oc=5",
+    "timestamp": "2026-07-23T17:09:00+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Morreu Hugo 'Vicky' Marques CNN Portugal",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "CNN Portugal",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZzgzVlN6UVBlZ25WU1Z2QUlEbXg3QTc2RmROMW5JOWhPLWFmNFNoTGthd3B2djZPRDFrQXpFM3dveDRrQ1V2WkV1QXpqd3NWeWtSeEt0eTdUSGpPSml6cjg0aU5kRVNNY3gzN2JwRVJldGF2LVBYSnNfRVB2T0hlbHh2SHhXdm9lTzZEY2pTcjBCSkJkd3BvNGIxbDd2aEVZRktsd2ZqWWFSV3Z0TTZJMEVB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "b": "Noumena",
@@ -13487,19 +14450,15 @@
       {
         "name": "UOL",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcHItaDBTTzlVck9Hb1U1cF9lc1N4OXY3TXRidXhyNGdjUW9DQ0FjXzRjZnB5XzdXUDVKbGQtd3BNYTFpNXJNeFVCU09NcFc2emZqbGdBTVlmR0NVZndJNm5nVEJXVl9iY1VuSTBZLTFsMzMweFhKVnUyZDZDVnlyZ2JEQjhSVDlwWmFRZ0tZczZfMUhTS2hOa2xpUEdjV2I5U3NXUmtneHZiVk9DRTV0NDVNWlVhSmtlYWdGalBibmlGTlVwdzB2cC1Fb2JuM3Qtdk1Lcjg4aGpmOWVXZHRkUw?oc=5"
-      },
-      {
-        "name": "BOL",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYVpGdnh6UUI1TTNpc1ZsalB4TDZYVlNTTmVhNEJ4eXE3azI5YWMzN3d4TnVMcDNoWmF1ZDlJOFBYS2E3N1RUalV5cXhxcG5HaHBzdEJEN1F5VkpHRThJMXlHX2k0RlRFT2hCcDVTTFg0MXd0X3lOMmtkOWpmdUZCalRaYmpfaTVTUi1fbHdsZC1NMW9NeW93NmpHSzhvZ1FGQ3VNalYyWmFITWJFcF9GWTc5MlI4U2lu0gG4AUFVX3lxTE9hWkZ2eHpRQjVNM2lzVmxqUHhMNlhWU1NOZWE0Qnh5cTdrMjlhYzM3d3hOdUxwM2haYXVkOUk4UFhLYTc3VFRqVXlxeHFwbkdocHN0QkQ3UXlWSkdFOEkxeUdfaTRGVEVPaEJwNVNMWDQxd3RfeU4ya2Q5amZ1RkJqVFpial9pNVNSLV9sd2xkLU0xb015b3c2akdLOG9nUUZDdU1qVjJaYUhNYkVwX0ZZNzkyUjhTaW4?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -14647,6 +15606,56 @@
     "star": false,
     "kind": "news",
     "section": "core"
+  },
+  {
+    "title": "Beloved Metal Band Demon Hunter Announces Anniversary Tour 26 Years After Forming - Yahoo",
+    "src": "Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa1JFXzcxdWs0S3c5cXFIWVBPdVV2OERxaTVzX1FZdEVtd0N4a0NnX0Q5bWtSWmg5bXJrR0UwTFJVT3l3Y2EtbndSemtQVUtpSXFKR1hPWUJhZ0Z4Q1M5Ul9UMTg4QkRNZU5NNWhWSDR5aFdNY0g1X3RnX0RUNmQ0NmJoTlNvaFFxZGpUcDlKdzg5RmZWamxSTXM5YW5WUQ?oc=5",
+    "timestamp": "2026-07-22T12:16:08+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Beloved Metal Band Demon Hunter Announces Anniversary Tour 26 Years After Forming Yahoo",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa1JFXzcxdWs0S3c5cXFIWVBPdVV2OERxaTVzX1FZdEVtd0N4a0NnX0Q5bWtSWmg5bXJrR0UwTFJVT3l3Y2EtbndSemtQVUtpSXFKR1hPWUJhZ0Z4Q1M5Ul9UMTg4QkRNZU5NNWhWSDR5aFdNY0g1X3RnX0RUNmQ0NmJoTlNvaFFxZGpUcDlKdzg5RmZWamxSTXM5YW5WUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Os 100 Melhores Álbuns Portugueses de Sempre 95.º Lugar Belle Chase - musicatotal.net",
+    "src": "musicatotal.net",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQUo1ckFsUW93VjZVcldmOGFUYjBOUWRXZ1VuNkp4UWVqaGo2V0h0Z3k4d2JJb293ZmJESDJ1aVZlQU9DUVhsbW5LNzV6dndnY282TjhUa3hZZ05jWERieWY0MWRjWlFpQ2ZlSkFHcjk1QTVMNUpaeExSUHJ6cGpNanZHcjRaSEdhSl9QVmNiWThLR0NpX21Z?oc=5",
+    "timestamp": "2026-07-22T16:04:52+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Os 100 Melhores Álbuns Portugueses de Sempre 95.º Lugar Belle Chase musicatotal.net",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "musicatotal.net",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQUo1ckFsUW93VjZVcldmOGFUYjBOUWRXZ1VuNkp4UWVqaGo2V0h0Z3k4d2JJb293ZmJESDJ1aVZlQU9DUVhsbW5LNzV6dndnY282TjhUa3hZZ05jWERieWY0MWRjWlFpQ2ZlSkFHcjk1QTVMNUpaeExSUHJ6cGpNanZHcjRaSEdhSl9QVmNiWThLR0NpX21Z?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "b": "UNIDARK",
