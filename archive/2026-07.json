@@ -37,10 +37,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -62,10 +62,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -87,10 +87,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -162,10 +162,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -212,10 +212,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -237,10 +237,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -262,10 +262,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -287,10 +287,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -312,10 +312,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -826,10 +826,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -1001,10 +1001,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1026,10 +1026,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1326,10 +1326,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -1351,10 +1351,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -1376,10 +1376,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -1476,10 +1476,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1522,6 +1522,774 @@
     "releaseKey": "into to the obscure|cianide death doom and destruction",
     "kind": "review",
     "section": "rev"
+  },
+  {
+    "title": "Who Was Lou Koller? 5 Things to Know About the Sick of It All Vocalist Who Died - Hollywood Life",
+    "src": "Hollywood Life",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GTUs3SURkREpOcGtvYktsV0x6c09yc2NCU3lNdG84WUU3OHNtb25KYWZDZERRV1c4aWJCV2IzZldQVWFvSHZnck4yYnZudk9LbDExS210eXluQzdmVUNNeExfc3h4Ukg3b0M1U9IBckFVX3lxTFBFUzE0ZjF4Z0JNSWo4OGNKdG9RRmx6M2hOSV9GZlZqUS1USjlBUHdzWWZkdGk3STRwbC1ORVNNcGEyODdyeDNKbUVnMktwTXRNa2V4MmRiZnpxdEhYaVNQLWYybkJCMWk2TDM3RlhMNVFSZw?oc=5",
+    "timestamp": "2026-07-25T16:47:00+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "Who Was Lou Koller? 5 Things to Know About the Sick of It All Vocalist Who Died Hollywood Life",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Hollywood Life",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GTUs3SURkREpOcGtvYktsV0x6c09yc2NCU3lNdG84WUU3OHNtb25KYWZDZERRV1c4aWJCV2IzZldQVWFvSHZnck4yYnZudk9LbDExS210eXluQzdmVUNNeExfc3h4Ukg3b0M1U9IBckFVX3lxTFBFUzE0ZjF4Z0JNSWo4OGNKdG9RRmx6M2hOSV9GZlZqUS1USjlBUHdzWWZkdGk3STRwbC1ORVNNcGEyODdyeDNKbUVnMktwTXRNa2V4MmRiZnpxdEhYaVNQLWYybkJCMWk2TDM3RlhMNVFSZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Richie Sambora Reveals If He Will Join Whitesnake After David Coverdale’s Retirement - Metalhead Zone",
+    "src": "Metalhead Zone",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeWY4WlhRWndhV2xEVWxqTDBjTlV6SExtN2JkcHp2eTV3YUtCZlFxc0hGZGF5V2UtUk5hWmZqcThxSGxuRHg3Vmh5UGItdEpURXRLdWRMVUZldGd4VWtPSGhXYlQwbWd0bVVpeVlxVnJwckgyeldQWVdvYlRfc1lCTGU1bWE4blgyZ2kzbV92Y1FWcUsxcnpuTjJ6T1Z4U3BBSVJ0THN5TmdVc1Z1TF9z?oc=5",
+    "timestamp": "2026-07-25T16:13:49+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "Richie Sambora Reveals If He Will Join Whitesnake After David Coverdale’s Retirement Metalhead Zone",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metalhead Zone",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeWY4WlhRWndhV2xEVWxqTDBjTlV6SExtN2JkcHp2eTV3YUtCZlFxc0hGZGF5V2UtUk5hWmZqcThxSGxuRHg3Vmh5UGItdEpURXRLdWRMVUZldGd4VWtPSGhXYlQwbWd0bVVpeVlxVnJwckgyeldQWVdvYlRfc1lCTGU1bWE4blgyZ2kzbV92Y1FWcUsxcnpuTjJ6T1Z4U3BBSVJ0THN5TmdVc1Z1TF9z?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Punk Rock Icon Dies at 59: RIP to Lou Koller - suggest.com",
+    "src": "suggest.com",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWHBEU0tBdnFIUDFCNUI5V2ZrQ3JEU1JnM0czXzdSWnFZNjQxX2JRZjdVSllzZGxua0w0dUVGR0VlUmlMOWQtV2c0X3pTTHQyQWlqSktMbXNPTXpoUVJhTk92c2lNLTRvbTJ4SVc3a0ZjOU5tZ1lMY3JxSHFoSFUzZzlB?oc=5",
+    "timestamp": "2026-07-25T15:36:00+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "Punk Rock Icon Dies at 59: RIP to Lou Koller suggest.com",
+    "category": "core",
+    "sources": [
+      {
+        "name": "suggest.com",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWHBEU0tBdnFIUDFCNUI5V2ZrQ3JEU1JnM0czXzdSWnFZNjQxX2JRZjdVSllzZGxua0w0dUVGR0VlUmlMOWQtV2c0X3pTTHQyQWlqSktMbXNPTXpoUVJhTk92c2lNLTRvbTJ4SVc3a0ZjOU5tZ1lMY3JxSHFoSFUzZzlB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "10 Awesome Metal Covers Of Country Classics",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/lists/10-awesome-metal-covers-of-country-classics",
+    "timestamp": "2026-07-25T15:31:47+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "Black hat cowboys. The post 10 Awesome Metal Covers Of Country Classics appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/lists/10-awesome-metal-covers-of-country-classics"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "AMON AMARTH's JOHAN HEGG Reveals The Truth About 10 Viking Myths",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/video/amon-amarths-johan-hegg-reveals-the-truth-about-10-viking-myths",
+    "timestamp": "2026-07-25T15:14:10+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "Was Blood Eagle torture common? Did Vikings actually drink from the skulls of their enemies? The post AMON AMARTH's JOHAN HEGG Reveals The Truth About 10 Viking Myths appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/video/amon-amarths-johan-hegg-reveals-the-truth-about-10-viking-myths"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "ENTHEOS's CHANEY CRABB Offers Advice To New Metal Bands: 'Don't Quit' And 'Stay True To Your Vision'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/entheoss-chaney-crabb-offers-advice-to-new-metal-bands-dont-quit-and-stay-true-to-your-vision",
+    "timestamp": "2026-07-25T15:11:15+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "In a new interview with Kevin Powell, ENTHEOS vocalist Chaney Crabb was asked what piece of advice she would give to up-and-coming metal bands looking to break into the music business. She said (as transcribed by BLABBERMOUTH.NET): \"The only advice that I can really give is just don't quit. Stay tru...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/entheoss-chaney-crabb-offers-advice-to-new-metal-bands-dont-quit-and-stay-true-to-your-vision"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "b": "LISTEN",
+    "t": "When TRIVIUM and KING DIAMOND Joined Forces For Insane 'Roadrunner United' Collab",
+    "src": "Metal Injection",
+    "date": "25 Jul",
+    "isoDate": "2026-07-25",
+    "timestamp": "2026-07-25T15:02:43+00:00",
+    "url": "https://metalinjection.net/reviews/retrospective/listen-when-trivium-and-king-diamond-joined-forces-for-insane-roadrunner-united-collab",
+    "d": "That solo is still absolutely bonkers. The post LISTEN: When TRIVIUM and KING DIAMOND Joined Forces For Insane 'Roadrunner United' Collab appeared first on Metal Injection .",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "listen|when trivium and king diamond joined forces for insane roadrunner united collab",
+    "kind": "review",
+    "section": "rev"
+  },
+  {
+    "title": "Lou Koller Dead at 59: Sick of It All Singer Dies Just Months Before Band's Milestone 40th Anniversary - International Business Times UK",
+    "src": "International Business Times UK",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTzU1LXUwYlEwSThmUXdFRUF4RG02SmJsYnFwMWx4STRSZEwwdzZaLVhiUDdvSWJ1Z3NwUzBWSWh4NjlhQVJBS2ZlZkpDY1NrWDJIVWlxcGdueU96Zi1McFJpY3ZSMzJZdFRMVE1UbG9TVGdaM2pHOTVJY3VpUXZkc3BoNTJDRTNmel9oLXg1TmpOQlU?oc=5",
+    "timestamp": "2026-07-25T14:42:22+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "Lou Koller Dead at 59: Sick of It All Singer Dies Just Months Before Band's Milestone 40th Anniversary International Business Times UK",
+    "category": "core",
+    "sources": [
+      {
+        "name": "International Business Times UK",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTzU1LXUwYlEwSThmUXdFRUF4RG02SmJsYnFwMWx4STRSZEwwdzZaLVhiUDdvSWJ1Z3NwUzBWSWh4NjlhQVJBS2ZlZkpDY1NrWDJIVWlxcGdueU96Zi1McFJpY3ZSMzJZdFRMVE1UbG9TVGdaM2pHOTVJY3VpUXZkc3BoNTJDRTNmel9oLXg1TmpOQlU?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "MASTODON's TROY SANDERS On 'Marrow Deep' Album: 'It Feels Like The Next Proper Step Of Our Own Evolution'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/mastodons-troy-sanders-on-marrow-deep-album-it-feels-like-the-next-proper-step-of-our-own-evolution",
+    "timestamp": "2026-07-25T14:33:12+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "In a new interview with Jai \"Jaimunji\" Setright of Australia's link textMetal On Tap, MASTODON singer/bassist Troy Sanders spoke about the band's long-awaited new album, \"Marrow Deep\", which will arrive on August 28 via Loma Vista Recordings. The LP marks MASTODON's first full-length to feature guit...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/mastodons-troy-sanders-on-marrow-deep-album-it-feels-like-the-next-proper-step-of-our-own-evolution"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Punk rock legend Lou Koller dead at 59 after cancer battle - pagesix.com",
+    "src": "pagesix.com",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUTEyQzFPZnRma1NUSjBXWHBBQjN3WWQ2WUlOM3hqUkZHSF9famVjeXJ0OE54VDdLZUV0YmprNWtCOXhMalg5UEFaV0ZYWnRUZzNxclNodXAtNGUzSmhDeUhadkE3ZndXenR5VlU5WjlHUy02X3hqMGo2NDMwaXJFZDU1ajQ2bklyVjJoZWFZNFV6bVZGX3hXZ2VJaFh1Tl9hWVVXQ2Z3OTg?oc=5",
+    "timestamp": "2026-07-25T14:24:00+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "Punk rock legend Lou Koller dead at 59 after cancer battle pagesix.com",
+    "category": "core",
+    "sources": [
+      {
+        "name": "pagesix.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUTEyQzFPZnRma1NUSjBXWHBBQjN3WWQ2WUlOM3hqUkZHSF9famVjeXJ0OE54VDdLZUV0YmprNWtCOXhMalg5UEFaV0ZYWnRUZzNxclNodXAtNGUzSmhDeUhadkE3ZndXenR5VlU5WjlHUy02X3hqMGo2NDMwaXJFZDU1ajQ2bklyVjJoZWFZNFV6bVZGX3hXZ2VJaFh1Tl9hWVVXQ2Z3OTg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "See GENE SIMMONS And His Solo Band Perform In Bensalem, Pennsylvania",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/see-gene-simmons-and-his-solo-band-perform-in-bensalem-pennsylvania",
+    "timestamp": "2026-07-25T13:21:39+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "KISS bassist/vocalist Gene Simmons and his solo band, GENE SIMMONS BAND, performed this past Friday, July 24 at Xcite Center at Parx Casino in Bensalem, Pennsylvania. Front-row fan-filmed video of the entire concert can be seen below (uploaded by Tito Santana on YouTube). GENE SIMMONS BAND consists...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/see-gene-simmons-and-his-solo-band-perform-in-bensalem-pennsylvania"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "ADRIAN VANDENBERG Says His Upcoming 50th-Anniversary Album Will Be 'Very Special'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/adrian-vandenberg-says-his-upcoming-50th-anniversary-album-will-be-very-special",
+    "timestamp": "2026-07-25T13:03:24+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "In a new interview with SiriusXM's \"Trunk Nation With Eddie Trunk\", Dutch guitarist Adrian Vandenberg (WHITESNAKE) discussed his plans to celebrate his fiftieth anniversary as a musician in 2027. Among the projects in the works to mark the occasion are a documentary, a new album and a biography. The...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/adrian-vandenberg-says-his-upcoming-50th-anniversary-album-will-be-very-special"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Lou Koller dead: Beloved 80s musician dies aged 59 as band issue heartbreaking statement - AOL.co.uk",
+    "src": "AOL.co.uk",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44c2gyajBYOEZLajlpQnVvMFhzcm9TdVNvbWduSG5mZGpkS0ZucXZZbUZ4bEFYRWgyWWtvTWg1a1FnSEZnWnpzbUQwMVlybXlUU1VJejdmdWprTjJRM0cwODJlVDRiSjBOejg1Y2NfaDc2TG14LTZlSVEtWlhUUQ?oc=5",
+    "timestamp": "2026-07-25T07:33:42+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "Lou Koller dead: Beloved 80s musician dies aged 59 as band issue heartbreaking statement AOL.co.uk",
+    "category": "core",
+    "sources": [
+      {
+        "name": "AOL.co.uk",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44c2gyajBYOEZLajlpQnVvMFhzcm9TdVNvbWduSG5mZGpkS0ZucXZZbUZ4bEFYRWgyWWtvTWg1a1FnSEZnWnpzbUQwMVlybXlUU1VJejdmdWprTjJRM0cwODJlVDRiSjBOejg1Y2NfaDc2TG14LTZlSVEtWlhUUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "The HU Premiere New Music Video \"Horsemen\" - Metal Underground.com",
+    "src": "Metal Underground.com",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtRVprSjZaYjd2WmRRc3JBVTBBUXdxdzAxRl9oYnU2Zl9WQTFoRWhaMEMyNzREMUpLVnJiU0FiblZHMzJTd3VyZ2dhTG1OTUdyM0NtREFvTWFKLUVlNVFZOUhvWTFacUs4T2VJZzJvbmM?oc=5",
+    "timestamp": "2026-07-25T07:19:00+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "The HU Premiere New Music Video \"Horsemen\" Metal Underground.com",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Underground.com",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtRVprSjZaYjd2WmRRc3JBVTBBUXdxdzAxRl9oYnU2Zl9WQTFoRWhaMEMyNzREMUpLVnJiU0FiblZHMzJTd3VyZ2dhTG1OTUdyM0NtREFvTWFKLUVlNVFZOUhvWTFacUs4T2VJZzJvbmM?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Sick of It All frontman Lou Koller dies aged 59 after cancer battle as bandmates pay tribute to 'beloved friend' - The Sun",
+    "src": "The Sun",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTWsyQkZQWHZkNnM0MWxrQV94RXc0VEtLUGwxMHZzOHdKcTM4TmxxNGJZT3NFdXpXLU9CWFdaUXFiRmhzTVNOWmdjZFpwb0RMYWozdXg3WGsxLVVYR2ZrajVxOE92c3BMQ3AtamRKS2ZmUFBZX1kwQzVuTjVpNi01aDIzdVk3TXJsZ201dmM4SQ?oc=5",
+    "timestamp": "2026-07-25T07:16:00+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "Sick of It All frontman Lou Koller dies aged 59 after cancer battle as bandmates pay tribute to 'beloved friend' The Sun",
+    "category": "core",
+    "sources": [
+      {
+        "name": "The Sun",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTWsyQkZQWHZkNnM0MWxrQV94RXc0VEtLUGwxMHZzOHdKcTM4TmxxNGJZT3NFdXpXLU9CWFdaUXFiRmhzTVNOWmdjZFpwb0RMYWozdXg3WGsxLVVYR2ZrajVxOE92c3BMQ3AtamRKS2ZmUFBZX1kwQzVuTjVpNi01aDIzdVk3TXJsZ201dmM4SQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Lou Koller, Frontman of Hardcore Pioneers Sick of It All, Passes Away at 59 - se7en.ws",
+    "src": "se7en.ws",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVRPSzNfQS03RDlXdWszQUU2dU8xZ2JuMl83a1JsTUFYdmJQdlQyZWxhUTdiYnhkNkdoMWdCSEhlSE5hWUd6d2ZCbUJUbmRFM25iM29TUlVCaGI3bnZsZFV4NE5WXzJqQVRMWVhCT2xRbllmVVFpSkoxdm50Rmh3dFR4b2FDUkdrUEJGQnpzZU41SUFQeFQzakVWV1NoQ0w1?oc=5",
+    "timestamp": "2026-07-25T01:53:33+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "Lou Koller, Frontman of Hardcore Pioneers Sick of It All, Passes Away at 59 se7en.ws",
+    "category": "core",
+    "sources": [
+      {
+        "name": "se7en.ws",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVRPSzNfQS03RDlXdWszQUU2dU8xZ2JuMl83a1JsTUFYdmJQdlQyZWxhUTdiYnhkNkdoMWdCSEhlSE5hWUd6d2ZCbUJUbmRFM25iM29TUlVCaGI3bnZsZFV4NE5WXzJqQVRMWVhCT2xRbllmVVFpSkoxdm50Rmh3dFR4b2FDUkdrUEJGQnpzZU41SUFQeFQzakVWV1NoQ0w1?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Morrissey’s unseen teenage letters predicting he would become a “rock ’n’ roll star” are going up for auction",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/morrisseys-unseen-teenage-letters-predicting-he-would-become-a-rock-n-roll-star-are-going-up-for-auction-3958971?utm_source=rss&utm_medium=rss&utm_campaign=morrisseys-unseen-teenage-letters-predicting-he-would-become-a-rock-n-roll-star-are-going-up-for-auction",
+    "timestamp": "2026-07-25T16:51:02+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "The archive includes letters declaring “I always said I was a genius, but nobody listened”, as well as an account of his attempt to join The Clash The post Morrissey’s unseen teenage letters predicting he would become a “rock ’n’ roll star” are going up for auction appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/morrisseys-unseen-teenage-letters-predicting-he-would-become-a-rock-n-roll-star-are-going-up-for-auction-3958971?utm_source=rss&utm_medium=rss&utm_campaign=morrisseys-unseen-teenage-letters-predicting-he-would-become-a-rock-n-roll-star-are-going-up-for-auction"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Michael Stipe – “Hum Desiderata”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506306/michael-stipe-hum-desiderata/music/",
+    "timestamp": "2026-07-25T16:44:12+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "In April, Michael Stipe appeared on The Late Show With Stephen Colbert to debut a new song called \"The Rest Of Ever\" and reveal that he's readying his debut solo album. Now, the former R.E.M. frontman is sharing another preview titled \"Hum Desiderata.\" The post Michael Stipe – “Hum Desiderata” appeared first on Stereog",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506306/michael-stipe-hum-desiderata/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "See the Setlist for Karol G’s “Tropitour” Kick-Off in Chicago",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/karol-g-kicks-off-tropitour-tour/",
+    "timestamp": "2026-07-25T16:19:33+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "The 27-song concert set included numerous songs from her latest album Tropicoqueta and Mañana Será Bonito See the Setlist for Karol G’s “Tropitour” Kick-Off in Chicago Travis Bland",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/karol-g-kicks-off-tropitour-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Bon Dylan: Justin Vernon Plays Bob Dylan Covers Set At Eaux Claires 2026",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506289/bon-dylan-justin-vernon-plays-bob-dylan-covers-set-at-eaux-claires-2026/news/",
+    "timestamp": "2026-07-25T16:12:10+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "This year's Eaux Claires lineup included an interesting name: Bon Dylan. In April, we discovered it was Bon Iver doing a Bob Dylan covers set. That went down last night, which was the first day of the Wisconsin music festival at Carson Park. The post Bon Dylan: Justin Vernon Plays Bob Dylan Covers Set At Eaux Claires 2",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506289/bon-dylan-justin-vernon-plays-bob-dylan-covers-set-at-eaux-claires-2026/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘KPop Demon Hunters’ has been watched more than twice as much as Netflix’s second-biggest film",
+    "src": "NME",
+    "url": "https://www.nme.com/news/film/kpop-demon-hunters-has-been-watched-more-than-twice-as-much-as-netflixs-second-biggest-film-3958966?utm_source=rss&utm_medium=rss&utm_campaign=kpop-demon-hunters-has-been-watched-more-than-twice-as-much-as-netflixs-second-biggest-film",
+    "timestamp": "2026-07-25T16:04:40+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "See the full top 20 most-watched films from the streamer here, according to their own viewing reports The post ‘KPop Demon Hunters’ has been watched more than twice as much as Netflix’s second-biggest film appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/film/kpop-demon-hunters-has-been-watched-more-than-twice-as-much-as-netflixs-second-biggest-film-3958966?utm_source=rss&utm_medium=rss&utm_campaign=kpop-demon-hunters-has-been-watched-more-than-twice-as-much-as-netflixs-second-biggest-film"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Watch Hayley Williams bring out Jack Antonoff, Lucy Dacus, Jenny Lewis and more at Newport Folk Festival",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/watch-hayley-williams-bring-out-jack-antonoff-lucy-dacus-jenny-lewis-and-more-at-newport-folk-festival-3958962?utm_source=rss&utm_medium=rss&utm_campaign=watch-hayley-williams-bring-out-jack-antonoff-lucy-dacus-jenny-lewis-and-more-at-newport-folk-festival",
+    "timestamp": "2026-07-25T15:38:42+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "The star-studded set also featured Remi Wolf, Wednesday's Karly Hartzman, Joy Oladokun and a mass rendition of ‘Lean On Me’ The post Watch Hayley Williams bring out Jack Antonoff, Lucy Dacus, Jenny Lewis and more at Newport Folk Festival appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/watch-hayley-williams-bring-out-jack-antonoff-lucy-dacus-jenny-lewis-and-more-at-newport-folk-festival-3958962?utm_source=rss&utm_medium=rss&utm_campaign=watch-hayley-williams-bring-out-jack-antonoff-lucy-dacus-jenny-lewis-and-more-at-newport-folk-festival"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kurt Vile & Czarface’s Esoteric Finally Link Up Onstage In Boston",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506278/kurt-vile-czarfaces-esoteric-finally-link-up-onstage-in-boston/news/",
+    "timestamp": "2026-07-25T14:44:24+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "Kurt Vile and Czarface's Esoteric have finally linked up. A few months ago, the Philly rocker (who is rarely seen without his DOOM hat lately) named Czarface and MF DOOM’s 2021 LP Super What? as his \"Perfect 10\" album for Pitchfork. Czarface commented on the Instagram post, \"KV!! Let's get some music done!\" Last night ",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506278/kurt-vile-czarfaces-esoteric-finally-link-up-onstage-in-boston/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Sick Of It All Frontman Lou Koller Dead At 59",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506274/sick-of-it-all-frontman-lou-koller-dead-at-59/news/",
+    "timestamp": "2026-07-25T14:14:28+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "Lou Koller, the frontman of the longstanding New York hardcore band Sick Of It All, has died. The vocalist and co-founder revealed in 2024 that he had been diagnosed with esophageal cancer. The band announced his passing on social media yesterday. He was 59. The post Sick Of It All Frontman Lou Koller Dead At 59 appear",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506274/sick-of-it-all-frontman-lou-koller-dead-at-59/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Saddest Roast",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/trump-white-house-correspondents-dinner/",
+    "timestamp": "2026-07-25T14:12:12+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "Donald Trump's White House Correspondents' Dinner speech was a spectacular disaster. The Saddest Roast Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/trump-white-house-correspondents-dinner/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Bret Michaels Goes From Stage to Surgery",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/bret-michaels-goes-from-stage-to-surgery/",
+    "timestamp": "2026-07-25T13:44:00+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "Michaels is recovering from kidney stone surgery after performing through \"intense\" pain. Bret Michaels Goes From Stage to Surgery Travis Bland",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/bret-michaels-goes-from-stage-to-surgery/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Hayley Williams Brings Out Wednesday, This Is Lorelei, Jack Antonoff, & More At Newport Folk Festival",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506269/hayley-williams-brings-out-wednesday-this-is-lorelei-jack-antonoff-more-at-newport-folk-festival/news/",
+    "timestamp": "2026-07-25T13:34:43+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "No one is tapped in quite like Hayley Williams. That woman has taste. She brought Water From Your Eyes and Snuggle with her on her first solo tour , and there were many great guests, like Snooper , Julien Baker , and more. Last night she played the Newport Folk Festival and brought out Wednesday, This Is Lorelei, Jack ",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506269/hayley-williams-brings-out-wednesday-this-is-lorelei-jack-antonoff-more-at-newport-folk-festival/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kacey Musgraves' 2026 tour kicks off in less than a month, get tickets - Statesman Journal",
+    "src": "Statesman Journal",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUzdvQ2ZtWlhpbVctc2JTekZ5Qk1ieElaZ0NBbTlDRW13SzhtSjBrR2NZWHQ2NXZGcV9idzlyZVk2QXExOElfMWY0U1ZEUUlkLW15akNBRURtSUhrT0gzUWt4MG9ENm9NZ2kzLS1IWkRZZWJwVElPMVlZYlZRdWJYMmdGTFlXY0s4VDBpM2dWdnh1YzgyN3Z1cll4dkVQbk0zWEtXNGlmSm9Wd2Z4YVY4MnNPTHU4d0xfOUZuRVI3a003d2UtcDQ5ek95c0REbFdIZzZjSWxVNDBsOEJGZVQ3ZUJibEU2c1hjUDBQbzJB?oc=5",
+    "timestamp": "2026-07-25T13:01:40+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "Kacey Musgraves' 2026 tour kicks off in less than a month, get tickets Statesman Journal",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Statesman Journal",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUzdvQ2ZtWlhpbVctc2JTekZ5Qk1ieElaZ0NBbTlDRW13SzhtSjBrR2NZWHQ2NXZGcV9idzlyZVk2QXExOElfMWY0U1ZEUUlkLW15akNBRURtSUhrT0gzUWt4MG9ENm9NZ2kzLS1IWkRZZWJwVElPMVlZYlZRdWJYMmdGTFlXY0s4VDBpM2dWdnh1YzgyN3Z1cll4dkVQbk0zWEtXNGlmSm9Wd2Z4YVY4MnNPTHU4d0xfOUZuRVI3a003d2UtcDQ5ek95c0REbFdIZzZjSWxVNDBsOEJGZVQ3ZUJibEU2c1hjUDBQbzJB?oc=5"
+      },
+      {
+        "name": "The Newark Advocate",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSUVFSC01TUREUkViWFNhQXkxYUx1TmsyRkozTTVPNXYzRU1HYmNsR0pNMk4wdUhIb01oVHZ4STBRVkdUejFxMTR4RTBDTWI1THV5cGllNlo1TW9hSXdSeHJ5OWNudTZoRlI2N2JuZzhsQUNjRERHYU80dVQxNVJkVnVjWjNYeDZOZ3E4N3RFOFNDQUlaTkhaWnBucEhpSmh5U05xeFY4c3hMREdzR3Z1c2ZKVjVuQ1ctTXM4YmRfTFdEc01jOUg4ZUJ4cnB3YlZpWWs4UW1HSi1OdzA5V19NX19lNTNTOFpLcXdV?oc=5"
+      },
+      {
+        "name": "Lansing State Journal",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaUJqMy1uNHBIS3U0aThLTkl2NGZSMkV6eGFxQ0paT19NSjNwU0dReVlzZUctVTZFMF81X1dvejJPQ0NYWHdhQVR1b19NREphd3RoYkkxRXRHODVpMzd3SnpFXy1WeE4yYU9BaUJVMV82NzVMZ1dKaUpjZzhfWXZkSk8tNHBBT0ZpaW1Wc0Q1R1ZoSWZwUTdBc1otU0JLWVhCV0tDVnF6cG80Nks3X2RKSDFpNGhLTVlpTlJHYU9McjNDc0Z4VXVQbGFXeDVfdThaLWRFaERYclgxUFBnQ0xzNW1zUDZTdjJRNmFhWGMyeUJPZw?oc=5"
+      },
+      {
+        "name": "Columbia Daily Tribune",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOS3NxdFZ1TjRTOWtCVnViRHE3RFlwU1dmN1dRVDAtWjdYa1NXTW9ZM0FDUmw0TUZTcDJfeDl1SERuS0toWkFjV1VFWHdNb21xU2xMcWVGMXZRb0d6TXlKZVZGeXRTaUc3aEpmNUVEcGptTE5uX3gzQmh6aXNZc1UzNWFVQS1aeGU1bldoNkkwaWgwUW15dm1paC1USDB3WHBxMjM1b1dpUEVPME9VeVltR1F3VFNjeXJGSDhka3hmN2dUM1BpT3diR0dhcTd1N0JMcHVFUXlaR2hBa2pZeGNocDdtYW9FWXBjcU9vTA?oc=5"
+      },
+      {
+        "name": "Burlington Free Press",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN0R1SDdON0kzS2J1Smh4bFFsWUhxbzdqdzcycHR0WHZObFFmZnBCaXo5SWFXVVhadHExR3AwVHB5OEhIQWk5bTF5QXFBZjczdVJQdHRpZkhQbVZQaGd2YU85Q0ZQUkpzY0R1TW4yU2JiU3V5Y0tUZDhiMkJBMm01V3hKY2NqUkxSZ2t1cHZMczVnSUc4MDViVXd2OWJDWk1UZ3BzeEJabWV2dWhyc0pwMkZzMERpTF9Gc3VFWmdMQkIxM3g2VFRMaWRnMWp6NjhwT1dLVDRGYjZPMkZqMlJYLTBsNmJDaWw3TWtac2MzYVVrdw?oc=5"
+      },
+      {
+        "name": "Norwich Bulletin",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbFpYRWRFelpZUzR2RHVtbFBYdUtIYnNoRnFxYTVJaEVGM09aYmdkeHM3Zmd1NU80YnN1bWhPcnJxRWl6cS1ueWRieGtGbUFOWkYxa3NUd1o0b20tTkN3UWJrZTYtOVVRYW9tbkFQbzRGYS1USnhjNE1idm5HUkNkS2FMbTlvYmV4UDVEYklOU20wWVhieWRfUG5WVXlsUzQ2eFhWdjV1bk5RVUt3WGNvUXNoRVhfQlN3Zml1M3FUQnp1SkdKa3RUcnpYVDI3T3lqdk8ycHNyVjZIR2pJRHl5aXhZZXZkTnRlbDRzWg?oc=5"
+      },
+      {
+        "name": "Daily American",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZVQ2RDJGTGZOcXFXdGR2YndTOW1KSFlGZF9QTXg2UHhES25JZlFFSjU0UjBYbmg3QWxlVWRyNmNwQ1I1M3YxSng3R2xGQU4tSnJ3LTBsaTM1TEg3TDZ4VHJhd2w3M1JfLTZQTmJmS25vWHFfUVJkb3NWbXJkNkV4X2lDN1RhY1E3WXdRYy1obzlXdkZUcFhhTkFQMUtIbm9DVmk0dXRObV9LYmJyV291ek8tNXlwQjRqb0hLSjl4aE5wNDBfdGJSa2NDdVdDNFpFQWRYenJDRnpuak44amZLRS15SXNsWDBVZmc?oc=5"
+      },
+      {
+        "name": "Argus Leader",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYlRSQXdzTEoxU0I3RDIwNjBIVUxoaUhjRjRUVVQwdGxvVkdXSEtWQUFkMVpwbl9nTTFoU0JhbVFEZU1LWGhncDgzRG9KN0hab0thbXhzVEdKbV9pWndteDBONFhxcTktMHVUV0tHbEdnX1ZCbWhOakJkUTBiazVnTWFPcE1GakVocmNIaUtodkFKTFJmM2dSMHZXbHZNbUpWLThuN3UxeWE2WU1XTzBGYjBwNEtPa0dYTnFya3NqbG1EeXF6OTVnODFtbjdvalE1eG5lNXR6eU4yLUVvcDFERDlDeEhQNlE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 8,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kacey Musgraves' 2026 tour kicks off in less than a month, get tickets - The News-Press",
+    "src": "The News-Press",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT1h0ZlMwUXg0alFSNDU5NXAzNWMxbWFONWpobDJJRWFlbV9PV1AtMEg3RVZHRTZLNmpBMHJZcUx3OVcyR2ZNd0xENDFUcTIxUUkzRTNPSUdwZ3YycHh0bVhuaEJiejlEQ3c4QVI0YjJKMU5yS0ZrTUVGVnZhNW85TlVnWmJmaEVsbnpjSlRnYnZpOVJ5RGtjMURocDE3T3o0WDd1UFd1SjFXRVE2bTZIZF9tcTJmMmhLV0RITTVRQjAwdFJtTkEyTnkzaUtTakotekF4V042NVdJelNscEVWYVJCVUI3QQ?oc=5",
+    "timestamp": "2026-07-25T13:00:20+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "Kacey Musgraves' 2026 tour kicks off in less than a month, get tickets The News-Press",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The News-Press",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT1h0ZlMwUXg0alFSNDU5NXAzNWMxbWFONWpobDJJRWFlbV9PV1AtMEg3RVZHRTZLNmpBMHJZcUx3OVcyR2ZNd0xENDFUcTIxUUkzRTNPSUdwZ3YycHh0bVhuaEJiejlEQ3c4QVI0YjJKMU5yS0ZrTUVGVnZhNW85TlVnWmJmaEVsbnpjSlRnYnZpOVJ5RGtjMURocDE3T3o0WDd1UFd1SjFXRVE2bTZIZF9tcTJmMmhLV0RITTVRQjAwdFJtTkEyTnkzaUtTakotekF4V042NVdJelNscEVWYVJCVUI3QQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Sean “Diddy” Combs In Solitary Confinement After Reportedly Being Involved in a Prison Fight - mxdwn Music",
+    "src": "mxdwn Music",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeGhIblZlNWRxa083b2Z2NEYtWmJZdTVaaklPby1yMlU4MGVGZVlCZ3JoWGg5SEpxdGdnYjhWTkhsRnBCMGlGVG5aQUZLZzZVTDlrYVB4c09hZUxUVm9adVFzTng1MldvVXdmZ1FqcEFwQnpvVjU3Ql9tdENKSGFULVdJNjNScVQtRFlZRVhtMjVRLWNaNE1wbWktd09jekwzVkc3MVFFX2NCWS1jU2RSNWgycWoyOVhRZVc1WkZZOWVrZ0hEYi12a2VRS2R2TE1f0gHQAUFVX3lxTE94aEhuVmU1ZHFrTzdvZnY0Ri1aYll1NVpqSU9vLXIyVTgwZUZlWUJncmhYaDlISnF0Z2diOFZOSGxGcEIwaUZUblpBRktnNlVMOWthUHhzT2FlTFRWb1p1UXNOeDUyV29Vd2ZnUWpwQXBCem9WNTdCX210Q0pIYVQtV0k2M1JxVC1EWVlFWG0yNVEtY1o0TXBtaS13T2N6TDNWRzcxUUVfY0JZLWNTZFI1aDJxajI5WFFlVzVaRlk5ZWtnSERiLXZrZVFLZHZMTV8?oc=5",
+    "timestamp": "2026-07-25T06:12:18+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "Sean “Diddy” Combs In Solitary Confinement After Reportedly Being Involved in a Prison Fight mxdwn Music",
+    "category": "general",
+    "sources": [
+      {
+        "name": "mxdwn Music",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeGhIblZlNWRxa083b2Z2NEYtWmJZdTVaaklPby1yMlU4MGVGZVlCZ3JoWGg5SEpxdGdnYjhWTkhsRnBCMGlGVG5aQUZLZzZVTDlrYVB4c09hZUxUVm9adVFzTng1MldvVXdmZ1FqcEFwQnpvVjU3Ql9tdENKSGFULVdJNjNScVQtRFlZRVhtMjVRLWNaNE1wbWktd09jekwzVkc3MVFFX2NCWS1jU2RSNWgycWoyOVhRZVc1WkZZOWVrZ0hEYi12a2VRS2R2TE1f0gHQAUFVX3lxTE94aEhuVmU1ZHFrTzdvZnY0Ri1aYll1NVpqSU9vLXIyVTgwZUZlWUJncmhYaDlISnF0Z2diOFZOSGxGcEIwaUZUblpBRktnNlVMOWthUHhzT2FlTFRWb1p1UXNOeDUyV29Vd2ZnUWpwQXBCem9WNTdCX210Q0pIYVQtV0k2M1JxVC1EWVlFWG0yNVEtY1o0TXBtaS13T2N6TDNWRzcxUUVfY0JZLWNTZFI1aDJxajI5WFFlVzVaRlk5ZWtnSERiLXZrZVFLZHZMTV8?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
   },
   {
     "title": "William Shatner — yes, that William Shatner — to debut his heavy metal band The *uckers - Entertainment Weekly",
@@ -5512,10 +6280,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -8530,6 +9298,123 @@
       {
         "name": "Yahoo",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZlg0WWJYN19xQTY0aDM0VVZiX19BN3Y3MEdMUXloX2doM0Fwdm9SUEJ3cmZkWE5CT1ZxVURyaExSYTNVUmpwVDJ5NElLa0ZLRmM3TnoxTGVtNkxtMXhfczdkNE5ycEJHQWdyTGpRMEw1Zml1Zlh3Zml2ZThZQlQ4NDA4TWVXSjRjMzlKMENOeTJwNy1QY3VKb2VxX0pYZEtk?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "b": "ONRA S",
+    "t": "Heart of America",
+    "g": "folk",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "24 Jul",
+    "isoDate": "2026-07-24",
+    "url": "https://musicbrainz.org/release-group/bd82335b-4230-4898-8ef9-de1a5953d910",
+    "d": "country, folk rock, country rock, americana",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/bd82335b-4230-4898-8ef9-de1a5953d910"
+      }
+    ],
+    "mbid": "bd82335b-4230-4898-8ef9-de1a5953d910",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Imprum",
+    "t": "Verba",
+    "g": "electro",
+    "fmt": "EP",
+    "lbl": "MusicBrainz",
+    "date": "24 Jul",
+    "isoDate": "2026-07-24",
+    "url": "https://musicbrainz.org/release-group/431af1db-06ba-4f18-9ff4-27d6fb5a2152",
+    "d": "electronic, ambient, synth, psybient",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/431af1db-06ba-4f18-9ff4-27d6fb5a2152"
+      }
+    ],
+    "mbid": "431af1db-06ba-4f18-9ff4-27d6fb5a2152",
+    "star": false,
+    "kind": "release",
+    "section": "main"
+  },
+  {
+    "title": "Hugh Jackman Reportedly Thinks Sutton Foster Is ‘The One’ - Reality Tea",
+    "src": "Reality Tea",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ014NnBEOHBxc1h6OWlVc1pWTkEyaFgtY19GWm82SjR6LWs0YjZjV1VHdnA1Nlk3OGtQNVlKRDZOWnlYLXIzSDczOXNibE11MkF0cUlCY3BuNFpOT1c5UXlVWnQtUU5fYnBISE9IaEFxR19kR3RxODA4Umw1cHZ4XzdSMllfeXJWcU5BS9IBkgFBVV95cUxOdHR5WmppZk5JUHdLZ29pcjlKcGhvR2w3amhQVnExN3FJWU05SndzMm4zenVkNDBPOHFVaWNMS0tzRF9vRG8wUGNDUlR0MGlCb3lBeEhLblFEM0hSWDNqeWZ2ZGlWT3JDVXBicUZJcW91dGFQMHpES3UzQWRiVTR4M2RrdDl2UXR5Y2h0T2h1TjhIdw?oc=5",
+    "timestamp": "2026-07-24T15:32:58+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Hugh Jackman Reportedly Thinks Sutton Foster Is ‘The One’ Reality Tea",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Reality Tea",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ014NnBEOHBxc1h6OWlVc1pWTkEyaFgtY19GWm82SjR6LWs0YjZjV1VHdnA1Nlk3OGtQNVlKRDZOWnlYLXIzSDczOXNibE11MkF0cUlCY3BuNFpOT1c5UXlVWnQtUU5fYnBISE9IaEFxR19kR3RxODA4Umw1cHZ4XzdSMllfeXJWcU5BS9IBkgFBVV95cUxOdHR5WmppZk5JUHdLZ29pcjlKcGhvR2w3amhQVnExN3FJWU05SndzMm4zenVkNDBPOHFVaWNMS0tzRF9vRG8wUGNDUlR0MGlCb3lBeEhLblFEM0hSWDNqeWZ2ZGlWT3JDVXBicUZJcW91dGFQMHpES3UzQWRiVTR4M2RrdDl2UXR5Y2h0T2h1TjhIdw?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Anthony Hopkins To Release an Album of Classical Music He’s Created Throughout His Life - My Modern Met",
+    "src": "My Modern Met",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oRFZKS2hPTWZaNDcycXU3d3B0UkZQSzUwNnM5emthYVpFZjFmdkhuUG00bXlJVEhIQ29aeWhmVEtTTFVHYWgwVFJWb18tNTBvSVVWQVJOdmttdTEtbHdJ?oc=5",
+    "timestamp": "2026-07-24T13:54:11+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Anthony Hopkins To Release an Album of Classical Music He’s Created Throughout His Life My Modern Met",
+    "category": "general",
+    "sources": [
+      {
+        "name": "My Modern Met",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oRFZKS2hPTWZaNDcycXU3d3B0UkZQSzUwNnM5emthYVpFZjFmdkhuUG00bXlJVEhIQ29aeWhmVEtTTFVHYWgwVFJWb18tNTBvSVVWQVJOdmttdTEtbHdJ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The New Rock + Metal Albums Out Today - Loudwire",
+    "src": "Loudwire",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nTUp5MUNLYUxYdTdBNzBoMmt3ajZFcjhxSXl3MGJsWU1ra1U0UEoxa2pacEE4bGp1NHJtMkZmUFVUa2xteHZEbDlqZWpsTkx6bXhtLVVSTENISkZULWFrZnpzYS0zLUZXbXZqMy1RVVE3VlE?oc=5",
+    "timestamp": "2026-07-24T04:01:48+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "The New Rock + Metal Albums Out Today Loudwire",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nTUp5MUNLYUxYdTdBNzBoMmt3ajZFcjhxSXl3MGJsWU1ra1U0UEoxa2pacEE4bGp1NHJtMkZmUFVUa2xteHZEbDlqZWpsTkx6bXhtLVVSTENISkZULWFrZnpzYS0zLUZXbXZqMy1RVVE3VlE?oc=5"
       }
     ],
     "status": "official",
@@ -13508,13 +14393,13 @@
     "section": "buzz"
   },
   {
-    "title": "Morreu Luís Represas, a voz do Trovante, cantor de Feiticeira ou Timor - Público",
+    "title": "Morreu Luís Represas, a voz do Trovante, de Feiticeira ou Timor | Música - Público",
     "src": "Público",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ2I0SHZ3YTB6MXJUOHZUa2FFcUtaakxUR3dfSGpPTlNUdDZ0YVVCZ08wTWNaOXlCNTlwWi03VlNHRVpxbmhuX2JOQTVlQUl5b2dseDJ6YldUT21rTXdyVXM2UkNzT3ZXSy1NNkhXRUl6YVlJRFZnWU1rVGRUNmxFWkdBcV9OSTNWdldmUEJ4dmkzV2lhdmw1UV9BYndjZmFmRVJvaWhtRzFhWktlX01OMlBlOTVoTngxVWh2Q3BfWQ?oc=5",
     "timestamp": "2026-07-23T11:15:00+00:00",
     "isoDate": "2026-07-23",
     "date": "23 Jul",
-    "d": "Morreu Luís Represas, a voz do Trovante, cantor de Feiticeira ou Timor Público",
+    "d": "Morreu Luís Represas, a voz do Trovante, de Feiticeira ou Timor | Música Público",
     "category": "pt",
     "sources": [
       {
@@ -14418,6 +15303,56 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Queen | We Will Rock You, Movie, Freddie Mercury, Songs, Band Members, Albums, & Facts - Encyclopedia Britannica",
+    "src": "Encyclopedia Britannica",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mLUgwS3dEc0hCUFlOTVV5aGoxaHBGczFhQTV5TDVnS2llWDJtRUsySF92cnVhYXpNbXBWeDBBaDZIRVpDMHV0T2JnSVVWQ050bDQ1NGZYdGdkUnF3c1Y2bmEwLS1OeFd5?oc=5",
+    "timestamp": "2026-07-23T05:00:00+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Queen | We Will Rock You, Movie, Freddie Mercury, Songs, Band Members, Albums, & Facts Encyclopedia Britannica",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Encyclopedia Britannica",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mLUgwS3dEc0hCUFlOTVV5aGoxaHBGczFhQTV5TDVnS2llWDJtRUsySF92cnVhYXpNbXBWeDBBaDZIRVpDMHV0T2JnSVVWQ050bDQ1NGZYdGdkUnF3c1Y2bmEwLS1OeFd5?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Toronto Bands Proved That Community Goes Beyond the Scene at Parkdale Activity Recreation Centre Benefit - Exclaim!",
+    "src": "Exclaim!",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSTNfMlhSWXltRUFZd2d4SXBibHIxd0tIMmlLWlpabUZSaUlBU1RTd2hvVzMwQm44TjNIZWlJV3FZcUtEUnVsT3ZWNnhnM2U1eUQ4cGJkTVdTSDZZQ3V2TkNyVXBYRWo0bzBURTNEMmw3R3l5S1lRT3dUbkZINlBxcVJyVl9Id1FmNnZ3OGQyTQ?oc=5",
+    "timestamp": "2026-07-23T07:00:00+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Toronto Bands Proved That Community Goes Beyond the Scene at Parkdale Activity Recreation Centre Benefit Exclaim!",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Exclaim!",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSTNfMlhSWXltRUFZd2d4SXBibHIxd0tIMmlLWlpabUZSaUlBU1RTd2hvVzMwQm44TjNIZWlJV3FZcUtEUnVsT3ZWNnhnM2U1eUQ4cGJkTVdTSDZZQ3V2TkNyVXBYRWo0bzBURTNEMmw3R3l5S1lRT3dUbkZINlBxcVJyVl9Id1FmNnZ3OGQyTQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
   },
   {
     "b": "Noumena",
@@ -17195,10 +18130,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -19373,10 +20308,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -22267,6 +23202,56 @@
       {
         "name": "dnoticias.pt",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUTdjLXZqd0I5ckRBS2RsWXd1VENnbTZTSDVLRnFMdUF0bUlSTjY3Uzd4QkR0MkVXR08tTEk1cnRycFgtNXlpY1JWaGtmZVlXWVpMZTBEQ3hfa0NlbXJtazQ3OURXOFA1X0h4NTlJY0YxNElhMmVjV0ZNU0d0eUUwZFd3ekpGUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Live Music Happening in Charlotte: July 22-August 4, 2026 - Queen City Nerve",
+    "src": "Queen City Nerve",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LejQ4bTVndHRZenBLZlpmaWcycVlEbDRaajVabmJ5MFFnd2V1QXdydjFMSEtwVkZmQ2NheGs0NHYwZnhFVUdaTEtmbEhOZjBrVEZkamhzdw?oc=5",
+    "timestamp": "2026-07-22T07:00:00+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Live Music Happening in Charlotte: July 22-August 4, 2026 Queen City Nerve",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Queen City Nerve",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LejQ4bTVndHRZenBLZlpmaWcycVlEbDRaajVabmJ5MFFnd2V1QXdydjFMSEtwVkZmQ2NheGs0NHYwZnhFVUdaTEtmbEhOZjBrVEZkamhzdw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Morreu Luís Represas. A voz de \"125 Azul\" despede-se, mas a canção continuará a viajar sobre duas rodas - Motojornal",
+    "src": "Motojornal",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVFBjQ2cyOE53M096QlRoTXV4SlFwVFZRY2kzb2dfUC10QU5fR0pBTFRPNlJtSVBhNFBSOWJsRDhibXNDNDJDZW5VemEzVmFQcWhxTFJHS3RMR05qNS1rNl81Wkk1dVFYb3lUbmp2RUtvOWRDeWI4djBYMmVPeU1kS0QwNW9zQ3JVekkxN1hycGdzcVJNZ1piWllubXJmOTUxd3VpRVJ3aEhQZXVkbFdIX1E4anpfcVJTcWZVWHpSUQ?oc=5",
+    "timestamp": "2026-07-22T12:50:25+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Morreu Luís Represas. A voz de \"125 Azul\" despede-se, mas a canção continuará a viajar sobre duas rodas Motojornal",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Motojornal",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVFBjQ2cyOE53M096QlRoTXV4SlFwVFZRY2kzb2dfUC10QU5fR0pBTFRPNlJtSVBhNFBSOWJsRDhibXNDNDJDZW5VemEzVmFQcWhxTFJHS3RMR05qNS1rNl81Wkk1dVFYb3lUbmp2RUtvOWRDeWI4djBYMmVPeU1kS0QwNW9zQ3JVekkxN1hycGdzcVJNZ1piWllubXJmOTUxd3VpRVJ3aEhQZXVkbFdIX1E4anpfcVJTcWZVWHpSUQ?oc=5"
       }
     ],
     "status": "official",
@@ -29056,31 +30041,6 @@
     "section": "news"
   },
   {
-    "title": "Queen | We Will Rock You, Movie, Freddie Mercury, Songs, Band Members, Albums, & Facts - Encyclopedia Britannica",
-    "src": "Encyclopedia Britannica",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mLUgwS3dEc0hCUFlOTVV5aGoxaHBGczFhQTV5TDVnS2llWDJtRUsySF92cnVhYXpNbXBWeDBBaDZIRVpDMHV0T2JnSVVWQ050bDQ1NGZYdGdkUnF3c1Y2bmEwLS1OeFd5?oc=5",
-    "timestamp": "2026-07-20T05:00:00+00:00",
-    "isoDate": "2026-07-20",
-    "date": "20 Jul",
-    "d": "Queen | We Will Rock You, Movie, Freddie Mercury, Songs, Band Members, Albums, & Facts Encyclopedia Britannica",
-    "category": "metal",
-    "sources": [
-      {
-        "name": "Encyclopedia Britannica",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mLUgwS3dEc0hCUFlOTVV5aGoxaHBGczFhQTV5TDVnS2llWDJtRUsySF92cnVhYXpNbXBWeDBBaDZIRVpDMHV0T2JnSVVWQ050bDQ1NGZYdGdkUnF3c1Y2bmEwLS1OeFd5?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "news"
-  },
-  {
     "title": "Warped Tour D.C.: Jimmy Eat World, Rise Against, Sleeping With Sirens - TicketNews",
     "src": "TicketNews",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSTcwazI2U2thX2t6bk91U3Bld0NzOGNnZWhFWHJJSmxyY2N3aHZYOFpWSW1BRHA1dHpGb0xJY2pUczNPbWh1VlpkVjZtM292eVpSOTlGdDhsZ2pnQXJSQ3AtODFkUkdXOGNfcVc4ZE5JWW5BRS1lMEkxM0hRNmNtUWNIdWtEa29ibm9EbXQzV2hYbFJlYlJBNVZCRjVjY1VrXzU4?oc=5",
@@ -29168,6 +30128,31 @@
       {
         "name": "Web Rádio NelSons",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT2t6U29STE5rV09uMHpjYy1WdkozSVRJcUpYVDVkS0xfcGJSRy1RaVZwYk84ZTVTSmtCRnhRd3pKV1JFZUVpVnIxX0NHV2hkdDlGdFIyc3dxQTlRWWttWUplaWpLMmpFNmx1ZzF3VTRNVWZqWjRoM1RJWlhId1IyRGRqOFFZOGx5dl9kMHRTSHp3NEJKbGZ5S3RuQWZQTEtGWUlyaEdmQldib3JIMEpCUkpPemZ4Zm91TEp6dkp0cHc3azNK?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Os melhores concertos em Lisboa para esta semana - Time Out Lisboa",
+    "src": "Time Out Lisboa",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXZvejZnWkdidFBFSUtlVVpTTXlCMGFyMEIwU1FtTG9WazBaajdRcWxKTEsyMVBzSlgwZE16ZEJBcGtOdFJnUy0taDdHV0ZjV1E2cnd5bVdha01DYnBCN0pwenFTQ0hZRjI2ZF9oOVYzN0hKQzB0UGM4R25rNFdjRGh1WVJWZHlJWS0w?oc=5",
+    "timestamp": "2026-07-20T23:00:00+00:00",
+    "isoDate": "2026-07-20",
+    "date": "20 Jul",
+    "d": "Os melhores concertos em Lisboa para esta semana Time Out Lisboa",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Time Out Lisboa",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXZvejZnWkdidFBFSUtlVVpTTXlCMGFyMEIwU1FtTG9WazBaajdRcWxKTEsyMVBzSlgwZE16ZEJBcGtOdFJnUy0taDdHV0ZjV1E2cnd5bVdha01DYnBCN0pwenFTQ0hZRjI2ZF9oOVYzN0hKQzB0UGM4R25rNFdjRGh1WVJWZHlJWS0w?oc=5"
       }
     ],
     "status": "official",
