@@ -156,10 +156,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -356,10 +356,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -381,10 +381,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -406,10 +406,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -431,10 +431,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -456,10 +456,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -481,10 +481,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -595,6 +595,496 @@
     "score": "",
     "cat": "general",
     "releaseKey": "pitchfork|finessin distribution deals",
+    "kind": "review",
+    "section": "rev"
+  },
+  {
+    "title": "Heavy metal crowd left ‘crying and vomiting’ after fan does ‘massive’ poo in moshpit - LADbible",
+    "src": "LADbible",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDhaZDFTd2l3NE1LRTRiZ2luRWh1ckpxSUNWMk9NanRiU0xiSnEzVlc3VlF6Q25lOHNuU0xNaWdVMkpPRkxTZHJCLVM3TDh3azFwZ3dUNEdXN0duWk1PeThUMmdnQ0hVbFJVWkE0cGtEUGlUbmlsczgxY3BJSTdBNldURERNS1lFbXJSTFNienQyQlpRWDZFeFJ6N1NVWUlQN1hVQg?oc=5",
+    "timestamp": "2026-07-29T04:32:05+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "Heavy metal crowd left ‘crying and vomiting’ after fan does ‘massive’ poo in moshpit LADbible",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "LADbible",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDhaZDFTd2l3NE1LRTRiZ2luRWh1ckpxSUNWMk9NanRiU0xiSnEzVlc3VlF6Q25lOHNuU0xNaWdVMkpPRkxTZHJCLVM3TDh3azFwZ3dUNEdXN0duWk1PeThUMmdnQ0hVbFJVWkE0cGtEUGlUbmlsczgxY3BJSTdBNldURERNS1lFbXJSTFNienQyQlpRWDZFeFJ6N1NVWUlQN1hVQg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "35 Years Ago Today: Metallica Released One of the Greatest Rock Songs of All Time - Men's Journal",
+    "src": "Men's Journal",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG8ta245R2lkOU8xUHBnUDZoeUdFc2N4X0otV2lqVnVicU94UWNrWEhTVnYtYjBjTkhJODU5RS1STy0tYmNOWkJYZlNBLWNOdHdXZU1CVWVRUHRXNWJPV3dDdnBoSVRZN2tpN0V0VzNQZlQzbWM3YjJvTVFJb2I1aEktek14QWpUd0ZqeG41NkF5RzNuUVRlTElPbWptR0tLOUZDMEVBamZ1VTVFZ0FsVHZzMA?oc=5",
+    "timestamp": "2026-07-29T10:15:00+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "35 Years Ago Today: Metallica Released One of the Greatest Rock Songs of All Time Men's Journal",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Men's Journal",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVG8ta245R2lkOU8xUHBnUDZoeUdFc2N4X0otV2lqVnVicU94UWNrWEhTVnYtYjBjTkhJODU5RS1STy0tYmNOWkJYZlNBLWNOdHdXZU1CVWVRUHRXNWJPV3dDdnBoSVRZN2tpN0V0VzNQZlQzbWM3YjJvTVFJb2I1aEktek14QWpUd0ZqeG41NkF5RzNuUVRlTElPbWptR0tLOUZDMEVBamZ1VTVFZ0FsVHZzMA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Heavy metal band responds to 'code brown' incident after fan does 'massive' poo in moshpit - LADbible",
+    "src": "LADbible",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeF9pNUltemlfMU9NS040OW5GX0ZqTGt1OFVabVJ6cmtpQkw1aVA0RkxfSGl4R2FkV2IxVi04RlNBSUYxaVJBNmtXVDIweTNIWl91TFotZ2JJS2tBaDVUV1JUM2w3a0RRd0NEMmVzTWFlTG9HTWFZTGF6TGJMQUV0MVBqdDEteTY5NzFRSkMtaWtzeklmZGV3ag?oc=5",
+    "timestamp": "2026-07-29T09:04:45+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "Heavy metal band responds to 'code brown' incident after fan does 'massive' poo in moshpit LADbible",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "LADbible",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeF9pNUltemlfMU9NS040OW5GX0ZqTGt1OFVabVJ6cmtpQkw1aVA0RkxfSGl4R2FkV2IxVi04RlNBSUYxaVJBNmtXVDIweTNIWl91TFotZ2JJS2tBaDVUV1JUM2w3a0RRd0NEMmVzTWFlTG9HTWFZTGF6TGJMQUV0MVBqdDEteTY5NzFRSkMtaWtzeklmZGV3ag?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Spiritbox’s Courtney LaPlante defends ejecting “old drunk man punching people in the head” from gig after online criticism",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/spiritboxs-courtney-laplante-defends-ejecting-old-drunk-man-punching-people-in-the-head-from-gig-after-online-criticism-3959592?utm_source=rss&utm_medium=rss&utm_campaign=spiritboxs-courtney-laplante-defends-ejecting-old-drunk-man-punching-people-in-the-head-from-gig-after-online-criticism",
+    "timestamp": "2026-07-29T11:23:16+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "The fan was ejected during a show in Arizona The post Spiritbox’s Courtney LaPlante defends ejecting “old drunk man punching people in the head” from gig after online criticism appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/spiritboxs-courtney-laplante-defends-ejecting-old-drunk-man-punching-people-in-the-head-from-gig-after-online-criticism-3959592?utm_source=rss&utm_medium=rss&utm_campaign=spiritboxs-courtney-laplante-defends-ejecting-old-drunk-man-punching-people-in-the-head-from-gig-after-online-criticism"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Glen Hansard dies following motorcycle crash in Dublin",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/glen-hansard-dies-following-motorcycle-crash-in-dublin-3959610?utm_source=rss&utm_medium=rss&utm_campaign=glen-hansard-dies-following-motorcycle-crash-in-dublin",
+    "timestamp": "2026-07-29T11:18:18+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "The singer also starred in films ‘The Commitments’ and ‘Once’ and was frontman of The Frames The post Glen Hansard dies following motorcycle crash in Dublin appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/glen-hansard-dies-following-motorcycle-crash-in-dublin-3959610?utm_source=rss&utm_medium=rss&utm_campaign=glen-hansard-dies-following-motorcycle-crash-in-dublin"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘American Horror Story’ will revive classic characters from Evan Peters, Jessica Lange and more in Avengers-style team-up season, says Ryan Murphy",
+    "src": "NME",
+    "url": "https://www.nme.com/news/tv/american-horror-story-will-revive-classic-characters-from-evan-peters-jessica-lange-and-more-in-avengers-style-team-up-season-says-ryan-murphy-3959609?utm_source=rss&utm_medium=rss&utm_campaign=american-horror-story-will-revive-classic-characters-from-evan-peters-jessica-lange-and-more-in-avengers-style-team-up-season-says-ryan-murphy",
+    "timestamp": "2026-07-29T11:11:08+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "\"They all come together to defeat the ultimate evil\" The post ‘American Horror Story’ will revive classic characters from Evan Peters, Jessica Lange and more in Avengers-style team-up season, says Ryan Murphy appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/tv/american-horror-story-will-revive-classic-characters-from-evan-peters-jessica-lange-and-more-in-avengers-style-team-up-season-says-ryan-murphy-3959609?utm_source=rss&utm_medium=rss&utm_campaign=american-horror-story-will-revive-classic-characters-from-evan-peters-jessica-lange-and-more-in-avengers-style-team-up-season-says-ryan-murphy"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Boy George says he used AI to create his controversial new pro-Israel reggae song ‘We Will Dance Again’",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/boy-george-says-he-used-ai-to-create-his-controversial-new-pro-israel-reggae-song-we-will-dance-again-3959572?utm_source=rss&utm_medium=rss&utm_campaign=boy-george-says-he-used-ai-to-create-his-controversial-new-pro-israel-reggae-song-we-will-dance-again",
+    "timestamp": "2026-07-29T10:30:46+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "The Culture Club frontman posted the song on social media over the weekend The post Boy George says he used AI to create his controversial new pro-Israel reggae song ‘We Will Dance Again’ appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/boy-george-says-he-used-ai-to-create-his-controversial-new-pro-israel-reggae-song-we-will-dance-again-3959572?utm_source=rss&utm_medium=rss&utm_campaign=boy-george-says-he-used-ai-to-create-his-controversial-new-pro-israel-reggae-song-we-will-dance-again"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘Okami’ soundtrack getting 20th anniversary vinyl reissue",
+    "src": "NME",
+    "url": "https://www.nme.com/news/gaming-news/okami-soundtrack-getting-20th-anniversary-vinyl-reissue-3959593?utm_source=rss&utm_medium=rss&utm_campaign=okami-soundtrack-getting-20th-anniversary-vinyl-reissue",
+    "timestamp": "2026-07-29T10:27:51+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "The 4LP boxset is available to order now The post ‘Okami’ soundtrack getting 20th anniversary vinyl reissue appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/gaming-news/okami-soundtrack-getting-20th-anniversary-vinyl-reissue-3959593?utm_source=rss&utm_medium=rss&utm_campaign=okami-soundtrack-getting-20th-anniversary-vinyl-reissue"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "French DJ and ‘Nightcall’ star Kavinsky found dead in Paris home",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/french-dj-kavinsky-found-dead-in-paris-home-3959591?utm_source=rss&utm_medium=rss&utm_campaign=french-dj-kavinsky-found-dead-in-paris-home",
+    "timestamp": "2026-07-29T10:26:22+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "The electronic music star performed at the Olympics closing ceremony in 2024 The post French DJ and ‘Nightcall’ star Kavinsky found dead in Paris home appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/french-dj-kavinsky-found-dead-in-paris-home-3959591?utm_source=rss&utm_medium=rss&utm_campaign=french-dj-kavinsky-found-dead-in-paris-home"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Steve Lacy accidentally spoils major ‘Spider-Man: Brand New Day’ character reveal in red carpet interview",
+    "src": "NME",
+    "url": "https://www.nme.com/news/film/steve-lacy-accidentally-spoils-major-spider-man-brand-new-day-character-reveal-in-red-carpet-interview-3959579?utm_source=rss&utm_medium=rss&utm_campaign=steve-lacy-accidentally-spoils-major-spider-man-brand-new-day-character-reveal-in-red-carpet-interview",
+    "timestamp": "2026-07-29T10:02:44+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "The slip-up happened during a livestream from the premiere The post Steve Lacy accidentally spoils major ‘Spider-Man: Brand New Day’ character reveal in red carpet interview appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/film/steve-lacy-accidentally-spoils-major-spider-man-brand-new-day-character-reveal-in-red-carpet-interview-3959579?utm_source=rss&utm_medium=rss&utm_campaign=steve-lacy-accidentally-spoils-major-spider-man-brand-new-day-character-reveal-in-red-carpet-interview"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Watch Wunderhorse debut new songs ‘Kerosene’ and ‘Promises’ as they kick off 2026 North American tour",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/watch-wunderhorse-debut-new-songs-kerosene-and-promises-as-they-kick-off-2026-north-american-tour-3959580?utm_source=rss&utm_medium=rss&utm_campaign=watch-wunderhorse-debut-new-songs-kerosene-and-promises-as-they-kick-off-2026-north-american-tour",
+    "timestamp": "2026-07-29T09:59:53+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "They have been playing the two new tracks at each of their recent live shows, and are expected to break them out at a huge UK show planned for next month The post Watch Wunderhorse debut new songs ‘Kerosene’ and ‘Promises’ as they kick off 2026 North American tour appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/watch-wunderhorse-debut-new-songs-kerosene-and-promises-as-they-kick-off-2026-north-american-tour-3959580?utm_source=rss&utm_medium=rss&utm_campaign=watch-wunderhorse-debut-new-songs-kerosene-and-promises-as-they-kick-off-2026-north-american-tour"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘Spider-Man: Brand New Day’ is coming to ‘Fortnite’",
+    "src": "NME",
+    "url": "https://www.nme.com/news/gaming-news/spider-man-brand-new-day-fortnite-collab-crossover-skins-3959581?utm_source=rss&utm_medium=rss&utm_campaign=spider-man-brand-new-day-fortnite-collab-crossover-skins",
+    "timestamp": "2026-07-29T09:53:16+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "Play as The Punisher, The Hulk and Spidey The post ‘Spider-Man: Brand New Day’ is coming to ‘Fortnite’ appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/gaming-news/spider-man-brand-new-day-fortnite-collab-crossover-skins-3959581?utm_source=rss&utm_medium=rss&utm_campaign=spider-man-brand-new-day-fortnite-collab-crossover-skins"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Phoebe Bridgers reveals tracklist for new album ‘Lost Weekend’",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/phoebe-bridgers-reveals-tracklist-for-new-album-lost-weekend-3959546?utm_source=rss&utm_medium=rss&utm_campaign=phoebe-bridgers-reveals-tracklist-for-new-album-lost-weekend",
+    "timestamp": "2026-07-29T09:21:00+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "The singer-songwriter took to social media to share details of her third studio album after it leaked The post Phoebe Bridgers reveals tracklist for new album ‘Lost Weekend’ appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/phoebe-bridgers-reveals-tracklist-for-new-album-lost-weekend-3959546?utm_source=rss&utm_medium=rss&utm_campaign=phoebe-bridgers-reveals-tracklist-for-new-album-lost-weekend"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "medium",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Who Is Linda Perhacs? ‘Parallelograms’ Singer Reportedly Missing As Friend Shares Concerning Update - The Sunday Guardian",
+    "src": "The Sunday Guardian",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdTh1YklBZnRuUDZDbVFRWjlDOWNVelBERkpEcDVlSTE5eFI2cGxQdEZXQlU2d1kwTl82UEpQM0FPd3ltNHY1bVdNTHJLTVJ5TV9fMGV4N3BqZE4tWTJlY1E3QUEtZFl5REE1QUFBaXlQWjQ1RHljTlVkaWhiLTc4elNublUxcmx0eEJ4Mzl5ckgxQzZmUktYWWVhc0M2Y09maWg3X3R1Qkw3bWhtWVBSTmxqQ1BDdU83THRGYmhxQXJOaUZxS0VtNzV0Y0xNTDg5SGRtcXF4cnJqZmRRaTB1REJDODVhOE1fX2fSAe8BQVVfeXFMUC16VXRkbl9VdHBJZW1ITHNiejlhSkZxNlRHanFOdGsyNjlBWTdCMWZoUWY4eWg4bWNMYjhCX2UwTU5RMVRCRVNzUHc5S0pMaG94MHhnVWFvaDBSME9hb0dPVUhIdllscGVuZVZ4NjVyU2RTUlZCMldyNjd6V3otZFRSUzhTUHpWVGVoaC1oTEVDMUc0RHVFS1lQWXhRbThibDVuajhvVlBVcHRzWHV2RkRqRkNSbWgzb2pJS01fQ1h5YkNLQzE3YzlwQjNtZDhsdG9zbGpIdUtTN0c3V3VpVFNvX3hEU2pUakhfWVBrdlk?oc=5",
+    "timestamp": "2026-07-29T06:47:46+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "Who Is Linda Perhacs? ‘Parallelograms’ Singer Reportedly Missing As Friend Shares Concerning Update The Sunday Guardian",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Sunday Guardian",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdTh1YklBZnRuUDZDbVFRWjlDOWNVelBERkpEcDVlSTE5eFI2cGxQdEZXQlU2d1kwTl82UEpQM0FPd3ltNHY1bVdNTHJLTVJ5TV9fMGV4N3BqZE4tWTJlY1E3QUEtZFl5REE1QUFBaXlQWjQ1RHljTlVkaWhiLTc4elNublUxcmx0eEJ4Mzl5ckgxQzZmUktYWWVhc0M2Y09maWg3X3R1Qkw3bWhtWVBSTmxqQ1BDdU83THRGYmhxQXJOaUZxS0VtNzV0Y0xNTDg5SGRtcXF4cnJqZmRRaTB1REJDODVhOE1fX2fSAe8BQVVfeXFMUC16VXRkbl9VdHBJZW1ITHNiejlhSkZxNlRHanFOdGsyNjlBWTdCMWZoUWY4eWg4bWNMYjhCX2UwTU5RMVRCRVNzUHc5S0pMaG94MHhnVWFvaDBSME9hb0dPVUhIdllscGVuZVZ4NjVyU2RTUlZCMldyNjd6V3otZFRSUzhTUHpWVGVoaC1oTEVDMUc0RHVFS1lQWXhRbThibDVuajhvVlBVcHRzWHV2RkRqRkNSbWgzb2pJS01fQ1h5YkNLQzE3YzlwQjNtZDhsdG9zbGpIdUtTN0c3V3VpVFNvX3hEU2pUakhfWVBrdlk?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Hollywood Vampires Tease New Music Release After 7-Year Hiatus - Yahoo",
+    "src": "Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMTYwakluc2N2bEdzUms5UWxNaElOdU5sLW1ick91cDljOUpHbVhySEx6MFpibFI3V1liT2x5QVpFelBHbFlMR09zYUdEM2VZTEM1dUZ3TUdrZ1drMzVwbFZycXY0enZJdG1YSC1mVmxRNUJERC1jN2FXMTYzalMtWEtkQ1MxWHJsR0FnVnNpbm5RZ3Z1TGo4N2lyUzNTQmhobFBpOVVjWQ?oc=5",
+    "timestamp": "2026-07-29T04:35:00+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "Hollywood Vampires Tease New Music Release After 7-Year Hiatus Yahoo",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMTYwakluc2N2bEdzUms5UWxNaElOdU5sLW1ick91cDljOUpHbVhySEx6MFpibFI3V1liT2x5QVpFelBHbFlMR09zYUdEM2VZTEM1dUZ3TUdrZ1drMzVwbFZycXY0enZJdG1YSC1mVmxRNUJERC1jN2FXMTYzalMtWEtkQ1MxWHJsR0FnVnNpbm5RZ3Z1TGo4N2lyUzNTQmhobFBpOVVjWQ?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Chase Ceglie: \"MY SAXOPHONE CRIED\" ALBUM RELEASE CONCERT - Block Island Times",
+    "src": "Block Island Times",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRjlRVGRXQ1N4Y3hUaDl5cHdnQnJ0TzlXLXpveWNpdkxfYXJ0V0VmdTJlcTdRaFBRSG9HbkJtdjJ3Rnp3Q01PSUttQ2tTRjNQMWtnRndIa3NKYlJ5V0N3MGotS3lncG1BLXBGbWdUTEZVLXhpLTg2RlByc1NXcmpLcjZoNXpLLWQ2YloxV2VHSkNSd3EydUdXZjRBd2lwMHVxLUlRaHlIY3lNUXF5X3FMUHFManZEWjVfTW1ldWNia2h6S1lMRk9JRzZkbDNPRnJicDVB?oc=5",
+    "timestamp": "2026-07-29T00:31:26+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "Chase Ceglie: \"MY SAXOPHONE CRIED\" ALBUM RELEASE CONCERT Block Island Times",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Block Island Times",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRjlRVGRXQ1N4Y3hUaDl5cHdnQnJ0TzlXLXpveWNpdkxfYXJ0V0VmdTJlcTdRaFBRSG9HbkJtdjJ3Rnp3Q01PSUttQ2tTRjNQMWtnRndIa3NKYlJ5V0N3MGotS3lncG1BLXBGbWdUTEZVLXhpLTg2RlByc1NXcmpLcjZoNXpLLWQ2YloxV2VHSkNSd3EydUdXZjRBd2lwMHVxLUlRaHlIY3lNUXF5X3FMUHFManZEWjVfTW1ldWNia2h6S1lMRk9JRzZkbDNPRnJicDVB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Exposição internacional “Marilyn: Icon of the Century” no Colombo até 30 de Agosto",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/exposicao-internacional-marilyn-icon-of-the-century-no-colombo-ate-30-de-agosto/",
+    "timestamp": "2026-07-29T10:36:25+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "São mais de 100 os objetos de Marilyn Monroe que fazem parte desta mostra inédita em Portugal, que terá lugar na Praça Central do Colombo.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/exposicao-internacional-marilyn-icon-of-the-century-no-colombo-ate-30-de-agosto/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Macacos do Chinês: Bolos Depois da Noite? Sim, sempre.",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/macacos-do-chines-bolos-depois-da-noite-sim-sempre/",
+    "timestamp": "2026-07-29T09:52:37+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "Depois de 15 anos de espera, os Macacos do Chinês regressam com um disco de cinco músicas, intitulado “Bolos Depois da Noite”.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/macacos-do-chines-bolos-depois-da-noite-sim-sempre/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Ibrahim Maalouf regressa a Lisboa com digressão que celebra 20 anos de carreira",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/ibrahim-maalouf-regressa-a-lisboa-com-digressao-que-celebra-20-anos-de-carreira-bilhetes/",
+    "timestamp": "2026-07-29T08:54:48+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "Ibrahim Maalouf regressa a Lisboa com digressão que celebra 20 anos de carreira",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/ibrahim-maalouf-regressa-a-lisboa-com-digressao-que-celebra-20-anos-de-carreira-bilhetes/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Tyraels Ascension",
+    "t": "Grave Seeker Review",
+    "src": "Angry Metal Guy",
+    "date": "29 Jul",
+    "isoDate": "2026-07-29",
+    "timestamp": "2026-07-29T11:03:07+00:00",
+    "url": "https://www.angrymetalguy.com/tyraels-ascension-grave-seeker-review/",
+    "d": "\"Do I like metalcore? I've always struggled a bit with this question. That's a terrible way to start a review of any variety, but it's a question I've kept coming back to since discovering Tyraels Ascension , a metalcore group from the United States, and their",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "tyraels ascension|grave seeker review",
     "kind": "review",
     "section": "rev"
   },
@@ -1788,31 +2278,6 @@
     "star": false,
     "kind": "news",
     "section": "core"
-  },
-  {
-    "title": "Heavy metal crowd left ‘crying and vomiting’ after fan does ‘massive’ poo in moshpit - LADbible",
-    "src": "LADbible",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDhaZDFTd2l3NE1LRTRiZ2luRWh1ckpxSUNWMk9NanRiU0xiSnEzVlc3VlF6Q25lOHNuU0xNaWdVMkpPRkxTZHJCLVM3TDh3azFwZ3dUNEdXN0duWk1PeThUMmdnQ0hVbFJVWkE0cGtEUGlUbmlsczgxY3BJSTdBNldURERNS1lFbXJSTFNienQyQlpRWDZFeFJ6N1NVWUlQN1hVQg?oc=5",
-    "timestamp": "2026-07-28T15:48:32+00:00",
-    "isoDate": "2026-07-28",
-    "date": "28 Jul",
-    "d": "Heavy metal crowd left ‘crying and vomiting’ after fan does ‘massive’ poo in moshpit LADbible",
-    "category": "metal",
-    "sources": [
-      {
-        "name": "LADbible",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDhaZDFTd2l3NE1LRTRiZ2luRWh1ckpxSUNWMk9NanRiU0xiSnEzVlc3VlF6Q25lOHNuU0xNaWdVMkpPRkxTZHJCLVM3TDh3azFwZ3dUNEdXN0duWk1PeThUMmdnQ0hVbFJVWkE0cGtEUGlUbmlsczgxY3BJSTdBNldURERNS1lFbXJSTFNienQyQlpRWDZFeFJ6N1NVWUlQN1hVQg?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "news"
   },
   {
     "title": "Watch: SAVATAGE Performs With Orchestra In Pompeii",
@@ -5648,10 +6113,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -6772,6 +7237,106 @@
       {
         "name": "CNN Portugal",
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdktzSGp6N3pjRlVVQjBuVzdhcm5JWmE0ZlBWQldIRGtzZFM3aWZ2NzZtQmx3NXlFbEctM2RNS0pSaDM1eFNac21QMVNsMW8zVzBzdTdTMThEckJNVUVlMWdsRDduR0d1R0w0RHZXSkVMTUl3VlZRNmVQRDBESHg4b0d1cWhTZF9UZzUyU1Z2X21FaU9wRGRtOXVHbFBScjVwd3QxRUI1clctZU5JZHFMdEo1OXdrNmZ6NFpSUWpNNWZiZWY2NVBRRHFTMEJMU1dUc0FWTThBRHBLVWpjc2Zydk9xcDBiOHpkck54Mg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "King Gizzard & The Lizard Wizard Unleash ‘Alien Metal’ Ahead Of New Album And Australian Tour - Noise11.com",
+    "src": "Noise11.com",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdUlER29jMEFJeTh6QTdyQnRXWkpXY3NGMUcxczZKOVZFQ2pOOVBnMFFvSzVPcUlRZlZCcFZvS2V3TzRyaGdKdjNYUld5eG9QRXpzU1dfSGFyVk1CNjFxWVdjc1FlV3NtVGVsbTZ5WkRkVktlUlFWczNORjlRSmc5R29xZGdTQThrRGFNaA?oc=5",
+    "timestamp": "2026-07-28T23:14:35+00:00",
+    "isoDate": "2026-07-28",
+    "date": "28 Jul",
+    "d": "King Gizzard & The Lizard Wizard Unleash ‘Alien Metal’ Ahead Of New Album And Australian Tour Noise11.com",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Noise11.com",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdUlER29jMEFJeTh6QTdyQnRXWkpXY3NGMUcxczZKOVZFQ2pOOVBnMFFvSzVPcUlRZlZCcFZvS2V3TzRyaGdKdjNYUld5eG9QRXpzU1dfSGFyVk1CNjFxWVdjc1FlV3NtVGVsbTZ5WkRkVktlUlFWczNORjlRSmc5R29xZGdTQThrRGFNaA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Technics Launches 5,000 Rolling Stones Earbuds To Mark New Album Release - 94.7 WCSX",
+    "src": "94.7 WCSX",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZk1pMk1Ld1hvMmpZZEdONE9mR2xHT3NxYkJiSDFGUUdrLWFBVTFHVU94LXNOMnYzVHZfSUhFSVVNX1hPT045SFQ2T0dwRTU3WUZzcERWRzRtNnJ5aVEtUGJEaVgyd0kxTUFtZjFrVktSQkNuRkZ0M1dFbjNTTUhFdThOU1Zkc3RGd2Y4c0ItUkM3RDVKTEtWWkpuOUtTMHNNU3c?oc=5",
+    "timestamp": "2026-07-28T21:47:39+00:00",
+    "isoDate": "2026-07-28",
+    "date": "28 Jul",
+    "d": "Technics Launches 5,000 Rolling Stones Earbuds To Mark New Album Release 94.7 WCSX",
+    "category": "general",
+    "sources": [
+      {
+        "name": "94.7 WCSX",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZk1pMk1Ld1hvMmpZZEdONE9mR2xHT3NxYkJiSDFGUUdrLWFBVTFHVU94LXNOMnYzVHZfSUhFSVVNX1hPT045SFQ2T0dwRTU3WUZzcERWRzRtNnJ5aVEtUGJEaVgyd0kxTUFtZjFrVktSQkNuRkZ0M1dFbjNTTUhFdThOU1Zkc3RGd2Y4c0ItUkM3RDVKTEtWWkpuOUtTMHNNU3c?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "King Gizzard & The Lizard Wizard Release Title Track from Techno Album Alien Metal: Stream - Consequence of Sound",
+    "src": "Consequence of Sound",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSWIxZXN1QW4wUE1MQmhCel80UUtKcHdNM0pWcHMwZXVkWnJSc0tHNjF5ckdrN1ZHRndoMG44a1JncWh6NW15d0xKSi10RWpBLUhTUGI3QWhlOXlmVFVDVnNEVExBOHQ5MDl0Y0tod210bS1xdXJDYjM4MVVsQk4xTnJ1Z2VEMEhCZ011THZieHBvOHdCVEd0S2Jn?oc=5",
+    "timestamp": "2026-07-28T13:33:46+00:00",
+    "isoDate": "2026-07-28",
+    "date": "28 Jul",
+    "d": "King Gizzard & The Lizard Wizard Release Title Track from Techno Album Alien Metal: Stream Consequence of Sound",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence of Sound",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSWIxZXN1QW4wUE1MQmhCel80UUtKcHdNM0pWcHMwZXVkWnJSc0tHNjF5ckdrN1ZHRndoMG44a1JncWh6NW15d0xKSi10RWpBLUhTUGI3QWhlOXlmVFVDVnNEVExBOHQ5MDl0Y0tod210bS1xdXJDYjM4MVVsQk4xTnJ1Z2VEMEhCZ011THZieHBvOHdCVEd0S2Jn?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Bombeira de Barcelos vai representar Portugal em conferência nas Nações Unidas - pressnet.pt",
+    "src": "pressnet.pt",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONm14Z0NzYWVDLUlKdjdoRmpDTFZTWE1KMXFFN21BOEhwRzNUdnBSSXRKbmpQcEk5NjhFc0NtNV96V0FUYlJaWF9nSHpvMEVEOTRSNGpBX1ptOW8tOENrNU5xOGlleGgtWndKZUFfbHc3LU1Gai1CdEtKZ0NmUDN2UUtZRXNsdzZtc1lRNlN2dkx1X1I1Zi1kTnZJZW5yUThuNWdOZ1F0U2g1MEFCWFpj?oc=5",
+    "timestamp": "2026-07-28T11:22:09+00:00",
+    "isoDate": "2026-07-28",
+    "date": "28 Jul",
+    "d": "Bombeira de Barcelos vai representar Portugal em conferência nas Nações Unidas pressnet.pt",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "pressnet.pt",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONm14Z0NzYWVDLUlKdjdoRmpDTFZTWE1KMXFFN21BOEhwRzNUdnBSSXRKbmpQcEk5NjhFc0NtNV96V0FUYlJaWF9nSHpvMEVEOTRSNGpBX1ptOW8tOENrNU5xOGlleGgtWndKZUFfbHc3LU1Gai1CdEtKZ0NmUDN2UUtZRXNsdzZtc1lRNlN2dkx1X1I1Zi1kTnZJZW5yUThuNWdOZ1F0U2g1MEFCWFpj?oc=5"
       }
     ],
     "status": "official",
@@ -12642,6 +13207,56 @@
     "section": "buzz"
   },
   {
+    "title": "Top 14 Concerts & Live Shows in Houston This Week: July 27 to August 2, 2026 - 365 Things to Do in Houston",
+    "src": "365 Things to Do in Houston",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMzVNX1JqZzNHUm5KWTY3TGZMbzRoNHFZSm0tN3o3RmZrdk12NTlmQzFzalZEeU5fZ2t4ZlV0bkgxRW9KdXJvVnBIc3l6TkVzVEN3OXhJbGdyVDhQdmNDTjZkRkkzdk1zS3J3ODZwQkxsTEJMUVo0THl2NFA5TVpEUlZCNnI5QmNrYjE3aEpRZ1RUbXdVRVN5bHNiVWZUR3hQR1RWZNIBpAFBVV95cUxOMzVNX1JqZzNHUm5KWTY3TGZMbzRoNHFZSm0tN3o3RmZrdk12NTlmQzFzalZEeU5fZ2t4ZlV0bkgxRW9KdXJvVnBIc3l6TkVzVEN3OXhJbGdyVDhQdmNDTjZkRkkzdk1zS3J3ODZwQkxsTEJMUVo0THl2NFA5TVpEUlZCNnI5QmNrYjE3aEpRZ1RUbXdVRVN5bHNiVWZUR3hQR1RWZA?oc=5",
+    "timestamp": "2026-07-27T21:52:00+00:00",
+    "isoDate": "2026-07-27",
+    "date": "27 Jul",
+    "d": "Top 14 Concerts & Live Shows in Houston This Week: July 27 to August 2, 2026 365 Things to Do in Houston",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "365 Things to Do in Houston",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMzVNX1JqZzNHUm5KWTY3TGZMbzRoNHFZSm0tN3o3RmZrdk12NTlmQzFzalZEeU5fZ2t4ZlV0bkgxRW9KdXJvVnBIc3l6TkVzVEN3OXhJbGdyVDhQdmNDTjZkRkkzdk1zS3J3ODZwQkxsTEJMUVo0THl2NFA5TVpEUlZCNnI5QmNrYjE3aEpRZ1RUbXdVRVN5bHNiVWZUR3hQR1RWZNIBpAFBVV95cUxOMzVNX1JqZzNHUm5KWTY3TGZMbzRoNHFZSm0tN3o3RmZrdk12NTlmQzFzalZEeU5fZ2t4ZlV0bkgxRW9KdXJvVnBIc3l6TkVzVEN3OXhJbGdyVDhQdmNDTjZkRkkzdk1zS3J3ODZwQkxsTEJMUVo0THl2NFA5TVpEUlZCNnI5QmNrYjE3aEpRZ1RUbXdVRVN5bHNiVWZUR3hQR1RWZA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Brasileira lança festival Sara Vai com artistas conterrâneos em Lisboa - Público",
+    "src": "Público",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVJkZWNaY3pqd05adi1CalI1RGRZYXFGSXFzelF1OENKcjFBVWgzT05ydUtoaHZMV3RDVFpnVmNXZXhVN200LWw3QWZzcDdldjl0Q3dNaHhNa1RyOTl4YUNuRlo2MWZZdGd2WWxXaWh5RFJGTC1uVzlYU29WQWtGQVBpOHRkSWVwM29lcmNCdGdoWTdlcDJRQWV2QVFveXljTGp2TGJ5YVBxOUxQck1CSlBRUkh6bzdkblYtbkF0VDVZOVh3MjFz?oc=5",
+    "timestamp": "2026-07-27T16:47:25+00:00",
+    "isoDate": "2026-07-27",
+    "date": "27 Jul",
+    "d": "Brasileira lança festival Sara Vai com artistas conterrâneos em Lisboa Público",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Público",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVJkZWNaY3pqd05adi1CalI1RGRZYXFGSXFzelF1OENKcjFBVWgzT05ydUtoaHZMV3RDVFpnVmNXZXhVN200LWw3QWZzcDdldjl0Q3dNaHhNa1RyOTl4YUNuRlo2MWZZdGd2WWxXaWh5RFJGTC1uVzlYU29WQWtGQVBpOHRkSWVwM29lcmNCdGdoWTdlcDJRQWV2QVFveXljTGp2TGJ5YVBxOUxQck1CSlBRUkh6bzdkblYtbkF0VDVZOVh3MjFz?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
     "title": "Avenged Sevenfold Performed From Backstage For Their First-Ever Live Set As ‘STATICA’",
     "src": "ThePRP",
     "url": "https://www.theprp.com/2026/07/25/news/avenged-sevenfold-performed-from-backstage-for-their-first-ever-live-set-as-statica/",
@@ -15210,6 +15825,31 @@
     "star": false,
     "kind": "news",
     "section": "buzz"
+  },
+  {
+    "title": "Festivais, esplanadas e festas: os melhores planos para Agosto - Time Out Lisboa",
+    "src": "Time Out Lisboa",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDA3Z1BKcEhOdW1oOUtGMGFaODBBX2JubWhuUEFTb2h4WmR0dTlEMWcxemVnd0NGTkk1RUwwQzdqaXBnNDBabDgyZmM1dzNJSlllQk04V2o4dUx0ZXA1bHBkV2xieGFwM21uU19HVlcxVUZGdTQzdGdPdFg3UzhoUW5MMTdUc1oxc3A3LWZ4VHk?oc=5",
+    "timestamp": "2026-07-26T23:00:00+00:00",
+    "isoDate": "2026-07-26",
+    "date": "26 Jul",
+    "d": "Festivais, esplanadas e festas: os melhores planos para Agosto Time Out Lisboa",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Time Out Lisboa",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDA3Z1BKcEhOdW1oOUtGMGFaODBBX2JubWhuUEFTb2h4WmR0dTlEMWcxemVnd0NGTkk1RUwwQzdqaXBnNDBabDgyZmM1dzNJSlllQk04V2o4dUx0ZXA1bHBkV2xieGFwM21uU19HVlcxVUZGdTQzdGdPdFg3UzhoUW5MMTdUc1oxc3A3LWZ4VHk?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "b": "Silent Anthem",
@@ -26637,6 +27277,56 @@
     "section": "pt"
   },
   {
+    "title": "Jane Birkin em Portugal recorda a música \"je t`aime moi non plus\" - RTP",
+    "src": "RTP",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdTk1MkNqSFlIa1ItV0NXZVU4TUFnVmRTX1E2QnBCTmJnRkVrb3RSd3EwZFpMR0RNb0lNb2hiWXNGTHZmYTZmVXRHaGhvR2hCQkhybm1CU0hyZkp3SjJKdzdjZ2xOT3Qwajc0Y0R1Q0dvcU8tTklXU2lZY0NtRE43YmxHcGtteDdzNFFhUk1FQ19rN3BDWnM5RmdvdEdVTExVa0Z0Q1k3WmlQdw?oc=5",
+    "timestamp": "2026-07-24T21:23:39+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Jane Birkin em Portugal recorda a música \"je t`aime moi non plus\" RTP",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "RTP",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdTk1MkNqSFlIa1ItV0NXZVU4TUFnVmRTX1E2QnBCTmJnRkVrb3RSd3EwZFpMR0RNb0lNb2hiWXNGTHZmYTZmVXRHaGhvR2hCQkhybm1CU0hyZkp3SjJKdzdjZ2xOT3Qwajc0Y0R1Q0dvcU8tTklXU2lZY0NtRE43YmxHcGtteDdzNFFhUk1FQ19rN3BDWnM5RmdvdEdVTExVa0Z0Q1k3WmlQdw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Homenagem a Amy Winehouse sobe ao palco em Portimão - Portugal Resident",
+    "src": "Portugal Resident",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWFZmNVBLc1dFS3I2cXYxaU5nU1o0Q2dqUkMzdlp2YU1naWhGcmg2dkRVaHpwa1ViXzRERkQtYjRxTFpIVkR2MnRmb2IzU2hPYWFvTTNHRFY1M0pTQmNrNG9rNmV6RXJBRjdFdE1WaHljVjRxdnVmVjIxWldEQlJxSF9zRDlwajFlLUZaeGNRc0Jkdw?oc=5",
+    "timestamp": "2026-07-24T07:00:00+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Homenagem a Amy Winehouse sobe ao palco em Portimão Portugal Resident",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Portugal Resident",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWFZmNVBLc1dFS3I2cXYxaU5nU1o0Q2dqUkMzdlp2YU1naWhGcmg2dkRVaHpwa1ViXzRERkQtYjRxTFpIVkR2MnRmb2IzU2hPYWFvTTNHRFY1M0pTQmNrNG9rNmV6RXJBRjdFdE1WaHljVjRxdnVmVjIxWldEQlJxSF9zRDlwajFlLUZaeGNRc0Jkdw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
     "title": "Rock Kids Drive Legendary Bands' Korean Tours This Summer - 조선일보",
     "src": "조선일보",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTVk0Wm9LV3pfdnJWUE04REU0Q205RUlCTmVXekYyM2VxNWZKb2V5ZzFndng5RzJzNHRzYWVORmxPU0c0a0U0QmVYV1BiajdwdjdFRlgyV3R5YmdDMFZna2p3VVFJa05sMmMzbjdSU00tdVVZdTNCSjk0WEZ6cXpyaEFEUkhndmNyM0xxUw?oc=5",
@@ -32581,7 +33271,7 @@
     "section": "news"
   },
   {
-    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "title": "Breves | Hugo “Vicky” Marques (1975-2026) - Jazz.pt",
     "src": "Jazz.pt",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZSmJ4WWRiYVlLZ0FMNnh5dms3S01SbDZGdXhyTzg5UWRjNXBBemhLZnVLc1ppMmRqTVpIQ1FlZUQ5X0VjRGJXYzNIVTljQ3Q5MVZpcmd5ODFZQUVIeERtZg?oc=5",
     "timestamp": "2026-07-23T20:00:41+00:00",
@@ -32602,7 +33292,6 @@
     "isPT": true,
     "isCore": false,
     "star": false,
-    "titleOriginal": "Breves | Hugo “Vicky” Marques (1975-2026) - Jazz.pt",
     "kind": "news",
     "section": "pt"
   },
@@ -32734,6 +33423,31 @@
     "star": false,
     "kind": "news",
     "section": "core"
+  },
+  {
+    "title": "Último adeus a Luís Represas: Velório realiza-se hoje na Basílica da Estrela em Lisboa - Executive Digest",
+    "src": "Executive Digest",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0htaTJLOEFvN093NG1mVUMtRDRiclJvdThPRXZNYkJ5VXo1TUExc0ZuRmg2Nnhua2YxSUNQWnhaSnMzZENlS21mVDBCYW1qQVd3NkNQSHlZUTNFWk5pZnBfVjlEd0lqVy1LU0EtRkxaTW9yaW5GMlZlNGNMZ1lrX2E2Uk1IemIwQ1R3c2VlTlZMdFRjVlloMS11b05iN1hXNnZNSXJYcGVNRVZwYjdjaTZlZWxhVThoUUE?oc=5",
+    "timestamp": "2026-07-23T05:45:21+00:00",
+    "isoDate": "2026-07-23",
+    "date": "23 Jul",
+    "d": "Último adeus a Luís Represas: Velório realiza-se hoje na Basílica da Estrela em Lisboa Executive Digest",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Executive Digest",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY0htaTJLOEFvN093NG1mVUMtRDRiclJvdThPRXZNYkJ5VXo1TUExc0ZuRmg2Nnhua2YxSUNQWnhaSnMzZENlS21mVDBCYW1qQVd3NkNQSHlZUTNFWk5pZnBfVjlEd0lqVy1LU0EtRkxaTW9yaW5GMlZlNGNMZ1lrX2E2Uk1IemIwQ1R3c2VlTlZMdFRjVlloMS11b05iN1hXNnZNSXJYcGVNRVZwYjdjaTZlZWxhVThoUUE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "b": "Noumena",
