@@ -17,10 +17,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -127,10 +127,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -306,10 +306,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -467,7 +467,7 @@
     "title": "Purest Form to release new album Resistance via Dais Records - Northern Transmissions",
     "src": "Northern Transmissions",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzhBakppSUU3STdncF9PQzcxZmpXdEFNZ2RNT0FsRTM4cWJrOENELVJtT1hPcDRBeWtfZXV4Wk9jWC1MYjRDRlNhR3J6d3RJZFV1Tkd3eWs3Q0d5LUpHQkd2ZFpYaHhjLVFTTEZXNkRMSkF6Rm1MM2dFdzFLV05XZkduSnVfRnlrTlFPZks0Vm5uejlIVDR4alhTMA?oc=5",
-    "timestamp": "2026-07-29T00:52:52+00:00",
+    "timestamp": "2026-07-29T02:52:52+00:00",
     "isoDate": "2026-07-29",
     "date": "29 Jul",
     "d": "Purest Form to release new album Resistance via Dais Records Northern Transmissions",
@@ -602,7 +602,7 @@
     "title": "Heavy metal crowd left ‘crying and vomiting’ after fan does ‘massive’ poo in moshpit - LADbible",
     "src": "LADbible",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdDhaZDFTd2l3NE1LRTRiZ2luRWh1ckpxSUNWMk9NanRiU0xiSnEzVlc3VlF6Q25lOHNuU0xNaWdVMkpPRkxTZHJCLVM3TDh3azFwZ3dUNEdXN0duWk1PeThUMmdnQ0hVbFJVWkE0cGtEUGlUbmlsczgxY3BJSTdBNldURERNS1lFbXJSTFNienQyQlpRWDZFeFJ6N1NVWUlQN1hVQg?oc=5",
-    "timestamp": "2026-07-29T04:32:05+00:00",
+    "timestamp": "2026-07-29T12:49:09+00:00",
     "isoDate": "2026-07-29",
     "date": "29 Jul",
     "d": "Heavy metal crowd left ‘crying and vomiting’ after fan does ‘massive’ poo in moshpit LADbible",
@@ -699,13 +699,13 @@
     "section": "buzz"
   },
   {
-    "title": "Glen Hansard dies following motorcycle crash in Dublin",
+    "title": "Tributes paid after Glen Hansard dies in motorcycle crash: “A remarkable artist whose music touched so many lives”",
     "src": "NME",
     "url": "https://www.nme.com/news/music/glen-hansard-dies-following-motorcycle-crash-in-dublin-3959610?utm_source=rss&utm_medium=rss&utm_campaign=glen-hansard-dies-following-motorcycle-crash-in-dublin",
     "timestamp": "2026-07-29T11:18:18+00:00",
     "isoDate": "2026-07-29",
     "date": "29 Jul",
-    "d": "The singer also starred in films ‘The Commitments’ and ‘Once’ and was frontman of The Frames The post Glen Hansard dies following motorcycle crash in Dublin appeared first on NME .",
+    "d": "Rachel Zegler, Warren Ellis and more have paid respects for The Frames frontman, who also starred in films ‘The Commitments’ and ‘Once’ The post Tributes paid after Glen Hansard dies in motorcycle crash: “A remarkable artist whose music touched so many lives” appeared first on NME .",
     "category": "general",
     "sources": [
       {
@@ -966,10 +966,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1087,6 +1087,882 @@
     "releaseKey": "tyraels ascension|grave seeker review",
     "kind": "review",
     "section": "rev"
+  },
+  {
+    "title": "Enquete de fãs: as 5 melhores músicas do HATEBREED",
+    "src": "Revolver",
+    "url": "https://www.revolvermag.com/feature/fan-poll-top-5-hatebreed-songs/",
+    "timestamp": "2026-07-29T14:00:00+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "See which hardcore cuts continue to persevere",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Revolver",
+        "url": "https://www.revolvermag.com/feature/fan-poll-top-5-hatebreed-songs/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "titleOriginal": "Fan poll: Top 5 HATEBREED songs",
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "King Gizzard & The Lizard Wizard release visualizer for new single \"Alien Metal\" - Chaoszine",
+    "src": "Chaoszine",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXNEb3lMbTE3cGpzUDBXR3lNOEtrZHpHcVAyS1N6Q2cwaG55anNwNDAyaGJZRWNwN1hRbHR1YWFmWXpGT19WM1N3ZERmRDJtYklRM1R0bFFxd0RiUnNmVllEV0NMUzkyUEhuanlTRE5LM3hGYng1WEs2NXZUamotc0JqNmtMclk3YVZWbzNyd3BDS1pMTEFFQTVEallGWk9y?oc=5",
+    "timestamp": "2026-07-29T13:35:13+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "King Gizzard & The Lizard Wizard release visualizer for new single \"Alien Metal\" Chaoszine",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Chaoszine",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXNEb3lMbTE3cGpzUDBXR3lNOEtrZHpHcVAyS1N6Q2cwaG55anNwNDAyaGJZRWNwN1hRbHR1YWFmWXpGT19WM1N3ZERmRDJtYklRM1R0bFFxd0RiUnNmVllEV0NMUzkyUEhuanlTRE5LM3hGYng1WEs2NXZUamotc0JqNmtMclk3YVZWbzNyd3BDS1pMTEFFQTVEallGWk9y?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "MEGADETH's 'Fast Hits' Greatest-Hits Collection Reportedly Set For Walmart-Exclusive Release - Metal Addicts",
+    "src": "Metal Addicts",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX1cxT0prV0xZRVJncmNKXzJ6d2NmOEp5TFdQQ2FOUExiSllqMkljdUNsQVpBd3lVQnBVLUJ2ZGFlX2FSZzVncjc1bDBEX1p3NWVKMEF0S1lERmpxRWRXWl9JZlREM3d3TVE3Ri1ZZ0Zmek5GZ1dtbzBoWlluV0NaclR0Z0ROZWZYSzI0ZG82RHB0SFBUcDBlVDhkdmlKblFBbnhYNHVaN1UxenllRmlnRWh0cGVsdw?oc=5",
+    "timestamp": "2026-07-29T13:21:04+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "MEGADETH's 'Fast Hits' Greatest-Hits Collection Reportedly Set For Walmart-Exclusive Release Metal Addicts",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Addicts",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX1cxT0prV0xZRVJncmNKXzJ6d2NmOEp5TFdQQ2FOUExiSllqMkljdUNsQVpBd3lVQnBVLUJ2ZGFlX2FSZzVncjc1bDBEX1p3NWVKMEF0S1lERmpxRWRXWl9JZlREM3d3TVE3Ri1ZZ0Zmek5GZ1dtbzBoWlluV0NaclR0Z0ROZWZYSzI0ZG82RHB0SFBUcDBlVDhkdmlKblFBbnhYNHVaN1UxenllRmlnRWh0cGVsdw?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "GODSMACK Announces October 2026 U.S. Tour Dates With DOROTHY",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/godsmack-announces-october-2026-u-s-tour-dates-with-dorothy",
+    "timestamp": "2026-07-29T13:16:44+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "GODSMACK has announced newly added fall 2026 U.S. dates for its massive \"The Rise Of Rock\" world tour, extending one of the band's most explosive touring years to date, with DOROTHY joining as direct support and special guest for the October dates. The newly announced October run kicks off Friday, O...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/godsmack-announces-october-2026-u-s-tour-dates-with-dorothy"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "These Are The Best Gothic & Doom Metal Releases From 1996",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/lists/these-are-the-best-gothic-doom-metal-releases-from-1996",
+    "timestamp": "2026-07-29T13:16:35+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "The year doom and gothic metal truly came into its own, before the genre calcified into formula. The post These Are The Best Gothic & Doom Metal Releases From 1996 appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/lists/these-are-the-best-gothic-doom-metal-releases-from-1996"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "VOIVOD's AWAY On Teaming Up With Orchestra For 'Symphonique' Album: 'It's Like A Soundtrack For A Dystopian Sci-Fi Movie'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/features/voivods-away-on-teaming-up-with-orchestra-for-symphonique-album-its-like-a-soundtrack-for-a-dystopian-sci-fi-movie",
+    "timestamp": "2026-07-29T12:36:29+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "By David E. Gehlke Canadian cosmic metal visionaries VOIVOD have an increasingly shorter list of things left to accomplish. With their legacy secure as perhaps one of the most forward-thinking and daring metal bands to emerge from the Great White North, VOIVOD, in the last decade, has performed at t...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/features/voivods-away-on-teaming-up-with-orchestra-for-symphonique-album-its-like-a-soundtrack-for-a-dystopian-sci-fi-movie"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Concert Descends Into Chaos After Someone Poops In The Mosh Pit - 2oceansvibe News",
+    "src": "2oceansvibe News",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPME1ONDhuZlk5b21PR21yNVg1eHhOWmxFWlpkMDh4WldKcEpKUzRkWVNHQ2NsRjk3ak93MGhzVzFRSC1PeDgwWHlkLVl2WmM2VUFWVURuQU4zeUszVFNJMUJyVTZfeEhIWDVhOWZSMkh1TmVndXg3Ql9nVHRJX1YzQ0ZiZE8wVXJKc05RamJkRHloLTBGTEFwVjZGLWR1Nmh5VDk1R0NsSmpXZEtqel9FZ2FNX1hyWGhySEh5VkFvS0ItWldpeThqVw?oc=5",
+    "timestamp": "2026-07-29T12:07:20+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "Concert Descends Into Chaos After Someone Poops In The Mosh Pit 2oceansvibe News",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "2oceansvibe News",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPME1ONDhuZlk5b21PR21yNVg1eHhOWmxFWlpkMDh4WldKcEpKUzRkWVNHQ2NsRjk3ak93MGhzVzFRSC1PeDgwWHlkLVl2WmM2VUFWVURuQU4zeUszVFNJMUJyVTZfeEhIWDVhOWZSMkh1TmVndXg3Ql9nVHRJX1YzQ0ZiZE8wVXJKc05RamJkRHloLTBGTEFwVjZGLWR1Nmh5VDk1R0NsSmpXZEtqel9FZ2FNX1hyWGhySEh5VkFvS0ItWldpeThqVw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "The Best Metal Album + Song of Each Year of the 1980s",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/best-metal-song-album-each-year-1980s/",
+    "timestamp": "2026-07-29T11:57:39+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "Revisiting metal's glorious '80s era by naming the best album and best song of each year. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/best-metal-song-album-each-year-1980s/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Heavy metal band offers fans 'diaper of doom' as concertgoer poops in mosh pit - Irish Star",
+    "src": "Irish Star",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT2ltZHduYnZwLVJobXlQaUk1WXkyUjhYdzNXSEt2cC16ekpMZy1kLXliT0dMS0JGYnM4SV9tTEZyeDhiRWJjQmJoM1p1RnBaSXlRQ0pSSkhOazlsT3ZFZDgyMTlaalZaLVgzWE43aF9wdDl3b0lpZExHYTc5Y2RlU2lFd2FaSFRvWFl3SlB2WWszRTVNQmtVUUdLbkdfbEUtVDJRTGJqS3BMNDg2R0NUNlcxZ0dhZ3p4N25uZkh5T3hqNnBhZlEwbHZ6SU44LXFlejZCR01UcTV1LTBpVVBkdDl6NlE3bjDSAZYBQVVfeXFMT2hhcS1vWDQyQkZuQng0aEd4aFU0U25xdmlBQkN6WTlTMTNOWXdsZmdCS0dET0h1bUp3SENLeXFfTUVEMkVpZnQ3T254WDhZbTNzQnJWX3ljMzBRbVc2alZwYU93d21QclNKeVhUZ3ZRVmFjTWZ3RnB6ZnhEeGZ2SkxNUUd0WnNNUVVCV01kTkk0cE9BN2NB?oc=5",
+    "timestamp": "2026-07-29T08:32:00+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "Heavy metal band offers fans 'diaper of doom' as concertgoer poops in mosh pit Irish Star",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Irish Star",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNT2ltZHduYnZwLVJobXlQaUk1WXkyUjhYdzNXSEt2cC16ekpMZy1kLXliT0dMS0JGYnM4SV9tTEZyeDhiRWJjQmJoM1p1RnBaSXlRQ0pSSkhOazlsT3ZFZDgyMTlaalZaLVgzWE43aF9wdDl3b0lpZExHYTc5Y2RlU2lFd2FaSFRvWFl3SlB2WWszRTVNQmtVUUdLbkdfbEUtVDJRTGJqS3BMNDg2R0NUNlcxZ0dhZ3p4N25uZkh5T3hqNnBhZlEwbHZ6SU44LXFlejZCR01UcTV1LTBpVVBkdDl6NlE3bjDSAZYBQVVfeXFMT2hhcS1vWDQyQkZuQng0aEd4aFU0U25xdmlBQkN6WTlTMTNOWXdsZmdCS0dET0h1bUp3SENLeXFfTUVEMkVpZnQ3T254WDhZbTNzQnJWX3ljMzBRbVc2alZwYU93d21QclNKeVhUZ3ZRVmFjTWZ3RnB6ZnhEeGZ2SkxNUUd0WnNNUVVCV01kTkk0cE9BN2NB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Dinosaur Jr. Unveil New Single “Blowin’ Up”: Stream",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/dinosaur-jr-new-single-blowin-up/",
+    "timestamp": "2026-07-29T14:00:45+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "A rollicking jam fronted by Lou Barlow from the band's upcoming 13th studio album, There Near Dinosaur Jr. Unveil New Single “Blowin’ Up”: Stream Chris Coplan",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/dinosaur-jr-new-single-blowin-up/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Peter Gabriel – “One By One”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506630/peter-gabriel-one-by-one/music/",
+    "timestamp": "2026-07-29T13:56:24+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "At this point, Peter Gabriel is more than halfway through the long rollout of his new album o\\i . Rather than releasing a few advance singles, he's sharing new songs all year, with another one arriving whenever there's a full moon. Today, he shares the sprawling and tender \"One by One,\" which lasts for nearly 10 minute",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506630/peter-gabriel-one-by-one/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "BTS Say No to the 2027 Grammys",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/bts-will-not-submit-their-music-to-the-2027-grammy-awards/",
+    "timestamp": "2026-07-29T13:52:00+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/bts-will-not-submit-their-music-to-the-2027-grammy-awards/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Michael B. Jordan Steals Hearts (and Art) in First Trailer for The Thomas Crown Affair: Watch",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/thomas-crown-affair-trailer-michael-b-jordan/",
+    "timestamp": "2026-07-29T13:38:04+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "The second remake of the 1968 classic arrives in theaters on March 5th, 2027. Michael B. Jordan Steals Hearts (and Art) in First Trailer for The Thomas Crown Affair: Watch Liz Shannon Miller",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/thomas-crown-affair-trailer-michael-b-jordan/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Beatles Announce Rubber Soul Reissue",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/the-beatles-announce-rubber-soul-reissue/",
+    "timestamp": "2026-07-29T13:37:15+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/the-beatles-announce-rubber-soul-reissue/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The National return to announce first live show since 2024",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/the-national-return-to-announce-first-live-show-since-2024-3959653?utm_source=rss&utm_medium=rss&utm_campaign=the-national-return-to-announce-first-live-show-since-2024",
+    "timestamp": "2026-07-29T13:36:08+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "Tickets go on sale next week The post The National return to announce first live show since 2024 appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/the-national-return-to-announce-first-live-show-since-2024-3959653?utm_source=rss&utm_medium=rss&utm_campaign=the-national-return-to-announce-first-live-show-since-2024"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Willie Nelson Speaks Out Against Data Centers",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506623/willie-nelson-speaks-out-against-data-centers/news/",
+    "timestamp": "2026-07-29T13:35:07+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "It's a crime that 93-year-old American hero Willie Nelson should even have to consider what the term \"data center\" means. But Austin, the city that Nelson has called home since 1972, is now a hub of tech-mogul idiocy. Someone is also apparently planning to build a data center near Abbott, the tiny Texas town where Nels",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506623/willie-nelson-speaks-out-against-data-centers/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kavinsky, “Nightcall” French DJ, Found Dead at 50",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/kavinsky-dj-nightcall-dead/",
+    "timestamp": "2026-07-29T13:28:29+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "The electronic musician was found deceased at his home in Paris on Wednesday. Kavinsky, “Nightcall” French DJ, Found Dead at 50 Eddie Fu",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/kavinsky-dj-nightcall-dead/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Beatles Somehow Found More Unreleased Recordings For New Super Deluxe Rubber Soul",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506619/the-beatles-somehow-found-more-unreleased-recordings-for-new-super-deluxe-rubber-soul/music/",
+    "timestamp": "2026-07-29T13:08:23+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "The Beatles have been broken up for well over half a century, and there have been roughly one million vault-raiding reissues since then. It's crazy to think that there could still be any unreleased Beatles recordings out there, but apparently there are. Some of them will finally see the light of day on an upcoming supe",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506619/the-beatles-somehow-found-more-unreleased-recordings-for-new-super-deluxe-rubber-soul/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Beatles’ Rubber Soul Gets Expanded Reissue with New Mixes and Unreleased Demos",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/the-beatles-special-editions-rubber-soul/",
+    "timestamp": "2026-07-29T13:00:48+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "Featuring new stereo and Dolby Atmos mixes, previously unreleased session recordings and demos, and the unheard John Lennon song outline \"Little Girl.\" The Beatles’ Rubber Soul Gets Expanded Reissue with New Mixes and Unreleased Demos Chris Coplan",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/the-beatles-special-editions-rubber-soul/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Yard Act launch clothing collaboration with Blue Flowers on trench coats, denim jackets and more",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/yard-act-launch-clothing-collaboration-with-blue-flowers-on-trench-coats-denim-jackets-and-more-3959654?utm_source=rss&utm_medium=rss&utm_campaign=yard-act-launch-clothing-collaboration-with-blue-flowers-on-trench-coats-denim-jackets-and-more",
+    "timestamp": "2026-07-29T12:58:07+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "The trench coat features paintings of each band member, done by frontman James Smith, on the inside lining The post Yard Act launch clothing collaboration with Blue Flowers on trench coats, denim jackets and more appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/yard-act-launch-clothing-collaboration-with-blue-flowers-on-trench-coats-denim-jackets-and-more-3959654?utm_source=rss&utm_medium=rss&utm_campaign=yard-act-launch-clothing-collaboration-with-blue-flowers-on-trench-coats-denim-jackets-and-more"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Jared Leto Accused of Criminal Sexual Conduct by Four Women in BBC Documentary",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/jared-leto-accused-of-criminal-sexual-conduct-by-four-women-in-bbc-documentary/",
+    "timestamp": "2026-07-29T12:56:24+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "A total of ten women spoke to the BBC about alleged sexual misconduct by the actor and Thirty Seconds to Mars frontman, including incidents dating back to when they were teenagers. Jared Leto Accused of Criminal Sexual Conduct by Four Women in BBC Documentary Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/jared-leto-accused-of-criminal-sexual-conduct-by-four-women-in-bbc-documentary/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kavinsky Dies at 50",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/kavinsky-dies-at-50/",
+    "timestamp": "2026-07-29T12:47:08+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/kavinsky-dies-at-50/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "BTS refuse to submit to Grammys in response to new Asian Pop category: “We hope our music can be heard and loved for what it is”",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/bts-refuse-to-submit-to-grammys-in-response-to-new-asian-pop-category-we-hope-our-music-can-be-heard-and-loved-for-what-it-is-3959633?utm_source=rss&utm_medium=rss&utm_campaign=bts-refuse-to-submit-to-grammys-in-response-to-new-asian-pop-category-we-hope-our-music-can-be-heard-and-loved-for-what-it-is",
+    "timestamp": "2026-07-29T12:42:01+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "The Recording Academy recently confirmed the new category for their 2027 ceremony The post BTS refuse to submit to Grammys in response to new Asian Pop category: “We hope our music can be heard and loved for what it is” appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/bts-refuse-to-submit-to-grammys-in-response-to-new-asian-pop-category-we-hope-our-music-can-be-heard-and-loved-for-what-it-is-3959633?utm_source=rss&utm_medium=rss&utm_campaign=bts-refuse-to-submit-to-grammys-in-response-to-new-asian-pop-category-we-hope-our-music-can-be-heard-and-loved-for-what-it-is"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kavinsky Dead At 50",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506611/kavinsky-dead-at-50/news/",
+    "timestamp": "2026-07-29T12:41:19+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "Kavinsky, the French DJ, producer, and actor whose iconic electro-pop track \"Nightcall\" soundtracked the opening credits of Drive , has died. CNN reports that Kavinsky was found dead in his Paris home on Tuesday, and local authorities are investigating his cause of death. According to the BBC , Kavinsky had been compla",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506611/kavinsky-dead-at-50/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Glen Hansard Killed in Motorcycle Crash",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/glen-hansard-dead-motocycle-crash/",
+    "timestamp": "2026-07-29T12:32:55+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "The Irish songwriter was best known for his work in The Frames and The Swell Season, as well as his starring roles in Once and The Commitments. Glen Hansard Killed in Motorcycle Crash Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/glen-hansard-dead-motocycle-crash/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Willie Nelson shares call for communities to “fight” against data centres",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/willie-nelson-shares-call-for-communities-to-fight-against-data-centres-3959641?utm_source=rss&utm_medium=rss&utm_campaign=willie-nelson-shares-call-for-communities-to-fight-against-data-centres",
+    "timestamp": "2026-07-29T12:14:19+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "“The strength of rural America has never come from big industrial footprints” The post Willie Nelson shares call for communities to “fight” against data centres appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/willie-nelson-shares-call-for-communities-to-fight-against-data-centres-3959641?utm_source=rss&utm_medium=rss&utm_campaign=willie-nelson-shares-call-for-communities-to-fight-against-data-centres"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘Moulin Rouge’ actor says he was embarrassed to co-star with “terrible actor” Boy George",
+    "src": "NME",
+    "url": "https://www.nme.com/news/film/moulin-rouge-actor-says-he-was-embarrassed-to-co-star-with-terrible-actor-boy-george-3959631?utm_source=rss&utm_medium=rss&utm_campaign=moulin-rouge-actor-says-he-was-embarrassed-to-co-star-with-terrible-actor-boy-george",
+    "timestamp": "2026-07-29T12:03:48+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "\"I used to defend his performance in our show, but fuck it\" The post ‘Moulin Rouge’ actor says he was embarrassed to co-star with “terrible actor” Boy George appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/film/moulin-rouge-actor-says-he-was-embarrassed-to-co-star-with-terrible-actor-boy-george-3959631?utm_source=rss&utm_medium=rss&utm_campaign=moulin-rouge-actor-says-he-was-embarrassed-to-co-star-with-terrible-actor-boy-george"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Glen Hansard Dead At 56",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506606/glen-hansard-dead-at-56/news/",
+    "timestamp": "2026-07-29T11:56:50+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "Glen Hansard, the Oscar-winning Irish singer-songwriter and actor who rose to fame fronting the Frames and starring in The Commitments , then gained greater notoriety through the movie Once and the related musical project the Swell Season, has died. Hansard died in a single-vehicle motorcycle crash in the west of Dubli",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506606/glen-hansard-dead-at-56/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘Spider-Man: Brand New Day’ review: is Tom Holland Marvel’s new super-saviour?",
+    "src": "NME",
+    "url": "https://www.nme.com/reviews/film-reviews/spider-man-brand-new-day-review-is-tom-holland-marvels-new-super-saviour-3959622?utm_source=rss&utm_medium=rss&utm_campaign=spider-man-brand-new-day-review-is-tom-holland-marvels-new-super-saviour",
+    "timestamp": "2026-07-29T11:56:45+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "Promising box office projections and the best comic book film in ages point to a rosier future The post ‘Spider-Man: Brand New Day’ review: is Tom Holland Marvel’s new super-saviour? appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/reviews/film-reviews/spider-man-brand-new-day-review-is-tom-holland-marvels-new-super-saviour-3959622?utm_source=rss&utm_medium=rss&utm_campaign=spider-man-brand-new-day-review-is-tom-holland-marvels-new-super-saviour"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘The Last Of Us’ creators will release new game next year, claims report",
+    "src": "NME",
+    "url": "https://www.nme.com/news/gaming-news/intergalactic-the-heretic-prophet-release-date-last-of-us-naughty-dog-3959611?utm_source=rss&utm_medium=rss&utm_campaign=intergalactic-the-heretic-prophet-release-date-last-of-us-naughty-dog",
+    "timestamp": "2026-07-29T11:52:58+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "Naughty Dog are rumoured to launch ‘Intergalactic: The Heretic Prophet’ in 2027 The post ‘The Last Of Us’ creators will release new game next year, claims report appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/gaming-news/intergalactic-the-heretic-prophet-release-date-last-of-us-naughty-dog-3959611?utm_source=rss&utm_medium=rss&utm_campaign=intergalactic-the-heretic-prophet-release-date-last-of-us-naughty-dog"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "medium",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Foreigner carries on with new lead singer, U.S. tour - Local Spins",
+    "src": "Local Spins",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc1dMZkVXRDB2M2tQZTZkaUZPeVVsb2JXZ0R3UHRlam1SZjIyVHVtbFhaODBaV0Jaa05HOHprYklsXzVZdnBRejl3V2t3VmZTMFdDS3RXTlBLZ1FSdGVqbUhIbWF4MlNzWGhhbnA4cGlVaXFHV2hfeUh6YU5OVlFoY09nVlB2U1RVVEtDMGxPTlhEcWNBUFNWal9YOW90Q0Q2Q2d5Q29TaDlGY001RlJVNVBWSlJ4XzA?oc=5",
+    "timestamp": "2026-07-29T11:49:16+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "Foreigner carries on with new lead singer, U.S. tour Local Spins",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Local Spins",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc1dMZkVXRDB2M2tQZTZkaUZPeVVsb2JXZ0R3UHRlam1SZjIyVHVtbFhaODBaV0Jaa05HOHprYklsXzVZdnBRejl3V2t3VmZTMFdDS3RXTlBLZ1FSdGVqbUhIbWF4MlNzWGhhbnA4cGlVaXFHV2hfeUh6YU5OVlFoY09nVlB2U1RVVEtDMGxPTlhEcWNBUFNWal9YOW90Q0Q2Q2d5Q29TaDlGY001RlJVNVBWSlJ4XzA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Gloryhammer Release New Single \"Ultimate Sacrifice\" Ahead Of New Album - XS Noize",
+    "src": "XS Noize",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY2ItN0JaajF0OWtmQkR2Q1owdXdNMEZUVWVJb3ZMWF95WlRJa2k2UUlkdHdDYTlIVW1DbUItRlg3SzdONU9kTEEyWlJyTExOX0JlSTlKTWhHeVZUQ2dXNzhRclR5bHhxWTJsbkV6M0dia2VQOGZHVnRkQjQtUGlVZEZjdUZsTVIxY0phZEI4MWU1NllRdWk3SQ?oc=5",
+    "timestamp": "2026-07-29T10:34:38+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "Gloryhammer Release New Single \"Ultimate Sacrifice\" Ahead Of New Album XS Noize",
+    "category": "general",
+    "sources": [
+      {
+        "name": "XS Noize",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY2ItN0JaajF0OWtmQkR2Q1owdXdNMEZUVWVJb3ZMWF95WlRJa2k2UUlkdHdDYTlIVW1DbUItRlg3SzdONU9kTEEyWlJyTExOX0JlSTlKTWhHeVZUQ2dXNzhRclR5bHhxWTJsbkV6M0dia2VQOGZHVnRkQjQtUGlVZEZjdUZsTVIxY0phZEI4MWU1NllRdWk3SQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "R.I.P Kavinsky",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/r-i-p-kavinsky-faleceu-nightcall/",
+    "timestamp": "2026-07-29T13:16:29+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "Vincent Belorgey conhecido no mundo da música como Kavinsky foi encontrado morto em sua casa em Paris.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/r-i-p-kavinsky-faleceu-nightcall/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "O jornal do Brasil em Portugal - DN Brasil",
+    "src": "DN Brasil",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTkVKZWFMaHpiTHItNmtTR0xrdHV4b2pscEtWMjdicnFnRVNzTnhUbW8zSGlXNHhLUXMtOVVUZ3pSeS1VU0NaQ19nSEZ3MVBmd1JQLXhVM1dLT1pGZHBURmlMWk56aTdtazVDa1ZpLURQbWI3eU1qR0ZNVk9HbVFyWDMyRlhiZzNoVDdMSXFuQ3djYXdWakJ1V2lFcEJNV1Q3SFpoQmFQS0h0WEktZVlFekt1NA?oc=5",
+    "timestamp": "2026-07-29T12:10:00+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "O jornal do Brasil em Portugal DN Brasil",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "DN Brasil",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTkVKZWFMaHpiTHItNmtTR0xrdHV4b2pscEtWMjdicnFnRVNzTnhUbW8zSGlXNHhLUXMtOVVUZ3pSeS1VU0NaQ19nSEZ3MVBmd1JQLXhVM1dLT1pGZHBURmlMWk56aTdtazVDa1ZpLURQbWI3eU1qR0ZNVk9HbVFyWDMyRlhiZzNoVDdMSXFuQ3djYXdWakJ1V2lFcEJNV1Q3SFpoQmFQS0h0WEktZVlFekt1NA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Morreu o DJ Kavinsky - CNN Portugal",
+    "src": "CNN Portugal",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMmdNdFJiUjQ3RVhVeWFZVkw0dmt0RjY3Q1JETEFDSlVHQ3Q4UUItdDJpbEFTYVdWVS1OUjB2RnFzLVdfUTdUOURxT1hLV3FpZ3d2YTNXYlNZSWtzSl9uX2ktMFZoWEpnMThvR0FjekFrQThIbHdFaUJJS3hGV0FXbUw1VFREcFEtakxKdVU0cUpxVmhmeWpyZkxBNWZ4ZWU2cGc?oc=5",
+    "timestamp": "2026-07-29T08:54:00+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "Morreu o DJ Kavinsky CNN Portugal",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "CNN Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMmdNdFJiUjQ3RVhVeWFZVkw0dmt0RjY3Q1JETEFDSlVHQ3Q4UUItdDJpbEFTYVdWVS1OUjB2RnFzLVdfUTdUOURxT1hLV3FpZ3d2YTNXYlNZSWtzSl9uX2ktMFZoWEpnMThvR0FjekFrQThIbHdFaUJJS3hGV0FXbUw1VFREcFEtakxKdVU0cUpxVmhmeWpyZkxBNWZ4ZWU2cGc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "b": "The Dead Broken Heart",
@@ -6667,17 +7543,17 @@
     "section": "core"
   },
   {
-    "title": "From Stadiums to Screens: The Rise of Heavy Metal and Hard-Rock Inspired Gaming - Brave Words",
-    "src": "Brave Words",
+    "title": "From Stadiums to Screens: The Rise of Heavy Metal and Hard-Rock Inspired Gaming - BraveWords",
+    "src": "BraveWords",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQXlaekxFd0xZMGJUT2g0NzRnOEdnVWFKQjBYUk1iSW9PZzJhbFRnZktTdzlNLWdDaW9LczJwWnZEeUF0WFVlVGpQLXlIMUV5ZkdTUzJRNzBPOGJ1bnNyY1RZQWRCLW94NENfSVp2SjdtSldmZVp4N1dXVFd4YjNHM0dpYmtRR2Q3SlhRdkNxSWhLR2hIbTdCWGM4dGRNVXk4ZjJxUEdKSTZoT1lqVS1vbNIBuAFBVV95cUxPWjdYV0tNODRjSHdiWXZheVg0Q1Z3T096TzNxY0EySzVPUWFEMnN5WjUxNDd3ZXJVZk1XZ0Zjc2ZhVFZocVZjbC03b1ZCNkJJV0lDcko2bWVZY29JZUxSOVRHblloanFLWFRtVnVXcGpBNzlWZkYtbVZaeVhiRno2cl8wQjJQLWVsZ0Z4RXM5WkJlT25XM2tnamdMMjFQM3dhZ1FpUGdId0xLYzgtblNLdkgxcFJmNEtv?oc=5",
     "timestamp": "2026-07-28T05:00:06+00:00",
     "isoDate": "2026-07-28",
     "date": "28 Jul",
-    "d": "From Stadiums to Screens: The Rise of Heavy Metal and Hard-Rock Inspired Gaming Brave Words",
+    "d": "From Stadiums to Screens: The Rise of Heavy Metal and Hard-Rock Inspired Gaming BraveWords",
     "category": "metal",
     "sources": [
       {
-        "name": "Brave Words",
+        "name": "BraveWords",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQXlaekxFd0xZMGJUT2g0NzRnOEdnVWFKQjBYUk1iSW9PZzJhbFRnZktTdzlNLWdDaW9LczJwWnZEeUF0WFVlVGpQLXlIMUV5ZkdTUzJRNzBPOGJ1bnNyY1RZQWRCLW94NENfSVp2SjdtSldmZVp4N1dXVFd4YjNHM0dpYmtRR2Q3SlhRdkNxSWhLR2hIbTdCWGM4dGRNVXk4ZjJxUEdKSTZoT1lqVS1vbNIBuAFBVV95cUxPWjdYV0tNODRjSHdiWXZheVg0Q1Z3T096TzNxY0EySzVPUWFEMnN5WjUxNDd3ZXJVZk1XZ0Zjc2ZhVFZocVZjbC03b1ZCNkJJV0lDcko2bWVZY29JZUxSOVRHblloanFLWFRtVnVXcGpBNzlWZkYtbVZaeVhiRno2cl8wQjJQLWVsZ0Z4RXM5WkJlT25XM2tnamdMMjFQM3dhZ1FpUGdId0xLYzgtblNLdkgxcFJmNEtv?oc=5"
       }
     ],
@@ -7042,17 +7918,17 @@
     "section": "buzz"
   },
   {
-    "title": "FROZEN CROWN Release “Reborn” Single And Official Music Video - Brave Words",
-    "src": "Brave Words",
+    "title": "FROZEN CROWN Release “Reborn” Single And Official Music Video - BraveWords",
+    "src": "BraveWords",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3VscEd1MWV3WVY0WFlKdVF2WnJyNmllMkFubTJsb3V4QnF3cHVmYVc1dUdoVFJsb25CVFJ3Yk5RR1lneU5YMDcwSFZLbmJEZGFzNnFHV0hOZ25NUDRNRF9IM0g5Mms2M1NnSnBneXdBRTZIemljWHFvNTN0WWdwa0ktRGRlM0pFZGpIUDBsSHBpZ9IBmgFBVV95cUxQcGRQRmFoS1VkVkZYLWVQZm9yLXhGYmtaeENnVG1iR0l5Z3dsblFBc0stRlNVVkl6VkVCTVU1QVlqbTVCUjl0bmZ3Nl9VdGQ1RlNxWUR5dVZkdzQ5a3lEU2dxUmZnWjd3U0lzV3l3Q29DdGFKZkMwaEtmT3VIbDFQMHBIX1U5Nm5LaF9vbmxtNVJmWkdDQU1kNjVR?oc=5",
     "timestamp": "2026-07-28T14:43:00+00:00",
     "isoDate": "2026-07-28",
     "date": "28 Jul",
-    "d": "FROZEN CROWN Release “Reborn” Single And Official Music Video Brave Words",
+    "d": "FROZEN CROWN Release “Reborn” Single And Official Music Video BraveWords",
     "category": "general",
     "sources": [
       {
-        "name": "Brave Words",
+        "name": "BraveWords",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3VscEd1MWV3WVY0WFlKdVF2WnJyNmllMkFubTJsb3V4QnF3cHVmYVc1dUdoVFJsb25CVFJ3Yk5RR1lneU5YMDcwSFZLbmJEZGFzNnFHV0hOZ25NUDRNRF9IM0g5Mms2M1NnSnBneXdBRTZIemljWHFvNTN0WWdwa0ktRGRlM0pFZGpIUDBsSHBpZ9IBmgFBVV95cUxQcGRQRmFoS1VkVkZYLWVQZm9yLXhGYmtaeENnVG1iR0l5Z3dsblFBc0stRlNVVkl6VkVCTVU1QVlqbTVCUjl0bmZ3Nl9VdGQ1RlNxWUR5dVZkdzQ5a3lEU2dxUmZnWjd3U0lzV3l3Q29DdGFKZkMwaEtmT3VIbDFQMHBIX1U5Nm5LaF9vbmxtNVJmWkdDQU1kNjVR?oc=5"
       }
     ],
@@ -7348,6 +8224,156 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Album Review: DevilDriver – Strike And Kill - Metal Planet Music",
+    "src": "Metal Planet Music",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaXFaUFZIV0dTWjZlM2FvVncyS1B6MEpEWnhzVjd5Y2REUUFWUDFhcXU4R1MteHZsNDZWUVpiTnh1RDRwZjRsVnk0WEh0Wi1RZWRxTGdzaTZuMDVtWlFScEpFbU9EekMzX245T0NuQmZ6Mm9PQkswM2tGVkJtMDVLT3VYNWI?oc=5",
+    "timestamp": "2026-07-28T12:43:26+00:00",
+    "isoDate": "2026-07-28",
+    "date": "28 Jul",
+    "d": "Album Review: DevilDriver – Strike And Kill Metal Planet Music",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Planet Music",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaXFaUFZIV0dTWjZlM2FvVncyS1B6MEpEWnhzVjd5Y2REUUFWUDFhcXU4R1MteHZsNDZWUVpiTnh1RDRwZjRsVnk0WEh0Wi1RZWRxTGdzaTZuMDVtWlFScEpFbU9EekMzX245T0NuQmZ6Mm9PQkswM2tGVkJtMDVLT3VYNWI?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Refresh Your Concert Wardrobe With These Nordstrom Anniversary Sale Finds, Starting at $18 - Billboard",
+    "src": "Billboard",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdldrMDVReUozX01lMnkydm1YV2lRaThhMWI3UV9meHRISUVOZjBmWFB2NVE5OTEyRUNHRlprUTNEV0NrdVQ1ZlY4akl6R1IyTm5LTGVkNVcycjFqdHJWMlJINWd5RDF4SHJIMDVzSWlkU3hkaFVwNklEcFN2S2d4RFBwOFJZMVMzaTl5Snpqb2k1Z01TZzdxUmx3Vmp4bHBiNnJ3YU5RNHRNRmo4SHVmdzdCdzVuQ1FGT3pzQU9QTlJBQQ?oc=5",
+    "timestamp": "2026-07-28T21:49:57+00:00",
+    "isoDate": "2026-07-28",
+    "date": "28 Jul",
+    "d": "Refresh Your Concert Wardrobe With These Nordstrom Anniversary Sale Finds, Starting at $18 Billboard",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Billboard",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdldrMDVReUozX01lMnkydm1YV2lRaThhMWI3UV9meHRISUVOZjBmWFB2NVE5OTEyRUNHRlprUTNEV0NrdVQ1ZlY4akl6R1IyTm5LTGVkNVcycjFqdHJWMlJINWd5RDF4SHJIMDVzSWlkU3hkaFVwNklEcFN2S2d4RFBwOFJZMVMzaTl5Snpqb2k1Z01TZzdxUmx3Vmp4bHBiNnJ3YU5RNHRNRmo4SHVmdzdCdzVuQ1FGT3pzQU9QTlJBQQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "RIP Lou Koller, a Hardcore Punk Hero and Free Speech Champion - inkl",
+    "src": "inkl",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUnhRYmwzN3YyMWpVZ1dHbGhBamdRWFU2NHN2enV3NDZnQzZZcTlZVDZkRzNIQmktelVDME5zZnlUa2d1dXc2YzZocEQtZERDN2lxNXlHOFdremVIb081WF9oR1JaS2JLbmQ2QlctaUhNMGM0VTc0WHE4cWhoWVkzT01BWE1sRE82NTdkTUFLTQ?oc=5",
+    "timestamp": "2026-07-28T11:00:11+00:00",
+    "isoDate": "2026-07-28",
+    "date": "28 Jul",
+    "d": "RIP Lou Koller, a Hardcore Punk Hero and Free Speech Champion inkl",
+    "category": "core",
+    "sources": [
+      {
+        "name": "inkl",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUnhRYmwzN3YyMWpVZ1dHbGhBamdRWFU2NHN2enV3NDZnQzZZcTlZVDZkRzNIQmktelVDME5zZnlUa2d1dXc2YzZocEQtZERDN2lxNXlHOFdremVIb081WF9oR1JaS2JLbmQ2QlctaUhNMGM0VTc0WHE4cWhoWVkzT01BWE1sRE82NTdkTUFLTQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Pearl Jam’s Jeff Ament to Release Book of Photography of Band’s History - Bass Magazine",
+    "src": "Bass Magazine",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWG90b1JwUC1yR01qMnBoY0NYcE1YaFNaWWMzbDNRV3VaaFY5VjA0UWdyTm5POWRIdG5ONklMS1FpQkVFaGJaM1VLUVEwclAxbW1ycXh4UWw2NzVRNC1DemNBR0hKUllja2VtSUlyYl9ETk85MTBzYjJUTmlVbGlsVmdSVV9FVGFOZ1ZqZ2dORVh4MHhnTkhPWXZTaw?oc=5",
+    "timestamp": "2026-07-28T19:51:16+00:00",
+    "isoDate": "2026-07-28",
+    "date": "28 Jul",
+    "d": "Pearl Jam’s Jeff Ament to Release Book of Photography of Band’s History Bass Magazine",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Bass Magazine",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWG90b1JwUC1yR01qMnBoY0NYcE1YaFNaWWMzbDNRV3VaaFY5VjA0UWdyTm5POWRIdG5ONklMS1FpQkVFaGJaM1VLUVEwclAxbW1ycXh4UWw2NzVRNC1DemNBR0hKUllja2VtSUlyYl9ETk85MTBzYjJUTmlVbGlsVmdSVV9FVGFOZ1ZqZ2dORVh4MHhnTkhPWXZTaw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "New Albums Coming Out in 2026: Release Calendar for July, August, September & October - 104.7 KISS FM Phoenix",
+    "src": "104.7 KISS FM Phoenix",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY1ZzODQ2ZGtLc1JCbFM3MUE2aVJ1VDBrMnpSVXRtMFp4SXBISjZqMWRqN0ptbzJUVmhaMnI2c2phNldJaWNfTTlOSzIwTGRTVUlZYkZycThINHBuVzNEU1ZjR3JBd0czUmdoUHFXRmRidzZmVndlMllLbUVlQlk0ZC1XZ1dycTdwVDBjMFRELWhtNGhhUnp6U1p3Um5SVko0MUw0cmhiZHlhdw?oc=5",
+    "timestamp": "2026-07-28T14:03:00+00:00",
+    "isoDate": "2026-07-28",
+    "date": "28 Jul",
+    "d": "New Albums Coming Out in 2026: Release Calendar for July, August, September & October 104.7 KISS FM Phoenix",
+    "category": "general",
+    "sources": [
+      {
+        "name": "104.7 KISS FM Phoenix",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY1ZzODQ2ZGtLc1JCbFM3MUE2aVJ1VDBrMnpSVXRtMFp4SXBISjZqMWRqN0ptbzJUVmhaMnI2c2phNldJaWNfTTlOSzIwTGRTVUlZYkZycThINHBuVzNEU1ZjR3JBd0czUmdoUHFXRmRidzZmVndlMllLbUVlQlk0ZC1XZ1dycTdwVDBjMFRELWhtNGhhUnp6U1p3Um5SVko0MUw0cmhiZHlhdw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Slayyyter Announces New Single ‘BRAND NEW CHANEL$’ After Debuting It on Tour - Billboard",
+    "src": "Billboard",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaU1KblRWNVoxQTNQODJGYjFMOXF1RVkyNEU1WG9ESEoxWE9OQU90Q3BVa0VURkE0dzBFUnF5ZThBVk9GUllvRTFNTmczcDhWY0JUY3FaRkJ5WTNzdnJOeTVOSi1rZVhheHM2WFc0Z296NlFOQ2FaaGxWR2J4WGVVbmFhbks5NWFGTFhlOEhiZExKTlhFeDVFbXoya3FzNUFsOHhaVmxwTQ?oc=5",
+    "timestamp": "2026-07-28T00:17:52+00:00",
+    "isoDate": "2026-07-28",
+    "date": "28 Jul",
+    "d": "Slayyyter Announces New Single ‘BRAND NEW CHANEL$’ After Debuting It on Tour Billboard",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Billboard",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaU1KblRWNVoxQTNQODJGYjFMOXF1RVkyNEU1WG9ESEoxWE9OQU90Q3BVa0VURkE0dzBFUnF5ZThBVk9GUllvRTFNTmczcDhWY0JUY3FaRkJ5WTNzdnJOeTVOSi1rZVhheHM2WFc0Z296NlFOQ2FaaGxWR2J4WGVVbmFhbks5NWFGTFhlOEhiZExKTlhFeDVFbXoya3FzNUFsOHhaVmxwTQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
   },
   {
     "title": "Country music hitmaker Justin Moore announces tour stop in Charleston - WCHS",
@@ -8272,10 +9298,6 @@
       {
         "name": "ETV Bharat",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRmN2UGZJbHpBb3BpTWtnc21uZk9DY3pCWXNRQTZiV3RRNkFfQVd5V2IyUVoxMUo3bExPYmNxeHZtYkdOQlBwWTJxUEh6a0lucGFFTWhvNHIyd0tVclZpVEZYclNfYU5aVWo3MXRyMENZdjJQcXJWc2NiajVsd0lPUUxPckFJMXdPX1VNRGx2THBIUXNjakRmaDBTSlVqeUdG0gGmAUFVX3lxTFBudTdYbW5DWm9XZGtWS2dmZTNUYWZ5eUNWVFpUYXRPa3ZxMEFhMWp2UmxoeWZfcXNuc2p4bTdESVhicl90X040bU9xNmYydG5EUGltLVdfREVYRno2OFVHR1JfZzdSSVdFY0d2Y19VcDc5RFM5V2hIM1lWWVlTQV9qckl1OHFHMTUzNkRUU1RXN0dUSzJpeXhFZzdFQ3hlOTVxTEhfQ2c?oc=5"
-      },
-      {
-        "name": "ETV Bharat",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbnU3WG1uQ1pvV2RrVktnZmUzVGFmeXlDVlRaVGF0T2t2cTBBYTFqdlJsaHlmX3FzbnNqeG03RElYYnJfdF9ONG1PcTZmMnRuRFBpbS1XX0RFWEZ6NjhVR0dSX2c3UklXRWNHdmNfVXA3OURTOVdoSDNZVllZU0FfanJJdThxRzE1MzZEVFNUVzdHVEsyaXl4RWc3RUN4ZTk1cUxIX0Nn0gGmAUFVX3lxTFBudTdYbW5DWm9XZGtWS2dmZTNUYWZ5eUNWVFpUYXRPa3ZxMEFhMWp2UmxoeWZfcXNuc2p4bTdESVhicl90X040bU9xNmYydG5EUGltLVdfREVYRno2OFVHR1JfZzdSSVdFY0d2Y19VcDc5RFM5V2hIM1lWWVlTQV9qckl1OHFHMTUzNkRUU1RXN0dUSzJpeXhFZzdFQ3hlOTVxTEhfQ2c?oc=5"
       }
     ],
     "status": "official",
@@ -11370,17 +12392,17 @@
     "section": "news"
   },
   {
-    "title": "New Zealand Metal Show Ruined by ‘Huge Mess of S–t’ in the Pit - Loudwire",
-    "src": "Loudwire",
+    "title": "New Zealand Metal Show Ruined by ‘Huge Mess of S–t’ in the Pit - loudwire.com",
+    "src": "loudwire.com",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53czZNdHNaYlFnYmZUelNsaGE0aWg4Q0xYWENKeFhiRXZDMGRCQVRtNEZKUjc5VzdMUWo0Q1RlYlFFZmhHOHI2VzVjZmtkTVVWaEl2dnJkVnVrZ1FLWDgxM0xmaUNpcEhla1E?oc=5",
     "timestamp": "2026-07-27T14:26:36+00:00",
     "isoDate": "2026-07-27",
     "date": "27 Jul",
-    "d": "New Zealand Metal Show Ruined by ‘Huge Mess of S–t’ in the Pit Loudwire",
+    "d": "New Zealand Metal Show Ruined by ‘Huge Mess of S–t’ in the Pit loudwire.com",
     "category": "metal",
     "sources": [
       {
-        "name": "Loudwire",
+        "name": "loudwire.com",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53czZNdHNaYlFnYmZUelNsaGE0aWg4Q0xYWENKeFhiRXZDMGRCQVRtNEZKUjc5VzdMUWo0Q1RlYlFFZmhHOHI2VzVjZmtkTVVWaEl2dnJkVnVrZ1FLWDgxM0xmaUNpcEhla1E?oc=5"
       }
     ],
@@ -13078,31 +14100,6 @@
     "section": "buzz"
   },
   {
-    "title": "Album Review: DevilDriver – Strike And Kill - Metal Planet Music",
-    "src": "Metal Planet Music",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaXFaUFZIV0dTWjZlM2FvVncyS1B6MEpEWnhzVjd5Y2REUUFWUDFhcXU4R1MteHZsNDZWUVpiTnh1RDRwZjRsVnk0WEh0Wi1RZWRxTGdzaTZuMDVtWlFScEpFbU9EekMzX245T0NuQmZ6Mm9PQkswM2tGVkJtMDVLT3VYNWI?oc=5",
-    "timestamp": "2026-07-27T12:49:23+00:00",
-    "isoDate": "2026-07-27",
-    "date": "27 Jul",
-    "d": "Album Review: DevilDriver – Strike And Kill Metal Planet Music",
-    "category": "metal",
-    "sources": [
-      {
-        "name": "Metal Planet Music",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaXFaUFZIV0dTWjZlM2FvVncyS1B6MEpEWnhzVjd5Y2REUUFWUDFhcXU4R1MteHZsNDZWUVpiTnh1RDRwZjRsVnk0WEh0Wi1RZWRxTGdzaTZuMDVtWlFScEpFbU9EekMzX245T0NuQmZ6Mm9PQkswM2tGVkJtMDVLT3VYNWI?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "news"
-  },
-  {
     "title": "Aftershock 2026: The West Coast’s Largest Rock Festival Returns to Sacramento - Rio Linda Online",
     "src": "Rio Linda Online",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUWJpVUNlb1laSmFGbFRrdTNXeER4d3dYZ1BfQWduY1UwSjRQckVMV01pYllWSVpJaUxiOXNTWjcyeGhlQXdBaWhMSHdsZGpDYUI5M1FrU3ZHY3pmMWxZUVZlNXdZZnFLU0otTGxzR3N2Y0ZEU2l3NXpIY001d2ZrQy1UYjgwMl9leEhldXpEVGs4Zmc3cm5wYi1yblV3WFRjMkdOZHJYeWR0NFU?oc=5",
@@ -13244,6 +14241,31 @@
       {
         "name": "Público",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVJkZWNaY3pqd05adi1CalI1RGRZYXFGSXFzelF1OENKcjFBVWgzT05ydUtoaHZMV3RDVFpnVmNXZXhVN200LWw3QWZzcDdldjl0Q3dNaHhNa1RyOTl4YUNuRlo2MWZZdGd2WWxXaWh5RFJGTC1uVzlYU29WQWtGQVBpOHRkSWVwM29lcmNCdGdoWTdlcDJRQWV2QVFveXljTGp2TGJ5YVBxOUxQck1CSlBRUkh6bzdkblYtbkF0VDVZOVh3MjFz?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Nouvelle Vague regressam a Portugal para 5 concertos em várias cidades - nit.pt",
+    "src": "nit.pt",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQkpMWTNhWjRnNWs5cGI4cGgyZnpjUGhzN0I5ODZ6ZDlDUUZaQk5Nd05DVmtrUlAtNnBZTnctc0N0VFpuRk8tN2FRSERTR0Q2cGtFZXprRGxDQjlMLVZTeWdFVWpxTW5LZmpISkNCNDhROEF4QjE5VGJtWDJLczZsMEJXTnFUYm15UDFiX1RzZk9rX2p1bFp0M2JwbEw4T0tFakFuY0xrTQ?oc=5",
+    "timestamp": "2026-07-27T12:53:00+00:00",
+    "isoDate": "2026-07-27",
+    "date": "27 Jul",
+    "d": "Nouvelle Vague regressam a Portugal para 5 concertos em várias cidades nit.pt",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "nit.pt",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQkpMWTNhWjRnNWs5cGI4cGgyZnpjUGhzN0I5ODZ6ZDlDUUZaQk5Nd05DVmtrUlAtNnBZTnctc0N0VFpuRk8tN2FRSERTR0Q2cGtFZXprRGxDQjlMLVZTeWdFVWpxTW5LZmpISkNCNDhROEF4QjE5VGJtWDJLczZsMEJXTnFUYm15UDFiX1RzZk9rX2p1bFp0M2JwbEw4T0tFakFuY0xrTQ?oc=5"
       }
     ],
     "status": "official",
@@ -15681,17 +16703,17 @@
     "section": "pt"
   },
   {
-    "title": "Sick of It All Singer Lou Koller Dies at 59, Rockers + Fans Pay Tribute - Loudwire",
-    "src": "Loudwire",
+    "title": "Sick of It All Singer Lou Koller Dies at 59, Rockers + Fans Pay Tribute - loudwire.com",
+    "src": "loudwire.com",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQUx5cTQyUlM5dHJ6MkJzbVBBeTZnX3VCU1p1cHpwZ0lZczVKZ0F5OXJtVkQ0QTlQSXJjNUxBT1NacDVZTVZvbXhRN3Z4WEZtQ3BaSnFMd1ltbF9HVGoxZVNMTElkSXRLWkJ0UEd1cUloN3E0c0UyaWRFS0kwUFBGSXRoYURYdFR2VXpiLW9zMFBWX0YzX2dIdg?oc=5",
     "timestamp": "2026-07-26T16:15:31+00:00",
     "isoDate": "2026-07-26",
     "date": "26 Jul",
-    "d": "Sick of It All Singer Lou Koller Dies at 59, Rockers + Fans Pay Tribute Loudwire",
+    "d": "Sick of It All Singer Lou Koller Dies at 59, Rockers + Fans Pay Tribute loudwire.com",
     "category": "core",
     "sources": [
       {
-        "name": "Loudwire",
+        "name": "loudwire.com",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQUx5cTQyUlM5dHJ6MkJzbVBBeTZnX3VCU1p1cHpwZ0lZczVKZ0F5OXJtVkQ0QTlQSXJjNUxBT1NacDVZTVZvbXhRN3Z4WEZtQ3BaSnFMd1ltbF9HVGoxZVNMTElkSXRLWkJ0UEd1cUloN3E0c0UyaWRFS0kwUFBGSXRoYURYdFR2VXpiLW9zMFBWX0YzX2dIdg?oc=5"
       }
     ],
@@ -15839,6 +16861,31 @@
       {
         "name": "Time Out Lisboa",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDA3Z1BKcEhOdW1oOUtGMGFaODBBX2JubWhuUEFTb2h4WmR0dTlEMWcxemVnd0NGTkk1RUwwQzdqaXBnNDBabDgyZmM1dzNJSlllQk04V2o4dUx0ZXA1bHBkV2xieGFwM21uU19HVlcxVUZGdTQzdGdPdFg3UzhoUW5MMTdUc1oxc3A3LWZ4VHk?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Os melhores concertos em Lisboa para esta semana - Time Out Lisboa",
+    "src": "Time Out Lisboa",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXZvejZnWkdidFBFSUtlVVpTTXlCMGFyMEIwU1FtTG9WazBaajdRcWxKTEsyMVBzSlgwZE16ZEJBcGtOdFJnUy0taDdHV0ZjV1E2cnd5bVdha01DYnBCN0pwenFTQ0hZRjI2ZF9oOVYzN0hKQzB0UGM4R25rNFdjRGh1WVJWZHlJWS0w?oc=5",
+    "timestamp": "2026-07-26T23:00:00+00:00",
+    "isoDate": "2026-07-26",
+    "date": "26 Jul",
+    "d": "Os melhores concertos em Lisboa para esta semana Time Out Lisboa",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Time Out Lisboa",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXZvejZnWkdidFBFSUtlVVpTTXlCMGFyMEIwU1FtTG9WazBaajdRcWxKTEsyMVBzSlgwZE16ZEJBcGtOdFJnUy0taDdHV0ZjV1E2cnd5bVdha01DYnBCN0pwenFTQ0hZRjI2ZF9oOVYzN0hKQzB0UGM4R25rNFdjRGh1WVJWZHlJWS0w?oc=5"
       }
     ],
     "status": "official",
@@ -17089,7 +18136,7 @@
     "title": "Beloved ‘80s metal band announces first album in 34 years - Syracuse.com",
     "src": "Syracuse.com",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU09yeHVYMEJiNUQ4dXVsSURNcXlpNjZ1ZDlndks1NlU1ZGJVMUphY3dIQ1IzRk90bTIwZWtDY01DXzB1dDd2RENjcTd5RkxkYk16TVMtcDJkQW9tUjRtTTY5ak1mUmFfZzZ0OWZlbURNUjQ1QmRXXzFsNmFmMDYtbmhhTjNIcmxQOTFEYTF6QjdJaDltQ0RaNnI1R25BR1B4Y1VLVFBMVHdWelNK0gHAAUFVX3lxTE1qd1NjbVRGdC1OZ3k2M3gwUmdwcnRuTmp5TU9jYUJzUlMyc3Brc3d0bEpKVzh4bHNTVFNBNmNlcTZvemt4N0hkOERHZDNBckNIMUxGXzJLNW8xXzN5dlpuUHlHallsUG9hcUxabTNCNTMxZ0oxcjY2Y3FuampnNk9Md0JidWNPMUJOUW1OdFRWR3ZQMWhMVVBaTFdDZEJySThhUFQwdllxVlJjdEltMEc1aVVibGNWZUF2czdjTGVLUg?oc=5",
-    "timestamp": "2026-07-25T10:01:51+00:00",
+    "timestamp": "2026-07-25T10:00:00+00:00",
     "isoDate": "2026-07-25",
     "date": "25 Jul",
     "d": "Beloved ‘80s metal band announces first album in 34 years Syracuse.com",
@@ -17098,19 +18145,15 @@
       {
         "name": "Syracuse.com",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU09yeHVYMEJiNUQ4dXVsSURNcXlpNjZ1ZDlndks1NlU1ZGJVMUphY3dIQ1IzRk90bTIwZWtDY01DXzB1dDd2RENjcTd5RkxkYk16TVMtcDJkQW9tUjRtTTY5ak1mUmFfZzZ0OWZlbURNUjQ1QmRXXzFsNmFmMDYtbmhhTjNIcmxQOTFEYTF6QjdJaDltQ0RaNnI1R25BR1B4Y1VLVFBMVHdWelNK0gHAAUFVX3lxTE1qd1NjbVRGdC1OZ3k2M3gwUmdwcnRuTmp5TU9jYUJzUlMyc3Brc3d0bEpKVzh4bHNTVFNBNmNlcTZvemt4N0hkOERHZDNBckNIMUxGXzJLNW8xXzN5dlpuUHlHallsUG9hcUxabTNCNTMxZ0oxcjY2Y3FuampnNk9Md0JidWNPMUJOUW1OdFRWR3ZQMWhMVVBaTFdDZEJySThhUFQwdllxVlJjdEltMEc1aVVibGNWZUF2czdjTGVLUg?oc=5"
-      },
-      {
-        "name": "Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc1dVMFJ1Vi1Pa3FXZmVfU2JoNzNVY0hpMEhsWDlMeEpHN1pfLTd1MWJjQ25zcjJZV1NFMGpGV041alZfTkFPWEgxTHNpQWVodGZuRjdvUWtickMtMmk3WnE1azZNU3lyZTY2bl9FckNUb0pUQjU3N25Fc1Zvdkg3UTdQT3JjMjNoUHpqMEF5VnRnRkZ2T2VUbk9VTjE4cDQ?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -19377,6 +20420,31 @@
       {
         "name": "SAPO",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSklucGo5dEFrbWJsVHpqbHJPdzJzWEZGX3gzTHBsalVFdkJpRmdqX2ViZTluMm5kNlVLQkVTVW03Z29xT3h2LVFNcGdlYTVHOWNWZnFqNFFYMjlhbUlQVkV2V3NKVnNsMUhwZVNnT0tXZkFjeV81cVNtU2UwMVZRbGVUVURDWDJSQ21rZDY0V2lJTk52WEtVVzlOQzVZcTF2RFlTRkRYejZiVFlkdU1YSkR4YW9kcThMcE5OLXVyc2tUS0loSzNwem1vTXg3VV9RbzlHWEI4T0hEMWhSbldmcVhFVFI?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Ensemble Cigarra + Concrète [Lab] Ensemble, 25 julho, O'culto da Ajuda, Lisboa - dgartes.gov.pt",
+    "src": "dgartes.gov.pt",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxYlBMWFBfY19ZVGxub0NYV01hQTFuV1l5XzRwdS1TbE1nTVM0b2JjeDFrYmxuaTlEY1BMRk9nNTNnSU5fOFpGLTdrX0k2VUhMRkE?oc=5",
+    "timestamp": "2026-07-25T07:00:00+00:00",
+    "isoDate": "2026-07-25",
+    "date": "25 Jul",
+    "d": "Ensemble Cigarra + Concrète [Lab] Ensemble, 25 julho, O'culto da Ajuda, Lisboa dgartes.gov.pt",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "dgartes.gov.pt",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxYlBMWFBfY19ZVGxub0NYV01hQTFuV1l5XzRwdS1TbE1nTVM0b2JjeDFrYmxuaTlEY1BMRk9nNTNnSU5fOFpGLTdrX0k2VUhMRkE?oc=5"
       }
     ],
     "status": "official",
@@ -27314,6 +28382,31 @@
       {
         "name": "Portugal Resident",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWFZmNVBLc1dFS3I2cXYxaU5nU1o0Q2dqUkMzdlp2YU1naWhGcmg2dkRVaHpwa1ViXzRERkQtYjRxTFpIVkR2MnRmb2IzU2hPYWFvTTNHRFY1M0pTQmNrNG9rNmV6RXJBRjdFdE1WaHljVjRxdnVmVjIxWldEQlJxSF9zRDlwajFlLUZaeGNRc0Jkdw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Ana Vieira, a indomesticada da arte portuguesa - Público",
+    "src": "Público",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmlQTkkxM0ZFY1Z0ZzNTYTA5VEtTVFR1eGRJV3pnODdGWDZtenVtbEkxMDRuVDg2MzFsa3haOW9FVVZJbU1OVTNIVTgtbU1qZWkwdjJ5VWF6RWdaRFJIYzE5ZURjaTNUclUzYlg5RUU4VVgwQk5UekFLWmhHU2t5Z1JmeGFrYnVLeEpJQUxxcVJ1MTlXbmFOTUxzbmtZZWNBRTk4cDRNU1M?oc=5",
+    "timestamp": "2026-07-24T09:02:00+00:00",
+    "isoDate": "2026-07-24",
+    "date": "24 Jul",
+    "d": "Ana Vieira, a indomesticada da arte portuguesa Público",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Público",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmlQTkkxM0ZFY1Z0ZzNTYTA5VEtTVFR1eGRJV3pnODdGWDZtenVtbEkxMDRuVDg2MzFsa3haOW9FVVZJbU1OVTNIVTgtbU1qZWkwdjJ5VWF6RWdaRFJIYzE5ZURjaTNUclUzYlg5RUU4VVgwQk5UekFLWmhHU2t5Z1JmeGFrYnVLeEpJQUxxcVJ1MTlXbmFOTUxzbmtZZWNBRTk4cDRNU1M?oc=5"
       }
     ],
     "status": "official",
@@ -41781,6 +42874,56 @@
     "section": "pt"
   },
   {
+    "title": "Fugitive accused in 1993 murder of punk singer arrested in Panama - AOL.com",
+    "src": "AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZTZaejJ1MXYxOVczQmhBT3NnUlhLdlFVekcxTGJkLXhJTWpzTzIyUi02R3BEQUc4cHBpX09JR09GNFo3SDNpX1EzanMzVHg4N0VVSmh4d1I4azNGRTFLOGstRkR3STVtQzF0ODNETllJNGg3LWxySHB6QUEteS05cE1oaw?oc=5",
+    "timestamp": "2026-07-22T20:49:17+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Fugitive accused in 1993 murder of punk singer arrested in Panama AOL.com",
+    "category": "core",
+    "sources": [
+      {
+        "name": "AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZTZaejJ1MXYxOVczQmhBT3NnUlhLdlFVekcxTGJkLXhJTWpzTzIyUi02R3BEQUc4cHBpX09JR09GNFo3SDNpX1EzanMzVHg4N0VVSmh4d1I4azNGRTFLOGstRkR3STVtQzF0ODNETllJNGg3LWxySHB6QUEteS05cE1oaw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Macy Gray regressa a Portugal em dezembro - Quinto Canal",
+    "src": "Quinto Canal",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wN211VWQ5NnlXME9LNl8zTndJWF94em1jZEtIOGtEaHpqYzdCS1p0UXIyd1VKQnJYbUpkbDdvVUhISjQyMmdGa2ZuQTJtMDVPbFZfcjYwelNVR095T1NzS21ZUzg0T3o5ZGpvVHFna0dEU25Ed3JaMTllZXUyQQ?oc=5",
+    "timestamp": "2026-07-22T14:34:12+00:00",
+    "isoDate": "2026-07-22",
+    "date": "22 Jul",
+    "d": "Macy Gray regressa a Portugal em dezembro Quinto Canal",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Quinto Canal",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wN211VWQ5NnlXME9LNl8zTndJWF94em1jZEtIOGtEaHpqYzdCS1p0UXIyd1VKQnJYbUpkbDdvVUhISjQyMmdGa2ZuQTJtMDVPbFZfcjYwelNVR095T1NzS21ZUzg0T3o5ZGpvVHFna0dEU25Ed3JaMTllZXUyQQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
     "b": "UNIDARK",
     "t": "The Filth Testament – Blackdeathgrin Metal Ascends",
     "g": "core",
@@ -48657,31 +49800,6 @@
     "section": "pt"
   },
   {
-    "title": "Os melhores concertos em Lisboa para esta semana - Time Out Lisboa",
-    "src": "Time Out Lisboa",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXZvejZnWkdidFBFSUtlVVpTTXlCMGFyMEIwU1FtTG9WazBaajdRcWxKTEsyMVBzSlgwZE16ZEJBcGtOdFJnUy0taDdHV0ZjV1E2cnd5bVdha01DYnBCN0pwenFTQ0hZRjI2ZF9oOVYzN0hKQzB0UGM4R25rNFdjRGh1WVJWZHlJWS0w?oc=5",
-    "timestamp": "2026-07-20T23:00:00+00:00",
-    "isoDate": "2026-07-20",
-    "date": "20 Jul",
-    "d": "Os melhores concertos em Lisboa para esta semana Time Out Lisboa",
-    "category": "pt",
-    "sources": [
-      {
-        "name": "Time Out Lisboa",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXZvejZnWkdidFBFSUtlVVpTTXlCMGFyMEIwU1FtTG9WazBaajdRcWxKTEsyMVBzSlgwZE16ZEJBcGtOdFJnUy0taDdHV0ZjV1E2cnd5bVdha01DYnBCN0pwenFTQ0hZRjI2ZF9oOVYzN0hKQzB0UGM4R25rNFdjRGh1WVJWZHlJWS0w?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": true,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "pt"
-  },
-  {
     "title": "Bárbara Bandeira atua nos Ensaios da Anitta em Portugal - On fm",
     "src": "On fm",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVE9YMHFBam4yZnEtOWFTRmJNUlVtb0xGQTkwZk1OcDhYYllqb2czVlRJTDNKeTFTdm54bU95SGxfdkVrZS1YaWVKS0xscHF5cFIxZHlaMkd3VlhZZlFTWFJ4N1NrcTNIblJ0QVR6NVJVeTllOC1xTjdJZlJwUzlQMV9jRVdISlY1UmMw?oc=5",
@@ -49445,31 +50563,6 @@
     "star": false,
     "kind": "news",
     "section": "pt"
-  },
-  {
-    "title": "Fugitive accused in 1993 murder of punk singer arrested in Panama - AOL.com",
-    "src": "AOL.com",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZTZaejJ1MXYxOVczQmhBT3NnUlhLdlFVekcxTGJkLXhJTWpzTzIyUi02R3BEQUc4cHBpX09JR09GNFo3SDNpX1EzanMzVHg4N0VVSmh4d1I4azNGRTFLOGstRkR3STVtQzF0ODNETllJNGg3LWxySHB6QUEteS05cE1oaw?oc=5",
-    "timestamp": "2026-07-19T16:57:45+00:00",
-    "isoDate": "2026-07-19",
-    "date": "19 Jul",
-    "d": "Fugitive accused in 1993 murder of punk singer arrested in Panama AOL.com",
-    "category": "core",
-    "sources": [
-      {
-        "name": "AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZTZaejJ1MXYxOVczQmhBT3NnUlhLdlFVekcxTGJkLXhJTWpzTzIyUi02R3BEQUc4cHBpX09JR09GNFo3SDNpX1EzanMzVHg4N0VVSmh4d1I4azNGRTFLOGstRkR3STVtQzF0ODNETllJNGg3LWxySHB6QUEteS05cE1oaw?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": true,
-    "star": false,
-    "kind": "news",
-    "section": "core"
   },
   {
     "title": "Não foi só um desfile de êxitos: Seal deu um concerto cheio de emoção no MEO Marés - nit.pt",
