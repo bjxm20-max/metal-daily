@@ -42,10 +42,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -830,17 +830,977 @@
     "section": "rev"
   },
   {
-    "title": "Gig Review : Bon Jovi Madison Square Garden Night 4 - Metal Planet Music",
-    "src": "Metal Planet Music",
+    "title": "BLACK SABBATH Legend TONY IOMMI Announces New Solo Album 'From The Dark'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/black-sabbath-legend-tony-iommi-announces-new-solo-album-from-the-dark",
+    "timestamp": "2026-07-30T12:17:31+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "BMG has announced the October 23 worldwide release of the brand-new album from legendary guitarist Tony Iommi, titled \"From The Dark\". Heralded by the first single \"World Alone\", which received its premiere this afternoon at a special global streaming event hosted in Iommi's hometown of Birmingham,...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/black-sabbath-legend-tony-iommi-announces-new-solo-album-from-the-dark"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "The NME Magazine July/August 2026 issue with Yves on the cover is now on sale",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/nme-magazine-july-august-2026-issue-how-to-buy-3959360?utm_source=rss&utm_medium=rss&utm_campaign=nme-magazine-july-august-2026-issue-how-to-buy",
+    "timestamp": "2026-07-30T13:00:41+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "Featuring the comeback of the classic NME crossword and bundled with a copy of MusicTech Magazine The post The NME Magazine July/August 2026 issue with Yves on the cover is now on sale appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/nme-magazine-july-august-2026-issue-how-to-buy-3959360?utm_source=rss&utm_medium=rss&utm_campaign=nme-magazine-july-august-2026-issue-how-to-buy"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "b": "Southpaw FLHC",
+    "t": "The Standard",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "30 Jul",
+    "isoDate": "2026-07-30",
+    "url": "https://alterportal.net/2026_albums/189937-southpaw-flhc-the-standard-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/189937-southpaw-flhc-the-standard-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Laniidae",
+    "t": "Laniidae",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "30 Jul",
+    "isoDate": "2026-07-30",
+    "url": "https://alterportal.net/2026_albums/189942-laniidae-laniidae-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/189942-laniidae-laniidae-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Framing Hanley",
+    "t": "do you feel guilty being okay?",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "30 Jul",
+    "isoDate": "2026-07-30",
+    "url": "https://alterportal.net/2026_albums/189941-framing-hanley-do-you-feel-guilty-being-okay-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/189941-framing-hanley-do-you-feel-guilty-being-okay-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Finsterforst",
+    "t": "Still",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "30 Jul",
+    "isoDate": "2026-07-30",
+    "url": "https://alterportal.net/2026_albums/189943-finsterforst-still-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/189943-finsterforst-still-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Enox",
+    "t": "Polarize",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "30 Jul",
+    "isoDate": "2026-07-30",
+    "url": "https://alterportal.net/2026_albums/189940-enox-polarize-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/189940-enox-polarize-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Disfiguring The Goddess",
+    "t": "Bloom",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "30 Jul",
+    "isoDate": "2026-07-30",
+    "url": "https://alterportal.net/2026_albums/189938-disfiguring-the-goddess-bloom-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/189938-disfiguring-the-goddess-bloom-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Complexant",
+    "t": "Apex",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "30 Jul",
+    "isoDate": "2026-07-30",
+    "url": "https://alterportal.net/2026_albums/189939-complexant-apex-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/189939-complexant-apex-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Cairiss",
+    "t": "Wilderness",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "30 Jul",
+    "isoDate": "2026-07-30",
+    "url": "https://alterportal.net/2026_albums/189936-cairiss-wilderness-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/189936-cairiss-wilderness-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "WATCH: RUSH Begin Four-Night MSG Residency, See Drum-Cam of ANIKA NILLES' Entire Performance",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/video/rush-msg-four-dates-anika-niles-drum-cam",
+    "timestamp": "2026-07-30T13:10:19+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "Rush have just started their run with MSG, and have provided even more drum-cam footage of new drummer, Anika Nilles. The post WATCH: RUSH Begin Four-Night MSG Residency, See Drum-Cam of ANIKA NILLES' Entire Performance appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/video/rush-msg-four-dates-anika-niles-drum-cam"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "TONY IOMMI Says He Originally Wanted GEEZER BUTLER To Play On His 'From The Dark' Solo Album: 'He Couldn't Do It'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/tony-iommi-says-he-originally-wanted-geezer-butler-to-play-on-his-from-the-dark-solo-album-he-couldnt-do-it",
+    "timestamp": "2026-07-30T12:39:03+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "In a new interview with Rolling Stone, BLACK SABBATH guitarist Tony Iommi spoke about his upcoming solo album, \"From The Dark\", which will arrive on October 23 via BMG. \"From The Dark\" sees Iommi joined throughout by Norwegian vocalist Jorn Lande, who shares writing credits on all songs, as well as...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/tony-iommi-says-he-originally-wanted-geezer-butler-to-play-on-his-from-the-dark-solo-album-he-couldnt-do-it"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "From The Strokes to Aaliyah: 15 albums that define 2001 - BBC",
+    "src": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTEZQck1pOTd2QzJ5T3dDTV84RzAwM3BaYjZTcVVVVVpwbWlCY1E0Z3FXSV9ySUVPY05wUjlpbkZPck80RzczMzRCVnQzc25ONXNzNWlVMDF0YXN6QUtINF9nZmRLRF90V0Zjc2tCeEJubUt2bVFIbk9hRUswTklJX09USVViNlBuWjlyZHlLVm85VEVFZm1zdWwzQ25QOXMwdll6WnlHaU5fWWZrUGpKQWNITjl5am1vLThwYw?oc=5",
+    "timestamp": "2026-07-30T12:32:39+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "From The Strokes to Aaliyah: 15 albums that define 2001 BBC",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTEZQck1pOTd2QzJ5T3dDTV84RzAwM3BaYjZTcVVVVVpwbWlCY1E0Z3FXSV9ySUVPY05wUjlpbkZPck80RzczMzRCVnQzc25ONXNzNWlVMDF0YXN6QUtINF9nZmRLRF90V0Zjc2tCeEJubUt2bVFIbk9hRUswTklJX09USVViNlBuWjlyZHlLVm85VEVFZm1zdWwzQ25QOXMwdll6WnlHaU5fWWZrUGpKQWNITjl5am1vLThwYw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Howard Benson on MCR's Star Power + Three Days Grace's Strength",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/howard-benson-2026-interview-part-2/",
+    "timestamp": "2026-07-30T12:10:47+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "He also recalls being wowed by Clive Davis while working with Daughtry. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/howard-benson-2026-interview-part-2/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "MÖTLEY CRÜE's TOMMY LEE Looks Back On Legal Battle With MICK MARS: 'That Whole Thing Was Awkward And Really Hurtful'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/motley-crues-tommy-lee-looks-back-on-legal-battle-with-mick-mars-that-whole-thing-was-awkward-and-really-hurtful",
+    "timestamp": "2026-07-30T12:05:15+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "During an appearance on Billy Corgan's \"The Magnificent Others\" podcast, MÖTLEY CRÜE drummer Tommy Lee reflected on the \"hurtful\" legal battle between MÖTLEY CRÜE's founding guitarist Mick Mars and his longtime bandmates over Mick's exit from the CRÜE. When Mars, who suffers from Ankylosing Spondyli...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/motley-crues-tommy-lee-looks-back-on-legal-battle-with-mick-mars-that-whole-thing-was-awkward-and-really-hurtful"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Rocket From The Crypt Found Lost Masters Online + Announce Tour",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/rocket-from-the-crypt-scream-frankenstein-scream-tour/",
+    "timestamp": "2026-07-30T11:37:09+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "Someone found the masters on OfferUp. That sentence alone should tell you where this story is going. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/rocket-from-the-crypt-scream-frankenstein-scream-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Popular Liverpool Vegan Café / Punk venue Guac ‘n’ Roll to Expand - Louder Than War",
+    "src": "Louder Than War",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORDBlOXZvUkRxUGJrTE5TTWxnU3ZoOUc1cjFBZ211V3ZQWmJzbWItYjhvQU8ybHF1aWJLM2RvS3lhNjRzV01GZUZPQzY2RDNyN2EwMzNBS0xYQ1VwRkc4SElDWUpOUzlKNDFOYkJMdDJIc1hBbmpWM2ZVcVhOd2hfT21pWmZ5Ry1PTExTQnlXQUhsZw?oc=5",
+    "timestamp": "2026-07-30T07:27:17+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "Popular Liverpool Vegan Café / Punk venue Guac ‘n’ Roll to Expand Louder Than War",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Louder Than War",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORDBlOXZvUkRxUGJrTE5TTWxnU3ZoOUc1cjFBZ211V3ZQWmJzbWItYjhvQU8ybHF1aWJLM2RvS3lhNjRzV01GZUZPQzY2RDNyN2EwMzNBS0xYQ1VwRkc4SElDWUpOUzlKNDFOYkJMdDJIc1hBbmpWM2ZVcVhOd2hfT21pWmZ5Ry1PTExTQnlXQUhsZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Charli XCX Gives Music, Fashion, Film Songs Their Live Debuts At Nashville Spotify Show",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506776/charli-xcx-gives-music-fashion-film-songs-their-live-debuts-at-nashville-spotify-show/news/",
+    "timestamp": "2026-07-30T13:51:14+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "How Charli XCX's new album going to work in a live setting? Charli released the excellent Music, Fashion, Film last week, and it marks an intentional step back from the anthemic force of the whole Brat situation. Her new tracks are inward-looking and idiosyncratic, but they're going to have to fill up big venues. Charl",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506776/charli-xcx-gives-music-fashion-film-songs-their-live-debuts-at-nashville-spotify-show/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Every song on the ‘Spider-Man: Brand New Day’ soundtrack",
+    "src": "NME",
+    "url": "https://www.nme.com/news/film/spider-man-brand-new-day-soundtrack-3959448?utm_source=rss&utm_medium=rss&utm_campaign=spider-man-brand-new-day-soundtrack",
+    "timestamp": "2026-07-30T13:45:47+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "Including songs by Tame Impala and Bad Bunny The post Every song on the ‘Spider-Man: Brand New Day’ soundtrack appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/film/spider-man-brand-new-day-soundtrack-3959448?utm_source=rss&utm_medium=rss&utm_campaign=spider-man-brand-new-day-soundtrack"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Riley Green Teams Up With Brooks & Dunn, Randy Owen for September Album Release - 92.5 XTU",
+    "src": "92.5 XTU",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTkoxSDY1Mkh1dEN2ajV0ai14UzdoZlF6R3VXcExCV005UHM3c0dHa0ZRNUhIeUxoVnRJOWpZeklXazB3NGMwbWswR3hBZUt1LTY2VEJoNTc1WkxXMlNpOUlOMnYzVGw5WEdMVkktQm9LQTBpMGY4aHVWYllaaERYS3JNRENiand3UGJjd20zQXd2Y1dJSmlsVjJ1Nm5tanRiNE1YNWk2bDE0OEE?oc=5",
+    "timestamp": "2026-07-30T13:26:55+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "Riley Green Teams Up With Brooks & Dunn, Randy Owen for September Album Release 92.5 XTU",
+    "category": "general",
+    "sources": [
+      {
+        "name": "92.5 XTU",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTkoxSDY1Mkh1dEN2ajV0ai14UzdoZlF6R3VXcExCV005UHM3c0dHa0ZRNUhIeUxoVnRJOWpZeklXazB3NGMwbWswR3hBZUt1LTY2VEJoNTc1WkxXMlNpOUlOMnYzVGw5WEdMVkktQm9LQTBpMGY4aHVWYllaaERYS3JNRENiand3UGJjd20zQXd2Y1dJSmlsVjJ1Nm5tanRiNE1YNWk2bDE0OEE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Vote For The Song Of The Summer 2026",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506689/vote-for-the-song-of-the-summer-2026/lists/song-of-the-summer/",
+    "timestamp": "2026-07-30T13:26:16+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "We're nearing the end of July and rapidly approaching the dog days of August, which means by now you should have some music attached to your memories of this season. It also means the time has come to vote for that music. The post Vote For The Song Of The Summer 2026 appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506689/vote-for-the-song-of-the-summer-2026/lists/song-of-the-summer/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Post Malone Thanks Jelly Roll on the Last Day of Tour: ‘Thank You for Sharing Your Music’ - Country 103.7",
+    "src": "Country 103.7",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZlFVZjNBQ0VsY21McFZxTThuLUlvZmFaRDRpZk51U1BDUldlWHg0SHdHTDYybGJVQjNXMDlzenZ0a01PZlg0c1Fmd05vSDFlbkFmWHpqZG9Ua09FQzlqcUd0TlZaUlpnSjlLcWRYSGJOa0dwVXZWcWQ5cWNLTlh5ZDhlcFRSMnRpWUt6eWFqUVhPQWNkVWc?oc=5",
+    "timestamp": "2026-07-30T13:22:36+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "Post Malone Thanks Jelly Roll on the Last Day of Tour: ‘Thank You for Sharing Your Music’ Country 103.7",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Country 103.7",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZlFVZjNBQ0VsY21McFZxTThuLUlvZmFaRDRpZk51U1BDUldlWHg0SHdHTDYybGJVQjNXMDlzenZ0a01PZlg0c1Fmd05vSDFlbkFmWHpqZG9Ua09FQzlqcUd0TlZaUlpnSjlLcWRYSGJOa0dwVXZWcWQ5cWNLTlh5ZDhlcFRSMnRpWUt6eWFqUVhPQWNkVWc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ben Affleck Won $1 Million on Who Wants to Be a Millionaire",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/07/ben-affleck-wins-1-million-who-wants-to-be-a-millionaire/",
+    "timestamp": "2026-07-30T13:14:21+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "Affleck becomes just the fifth celebrity to accomplish the feat.G Ben Affleck Won $1 Million on Who Wants to Be a Millionaire Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/07/ben-affleck-wins-1-million-who-wants-to-be-a-millionaire/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Tame Impala Brings Out Jennie And Djo In Boston",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506770/tame-impala-brings-out-jennie-and-djo-in-boston/news/",
+    "timestamp": "2026-07-30T13:10:59+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "These days, Tame Impala are doing pop-star shit. When Kevin Parker and friends first released \" Dracula \" last year, the song initially seemed like a cute Halloween novelty, but it turned out to be an actual crossover hit, the band's first to crack the Hot 100 . The song became much, much bigger when Jennie, a member o",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506770/tame-impala-brings-out-jennie-and-djo-in-boston/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Smashing Pumpkins Bring Out Greg Brady At Lollapalooza Aftershow",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506735/smashing-pumpkins-bring-out-greg-brady-at-lollapalooza-aftershow/news/",
+    "timestamp": "2026-07-30T12:55:54+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "Lollapalooza is officially here. The massive Chicago festival begins today, with headliners Charli XCX, Tate McRae, Lorde, Olivia Dean, John Summit, Jennie, the xx and hometown heroes the Smashing Pumpkins. The latter played a pre-fest show at the Riviera Theatre last night. Prayers were answered for some of those who ",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506735/smashing-pumpkins-bring-out-greg-brady-at-lollapalooza-aftershow/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Linda Perhacs Located After Being Reported Missing",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2506730/linda-perhacs-located-after-being-reported-missing/news/",
+    "timestamp": "2026-07-30T12:55:30+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "Psych-folk legend Linda Perhacs has been located and is safe. Eight months ago, Perhacs was discharged from a residential care facility under the supervision of her legal guardian. Since, friends and longtime collaborators were unable to get in touch with her or her guardian. A few days ago, she was reported missing. P",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2506730/linda-perhacs-located-after-being-reported-missing/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Soundgarden’s final album is now being mixed",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/soundgardens-final-album-is-now-being-mixed-3959828?utm_source=rss&utm_medium=rss&utm_campaign=soundgardens-final-album-is-now-being-mixed",
+    "timestamp": "2026-07-30T12:47:55+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "Drummer Matt Cameron confirmed that there would be eight tracks with late frontman Chris Cornell's vocals on the record The post Soundgarden’s final album is now being mixed appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/soundgardens-final-album-is-now-being-mixed-3959828?utm_source=rss&utm_medium=rss&utm_campaign=soundgardens-final-album-is-now-being-mixed"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Christopher Nolan’s ‘The Odyssey’ has beaten ‘Oppenheimer’ at the box office in just 13 days",
+    "src": "NME",
+    "url": "https://www.nme.com/news/film/christopher-nolans-the-odyssey-has-beaten-oppenheimer-at-the-box-office-in-just-13-days-3959824?utm_source=rss&utm_medium=rss&utm_campaign=christopher-nolans-the-odyssey-has-beaten-oppenheimer-at-the-box-office-in-just-13-days",
+    "timestamp": "2026-07-30T12:07:04+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "The film was hailed by critics across the board and officially became Nolan's best-reviewed movie of his career The post Christopher Nolan’s ‘The Odyssey’ has beaten ‘Oppenheimer’ at the box office in just 13 days appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/film/christopher-nolans-the-odyssey-has-beaten-oppenheimer-at-the-box-office-in-just-13-days-3959824?utm_source=rss&utm_medium=rss&utm_campaign=christopher-nolans-the-odyssey-has-beaten-oppenheimer-at-the-box-office-in-just-13-days"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Linda Perhacs Found Safely, Manager Says",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/linda-perhacs-found-safely-managers-says/",
+    "timestamp": "2026-07-30T12:00:52+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/linda-perhacs-found-safely-managers-says/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Music fans react to Mercury Prize 2026 shortlist",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/music-fans-react-to-mercury-prize-2026-shortlist-3959813?utm_source=rss&utm_medium=rss&utm_campaign=music-fans-react-to-mercury-prize-2026-shortlist",
+    "timestamp": "2026-07-30T11:44:47+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "Paul McCartney, JADE, Nia Archives, Dove Ellis, and more are up for the prize this year The post Music fans react to Mercury Prize 2026 shortlist appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/music-fans-react-to-mercury-prize-2026-shortlist-3959813?utm_source=rss&utm_medium=rss&utm_campaign=music-fans-react-to-mercury-prize-2026-shortlist"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Cedar Park music school celebrates students' first original EP releases - KVUE",
+    "src": "KVUE",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSklqcHA2dEhSS2VZU09wLTRQYnJsT09Gb3BqY2Vna05xRmtFeWxJV0x3MnB4TkRMWFVpLVFWeFBBV21ZazMzZ09VZUFVWk5jOVljaW8tTFAzUEthZnhRUWhvVFV0U2ZVRUg4cU9mS0Znd2xUUUpBNE0xNktQdGdGb2pkRjkyWHN3cF9acVhFbHBQTmxZaXlpOENhSjFyMnVkSjZxVFlidTVDdlFZRnl3SXBRTHBiQlNldndYSkhMMWFNOTNFZHdtVzVGaklDWGIxdlpzZEk5Y09MTzJQdklYX3d3VjRMOFU4SVpGTDJNaW0?oc=5",
+    "timestamp": "2026-07-30T11:38:00+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "Cedar Park music school celebrates students' first original EP releases KVUE",
+    "category": "general",
+    "sources": [
+      {
+        "name": "KVUE",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSklqcHA2dEhSS2VZU09wLTRQYnJsT09Gb3BqY2Vna05xRmtFeWxJV0x3MnB4TkRMWFVpLVFWeFBBV21ZazMzZ09VZUFVWk5jOVljaW8tTFAzUEthZnhRUWhvVFV0U2ZVRUg4cU9mS0Znd2xUUUpBNE0xNktQdGdGb2pkRjkyWHN3cF9acVhFbHBQTmxZaXlpOENhSjFyMnVkSjZxVFlidTVDdlFZRnl3SXBRTHBiQlNldndYSkhMMWFNOTNFZHdtVzVGaklDWGIxdlpzZEk5Y09MTzJQdklYX3d3VjRMOFU4SVpGTDJNaW0?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Critics give their verdict on Anthony Bourdain biopic ‘Tony’: “It’s a lovely and deeply likeable work”",
+    "src": "NME",
+    "url": "https://www.nme.com/news/film/critics-give-their-verdict-on-anthony-bourdain-biopic-tony-its-a-lovely-and-deeply-likeable-work-3959803?utm_source=rss&utm_medium=rss&utm_campaign=critics-give-their-verdict-on-anthony-bourdain-biopic-tony-its-a-lovely-and-deeply-likeable-work",
+    "timestamp": "2026-07-30T11:33:30+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "The Dominic Sessa starring movie is coming to cinemas next month The post Critics give their verdict on Anthony Bourdain biopic ‘Tony’: “It’s a lovely and deeply likeable work” appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/film/critics-give-their-verdict-on-anthony-bourdain-biopic-tony-its-a-lovely-and-deeply-likeable-work-3959803?utm_source=rss&utm_medium=rss&utm_campaign=critics-give-their-verdict-on-anthony-bourdain-biopic-tony-its-a-lovely-and-deeply-likeable-work"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Guillermo Del Toro still plays ‘Angry Birds’ every day",
+    "src": "NME",
+    "url": "https://www.nme.com/news/gaming-news/guillermo-del-toro-still-plays-angry-birds-every-day-3959816?utm_source=rss&utm_medium=rss&utm_campaign=guillermo-del-toro-still-plays-angry-birds-every-day",
+    "timestamp": "2026-07-30T11:24:15+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "“I’m really good at it” The post Guillermo Del Toro still plays ‘Angry Birds’ every day appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/gaming-news/guillermo-del-toro-still-plays-angry-birds-every-day-3959816?utm_source=rss&utm_medium=rss&utm_campaign=guillermo-del-toro-still-plays-angry-birds-every-day"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Zach Top adds new dates to expanded 2026 ‘Cold Beer & Country Music Tour’ - Dailyfly News",
+    "src": "Dailyfly News",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMHl3TGdxZTlLRXhIRk5DbFg0al9DbldKNWxvQzdSUUFvZE1TcF9iWVAtbGhETDF4ZEQ2QlQwWkJYWVdvdkJKUTA1UTRCSXh5SEMxVG5uTWVYTUVjV3N2ZmF2aEZPWUNuT1MwOENEWlRnUlRlOEJ2ZUtJdEJRZk5RZWRpNExRVUpDVUpYZHZ0WjlqVm5DU1JOdXR6RkFRNDlvNWlqRFN6X0Z0dw?oc=5",
+    "timestamp": "2026-07-30T11:22:56+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "Zach Top adds new dates to expanded 2026 ‘Cold Beer & Country Music Tour’ Dailyfly News",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Dailyfly News",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMHl3TGdxZTlLRXhIRk5DbFg0al9DbldKNWxvQzdSUUFvZE1TcF9iWVAtbGhETDF4ZEQ2QlQwWkJYWVdvdkJKUTA1UTRCSXh5SEMxVG5uTWVYTUVjV3N2ZmF2aEZPWUNuT1MwOENEWlRnUlRlOEJ2ZUtJdEJRZk5RZWRpNExRVUpDVUpYZHZ0WjlqVm5DU1JOdXR6RkFRNDlvNWlqRFN6X0Z0dw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kanye West settles lawsuit with ex-assistant after accusations of sexual assault, sex trafficking and wrongful termination",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/kanye-west-settles-lawsuit-with-ex-assistant-after-accusations-of-sexual-assault-sex-trafficking-and-wrongful-termination-3959800?utm_source=rss&utm_medium=rss&utm_campaign=kanye-west-settles-lawsuit-with-ex-assistant-after-accusations-of-sexual-assault-sex-trafficking-and-wrongful-termination",
+    "timestamp": "2026-07-30T11:10:40+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "West’s legal team previously denied all accusations of wrongdoing, calling the allegations “baseless” The post Kanye West settles lawsuit with ex-assistant after accusations of sexual assault, sex trafficking and wrongful termination appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/kanye-west-settles-lawsuit-with-ex-assistant-after-accusations-of-sexual-assault-sex-trafficking-and-wrongful-termination-3959800?utm_source=rss&utm_medium=rss&utm_campaign=kanye-west-settles-lawsuit-with-ex-assistant-after-accusations-of-sexual-assault-sex-trafficking-and-wrongful-termination"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "David Guetta em Portugal: Horários, line-up e tudo o que precisas de saber",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/david-guetta-em-portugal-horarios-line-up-e-tudo-o-que-precisa-de-saber/",
+    "timestamp": "2026-07-30T12:45:07+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "Com mais de 30 mil pessoas esperadas, a organização recomenda a utilização de transportes públicos e divulga o plano de mobilidade para chegar e sair do recinto.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/david-guetta-em-portugal-horarios-line-up-e-tudo-o-que-precisa-de-saber/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Cinco noites em Leiria com sopros de metal no festival LizBrass - Região de Leiria",
+    "src": "Região de Leiria",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmlWNVNsSXlxNERhVEVxcmtSeUFldWE1RkVWdlRCT0dKTGthS2hxdy05RVNmd1daTXByZnQ4TV9jSGM2NkNTb2dDTUc5TTlwaTA5cFJoOEU5cF80UWRuN25GeDJrNUdNWWFRZUlUa19HaXNsU3lxWk5hNExSZkRkZnRhTEtWeDluNmtBVjF4S0hMWmZmLUNrdUxfUDJJZ3kwanZ5Qg?oc=5",
+    "timestamp": "2026-07-30T11:56:02+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "Cinco noites em Leiria com sopros de metal no festival LizBrass Região de Leiria",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Região de Leiria",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmlWNVNsSXlxNERhVEVxcmtSeUFldWE1RkVWdlRCT0dKTGthS2hxdy05RVNmd1daTXByZnQ4TV9jSGM2NkNTb2dDTUc5TTlwaTA5cFJoOEU5cF80UWRuN25GeDJrNUdNWWFRZUlUa19HaXNsU3lxWk5hNExSZkRkZnRhTEtWeDluNmtBVjF4S0hMWmZmLUNrdUxfUDJJZ3kwanZ5Qg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Fernando Correia Marques: Filhos, Esposa, Idade, Cantor, Burrito, Doente, Futebol - znaki.fm",
+    "src": "znaki.fm",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zd1hpalFHUUprT3dxUGFoMFR6M1pHOXI5b1pCVnJmeHVRVmhXN3F0OTRVZk1ZMkxvRC12bFZDWS1EVElOZlpqNDBCSHFOQXcwQ0Y0WGpfYXFKbnlPN09yelF1MA?oc=5",
+    "timestamp": "2026-07-30T09:23:38+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "Fernando Correia Marques: Filhos, Esposa, Idade, Cantor, Burrito, Doente, Futebol znaki.fm",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "znaki.fm",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zd1hpalFHUUprT3dxUGFoMFR6M1pHOXI5b1pCVnJmeHVRVmhXN3F0OTRVZk1ZMkxvRC12bFZDWS1EVElOZlpqNDBCSHFOQXcwQ0Y0WGpfYXFKbnlPN09yelF1MA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "O que fazer em Portugal: música, cinema, exposição, festival e um thriller para ler - SAPO",
+    "src": "SAPO",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSnRDbnhyQzNBUGZ6SDVPYWJHdlhCZnZZY3pjUkJOVkZrX0ltaXNJeVhXRTZaNW9HR1E4d0xXcHpZNElKRXlVZGEzQXlRT2w1M2Z5emJKT0pNeExRblAwNmRzYlIyZFM5U2VYNWFNVWFkdDFLbDdsRDVXTm85UGgzSFdldFpHRzJMSllwemptdGlRQ1NucVliRUxjTkItNWlsSWQ3UWpfZERMOG4yRWgycEM1SmtyZDNGbWJQU0dDeW91dHA1WUE?oc=5",
+    "timestamp": "2026-07-30T09:20:21+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "O que fazer em Portugal: música, cinema, exposição, festival e um thriller para ler SAPO",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "SAPO",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSnRDbnhyQzNBUGZ6SDVPYWJHdlhCZnZZY3pjUkJOVkZrX0ltaXNJeVhXRTZaNW9HR1E4d0xXcHpZNElKRXlVZGEzQXlRT2w1M2Z5emJKT0pNeExRblAwNmRzYlIyZFM5U2VYNWFNVWFkdDFLbDdsRDVXTm85UGgzSFdldFpHRzJMSllwemptdGlRQ1NucVliRUxjTkItNWlsSWQ3UWpfZERMOG4yRWgycEM1SmtyZDNGbWJQU0dDeW91dHA1WUE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "De Portugal à Grande Maçã: O rugido de Nova Iorque em 1978 - Expresso",
+    "src": "Expresso",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUXlXclljQUxsMlNoX28teVRWZUd0bVpLdi02TlNUVFpydlRpZ2VUN0pMYXdhT1dvMDI3dHo4N0tHZXZ0eHMyZWI5dExYeHJTTHFGeHpWZ1FpeHlBSmFtdTd6SkJjRnByOTh4T01FNGtETFc1UE1XYlozd3JONVJ3V3p0TVJYNUtYcG1pX0w4cl92dFhvY1k2bVdsdmdsYlJvazNoLVl4SjYzRmFiUjB1UFpyc3dDMFItQjNUU3JR?oc=5",
+    "timestamp": "2026-07-30T06:00:00+00:00",
+    "isoDate": "2026-07-30",
+    "date": "30 Jul",
+    "d": "De Portugal à Grande Maçã: O rugido de Nova Iorque em 1978 Expresso",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Expresso",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUXlXclljQUxsMlNoX28teVRWZUd0bVpLdi02TlNUVFpydlRpZ2VUN0pMYXdhT1dvMDI3dHo4N0tHZXZ0eHMyZWI5dExYeHJTTHFGeHpWZ1FpeHlBSmFtdTd6SkJjRnByOTh4T01FNGtETFc1UE1XYlozd3JONVJ3V3p0TVJYNUtYcG1pX0w4cl92dFhvY1k2bVdsdmdsYlJvazNoLVl4SjYzRmFiUjB1UFpyc3dDMFItQjNUU3JR?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Gig Review : Bon Jovi Madison Square Garden Night 4 - metalplanetmusic.com",
+    "src": "metalplanetmusic.com",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVENoS3FtNGQ3cGwwOXE3Z0pHVkh0SE9CbXpQZUtrRU1sVENoTHN0N2tVUFFFaXhULThDOUVqM0dPdi1qNV90QjUwczFyeGd3VkstcGE2UVRPLW8ta2RwNnphUUhsWk1mYzlMVDQ2SWpWRWhjVmlKQ2JZYV9XSUpSQTJ5SlJXbzViLUVQeUNVZkk?oc=5",
     "timestamp": "2026-07-29T03:39:50+00:00",
     "isoDate": "2026-07-29",
     "date": "29 Jul",
-    "d": "Gig Review : Bon Jovi Madison Square Garden Night 4 Metal Planet Music",
+    "d": "Gig Review : Bon Jovi Madison Square Garden Night 4 metalplanetmusic.com",
     "category": "metal",
     "sources": [
       {
-        "name": "Metal Planet Music",
+        "name": "metalplanetmusic.com",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVENoS3FtNGQ3cGwwOXE3Z0pHVkh0SE9CbXpQZUtrRU1sVENoTHN0N2tVUFFFaXhULThDOUVqM0dPdi1qNV90QjUwczFyeGd3VkstcGE2UVRPLW8ta2RwNnphUUhsWk1mYzlMVDQ2SWpWRWhjVmlKQ2JZYV9XSUpSQTJ5SlJXbzViLUVQeUNVZkk?oc=5"
       }
     ],
@@ -1144,17 +2104,17 @@
     "section": "buzz"
   },
   {
-    "title": "Hilary Duff brings the 'Lucky Me Tour' to Riverbend. See photos - Cincinnati Enquirer",
-    "src": "Cincinnati Enquirer",
+    "title": "Hilary Duff brings the 'Lucky Me Tour' to Riverbend. See photos - cincinnati.com",
+    "src": "cincinnati.com",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObVNUY3J5dmRoOGFITjZWV1lBbHI3X2g5WUMzZUtfRWZOOVNpT2dwcmZsM2NOWDR6bWlfeWRrSElCNDBDUElVQldGQkd6QzNyemZXUHg0QXR0ZEZBOVUyMmdVbEVndktWVzlvNFdZOFNwcno1XzFTOTFZbEFPTENmZXZscnBUQWhNd05JZTBpancwaDR3cG10RjNxZjhLVmpaUzN1ZTVZTjlhcGdkaU44OXdRT1EteHNqOFVLN09lMGpENWlTX3BOVw?oc=5",
     "timestamp": "2026-07-29T03:34:00+00:00",
     "isoDate": "2026-07-29",
     "date": "29 Jul",
-    "d": "Hilary Duff brings the 'Lucky Me Tour' to Riverbend. See photos Cincinnati Enquirer",
+    "d": "Hilary Duff brings the 'Lucky Me Tour' to Riverbend. See photos cincinnati.com",
     "category": "general",
     "sources": [
       {
-        "name": "Cincinnati Enquirer",
+        "name": "cincinnati.com",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObVNUY3J5dmRoOGFITjZWV1lBbHI3X2g5WUMzZUtfRWZOOVNpT2dwcmZsM2NOWDR6bWlfeWRrSElCNDBDUElVQldGQkd6QzNyemZXUHg0QXR0ZEZBOVUyMmdVbEVndktWVzlvNFdZOFNwcno1XzFTOTFZbEFPTENmZXZscnBUQWhNd05JZTBpancwaDR3cG10RjNxZjhLVmpaUzN1ZTVZTjlhcGdkaU44OXdRT1EteHNqOFVLN09lMGpENWlTX3BOVw?oc=5"
       }
     ],
@@ -1729,17 +2689,17 @@
     "section": "buzz"
   },
   {
-    "title": "Who Is Linda Perhacs? ‘Parallelograms’ Singer Reportedly Missing As Friend Shares Concerning Update - The Sunday Guardian",
-    "src": "The Sunday Guardian",
+    "title": "Who Is Linda Perhacs? ‘Parallelograms’ Singer Reportedly Missing As Friend Shares Concerning Update - sundayguardianlive.com",
+    "src": "sundayguardianlive.com",
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdTh1YklBZnRuUDZDbVFRWjlDOWNVelBERkpEcDVlSTE5eFI2cGxQdEZXQlU2d1kwTl82UEpQM0FPd3ltNHY1bVdNTHJLTVJ5TV9fMGV4N3BqZE4tWTJlY1E3QUEtZFl5REE1QUFBaXlQWjQ1RHljTlVkaWhiLTc4elNublUxcmx0eEJ4Mzl5ckgxQzZmUktYWWVhc0M2Y09maWg3X3R1Qkw3bWhtWVBSTmxqQ1BDdU83THRGYmhxQXJOaUZxS0VtNzV0Y0xNTDg5SGRtcXF4cnJqZmRRaTB1REJDODVhOE1fX2fSAe8BQVVfeXFMUC16VXRkbl9VdHBJZW1ITHNiejlhSkZxNlRHanFOdGsyNjlBWTdCMWZoUWY4eWg4bWNMYjhCX2UwTU5RMVRCRVNzUHc5S0pMaG94MHhnVWFvaDBSME9hb0dPVUhIdllscGVuZVZ4NjVyU2RTUlZCMldyNjd6V3otZFRSUzhTUHpWVGVoaC1oTEVDMUc0RHVFS1lQWXhRbThibDVuajhvVlBVcHRzWHV2RkRqRkNSbWgzb2pJS01fQ1h5YkNLQzE3YzlwQjNtZDhsdG9zbGpIdUtTN0c3V3VpVFNvX3hEU2pUakhfWVBrdlk?oc=5",
     "timestamp": "2026-07-29T06:47:46+00:00",
     "isoDate": "2026-07-29",
     "date": "29 Jul",
-    "d": "Who Is Linda Perhacs? ‘Parallelograms’ Singer Reportedly Missing As Friend Shares Concerning Update The Sunday Guardian",
+    "d": "Who Is Linda Perhacs? ‘Parallelograms’ Singer Reportedly Missing As Friend Shares Concerning Update sundayguardianlive.com",
     "category": "general",
     "sources": [
       {
-        "name": "The Sunday Guardian",
+        "name": "sundayguardianlive.com",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdTh1YklBZnRuUDZDbVFRWjlDOWNVelBERkpEcDVlSTE5eFI2cGxQdEZXQlU2d1kwTl82UEpQM0FPd3ltNHY1bVdNTHJLTVJ5TV9fMGV4N3BqZE4tWTJlY1E3QUEtZFl5REE1QUFBaXlQWjQ1RHljTlVkaWhiLTc4elNublUxcmx0eEJ4Mzl5ckgxQzZmUktYWWVhc0M2Y09maWg3X3R1Qkw3bWhtWVBSTmxqQ1BDdU83THRGYmhxQXJOaUZxS0VtNzV0Y0xNTDg5SGRtcXF4cnJqZmRRaTB1REJDODVhOE1fX2fSAe8BQVVfeXFMUC16VXRkbl9VdHBJZW1ITHNiejlhSkZxNlRHanFOdGsyNjlBWTdCMWZoUWY4eWg4bWNMYjhCX2UwTU5RMVRCRVNzUHc5S0pMaG94MHhnVWFvaDBSME9hb0dPVUhIdllscGVuZVZ4NjVyU2RTUlZCMldyNjd6V3otZFRSUzhTUHpWVGVoaC1oTEVDMUc0RHVFS1lQWXhRbThibDVuajhvVlBVcHRzWHV2RkRqRkNSbWgzb2pJS01fQ1h5YkNLQzE3YzlwQjNtZDhsdG9zbGpIdUtTN0c3V3VpVFNvX3hEU2pUakhfWVBrdlk?oc=5"
       }
     ],
@@ -1754,17 +2714,17 @@
     "section": "buzz"
   },
   {
-    "title": "Hollywood Vampires Tease New Music Release After 7-Year Hiatus - yahoo.com",
-    "src": "yahoo.com",
+    "title": "Hollywood Vampires Tease New Music Release After 7-Year Hiatus - Yahoo",
+    "src": "Yahoo",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMTYwakluc2N2bEdzUms5UWxNaElOdU5sLW1ick91cDljOUpHbVhySEx6MFpibFI3V1liT2x5QVpFelBHbFlMR09zYUdEM2VZTEM1dUZ3TUdrZ1drMzVwbFZycXY0enZJdG1YSC1mVmxRNUJERC1jN2FXMTYzalMtWEtkQ1MxWHJsR0FnVnNpbm5RZ3Z1TGo4N2lyUzNTQmhobFBpOVVjWQ?oc=5",
     "timestamp": "2026-07-29T04:35:00+00:00",
     "isoDate": "2026-07-29",
     "date": "29 Jul",
-    "d": "Hollywood Vampires Tease New Music Release After 7-Year Hiatus yahoo.com",
+    "d": "Hollywood Vampires Tease New Music Release After 7-Year Hiatus Yahoo",
     "category": "general",
     "sources": [
       {
-        "name": "yahoo.com",
+        "name": "Yahoo",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMTYwakluc2N2bEdzUms5UWxNaElOdU5sLW1ick91cDljOUpHbVhySEx6MFpibFI3V1liT2x5QVpFelBHbFlMR09zYUdEM2VZTEM1dUZ3TUdrZ1drMzVwbFZycXY0enZJdG1YSC1mVmxRNUJERC1jN2FXMTYzalMtWEtkQ1MxWHJsR0FnVnNpbm5RZ3Z1TGo4N2lyUzNTQmhobFBpOVVjWQ?oc=5"
       }
     ],
@@ -2670,17 +3630,17 @@
     "section": "buzz"
   },
   {
-    "title": "Gloryhammer Release New Single \"Ultimate Sacrifice\" Ahead Of New Album - XS Noize",
-    "src": "XS Noize",
+    "title": "Gloryhammer Release New Single \"Ultimate Sacrifice\" Ahead Of New Album - xsnoize.com",
+    "src": "xsnoize.com",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY2ItN0JaajF0OWtmQkR2Q1owdXdNMEZUVWVJb3ZMWF95WlRJa2k2UUlkdHdDYTlIVW1DbUItRlg3SzdONU9kTEEyWlJyTExOX0JlSTlKTWhHeVZUQ2dXNzhRclR5bHhxWTJsbkV6M0dia2VQOGZHVnRkQjQtUGlVZEZjdUZsTVIxY0phZEI4MWU1NllRdWk3SQ?oc=5",
     "timestamp": "2026-07-29T10:34:38+00:00",
     "isoDate": "2026-07-29",
     "date": "29 Jul",
-    "d": "Gloryhammer Release New Single \"Ultimate Sacrifice\" Ahead Of New Album XS Noize",
+    "d": "Gloryhammer Release New Single \"Ultimate Sacrifice\" Ahead Of New Album xsnoize.com",
     "category": "general",
     "sources": [
       {
-        "name": "XS Noize",
+        "name": "xsnoize.com",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY2ItN0JaajF0OWtmQkR2Q1owdXdNMEZUVWVJb3ZMWF95WlRJa2k2UUlkdHdDYTlIVW1DbUItRlg3SzdONU9kTEEyWlJyTExOX0JlSTlKTWhHeVZUQ2dXNzhRclR5bHhxWTJsbkV6M0dia2VQOGZHVnRkQjQtUGlVZEZjdUZsTVIxY0phZEI4MWU1NllRdWk3SQ?oc=5"
       }
     ],
@@ -3027,31 +3987,6 @@
       {
         "name": "Blabbermouth",
         "url": "https://blabbermouth.net/reviews/still-3"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "news"
-  },
-  {
-    "title": "BLACK SABBATH Legend TONY IOMMI Announces New Solo Album 'From The Dark'",
-    "src": "Blabbermouth",
-    "url": "https://blabbermouth.net/news/black-sabbath-legend-tony-iommi-announces-new-solo-album-from-the-dark",
-    "timestamp": "2026-07-29T17:39:17+00:00",
-    "isoDate": "2026-07-29",
-    "date": "29 Jul",
-    "d": "BMG has announced the worldwide release of the brand-new album from legendary guitarist Tony Iommi, titled \"From The Dark\". Heralded by the first single \"World Alone\", which received its premiere this afternoon at a special global streaming event hosted in Iommi's hometown of Birmingham, England, a...",
-    "category": "metal",
-    "sources": [
-      {
-        "name": "Blabbermouth",
-        "url": "https://blabbermouth.net/news/black-sabbath-legend-tony-iommi-announces-new-solo-album-from-the-dark"
       }
     ],
     "status": "official",
@@ -4015,17 +4950,17 @@
     "section": "buzz"
   },
   {
-    "title": "Mike Kroeger Says Nickelback Took Their Time + Relaxed With New Album — Interview - loudwire.com",
-    "src": "loudwire.com",
+    "title": "Mike Kroeger Says Nickelback Took Their Time + Relaxed With New Album — Interview - Loudwire",
+    "src": "Loudwire",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa1h0MFQ2WElEQ3EycXg1NG50NF9lelRiTUZVVzJSUHdMZ2paZlN4b0kwcFBySFg4dE9qalNDVTRDNVZDUktEQXBXVGswaWdZczZhRGRBSUlfQUxUYTBvdmFFQ0J6V29QcHhwV3I3NVdZMWFpdkJnenR2cDhFQjRGVg?oc=5",
     "timestamp": "2026-07-29T14:17:59+00:00",
     "isoDate": "2026-07-29",
     "date": "29 Jul",
-    "d": "Mike Kroeger Says Nickelback Took Their Time + Relaxed With New Album — Interview loudwire.com",
+    "d": "Mike Kroeger Says Nickelback Took Their Time + Relaxed With New Album — Interview Loudwire",
     "category": "general",
     "sources": [
       {
-        "name": "loudwire.com",
+        "name": "Loudwire",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa1h0MFQ2WElEQ3EycXg1NG50NF9lelRiTUZVVzJSUHdMZ2paZlN4b0kwcFBySFg4dE9qalNDVTRDNVZDUktEQXBXVGswaWdZczZhRGRBSUlfQUxUYTBvdmFFQ0J6V29QcHhwV3I3NVdZMWFpdkJnenR2cDhFQjRGVg?oc=5"
       }
     ],
@@ -4238,31 +5173,6 @@
     "star": false,
     "kind": "news",
     "section": "buzz"
-  },
-  {
-    "title": "BTS boicotam os Grammy. Esta é a razão - CNN Portugal",
-    "src": "CNN Portugal",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnQyZWhxOHdLMFdWN2ZxRldpbENCWlRqVUZxdlZJNEpHZTNqQkluLXR5Ry1LQmNxN2ZfNFBsdmNNZ3RfekhLWXVhZWxFVkpEZWlicWdXMnFFS25ObGRqaUdkb0lyQUV6QUd5MVRNTEt1dGpwc3o4MmVXMlVPOUhvam9MRDBuV1BhWU1IaGg1THk5TG9Mek02N0ZtenFBbEFQZ0FDaV9fc0tQdkVJaWc?oc=5",
-    "timestamp": "2026-07-29T15:11:00+00:00",
-    "isoDate": "2026-07-29",
-    "date": "29 Jul",
-    "d": "BTS boicotam os Grammy. Esta é a razão CNN Portugal",
-    "category": "pt",
-    "sources": [
-      {
-        "name": "CNN Portugal",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnQyZWhxOHdLMFdWN2ZxRldpbENCWlRqVUZxdlZJNEpHZTNqQkluLXR5Ry1LQmNxN2ZfNFBsdmNNZ3RfekhLWXVhZWxFVkpEZWlicWdXMnFFS25ObGRqaUdkb0lyQUV6QUd5MVRNTEt1dGpwc3o4MmVXMlVPOUhvam9MRDBuV1BhWU1IaGg1THk5TG9Mek02N0ZtenFBbEFQZ0FDaV9fc0tQdkVJaWc?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": true,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "pt"
   },
   {
     "title": "R.I.P Glen Hansard",
@@ -5577,17 +6487,17 @@
     "section": "pt"
   },
   {
-    "title": "Album Review: Motionless in White – Decades - Metal Planet Music",
-    "src": "Metal Planet Music",
+    "title": "Album Review: Motionless in White – Decades - metalplanetmusic.com",
+    "src": "metalplanetmusic.com",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUVh6V0NBZ3Q4ZE15NUtSYVUyLVNfRFFrWlJLWGNxc2xFdS1ocEIzSzBTakR5ZUo1QnRSVjlzNXRwQ242RTJYRWhwcV9WS015eGZXMmRUVWFPQXZUZF9rM0E5Q3MyNHFVbUJ4SjJIZ2ZPY19UY3FETmkyYVZ4UHFxU3VORXE?oc=5",
     "timestamp": "2026-07-29T21:32:54+00:00",
     "isoDate": "2026-07-29",
     "date": "29 Jul",
-    "d": "Album Review: Motionless in White – Decades Metal Planet Music",
+    "d": "Album Review: Motionless in White – Decades metalplanetmusic.com",
     "category": "metal",
     "sources": [
       {
-        "name": "Metal Planet Music",
+        "name": "metalplanetmusic.com",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUVh6V0NBZ3Q4ZE15NUtSYVUyLVNfRFFrWlJLWGNxc2xFdS1ocEIzSzBTakR5ZUo1QnRSVjlzNXRwQ242RTJYRWhwcV9WS015eGZXMmRUVWFPQXZUZF9rM0E5Q3MyNHFVbUJ4SjJIZ2ZPY19UY3FETmkyYVZ4UHFxU3VORXE?oc=5"
       }
     ],
@@ -5702,17 +6612,17 @@
     "section": "buzz"
   },
   {
-    "title": "Album Review : Parker Barrow – Hold the Mash - Metal Planet Music",
-    "src": "Metal Planet Music",
+    "title": "Album Review : Parker Barrow – Hold the Mash - metalplanetmusic.com",
+    "src": "metalplanetmusic.com",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnRYSExYZVFXQm5Oc1JfckpvRWs0V0hCTkk0bW4wTW5mV05heTFIcG8zT0dtbUR1eHc2T0pxckdUWWVvLVZCa18tYlhEQjRzVWo1SWQzN0V4VWY2bUxVT01kcUhGd2RBQUFVOTdQT2JLYUc4TGlCakNNTl9HVzFXektPeEw?oc=5",
     "timestamp": "2026-07-29T02:36:33+00:00",
     "isoDate": "2026-07-29",
     "date": "29 Jul",
-    "d": "Album Review : Parker Barrow – Hold the Mash Metal Planet Music",
+    "d": "Album Review : Parker Barrow – Hold the Mash metalplanetmusic.com",
     "category": "metal",
     "sources": [
       {
-        "name": "Metal Planet Music",
+        "name": "metalplanetmusic.com",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnRYSExYZVFXQm5Oc1JfckpvRWs0V0hCTkk0bW4wTW5mV05heTFIcG8zT0dtbUR1eHc2T0pxckdUWWVvLVZCa18tYlhEQjRzVWo1SWQzN0V4VWY2bUxVT01kcUhGd2RBQUFVOTdQT2JLYUc4TGlCakNNTl9HVzFXektPeEw?oc=5"
       }
     ],
@@ -5749,17 +6659,17 @@
     "section": "recent"
   },
   {
-    "title": "Gunshine – Grand Rising (Create Music Group) - deadrhetoric.com",
-    "src": "deadrhetoric.com",
+    "title": "Gunshine – Grand Rising (Create Music Group) - Dead Rhetoric",
+    "src": "Dead Rhetoric",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PV3htXzdPWEEyaUNrZjIzcU9ZTjFrcjNKSjBicTY3T1Y5aG9Bb01YemNfY3F0eFJwc2dxOWIwNjd4Vk5heVRtcDluWmMxdHU4YmNKT1p2U2haV1lPaWtkV0RJQ2N4XzFDTGZybXRkZ1lFbDZuXzQteDdTbkxOVzQ?oc=5",
     "timestamp": "2026-07-29T23:02:36+00:00",
     "isoDate": "2026-07-29",
     "date": "29 Jul",
-    "d": "Gunshine – Grand Rising (Create Music Group) deadrhetoric.com",
+    "d": "Gunshine – Grand Rising (Create Music Group) Dead Rhetoric",
     "category": "metal",
     "sources": [
       {
-        "name": "deadrhetoric.com",
+        "name": "Dead Rhetoric",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PV3htXzdPWEEyaUNrZjIzcU9ZTjFrcjNKSjBicTY3T1Y5aG9Bb01YemNfY3F0eFJwc2dxOWIwNjd4Vk5heVRtcDluWmMxdHU4YmNKT1p2U2haV1lPaWtkV0RJQ2N4XzFDTGZybXRkZ1lFbDZuXzQteDdTbkxOVzQ?oc=5"
       }
     ],
@@ -6124,17 +7034,17 @@
     "section": "buzz"
   },
   {
-    "title": "This weekend in Anchorage: A bike tour, running races and plenty of live music - Anchorage Daily News",
-    "src": "Anchorage Daily News",
+    "title": "This weekend in Anchorage: A bike tour, running races and plenty of live music - adn.com",
+    "src": "adn.com",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT3VSeHF4NjBUR2tja2dHWmxVbHZOVEZSMDhoSlBQeXJ0VVVsNG1BZDgtNkRsdzBZUGR3MVgyd2MzZ0tCMkpkQ3pVMHBBZ21fTzZmUkNUSU8xWlZ1bWVPMUF2S0JoQ3VXUGd6ME9zRXhSUFB0Y2hvank1dGxwLXIxOWJxaVRWOVJpaFR4NUlDSXpUSGJybmNBUU1LcXJzalM2M1VuN0FIYllXYVVOYWlRU05Qcw?oc=5",
     "timestamp": "2026-07-29T21:36:54+00:00",
     "isoDate": "2026-07-29",
     "date": "29 Jul",
-    "d": "This weekend in Anchorage: A bike tour, running races and plenty of live music Anchorage Daily News",
+    "d": "This weekend in Anchorage: A bike tour, running races and plenty of live music adn.com",
     "category": "general",
     "sources": [
       {
-        "name": "Anchorage Daily News",
+        "name": "adn.com",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT3VSeHF4NjBUR2tja2dHWmxVbHZOVEZSMDhoSlBQeXJ0VVVsNG1BZDgtNkRsdzBZUGR3MVgyd2MzZ0tCMkpkQ3pVMHBBZ21fTzZmUkNUSU8xWlZ1bWVPMUF2S0JoQ3VXUGd6ME9zRXhSUFB0Y2hvank1dGxwLXIxOWJxaVRWOVJpaFR4NUlDSXpUSGJybmNBUU1LcXJzalM2M1VuN0FIYllXYVVOYWlRU05Qcw?oc=5"
       }
     ],
@@ -6324,17 +7234,17 @@
     "section": "buzz"
   },
   {
-    "title": "Avery Anna Slates ‘Blood Runs Thicker Tour’ For October - MusicRow.com",
-    "src": "MusicRow.com",
+    "title": "Avery Anna Slates ‘Blood Runs Thicker Tour’ For October - musicrow.com",
+    "src": "musicrow.com",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUm9sM2duSGVRV042ZHRVZUhnMmxIOURGZS1nWGdpMjBfb3FVeFdQM0hrUlR4WF93MnhIdEhYZ0dKeWwyeFpsbWJtMmZrZ0ZzZVhwNHhmV0lmWXdVWXE1V2N6eEZoMXUzU0pQWTBPRjhMQmNPUzdPbGxybDVJZnc1N0NHMGktcDBOZWRj?oc=5",
     "timestamp": "2026-07-29T18:06:11+00:00",
     "isoDate": "2026-07-29",
     "date": "29 Jul",
-    "d": "Avery Anna Slates ‘Blood Runs Thicker Tour’ For October MusicRow.com",
+    "d": "Avery Anna Slates ‘Blood Runs Thicker Tour’ For October musicrow.com",
     "category": "general",
     "sources": [
       {
-        "name": "MusicRow.com",
+        "name": "musicrow.com",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUm9sM2duSGVRV042ZHRVZUhnMmxIOURGZS1nWGdpMjBfb3FVeFdQM0hrUlR4WF93MnhIdEhYZ0dKeWwyeFpsbWJtMmZrZ0ZzZVhwNHhmV0lmWXdVWXE1V2N6eEZoMXUzU0pQWTBPRjhMQmNPUzdPbGxybDVJZnc1N0NHMGktcDBOZWRj?oc=5"
       }
     ],
@@ -6597,6 +7507,77 @@
     "star": false,
     "kind": "news",
     "section": "buzz"
+  },
+  {
+    "b": "Dragon Lann",
+    "t": "Twilight Run",
+    "g": "rock",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "29 Jul",
+    "isoDate": "2026-07-29",
+    "url": "https://musicbrainz.org/release-group/38461750-47d2-46b0-8ee3-315dfed3cef8",
+    "d": "rock, heavy metal",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/38461750-47d2-46b0-8ee3-315dfed3cef8"
+      }
+    ],
+    "mbid": "38461750-47d2-46b0-8ee3-315dfed3cef8",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "title": "“Impossible”: Inside the 30-Year Fight to Release Whitney Houston and Brandy’s ‘Cinderella’ Soundtrack - Vanity Fair",
+    "src": "Vanity Fair",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04czgzZ2VBUnF1TS1IZ0Y5SFRuTTdEblZIMkhXN3ZYQnBYbm4xZmE3LUVBR3NCRUlzSVpGU21uam52WWxWckpua1VWVlZ1SmptWlRfMjlyMmRZaE9mUzlrN055TkxBTTFoM2g1YVZ2MjNzWHIyXzFLMW1OU05yX0E?oc=5",
+    "timestamp": "2026-07-29T16:00:15+00:00",
+    "isoDate": "2026-07-29",
+    "date": "29 Jul",
+    "d": "“Impossible”: Inside the 30-Year Fight to Release Whitney Houston and Brandy’s ‘Cinderella’ Soundtrack Vanity Fair",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Vanity Fair",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04czgzZ2VBUnF1TS1IZ0Y5SFRuTTdEblZIMkhXN3ZYQnBYbm4xZmE3LUVBR3NCRUlzSVpGU21uam52WWxWckpua1VWVlZ1SmptWlRfMjlyMmRZaE9mUzlrN055TkxBTTFoM2g1YVZ2MjNzWHIyXzFLMW1OU05yX0E?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "BTS boicotam os Grammy. Esta é a razão - CNN Portugal",
+    "src": "CNN Portugal",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnQyZWhxOHdLMFdWN2ZxRldpbENCWlRqVUZxdlZJNEpHZTNqQkluLXR5Ry1LQmNxN2ZfNFBsdmNNZ3RfekhLWXVhZWxFVkpEZWlicWdXMnFFS25ObGRqaUdkb0lyQUV6QUd5MVRNTEt1dGpwc3o4MmVXMlVPOUhvam9MRDBuV1BhWU1IaGg1THk5TG9Mek02N0ZtenFBbEFQZ0FDaV9fc0tQdkVJaWc?oc=5",
+    "timestamp": "2026-07-28T12:29:00+00:00",
+    "isoDate": "2026-07-28",
+    "date": "28 Jul",
+    "d": "BTS boicotam os Grammy. Esta é a razão CNN Portugal",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "CNN Portugal",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnQyZWhxOHdLMFdWN2ZxRldpbENCWlRqVUZxdlZJNEpHZTNqQkluLXR5Ry1LQmNxN2ZfNFBsdmNNZ3RfekhLWXVhZWxFVkpEZWlicWdXMnFFS25ObGRqaUdkb0lyQUV6QUd5MVRNTEt1dGpwc3o4MmVXMlVPOUhvam9MRDBuV1BhWU1IaGg1THk5TG9Mek02N0ZtenFBbEFQZ0FDaV9fc0tQdkVJaWc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "title": "Heavy metal crowd left ‘crying and vomiting’ after fan does ‘massive’ poo in moshpit - LADbible",
@@ -7192,31 +8173,6 @@
       {
         "name": "NME",
         "url": "https://www.nme.com/news/music/fat-dog-paint-a-picture-of-two-fucking-insane-people-who-argue-constantly-on-manic-new-single-shit-love-3959420?utm_source=rss&utm_medium=rss&utm_campaign=fat-dog-paint-a-picture-of-two-fucking-insane-people-who-argue-constantly-on-manic-new-single-shit-love"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": true,
-    "isPT": false,
-    "isCore": false,
-    "star": true,
-    "kind": "news",
-    "section": "buzz"
-  },
-  {
-    "title": "The NME Magazine July/August 2026 issue is out this week – here’s how to get your copy",
-    "src": "NME",
-    "url": "https://www.nme.com/news/music/nme-magazine-july-august-2026-issue-how-to-buy-3959360?utm_source=rss&utm_medium=rss&utm_campaign=nme-magazine-july-august-2026-issue-how-to-buy",
-    "timestamp": "2026-07-28T11:00:41+00:00",
-    "isoDate": "2026-07-28",
-    "date": "28 Jul",
-    "d": "With a secret cover star, the comeback of the classic NME crossword and a copy of MusicTech Magazine The post The NME Magazine July/August 2026 issue is out this week – here’s how to get your copy appeared first on NME .",
-    "category": "general",
-    "sources": [
-      {
-        "name": "NME",
-        "url": "https://www.nme.com/news/music/nme-magazine-july-august-2026-issue-how-to-buy-3959360?utm_source=rss&utm_medium=rss&utm_campaign=nme-magazine-july-august-2026-issue-how-to-buy"
       }
     ],
     "status": "official",
@@ -8811,17 +9767,17 @@
     "section": "news"
   },
   {
-    "title": "FROZEN CROWN Release New Single, “Reborn” - Metal Planet Music",
-    "src": "Metal Planet Music",
+    "title": "FROZEN CROWN Release New Single, “Reborn” - metalplanetmusic.com",
+    "src": "metalplanetmusic.com",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMnNpZVVfVXNVdWQ5UXk3QXFwbW5nWUJKTTEtOHpSRDYwUkpTYWVQcG1Ebk9rVFJpQmNDZ0ZXREpCZTJGc2ExcEUxcnhwSWk5Y2lydldZekgzYUt5cjJ2R2MzM3hDTnNTU0VNcWxJYm00Y3J2Q1VPQ1U0YXBORm45UHpB?oc=5",
     "timestamp": "2026-07-28T15:06:47+00:00",
     "isoDate": "2026-07-28",
     "date": "28 Jul",
-    "d": "FROZEN CROWN Release New Single, “Reborn” Metal Planet Music",
+    "d": "FROZEN CROWN Release New Single, “Reborn” metalplanetmusic.com",
     "category": "metal",
     "sources": [
       {
-        "name": "Metal Planet Music",
+        "name": "metalplanetmusic.com",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMnNpZVVfVXNVdWQ5UXk3QXFwbW5nWUJKTTEtOHpSRDYwUkpTYWVQcG1Ebk9rVFJpQmNDZ0ZXREpCZTJGc2ExcEUxcnhwSWk5Y2lydldZekgzYUt5cjJ2R2MzM3hDTnNTU0VNcWxJYm00Y3J2Q1VPQ1U0YXBORm45UHpB?oc=5"
       }
     ],
@@ -10266,17 +11222,17 @@
     "section": "buzz"
   },
   {
-    "title": "Como a K-Pop invadiu Portugal - tsf.pt",
-    "src": "tsf.pt",
+    "title": "Como a K-Pop invadiu Portugal - TSF",
+    "src": "TSF",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5Z1VGS1BuVlJpX0h2cC1BSVNzbFZ1QmdidWh5dWotRjFWczNlaWhaMlpJbkd6N2EyMG10aDhncjcteVhtTEg5QWRKMXB1QV9lRlNwbmZJeUhFTzZNUG8waHZ6NGlnVGVFcERqVUlQbjJqa0Q0SXNzTEpvNlo?oc=5",
     "timestamp": "2026-07-28T16:51:00+00:00",
     "isoDate": "2026-07-28",
     "date": "28 Jul",
-    "d": "Como a K-Pop invadiu Portugal tsf.pt",
+    "d": "Como a K-Pop invadiu Portugal TSF",
     "category": "pt",
     "sources": [
       {
-        "name": "tsf.pt",
+        "name": "TSF",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5Z1VGS1BuVlJpX0h2cC1BSVNzbFZ1QmdidWh5dWotRjFWczNlaWhaMlpJbkd6N2EyMG10aDhncjcteVhtTEg5QWRKMXB1QV9lRlNwbmZJeUhFTzZNUG8waHZ6NGlnVGVFcERqVUlQbjJqa0Q0SXNzTEpvNlo?oc=5"
       }
     ],
@@ -10451,17 +11407,17 @@
     "section": "news"
   },
   {
-    "title": "Heavy metal fans left vomiting after concertgoer does ‘huge poo’ in middle of mosh pit - metro.co.uk",
-    "src": "metro.co.uk",
+    "title": "Heavy metal fans left vomiting after concertgoer does ‘huge poo’ in middle of mosh pit - Metro.co.uk",
+    "src": "Metro.co.uk",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjc5dTdnLWRTUERvVjdaYUhVT1BWblhFUjRBX3hSRDBWaXBzdVFJbGhIdXE3NzZkX0IzVk54UmhoWWxpN3JsWTB3STdRWWE4NlRHVXNjZlE0a1ZSWVJqRmZWdzktMEVsMGdQN0Z1eFNESjFudjNOZy1jcVJwR1l6dzA2Y0V2Zi1aNkc4R2RyMW9OQ01reHZ3cVUxdWktbDctOFN4ZFdHYmpEelJ00gGyAUFVX3lxTE8weGR5YlVGRDU1aTlXRmxFb1BvN3kybkhBSjdrMHp3R01IT1UtMVRSeWNVcWZBazF4NHpiemlfQkQxR0Jnc0xVYVg4NTFUUFIwSDRnX2l5NGZScE9wNE9nc0l1Slc2dGdybHkyVGZaM3ZSVmJUZUY3UUZYTnBfV2t5c0M3VUlrdm5UMEppMmRXUGhsTkNFZFFDTWNKQnV5dWF1aTZxWDBRd1lHXzdnQzJESHc?oc=5",
     "timestamp": "2026-07-28T20:38:00+00:00",
     "isoDate": "2026-07-28",
     "date": "28 Jul",
-    "d": "Heavy metal fans left vomiting after concertgoer does ‘huge poo’ in middle of mosh pit metro.co.uk",
+    "d": "Heavy metal fans left vomiting after concertgoer does ‘huge poo’ in middle of mosh pit Metro.co.uk",
     "category": "metal",
     "sources": [
       {
-        "name": "metro.co.uk",
+        "name": "Metro.co.uk",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMjc5dTdnLWRTUERvVjdaYUhVT1BWblhFUjRBX3hSRDBWaXBzdVFJbGhIdXE3NzZkX0IzVk54UmhoWWxpN3JsWTB3STdRWWE4NlRHVXNjZlE0a1ZSWVJqRmZWdzktMEVsMGdQN0Z1eFNESjFudjNOZy1jcVJwR1l6dzA2Y0V2Zi1aNkc4R2RyMW9OQ01reHZ3cVUxdWktbDctOFN4ZFdHYmpEelJ00gGyAUFVX3lxTE8weGR5YlVGRDU1aTlXRmxFb1BvN3kybkhBSjdrMHp3R01IT1UtMVRSeWNVcWZBazF4NHpiemlfQkQxR0Jnc0xVYVg4NTFUUFIwSDRnX2l5NGZScE9wNE9nc0l1Slc2dGdybHkyVGZaM3ZSVmJUZUY3UUZYTnBfV2t5c0M3VUlrdm5UMEppMmRXUGhsTkNFZFFDTWNKQnV5dWF1aTZxWDBRd1lHXzdnQzJESHc?oc=5"
       }
     ],
@@ -12556,17 +13512,17 @@
     "section": "pt"
   },
   {
-    "title": "LON3R JOHNY - Znaki FM",
-    "src": "Znaki FM",
+    "title": "LON3R JOHNY - znaki.fm",
+    "src": "znaki.fm",
     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDZtOWdyLTRhbEE2T05FMlc1cGRMbVc5UVpMRlR6Tzd1dEhPNWp2RVhCUTI4a2I0RjctR2tJZlhlZ0ltVlhPOFJsamtiWUJjeVE?oc=5",
     "timestamp": "2026-07-28T20:13:24+00:00",
     "isoDate": "2026-07-28",
     "date": "28 Jul",
-    "d": "LON3R JOHNY Znaki FM",
+    "d": "LON3R JOHNY znaki.fm",
     "category": "pt",
     "sources": [
       {
-        "name": "Znaki FM",
+        "name": "znaki.fm",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LNDZtOWdyLTRhbEE2T05FMlc1cGRMbVc5UVpMRlR6Tzd1dEhPNWp2RVhCUTI4a2I0RjctR2tJZlhlZ0ltVlhPOFJsamtiWUJjeVE?oc=5"
       }
     ],
@@ -12606,17 +13562,17 @@
     "section": "pt"
   },
   {
-    "title": "King Gizzard & The Lizard Wizard Unleash ‘Alien Metal’ Ahead Of New Album And Australian Tour - noise11.com",
-    "src": "noise11.com",
+    "title": "King Gizzard & The Lizard Wizard Unleash ‘Alien Metal’ Ahead Of New Album And Australian Tour - Noise11.com",
+    "src": "Noise11.com",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdUlER29jMEFJeTh6QTdyQnRXWkpXY3NGMUcxczZKOVZFQ2pOOVBnMFFvSzVPcUlRZlZCcFZvS2V3TzRyaGdKdjNYUld5eG9QRXpzU1dfSGFyVk1CNjFxWVdjc1FlV3NtVGVsbTZ5WkRkVktlUlFWczNORjlRSmc5R29xZGdTQThrRGFNaA?oc=5",
     "timestamp": "2026-07-28T23:14:35+00:00",
     "isoDate": "2026-07-28",
     "date": "28 Jul",
-    "d": "King Gizzard & The Lizard Wizard Unleash ‘Alien Metal’ Ahead Of New Album And Australian Tour noise11.com",
+    "d": "King Gizzard & The Lizard Wizard Unleash ‘Alien Metal’ Ahead Of New Album And Australian Tour Noise11.com",
     "category": "metal",
     "sources": [
       {
-        "name": "noise11.com",
+        "name": "Noise11.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdUlER29jMEFJeTh6QTdyQnRXWkpXY3NGMUcxczZKOVZFQ2pOOVBnMFFvSzVPcUlRZlZCcFZvS2V3TzRyaGdKdjNYUld5eG9QRXpzU1dfSGFyVk1CNjFxWVdjc1FlV3NtVGVsbTZ5WkRkVktlUlFWczNORjlRSmc5R29xZGdTQThrRGFNaA?oc=5"
       }
     ],
@@ -12706,17 +13662,17 @@
     "section": "pt"
   },
   {
-    "title": "Album Review: DevilDriver – Strike And Kill - Metal Planet Music",
-    "src": "Metal Planet Music",
+    "title": "Album Review: DevilDriver – Strike And Kill - metalplanetmusic.com",
+    "src": "metalplanetmusic.com",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaXFaUFZIV0dTWjZlM2FvVncyS1B6MEpEWnhzVjd5Y2REUUFWUDFhcXU4R1MteHZsNDZWUVpiTnh1RDRwZjRsVnk0WEh0Wi1RZWRxTGdzaTZuMDVtWlFScEpFbU9EekMzX245T0NuQmZ6Mm9PQkswM2tGVkJtMDVLT3VYNWI?oc=5",
     "timestamp": "2026-07-28T12:43:26+00:00",
     "isoDate": "2026-07-28",
     "date": "28 Jul",
-    "d": "Album Review: DevilDriver – Strike And Kill Metal Planet Music",
+    "d": "Album Review: DevilDriver – Strike And Kill metalplanetmusic.com",
     "category": "metal",
     "sources": [
       {
-        "name": "Metal Planet Music",
+        "name": "metalplanetmusic.com",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaXFaUFZIV0dTWjZlM2FvVncyS1B6MEpEWnhzVjd5Y2REUUFWUDFhcXU4R1MteHZsNDZWUVpiTnh1RDRwZjRsVnk0WEh0Wi1RZWRxTGdzaTZuMDVtWlFScEpFbU9EekMzX245T0NuQmZ6Mm9PQkswM2tGVkJtMDVLT3VYNWI?oc=5"
       }
     ],
@@ -12856,17 +13812,17 @@
     "section": "buzz"
   },
   {
-    "title": "Judiciary announces ’Stalagmite Angels’, share “Wall of Skulls” - Metal Planet Music",
-    "src": "Metal Planet Music",
+    "title": "Judiciary announces ’Stalagmite Angels’, share “Wall of Skulls” - metalplanetmusic.com",
+    "src": "metalplanetmusic.com",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVUFPLWN1UmNBaWcycTZMNTU0SUQyVTh5VlVtdzB3RXk1bGpNN2dab0E1dmNhcHM4djBaamNnMktDakgtSDFkYkdCQWZyRW9tUVctNjlEamJPWXF5SEpFblh6UTN1Z3lUTktlSTJtWmx1Vm5OeHdZX2JCeEs0TGNVWGE2SUxyem9jOXBBdjNUZFhfOV9adlBrR0NrQXk?oc=5",
     "timestamp": "2026-07-28T17:13:54+00:00",
     "isoDate": "2026-07-28",
     "date": "28 Jul",
-    "d": "Judiciary announces ’Stalagmite Angels’, share “Wall of Skulls” Metal Planet Music",
+    "d": "Judiciary announces ’Stalagmite Angels’, share “Wall of Skulls” metalplanetmusic.com",
     "category": "metal",
     "sources": [
       {
-        "name": "Metal Planet Music",
+        "name": "metalplanetmusic.com",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVUFPLWN1UmNBaWcycTZMNTU0SUQyVTh5VlVtdzB3RXk1bGpNN2dab0E1dmNhcHM4djBaamNnMktDakgtSDFkYkdCQWZyRW9tUVctNjlEamJPWXF5SEpFblh6UTN1Z3lUTktlSTJtWmx1Vm5OeHdZX2JCeEs0TGNVWGE2SUxyem9jOXBBdjNUZFhfOV9adlBrR0NrQXk?oc=5"
       }
     ],
@@ -12906,13 +13862,13 @@
     "section": "buzz"
   },
   {
-    "title": "Ariana Grande sues hackers who allegedly leaked unreleased music and videos - Global News",
+    "title": "Ariana Grande sues hackers who allegedly leaked unreleased music and videos - National - Global News",
     "src": "Global News",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWhuc3ltOTctck5zbEx3bWpKalA5NDhKTkxGaks4Z2hqVlVGSm5IRTBrd2RYV0g2YmF6ODB3TDg3RWZucWx6cE9oR3EyY2JTVXdRY2xHNzZ2TkR0cE5OUUZzOW14ZXZOY1BON3p0MDVqU1A2Z2o1VGd3Z0E3UDFDT2ZoXzhkVnFQZ1NwdF9BbmpLSWRMZUJn?oc=5",
     "timestamp": "2026-07-28T18:29:57+00:00",
     "isoDate": "2026-07-28",
     "date": "28 Jul",
-    "d": "Ariana Grande sues hackers who allegedly leaked unreleased music and videos Global News",
+    "d": "Ariana Grande sues hackers who allegedly leaked unreleased music and videos - National Global News",
     "category": "general",
     "sources": [
       {
@@ -13106,6 +14062,56 @@
     "section": "pt"
   },
   {
+    "title": "Queen | We Will Rock You, Movie, Freddie Mercury, Songs, Band Members, Albums, & Facts - Encyclopedia Britannica",
+    "src": "Encyclopedia Britannica",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mLUgwS3dEc0hCUFlOTVV5aGoxaHBGczFhQTV5TDVnS2llWDJtRUsySF92cnVhYXpNbXBWeDBBaDZIRVpDMHV0T2JnSVVWQ050bDQ1NGZYdGdkUnF3c1Y2bmEwLS1OeFd5?oc=5",
+    "timestamp": "2026-07-28T05:00:00+00:00",
+    "isoDate": "2026-07-28",
+    "date": "28 Jul",
+    "d": "Queen | We Will Rock You, Movie, Freddie Mercury, Songs, Band Members, Albums, & Facts Encyclopedia Britannica",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Encyclopedia Britannica",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mLUgwS3dEc0hCUFlOTVV5aGoxaHBGczFhQTV5TDVnS2llWDJtRUsySF92cnVhYXpNbXBWeDBBaDZIRVpDMHV0T2JnSVVWQ050bDQ1NGZYdGdkUnF3c1Y2bmEwLS1OeFd5?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Keerthy Suresh reportedly roped in for The Paradise’s special song - 123Telugu",
+    "src": "123Telugu",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbE1uSWstMDRYNWt1bWsybVEwVXg5cmhoOThQT3kxblVkV3FCQlZpMmljMkJzekJ6ZHlyN3BuQy0wMTlsMl9QeXVHRG9hbHNVMS10U3hvOHR5anZjSDZqcGhITmM0WFVwdVpXZE9qMWNrMjFwZVN0TlNqdHdCUFVKZUN2MHZJaTREdlpYSVN4Z3p0WGJUOENfVjVJTEc4UVhBUzdiUmplNU1SNHI5ZjFKNkxn?oc=5",
+    "timestamp": "2026-07-28T18:30:30+00:00",
+    "isoDate": "2026-07-28",
+    "date": "28 Jul",
+    "d": "Keerthy Suresh reportedly roped in for The Paradise’s special song 123Telugu",
+    "category": "general",
+    "sources": [
+      {
+        "name": "123Telugu",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbE1uSWstMDRYNWt1bWsybVEwVXg5cmhoOThQT3kxblVkV3FCQlZpMmljMkJzekJ6ZHlyN3BuQy0wMTlsMl9QeXVHRG9hbHNVMS10U3hvOHR5anZjSDZqcGhITmM0WFVwdVpXZE9qMWNrMjFwZVN0TlNqdHdCUFVKZUN2MHZJaTREdlpYSVN4Z3p0WGJUOENfVjVJTEc4UVhBUzdiUmplNU1SNHI5ZjFKNkxn?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
     "title": "Country music hitmaker Justin Moore announces tour stop in Charleston - WCHS",
     "src": "WCHS",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT0hiQXVkSFhDY2ZYNS0xRWVtQnVrVlVrQ2JIaFRwN0NDOVhvbjgxdDI5UmNFQjNsdDVWSENGa2tMeWxzZlVha2hsNmp1MU84c2lDY2RWdUFFRGZsLUptUm5zbk5DaWpJRi1NR2UtLUlUN3hfWWZza0hMTXNOTnVrRHZRcS03ZEJ5Ylc1Zmpyc21mVloxSWVYWUFieFZPY1hq?oc=5",
@@ -13131,17 +14137,17 @@
     "section": "buzz"
   },
   {
-    "title": "THE DARKNESS: The Telegraph Building, Belfast – Tuesday 1st December - Metal Planet Music",
-    "src": "Metal Planet Music",
+    "title": "THE DARKNESS: The Telegraph Building, Belfast – Tuesday 1st December - metalplanetmusic.com",
+    "src": "metalplanetmusic.com",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWXRPRjJNYlVUYmwxZDN0bUc3Q01PUFoxVk01NG9nTHhaYnZJTFZKRUJmWkdkX0xYQ0otRHRheGFtRHU3Qkh3aG1LdXBhcmxHWDRTdFJGQXZtZ3E0VDBNejdlRkFzQ2ZFTVBRWGxwdEU4ekNBT3hxQW9lcjZrbUNibWFBU2pDZVVFcm5OQkdvclFOblRmbTBBbWJTeEY0UXdFTW1GVQ?oc=5",
     "timestamp": "2026-07-27T09:33:12+00:00",
     "isoDate": "2026-07-27",
     "date": "27 Jul",
-    "d": "THE DARKNESS: The Telegraph Building, Belfast – Tuesday 1st December Metal Planet Music",
+    "d": "THE DARKNESS: The Telegraph Building, Belfast – Tuesday 1st December metalplanetmusic.com",
     "category": "metal",
     "sources": [
       {
-        "name": "Metal Planet Music",
+        "name": "metalplanetmusic.com",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWXRPRjJNYlVUYmwxZDN0bUc3Q01PUFoxVk01NG9nTHhaYnZJTFZKRUJmWkdkX0xYQ0otRHRheGFtRHU3Qkh3aG1LdXBhcmxHWDRTdFJGQXZtZ3E0VDBNejdlRkFzQ2ZFTVBRWGxwdEU4ekNBT3hxQW9lcjZrbUNibWFBU2pDZVVFcm5OQkdvclFOblRmbTBBbWJTeEY0UXdFTW1GVQ?oc=5"
       }
     ],
@@ -14016,17 +15022,17 @@
     "section": "news"
   },
   {
-    "title": "What Happens When Indian Mythology Meets Germany's Loudest Music Festival? - ETV Bharat",
-    "src": "ETV Bharat",
+    "title": "What Happens When Indian Mythology Meets Germany's Loudest Music Festival? - etvbharat.com",
+    "src": "etvbharat.com",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRmN2UGZJbHpBb3BpTWtnc21uZk9DY3pCWXNRQTZiV3RRNkFfQVd5V2IyUVoxMUo3bExPYmNxeHZtYkdOQlBwWTJxUEh6a0lucGFFTWhvNHIyd0tVclZpVEZYclNfYU5aVWo3MXRyMENZdjJQcXJWc2NiajVsd0lPUUxPckFJMXdPX1VNRGx2THBIUXNjakRmaDBTSlVqeUdG0gGmAUFVX3lxTFBudTdYbW5DWm9XZGtWS2dmZTNUYWZ5eUNWVFpUYXRPa3ZxMEFhMWp2UmxoeWZfcXNuc2p4bTdESVhicl90X040bU9xNmYydG5EUGltLVdfREVYRno2OFVHR1JfZzdSSVdFY0d2Y19VcDc5RFM5V2hIM1lWWVlTQV9qckl1OHFHMTUzNkRUU1RXN0dUSzJpeXhFZzdFQ3hlOTVxTEhfQ2c?oc=5",
     "timestamp": "2026-07-27T10:10:28+00:00",
     "isoDate": "2026-07-27",
     "date": "27 Jul",
-    "d": "What Happens When Indian Mythology Meets Germany's Loudest Music Festival? ETV Bharat",
+    "d": "What Happens When Indian Mythology Meets Germany's Loudest Music Festival? etvbharat.com",
     "category": "metal",
     "sources": [
       {
-        "name": "ETV Bharat",
+        "name": "etvbharat.com",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRmN2UGZJbHpBb3BpTWtnc21uZk9DY3pCWXNRQTZiV3RRNkFfQVd5V2IyUVoxMUo3bExPYmNxeHZtYkdOQlBwWTJxUEh6a0lucGFFTWhvNHIyd0tVclZpVEZYclNfYU5aVWo3MXRyMENZdjJQcXJWc2NiajVsd0lPUUxPckFJMXdPX1VNRGx2THBIUXNjakRmaDBTSlVqeUdG0gGmAUFVX3lxTFBudTdYbW5DWm9XZGtWS2dmZTNUYWZ5eUNWVFpUYXRPa3ZxMEFhMWp2UmxoeWZfcXNuc2p4bTdESVhicl90X040bU9xNmYydG5EUGltLVdfREVYRno2OFVHR1JfZzdSSVdFY0d2Y19VcDc5RFM5V2hIM1lWWVlTQV9qckl1OHFHMTUzNkRUU1RXN0dUSzJpeXhFZzdFQ3hlOTVxTEhfQ2c?oc=5"
       }
     ],
@@ -15132,17 +16138,17 @@
     "section": "pt"
   },
   {
-    "title": "Francisca Borges: talento, carisma e alma em palco - Infocul",
-    "src": "Infocul",
+    "title": "Francisca Borges: talento, carisma e alma em palco - infocul.pt",
+    "src": "infocul.pt",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lY3c4NC02aGRZSG9UaFpEdFN0YmlvOWI4ckZfcmI2YnNob0tPZXRQT2V2M2pza1l2ZTBfZG5ESEp0b3hSMEJqbXNRY3JIR2ltd21QRS1OSEdMOTFKYnJReXk0S1lwT0ZFbEdCMWdDcU1icUFrUWtR?oc=5",
     "timestamp": "2026-07-27T10:16:43+00:00",
     "isoDate": "2026-07-27",
     "date": "27 Jul",
-    "d": "Francisca Borges: talento, carisma e alma em palco Infocul",
+    "d": "Francisca Borges: talento, carisma e alma em palco infocul.pt",
     "category": "pt",
     "sources": [
       {
-        "name": "Infocul",
+        "name": "infocul.pt",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lY3c4NC02aGRZSG9UaFpEdFN0YmlvOWI4ckZfcmI2YnNob0tPZXRQT2V2M2pza1l2ZTBfZG5ESEp0b3hSMEJqbXNRY3JIR2ltd21QRS1OSEdMOTFKYnJReXk0S1lwT0ZFbEdCMWdDcU1icUFrUWtR?oc=5"
       }
     ],
@@ -15602,17 +16608,17 @@
     "section": "news"
   },
   {
-    "title": "Why Las Vegas Has Become Heavy Metal’s Biggest Stage - Metal Planet Music",
-    "src": "Metal Planet Music",
+    "title": "Why Las Vegas Has Become Heavy Metal’s Biggest Stage - metalplanetmusic.com",
+    "src": "metalplanetmusic.com",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ3JuTVBHaHFSMHVqVTBBbXZKSDZyb24zT2g5VVRUdnFwT1RobnFLajZaNS1tcWR6R3FKbk1pUTJmTnFPNVdnY2hQUEJGaHNCNi0yZ1BxUmlGWG5zX1hsSlN5SXdVYmxDYmc3MFdCSU9rSWdHN2xjdEtGMDlYZktEVmdNZC15U2xlcmNoNjZ5cC1RQ3c?oc=5",
     "timestamp": "2026-07-27T09:33:13+00:00",
     "isoDate": "2026-07-27",
     "date": "27 Jul",
-    "d": "Why Las Vegas Has Become Heavy Metal’s Biggest Stage Metal Planet Music",
+    "d": "Why Las Vegas Has Become Heavy Metal’s Biggest Stage metalplanetmusic.com",
     "category": "metal",
     "sources": [
       {
-        "name": "Metal Planet Music",
+        "name": "metalplanetmusic.com",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ3JuTVBHaHFSMHVqVTBBbXZKSDZyb24zT2g5VVRUdnFwT1RobnFLajZaNS1tcWR6R3FKbk1pUTJmTnFPNVdnY2hQUEJGaHNCNi0yZ1BxUmlGWG5zX1hsSlN5SXdVYmxDYmc3MFdCSU9rSWdHN2xjdEtGMDlYZktEVmdNZC15U2xlcmNoNjZ5cC1RQ3c?oc=5"
       }
     ],
@@ -17122,17 +18128,17 @@
     "section": "news"
   },
   {
-    "title": "New Zealand Metal Show Ruined by ‘Huge Mess of S–t’ in the Pit - loudwire.com",
-    "src": "loudwire.com",
+    "title": "New Zealand Metal Show Ruined by ‘Huge Mess of S–t’ in the Pit - Loudwire",
+    "src": "Loudwire",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53czZNdHNaYlFnYmZUelNsaGE0aWg4Q0xYWENKeFhiRXZDMGRCQVRtNEZKUjc5VzdMUWo0Q1RlYlFFZmhHOHI2VzVjZmtkTVVWaEl2dnJkVnVrZ1FLWDgxM0xmaUNpcEhla1E?oc=5",
     "timestamp": "2026-07-27T14:26:36+00:00",
     "isoDate": "2026-07-27",
     "date": "27 Jul",
-    "d": "New Zealand Metal Show Ruined by ‘Huge Mess of S–t’ in the Pit loudwire.com",
+    "d": "New Zealand Metal Show Ruined by ‘Huge Mess of S–t’ in the Pit Loudwire",
     "category": "metal",
     "sources": [
       {
-        "name": "loudwire.com",
+        "name": "Loudwire",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53czZNdHNaYlFnYmZUelNsaGE0aWg4Q0xYWENKeFhiRXZDMGRCQVRtNEZKUjc5VzdMUWo0Q1RlYlFFZmhHOHI2VzVjZmtkTVVWaEl2dnJkVnVrZ1FLWDgxM0xmaUNpcEhla1E?oc=5"
       }
     ],
@@ -19184,6 +20190,31 @@
     "section": "pt"
   },
   {
+    "title": "Turd-er on the dancefloor: Heavy metal gig halted by emergency defecation situation - stuff.co.nz",
+    "src": "stuff.co.nz",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM3ZMdUJTc2tod3M0a1lmU2FjekZrVUhLYjhQcUNna25Xb2NwTVlnbUpxNnhtOGQ0eVRpNnJ6OUgxNlVqN0tfb1FqSFRsTFlpYWRvc0VQRnJhdFc2LXR3T210czFhbXNYY0JlOVNIQWZVaFlKeTdyU1N5aHRsbmVjeVlYcUgyNWJQYVRSek1QYWdVbzlpV2Z4dWExZkU5eGZIV29yZDFIZDFPMGtGV3A3WF9zWk4?oc=5",
+    "timestamp": "2026-07-27T01:15:09+00:00",
+    "isoDate": "2026-07-27",
+    "date": "27 Jul",
+    "d": "Turd-er on the dancefloor: Heavy metal gig halted by emergency defecation situation stuff.co.nz",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "stuff.co.nz",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM3ZMdUJTc2tod3M0a1lmU2FjekZrVUhLYjhQcUNna25Xb2NwTVlnbUpxNnhtOGQ0eVRpNnJ6OUgxNlVqN0tfb1FqSFRsTFlpYWRvc0VQRnJhdFc2LXR3T210czFhbXNYY0JlOVNIQWZVaFlKeTdyU1N5aHRsbmVjeVlYcUgyNWJQYVRSek1QYWdVbzlpV2Z4dWExZkU5eGZIV29yZDFIZDFPMGtGV3A3WF9zWk4?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
     "title": "Avenged Sevenfold Performed From Backstage For Their First-Ever Live Set As ‘STATICA’",
     "src": "ThePRP",
     "url": "https://www.theprp.com/2026/07/25/news/avenged-sevenfold-performed-from-backstage-for-their-first-ever-live-set-as-statica/",
@@ -19749,17 +20780,17 @@
     "section": "buzz"
   },
   {
-    "title": "Who Was Lou Koller? Sick Of It All Frontman Dies At 61 After Cancer Battle; Cause Of Death Explained - The Sunday Guardian",
-    "src": "The Sunday Guardian",
+    "title": "Who Was Lou Koller? Sick Of It All Frontman Dies At 61 After Cancer Battle; Cause Of Death Explained - sundayguardianlive.com",
+    "src": "sundayguardianlive.com",
     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTkVvMS1oVks3UUFkdnNGWlJlWFBEcEhnMHRwd2ozT3ZXMUNaUFBqSTVUMkFGdjdJT2Nnel9YYmhqaXJLRzNwMll0Q2VtU0xVLVZkeUlFX1JwaHFfNVdheVptaC1fN2t2Ti1xU1hyVlFfcmtnaXRpWEJCc1UwLWpDMG4tZlVEc1FLXzlSOFZ5NElDa2RnYUZqTDEyNTJabkRRVTNVbEVzRzhRTE1PQ2Y0b1lyNWlVMkx2Rnl1X2dESE1xamYxR0RTUUFSNVVhbFk0YUEzRVJqNEQ1cjViaXp0MGp6Qk44eldQd2VtWNIB8gFBVV95cUxNZzlJZ3BmTXkzbkFQRHVONTBuX2FDcmdIcDBzcDdSYXJHbzc0WFpla1BPSlVaYWxNM0pjRlFQMVhIV1JzcEZoMnhyeUczSFJCZnA2SThTclNra2xXLXUwMmNZNWRRX3lmSDJxMnVMUEtyNU5VdGVMb2ZsVi1ybjcyLXp3ZDBJaVE5RmxkSE4xOUk2dzZzU1ltWFAtNDMwWjFmMElQWjMxS3VtWXcweXBhOGItTWdLalcxMm5fSGMxTFdOMWo0TTNUTE5GRXJhNUFVWlB1NkpMYU9nY1hsbExXTXRhMG1wWmlVQmtMT3NpWGFjZw?oc=5",
     "timestamp": "2026-07-26T12:44:00+00:00",
     "isoDate": "2026-07-26",
     "date": "26 Jul",
-    "d": "Who Was Lou Koller? Sick Of It All Frontman Dies At 61 After Cancer Battle; Cause Of Death Explained The Sunday Guardian",
+    "d": "Who Was Lou Koller? Sick Of It All Frontman Dies At 61 After Cancer Battle; Cause Of Death Explained sundayguardianlive.com",
     "category": "core",
     "sources": [
       {
-        "name": "The Sunday Guardian",
+        "name": "sundayguardianlive.com",
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTkVvMS1oVks3UUFkdnNGWlJlWFBEcEhnMHRwd2ozT3ZXMUNaUFBqSTVUMkFGdjdJT2Nnel9YYmhqaXJLRzNwMll0Q2VtU0xVLVZkeUlFX1JwaHFfNVdheVptaC1fN2t2Ti1xU1hyVlFfcmtnaXRpWEJCc1UwLWpDMG4tZlVEc1FLXzlSOFZ5NElDa2RnYUZqTDEyNTJabkRRVTNVbEVzRzhRTE1PQ2Y0b1lyNWlVMkx2Rnl1X2dESE1xamYxR0RTUUFSNVVhbFk0YUEzRVJqNEQ1cjViaXp0MGp6Qk44eldQd2VtWNIB8gFBVV95cUxNZzlJZ3BmTXkzbkFQRHVONTBuX2FDcmdIcDBzcDdSYXJHbzc0WFpla1BPSlVaYWxNM0pjRlFQMVhIV1JzcEZoMnhyeUczSFJCZnA2SThTclNra2xXLXUwMmNZNWRRX3lmSDJxMnVMUEtyNU5VdGVMb2ZsVi1ybjcyLXp3ZDBJaVE5RmxkSE4xOUk2dzZzU1ltWFAtNDMwWjFmMElQWjMxS3VtWXcweXBhOGItTWdLalcxMm5fSGMxTFdOMWo0TTNUTE5GRXJhNUFVWlB1NkpMYU9nY1hsbExXTXRhMG1wWmlVQmtMT3NpWGFjZw?oc=5"
       }
     ],
@@ -20464,17 +21495,17 @@
     "section": "buzz"
   },
   {
-    "title": "Yasy revela sacrifícios para viver da música e recorda alerta do pai Melão - Infocul",
-    "src": "Infocul",
+    "title": "Yasy revela sacrifícios para viver da música e recorda alerta do pai Melão - infocul.pt",
+    "src": "infocul.pt",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWt4SXZoT1NoOGJjNDBaV19BYW53emxUSTJMbXpXMlprT0o3aXBzNGRRTHU4cXVsMVdXd1FfWjFXWld2TU9LQWhVclR3WV9zUEZNZDRoRDhsZHJHVDgtVldveTlOdlRPYzR5Y1BWOTlCWGZ3b1BxYzVoWW1IRm9pRnRSZUZoOUVlY1p0NjlWQ2tqdVQ3T2dVRG5B?oc=5",
     "timestamp": "2026-07-26T13:49:57+00:00",
     "isoDate": "2026-07-26",
     "date": "26 Jul",
-    "d": "Yasy revela sacrifícios para viver da música e recorda alerta do pai Melão Infocul",
+    "d": "Yasy revela sacrifícios para viver da música e recorda alerta do pai Melão infocul.pt",
     "category": "pt",
     "sources": [
       {
-        "name": "Infocul",
+        "name": "infocul.pt",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWt4SXZoT1NoOGJjNDBaV19BYW53emxUSTJMbXpXMlprT0o3aXBzNGRRTHU4cXVsMVdXd1FfWjFXWld2TU9LQWhVclR3WV9zUEZNZDRoRDhsZHJHVDgtVldveTlOdlRPYzR5Y1BWOTlCWGZ3b1BxYzVoWW1IRm9pRnRSZUZoOUVlY1p0NjlWQ2tqdVQ3T2dVRG5B?oc=5"
       }
     ],
@@ -21608,17 +22639,17 @@
     "section": "pt"
   },
   {
-    "title": "Sick of It All Singer Lou Koller Dies at 59, Rockers + Fans Pay Tribute - loudwire.com",
-    "src": "loudwire.com",
+    "title": "Sick of It All Singer Lou Koller Dies at 59, Rockers + Fans Pay Tribute - Loudwire",
+    "src": "Loudwire",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQUx5cTQyUlM5dHJ6MkJzbVBBeTZnX3VCU1p1cHpwZ0lZczVKZ0F5OXJtVkQ0QTlQSXJjNUxBT1NacDVZTVZvbXhRN3Z4WEZtQ3BaSnFMd1ltbF9HVGoxZVNMTElkSXRLWkJ0UEd1cUloN3E0c0UyaWRFS0kwUFBGSXRoYURYdFR2VXpiLW9zMFBWX0YzX2dIdg?oc=5",
     "timestamp": "2026-07-26T16:15:31+00:00",
     "isoDate": "2026-07-26",
     "date": "26 Jul",
-    "d": "Sick of It All Singer Lou Koller Dies at 59, Rockers + Fans Pay Tribute loudwire.com",
+    "d": "Sick of It All Singer Lou Koller Dies at 59, Rockers + Fans Pay Tribute Loudwire",
     "category": "core",
     "sources": [
       {
-        "name": "loudwire.com",
+        "name": "Loudwire",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQUx5cTQyUlM5dHJ6MkJzbVBBeTZnX3VCU1p1cHpwZ0lZczVKZ0F5OXJtVkQ0QTlQSXJjNUxBT1NacDVZTVZvbXhRN3Z4WEZtQ3BaSnFMd1ltbF9HVGoxZVNMTElkSXRLWkJ0UEd1cUloN3E0c0UyaWRFS0kwUFBGSXRoYURYdFR2VXpiLW9zMFBWX0YzX2dIdg?oc=5"
       }
     ],
@@ -21829,6 +22860,31 @@
     "section": "pt"
   },
   {
+    "title": "Daydream Plus on Metal, City Pop, and Getting a Feature from Fox Capture Plan - Crunchyroll",
+    "src": "Crunchyroll",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUTlZM1d6U2V1bmJGZFJPME4xc0Q2eFltcHFZSUtkcmFZYTBWbkpMc0dRNXRfekhUa25IaC1GTHpsQS1sa3o5ODhRdnZyeWtHQVdLd3ZTeGJUVU5YT0ZDMDQ2R2tPUXRiNHB3ZjQxZlZ5Y2dtUHY0Y0N2THR1eWs3RENLOA?oc=5",
+    "timestamp": "2026-07-26T15:00:00+00:00",
+    "isoDate": "2026-07-26",
+    "date": "26 Jul",
+    "d": "Daydream Plus on Metal, City Pop, and Getting a Feature from Fox Capture Plan Crunchyroll",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Crunchyroll",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUTlZM1d6U2V1bmJGZFJPME4xc0Q2eFltcHFZSUtkcmFZYTBWbkpMc0dRNXRfekhUa25IaC1GTHpsQS1sa3o5ODhRdnZyeWtHQVdLd3ZTeGJUVU5YT0ZDMDQ2R2tPUXRiNHB3ZjQxZlZ5Y2dtUHY0Y0N2THR1eWs3RENLOA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
     "b": "Silent Anthem",
     "t": "Concrete Sky",
     "g": "rock",
@@ -21874,17 +22930,17 @@
     "section": "core"
   },
   {
-    "title": "Lou Koller's Cause of Death: Hardcore Punk Icon and Sick of It All Singer Dies at 59 - International Business Times, Singapore Edition",
-    "src": "International Business Times, Singapore Edition",
+    "title": "Lou Koller's Cause of Death: Hardcore Punk Icon and Sick of It All Singer Dies at 59 - ibtimes.sg",
+    "src": "ibtimes.sg",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSDVyUjMtcGhFXzctMERLZkRZbWJIZXpaN0RaUDdQQzgxWGJfSEN3TlRCbzR6SGVaUHU1c1NnOTJna1NtSndWTkJfQ0Z5RmJBOFZtTncyV01VUUFMYXV1NFNaVWRVNUFoM3A1WnJTbjU1UnpWSDZ4NG1sRTJmd19NdDNaNGRfa1NYU2FkdmhrU0dWd3VWbnJhVlpuMXhELUU?oc=5",
     "timestamp": "2026-07-25T07:46:55+00:00",
     "isoDate": "2026-07-25",
     "date": "25 Jul",
-    "d": "Lou Koller's Cause of Death: Hardcore Punk Icon and Sick of It All Singer Dies at 59 International Business Times, Singapore Edition",
+    "d": "Lou Koller's Cause of Death: Hardcore Punk Icon and Sick of It All Singer Dies at 59 ibtimes.sg",
     "category": "core",
     "sources": [
       {
-        "name": "International Business Times, Singapore Edition",
+        "name": "ibtimes.sg",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSDVyUjMtcGhFXzctMERLZkRZbWJIZXpaN0RaUDdQQzgxWGJfSEN3TlRCbzR6SGVaUHU1c1NnOTJna1NtSndWTkJfQ0Z5RmJBOFZtTncyV01VUUFMYXV1NFNaVWRVNUFoM3A1WnJTbjU1UnpWSDZ4NG1sRTJmd19NdDNaNGRfa1NYU2FkdmhrU0dWd3VWbnJhVlpuMXhELUU?oc=5"
       }
     ],
@@ -22299,17 +23355,17 @@
     "section": "core"
   },
   {
-    "title": "Punk rock legend Lou Koller dead at 61 after two-year cancer battle - dailymail.com",
-    "src": "dailymail.com",
+    "title": "Punk rock legend Lou Koller dead at 61 after two-year cancer battle - Daily Mail",
+    "src": "Daily Mail",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVFhUMXVzcVl3MVpPWHZrcHpVNlRjcUltRl9jU1pQVVZndERIUmhsYTE5ZFVBSm5EZUM5c3lpVlVsMmhxeUkwUzdkY2hIR0RGT3dGbEZOTGlzQ3NmN3RRVlBmUFpJckpIOFd0WVNWSDFTdzlEMk9lc1luTFYyN00tQUhwVFFsMUFzX19kY2pKY3d4YVlOOEFYckpZeW0xZ1Zzdm5CenpSZ9IBrAFBVV95cUxPSl85R3p2bW5RLU9oWVFxcnZrLVVGOHU1T01ERVAxRE93bVhIc2d3SGVsOWk3TkRxc25MNml2RE11blV6SVRFVXVIUHNvWGYzSmtRLTBZQ1ZEVXBKMVVMZnlqSThrM3AweDZCX243ODc5aS1fUloxT09JNW15VXRGYTVkdFpQRVUweWNiRjNtTzNlRGo3UFlpM19WZzloTHdwQmJkRHY1Yk9uZEZ3?oc=5",
     "timestamp": "2026-07-25T01:13:19+00:00",
     "isoDate": "2026-07-25",
     "date": "25 Jul",
-    "d": "Punk rock legend Lou Koller dead at 61 after two-year cancer battle dailymail.com",
+    "d": "Punk rock legend Lou Koller dead at 61 after two-year cancer battle Daily Mail",
     "category": "core",
     "sources": [
       {
-        "name": "dailymail.com",
+        "name": "Daily Mail",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVFhUMXVzcVl3MVpPWHZrcHpVNlRjcUltRl9jU1pQVVZndERIUmhsYTE5ZFVBSm5EZUM5c3lpVlVsMmhxeUkwUzdkY2hIR0RGT3dGbEZOTGlzQ3NmN3RRVlBmUFpJckpIOFd0WVNWSDFTdzlEMk9lc1luTFYyN00tQUhwVFFsMUFzX19kY2pKY3d4YVlOOEFYckpZeW0xZ1Zzdm5CenpSZ9IBrAFBVV95cUxPSl85R3p2bW5RLU9oWVFxcnZrLVVGOHU1T01ERVAxRE93bVhIc2d3SGVsOWk3TkRxc25MNml2RE11blV6SVRFVXVIUHNvWGYzSmtRLTBZQ1ZEVXBKMVVMZnlqSThrM3AweDZCX243ODc5aS1fUloxT09JNW15VXRGYTVkdFpQRVUweWNiRjNtTzNlRGo3UFlpM19WZzloTHdwQmJkRHY1Yk9uZEZ3?oc=5"
       }
     ],
@@ -22613,17 +23669,17 @@
     "section": "core"
   },
   {
-    "title": "Who Was Lou Koller? Sick of It All Frontman Dies at 59; Net Worth, Family, Cause of Death, Career & More - The Sunday Guardian",
-    "src": "The Sunday Guardian",
+    "title": "Who Was Lou Koller? Sick of It All Frontman Dies at 59; Net Worth, Family, Cause of Death, Career & More - sundayguardianlive.com",
+    "src": "sundayguardianlive.com",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdTFwLUdnTGZBSkJSMERlanU4amRPYU15UWlFYjlxa3QxQ1RNMFliMmRxLXB2aFZURmRlVDJ5cVhjaS0wU0ZQb0ZqSzRpWktaTVYzb29oblJReC1wYVdHLW8xYkxudDVxLUE3TFZBRE9rcHg4ekpTQmJUa3RreEtNQzl0NG1SMUVfR1doeGZnVUJLVU04THFGLWxLeFVzSDVESnZ5MXlsQTc5SkJpWlhLMEczM1dRQlRfMHVLbU1VS2tLdDRPdV91YkRGQ0p6R3NMQWsteEJ6V1dxd9IB3wFBVV95cUxNMnlYbE8yN3VwRHAtQ1ZNWmFrOElGd1l5aU1wQ3pUaGZCSExFcF9Wbko2dmkwS0xZLU41eGJrSU00YWRnNjJjWGNTRWJKVFlpVmNONlAwbXp6Q2xnSWhlU2RJeFBRU1BUdTIyUzlpZ2JFQUxEVjA3Ti10emcwRDhXZmFDTTAxd29KSU1qbjI4X0NQNldwRnhXX0QxQ0pnejlRZTVRTjh6QmY2eW9BVmJoOGJRTzRIbmRfWldSTUxfRXN4cTlmS3BWQXVHYjBBcmRYcUFDVFdsUlp6Tjk3QXFv?oc=5",
     "timestamp": "2026-07-25T08:49:46+00:00",
     "isoDate": "2026-07-25",
     "date": "25 Jul",
-    "d": "Who Was Lou Koller? Sick of It All Frontman Dies at 59; Net Worth, Family, Cause of Death, Career & More The Sunday Guardian",
+    "d": "Who Was Lou Koller? Sick of It All Frontman Dies at 59; Net Worth, Family, Cause of Death, Career & More sundayguardianlive.com",
     "category": "core",
     "sources": [
       {
-        "name": "The Sunday Guardian",
+        "name": "sundayguardianlive.com",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdTFwLUdnTGZBSkJSMERlanU4amRPYU15UWlFYjlxa3QxQ1RNMFliMmRxLXB2aFZURmRlVDJ5cVhjaS0wU0ZQb0ZqSzRpWktaTVYzb29oblJReC1wYVdHLW8xYkxudDVxLUE3TFZBRE9rcHg4ekpTQmJUa3RreEtNQzl0NG1SMUVfR1doeGZnVUJLVU04THFGLWxLeFVzSDVESnZ5MXlsQTc5SkJpWlhLMEczM1dRQlRfMHVLbU1VS2tLdDRPdV91YkRGQ0p6R3NMQWsteEJ6V1dxd9IB3wFBVV95cUxNMnlYbE8yN3VwRHAtQ1ZNWmFrOElGd1l5aU1wQ3pUaGZCSExFcF9Wbko2dmkwS0xZLU41eGJrSU00YWRnNjJjWGNTRWJKVFlpVmNONlAwbXp6Q2xnSWhlU2RJeFBRU1BUdTIyUzlpZ2JFQUxEVjA3Ti10emcwRDhXZmFDTTAxd29KSU1qbjI4X0NQNldwRnhXX0QxQ0pnejlRZTVRTjh6QmY2eW9BVmJoOGJRTzRIbmRfWldSTUxfRXN4cTlmS3BWQXVHYjBBcmRYcUFDVFdsUlp6Tjk3QXFv?oc=5"
       }
     ],
@@ -23088,17 +24144,17 @@
     "section": "news"
   },
   {
-    "title": "Influential Punk Rock Frontman Passes at 59 — Tributes Pour In - entertainmentnow.com",
-    "src": "entertainmentnow.com",
+    "title": "Influential Punk Rock Frontman Passes at 59 — Tributes Pour In - EntertainmentNow",
+    "src": "EntertainmentNow",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40UElOdHY2UnNhZjF1Y1VieTBpVWE0dmp0c3YxWlZBUVZhaVc2RUMydDdwOVczVS1PV2dTbnduTkJTUWJVQlFFTlJhaDZ2UmFHdlBLVk1WdnNta2IxaUFGcUJ2NktWMndRNmV4QVliU3JIc1MyTGNZ?oc=5",
     "timestamp": "2026-07-25T09:49:57+00:00",
     "isoDate": "2026-07-25",
     "date": "25 Jul",
-    "d": "Influential Punk Rock Frontman Passes at 59 — Tributes Pour In entertainmentnow.com",
+    "d": "Influential Punk Rock Frontman Passes at 59 — Tributes Pour In EntertainmentNow",
     "category": "core",
     "sources": [
       {
-        "name": "entertainmentnow.com",
+        "name": "EntertainmentNow",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40UElOdHY2UnNhZjF1Y1VieTBpVWE0dmp0c3YxWlZBUVZhaVc2RUMydDdwOVczVS1PV2dTbnduTkJTUWJVQlFFTlJhaDZ2UmFHdlBLVk1WdnNta2IxaUFGcUJ2NktWMndRNmV4QVliU3JIc1MyTGNZ?oc=5"
       }
     ],
@@ -23163,17 +24219,17 @@
     "section": "core"
   },
   {
-    "title": "Lou Koller, lead singer of hardcore pioneers Sick of It All, dies aged 59 - metro.co.uk",
-    "src": "metro.co.uk",
+    "title": "Lou Koller, lead singer of hardcore pioneers Sick of It All, dies aged 59 - Metro.co.uk",
+    "src": "Metro.co.uk",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRlI2YUx6ZWZ5SW9MRnc2S1lkRlpyWjVIUS1RSFgydGg0RWZPZ1h2U2gyS0JzQzBsWklDejQ3SG5tNUJ4S09CbVNmLWdZTmU0Z1BCSzIzNEQwY1NKVHcyLW9iZVhMNnQ0dGZHa2xyTzFKV0Nka0FEa1FNZ0h0WWR6NkhzTzByUk5Ga2JwZFRZc2RWTHprZ29WRTgtOU5OVmVN0gGmAUFVX3lxTE5aUTdvX0NPUHFQSzJwVGp2QUV6NUZzczFteEFyeXlLVTdlREpXZHowbUlVS3NtOG5wRjN5YTJpT2NIa3JTRzlOYWJRVjlyeHR0VnhOT3ZPOVdjcmJxUmZlM0VVald4Y2VwV2xuQjdZcFZ6RldKSEJwU2tyeGo2Y1lTUFdhWWZ4cEpjSEVOS2V6Q1pCbUZjb21KM3RrLUpEdHY3c3NoZFE?oc=5",
     "timestamp": "2026-07-25T07:26:00+00:00",
     "isoDate": "2026-07-25",
     "date": "25 Jul",
-    "d": "Lou Koller, lead singer of hardcore pioneers Sick of It All, dies aged 59 metro.co.uk",
+    "d": "Lou Koller, lead singer of hardcore pioneers Sick of It All, dies aged 59 Metro.co.uk",
     "category": "core",
     "sources": [
       {
-        "name": "metro.co.uk",
+        "name": "Metro.co.uk",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRlI2YUx6ZWZ5SW9MRnc2S1lkRlpyWjVIUS1RSFgydGg0RWZPZ1h2U2gyS0JzQzBsWklDejQ3SG5tNUJ4S09CbVNmLWdZTmU0Z1BCSzIzNEQwY1NKVHcyLW9iZVhMNnQ0dGZHa2xyTzFKV0Nka0FEa1FNZ0h0WWR6NkhzTzByUk5Ga2JwZFRZc2RWTHprZ29WRTgtOU5OVmVN0gGmAUFVX3lxTE5aUTdvX0NPUHFQSzJwVGp2QUV6NUZzczFteEFyeXlLVTdlREpXZHowbUlVS3NtOG5wRjN5YTJpT2NIa3JTRzlOYWJRVjlyeHR0VnhOT3ZPOVdjcmJxUmZlM0VVald4Y2VwV2xuQjdZcFZ6RldKSEJwU2tyeGo2Y1lTUFdhWWZ4cEpjSEVOS2V6Q1pCbUZjb21KM3RrLUpEdHY3c3NoZFE?oc=5"
       }
     ],
@@ -23522,17 +24578,17 @@
     "section": "rev"
   },
   {
-    "title": "Lou Koller Dead at 59: Sick of It All Singer Dies Just Months Before Band's Milestone 40th Anniversary - ibtimes.co.uk",
-    "src": "ibtimes.co.uk",
+    "title": "Lou Koller Dead at 59: Sick of It All Singer Dies Just Months Before Band's Milestone 40th Anniversary - International Business Times UK",
+    "src": "International Business Times UK",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTzU1LXUwYlEwSThmUXdFRUF4RG02SmJsYnFwMWx4STRSZEwwdzZaLVhiUDdvSWJ1Z3NwUzBWSWh4NjlhQVJBS2ZlZkpDY1NrWDJIVWlxcGdueU96Zi1McFJpY3ZSMzJZdFRMVE1UbG9TVGdaM2pHOTVJY3VpUXZkc3BoNTJDRTNmel9oLXg1TmpOQlU?oc=5",
     "timestamp": "2026-07-25T14:42:22+00:00",
     "isoDate": "2026-07-25",
     "date": "25 Jul",
-    "d": "Lou Koller Dead at 59: Sick of It All Singer Dies Just Months Before Band's Milestone 40th Anniversary ibtimes.co.uk",
+    "d": "Lou Koller Dead at 59: Sick of It All Singer Dies Just Months Before Band's Milestone 40th Anniversary International Business Times UK",
     "category": "core",
     "sources": [
       {
-        "name": "ibtimes.co.uk",
+        "name": "International Business Times UK",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTzU1LXUwYlEwSThmUXdFRUF4RG02SmJsYnFwMWx4STRSZEwwdzZaLVhiUDdvSWJ1Z3NwUzBWSWh4NjlhQVJBS2ZlZkpDY1NrWDJIVWlxcGdueU96Zi1McFJpY3ZSMzJZdFRMVE1UbG9TVGdaM2pHOTVJY3VpUXZkc3BoNTJDRTNmel9oLXg1TmpOQlU?oc=5"
       }
     ],
@@ -25009,17 +26065,17 @@
     "section": "buzz"
   },
   {
-    "title": "Rancho Folclórico das Camponesas de Portugal do Rio de Janeiro traz tradição e cultura a Terras de Bouro - oamarense.pt",
-    "src": "oamarense.pt",
+    "title": "Rancho Folclórico das Camponesas de Portugal do Rio de Janeiro traz tradição e cultura a Terras de Bouro - O Amarense – Jornal",
+    "src": "O Amarense – Jornal",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORE5vZURZSmZxdXcyZnRDNnByZmQ0YS1rbGM3OUlUQWdnRV9qTldYX1B3Rk9iRHo0RjJwZHg3NGNBLTBVdmtWSldfRXVSd2hDMXZKRkhOelpVSW1FRGhBYTI2amw3R05jYjJQVUloWHhKUFFDUTFlckVOVC1RVzFmUE1QU1lVamxfeGNRRkdETm55V0VtT09SNUlZc3laTmpBcEF3RUR2WVczTWVILUc1QmtPY0tMVDNJZjBzUnZEODE4cTZE?oc=5",
     "timestamp": "2026-07-25T10:38:00+00:00",
     "isoDate": "2026-07-25",
     "date": "25 Jul",
-    "d": "Rancho Folclórico das Camponesas de Portugal do Rio de Janeiro traz tradição e cultura a Terras de Bouro oamarense.pt",
+    "d": "Rancho Folclórico das Camponesas de Portugal do Rio de Janeiro traz tradição e cultura a Terras de Bouro O Amarense – Jornal",
     "category": "pt",
     "sources": [
       {
-        "name": "oamarense.pt",
+        "name": "O Amarense – Jornal",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORE5vZURZSmZxdXcyZnRDNnByZmQ0YS1rbGM3OUlUQWdnRV9qTldYX1B3Rk9iRHo0RjJwZHg3NGNBLTBVdmtWSldfRXVSd2hDMXZKRkhOelpVSW1FRGhBYTI2amw3R05jYjJQVUloWHhKUFFDUTFlckVOVC1RVzFmUE1QU1lVamxfeGNRRkdETm55V0VtT09SNUlZc3laTmpBcEF3RUR2WVczTWVILUc1QmtPY0tMVDNJZjBzUnZEODE4cTZE?oc=5"
       }
     ],
@@ -39369,31 +40425,6 @@
     "section": "pt"
   },
   {
-    "title": "Queen | We Will Rock You, Movie, Freddie Mercury, Songs, Band Members, Albums, & Facts - Encyclopedia Britannica",
-    "src": "Encyclopedia Britannica",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mLUgwS3dEc0hCUFlOTVV5aGoxaHBGczFhQTV5TDVnS2llWDJtRUsySF92cnVhYXpNbXBWeDBBaDZIRVpDMHV0T2JnSVVWQ050bDQ1NGZYdGdkUnF3c1Y2bmEwLS1OeFd5?oc=5",
-    "timestamp": "2026-07-23T05:00:00+00:00",
-    "isoDate": "2026-07-23",
-    "date": "23 Jul",
-    "d": "Queen | We Will Rock You, Movie, Freddie Mercury, Songs, Band Members, Albums, & Facts Encyclopedia Britannica",
-    "category": "metal",
-    "sources": [
-      {
-        "name": "Encyclopedia Britannica",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mLUgwS3dEc0hCUFlOTVV5aGoxaHBGczFhQTV5TDVnS2llWDJtRUsySF92cnVhYXpNbXBWeDBBaDZIRVpDMHV0T2JnSVVWQ050bDQ1NGZYdGdkUnF3c1Y2bmEwLS1OeFd5?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "news"
-  },
-  {
     "title": "Mariachi El Bronx at City Winery NYC on September 25th - mxdwn Music",
     "src": "mxdwn Music",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzA5UFhkcjV0aTVwSXdzUExxdFAyNHJOSnR3d21lNk9SMkJ3OUdsdDFOcHJUMVAwdXlyWm45S0ZiMHZ6XzhXa0FYc1lJbXktVS0zeURJVTZDRTJTclNPRF83Nk5YYlkzUmI1M0lLTVdpOVAxTnlreHA5Z0ZLVjFydEhBV1FNMWxvTk41aXBsNkFLVEg0SXRseVIzMTVKa2EwcFFVSk9SYnQwOE0z0gGsAUFVX3lxTFBfMDlQWGRyNXRpNXBJd3NQTHF0UDI0ck5KdHd3bWU2T1IyQnc5R2x0MU5wclQxUDB1eXJabjlLRmIwdnpfOFdrQVhzWUlteS1VLTN5RElVNkNFMlNyU09EXzc2TlhiWTNSYjUzSUtNV2k5UDFOeWt4cDlnRktWMXJ0SEFXUU0xbG9OTjVpcGw2QUtUSDRJdGx5UjMxNUprYTBwUVVKT1JidDA4TTM?oc=5",
@@ -39548,17 +40579,17 @@
     "section": "pt"
   },
   {
-    "title": "Calendário oficial do DF passa a contar com novas datas comemorativas - Câmara Legislativa do Distrito Federal - CLDF",
-    "src": "Câmara Legislativa do Distrito Federal - CLDF",
+    "title": "Calendário oficial do DF passa a contar com novas datas comemorativas - cl.df.gov.br",
+    "src": "cl.df.gov.br",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHBCVnl6X2E2R0EyREdRODFXU0IyNThCc2k2bzlibHpPU1IxT1pQekFINlQ5ZW9xNFFnai1qWUU5UmJoRUZnalFzUE94NXNvX1JrVFFleEVNeTZJOERJVTlZWmhDRHZzRUlkb3FKdmZNQ3lYNmNJOVpzYjZ5UkZ2bTJKZUk2NEhkNkU1dk01YTVjdV9GZDlqbGpXbkU?oc=5",
     "timestamp": "2026-07-23T17:00:00+00:00",
     "isoDate": "2026-07-23",
     "date": "23 Jul",
-    "d": "Calendário oficial do DF passa a contar com novas datas comemorativas Câmara Legislativa do Distrito Federal - CLDF",
+    "d": "Calendário oficial do DF passa a contar com novas datas comemorativas cl.df.gov.br",
     "category": "pt",
     "sources": [
       {
-        "name": "Câmara Legislativa do Distrito Federal - CLDF",
+        "name": "cl.df.gov.br",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHBCVnl6X2E2R0EyREdRODFXU0IyNThCc2k2bzlibHpPU1IxT1pQekFINlQ5ZW9xNFFnai1qWUU5UmJoRUZnalFzUE94NXNvX1JrVFFleEVNeTZJOERJVTlZWmhDRHZzRUlkb3FKdmZNQ3lYNmNJOVpzYjZ5UkZ2bTJKZUk2NEhkNkU1dk01YTVjdV9GZDlqbGpXbkU?oc=5"
       }
     ],
