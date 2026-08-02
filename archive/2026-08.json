@@ -239,35 +239,35 @@
     "section": "buzz"
   },
   {
-    "title": "O jornal do Brasil em Portugal - DN Brasil",
-    "src": "DN Brasil",
+    "title": "O jornal do Brasil em Portugal - dnbrasil.dn.pt",
+    "src": "dnbrasil.dn.pt",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaVgxTEtGdEx3SWFRTTNGTTJJV3hXbE5lSTh0S3ozeWh4cWtlMUhaUVlWbFE1ZDB2cThCSTlBYXVrbVN0ZDZsa0JOTFlzalFpZWNuSnozdWhuaXF2a2RFcGdtTUxBdDhuaUx1aHhrc29MbjNlam5CNHhfY1dZWEpuLWo3WmZRSHo2U2RGaUZHWE1EbFV1Q1V6bDF6X24xN3ppVFh2b0lzZ0lHVnZZTHBBN3YyQ0lDX2JQNzNXU0hOOE91azQ?oc=5",
     "timestamp": "2026-08-02T07:58:00+00:00",
     "isoDate": "2026-08-02",
     "date": "2 Ago",
-    "d": "O jornal do Brasil em Portugal DN Brasil",
+    "d": "O jornal do Brasil em Portugal dnbrasil.dn.pt",
     "category": "pt",
     "sources": [
       {
-        "name": "DN Brasil",
+        "name": "dnbrasil.dn.pt",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaVgxTEtGdEx3SWFRTTNGTTJJV3hXbE5lSTh0S3ozeWh4cWtlMUhaUVlWbFE1ZDB2cThCSTlBYXVrbVN0ZDZsa0JOTFlzalFpZWNuSnozdWhuaXF2a2RFcGdtTUxBdDhuaUx1aHhrc29MbjNlam5CNHhfY1dZWEpuLWo3WmZRSHo2U2RGaUZHWE1EbFV1Q1V6bDF6X24xN3ppVFh2b0lzZ0lHVnZZTHBBN3YyQ0lDX2JQNzNXU0hOOE91azQ?oc=5"
       },
       {
-        "name": "DN Brasil",
+        "name": "dnbrasil.dn.pt",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTkVKZWFMaHpiTHItNmtTR0xrdHV4b2pscEtWMjdicnFnRVNzTnhUbW8zSGlXNHhLUXMtOVVUZ3pSeS1VU0NaQ19nSEZ3MVBmd1JQLXhVM1dLT1pGZHBURmlMWk56aTdtazVDa1ZpLURQbWI3eU1qR0ZNVk9HbVFyWDMyRlhiZzNoVDdMSXFuQ3djYXdWakJ1V2lFcEJNV1Q3SFpoQmFQS0h0WEktZVlFekt1NA?oc=5"
       },
       {
-        "name": "DN Brasil",
+        "name": "dnbrasil.dn.pt",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOXVPY1BOenBOa1RWUGJ4T2dWZ2xHNHU4QUxySF9iOElsMS1SRHE1VjAxYmxXR2ZvVjJVZWNPb3FGMHNQWnlUeXUwbXNCWTJ6X1pmdWE0MVBMSlI1elJzVXZxNzJyMk9kX0FpSElvQmRHWTY4eF9WOGFqVUNrbFVvcUkzX3dveFZwRVNnaXVXNFF1MzRrZ004WkdyNHNaMUgxU2RhWjhsNWlLXzF1ajF6TG1wcGtqeWVFYVZjTnlQSTVLaU1aanFjX1lJVWg3MVhhcjVSN0pB?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -394,10 +394,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -419,10 +419,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -684,10 +684,10 @@
     "status": "rumor",
     "confidence": "medium",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -1507,17 +1507,782 @@
     "section": "rev"
   },
   {
-    "title": "Every Big Rock + Metal Album Released Each Day in August History - loudwire.com",
-    "src": "loudwire.com",
+    "b": "The Oklahoma Kid",
+    "t": "SPIT",
+    "g": "heavy",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "2 Ago",
+    "isoDate": "2026-08-02",
+    "url": "https://alterportal.net/alternative/189981-the-oklahoma-kid-spit-single-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/189981-the-oklahoma-kid-spit-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Niveous",
+    "t": "Cult of the Void Star",
+    "g": "black",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "2 Ago",
+    "isoDate": "2026-08-02",
+    "url": "https://alterportal.net/2026_albums/189980-niveous-cult-of-the-void-star-2026.html",
+    "d": "Atmospheric Black Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/189980-niveous-cult-of-the-void-star-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "Theprp.com Is Once Again Active On Threads",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/02/news/theprp-com-is-once-again-active-on-threads/",
+    "timestamp": "2026-08-02T20:15:12+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "Following this summer's launch on IG. The post Theprp.com Is Once Again Active On Threads appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/02/news/theprp-com-is-once-again-active-on-threads/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Electric Callboy, Five Finger Death Punch, Knocked Loose, Etc. Booked For 2027 ‘Wacken Open Air’",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/02/news/electric-callboy-five-finger-death-punch-knocked-loose-etc-booked-for-2027-wacken-open-air/",
+    "timestamp": "2026-08-02T19:51:33+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "Plus Helloween, Children Of Bodom, Heaven Shall Burn, DragonForce, Halestorm and many more. The post Electric Callboy, Five Finger Death Punch, Knocked Loose, Etc. Booked For 2027 ‘Wacken Open Air’ appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/02/news/electric-callboy-five-finger-death-punch-knocked-loose-etc-booked-for-2027-wacken-open-air/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Here’s This Week’s Top Ten Stories On Theprp.com (August 02nd, 2026)",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/02/news/heres-this-weeks-top-ten-stories-on-theprp-com-august-02nd-2026/",
+    "timestamp": "2026-08-02T19:39:03+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "Serial killers, STATICA, Sid and more. The post Here’s This Week’s Top Ten Stories On Theprp.com (August 02nd, 2026) appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/02/news/heres-this-weeks-top-ten-stories-on-theprp-com-august-02nd-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "John 5 & Wednesday 13 To Join Forces For 2027 Live Performances",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/02/news/john-5-wednesday-13-to-join-forces-for-2027-live-performances/",
+    "timestamp": "2026-08-02T19:15:38+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "Wednesday 13 will be fronting select live sets from John 5 and The Creatures. The post John 5 & Wednesday 13 To Join Forces For 2027 Live Performances appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/02/news/john-5-wednesday-13-to-join-forces-for-2027-live-performances/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "TONY IOMMI: 'If I Sit Down With A Guitar, I'll Come Up With A Riff'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/tony-iommi-if-i-sit-down-with-a-guitar-ill-come-up-with-a-riff",
+    "timestamp": "2026-08-02T18:54:42+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "In a new interview with Loz Guest, the head of music and a radio presenter on the U.K. digital radio station Planet Rock, BLACK SABBATH guitarist Tony Iommi spoke about his upcoming solo album, \"From The Dark\", which will arrive on October 23 via BMG. \"From The Dark\" sees Iommi joined throughout by...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/tony-iommi-if-i-sit-down-with-a-guitar-ill-come-up-with-a-riff"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Sharon Osbourne Blasts “Money Grab” Accusations Over Ozzy Osbourne AI-Powered Avatar: “It’s Not As If I’m Using Ozzy To Sell F*cking Weedkiller Or Beer”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/02/news/sharon-osbourne-blasts-money-grab-accusations-over-ozzy-osbourne-ai-powered-avatar-its-not-as-if-im-using-ozzy-to-sell-fcking-weedkiller-or-beer/",
+    "timestamp": "2026-08-02T18:53:36+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "Sharon also gave a brief update on 'Ozzfest' and more. The post Sharon Osbourne Blasts “Money Grab” Accusations Over Ozzy Osbourne AI-Powered Avatar: “It’s Not As If I’m Using Ozzy To Sell F*cking Weedkiller Or Beer” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/02/news/sharon-osbourne-blasts-money-grab-accusations-over-ozzy-osbourne-ai-powered-avatar-its-not-as-if-im-using-ozzy-to-sell-fcking-weedkiller-or-beer/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Salem Trials Announce Fall Canadian Tour",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/02/news/salem-trials-announce-fall-canadian-tour/",
+    "timestamp": "2026-08-02T18:29:51+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "Their new EP \"Heavy is The Head\" was released this past June. The post Salem Trials Announce Fall Canadian Tour appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/02/news/salem-trials-announce-fall-canadian-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "William Shatner Reveals His Metal Band Will Be Playing ‘Coachella’ In 2027",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/02/news/william-shatner-reveals-his-metal-band-will-be-playing-coachella-in-2027/",
+    "timestamp": "2026-08-02T18:22:03+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "Presumably he wasn't supposed to reveal that yet. The post William Shatner Reveals His Metal Band Will Be Playing ‘Coachella’ In 2027 appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/02/news/william-shatner-reveals-his-metal-band-will-be-playing-coachella-in-2027/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Limp Bizkit’s “Break Stuff” Goes 2x Platinum In The UK",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/02/news/limp-bizkits-break-stuff-goes-2x-platinum-in-the-uk/",
+    "timestamp": "2026-08-02T17:59:46+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "Their renaissance continues. The post Limp Bizkit’s “Break Stuff” Goes 2x Platinum In The UK appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/02/news/limp-bizkits-break-stuff-goes-2x-platinum-in-the-uk/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "LITA FORD Is Finalizing 'Paperwork' For Her Long-Awaited New Album: 'We're Hoping For A September' Release",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/lita-ford-is-finalizing-paperwork-for-her-long-awaited-new-album-were-hoping-for-a-september-release",
+    "timestamp": "2026-08-02T17:42:47+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "In a new interview with Scott Davidson of Chicago's Rebel Radio, '80s hard rock queen Lita Ford spoke about the status of her long-awaited new studio album. Ford's upcoming follow-up to 2012's \"Living Like A Runaway\" was once again helmed by guitarist/producer Gary Hoey, who contributes some guitar...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/lita-ford-is-finalizing-paperwork-for-her-long-awaited-new-album-were-hoping-for-a-september-release"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "(Hed)p.e. Teasing New Single “Violent Girl”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/02/news/hedp-e-teasing-new-single-violent-girl/",
+    "timestamp": "2026-08-02T17:32:50+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "The first single from \"Relapse\" is due out this week. The post (Hed)p.e. Teasing New Single “Violent Girl” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/02/news/hedp-e-teasing-new-single-violent-girl/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "System Of A Down’s Serj Tankian Suggests John Dolmayan’s Donald Trump Support May Have Waned: “I Think He, Too, Got Tired Of Trump, Like Many Others”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/02/news/system-of-a-downs-serj-tankian-suggests-john-dolmayans-donald-trump-support-may-have-waned-i-think-he-too-got-tired-of-trump-like-many-others/",
+    "timestamp": "2026-08-02T17:19:39+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "\"I don't want to speak for John about his political views; that wouldn't be fair. I can say that the verb \"was\" [a Trump supporter] is correct. I can't say for sure that it still is.\" The post System Of A Down’s Serj Tankian Suggests John Dolmayan’s Donald Trump Support May Have Waned: “I Think He, Too, Got Tired Of Tr",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/02/news/system-of-a-downs-serj-tankian-suggests-john-dolmayans-donald-trump-support-may-have-waned-i-think-he-too-got-tired-of-trump-like-many-others/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "WATCH: SMASHING PUMPKINS Joined By Olivia Rodrigo, YUNGBLUD, Melissa Auf der Maur For Lollapalooza Homecoming",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/watch-smashing-pumpkins-joined-by-olivia-rodrigo-yungblud-melissa-auf-der-maur-for-lollapalooza-homecoming",
+    "timestamp": "2026-08-02T17:14:54+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "Three generations of alt come together The post WATCH: SMASHING PUMPKINS Joined By Olivia Rodrigo, YUNGBLUD, Melissa Auf der Maur For Lollapalooza Homecoming appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/watch-smashing-pumpkins-joined-by-olivia-rodrigo-yungblud-melissa-auf-der-maur-for-lollapalooza-homecoming"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "SHARON OSBOURNE: 'We're Speaking To People' About Playing 2027 OZZFEST; Official Announcement Coming 'Soon'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/sharon-osbourne-were-speaking-to-people-about-playing-2027-ozzfest-official-announcement-coming-soon",
+    "timestamp": "2026-08-02T17:05:16+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "In a new interview with U.K.'s Metal Hammer magazine, Ozzy Osbourne's manager and widow Sharon Osbourne once again discussed the long-awaited return of Ozzfest. Confirming that she is still planning to revive Ozzfest next year, Sharon said that the festival will launch at Villa Park, the home ground...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/sharon-osbourne-were-speaking-to-people-about-playing-2027-ozzfest-official-announcement-coming-soon"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "VOIVOD Drummer MICHEL 'AWAY' LANGEVIN's Brother CAROL Diagnosed With Pancreatic Cancer",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/voivod-drummer-michel-away-langevins-brother-carol-diagnosed-with-pancreatic-cancer",
+    "timestamp": "2026-08-02T16:20:18+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "Carol Langevin, brother of VOIVOD drummer Michel \"Away\" Langevin (pictured), has been diagnosed with pancreatic cancer at the age of 60. A GoFundMe campaign has been launched to \"allow Carol to reduce the financial strain related to his time off work, travel, treatments, and the unexpected expenses...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/voivod-drummer-michel-away-langevins-brother-carol-diagnosed-with-pancreatic-cancer"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Massive Attack Banned from Singapore After Displaying Palestine Flag Onstage",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/massive-attack-banned-from-singapore-after-displaying-palestine-flag-onstage/",
+    "timestamp": "2026-08-02T19:53:26+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/massive-attack-banned-from-singapore-after-displaying-palestine-flag-onstage/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Watch David Byrne join Anna Calvi on stage in Halifax and Cardiff for ‘Strange Weather’",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/watch-david-byrne-join-anna-calvi-on-stage-in-halifax-and-cardiff-for-strange-weather-3960355?utm_source=rss&utm_medium=rss&utm_campaign=watch-david-byrne-join-anna-calvi-on-stage-in-halifax-and-cardiff-for-strange-weather",
+    "timestamp": "2026-08-02T19:43:56+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "Calvi opened for the former Talking Heads frontman at both outdoor shows, where they revived their 2014 collaboration The post Watch David Byrne join Anna Calvi on stage in Halifax and Cardiff for ‘Strange Weather’ appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/watch-david-byrne-join-anna-calvi-on-stage-in-halifax-and-cardiff-for-strange-weather-3960355?utm_source=rss&utm_medium=rss&utm_campaign=watch-david-byrne-join-anna-calvi-on-stage-in-halifax-and-cardiff-for-strange-weather"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Robyn and Zara Larsson team up for new collab ‘Talk To Me, Zara’",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/robyn-and-zara-larsson-team-up-for-new-collab-talk-to-me-zara-3960351?utm_source=rss&utm_medium=rss&utm_campaign=robyn-and-zara-larsson-team-up-for-new-collab-talk-to-me-zara",
+    "timestamp": "2026-08-02T18:49:30+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "The two Swedish pop stars debuted the track during Robyn's recent Copenhagen show The post Robyn and Zara Larsson team up for new collab ‘Talk To Me, Zara’ appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/robyn-and-zara-larsson-team-up-for-new-collab-talk-to-me-zara-3960351?utm_source=rss&utm_medium=rss&utm_campaign=robyn-and-zara-larsson-team-up-for-new-collab-talk-to-me-zara"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Phil Collins Reveals He Nearly Died in 2024 After Drinking Caused His Organs to Shut Down",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/phil-collins-opens-up-on-2024-health-crisis-that-left-him-on-life-support/",
+    "timestamp": "2026-08-02T18:07:06+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "The Genesis musician says his five children were called to his bedside as his kidneys and other organs began shutting down. Phil Collins Reveals He Nearly Died in 2024 After Drinking Caused His Organs to Shut Down Alex Krinsky",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/phil-collins-opens-up-on-2024-health-crisis-that-left-him-on-life-support/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Phil Collins reveals alcohol addiction left him on life support in 2024: “People were coming to say goodbye”",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/phil-collins-reveals-alcohol-addiction-left-him-on-life-support-in-2024-people-were-coming-to-say-goodbye-3960347?utm_source=rss&utm_medium=rss&utm_campaign=phil-collins-reveals-alcohol-addiction-left-him-on-life-support-in-2024-people-were-coming-to-say-goodbye",
+    "timestamp": "2026-08-02T18:02:54+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "\"My kidneys were packing up, my organs were just seizing up\" The post Phil Collins reveals alcohol addiction left him on life support in 2024: “People were coming to say goodbye” appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/phil-collins-reveals-alcohol-addiction-left-him-on-life-support-in-2024-people-were-coming-to-say-goodbye-3960347?utm_source=rss&utm_medium=rss&utm_campaign=phil-collins-reveals-alcohol-addiction-left-him-on-life-support-in-2024-people-were-coming-to-say-goodbye"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Lollapalooza 2026 Saturday Photo Gallery: JENNIE, Geese, Ethel Cain & Wolf Alice",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/lollapalooza-2026-saturday-photo-gallery-jennie-geese/",
+    "timestamp": "2026-08-02T17:53:57+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "See all the action from day three of Chicago's biggest music festival. Lollapalooza 2026 Saturday Photo Gallery: JENNIE, Geese, Ethel Cain & Wolf Alice Consequence Staff",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/lollapalooza-2026-saturday-photo-gallery-jennie-geese/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Music Producer Masterkraft Reportedly Engaged To Partner - The Trumpet Newspaper Nigeria",
+    "src": "The Trumpet Newspaper Nigeria",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaVpHMWhpVVJBT1J1UVRWOEVISllYTTJpZzdPeUd2cjI0MW9jQkx6M0E3ckNBUmJqbDY4U3o1VnFvREVLUmI1c2RWSGktZGo4M3lYQ2Y5bXRsVEZZdTBsYkh5SmRKYlNieUZuVUZObmdQYUc3Z2k2UmhjajlRUnpJRmduTS0tUQ?oc=5",
+    "timestamp": "2026-08-02T17:43:06+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "Music Producer Masterkraft Reportedly Engaged To Partner The Trumpet Newspaper Nigeria",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Trumpet Newspaper Nigeria",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaVpHMWhpVVJBT1J1UVRWOEVISllYTTJpZzdPeUd2cjI0MW9jQkx6M0E3ckNBUmJqbDY4U3o1VnFvREVLUmI1c2RWSGktZGo4M3lYQ2Y5bXRsVEZZdTBsYkh5SmRKYlNieUZuVUZObmdQYUc3Z2k2UmhjajlRUnpJRmduTS0tUQ?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Canadian Metal Band The Scepter Turn a Hospital into a Metal Venue for Special Fan",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/the-scepter-show-health-facility/",
+    "timestamp": "2026-08-02T17:39:07+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "The fan, Tim Berry, faces medical challenges to make attending shows difficult. Canadian Metal Band The Scepter Turn a Hospital into a Metal Venue for Special Fan Chris Coplan",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/the-scepter-show-health-facility/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Listen to Tom Waits’ New Spoken-Word Track “The Fly”",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/listen-to-tom-waits-new-spoken-word-track-the-fly/",
+    "timestamp": "2026-08-02T17:37:11+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/listen-to-tom-waits-new-spoken-word-track-the-fly/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Check out New Radicals’ first new original song in 28 years, ‘One Night Only (Break Loose Break Free!)’",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/check-out-new-radicals-first-new-original-song-in-28-years-one-night-only-break-loose-break-free-3960343?utm_source=rss&utm_medium=rss&utm_campaign=check-out-new-radicals-first-new-original-song-in-28-years-one-night-only-break-loose-break-free",
+    "timestamp": "2026-08-02T17:15:29+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "The track serves as the theme to the new Monica Barbaro and Callum Turner romcom 'One Night Only' The post Check out New Radicals’ first new original song in 28 years, ‘One Night Only (Break Loose Break Free!)’ appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/check-out-new-radicals-first-new-original-song-in-28-years-one-night-only-break-loose-break-free-3960343?utm_source=rss&utm_medium=rss&utm_campaign=check-out-new-radicals-first-new-original-song-in-28-years-one-night-only-break-loose-break-free"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Capital region nightlife, events and more things to do — Albany Times Union - Times Union",
+    "src": "Times Union",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0lzYnFTY1dyQWV3ekFKOHpUYThyZ3Y2MVQ3VnhVSzgyM0FXSVVnTWp4UThIWlV3YmVnYWFqYnl6SERJeGlFTkUxY1JuT1EwTF9zS3hWT3htMGh3R0JKNU1PV2ZhYWVtTDd3a0k5NmNLNDl3OXU4M1kzNE1salFWZzl6Q2VSU214d1d2RGJvR0YwdUdWMEZUS0pUbVZuOTZpdmhQLWJDMzNXeUVlcWotMFV3bk8?oc=5",
+    "timestamp": "2026-08-02T16:00:49+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "Capital region nightlife, events and more things to do — Albany Times Union Times Union",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Times Union",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0lzYnFTY1dyQWV3ekFKOHpUYThyZ3Y2MVQ3VnhVSzgyM0FXSVVnTWp4UThIWlV3YmVnYWFqYnl6SERJeGlFTkUxY1JuT1EwTF9zS3hWT3htMGh3R0JKNU1PV2ZhYWVtTDd3a0k5NmNLNDl3OXU4M1kzNE1salFWZzl6Q2VSU214d1d2RGJvR0YwdUdWMEZUS0pUbVZuOTZpdmhQLWJDMzNXeUVlcWotMFV3bk8?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ariana Grande’s new album Petal branded ‘an old fashioned triumph’ - BreakingNews.ie",
+    "src": "BreakingNews.ie",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVlZyMG9PVU83RDNWY01PbEZYYk9IR2RJZDdCQTZvMkl4V2puTGZyTmFwS2FSLS1wSThUY3A5TWIxVU5wRndPeWxZUUdHQmRsbmxBTElvZVQ2NkhKSTBkTkxncmNIQnN6dF9EZXlBZHRVQWxQT0IwcFE3V0lDNGVwR0tFcGFiMjVhUEN1YzRremNQanRaeGVtbDlWMDZfLURWeVo3Ny1lamdXVEhHSTdMYTlMU0ZIQXJHNnc?oc=5",
+    "timestamp": "2026-08-02T08:19:51+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "Ariana Grande’s new album Petal branded ‘an old fashioned triumph’ BreakingNews.ie",
+    "category": "general",
+    "sources": [
+      {
+        "name": "BreakingNews.ie",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVlZyMG9PVU83RDNWY01PbEZYYk9IR2RJZDdCQTZvMkl4V2puTGZyTmFwS2FSLS1wSThUY3A5TWIxVU5wRndPeWxZUUdHQmRsbmxBTElvZVQ2NkhKSTBkTkxncmNIQnN6dF9EZXlBZHRVQWxQT0IwcFE3V0lDNGVwR0tFcGFiMjVhUEN1YzRremNQanRaeGVtbDlWMDZfLURWeVo3Ny1lamdXVEhHSTdMYTlMU0ZIQXJHNnc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "David Guetta traz sua turnê mundial a Lisboa para um show com capacidade para 40,000 pessoas - Portugal Resident",
+    "src": "Portugal Resident",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOemwyZU9VMVNYVHgzSXhpbGVQZFBTUHlHbzNrbUVQbWNESUVNcHZqVFNodHlZa0JGd1BXMG9yeG9zZ3lrOGllbUpNVDhTMG1PSWFvd0J0SW8zTHFXY25DdmRfdXpBWS1fNml3ZThvN0V4Q0hpamRlampjNUpmLTNDSjNsRWNCdl9sdHpROWM4akIxUWNGbHEwLVl2elYtakRGVE5rdkhpSi1JdzFQMElBWTBaTzFETU1rVVJvU2RfWXlDSkFIY1pGTVN2T0gxU213?oc=5",
+    "timestamp": "2026-08-02T18:06:18+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "David Guetta traz sua turnê mundial a Lisboa para um show com capacidade para 40,000 pessoas Portugal Resident",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Portugal Resident",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOemwyZU9VMVNYVHgzSXhpbGVQZFBTUHlHbzNrbUVQbWNESUVNcHZqVFNodHlZa0JGd1BXMG9yeG9zZ3lrOGllbUpNVDhTMG1PSWFvd0J0SW8zTHFXY25DdmRfdXpBWS1fNml3ZThvN0V4Q0hpamRlampjNUpmLTNDSjNsRWNCdl9sdHpROWM4akIxUWNGbHEwLVl2elYtakRGVE5rdkhpSi1JdzFQMElBWTBaTzFETU1rVVJvU2RfWXlDSkFIY1pGTVN2T0gxU213?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Morrissey, o inigualável, ao vivo no Porto: nunca esqueceremos as canções que nos salvaram a vida - Expresso",
+    "src": "Expresso",
+    "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxPVk5XU2xBbzFsdjNaYWxFX1VlMzhOYm9DR0JUdVlHQ2RqdEpBU1lxYlVUMGYwcEtsYTB0Y3BaVHozMk9Rc3Bmd01GYS1KSWJHWEJRUHJsdmVYWnhkbGxCb2FPdjV4TElubHRMMGlsOWNkWGhXV2lJVVFEOE11TEdpWnVDWElJakhicnhTZXJKZzFGQUZBMndVVWp6NXBObUpfQU5oUTlyM1A5RjZqQ1VzTWF1eXl5VUFITTdBWnhqZ2dzWXFnOFJKOEJ4TGtaT1dVeThVdWwzeWtobVV5dVRlX0g4LUF1UmtBVk5fRHJvWlpweFM1SEdaYU43NjBJZHFSb0czZ0wxdW5ld3ZSd1dKeEJvVXFZYjlUWmx3MG95QTZqamNtdk9XZE5laTMtZ2g5cmdrLWlza0pOa3NJUENwcExydXJ0Y0h1QVJZak85WFlwRjUyY3BoUk1VdW9ma2pzV2J1WHlTRElFckNVTjZESkJaT2M2aDdpTXJBNVFCMlJ2SGtsbXZUN0t5bUZoNGFFUDFXYl9wUEU0bEpqcjlqNDY0M3FJU3hoN2g5ZEwwNjgza3RNeVRuSjdscDZ6eHFTUjFxSzl5c3Z2Wkl4OTdFWHFLRHpKMEdzTGp1NXp6bkw1UEdHTzVfbWVaYlQ2X0ZPT05ybVBCWWU2WU9NaHk3V3lkM1FFU1c1?oc=5",
+    "timestamp": "2026-08-02T11:08:50+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "Morrissey, o inigualável, ao vivo no Porto: nunca esqueceremos as canções que nos salvaram a vida Expresso",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Expresso",
+        "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxPVk5XU2xBbzFsdjNaYWxFX1VlMzhOYm9DR0JUdVlHQ2RqdEpBU1lxYlVUMGYwcEtsYTB0Y3BaVHozMk9Rc3Bmd01GYS1KSWJHWEJRUHJsdmVYWnhkbGxCb2FPdjV4TElubHRMMGlsOWNkWGhXV2lJVVFEOE11TEdpWnVDWElJakhicnhTZXJKZzFGQUZBMndVVWp6NXBObUpfQU5oUTlyM1A5RjZqQ1VzTWF1eXl5VUFITTdBWnhqZ2dzWXFnOFJKOEJ4TGtaT1dVeThVdWwzeWtobVV5dVRlX0g4LUF1UmtBVk5fRHJvWlpweFM1SEdaYU43NjBJZHFSb0czZ0wxdW5ld3ZSd1dKeEJvVXFZYjlUWmx3MG95QTZqamNtdk9XZE5laTMtZ2g5cmdrLWlza0pOa3NJUENwcExydXJ0Y0h1QVJZak85WFlwRjUyY3BoUk1VdW9ma2pzV2J1WHlTRElFckNVTjZESkJaT2M2aDdpTXJBNVFCMlJ2SGtsbXZUN0t5bUZoNGFFUDFXYl9wUEU0bEpqcjlqNDY0M3FJU3hoN2g5ZEwwNjgza3RNeVRuSjdscDZ6eHFTUjFxSzl5c3Z2Wkl4OTdFWHFLRHpKMEdzTGp1NXp6bkw1UEdHTzVfbWVaYlQ2X0ZPT05ybVBCWWU2WU9NaHk3V3lkM1FFU1c1?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Every Big Rock + Metal Album Released Each Day in August History - Loudwire",
+    "src": "Loudwire",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95QTdSUVA5RDQtNFBIdkctLWhJMkhKcUlmYXRmcnBnRW9kbm9fTEtnSzJVOElnMTRyYWVFTUV5Z2tld0FDYU5pOVdZbjdJQjJwLUk2VzNXdlptYUtValF1VnViLUI?oc=5",
     "timestamp": "2026-08-01T07:00:00+00:00",
     "isoDate": "2026-08-01",
     "date": "1 Ago",
-    "d": "Every Big Rock + Metal Album Released Each Day in August History loudwire.com",
+    "d": "Every Big Rock + Metal Album Released Each Day in August History Loudwire",
     "category": "metal",
     "sources": [
       {
-        "name": "loudwire.com",
+        "name": "Loudwire",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95QTdSUVA5RDQtNFBIdkctLWhJMkhKcUlmYXRmcnBnRW9kbm9fTEtnSzJVOElnMTRyYWVFTUV5Z2tld0FDYU5pOVdZbjdJQjJwLUk2VzNXdlptYUtValF1VnViLUI?oc=5"
       }
     ],
@@ -1694,17 +2459,17 @@
     "section": "news"
   },
   {
-    "title": "Who are the current members of Slipknot? Details explored after Sid Wilson is reportedly ousted from band after over two decades - sportskeeda.com",
-    "src": "sportskeeda.com",
+    "title": "Who are the current members of Slipknot? Details explored after Sid Wilson is reportedly ousted from band after over two decades - Sportskeeda",
+    "src": "Sportskeeda",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZURrZXc0TXVIVm9mQUZkWm5Cc0VHNE9hQmhxR1F1M2JvVVQxOGc3eVZBbjE2MlVwdkxULXFZbUFCamg4S3dvWVhJOVFUWERPZFBtZ0NlWFZjVzIzdXNVckNTV0Y1NGctWjZtTXZKWTg0T3BoUjk4V1MyNVAyaVpOaDd5T1BiMzhrNWc1UTlmM3M0ai1YTDQ2cmM3b1ZMMm1tcm9CZEtaWk1IYlg5azh2WHJTcEE2eHpDRFVEWFBjUWtjTUpCMy1FbjhMVkhlYlY0OWc?oc=5",
     "timestamp": "2026-08-01T05:43:00+00:00",
     "isoDate": "2026-08-01",
     "date": "1 Ago",
-    "d": "Who are the current members of Slipknot? Details explored after Sid Wilson is reportedly ousted from band after over two decades sportskeeda.com",
+    "d": "Who are the current members of Slipknot? Details explored after Sid Wilson is reportedly ousted from band after over two decades Sportskeeda",
     "category": "metal",
     "sources": [
       {
-        "name": "sportskeeda.com",
+        "name": "Sportskeeda",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZURrZXc0TXVIVm9mQUZkWm5Cc0VHNE9hQmhxR1F1M2JvVVQxOGc3eVZBbjE2MlVwdkxULXFZbUFCamg4S3dvWVhJOVFUWERPZFBtZ0NlWFZjVzIzdXNVckNTV0Y1NGctWjZtTXZKWTg0T3BoUjk4V1MyNVAyaVpOaDd5T1BiMzhrNWc1UTlmM3M0ai1YTDQ2cmM3b1ZMMm1tcm9CZEtaWk1IYlg5azh2WHJTcEE2eHpDRFVEWFBjUWtjTUpCMy1FbjhMVkhlYlY0OWc?oc=5"
       }
     ],
@@ -1783,7 +2548,7 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV21ucTAyX3hCOGsxcWVsejUydUp5WENyZG5IbjZORlRZLWxzSW5aLUh1SmxNS0V6UjBpS0ZoblI1alg2NU9ZTTdoekJrWk5udjlybm83c2puQXZ3UHpFLWFLRVN4SDJvU01jUWNTa2xOREU5OG53WkxfZkFWSTMtMG9QZjh1ZjhWd09XWGFTcw?oc=5"
       },
       {
-        "name": "wbal.com",
+        "name": "WBAL News Radio",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX2NUUUZpOVRVbkxfcVZEMTFtTWY5UFQ3bFdFa2xjdnprMUc3UVJNNFlxaU1Bb2RrclNKc0pLanNfQmFqU3UwSjVZdzMyc3NWSzR1aUJpYldOVkc5MHp1ZHdwWGY4azQyRUVpOVowdXpMcDM2YVNZV0Q3WkhvZDR3MzJkNDNHUXllWF9COFJfcWRLOXpUMHFfN3V6MTBXMjU5b25wWjJBTTlrdw?oc=5"
       }
     ],
@@ -2150,17 +2915,17 @@
     "section": "buzz"
   },
   {
-    "title": "Sara Petite's Album Release Party - KPBS",
-    "src": "KPBS",
+    "title": "Sara Petite's Album Release Party - kpbs.org",
+    "src": "kpbs.org",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LVUgxM240SWJUS3B3YnZOemVqb1hjblNld0tQdU5id0tqdkZlRzVkSlJJUFgwbkJDSVh0YV9iMTNydWVMV0pGYzdhaHpnbFFnTFNkc014cjJoaVJXdkowNzFHbVdaV0E2dThSMlVwZkZzZk5iWFJBY0UtMA?oc=5",
     "timestamp": "2026-08-01T02:56:23+00:00",
     "isoDate": "2026-08-01",
     "date": "1 Ago",
-    "d": "Sara Petite's Album Release Party KPBS",
+    "d": "Sara Petite's Album Release Party kpbs.org",
     "category": "general",
     "sources": [
       {
-        "name": "KPBS",
+        "name": "kpbs.org",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LVUgxM240SWJUS3B3YnZOemVqb1hjblNld0tQdU5id0tqdkZlRzVkSlJJUFgwbkJDSVh0YV9iMTNydWVMV0pGYzdhaHpnbFFnTFNkc014cjJoaVJXdkowNzFHbVdaV0E2dThSMlVwZkZzZk5iWFJBY0UtMA?oc=5"
       }
     ],
@@ -2876,17 +3641,17 @@
     "section": "buzz"
   },
   {
-    "title": "Travis Kelce reportedly wants to trade NFL career to please wife Taylor Swift - Geo News",
-    "src": "Geo News",
+    "title": "Travis Kelce reportedly wants to trade NFL career to please wife Taylor Swift - geo.tv",
+    "src": "geo.tv",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTjY1VnBHZVppemdGWkM0d2Y5Z0JmX0t5NFJCWjBzSWRNcFdTMkREQV80dDNsaUhIaVQ1eUhGczJMNTRUV050NDZKbmY0eE5fUTJHa1lqYTk1TUw3VWI4WTc0T0tSLTd6NlkzWEZ1QjlBd3YwbkxIZHk3bjF1U0o0NlluN1Y0OEh2TkhVMFJockFBODJlckpXS1BlaXJ6ZDhKT012M3RZcGNQdFZkVGNz?oc=5",
     "timestamp": "2026-08-01T11:04:00+00:00",
     "isoDate": "2026-08-01",
     "date": "1 Ago",
-    "d": "Travis Kelce reportedly wants to trade NFL career to please wife Taylor Swift Geo News",
+    "d": "Travis Kelce reportedly wants to trade NFL career to please wife Taylor Swift geo.tv",
     "category": "general",
     "sources": [
       {
-        "name": "Geo News",
+        "name": "geo.tv",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTjY1VnBHZVppemdGWkM0d2Y5Z0JmX0t5NFJCWjBzSWRNcFdTMkREQV80dDNsaUhIaVQ1eUhGczJMNTRUV050NDZKbmY0eE5fUTJHa1lqYTk1TUw3VWI4WTc0T0tSLTd6NlkzWEZ1QjlBd3YwbkxIZHk3bjF1U0o0NlluN1Y0OEh2TkhVMFJockFBODJlckpXS1BlaXJ6ZDhKT012M3RZcGNQdFZkVGNz?oc=5"
       }
     ],
@@ -3613,19 +4378,15 @@
       {
         "name": "Consequence",
         "url": "https://consequence.net/2026/08/slipknot-reportedly-fire-sid-wilson/"
-      },
-      {
-        "name": "Consequence of Sound",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jZE5ac3Q5TUh5bUdTX3VWUmQwdHRQdnFaRzRkN1BkNUtRVDVzeHNGQkx5Q2RhVUgzZWNtUHh1eTZHS3lrOExyV3hSRG9rMlJMWjFPMThqbDFBT1p1MVFuTVk0eXotTHVsazY5ZVFyaExObnhtSTJR?oc=5"
       }
     ],
     "status": "rumor",
     "confidence": "medium",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -4286,17 +5047,17 @@
     "section": "buzz"
   },
   {
-    "title": "Musician Interview: Planning for Burial’s Thom Wasluck on Somergloom, Seven-Year Gaps, and Turning 40 - The Arts Fuse",
-    "src": "The Arts Fuse",
+    "title": "Musician Interview: Planning for Burial’s Thom Wasluck on Somergloom, Seven-Year Gaps, and Turning 40 - artsfuse.org",
+    "src": "artsfuse.org",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOWpFZ2ZtMlFYLWpJd3BlUTBlQkF2TFkzQ2lnQ2VFSDNHbmxSeEp3OW9JTzkyLXZlZ3dETWlQb3NFTC1VVUl0QXcyR0JRYjdKa1hTUVViMWdJdUhyUTNUVEtyVVlKcjJVNFRkYndGOHh1Y0RFVzdSX0V3d2hzWmZqWlJPY3Z0UmItNk9PVGg1UEE2SjZKOHZhR1ptNzlsNUNJUHdtcGhqallCQW9TQlVhMWVvektXdkV1T1l4b2RTVHNqWE9B?oc=5",
     "timestamp": "2026-08-01T16:58:27+00:00",
     "isoDate": "2026-08-01",
     "date": "1 Ago",
-    "d": "Musician Interview: Planning for Burial’s Thom Wasluck on Somergloom, Seven-Year Gaps, and Turning 40 The Arts Fuse",
+    "d": "Musician Interview: Planning for Burial’s Thom Wasluck on Somergloom, Seven-Year Gaps, and Turning 40 artsfuse.org",
     "category": "core",
     "sources": [
       {
-        "name": "The Arts Fuse",
+        "name": "artsfuse.org",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOWpFZ2ZtMlFYLWpJd3BlUTBlQkF2TFkzQ2lnQ2VFSDNHbmxSeEp3OW9JTzkyLXZlZ3dETWlQb3NFTC1VVUl0QXcyR0JRYjdKa1hTUVViMWdJdUhyUTNUVEtyVVlKcjJVNFRkYndGOHh1Y0RFVzdSX0V3d2hzWmZqWlJPY3Z0UmItNk9PVGg1UEE2SjZKOHZhR1ptNzlsNUNJUHdtcGhqallCQW9TQlVhMWVvektXdkV1T1l4b2RTVHNqWE9B?oc=5"
       }
     ],
@@ -4404,17 +5165,17 @@
     "section": "news"
   },
   {
-    "title": "Heavy metal legend launches fundraiser for ongoing cancer treatment - The Independent",
-    "src": "The Independent",
+    "title": "Heavy metal legend launches fundraiser for ongoing cancer treatment - independent.co.uk",
+    "src": "independent.co.uk",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQjZMcFExbWtsZkpvcDRQVGMyZE82cHNBS1Fwa1p2bEdxS2ZwUkhIVzFWS2VlME5NNlA5dDN6Z1FKN1dWTFNIOHRtdGVyVkpWaE5ieG5nLVAwUVpFcGhfaXZXRl90Qk9IblNhaVdzNEduazkwbWtsQXNhS1NzMk9sc0FwLXZueFlLZXItZmZRblVvbHh4Sk1pN1cxdUlpQ2NvOUY2aWhYVTR1SEIwV3dnWHJLLTExRWJwV2c?oc=5",
     "timestamp": "2026-08-01T20:54:00+00:00",
     "isoDate": "2026-08-01",
     "date": "1 Ago",
-    "d": "Heavy metal legend launches fundraiser for ongoing cancer treatment The Independent",
+    "d": "Heavy metal legend launches fundraiser for ongoing cancer treatment independent.co.uk",
     "category": "metal",
     "sources": [
       {
-        "name": "The Independent",
+        "name": "independent.co.uk",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQjZMcFExbWtsZkpvcDRQVGMyZE82cHNBS1Fwa1p2bEdxS2ZwUkhIVzFWS2VlME5NNlA5dDN6Z1FKN1dWTFNIOHRtdGVyVkpWaE5ieG5nLVAwUVpFcGhfaXZXRl90Qk9IblNhaVdzNEduazkwbWtsQXNhS1NzMk9sc0FwLXZueFlLZXItZmZRblVvbHh4Sk1pN1cxdUlpQ2NvOUY2aWhYVTR1SEIwV3dnWHJLLTExRWJwV2c?oc=5"
       }
     ],
@@ -4454,17 +5215,17 @@
     "section": "core"
   },
   {
-    "title": "\"Metal at the Marina\" brings metal bands to Frankfort on August 1 - uticaod.com",
-    "src": "uticaod.com",
+    "title": "\"Metal at the Marina\" brings metal bands to Frankfort on August 1 - Utica Observer Dispatch",
+    "src": "Utica Observer Dispatch",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2pXY3FmWlplWFBCQzY2X3NQN3dydjF5bFF6cTdHSVE2ajZUWFp1OERtaTRQb2dhREp6emREMFh0T2ZkdkY2blBrUG9hckYtZmU1NmpRODRJWjk4LUpycXdIMm1IQmFiRVI5RUlsNkw5cUtoV1k5Rk9tUVJHdXVGTy1BVFZIb00wcnYwR1NZRkJMelZLdHJVU1FKY29tZnV5a01NTXpQX2JkUUhsUzBEcVhsZE5aaEJuaTlWcG4tc3Rodw?oc=5",
     "timestamp": "2026-08-01T19:06:00+00:00",
     "isoDate": "2026-08-01",
     "date": "1 Ago",
-    "d": "\"Metal at the Marina\" brings metal bands to Frankfort on August 1 uticaod.com",
+    "d": "\"Metal at the Marina\" brings metal bands to Frankfort on August 1 Utica Observer Dispatch",
     "category": "metal",
     "sources": [
       {
-        "name": "uticaod.com",
+        "name": "Utica Observer Dispatch",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX2pXY3FmWlplWFBCQzY2X3NQN3dydjF5bFF6cTdHSVE2ajZUWFp1OERtaTRQb2dhREp6emREMFh0T2ZkdkY2blBrUG9hckYtZmU1NmpRODRJWjk4LUpycXdIMm1IQmFiRVI5RUlsNkw5cUtoV1k5Rk9tUVJHdXVGTy1BVFZIb00wcnYwR1NZRkJMelZLdHJVU1FKY29tZnV5a01NTXpQX2JkUUhsUzBEcVhsZE5aaEJuaTlWcG4tc3Rodw?oc=5"
       }
     ],
@@ -4802,5 +5563,30 @@
     "star": false,
     "kind": "news",
     "section": "buzz"
+  },
+  {
+    "title": "Slipknot's Jim Root shares cryptic post after Sid Wilson is 'kicked out of the band' - inkl",
+    "src": "inkl",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMHdidHpOa20yeW1zanU5YXZBYVlwT0dLZUJNX1EwZDI0Nnd0U2tKOUcxdkhQSEtMRDhQMmtNNUlqaDNTR3ZzSmhlSjdCU3ZSQ2tBazAyMlVGMU9BbERueGN1SnZQOWwtUGdSYV9RS2VfQWR6bHRxbTFWVVJtdkVhSXQzNWVfLUxzLWR6NV9XdzZMZGZ1SUVwODAtQW5EbFBXMlYzMUR1dDlDYkU?oc=5",
+    "timestamp": "2026-08-01T22:00:05+00:00",
+    "isoDate": "2026-08-01",
+    "date": "1 Ago",
+    "d": "Slipknot's Jim Root shares cryptic post after Sid Wilson is 'kicked out of the band' inkl",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "inkl",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMHdidHpOa20yeW1zanU5YXZBYVlwT0dLZUJNX1EwZDI0Nnd0U2tKOUcxdkhQSEtMRDhQMmtNNUlqaDNTR3ZzSmhlSjdCU3ZSQ2tBazAyMlVGMU9BbERueGN1SnZQOWwtUGdSYV9RS2VfQWR6bHRxbTFWVVJtdkVhSXQzNWVfLUxzLWR6NV9XdzZMZGZ1SUVwODAtQW5EbFBXMlYzMUR1dDlDYkU?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
   }
 ]
