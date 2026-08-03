@@ -28,7 +28,7 @@
     "title": "Pretoria metal band makes SA proud at 'Metal World Cup' - Jacaranda FM",
     "src": "Jacaranda FM",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLTRodkZlV01HcGhkN2RrRFpwWGNlODlxR293djB3TTJyZkNibHJWZVMtRTV2eFV2elU4YlZ6TU15YV9EbWFMTHVzY2lFMUtOZmtrbGpqOG5WQlZtWFFMSVkzUk5McC0zMU1mMk5OSktTVFFEQU9DZVg1U0F2bXFsdzBhRW0wYzZUYXIteFVFZDd2MEgzQVZiR2Y3N0gxSlU?oc=5",
-    "timestamp": "2026-08-03T08:21:56+00:00",
+    "timestamp": "2026-08-03T08:20:00+00:00",
     "isoDate": "2026-08-03",
     "date": "3 Ago",
     "d": "Pretoria metal band makes SA proud at 'Metal World Cup' Jacaranda FM",
@@ -142,10 +142,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -328,7 +328,7 @@
     "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny - BBC",
     "src": "BBC",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NZmk4OER0SDI1bDVGQ0lNU1dSS2ZscmkyWkxOdVVOZkdROElzcnFXc29fdnVTOGNBMHU5RGpaNlZxS3pxUFkzSm83Qy1qc0YxNGpQQlNtMVUyZw?oc=5",
-    "timestamp": "2026-08-03T08:27:37+00:00",
+    "timestamp": "2026-08-03T10:59:12+00:00",
     "isoDate": "2026-08-03",
     "date": "3 Ago",
     "d": "Ariana Grande to take a break from public life amid 'endless' scrutiny BBC",
@@ -442,10 +442,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -467,10 +467,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -492,10 +492,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -660,21 +660,586 @@
     "section": "rev"
   },
   {
-    "title": "Slipknot's Sid Wilson reportedly out of band - KGAN",
-    "src": "KGAN",
+    "b": "Wolvenfrost",
+    "t": "The Last Of All Calamities",
+    "g": "black",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "3 Ago",
+    "isoDate": "2026-08-03",
+    "url": "https://musicbrainz.org/release-group/36045125-7887-4805-a72d-f4a28f6dc557",
+    "d": "black metal, melodic black metal",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/36045125-7887-4805-a72d-f4a28f6dc557"
+      }
+    ],
+    "mbid": "36045125-7887-4805-a72d-f4a28f6dc557",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "title": "MEGADETH Announces March/April 2027 European Tour With BLACK LABEL SOCIETY And TESTAMENT",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/megadeth-announces-march-april-2027-european-tour-with-black-label-society-and-testament",
+    "timestamp": "2026-08-03T11:47:13+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "Following one of the most celebrated years in the band's legendary career, Grammy Award-winning thrash metal pioneers MEGADETH have announced \"Breakout: Hibernation Of The Nations\", a European chapter of their multi-year global farewell headline tour. Kicking off March 9, 2027 in Belfast, the 24-dat...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/megadeth-announces-march-april-2027-european-tour-with-black-label-society-and-testament"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "The 11 Best '80s Prog Metal Albums (Ranked)",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/1980s-best-prog-metal-albums/",
+    "timestamp": "2026-08-03T11:34:14+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "Queensrÿche, Fates Warning and Voivod dominated the decade! Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/1980s-best-prog-metal-albums/"
+      },
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91eXVQTWJzSEl6RFVBTXc1eWJQcVlOM1FQaF9iMGJ4QkxLYmJyTVJMNXA0cUhNd1R0bDBhMmI2N1ZRUXItWXkySVhfb2RpMGlJaTA2WTV3ZEpjX3VBSEg0?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Ash surprise fans at Kendal Calling by performing as tribute band before being presented with gold discs for ‘Girl From Mars’",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/ash-surprise-fans-at-kendal-calling-by-performing-as-tribute-band-before-being-presented-with-gold-discs-for-girl-from-mars-3960499?utm_source=rss&utm_medium=rss&utm_campaign=ash-surprise-fans-at-kendal-calling-by-performing-as-tribute-band-before-being-presented-with-gold-discs-for-girl-from-mars",
+    "timestamp": "2026-08-03T12:20:21+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "“We go way back with Tim Burgess, so when he asked if we'd come and do our thing at the legendary Tim Peaks of course we jumped at the chance” The post Ash surprise fans at Kendal Calling by performing as tribute band before being presented with gold discs for ‘Girl From Mars’ appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/ash-surprise-fans-at-kendal-calling-by-performing-as-tribute-band-before-being-presented-with-gold-discs-for-girl-from-mars-3960499?utm_source=rss&utm_medium=rss&utm_campaign=ash-surprise-fans-at-kendal-calling-by-performing-as-tribute-band-before-being-presented-with-gold-discs-for-girl-from-mars"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘Spider-Man: Brand New Day’ is latest blockbuster to leak on X",
+    "src": "NME",
+    "url": "https://www.nme.com/news/film/spider-man-brand-new-day-leaks-x-3960483?utm_source=rss&utm_medium=rss&utm_campaign=spider-man-brand-new-day-leaks-x",
+    "timestamp": "2026-08-03T12:01:44+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "The Marvel film was swiftly taken down The post ‘Spider-Man: Brand New Day’ is latest blockbuster to leak on X appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/film/spider-man-brand-new-day-leaks-x-3960483?utm_source=rss&utm_medium=rss&utm_campaign=spider-man-brand-new-day-leaks-x"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "medium",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ariana Grande Taking Stepping Back Due to “Ongoing Public Scrutiny”",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/ariana-grande-step-back-due-to-ongoing-public-scrutiny/",
+    "timestamp": "2026-08-03T12:00:55+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "Grande has dropped out of her starring role in Stephen Sondheim’s West End revival of Sunday in the Park with George. Ariana Grande Taking Stepping Back Due to “Ongoing Public Scrutiny” Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/ariana-grande-step-back-due-to-ongoing-public-scrutiny/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Fans at Lollapalooza go viral for passing a bag of pee over the crowd",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/fans-at-lollapalooza-go-viral-for-passing-a-bag-of-pee-over-the-crowd-3960487?utm_source=rss&utm_medium=rss&utm_campaign=fans-at-lollapalooza-go-viral-for-passing-a-bag-of-pee-over-the-crowd",
+    "timestamp": "2026-08-03T11:14:17+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "“Be an adult, be respectful and go to the porta potty. No artist is worth that” The post Fans at Lollapalooza go viral for passing a bag of pee over the crowd appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/fans-at-lollapalooza-go-viral-for-passing-a-bag-of-pee-over-the-crowd-3960487?utm_source=rss&utm_medium=rss&utm_campaign=fans-at-lollapalooza-go-viral-for-passing-a-bag-of-pee-over-the-crowd"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Lil Uzi Vert misses Lollapalooza birthday set but joins Major Lazer and shares surprise EP",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/lil-uzi-vert-misses-lollapalooza-birthday-set-but-joins-major-lazer-and-shares-surprise-ep-3960410?utm_source=rss&utm_medium=rss&utm_campaign=lil-uzi-vert-misses-lollapalooza-birthday-set-but-joins-major-lazer-and-shares-surprise-ep",
+    "timestamp": "2026-08-03T11:12:55+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "The surprise release continues their trend of sharing music on their birthday The post Lil Uzi Vert misses Lollapalooza birthday set but joins Major Lazer and shares surprise EP appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/lil-uzi-vert-misses-lollapalooza-birthday-set-but-joins-major-lazer-and-shares-surprise-ep-3960410?utm_source=rss&utm_medium=rss&utm_campaign=lil-uzi-vert-misses-lollapalooza-birthday-set-but-joins-major-lazer-and-shares-surprise-ep"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘The Odyssey’ has inspired a huge number of people to revisit ‘Assassin’s Creed Odyssey’",
+    "src": "NME",
+    "url": "https://www.nme.com/news/gaming-news/the-odyssey-assassins-creed-spike-more-players-3960486?utm_source=rss&utm_medium=rss&utm_campaign=the-odyssey-assassins-creed-spike-more-players",
+    "timestamp": "2026-08-03T11:10:56+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "\"It got a massive cohort playing it again” The post ‘The Odyssey’ has inspired a huge number of people to revisit ‘Assassin’s Creed Odyssey’ appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/gaming-news/the-odyssey-assassins-creed-spike-more-players-3960486?utm_source=rss&utm_medium=rss&utm_campaign=the-odyssey-assassins-creed-spike-more-players"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Pitchfork Festival London Adds More Names for 2026",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/pitchfork-festival-london-adds-more-names-for-2026/",
+    "timestamp": "2026-08-03T11:00:00+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/pitchfork-festival-london-adds-more-names-for-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘Blade’ fans furious Mahershala Ali’s movie has been scrapped: “What are you guys doing?”",
+    "src": "NME",
+    "url": "https://www.nme.com/news/film/blade-fans-furious-mahershala-alis-movie-scrapped-3960457?utm_source=rss&utm_medium=rss&utm_campaign=blade-fans-furious-mahershala-alis-movie-scrapped",
+    "timestamp": "2026-08-03T10:57:58+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "\"Marvel this is not a good look for you\" The post ‘Blade’ fans furious Mahershala Ali’s movie has been scrapped: “What are you guys doing?” appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/film/blade-fans-furious-mahershala-alis-movie-scrapped-3960457?utm_source=rss&utm_medium=rss&utm_campaign=blade-fans-furious-mahershala-alis-movie-scrapped"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Multiple people injured following crowd “stampede” at London music event",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/multiple-people-injured-following-crowd-stampede-at-london-music-event-3960473?utm_source=rss&utm_medium=rss&utm_campaign=multiple-people-injured-following-crowd-stampede-at-london-music-event",
+    "timestamp": "2026-08-03T10:45:28+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "Met Police said that “three people were taken to hospital where their condition was confirmed as non-life threatening” The post Multiple people injured following crowd “stampede” at London music event appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/multiple-people-injured-following-crowd-stampede-at-london-music-event-3960473?utm_source=rss&utm_medium=rss&utm_campaign=multiple-people-injured-following-crowd-stampede-at-london-music-event"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "UCC Builds House for Legendary Singer Hadijah Namale, Donates Car to Dan Mugula - ChimpReports",
+    "src": "ChimpReports",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZjhXS1Y4NVBTcFlnWGZhUk15YXUxMlRtS09fcnJVNVV3RTJ4QS1BTlZCejV0Z0o4R1lWRE42X2t1cGhxWmVSZzY1TFhjcHQwc0pNWm13SnBjUzVJMzVGNmdmRktwVFp3OHhJWWdmTi03RVdHR3NuRGg5bHZkbFVLTTA2LXpRd3R2MFY5UEV2dkJhUW5fa2lxUE5XVHVPRUJGMzQ4ZExzaw?oc=5",
+    "timestamp": "2026-08-03T10:36:41+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "UCC Builds House for Legendary Singer Hadijah Namale, Donates Car to Dan Mugula ChimpReports",
+    "category": "general",
+    "sources": [
+      {
+        "name": "ChimpReports",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZjhXS1Y4NVBTcFlnWGZhUk15YXUxMlRtS09fcnJVNVV3RTJ4QS1BTlZCejV0Z0o4R1lWRE42X2t1cGhxWmVSZzY1TFhjcHQwc0pNWm13SnBjUzVJMzVGNmdmRktwVFp3OHhJWWdmTi03RVdHR3NuRGg5bHZkbFVLTTA2LXpRd3R2MFY5UEV2dkJhUW5fa2lxUE5XVHVPRUJGMzQ4ZExzaw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘Gears Of War: E-Day’ soundtrack features a Metallica classic",
+    "src": "NME",
+    "url": "https://www.nme.com/news/gaming-news/gears-of-war-e-day-soundtrack-metallica-classic-trailer-3960469?utm_source=rss&utm_medium=rss&utm_campaign=gears-of-war-e-day-soundtrack-metallica-classic-trailer",
+    "timestamp": "2026-08-03T10:18:04+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "The metal legends also soundtrack the new multiplayer trailer The post ‘Gears Of War: E-Day’ soundtrack features a Metallica classic appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/gaming-news/gears-of-war-e-day-soundtrack-metallica-classic-trailer-3960469?utm_source=rss&utm_medium=rss&utm_campaign=gears-of-war-e-day-soundtrack-metallica-classic-trailer"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Check out David Byrne’s ‘Biking Playlist’",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/check-out-david-byrnes-biking-playlist-3960436?utm_source=rss&utm_medium=rss&utm_campaign=check-out-david-byrnes-biking-playlist",
+    "timestamp": "2026-08-03T10:07:18+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "Alongside the selection of songs, he shared a reflection on the changing state of pop music The post Check out David Byrne’s ‘Biking Playlist’ appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/check-out-david-byrnes-biking-playlist-3960436?utm_source=rss&utm_medium=rss&utm_campaign=check-out-david-byrnes-biking-playlist"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Charli XCX is a “sophisticated cinephile” says ‘I Want Your Sex’ director Gregg Araki",
+    "src": "NME",
+    "url": "https://www.nme.com/news/film/charli-xcx-sophisticated-cinephile-i-want-your-sex-director-gregg-araki-3960429?utm_source=rss&utm_medium=rss&utm_campaign=charli-xcx-sophisticated-cinephile-i-want-your-sex-director-gregg-araki",
+    "timestamp": "2026-08-03T10:02:47+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "\"It really gives me hope\" The post Charli XCX is a “sophisticated cinephile” says ‘I Want Your Sex’ director Gregg Araki appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/film/charli-xcx-sophisticated-cinephile-i-want-your-sex-director-gregg-araki-3960429?utm_source=rss&utm_medium=rss&utm_campaign=charli-xcx-sophisticated-cinephile-i-want-your-sex-director-gregg-araki"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "NEW MUSIC FRIDAY: New Music Release Radar for August 7th 2026 - Ghost Cult Magazine",
+    "src": "Ghost Cult Magazine",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnk2TGpoSTlGOWFFS3N4V2NUQzlfWE5xTnYxMExvRmFKWVR6VlM1VlEycWZtbksxb01iTEhNQTVGOGNRN2RGRnV5RXVCQTFpME1fSjloNDk0RlRta25ZdlNDY0E0QVJtb0thay1KYTY0MTMtM3U2WjZYMk9lTERmRzFRWmRxUFlGT09ERGp2OA?oc=5",
+    "timestamp": "2026-08-03T01:22:19+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "NEW MUSIC FRIDAY: New Music Release Radar for August 7th 2026 Ghost Cult Magazine",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Ghost Cult Magazine",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnk2TGpoSTlGOWFFS3N4V2NUQzlfWE5xTnYxMExvRmFKWVR6VlM1VlEycWZtbksxb01iTEhNQTVGOGNRN2RGRnV5RXVCQTFpME1fSjloNDk0RlRta25ZdlNDY0E0QVJtb0thay1KYTY0MTMtM3U2WjZYMk9lTERmRzFRWmRxUFlGT09ERGp2OA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Portugueses WILDCHAINS conquistam Madrid e afirmam o rock feito em Portugal - musicfest.pt",
+    "src": "musicfest.pt",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVQ2bEo0NmFDWGlSVDdYT2NDU3Jzd25uR2VWWjJiRVhmVUdOalFCaU8yODZhZjY2MnByU190VUVfQTBHQXNRY3V4S0Z4NFM3OWdxLXpqZ3huRFBSZ2MySzlfX3EtSjVISjdUM1dkeW9RYld6NVh3RUtYS3Bkd3JqZDNHV190SVNraGFhN3NtSGJvVS1ZZW5Kd3d4bWs2eVFjUEJkTkRMWQ?oc=5",
+    "timestamp": "2026-08-03T10:45:00+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "Portugueses WILDCHAINS conquistam Madrid e afirmam o rock feito em Portugal musicfest.pt",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "musicfest.pt",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVQ2bEo0NmFDWGlSVDdYT2NDU3Jzd25uR2VWWjJiRVhmVUdOalFCaU8yODZhZjY2MnByU190VUVfQTBHQXNRY3V4S0Z4NFM3OWdxLXpqZ3huRFBSZ2MySzlfX3EtSjVISjdUM1dkeW9RYld6NVh3RUtYS3Bkd3JqZDNHV190SVNraGFhN3NtSGJvVS1ZZW5Kd3d4bWs2eVFjUEJkTkRMWQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Vagos Metal Fest 2026: Ill Niño cancelam, R.A.M.P. substituem",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/vagos-metal-fest-2026-ill-nino-cancelam-r-a-m-p-substituem/",
+    "timestamp": "2026-08-03T10:36:13+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "Há nova alteração no cartaz do Vagos Metal Fest de 2026. Horários de todos os concertos já disponíveis. O Vagos Metal Fest volta à Quinta do Ega, em Vagos, entre os dias 5 e 9 de agosto de 2026, para aquela que promete ser uma das edições mais fortes da história do festival. Contudo, a poucos dias do arranque, a organi",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/vagos-metal-fest-2026-ill-nino-cancelam-r-a-m-p-substituem/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Depois do cancelamento no Evil Live, os Megadeth já têm data para regressar a Portugal - nit.pt",
+    "src": "nit.pt",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUE1uLXdjdUNiN2VVNldjaWFvbE5aMzBhRUFmWm5yb0ltMWk5c2ZSR1NlQ2NfN0Znc1lHbkJOZzFQcHk3YmhJSHZRMl9USUdvV21nR1N1RXNMYng2T3AwR2xQRFpnRDR1RWY2elJEN0xiVjBUcGozR1VSRU9PNEx4Vm01Y25uQTh0a2FhUFNIVUhMMGs5M0tjLW8tRFJuZVhfMFJ3dHZyYm9od0ZpY0xSYVN5SVJ3MC1odjVJ?oc=5",
+    "timestamp": "2026-08-03T10:12:00+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "Depois do cancelamento no Evil Live, os Megadeth já têm data para regressar a Portugal nit.pt",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "nit.pt",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUE1uLXdjdUNiN2VVNldjaWFvbE5aMzBhRUFmWm5yb0ltMWk5c2ZSR1NlQ2NfN0Znc1lHbkJOZzFQcHk3YmhJSHZRMl9USUdvV21nR1N1RXNMYng2T3AwR2xQRFpnRDR1RWY2elJEN0xiVjBUcGozR1VSRU9PNEx4Vm01Y25uQTh0a2FhUFNIVUhMMGs5M0tjLW8tRFJuZVhfMFJ3dHZyYm9od0ZpY0xSYVN5SVJ3MC1odjVJ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Megadeth encerram despedida europeia em Lisboa com Black Label Society e Testament",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/megadeth-encerram-despedida-europeia-em-lisboa-com-black-label-society-e-testament-bilhetes/",
+    "timestamp": "2026-08-03T08:59:37+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "Depois de terem cancelado o seu concerto no Evil Live 2026, os Megadeth prometeram regressar a Portugal. A data já está marcada.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/megadeth-encerram-despedida-europeia-em-lisboa-com-black-label-society-e-testament-bilhetes/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Fadista gaiense Pedro Ferreira atuará quatro vezes na Casa da Música em agosto no ciclo 'Portugal A Gosto' - O Gaiense",
+    "src": "O Gaiense",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmdqTDJmV091TVdJMDk1amVNUVMzb1pUb0ROVklLLWtJMUVFSXdCMC1paFJXTkZITi1XX3ZjYTN3VkRaSThLM09LN3BRMmdKanFfZG1WVGI0dDB6QkxUMkNVU0RHYXVrc0pqckVpZHZXVWVNaU5YeHY0amRfZF9hY1VwdlpEa2JkSXFWdUxmTjFuVU9Oc0lleVZHNjlrYkc1T3lPaEhjOHREdm9HWDcxZjIySnVtOVNwOF9oTjBlMA?oc=5",
+    "timestamp": "2026-08-03T08:10:00+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "Fadista gaiense Pedro Ferreira atuará quatro vezes na Casa da Música em agosto no ciclo 'Portugal A Gosto' O Gaiense",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "O Gaiense",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmdqTDJmV091TVdJMDk1amVNUVMzb1pUb0ROVklLLWtJMUVFSXdCMC1paFJXTkZITi1XX3ZjYTN3VkRaSThLM09LN3BRMmdKanFfZG1WVGI0dDB6QkxUMkNVU0RHYXVrc0pqckVpZHZXVWVNaU5YeHY0amRfZF9hY1VwdlpEa2JkSXFWdUxmTjFuVU9Oc0lleVZHNjlrYkc1T3lPaEhjOHREdm9HWDcxZjIySnVtOVNwOF9oTjBlMA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Altarage",
+    "t": "Cogwheel Review",
+    "src": "Angry Metal Guy",
+    "date": "3 Ago",
+    "isoDate": "2026-08-03",
+    "timestamp": "2026-08-03T11:57:56+00:00",
+    "url": "https://www.angrymetalguy.com/altarage-cogwheel-review/",
+    "d": "\"What do you listen to death metal for? Are you a riff-centric fellow? Do you prioritize emotional catharsis? Do you like super artistic statements or are you here for a collection of banging songs? Spain's Altarage have carved out quite a career for themselve",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "altarage|cogwheel review",
+    "kind": "review",
+    "section": "rev"
+  },
+  {
+    "title": "Slipknot's Sid Wilson reportedly out of band - cbs2iowa.com",
+    "src": "cbs2iowa.com",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNEJIaXNITUpEejBkel9xOUthaWFnSEZaV0dUUnhfNVAzN2hwQXFjcHJOV2M3dEx6NHM3OVdNV2xUd284c1Y2dUtUSG1WLWJhM2o1SzJLTnZ1ZWY5Vi16X2tFNC1rcjhPNVhmNEZWUC15d2tRcnpoOE1XeDdZUUo5aA?oc=5",
     "timestamp": "2026-08-02T04:40:45+00:00",
     "isoDate": "2026-08-02",
     "date": "2 Ago",
-    "d": "Slipknot's Sid Wilson reportedly out of band KGAN",
+    "d": "Slipknot's Sid Wilson reportedly out of band cbs2iowa.com",
     "category": "metal",
     "sources": [
       {
-        "name": "KGAN",
+        "name": "cbs2iowa.com",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNEJIaXNITUpEejBkel9xOUthaWFnSEZaV0dUUnhfNVAzN2hwQXFjcHJOV2M3dEx6NHM3OVdNV2xUd284c1Y2dUtUSG1WLWJhM2o1SzJLTnZ1ZWY5Vi16X2tFNC1rcjhPNVhmNEZWUC15d2tRcnpoOE1XeDdZUUo5aA?oc=5"
       },
       {
-        "name": "KGAN",
+        "name": "cbs2iowa.com",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdG93U2JnRTZLRmJWamswaWRnRU1mVWFIMVdFemRZMHpHOW1vcy0wOEdMeHA1Wm02NDdvMUxGSFV0TmFRbzZuMGl4blF1WXh0TU53WHNjcmtFQkRUVkt1NEhJN1RrWVNQUzJRNUg2ZTU4RnJEVTBTRVFGb19BM05neV9VYnFDT3doOGo0aWprOVFWUlBQVFE?oc=5"
       }
     ],
@@ -899,25 +1464,25 @@
     "section": "buzz"
   },
   {
-    "title": "O jornal do Brasil em Portugal - dnbrasil.dn.pt",
-    "src": "dnbrasil.dn.pt",
+    "title": "O jornal do Brasil em Portugal - DN Brasil",
+    "src": "DN Brasil",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaVgxTEtGdEx3SWFRTTNGTTJJV3hXbE5lSTh0S3ozeWh4cWtlMUhaUVlWbFE1ZDB2cThCSTlBYXVrbVN0ZDZsa0JOTFlzalFpZWNuSnozdWhuaXF2a2RFcGdtTUxBdDhuaUx1aHhrc29MbjNlam5CNHhfY1dZWEpuLWo3WmZRSHo2U2RGaUZHWE1EbFV1Q1V6bDF6X24xN3ppVFh2b0lzZ0lHVnZZTHBBN3YyQ0lDX2JQNzNXU0hOOE91azQ?oc=5",
     "timestamp": "2026-08-02T07:58:00+00:00",
     "isoDate": "2026-08-02",
     "date": "2 Ago",
-    "d": "O jornal do Brasil em Portugal dnbrasil.dn.pt",
+    "d": "O jornal do Brasil em Portugal DN Brasil",
     "category": "pt",
     "sources": [
       {
-        "name": "dnbrasil.dn.pt",
+        "name": "DN Brasil",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaVgxTEtGdEx3SWFRTTNGTTJJV3hXbE5lSTh0S3ozeWh4cWtlMUhaUVlWbFE1ZDB2cThCSTlBYXVrbVN0ZDZsa0JOTFlzalFpZWNuSnozdWhuaXF2a2RFcGdtTUxBdDhuaUx1aHhrc29MbjNlam5CNHhfY1dZWEpuLWo3WmZRSHo2U2RGaUZHWE1EbFV1Q1V6bDF6X24xN3ppVFh2b0lzZ0lHVnZZTHBBN3YyQ0lDX2JQNzNXU0hOOE91azQ?oc=5"
       },
       {
-        "name": "dnbrasil.dn.pt",
+        "name": "DN Brasil",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTkVKZWFMaHpiTHItNmtTR0xrdHV4b2pscEtWMjdicnFnRVNzTnhUbW8zSGlXNHhLUXMtOVVUZ3pSeS1VU0NaQ19nSEZ3MVBmd1JQLXhVM1dLT1pGZHBURmlMWk56aTdtazVDa1ZpLURQbWI3eU1qR0ZNVk9HbVFyWDMyRlhiZzNoVDdMSXFuQ3djYXdWakJ1V2lFcEJNV1Q3SFpoQmFQS0h0WEktZVlFekt1NA?oc=5"
       },
       {
-        "name": "dnbrasil.dn.pt",
+        "name": "DN Brasil",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOXVPY1BOenBOa1RWUGJ4T2dWZ2xHNHU4QUxySF9iOElsMS1SRHE1VjAxYmxXR2ZvVjJVZWNPb3FGMHNQWnlUeXUwbXNCWTJ6X1pmdWE0MVBMSlI1elJzVXZxNzJyMk9kX0FpSElvQmRHWTY4eF9WOGFqVUNrbFVvcUkzX3dveFZwRVNnaXVXNFF1MzRrZ004WkdyNHNaMUgxU2RhWjhsNWlLXzF1ajF6TG1wcGtqeWVFYVZjTnlQSTVLaU1aanFjX1lJVWg3MVhhcjVSN0pB?oc=5"
       }
     ],
@@ -957,17 +1522,17 @@
     "section": "pt"
   },
   {
-    "title": "Cinema debaixo das estrelas - Sala Escura - Artes e Cultura - rtp.pt",
-    "src": "rtp.pt",
+    "title": "Cinema debaixo das estrelas - Sala Escura - Artes e Cultura - RTP",
+    "src": "RTP",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NcV9OVDlnRElBWmVnSDVQWTVYSDRNUnVGbjFkOFkxZno2NUpnNzUyNEpzeEItQzFZX0ZmTXlqZFJSOU03b18zMnFheWtFNWV5c0VXRW9GdTFkbkJXTWc?oc=5",
     "timestamp": "2026-08-02T14:57:47+00:00",
     "isoDate": "2026-08-02",
     "date": "2 Ago",
-    "d": "Cinema debaixo das estrelas - Sala Escura - Artes e Cultura rtp.pt",
+    "d": "Cinema debaixo das estrelas - Sala Escura - Artes e Cultura RTP",
     "category": "pt",
     "sources": [
       {
-        "name": "rtp.pt",
+        "name": "RTP",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NcV9OVDlnRElBWmVnSDVQWTVYSDRNUnVGbjFkOFkxZno2NUpnNzUyNEpzeEItQzFZX0ZmTXlqZFJSOU03b18zMnFheWtFNWV5c0VXRW9GdTFkbkJXTWc?oc=5"
       }
     ],
@@ -1977,7 +2542,7 @@
     "section": "buzz"
   },
   {
-    "title": "Watch Olivia Rodrigo Play “Thirty-Three” with the Smashing Pumpkins at Lollapalooza",
+    "title": "Watch Olivia Rodrigo Play “Thirty-Three” With the Smashing Pumpkins at Lollapalooza",
     "src": "Pitchfork",
     "url": "https://pitchfork.com/story/watch-olivia-rodrigo-and-the-smashing-pumpkins-cover-thirty-three/",
     "timestamp": "2026-08-02T15:25:13+00:00",
@@ -2732,17 +3297,17 @@
     "section": "buzz"
   },
   {
-    "title": "Music Producer Masterkraft Reportedly Engaged To Partner - The Trumpet Newspaper Nigeria",
-    "src": "The Trumpet Newspaper Nigeria",
+    "title": "Music Producer Masterkraft Reportedly Engaged To Partner - thetrumpet.ng",
+    "src": "thetrumpet.ng",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaVpHMWhpVVJBT1J1UVRWOEVISllYTTJpZzdPeUd2cjI0MW9jQkx6M0E3ckNBUmJqbDY4U3o1VnFvREVLUmI1c2RWSGktZGo4M3lYQ2Y5bXRsVEZZdTBsYkh5SmRKYlNieUZuVUZObmdQYUc3Z2k2UmhjajlRUnpJRmduTS0tUQ?oc=5",
     "timestamp": "2026-08-02T17:53:00+00:00",
     "isoDate": "2026-08-02",
     "date": "2 Ago",
-    "d": "Music Producer Masterkraft Reportedly Engaged To Partner The Trumpet Newspaper Nigeria",
+    "d": "Music Producer Masterkraft Reportedly Engaged To Partner thetrumpet.ng",
     "category": "general",
     "sources": [
       {
-        "name": "The Trumpet Newspaper Nigeria",
+        "name": "thetrumpet.ng",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaVpHMWhpVVJBT1J1UVRWOEVISllYTTJpZzdPeUd2cjI0MW9jQkx6M0E3ckNBUmJqbDY4U3o1VnFvREVLUmI1c2RWSGktZGo4M3lYQ2Y5bXRsVEZZdTBsYkh5SmRKYlNieUZuVUZObmdQYUc3Z2k2UmhjajlRUnpJRmduTS0tUQ?oc=5"
       }
     ],
@@ -3007,17 +3572,17 @@
     "section": "news"
   },
   {
-    "title": "Camden Rocks All Dayer - DANNY WILDHEART & more at Barfly Camden - London - newsshopper.co.uk",
-    "src": "newsshopper.co.uk",
+    "title": "Camden Rocks All Dayer - DANNY WILDHEART & more at Barfly Camden - London - News Shopper",
+    "src": "News Shopper",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbFg5TjBPZW13QjZzTVB4SWJSbVZUak9BdjJjRXZOeUx6OURfZW1TTXUwMk9MajdQR1VEMXZrWnNVTS1OM084bHBqek8wZ29PcnFreWRfSTdvVjhoSW9hMjlMWGtYWVYxZDItYzlhNHNjXzk0MVU1WTNNNTdzU1lGTDJWWDVLTDh3WWpxYjlfTTZwV19jOFAycldTNy1HblpDZVUzWG5PU1N5czhCZnpHRnd0TERVZVIyeGE4R0pubEhlZVZpTHh0Ylp6TkFoOC1SMG0telhxSnpSTGc?oc=5",
     "timestamp": "2026-08-02T13:16:02+00:00",
     "isoDate": "2026-08-02",
     "date": "2 Ago",
-    "d": "Camden Rocks All Dayer - DANNY WILDHEART & more at Barfly Camden - London newsshopper.co.uk",
+    "d": "Camden Rocks All Dayer - DANNY WILDHEART & more at Barfly Camden - London News Shopper",
     "category": "core",
     "sources": [
       {
-        "name": "newsshopper.co.uk",
+        "name": "News Shopper",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbFg5TjBPZW13QjZzTVB4SWJSbVZUak9BdjJjRXZOeUx6OURfZW1TTXUwMk9MajdQR1VEMXZrWnNVTS1OM084bHBqek8wZ29PcnFreWRfSTdvVjhoSW9hMjlMWGtYWVYxZDItYzlhNHNjXzk0MVU1WTNNNTdzU1lGTDJWWDVLTDh3WWpxYjlfTTZwV19jOFAycldTNy1HblpDZVUzWG5PU1N5czhCZnpHRnd0TERVZVIyeGE4R0pubEhlZVZpTHh0Ylp6TkFoOC1SMG0telhxSnpSTGc?oc=5"
       }
     ],
@@ -3032,17 +3597,17 @@
     "section": "core"
   },
   {
-    "title": "Ariana Grande to “Step Back From Visibility” After Tour Ends Amid “Ongoing Public Scrutiny” - The Hollywood Reporter",
-    "src": "The Hollywood Reporter",
+    "title": "Ariana Grande to “Step Back From Visibility” After Tour Ends Amid “Ongoing Public Scrutiny” - hollywoodreporter.com",
+    "src": "hollywoodreporter.com",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcDdXT2VHV3VINGtnLVlnT2hRaXZTODJjZkJZXzNEY1hUbk5GMFpZbWlTVGNfRnh3b1BUQklYYlFiMngwRGMxSzFQQ0VjeEZpWFBNUW1BRGZtVGgwX2xxRFQwMHZiRzgzV2M1OUM0MllLcFFrOHNkcngxbmo5Wk1PUGVxVkduOS1ad0V6TFRldllOQmotdlpRNExHa3hibU5Eam1wM3lqZGtCMmgyMWw3T0gyU1M2U0tKYkE?oc=5",
     "timestamp": "2026-08-02T20:50:31+00:00",
     "isoDate": "2026-08-02",
     "date": "2 Ago",
-    "d": "Ariana Grande to “Step Back From Visibility” After Tour Ends Amid “Ongoing Public Scrutiny” The Hollywood Reporter",
+    "d": "Ariana Grande to “Step Back From Visibility” After Tour Ends Amid “Ongoing Public Scrutiny” hollywoodreporter.com",
     "category": "general",
     "sources": [
       {
-        "name": "The Hollywood Reporter",
+        "name": "hollywoodreporter.com",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcDdXT2VHV3VINGtnLVlnT2hRaXZTODJjZkJZXzNEY1hUbk5GMFpZbWlTVGNfRnh3b1BUQklYYlFiMngwRGMxSzFQQ0VjeEZpWFBNUW1BRGZtVGgwX2xxRFQwMHZiRzgzV2M1OUM0MllLcFFrOHNkcngxbmo5Wk1PUGVxVkduOS1ad0V6TFRldllOQmotdlpRNExHa3hibU5Eam1wM3lqZGtCMmgyMWw3T0gyU1M2U0tKYkE?oc=5"
       }
     ],
@@ -3207,17 +3772,17 @@
     "section": "buzz"
   },
   {
-    "title": "Cats: The Jellicle Ball Will Release Cast Album Through Atlantic Records - Playbill",
-    "src": "Playbill",
+    "title": "Cats: The Jellicle Ball Will Release Cast Album Through Atlantic Records - playbill.com",
+    "src": "playbill.com",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNenhNMDZGWG52NzFjWHRxLWMtUF9jaDJ1aU85OTV2TUl2VkRWblE3RlpLcDRPTk1wRHZWVDNjT2JaeHB0aE9jbXdvREg2UnRnY2RvcDhBLTBOa1gtQmNkS2tWZTVFV3QzYnV3aW95UkNNQ0FZRm1QcEhRTFdNUWVtRFR4VW9sYW9vRzRzc1VYajEyQ3NUaU9oM0xLVWg4ODFvQ3c?oc=5",
     "timestamp": "2026-08-02T02:59:00+00:00",
     "isoDate": "2026-08-02",
     "date": "2 Ago",
-    "d": "Cats: The Jellicle Ball Will Release Cast Album Through Atlantic Records Playbill",
+    "d": "Cats: The Jellicle Ball Will Release Cast Album Through Atlantic Records playbill.com",
     "category": "general",
     "sources": [
       {
-        "name": "Playbill",
+        "name": "playbill.com",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNenhNMDZGWG52NzFjWHRxLWMtUF9jaDJ1aU85OTV2TUl2VkRWblE3RlpLcDRPTk1wRHZWVDNjT2JaeHB0aE9jbXdvREg2UnRnY2RvcDhBLTBOa1gtQmNkS2tWZTVFV3QzYnV3aW95UkNNQ0FZRm1QcEhRTFdNUWVtRFR4VW9sYW9vRzRzc1VYajEyQ3NUaU9oM0xLVWg4ODFvQ3c?oc=5"
       }
     ],
@@ -3305,6 +3870,81 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Ariana Grande to Take 'Step Back' From Fame Amid 'Public Scrutiny' - Variety",
+    "src": "Variety",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNkJ1S3FyQ1RyMTFST2o1blllMVJ0dHpTN0VoQmZqTF8zYm9pTmRWNEJDY1dJTzlFUXJDYldkMU5sUS1UU2F1Y3FPcF9BQVctTGUySldNdC12ZTBlWEpMVmVqaUFQcXpEUlZ2bWZ3RlNIRkpuMGR2bGM5VG1WWEtkMVZqQ0ZoLWI5Y0JESUMtV015enJEbW12LVg2czlESlQ0S015YjhweER0UQ?oc=5",
+    "timestamp": "2026-08-02T19:56:00+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "Ariana Grande to Take 'Step Back' From Fame Amid 'Public Scrutiny' Variety",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Variety",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNkJ1S3FyQ1RyMTFST2o1blllMVJ0dHpTN0VoQmZqTF8zYm9pTmRWNEJDY1dJTzlFUXJDYldkMU5sUS1UU2F1Y3FPcF9BQVctTGUySldNdC12ZTBlWEpMVmVqaUFQcXpEUlZ2bWZ3RlNIRkpuMGR2bGM5VG1WWEtkMVZqQ0ZoLWI5Y0JESUMtV015enJEbW12LVg2czlESlQ0S015YjhweER0UQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "INTERVIEW: THE HU’s Vocalist Temka Talk All Things About Their Third Album “Hun” - The Rockpit",
+    "src": "The Rockpit",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0Y1Qkc4YnZGNHFwazJ0Q2dYeThOb1FiX2lNOHp1U2pvQ0VUMUtWOTBVZkhBejFKNFBUa2ZaN0M5OEFodFZJNk5Nam1SYmJnUWw3dy1ocWhlRGh4d2ZaeFZMZHotMGN4cHhVOFE3T05TdWM2dFZJSnNRbW5STktMWVFnTlFqVHFDY0ZzTWR3V3ZPaFdscGxhTjZCNnZyS1l1SVUyQ3BsTjNfR2doTEE?oc=5",
+    "timestamp": "2026-08-02T16:45:40+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "INTERVIEW: THE HU’s Vocalist Temka Talk All Things About Their Third Album “Hun” The Rockpit",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Rockpit",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb0Y1Qkc4YnZGNHFwazJ0Q2dYeThOb1FiX2lNOHp1U2pvQ0VUMUtWOTBVZkhBejFKNFBUa2ZaN0M5OEFodFZJNk5Nam1SYmJnUWw3dy1ocWhlRGh4d2ZaeFZMZHotMGN4cHhVOFE3T05TdWM2dFZJSnNRbW5STktMWVFnTlFqVHFDY0ZzTWR3V3ZPaFdscGxhTjZCNnZyS1l1SVUyQ3BsTjNfR2doTEE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Indonesian Girl Group No Na Revives 'Om Telolet Om' in New Single 'honk!' - Tempo.co English",
+    "src": "Tempo.co English",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbTNMcko0a1RHVjdtbFRZRlFkWjd1dkhTUktVWklBY09UdVlxOF92TmhOeWVXWF9KcXVRdnBlMjJXLTZjU1FvTFJKYk9PM1ZpYktnTF9hTS0yVDJaM1BDeExxYXBpX0EzdzM4WnZvMlp2N3drQ1ZfOExISk9DMzcyTzFmQjY0azF3WnFTbnZLTEFDMVlBWHBwUkZpSU91NDVTb21B?oc=5",
+    "timestamp": "2026-08-02T02:53:14+00:00",
+    "isoDate": "2026-08-02",
+    "date": "2 Ago",
+    "d": "Indonesian Girl Group No Na Revives 'Om Telolet Om' in New Single 'honk!' Tempo.co English",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Tempo.co English",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbTNMcko0a1RHVjdtbFRZRlFkWjd1dkhTUktVWklBY09UdVlxOF92TmhOeWVXWF9KcXVRdnBlMjJXLTZjU1FvTFJKYk9PM1ZpYktnTF9hTS0yVDJaM1BDeExxYXBpX0EzdzM4WnZvMlp2N3drQ1ZfOExISk9DMzcyTzFmQjY0azF3WnFTbnZLTEFDMVlBWHBwUkZpSU91NDVTb21B?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
   },
   {
     "title": "Every Big Rock + Metal Album Released Each Day in August History - Loudwire",
@@ -3583,7 +4223,7 @@
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV21ucTAyX3hCOGsxcWVsejUydUp5WENyZG5IbjZORlRZLWxzSW5aLUh1SmxNS0V6UjBpS0ZoblI1alg2NU9ZTTdoekJrWk5udjlybm83c2puQXZ3UHpFLWFLRVN4SDJvU01jUWNTa2xOREU5OG53WkxfZkFWSTMtMG9QZjh1ZjhWd09XWGFTcw?oc=5"
       },
       {
-        "name": "wbal.com",
+        "name": "WBAL News Radio",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX2NUUUZpOVRVbkxfcVZEMTFtTWY5UFQ3bFdFa2xjdnprMUc3UVJNNFlxaU1Bb2RrclNKc0pLanNfQmFqU3UwSjVZdzMyc3NWSzR1aUJpYldOVkc5MHp1ZHdwWGY4azQyRUVpOVowdXpMcDM2YVNZV0Q3WkhvZDR3MzJkNDNHUXllWF9COFJfcWRLOXpUMHFfN3V6MTBXMjU5b25wWjJBTTlrdw?oc=5"
       }
     ],
@@ -3942,10 +4582,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -5151,17 +5791,17 @@
     "section": "buzz"
   },
   {
-    "title": "Slipknot’s Sid Wilson Reportedly Fired After Nearly 30 Years - musictimes.com",
-    "src": "musictimes.com",
+    "title": "Slipknot’s Sid Wilson Reportedly Fired After Nearly 30 Years - Music Times",
+    "src": "Music Times",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc3ZsRUJ0dTVJT0FSTldaWGJRUGlCc3hUNVBRT1dxWHFmUzdtbDRteU12M1F5dW1RN0xsY0cta3hyUmlPQklqZEx0a1QzLVVQRi04a2pqT2lKeTFRTHhQNW50bElUMlFPUjJlTHJVQ29qREpYVjNuNFFTNnF4VHBSR05Ud2EwdjhZMFlpY2NZdTZhQVZHVnI2eHhYUXJOUU5GR2lQYzdaenlWWEJmMFd1N0t5QXlWQQ?oc=5",
     "timestamp": "2026-08-01T16:33:06+00:00",
     "isoDate": "2026-08-01",
     "date": "1 Ago",
-    "d": "Slipknot’s Sid Wilson Reportedly Fired After Nearly 30 Years musictimes.com",
+    "d": "Slipknot’s Sid Wilson Reportedly Fired After Nearly 30 Years Music Times",
     "category": "general",
     "sources": [
       {
-        "name": "musictimes.com",
+        "name": "Music Times",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc3ZsRUJ0dTVJT0FSTldaWGJRUGlCc3hUNVBRT1dxWHFmUzdtbDRteU12M1F5dW1RN0xsY0cta3hyUmlPQklqZEx0a1QzLVVQRi04a2pqT2lKeTFRTHhQNW50bElUMlFPUjJlTHJVQ29qREpYVjNuNFFTNnF4VHBSR05Ud2EwdjhZMFlpY2NZdTZhQVZHVnI2eHhYUXJOUU5GR2lQYzdaenlWWEJmMFd1N0t5QXlWQQ?oc=5"
       }
     ],
@@ -5413,15 +6053,19 @@
       {
         "name": "Consequence",
         "url": "https://consequence.net/2026/08/slipknot-reportedly-fire-sid-wilson/"
+      },
+      {
+        "name": "Consequence of Sound",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jZE5ac3Q5TUh5bUdTX3VWUmQwdHRQdnFaRzRkN1BkNUtRVDVzeHNGQkx5Q2RhVUgzZWNtUHh1eTZHS3lrOExyV3hSRG9rMlJMWjFPMThqbDFBT1p1MVFuTVk0eXotTHVsazY5ZVFyaExObnhtSTJR?oc=5"
       }
     ],
     "status": "rumor",
     "confidence": "medium",
-    "sourceCount": 1,
+    "sourceCount": 2,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": false,
+    "star": true,
     "kind": "news",
     "section": "buzz"
   },
@@ -6057,17 +6701,17 @@
     "section": "buzz"
   },
   {
-    "title": "FOUR HAITIAN NATIONALS REPORTEDLY FOUND IN SPANISH TOWN ST. CATHERINE YESTERDAY - IRIE Fm",
-    "src": "IRIE Fm",
+    "title": "FOUR HAITIAN NATIONALS REPORTEDLY FOUND IN SPANISH TOWN ST. CATHERINE YESTERDAY - iriefm.net",
+    "src": "iriefm.net",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUZjal9DcDZmQlVyTUkyaE9PY2F3SXF4djhaNXBXRUZzb1h3bzBGOXg5RHBDak5la2s0QUZwb0JrRWNSZTJJMXMzV0RzWVYtMzJ2bXlWVy1Qd0RMNHdQbXJNZkJUOURLQVpxaFl6anJLTlAwQUJDWEwwYlFPekU5Nkx0NEIwWjlDNXFZNW5iNFBpS1Y3U0FNNlNqallKNTA?oc=5",
     "timestamp": "2026-08-01T17:20:59+00:00",
     "isoDate": "2026-08-01",
     "date": "1 Ago",
-    "d": "FOUR HAITIAN NATIONALS REPORTEDLY FOUND IN SPANISH TOWN ST. CATHERINE YESTERDAY IRIE Fm",
+    "d": "FOUR HAITIAN NATIONALS REPORTEDLY FOUND IN SPANISH TOWN ST. CATHERINE YESTERDAY iriefm.net",
     "category": "general",
     "sources": [
       {
-        "name": "IRIE Fm",
+        "name": "iriefm.net",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUZjal9DcDZmQlVyTUkyaE9PY2F3SXF4djhaNXBXRUZzb1h3bzBGOXg5RHBDak5la2s0QUZwb0JrRWNSZTJJMXMzV0RzWVYtMzJ2bXlWVy1Qd0RMNHdQbXJNZkJUOURLQVpxaFl6anJLTlAwQUJDWEwwYlFPekU5Nkx0NEIwWjlDNXFZNW5iNFBpS1Y3U0FNNlNqallKNTA?oc=5"
       }
     ],
@@ -6200,17 +6844,17 @@
     "section": "news"
   },
   {
-    "title": "Heavy metal legend launches fundraiser for ongoing cancer treatment - independent.co.uk",
-    "src": "independent.co.uk",
+    "title": "Heavy metal legend launches fundraiser for ongoing cancer treatment - The Independent",
+    "src": "The Independent",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQjZMcFExbWtsZkpvcDRQVGMyZE82cHNBS1Fwa1p2bEdxS2ZwUkhIVzFWS2VlME5NNlA5dDN6Z1FKN1dWTFNIOHRtdGVyVkpWaE5ieG5nLVAwUVpFcGhfaXZXRl90Qk9IblNhaVdzNEduazkwbWtsQXNhS1NzMk9sc0FwLXZueFlLZXItZmZRblVvbHh4Sk1pN1cxdUlpQ2NvOUY2aWhYVTR1SEIwV3dnWHJLLTExRWJwV2c?oc=5",
     "timestamp": "2026-08-01T20:54:00+00:00",
     "isoDate": "2026-08-01",
     "date": "1 Ago",
-    "d": "Heavy metal legend launches fundraiser for ongoing cancer treatment independent.co.uk",
+    "d": "Heavy metal legend launches fundraiser for ongoing cancer treatment The Independent",
     "category": "metal",
     "sources": [
       {
-        "name": "independent.co.uk",
+        "name": "The Independent",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQjZMcFExbWtsZkpvcDRQVGMyZE82cHNBS1Fwa1p2bEdxS2ZwUkhIVzFWS2VlME5NNlA5dDN6Z1FKN1dWTFNIOHRtdGVyVkpWaE5ieG5nLVAwUVpFcGhfaXZXRl90Qk9IblNhaVdzNEduazkwbWtsQXNhS1NzMk9sc0FwLXZueFlLZXItZmZRblVvbHh4Sk1pN1cxdUlpQ2NvOUY2aWhYVTR1SEIwV3dnWHJLLTExRWJwV2c?oc=5"
       }
     ],
@@ -6425,17 +7069,17 @@
     "section": "buzz"
   },
   {
-    "title": "Move over Jimothy. Meet Humboldt County’s piano-playing disability raccoon - Times-Standard",
-    "src": "Times-Standard",
+    "title": "Move over Jimothy. Meet Humboldt County’s piano-playing disability raccoon - times-standard.com",
+    "src": "times-standard.com",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeFhJUm5DbXR5UDZEUkdtY24xbk9MaFl1SV94RWNtYzFRRGMtY1kwclZfald3M2hBRTRjUlUtT3d6dUQxZ1ljVUUtclJ3WEdDcTBiWEZycHNkOVdTdGlsMllVYlhHVjdlRnQ1R0RZdkhfdHRfNWJfZDMyN0w3M21JR3pSTkgySVhXR3dyUWlqSUktQWpYZWhHWlJyTEg0S1BuQkQxTUpBMEJnd250WHdnT0pPbjFUQQ?oc=5",
     "timestamp": "2026-08-01T22:39:48+00:00",
     "isoDate": "2026-08-01",
     "date": "1 Ago",
-    "d": "Move over Jimothy. Meet Humboldt County’s piano-playing disability raccoon Times-Standard",
+    "d": "Move over Jimothy. Meet Humboldt County’s piano-playing disability raccoon times-standard.com",
     "category": "general",
     "sources": [
       {
-        "name": "Times-Standard",
+        "name": "times-standard.com",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeFhJUm5DbXR5UDZEUkdtY24xbk9MaFl1SV94RWNtYzFRRGMtY1kwclZfald3M2hBRTRjUlUtT3d6dUQxZ1ljVUUtclJ3WEdDcTBiWEZycHNkOVdTdGlsMllVYlhHVjdlRnQ1R0RZdkhfdHRfNWJfZDMyN0w3M21JR3pSTkgySVhXR3dyUWlqSUktQWpYZWhHWlJyTEg0S1BuQkQxTUpBMEJnd250WHdnT0pPbjFUQQ?oc=5"
       }
     ],
@@ -6725,17 +7369,17 @@
     "section": "buzz"
   },
   {
-    "title": "Shah Rukh Khan's 'King' eyes record-breaking Rs 50 crore music rights deal ahead of Christmas release: Re - The Times of India",
-    "src": "The Times of India",
+    "title": "Shah Rukh Khan's 'King' eyes record-breaking Rs 50 crore music rights deal ahead of Christmas release: Re - timesofindia.indiatimes.com",
+    "src": "timesofindia.indiatimes.com",
     "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOczZLU0xYZnMzSnhvQmN1cUxYWU5zTjFLMXRfa3lUcXkxNkhiQ04ySmEzeW9CejhyajBndm5HS3lIWW41UmtWczNpT1ZOWTNqUTBORjZCdUNFV3laUjJ6QkFNOThaR0hBTDFMWi11ektHMlpxVHpfWGdXajhtc2ExWVBfcHlnQVgyU2duRU5TTjUwd1NYNUpsbXRqelNLLWNSbWdnRTNLV0FwdkJaQzJjUmdNS1JEb09rNldMN2hkT1RIU1QyNmV6aGpyQXRESjA0RGhkcWNwc0M2NHdEd1FRTllramhHNVhuQUF0MHdmMG1LZklGNldzR3NrcDJOaGE4d29IX0NQTTNYNm04UU9HX0x5QUFPZnlscGEwOHg4UjNyanY0YzFCYmlsTdIBsAJBVV95cUxQV3Z0NklvSFp0QWRNYXBnUEY2eko1TWpYNU9JUHhzcHVJclVCZTB3VDZsQ2ZsLXdiZWhmUy1pRTd5N2xJZzFIbkhQV1A4czNaOS1hdFJvaDZJalVraS1ocUFsbFF3NENsZ1ctUlp3R090azNHendaeVZTQW82QUVpX0QzdDVBU2NkeTRMSnRYazhXbjktbzFYeDlmNjdQUkh3Q2RnSzB5dWN5TktLWEJGd3lZVFRlUDQ2VUQ1YVFiUjNnNnVlM3JfbkxrYm1qOU1UaEhiZk9kYTVUQUs2Ul9IUU9HX2Q3SDJiWXNIdm1DT2FFazFEangxRnltNTZlT2NjS2RySjBSMHJZcFlSdkJqajQ1WG1IaXR3TVV0TGNSYlJNekxIYm5ON2dOdV9nNmpX?oc=5",
     "timestamp": "2026-08-01T11:00:00+00:00",
     "isoDate": "2026-08-01",
     "date": "1 Ago",
-    "d": "Shah Rukh Khan's 'King' eyes record-breaking Rs 50 crore music rights deal ahead of Christmas release: Re The Times of India",
+    "d": "Shah Rukh Khan's 'King' eyes record-breaking Rs 50 crore music rights deal ahead of Christmas release: Re timesofindia.indiatimes.com",
     "category": "general",
     "sources": [
       {
-        "name": "The Times of India",
+        "name": "timesofindia.indiatimes.com",
         "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOczZLU0xYZnMzSnhvQmN1cUxYWU5zTjFLMXRfa3lUcXkxNkhiQ04ySmEzeW9CejhyajBndm5HS3lIWW41UmtWczNpT1ZOWTNqUTBORjZCdUNFV3laUjJ6QkFNOThaR0hBTDFMWi11ektHMlpxVHpfWGdXajhtc2ExWVBfcHlnQVgyU2duRU5TTjUwd1NYNUpsbXRqelNLLWNSbWdnRTNLV0FwdkJaQzJjUmdNS1JEb09rNldMN2hkT1RIU1QyNmV6aGpyQXRESjA0RGhkcWNwc0M2NHdEd1FRTllramhHNVhuQUF0MHdmMG1LZklGNldzR3NrcDJOaGE4d29IX0NQTTNYNm04UU9HX0x5QUFPZnlscGEwOHg4UjNyanY0YzFCYmlsTdIBsAJBVV95cUxQV3Z0NklvSFp0QWRNYXBnUEY2eko1TWpYNU9JUHhzcHVJclVCZTB3VDZsQ2ZsLXdiZWhmUy1pRTd5N2xJZzFIbkhQV1A4czNaOS1hdFJvaDZJalVraS1ocUFsbFF3NENsZ1ctUlp3R090azNHendaeVZTQW82QUVpX0QzdDVBU2NkeTRMSnRYazhXbjktbzFYeDlmNjdQUkh3Q2RnSzB5dWN5TktLWEJGd3lZVFRlUDQ2VUQ1YVFiUjNnNnVlM3JfbkxrYm1qOU1UaEhiZk9kYTVUQUs2Ul9IUU9HX2Q3SDJiWXNIdm1DT2FFazFEangxRnltNTZlT2NjS2RySjBSMHJZcFlSdkJqajQ1WG1IaXR3TVV0TGNSYlJNekxIYm5ON2dOdV9nNmpX?oc=5"
       }
     ],
@@ -6766,6 +7410,81 @@
     ],
     "status": "rumor",
     "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Slipknot guitarist Jim Root shares cryptic message after Sid Wilson’s reported firing from band - yahoo.com",
+    "src": "yahoo.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMktWcjNMWTZycGN2eWdiQmU5N1llQkRKNndTdVh3b2pTNzFKdE5jMDRSX2hJUWhnUS1JSVJjTWtTYnZKLWtsMW9GTzNsV0pzUlpwYlBHUlotUzZ0cVdDZUV2Y3ZIWUJ0N0hWU051aU5hR0pHdlpuQllDQkp1Y1plckJuVXl2UDQ2VUJEX3JzR0lpOU5WNmJMcnNPa1JaeTczdlE?oc=5",
+    "timestamp": "2026-08-01T16:50:09+00:00",
+    "isoDate": "2026-08-01",
+    "date": "1 Ago",
+    "d": "Slipknot guitarist Jim Root shares cryptic message after Sid Wilson’s reported firing from band yahoo.com",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMktWcjNMWTZycGN2eWdiQmU5N1llQkRKNndTdVh3b2pTNzFKdE5jMDRSX2hJUWhnUS1JSVJjTWtTYnZKLWtsMW9GTzNsV0pzUlpwYlBHUlotUzZ0cVdDZUV2Y3ZIWUJ0N0hWU051aU5hR0pHdlpuQllDQkp1Y1plckJuVXl2UDQ2VUJEX3JzR0lpOU5WNmJMcnNPa1JaeTczdlE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Avenged Sevenfold Premiere New Music Video For \"STATICA\" - Metal Underground.com",
+    "src": "Metal Underground.com",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FaWZVTDdNOERwaUpMQ3ZMRlVkMVM4TW16Z0VhWm14N0RoekpKcXpBcGR6TU00a2xJZHJoWEdaTnEtQUdOU1B5T1Q3ZlM4dDR6ek5nWlJzbWlxZXFnTVBveno4dXFGZnR4X1ZFSHJGZ3g?oc=5",
+    "timestamp": "2026-08-01T07:47:00+00:00",
+    "isoDate": "2026-08-01",
+    "date": "1 Ago",
+    "d": "Avenged Sevenfold Premiere New Music Video For \"STATICA\" Metal Underground.com",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Underground.com",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FaWZVTDdNOERwaUpMQ3ZMRlVkMVM4TW16Z0VhWm14N0RoekpKcXpBcGR6TU00a2xJZHJoWEdaTnEtQUdOU1B5T1Q3ZlM4dDR6ek5nWlJzbWlxZXFnTVBveno4dXFGZnR4X1ZFSHJGZ3g?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Shah Rukh Khan’s King in talks for Rs 50 crore music rights sale - The Siasat Daily",
+    "src": "The Siasat Daily",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQV9DSkNBNV9IcEc2YURmS2NfNmVfUEw1TVUtY1JNVzJPRlg4cjdCQlVjc2VTRzRUZ3NVa3Z5LWs4WG90MHFsbUtLdU1RbmRQNWo4SGpwcFR4blpiN3A0VldEdW90M2NBdG56dFNIMVZuMkZOeW9uX0h0VkpmUk1nZFJUQm1zQnRsMnFrOHBSZnFfeFctd3FscnAzTdIBoAFBVV95cUxQWG5Dam54N29kaGZyZjhoNGNvSGlQZnJPUlAwLWUySWI1djBMbFJqOUl5azhITUJoX0JWNm5hdHRIQTQxaFVPa1A5WXFCRlhVdy1zemZjODFjcnBRNjdabnJIV1VGanlhbGVQNDYyQmdLdHh6RzNCQWV1M0dGS0JJdjJXQ29ROUx1cElEdXlRSmowV3lIZmZGWlBrUEEyUi1M?oc=5",
+    "timestamp": "2026-08-01T07:45:01+00:00",
+    "isoDate": "2026-08-01",
+    "date": "1 Ago",
+    "d": "Shah Rukh Khan’s King in talks for Rs 50 crore music rights sale The Siasat Daily",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Siasat Daily",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQV9DSkNBNV9IcEc2YURmS2NfNmVfUEw1TVUtY1JNVzJPRlg4cjdCQlVjc2VTRzRUZ3NVa3Z5LWs4WG90MHFsbUtLdU1RbmRQNWo4SGpwcFR4blpiN3A0VldEdW90M2NBdG56dFNIMVZuMkZOeW9uX0h0VkpmUk1nZFJUQm1zQnRsMnFrOHBSZnFfeFctd3FscnAzTdIBoAFBVV95cUxQWG5Dam54N29kaGZyZjhoNGNvSGlQZnJPUlAwLWUySWI1djBMbFJqOUl5azhITUJoX0JWNm5hdHRIQTQxaFVPa1A5WXFCRlhVdy1zemZjODFjcnBRNjdabnJIV1VGanlhbGVQNDYyQmdLdHh6RzNCQWV1M0dGS0JJdjJXQ29ROUx1cElEdXlRSmowV3lIZmZGWlBrUEEyUi1M?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
     "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
