@@ -92,10 +92,10 @@
     "status": "rumor",
     "confidence": "medium",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -117,10 +117,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -167,10 +167,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -188,6 +188,156 @@
     "releaseKey": "pitchfork|mixed up",
     "kind": "review",
     "section": "rev"
+  },
+  {
+    "title": "Dwayne Johnson on poor reviews for ‘Moana’ remake: “That’s just the way it goes”",
+    "src": "NME",
+    "url": "https://www.nme.com/news/film/dwayne-johnson-on-poor-reviews-for-moana-remake-thats-just-the-way-it-goes-3961569?utm_source=rss&utm_medium=rss&utm_campaign=dwayne-johnson-on-poor-reviews-for-moana-remake-thats-just-the-way-it-goes",
+    "timestamp": "2026-08-09T09:27:10+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "Disney have acknowledged that the live-action version failed to meet their box office expectations The post Dwayne Johnson on poor reviews for ‘Moana’ remake: “That’s just the way it goes” appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/film/dwayne-johnson-on-poor-reviews-for-moana-remake-thats-just-the-way-it-goes-3961569?utm_source=rss&utm_medium=rss&utm_campaign=dwayne-johnson-on-poor-reviews-for-moana-remake-thats-just-the-way-it-goes"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Watch Fontaines D.C. debut new songs ‘Marianne’ and ‘Six Shot Morning’ in first full headline show of 2026",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/watch-fontaines-d-c-debut-two-new-songs-in-first-full-headline-show-of-2026-3961562?utm_source=rss&utm_medium=rss&utm_campaign=watch-fontaines-d-c-debut-two-new-songs-in-first-full-headline-show-of-2026",
+    "timestamp": "2026-08-09T09:17:11+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "It comes after guitarist Carlos O’Connell confirmed to NME earlier this year that the band were working on new material The post Watch Fontaines D.C. debut new songs ‘Marianne’ and ‘Six Shot Morning’ in first full headline show of 2026 appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/watch-fontaines-d-c-debut-two-new-songs-in-first-full-headline-show-of-2026-3961562?utm_source=rss&utm_medium=rss&utm_campaign=watch-fontaines-d-c-debut-two-new-songs-in-first-full-headline-show-of-2026"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Tyga admits he used AI on new album ‘$tarface’: “I don’t care”",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/tyga-admits-he-used-ai-on-new-album-tarface-i-dont-care-3961560?utm_source=rss&utm_medium=rss&utm_campaign=tyga-admits-he-used-ai-on-new-album-tarface-i-dont-care",
+    "timestamp": "2026-08-09T08:33:59+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "\"It's no different than when Auto-Tune came out. Some people were opposed to it, but real artists took it and used it\" The post Tyga admits he used AI on new album ‘$tarface’: “I don’t care” appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/tyga-admits-he-used-ai-on-new-album-tarface-i-dont-care-3961560?utm_source=rss&utm_medium=rss&utm_campaign=tyga-admits-he-used-ai-on-new-album-tarface-i-dont-care"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Billy Strings performs in protective headgear after being hit by object on stage",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/billy-strings-performs-in-protective-headgear-after-being-hit-by-object-on-stage-3961550?utm_source=rss&utm_medium=rss&utm_campaign=billy-strings-performs-in-protective-headgear-after-being-hit-by-object-on-stage",
+    "timestamp": "2026-08-09T08:19:10+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "\"Maybe I shouldn’t have come back\" The post Billy Strings performs in protective headgear after being hit by object on stage appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/billy-strings-performs-in-protective-headgear-after-being-hit-by-object-on-stage-3961550?utm_source=rss&utm_medium=rss&utm_campaign=billy-strings-performs-in-protective-headgear-after-being-hit-by-object-on-stage"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Watch Charli XCX join The Strokes for ‘Take It Or Leave It’ at Outside Lands 2026",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/watch-charli-xcx-join-the-strokes-for-take-it-or-leave-it-at-outside-lands-2026-3961552?utm_source=rss&utm_medium=rss&utm_campaign=watch-charli-xcx-join-the-strokes-for-take-it-or-leave-it-at-outside-lands-2026",
+    "timestamp": "2026-08-09T07:47:02+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "Julian Casablancas introduced her as \"the queen of album sales\", after the two artists released their new records on the same day last month The post Watch Charli XCX join The Strokes for ‘Take It Or Leave It’ at Outside Lands 2026 appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/watch-charli-xcx-join-the-strokes-for-take-it-or-leave-it-at-outside-lands-2026-3961552?utm_source=rss&utm_medium=rss&utm_campaign=watch-charli-xcx-join-the-strokes-for-take-it-or-leave-it-at-outside-lands-2026"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Perez Hilton’s family say he “will require surgery” after live stream incident",
+    "src": "NME",
+    "url": "https://www.nme.com/news/tv/perez-hiltons-family-say-he-will-require-surgery-after-live-stream-incident-3961545?utm_source=rss&utm_medium=rss&utm_campaign=perez-hiltons-family-say-he-will-require-surgery-after-live-stream-incident",
+    "timestamp": "2026-08-09T07:24:11+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "They also asked that the “media or the public” stop waiting outside his home to attempt to photograph his children The post Perez Hilton’s family say he “will require surgery” after live stream incident appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/tv/perez-hiltons-family-say-he-will-require-surgery-after-live-stream-incident-3961545?utm_source=rss&utm_medium=rss&utm_campaign=perez-hiltons-family-say-he-will-require-surgery-after-live-stream-incident"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
   },
   {
     "title": "Joe Keithley's tireless punk rock work ethic is a perfect match for politics - The Georgia Straight",
@@ -757,10 +907,6 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/forgotten-1990s-bands-hair-metal-legends/"
-      },
-      {
-        "name": "Loudwire",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kN2Y2aWxnRFFJaEFlY0YxNjJfb1U5RzRheklBb1Rnd1V1enVnejZUNVdrZllILVA0eGxaNDRSSnpwSDhHOU1nTmhVb21LMUJ2ZVlvQkh4TU1LQ0lra0tjN3pJMTRueVQtSGIxdGg1aw?oc=5"
       }
     ],
     "status": "official",
@@ -3898,10 +4044,6 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/2026-hard-rock-metal-album-release-calendar/"
-      },
-      {
-        "name": "Loudwire",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nTUp5MUNLYUxYdTdBNzBoMmt3ajZFcjhxSXl3MGJsWU1ra1U0UEoxa2pacEE4bGp1NHJtMkZmUFVUa2xteHZEbDlqZWpsTkx6bXhtLVVSTENISkZULWFrZnpzYS0zLUZXbXZqMy1RVVE3VlE?oc=5"
       }
     ],
     "status": "official",
@@ -15070,6 +15212,27 @@
     "section": "pt"
   },
   {
+    "b": "Betu",
+    "t": "Undone - The Sweater Song",
+    "g": "pop",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "6 Ago",
+    "isoDate": "2026-08-06",
+    "url": "https://musicbrainz.org/release-group/398baef2-6cb0-4aab-8895-78eecf32989c",
+    "d": "rock, pop, alternative rock, power pop, emo",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/398baef2-6cb0-4aab-8895-78eecf32989c"
+      }
+    ],
+    "mbid": "398baef2-6cb0-4aab-8895-78eecf32989c",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
     "b": "Philippe JOUMARD",
     "t": "Sonnenglanz des Löwen",
     "g": "electro",
@@ -26129,10 +26292,6 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/disney-metal-inspired-villains-merch-collection/"
-      },
-      {
-        "name": "Loudwire",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaOTV4amJkVnRmUW53dTR3aEgtVXdaMjBqdGV3R3QtVmNVYWUwcjlqcUdhZXZmZnNPWlltYnpWYjBHSkZDT05PSFR4WHFaYjREa2JEemxlcjJkNW84NDRaRk43SnBfQXUzZjh3ZjQ5ZF9DLVFNaUpLRA?oc=5"
       }
     ],
     "status": "official",
@@ -32197,7 +32356,7 @@
     "isCore": true,
     "star": false,
     "kind": "news",
-    "section": "pt"
+    "section": "core"
   },
   {
     "title": "Morrissey na Super Bock Arena: Entre o incómodo e a devoção, as canções continuam a ganhar",
