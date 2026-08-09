@@ -17,10 +17,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -42,10 +42,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -257,10 +257,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -282,10 +282,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -307,10 +307,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -455,27 +455,27 @@
     "section": "news"
   },
   {
-    "title": "Meet the Ilonggo band that took Philippine metal to Germany - rappler.com",
-    "src": "rappler.com",
+    "title": "Meet the Ilonggo band that took Philippine metal to Germany - Rappler",
+    "src": "Rappler",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbDZSV2hrZGpUUEd2bEJOSHoyd0M5N19DTFZkU1R3OEl1YTFKRUVYaWViQ2ZYVm9TQTZlbHZjeThxTTc3QWt0WE9XcTJPR0lkR2FSTERwZnUtSVhjbnRIaVhfMHh3SFpiS1ZXdTd2QUZzbUljVEtHR3c4U3NQNm5ZU3BTVGZ6bll3MFBpaA?oc=5",
     "timestamp": "2026-08-09T08:00:00+00:00",
     "isoDate": "2026-08-09",
     "date": "9 Ago",
-    "d": "Meet the Ilonggo band that took Philippine metal to Germany rappler.com",
+    "d": "Meet the Ilonggo band that took Philippine metal to Germany Rappler",
     "category": "metal",
     "sources": [
       {
-        "name": "rappler.com",
+        "name": "Rappler",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbDZSV2hrZGpUUEd2bEJOSHoyd0M5N19DTFZkU1R3OEl1YTFKRUVYaWViQ2ZYVm9TQTZlbHZjeThxTTc3QWt0WE9XcTJPR0lkR2FSTERwZnUtSVhjbnRIaVhfMHh3SFpiS1ZXdTd2QUZzbUljVEtHR3c4U3NQNm5ZU3BTVGZ6bll3MFBpaA?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -530,17 +530,17 @@
     "section": "buzz"
   },
   {
-    "title": "The Mr. Z Tour feat. Mwalim DaPhunkee Professor - providencejournal.com",
-    "src": "providencejournal.com",
+    "title": "The Mr. Z Tour feat. Mwalim DaPhunkee Professor - The Providence Journal",
+    "src": "The Providence Journal",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRXhrQmtmUzJQVWRCVFNSOXF0S2Z1ZDRzekRqSmhqQXYyNzVCUzEzeDVFaUtRMmZBb1hJV1JTQUVPbVhZN2NjV3ZzNXJUeEstbUN2bGs4Z1lqbjlEeUFkb2hBdFBsSFZEVWdJcVpDMVdVMTYyZVlTR2pNanltcHpuY3N3Zk5OYW11QkcybmFUbFdtcVhSc1RfWFA2QWxMSTUtUmkxTm1iekFLeUVxWVV2ZFdTU3NROVFlZ0NxNHlfTjZxREtObWxRZG5zSDgyMERyRmJR?oc=5",
     "timestamp": "2026-08-09T10:19:58+00:00",
     "isoDate": "2026-08-09",
     "date": "9 Ago",
-    "d": "The Mr. Z Tour feat. Mwalim DaPhunkee Professor providencejournal.com",
+    "d": "The Mr. Z Tour feat. Mwalim DaPhunkee Professor The Providence Journal",
     "category": "general",
     "sources": [
       {
-        "name": "providencejournal.com",
+        "name": "The Providence Journal",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRXhrQmtmUzJQVWRCVFNSOXF0S2Z1ZDRzekRqSmhqQXYyNzVCUzEzeDVFaUtRMmZBb1hJV1JTQUVPbVhZN2NjV3ZzNXJUeEstbUN2bGs4Z1lqbjlEeUFkb2hBdFBsSFZEVWdJcVpDMVdVMTYyZVlTR2pNanltcHpuY3N3Zk5OYW11QkcybmFUbFdtcVhSc1RfWFA2QWxMSTUtUmkxTm1iekFLeUVxWVV2ZFdTU3NROVFlZ0NxNHlfTjZxREtObWxRZG5zSDgyMERyRmJR?oc=5"
       }
     ],
@@ -583,7 +583,7 @@
     "title": "STONED JESUS Announce New Album, Release “Velvet” Music Video - rocknloadmag.com",
     "src": "rocknloadmag.com",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVWo3UTJucGI3bmxLYUhlWlhnbk5pd0tNOEJ3bHIyd0M5OWg0VkVxWlI1Z3ZWaXFHZnphTDhsUFNUQ2FLRURXVlNUQlhycTAxQS12c2R0UDZGRXM5TUFuT1JWMVktQnhSbXN3cFV0dWtiYUVWX1YxU0lwSm1QOHJsdl9XZVM3VFBFLVc4eg?oc=5",
-    "timestamp": "2026-08-09T09:20:44+00:00",
+    "timestamp": "2026-08-09T09:31:18+00:00",
     "isoDate": "2026-08-09",
     "date": "9 Ago",
     "d": "STONED JESUS Announce New Album, Release “Velvet” Music Video rocknloadmag.com",
@@ -605,17 +605,17 @@
     "section": "buzz"
   },
   {
-    "title": "Taylor Swift shuts Trump out of her TikTok music - Aaj English TV",
-    "src": "Aaj English TV",
+    "title": "Taylor Swift shuts Trump out of her TikTok music - english.aaj.tv",
+    "src": "english.aaj.tv",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORHZ0QVJjU3NyLVd0ZG9HVlkycXhKTThpcWRwSGp5eE9tUVlxNTgzT2pvWkZzT2pFM0gzTlFDUjNLZjhGNXdNTjRBOTZqdEF2T21yeDRxcmkwZFRKcExnam82YUsweEFVREpQS2dRS08tMFNjWG55QUdBVTJIOWpTTGFBeWh6cWNmTlVoZGZOVQ?oc=5",
     "timestamp": "2026-08-09T08:40:36+00:00",
     "isoDate": "2026-08-09",
     "date": "9 Ago",
-    "d": "Taylor Swift shuts Trump out of her TikTok music Aaj English TV",
+    "d": "Taylor Swift shuts Trump out of her TikTok music english.aaj.tv",
     "category": "general",
     "sources": [
       {
-        "name": "Aaj English TV",
+        "name": "english.aaj.tv",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORHZ0QVJjU3NyLVd0ZG9HVlkycXhKTThpcWRwSGp5eE9tUVlxNTgzT2pvWkZzT2pFM0gzTlFDUjNLZjhGNXdNTjRBOTZqdEF2T21yeDRxcmkwZFRKcExnam82YUsweEFVREpQS2dRS08tMFNjWG55QUdBVTJIOWpTTGFBeWh6cWNmTlVoZGZOVQ?oc=5"
       }
     ],
@@ -697,12 +697,678 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Fly By Night: Geddy Lee Talks Feeling Neil Peart's Presence in \"Spooky\" Bird Encounter",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/fly-by-night-geddy-lee-talks-feeling-neil-pearts-presence-in-supernatural-bird-encounter",
+    "timestamp": "2026-08-09T16:24:59+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "In a recent interview, the Rush vocalist discussed feeling Peart's presence on the opening night of their current tour. The post Fly By Night: Geddy Lee Talks Feeling Neil Peart's Presence in \"Spooky\" Bird Encounter appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/fly-by-night-geddy-lee-talks-feeling-neil-pearts-presence-in-supernatural-bird-encounter"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Por que Nikki Sixx não 'acredita mais em fazer' LPs",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/motley-crue-nikki-sixx-doesnt-believe-in-making-full-length-records-anymore/",
+    "timestamp": "2026-08-09T16:17:06+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "The bassist explains why creating 'full-length records' is no longer appealing or worthwhile for him. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/motley-crue-nikki-sixx-doesnt-believe-in-making-full-length-records-anymore/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "titleOriginal": "Why Nikki Sixx Doesn't 'Believe in Making' LPs Anymore",
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Scars of Tomorrow Vocalist Mike Milford Dies Following Cancer Battle",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/rip/scars-of-tomorrow-vocalist-mike-milford-dies-following-cancer-battle",
+    "timestamp": "2026-08-09T16:12:41+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "Milford was also co-founder of management agency The Artery Foundation, manager to bands like Attila and Chelsea Grin and more. The post Scars of Tomorrow Vocalist Mike Milford Dies Following Cancer Battle appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/rip/scars-of-tomorrow-vocalist-mike-milford-dies-following-cancer-battle"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "ANTHRAX Fill-In Drummer DARBY TODD Shares 'Caught In A Mosh' Drum-Cam Video From 2026 ROCK IMPERIUM Festival",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/anthrax-fill-in-drummer-darby-todd-shares-caught-in-a-mosh-drum-cam-video-from-2026-rock-imperium-festival",
+    "timestamp": "2026-08-09T15:43:38+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "Acclaimed U.K.-based session drummer Darby Todd has shared drum-cam video of him performing \"Caught In A Mosh\" with ANTHRAX live at this year's Rock Imperium festival on July 4, 2026 in Cartagena, Spain. Todd was filling in for longtime ANTHRAX drummer Charlie Benante, who sat out nearly a dozen of...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/anthrax-fill-in-drummer-darby-todd-shares-caught-in-a-mosh-drum-cam-video-from-2026-rock-imperium-festival"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch: BEHEMOTH's NERGAL Performs Entire 'Sventevith (Storming Near The Baltic)' Album At 2026 HELLSINKI METAL FESTIVAL",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/watch-behemoths-nergal-performs-entire-sventevith-storming-near-the-baltic-album-at-2026-hellsinki-metal-festival",
+    "timestamp": "2026-08-09T15:24:29+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "Adam \"Nergal\" Darski of BEHEMOTH has joined forces with Icelandic black metal band MISÞYRMING for an exclusive 2026 live project. They are performing BEHEMOTH's 1995 debut album, \"Sventevith (Storming Near The Baltic)\", in its entirety live as a full conceptual work for the first time to mark the re...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/watch-behemoths-nergal-performs-entire-sventevith-storming-near-the-baltic-album-at-2026-hellsinki-metal-festival"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Paul Solger Reconnects With Seattle Punk Roots On ’20 Years M.I.A.’ With Duff McKagan - That Eric Alper",
+    "src": "That Eric Alper",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcnRGMDVYSjhzVUh5UTh1eGhfVWF0V25YdTZ6ZVZQZ3NTR2VtOFR2MmdjclJScDM2b2lCc0xGWXoyMklITjRYVVEtT0VhN19mR0hCY1dPc250U3VPLUhReU4xM2pCLTBjWi14Zmk5NXdHcVI4eDlJbzk2dTlMRWlNVW1lN3dKYXZPdjlCVE16aUQ1TlhHMjc0VmxwWHhWQW9meWM5SS13QVRsWkd6S1ZzdWRBSjBqX0YzNnFkaGxXRHJMQQ?oc=5",
+    "timestamp": "2026-08-09T15:12:51+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "Paul Solger Reconnects With Seattle Punk Roots On ’20 Years M.I.A.’ With Duff McKagan That Eric Alper",
+    "category": "core",
+    "sources": [
+      {
+        "name": "That Eric Alper",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcnRGMDVYSjhzVUh5UTh1eGhfVWF0V25YdTZ6ZVZQZ3NTR2VtOFR2MmdjclJScDM2b2lCc0xGWXoyMklITjRYVVEtT0VhN19mR0hCY1dPc250U3VPLUhReU4xM2pCLTBjWi14Zmk5NXdHcVI4eDlJbzk2dTlMRWlNVW1lN3dKYXZPdjlCVE16aUQ1TlhHMjc0VmxwWHhWQW9meWM5SS13QVRsWkd6S1ZzdWRBSjBqX0YzNnFkaGxXRHJMQQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "MASTODON On Personal Tragedies Which Inspired Lyrics On 'Marrow Deep': It 'Made Sense' To 'Turn These Dark Things' Into Something Bright And Beautiful'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/mastodon-on-personal-tragedies-which-inspired-lyrics-on-marrow-deep-it-made-sense-to-turn-these-dark-things-into-something-bright-and-beautiful",
+    "timestamp": "2026-08-09T14:37:05+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "During an August 6 appearance on SiriusXM's \"Trunk Nation With Eddie Trunk\", MASTODON singer/bassist Troy Sanders, drummer/vocalist Brann Dailor and guitarist Bill Kelliher spoke about the band's long-awaited new album, \"Marrow Deep\", which will arrive on August 28 via Loma Vista Recordings. The LP...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/mastodon-on-personal-tragedies-which-inspired-lyrics-on-marrow-deep-it-made-sense-to-turn-these-dark-things-into-something-bright-and-beautiful"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Geddy Lee Reveals 'Crazy' Sign of Neil Peart on Rush's 2026 Tour",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/geddy-lee-reveals-crazy-sign-neil-peart-presence-rush-fifty-something-tour/",
+    "timestamp": "2026-08-09T14:32:36+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "\"I quickly ran to the computer and was texting Al this crazy story that just had happened,\" Lee said regarding telling bandmate Alex Lifeson about the event. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/geddy-lee-reveals-crazy-sign-neil-peart-presence-rush-fifty-something-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "THREE DAYS GRACE Has 'Already Started Getting Ideas Together' For Follow-Up To 'Alienation' Album",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/three-days-grace-has-already-started-getting-ideas-together-for-follow-up-to-alienation-album",
+    "timestamp": "2026-08-09T12:59:55+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "In a new interview with the 100.3 The Bear radio station in Edmonton, Alberta, Canada, THREE DAYS GRACE vocalist Matt Walst spoke about a possible follow-up to the band's \"Alienation\" album, which arrived in August 2025 via RCA Records. He said (as transcribed by BLABBERMOUTH.NET): \"After this month...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/three-days-grace-has-already-started-getting-ideas-together-for-follow-up-to-alienation-album"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "THUNDERMOTHER To Release New Album, 'Mothers Of Thunder', In February 2027; First Single 'Bimbo Boost' To Arrive In September",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/thundermother-to-release-new-album-mothers-of-thunder-in-february-2027-first-single-bimbo-boost-to-arrive-in-september",
+    "timestamp": "2026-08-09T12:36:06+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "In an interview with The Adventures Of Pipeman conducted at this month's Wacken Open Air festival in Wacken, Germany, guitarist Filippa Nässil and vocalist Linnéa Vikström Egg of Swedish rock and rollers THUNDERMOTHER revealed that their new album will be titled \"Mothers Of Thunder\" and will be rele...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/thundermother-to-release-new-album-mothers-of-thunder-in-february-2027-first-single-bimbo-boost-to-arrive-in-september"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Take a first look inside Leeds’ major new revamped music venue TESTBED",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/take-a-first-look-inside-leeds-major-new-revamped-music-venue-testbed-3961608?utm_source=rss&utm_medium=rss&utm_campaign=take-a-first-look-inside-leeds-major-new-revamped-music-venue-testbed",
+    "timestamp": "2026-08-09T16:29:20+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "The overhaul includes an immersive 360-degree crowd setup around a DJ booth The post Take a first look inside Leeds’ major new revamped music venue TESTBED appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/take-a-first-look-inside-leeds-major-new-revamped-music-venue-testbed-3961608?utm_source=rss&utm_medium=rss&utm_campaign=take-a-first-look-inside-leeds-major-new-revamped-music-venue-testbed"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Beabadoobee Debuts New Song “Pylon” At Red Rocks",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2507758/beabadoobee-debuts-new-song-pylon-at-red-rocks/news/",
+    "timestamp": "2026-08-09T16:14:20+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "Next month, Beabadoobee is releasing her collab-heavy album Pylon . On Friday at Red Rocks, she performed tracks — both released and unreleased — from the forthcoming new album. The post Beabadoobee Debuts New Song “Pylon” At Red Rocks appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2507758/beabadoobee-debuts-new-song-pylon-at-red-rocks/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Taylor Swift Gets Her Songs Muted On Donald Trump’s Troll TikToks",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2507725/taylor-swift-gets-her-songs-muted-on-donald-trumps-troll-tiktoks/news/",
+    "timestamp": "2026-08-09T16:03:11+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "The TikTok account Team Trump was launched by Donald Trump's campaign in late July 2024 and has used audio of Taylor Swift tracks, among other popular songs, since at least last year. Now Swift's team appears to have finally taken action. The post Taylor Swift Gets Her Songs Muted On Donald Trump’s Troll TikToks appear",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2507725/taylor-swift-gets-her-songs-muted-on-donald-trumps-troll-tiktoks/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Family of Robert Carradine Sues UCLA Hospital Leaders After Actor’s Death: Reports",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/robert-carradine-family-sues-ucla/",
+    "timestamp": "2026-08-09T15:37:59+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "The actor's family claimed a psychiatric facility's actions constituted elder abuse, neglect, and led to Carradine’s wrongful death. Family of Robert Carradine Sues UCLA Hospital Leaders After Actor’s Death: Reports Travis Bland",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/robert-carradine-family-sues-ucla/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Fans complain after Fugees set cut short at Lauryn Hill’s Diaspora Calling! festival: “The ending was ridiculous and spoiled the whole experience”",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/fans-complain-after-fugees-set-cut-short-at-lauryn-hills-diaspora-calling-festival-the-ending-was-ridiculous-and-spoiled-the-whole-experience-3961598?utm_source=rss&utm_medium=rss&utm_campaign=fans-complain-after-fugees-set-cut-short-at-lauryn-hills-diaspora-calling-festival-the-ending-was-ridiculous-and-spoiled-the-whole-experience",
+    "timestamp": "2026-08-09T15:27:45+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "Hill and Wyclef Jean reunited for the event on Friday (August 7) alongside Erykah Badu and Giggs The post Fans complain after Fugees set cut short at Lauryn Hill’s Diaspora Calling! festival: “The ending was ridiculous and spoiled the whole experience” appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/fans-complain-after-fugees-set-cut-short-at-lauryn-hills-diaspora-calling-festival-the-ending-was-ridiculous-and-spoiled-the-whole-experience-3961598?utm_source=rss&utm_medium=rss&utm_campaign=fans-complain-after-fugees-set-cut-short-at-lauryn-hills-diaspora-calling-festival-the-ending-was-ridiculous-and-spoiled-the-whole-experience"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Julien Baker Joins Lucy Dacus For “Bullseye” At Outside Lands",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2507752/julien-baker-joins-lucy-dacus-for-bullseye-at-outside-lands/news/",
+    "timestamp": "2026-08-09T15:09:52+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "Yesterday, during the second day of the Outside Lands festival at Golden Gate Park in San Francisco, California, Lucy Dacus got some help from her fellow boygenius bandmate Julien Baker to perform “Bullseye,” from her 2025 album Forever Is a Feeling . The post Julien Baker Joins Lucy Dacus For “Bullseye” At Outside Lan",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2507752/julien-baker-joins-lucy-dacus-for-bullseye-at-outside-lands/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Limpopo Boy: \"This video is stolen content.\" Social media erupts! - Briefly News",
+    "src": "Briefly News",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU0hKSDBMVldqdWphM0dWbmVrcElMY3d3VllBTDQ3Z01VVmtVUWpFc2dlajZfUlRlQW0xNks0MUluTGE1M3FGNmtfbm1raE9vQTdkMGhXZHB6WjNaUlN6WHgyWTZDMzNJTXRhcUNfejZaXzN5Y0dBa1F4Q081S0pmRjg0X0FZMFY2VGxEOGxrYkY3MTFDOXRwREdqZkhZQUJmRTR3b2I3V3AydTZlUk9vNlItQmFhRWg1SEtVZ250Q0lESTFaMGJZSlBR?oc=5",
+    "timestamp": "2026-08-09T15:04:11+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "Limpopo Boy: \"This video is stolen content.\" Social media erupts! Briefly News",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Briefly News",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU0hKSDBMVldqdWphM0dWbmVrcElMY3d3VllBTDQ3Z01VVmtVUWpFc2dlajZfUlRlQW0xNks0MUluTGE1M3FGNmtfbm1raE9vQTdkMGhXZHB6WjNaUlN6WHgyWTZDMzNJTXRhcUNfejZaXzN5Y0dBa1F4Q081S0pmRjg0X0FZMFY2VGxEOGxrYkY3MTFDOXRwREdqZkhZQUJmRTR3b2I3V3AydTZlUk9vNlItQmFhRWg1SEtVZ250Q0lESTFaMGJZSlBR?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Fontaines D.C. Debut New Songs “Marianne” & “Six Shot Morning” In Cádiz Live Return",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2507743/fontaines-d-c-debut-new-songs-marianne-six-shot-morning-in-cadiz-live-return/news/",
+    "timestamp": "2026-08-09T14:42:24+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "Fontaines D.C. have been laying low since releasing and touring 2024’s Romance . In the meantime, they’ve contributed to several major projects, including the Peaky Blinders soundtrack and the War Child compilation HELP(2) . Late last month, they also recorded the final BBC session at Maida Vale Studios, where they per",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2507743/fontaines-d-c-debut-new-songs-marianne-six-shot-morning-in-cadiz-live-return/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Strokes Bring Out Charli xcx at Outside Lands for “Take It or Leave It”: Watch",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/the-strokes-with-charli-xcx-outside-lands/",
+    "timestamp": "2026-08-09T14:19:11+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "The British pop star and New York band joked about how they released albums on the same day in July. The Strokes Bring Out Charli xcx at Outside Lands for “Take It or Leave It”: Watch Travis Bland",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/the-strokes-with-charli-xcx-outside-lands/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Charli XCX Joins The Strokes At Outside Lands",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2507735/charli-xcx-joins-the-strokes-at-outside-lands/news/",
+    "timestamp": "2026-08-09T14:03:20+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "Last night was a big one for Auto-Tune lovers. Charli xcx joined the Strokes during their headline set at Outside Lands to perform “Take It Or Leave It” from 2001’s Is This It . Charli headlined the festival the night before. The post Charli XCX Joins The Strokes At Outside Lands appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2507735/charli-xcx-joins-the-strokes-at-outside-lands/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Role Model on His New Album, Working with Dakota Johnson -- and a Possible Name Change - Rolling Stone",
+    "src": "Rolling Stone",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMFdTZENGWEduTHFva3pXUVdpUkhiYl9rYXpBekc1bFJFVl9UajZiMGtvNmllVDdBNURkMXFCeTZKU3ZsNjFjLTNYcmp0cVEtUE5KdTFERElXLWQ4QzM0QlMzNERTMWZtdC1hdGRxOURaeXg3YkFpX0Z0U0tWUGpwNDREckpSdUduQ041VklCWEh5SUtxUE93NGJuelluUVpwRXFKWjF3TXhBS3c?oc=5",
+    "timestamp": "2026-08-09T14:01:00+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "Role Model on His New Album, Working with Dakota Johnson -- and a Possible Name Change Rolling Stone",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Rolling Stone",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMFdTZENGWEduTHFva3pXUVdpUkhiYl9rYXpBekc1bFJFVl9UajZiMGtvNmllVDdBNURkMXFCeTZKU3ZsNjFjLTNYcmp0cVEtUE5KdTFERElXLWQ4QzM0QlMzNERTMWZtdC1hdGRxOURaeXg3YkFpX0Z0U0tWUGpwNDREckpSdUduQ041VklCWEh5SUtxUE93NGJuelluUVpwRXFKWjF3TXhBS3c?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Drake Barks for Goth Girl",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/drake-barks-for-goth-girl/",
+    "timestamp": "2026-08-09T14:00:42+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "The rapper hosted a 20-v-1 dating-show to celebrate the ninth anniversary of Stake, the online crypto casino he is affiliated with. Drake Barks for Goth Girl Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/drake-barks-for-goth-girl/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Music Briefs: Weezer to tour after album release - Charlotte Media Group",
+    "src": "Charlotte Media Group",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNWh0bVJUdEYxTVZCeHpRLTB1NXo2QWxHUUdWNjB4LU9uRlAxRlppNEJsU0ZwZlVGeEJ2UVpDYkNLd1EyeHBac2RNdFF4eDkxR3hndGtGSW1LRnJSalZla1pUX0JndmlKbnlJSEVqeF9EYl94SmRQQUhLUFdGUlJKcW9zN0NUSzlzbC1fOWJfT3oxekl4RmtiTUdzaVk3dl9lWUJ3R0dnRjFaT2g1emNHUGFqc2ctN0FBRTQxYVRWWExxV2N1SlN1VURnU0pmYTB3dWh5SEhzV1ZvR09iT3U3Vw?oc=5",
+    "timestamp": "2026-08-09T13:15:00+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "Music Briefs: Weezer to tour after album release Charlotte Media Group",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Charlotte Media Group",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNWh0bVJUdEYxTVZCeHpRLTB1NXo2QWxHUUdWNjB4LU9uRlAxRlppNEJsU0ZwZlVGeEJ2UVpDYkNLd1EyeHBac2RNdFF4eDkxR3hndGtGSW1LRnJSalZla1pUX0JndmlKbnlJSEVqeF9EYl94SmRQQUhLUFdGUlJKcW9zN0NUSzlzbC1fOWJfT3oxekl4RmtiTUdzaVk3dl9lWUJ3R0dnRjFaT2g1emNHUGFqc2ctN0FBRTQxYVRWWExxV2N1SlN1VURnU0pmYTB3dWh5SEhzV1ZvR09iT3U3Vw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Município português aposta na educação musical - The Portugal News",
+    "src": "The Portugal News",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFpnMUhJNi1lX3JzWm5jOFVjRXZFSXRGTU9xOFdlYWZNUnNvY3FBZm5IRzhVZUFZWEFQcHN1V0VEdS00eGxGT2lVYUNfOURlNjNrbVNqUzhkOHpWeUs5MlE4cHV1MFpUdDExTmpnbUxwRG13SDZjek1HQlJaYUFCdzBtNElhRzNTN1FsY0k1cmhSdFFaWHZHMTZOaFUyeXdoVEFyMHgtQ3hoT2Ra?oc=5",
+    "timestamp": "2026-08-09T14:27:33+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "Município português aposta na educação musical The Portugal News",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "The Portugal News",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFpnMUhJNi1lX3JzWm5jOFVjRXZFSXRGTU9xOFdlYWZNUnNvY3FBZm5IRzhVZUFZWEFQcHN1V0VEdS00eGxGT2lVYUNfOURlNjNrbVNqUzhkOHpWeUs5MlE4cHV1MFpUdDExTmpnbUxwRG13SDZjek1HQlJaYUFCdzBtNElhRzNTN1FsY0k1cmhSdFFaWHZHMTZOaFUyeXdoVEFyMHgtQ3hoT2Ra?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
     "isBreaking": true,
     "isPT": true,
     "isCore": false,
     "star": true,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Sandra&Ricardo regressam à Ribeira Brava para celebrar música, raízes e emigração - SAPO",
+    "src": "SAPO",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSlRSU0xKYlVUcDRUSUcyQzJUQng2bkN5OUNpd1U0TFNsZjlZTEFQN1NlempqakRNOTFkcnB3ZWlUZW90Q1YwNkdtOGdfZXlkMXFlRU9oam56Znpic044Q1QtSGF6ejNfVWVFR1hGNnU1WlNwWnRLUTFQa1NnR1RmNEUteS1UUVNpNGU5RHFBQ1lRTWtvbW0xVjZKM0J0YjlwOHNTclg1SlBsNkRfakdDaWRRek9lVm41blRrUVlJbi1EZFQxSkhN?oc=5",
+    "timestamp": "2026-08-09T13:44:01+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "Sandra&Ricardo regressam à Ribeira Brava para celebrar música, raízes e emigração SAPO",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "SAPO",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSlRSU0xKYlVUcDRUSUcyQzJUQng2bkN5OUNpd1U0TFNsZjlZTEFQN1NlempqakRNOTFkcnB3ZWlUZW90Q1YwNkdtOGdfZXlkMXFlRU9oam56Znpic044Q1QtSGF6ejNfVWVFR1hGNnU1WlNwWnRLUTFQa1NnR1RmNEUteS1UUVNpNGU5RHFBQ1lRTWtvbW0xVjZKM0J0YjlwOHNTclg1SlBsNkRfakdDaWRRek9lVm41blRrUVlJbi1EZFQxSkhN?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Sobe à Vila: Paredes de Coura recebe os habituais concertos gratuitos antes do festival",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/sobe-a-vila-paredes-de-coura-recebe-os-habituais-concertos-gratuitos-antes-do-festival-horarios/",
+    "timestamp": "2026-08-09T10:23:22+00:00",
+    "isoDate": "2026-08-09",
+    "date": "9 Ago",
+    "d": "%featured_image% Entre 9 e 11 de agosto, o Palco do Sobe à Vila recebe nomes como Summer of Hate, Hetta, Alex Moon, Colinas e Nunca Mates o Mandarim, com três noites de concertos gratuitos no centro de Paredes de Coura, antes do arranque do festival principal. Confere os horários.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/sobe-a-vila-paredes-de-coura-recebe-os-habituais-concertos-gratuitos-antes-do-festival-horarios/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Vauruvã",
+    "t": "Mar da Deriva [Things You Might Have Missed 2025]",
+    "src": "Angry Metal Guy",
+    "date": "9 Ago",
+    "isoDate": "2026-08-09",
+    "timestamp": "2026-08-09T13:19:47+00:00",
+    "url": "https://www.angrymetalguy.com/vauruva-mar-da-deriva-things-you-might-have-missed-2025/",
+    "d": "\"Folky black metal enjoyed much success in 2025. February alone held an embarrassment of riches, offering delicacies from Scotland ( Saor ), Siberia ( Grima ), and Finland ( Havukruunu ). In August, Sgah'gahsowáh dropped the much-hyped Blackbraid III , continu",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "vauruva|mar da deriva things you might have missed 2025",
+    "kind": "review",
+    "section": "rev"
   },
   {
     "title": "Joe Keithley's tireless punk rock work ethic is a perfect match for politics - The Georgia Straight",
@@ -805,17 +1471,17 @@
     "section": "news"
   },
   {
-    "title": "Interview: Cancer Bats founder still loves it loud and hard - NEXT Magazine",
-    "src": "NEXT Magazine",
+    "title": "Interview: Cancer Bats founder still loves it loud and hard - nextmag.ca",
+    "src": "nextmag.ca",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU093SEFSbHkyWllwQXZROEZMcGphSDMzYXVfelpYcTZfaThnWkxXRDNTMU5lSGR0ZGltVFpKRkw0eDIwWkNORlhiQXhGcFVmZ3pUb0Jkdkc4dXg2aUxGMEVxa0lhaHNYdkNFYVFBT25fZllQMktPdHdIMW1IR0ZIN0dtZms?oc=5",
     "timestamp": "2026-08-08T00:06:27+00:00",
     "isoDate": "2026-08-08",
     "date": "8 Ago",
-    "d": "Interview: Cancer Bats founder still loves it loud and hard NEXT Magazine",
+    "d": "Interview: Cancer Bats founder still loves it loud and hard nextmag.ca",
     "category": "core",
     "sources": [
       {
-        "name": "NEXT Magazine",
+        "name": "nextmag.ca",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU093SEFSbHkyWllwQXZROEZMcGphSDMzYXVfelpYcTZfaThnWkxXRDNTMU5lSGR0ZGltVFpKRkw0eDIwWkNORlhiQXhGcFVmZ3pUb0Jkdkc4dXg2aUxGMEVxa0lhaHNYdkNFYVFBT25fZllQMktPdHdIMW1IR0ZIN0dtZms?oc=5"
       }
     ],
@@ -1210,17 +1876,17 @@
     "section": "pt"
   },
   {
-    "title": "Milhares vibram no Algarve ao som de Kanye West (Ye) no 'topo do mundo' - CNN Portugal",
-    "src": "CNN Portugal",
+    "title": "Milhares vibram no Algarve ao som de Kanye West (Ye) no 'topo do mundo' - cnnportugal.iol.pt",
+    "src": "cnnportugal.iol.pt",
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQkNtV1lMQ01Ua0V1UURfbUpZTEVINFF5cy1ZWWJGMks0SGd3MzdCQ1VVWGFXY1YyNjR6YmNPMHFFR1NXc082SGZqSEpMd2FFTG4zTGxVVUJ3aDJKZ2ZVSm94Sk5fRFotSi03LXNmLWlYZVhnSjRuR0p3bTlhNjJwYmxvTllLcnUya193WE52ZzIyQ1FMZVc3TnhSVFdzUEgzcl83azkyeTVYaC1vQzNaU1BqMGlYcGg0VUg5aWxYUUdzT2VDQWhNZTlHYkQtWks5RlRQY3B0S3I3QWVGYXZmbV9RU3BRUXlNdU1TNkFR?oc=5",
     "timestamp": "2026-08-08T07:12:00+00:00",
     "isoDate": "2026-08-08",
     "date": "8 Ago",
-    "d": "Milhares vibram no Algarve ao som de Kanye West (Ye) no 'topo do mundo' CNN Portugal",
+    "d": "Milhares vibram no Algarve ao som de Kanye West (Ye) no 'topo do mundo' cnnportugal.iol.pt",
     "category": "pt",
     "sources": [
       {
-        "name": "CNN Portugal",
+        "name": "cnnportugal.iol.pt",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQkNtV1lMQ01Ua0V1UURfbUpZTEVINFF5cy1ZWWJGMks0SGd3MzdCQ1VVWGFXY1YyNjR6YmNPMHFFR1NXc082SGZqSEpMd2FFTG4zTGxVVUJ3aDJKZ2ZVSm94Sk5fRFotSi03LXNmLWlYZVhnSjRuR0p3bTlhNjJwYmxvTllLcnUya193WE52ZzIyQ1FMZVc3TnhSVFdzUEgzcl83azkyeTVYaC1vQzNaU1BqMGlYcGg0VUg5aWxYUUdzT2VDQWhNZTlHYkQtWks5RlRQY3B0S3I3QWVGYXZmbV9RU3BRUXlNdU1TNkFR?oc=5"
       }
     ],
@@ -3279,17 +3945,142 @@
     "section": "pt"
   },
   {
-    "title": "Interviews: Crush Fund talk their debut album 'GO' - Punknews.org",
-    "src": "Punknews.org",
+    "title": "Killer Mike Confirms Second André 3000 Collab Is 'Absolutely' Still Coming - Complex",
+    "src": "Complex",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPamo0WE04VXJjWDB3U1NvRlVoNU9KQ0VZQTNRbk5rQ2NNY1gtVnFsX2pudjRlQmpLLWpmbkplUllPcEpLNmlPMDNZMDdHY3NjaEF1WGpSQ01TcmhmMDlQZU9acUx1c0c0LV9GMkYwY1Brd3lSeW9lU2tpUFhqRVVzZGtrTjBvTWswMTY4M0xR?oc=5",
+    "timestamp": "2026-08-08T17:08:28+00:00",
+    "isoDate": "2026-08-08",
+    "date": "8 Ago",
+    "d": "Killer Mike Confirms Second André 3000 Collab Is 'Absolutely' Still Coming Complex",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Complex",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPamo0WE04VXJjWDB3U1NvRlVoNU9KQ0VZQTNRbk5rQ2NNY1gtVnFsX2pudjRlQmpLLWpmbkplUllPcEpLNmlPMDNZMDdHY3NjaEF1WGpSQ01TcmhmMDlQZU9acUx1c0c0LV9GMkYwY1Brd3lSeW9lU2tpUFhqRVVzZGtrTjBvTWswMTY4M0xR?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Junior Andre to release new music - Yahoo Lifestyle Canada",
+    "src": "Yahoo Lifestyle Canada",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yM280STRoQnBTQWMzbmp5MnZ2SUFJYkRUaXZzYkp5b211Q1ZTT1RjamZ6VWNWWV9TaVYxVkx6YXB3Rng0U1VwaFI0SGpxRG96eTY1TkxGSlVienZpZ2VEanozNFMtejBWWU5TMmFobGlJRFZCVExZ?oc=5",
+    "timestamp": "2026-08-08T14:00:00+00:00",
+    "isoDate": "2026-08-08",
+    "date": "8 Ago",
+    "d": "Junior Andre to release new music Yahoo Lifestyle Canada",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Yahoo Lifestyle Canada",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yM280STRoQnBTQWMzbmp5MnZ2SUFJYkRUaXZzYkp5b211Q1ZTT1RjamZ6VWNWWV9TaVYxVkx6YXB3Rng0U1VwaFI0SGpxRG96eTY1TkxGSlVienZpZ2VEanozNFMtejBWWU5TMmFobGlJRFZCVExZ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "\"She brought thugs\": 2Baba, wife Natasha reportedly clash at Abuja event - Legit News",
+    "src": "Legit News",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUTZYTVdzeHN5ckFPR0NVM0V3ZE5WRlBEWXZHSm1oWERjYkI2WHRNUEtZU19kUGJVZEpFdzZvQlU5d1dtakwwRkw3N2tzVFVxMVlBWjBIQjdYdV8wT2R0dUw4b19rLVl3TDhlTnVJUG1kLS1qOFFpQmFUT0ZLRTNOdWZqdjRuTy11UFZHb3lHS0poUHJaQ1JQWV9DdmhMTkRmejJFNC1wX2RHUGh4ZWMzajVfN1FzdGZvbFhCaA?oc=5",
+    "timestamp": "2026-08-08T10:05:40+00:00",
+    "isoDate": "2026-08-08",
+    "date": "8 Ago",
+    "d": "\"She brought thugs\": 2Baba, wife Natasha reportedly clash at Abuja event Legit News",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Legit News",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUTZYTVdzeHN5ckFPR0NVM0V3ZE5WRlBEWXZHSm1oWERjYkI2WHRNUEtZU19kUGJVZEpFdzZvQlU5d1dtakwwRkw3N2tzVFVxMVlBWjBIQjdYdV8wT2R0dUw4b19rLVl3TDhlTnVJUG1kLS1qOFFpQmFUT0ZLRTNOdWZqdjRuTy11UFZHb3lHS0poUHJaQ1JQWV9DdmhMTkRmejJFNC1wX2RHUGh4ZWMzajVfN1FzdGZvbFhCaA?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Terceiro dia do Festival de Música Portuguesa «Bons Sons» - The Portugal News",
+    "src": "The Portugal News",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3daQnNWUVpac2txTUMzXzMtZlhPZzFZcjRSOGg3eXlTZTkzVWhjcXhnYVBaZUNiSk9ZVDZ6MnFlN0lOaVRoT0lKdWd3anBLLVZfd1hWTjgwY1I5LUpyTzI0VV93Q3JtNHhtUThEVmppeVdjS2dKakZtbWcwR0oySmotLWJvYXNvRVdwcDY1a2trZ21IWGs5YmRFamdJNHJoVVpPanBUMnl5RVlZYTMzalVXM0g4WDlWMnc?oc=5",
+    "timestamp": "2026-08-08T07:00:00+00:00",
+    "isoDate": "2026-08-08",
+    "date": "8 Ago",
+    "d": "Terceiro dia do Festival de Música Portuguesa «Bons Sons» The Portugal News",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "The Portugal News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3daQnNWUVpac2txTUMzXzMtZlhPZzFZcjRSOGg3eXlTZTkzVWhjcXhnYVBaZUNiSk9ZVDZ6MnFlN0lOaVRoT0lKdWd3anBLLVZfd1hWTjgwY1I5LUpyTzI0VV93Q3JtNHhtUThEVmppeVdjS2dKakZtbWcwR0oySmotLWJvYXNvRVdwcDY1a2trZ21IWGs5YmRFamdJNHJoVVpPanBUMnl5RVlZYTMzalVXM0g4WDlWMnc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Dia Três do Festival de Música Portuguesa Bons Sons - The Portugal News",
+    "src": "The Portugal News",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2VTdEt4N0VySzhFNzk3M0JXakZhU1JtaDlaeFdDWHdKclFqZ1puNWFNVkdpU1FWejgyYm1iNjF1YnBYMXd4elhsN3Z4b0dYVjc5b2FTYnhDaVJQdEtZcmJBMTdzNFhJZi1OMDdJNWRUMkFuNndyX0Q3cWxxVHlhQXIxMEJUVGx4WEZta0doU1ZNQ0J0N3VzdDZrM2swb1BtRVQ3YjRVdE1hd0g1enM1RkVITUg?oc=5",
+    "timestamp": "2026-08-08T07:00:00+00:00",
+    "isoDate": "2026-08-08",
+    "date": "8 Ago",
+    "d": "Dia Três do Festival de Música Portuguesa Bons Sons The Portugal News",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "The Portugal News",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2VTdEt4N0VySzhFNzk3M0JXakZhU1JtaDlaeFdDWHdKclFqZ1puNWFNVkdpU1FWejgyYm1iNjF1YnBYMXd4elhsN3Z4b0dYVjc5b2FTYnhDaVJQdEtZcmJBMTdzNFhJZi1OMDdJNWRUMkFuNndyX0Q3cWxxVHlhQXIxMEJUVGx4WEZta0doU1ZNQ0J0N3VzdDZrM2swb1BtRVQ3YjRVdE1hd0g1enM1RkVITUg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Interviews: Crush Fund talk their debut album 'GO' - punknews.org",
+    "src": "punknews.org",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeHZhakM2ZFRoNmd0RlBhYzN3ZFI1LUJoZHUyNEJhNGVtUnBSWGRGcHk0Q2tla0RVOE0tQWRiQzdDZVdwdWMxak5jVFZ6b3NNcE0xSHF6a3VTTV9EMFZiMnZWTXBHY3N5SlpVQTVfZndJUWVjdzZONlAwVTUxRXdyUi1YWDdxeFNXQ2dXQ3Nkdw?oc=5",
     "timestamp": "2026-08-07T21:00:01+00:00",
     "isoDate": "2026-08-07",
     "date": "7 Ago",
-    "d": "Interviews: Crush Fund talk their debut album 'GO' Punknews.org",
+    "d": "Interviews: Crush Fund talk their debut album 'GO' punknews.org",
     "category": "core",
     "sources": [
       {
-        "name": "Punknews.org",
+        "name": "punknews.org",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeHZhakM2ZFRoNmd0RlBhYzN3ZFI1LUJoZHUyNEJhNGVtUnBSWGRGcHk0Q2tla0RVOE0tQWRiQzdDZVdwdWMxak5jVFZ6b3NNcE0xSHF6a3VTTV9EMFZiMnZWTXBHY3N5SlpVQTVfZndJUWVjdzZONlAwVTUxRXdyUi1YWDdxeFNXQ2dXQ3Nkdw?oc=5"
       }
     ],
@@ -3371,17 +4162,17 @@
     "section": "buzz"
   },
   {
-    "title": "Interviews: In conversation with Avalon Alexandra of Terminator - Punknews.org",
-    "src": "Punknews.org",
+    "title": "Interviews: In conversation with Avalon Alexandra of Terminator - punknews.org",
+    "src": "punknews.org",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdlk0NlhvVU5pSGpHVmdZeWVSbVdHNEdBWXluSmFSZkVqelBWVG5WOEhYVl9yZ1kxVzdndEVFUkRfOXhVTUtYQWNucVFIei13TnhmQnpaeHliSkV5Mk5JdzFWSWp6VlFKQ0lnczFINW9RWjBkMUZ5VGI5RThyQ0pRV0loOTJOSzVRdDlrejY0eUE2RF84enAzSmduY3R0YVJCLXdZ?oc=5",
     "timestamp": "2026-08-07T09:03:46+00:00",
     "isoDate": "2026-08-07",
     "date": "7 Ago",
-    "d": "Interviews: In conversation with Avalon Alexandra of Terminator Punknews.org",
+    "d": "Interviews: In conversation with Avalon Alexandra of Terminator punknews.org",
     "category": "core",
     "sources": [
       {
-        "name": "Punknews.org",
+        "name": "punknews.org",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdlk0NlhvVU5pSGpHVmdZeWVSbVdHNEdBWXluSmFSZkVqelBWVG5WOEhYVl9yZ1kxVzdndEVFUkRfOXhVTUtYQWNucVFIei13TnhmQnpaeHliSkV5Mk5JdzFWSWp6VlFKQ0lnczFINW9RWjBkMUZ5VGI5RThyQ0pRV0loOTJOSzVRdDlrejY0eUE2RF84enAzSmduY3R0YVJCLXdZ?oc=5"
       }
     ],
@@ -5267,17 +6058,17 @@
     "section": "news"
   },
   {
-    "title": "CNHC Fest 2026 traces the people, cities and work behind Chinese hardcore - idioteq.com",
-    "src": "idioteq.com",
+    "title": "CNHC Fest 2026 traces the people, cities and work behind Chinese hardcore - IDIOTEQ.com",
+    "src": "IDIOTEQ.com",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaTd6MXk1NXgtaEllbUVwWTVBMnlYLWdCU2FPVVAxdmFSQkRCSGRzd2JSSVVjbEU2WHNBaGV6by1yempZRmFtbld2VXBieDc5M3ZlbE1lUFUwS3dIaU9OeUdpLW1rcUZobUNhZThJbTZTdWVGbElyS0hpTHNvVk43MWZEM1FZaDlvNkxCa2lXTkJmYndDN3dnZQ?oc=5",
     "timestamp": "2026-08-07T14:24:51+00:00",
     "isoDate": "2026-08-07",
     "date": "7 Ago",
-    "d": "CNHC Fest 2026 traces the people, cities and work behind Chinese hardcore idioteq.com",
+    "d": "CNHC Fest 2026 traces the people, cities and work behind Chinese hardcore IDIOTEQ.com",
     "category": "core",
     "sources": [
       {
-        "name": "idioteq.com",
+        "name": "IDIOTEQ.com",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaTd6MXk1NXgtaEllbUVwWTVBMnlYLWdCU2FPVVAxdmFSQkRCSGRzd2JSSVVjbEU2WHNBaGV6by1yempZRmFtbld2VXBieDc5M3ZlbE1lUFUwS3dIaU9OeUdpLW1rcUZobUNhZThJbTZTdWVGbElyS0hpTHNvVk43MWZEM1FZaDlvNkxCa2lXTkJmYndDN3dnZQ?oc=5"
       }
     ],
@@ -5517,17 +6308,17 @@
     "section": "news"
   },
   {
-    "title": "FOLLOWING SEAS reconnect after twenty years for a self-titled Birmingham hardcore EP - idioteq.com",
-    "src": "idioteq.com",
+    "title": "FOLLOWING SEAS reconnect after twenty years for a self-titled Birmingham hardcore EP - IDIOTEQ.com",
+    "src": "IDIOTEQ.com",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOUUyeE5yUVNmYVcwSjhWMTZ2RmtTU20tVXJrWXZUUDl0X3JWMnBrYTI5MzF1RWU3Y2s4aGV6d19CVW5TLTVxOENUanNaekFzVG5tbEtyTGlwT19na01GZFlPOS1VQ1VYWUFLcEJ4VzVKWG1yN1pwdmRXOFljejQ2UmJudkl4Tk9zMGdqQ2hBc1pzUWwxR0wxTk1mRHFuRHFFSjlSSUR4bjc?oc=5",
     "timestamp": "2026-08-07T13:25:40+00:00",
     "isoDate": "2026-08-07",
     "date": "7 Ago",
-    "d": "FOLLOWING SEAS reconnect after twenty years for a self-titled Birmingham hardcore EP idioteq.com",
+    "d": "FOLLOWING SEAS reconnect after twenty years for a self-titled Birmingham hardcore EP IDIOTEQ.com",
     "category": "core",
     "sources": [
       {
-        "name": "idioteq.com",
+        "name": "IDIOTEQ.com",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOUUyeE5yUVNmYVcwSjhWMTZ2RmtTU20tVXJrWXZUUDl0X3JWMnBrYTI5MzF1RWU3Y2s4aGV6d19CVW5TLTVxOENUanNaekFzVG5tbEtyTGlwT19na01GZFlPOS1VQ1VYWUFLcEJ4VzVKWG1yN1pwdmRXOFljejQ2UmJudkl4Tk9zMGdqQ2hBc1pzUWwxR0wxTk1mRHFuRHFFSjlSSUR4bjc?oc=5"
       }
     ],
@@ -5617,17 +6408,17 @@
     "section": "news"
   },
   {
-    "title": "BAD TO WORSE drops new album, reworks Green Day’s “Jaded” into a straight hardcore banger - idioteq.com",
-    "src": "idioteq.com",
+    "title": "BAD TO WORSE drops new album, reworks Green Day’s “Jaded” into a straight hardcore banger - IDIOTEQ.com",
+    "src": "IDIOTEQ.com",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaDBFX0NYV0tkY2ZXWENJSlR3d2dLeC13cmJEamxJN01FcEtNYlU3ajNwcmxFcUZIbDJvazl0VGEzeGN3Vi1MYnpXOWNQQXMycmxpVk5UQWwza2lnUkMySXFzdzhZNnU3dC1ISnlURHV3YXlPUW50bUNNTzJyaU9jMUQwMG1QOUZkRjY5NGRzemNuelBy?oc=5",
     "timestamp": "2026-08-07T12:54:30+00:00",
     "isoDate": "2026-08-07",
     "date": "7 Ago",
-    "d": "BAD TO WORSE drops new album, reworks Green Day’s “Jaded” into a straight hardcore banger idioteq.com",
+    "d": "BAD TO WORSE drops new album, reworks Green Day’s “Jaded” into a straight hardcore banger IDIOTEQ.com",
     "category": "core",
     "sources": [
       {
-        "name": "idioteq.com",
+        "name": "IDIOTEQ.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaDBFX0NYV0tkY2ZXWENJSlR3d2dLeC13cmJEamxJN01FcEtNYlU3ajNwcmxFcUZIbDJvazl0VGEzeGN3Vi1MYnpXOWNQQXMycmxpVk5UQWwza2lnUkMySXFzdzhZNnU3dC1ISnlURHV3YXlPUW50bUNNTzJyaU9jMUQwMG1QOUZkRjY5NGRzemNuelBy?oc=5"
       }
     ],
@@ -6510,10 +7301,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -7237,17 +8028,17 @@
     "section": "news"
   },
   {
-    "title": "EP REVIEW: Stimpy – DazGak! - distortedsoundmag.com",
-    "src": "distortedsoundmag.com",
+    "title": "EP REVIEW: Stimpy – DazGak! - Distorted Sound Magazine -",
+    "src": "Distorted Sound Magazine -",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RMjBCSVZYaklkTjY2bm9TSElMZmQ0YWJfOUNIbGh4aXRDTmo4UFNRc202bXp0b2VWSlYtZ3UtUm9oRkFYODY4ei1mck5YYVBiVXBYcUNPZFZwem4yRDBOaURVRkQ?oc=5",
     "timestamp": "2026-08-07T19:27:04+00:00",
     "isoDate": "2026-08-07",
     "date": "7 Ago",
-    "d": "EP REVIEW: Stimpy – DazGak! distortedsoundmag.com",
+    "d": "EP REVIEW: Stimpy – DazGak! Distorted Sound Magazine -",
     "category": "core",
     "sources": [
       {
-        "name": "distortedsoundmag.com",
+        "name": "Distorted Sound Magazine -",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RMjBCSVZYaklkTjY2bm9TSElMZmQ0YWJfOUNIbGh4aXRDTmo4UFNRc202bXp0b2VWSlYtZ3UtUm9oRkFYODY4ei1mck5YYVBiVXBYcUNPZFZwem4yRDBOaURVRkQ?oc=5"
       }
     ],
@@ -7763,17 +8554,17 @@
     "section": "core"
   },
   {
-    "title": "Lançamentos de rock e metal da semana: Anthrax, Foo Fighters, ACCEPT e mais - Wikimetal",
-    "src": "Wikimetal",
+    "title": "Lançamentos de rock e metal da semana: Anthrax, Foo Fighters, ACCEPT e mais - wikimetal.com.br",
+    "src": "wikimetal.com.br",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObmdBX05SY2pjX3hqay1mSm1Tc3FhMlA5M3BBOU5NMVF4dTNaTFA2WVBBYURlWEhIUGVSdlVWanlpR3dfWE5zUl9qRzhhMEgxMUtXbUZFdkg1MDdqY08yZDdYbmFiNUlmaUd6Mm5QWFFtVFRyYUxQc1V4eDRrMC0temZteG9ucG9pMk5OQm91eVl4MHpyUmx4X2lCQ25meWvSAZgBQVVfeXFMUHZYUXp2blRQSG9LdDBGcERWS2MzWHo0SkczLUZQV0dkeDl4aEVkMlZnejNjVVgwbmVSakRUTS0wNE5KcU9uVnVzT3FyZkVyRVBhV01Qd1VLZ1pKUDVoZjVneEc3cFRBblhIQlhOMFM2N3h3OF93Ukw0WXVhR19VSzZCNmxNZDVnTHl0b0dSZzZ4SDRIa0pTUkQ?oc=5",
     "timestamp": "2026-08-07T15:03:47+00:00",
     "isoDate": "2026-08-07",
     "date": "7 Ago",
-    "d": "Lançamentos de rock e metal da semana: Anthrax, Foo Fighters, ACCEPT e mais Wikimetal",
+    "d": "Lançamentos de rock e metal da semana: Anthrax, Foo Fighters, ACCEPT e mais wikimetal.com.br",
     "category": "metal",
     "sources": [
       {
-        "name": "Wikimetal",
+        "name": "wikimetal.com.br",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObmdBX05SY2pjX3hqay1mSm1Tc3FhMlA5M3BBOU5NMVF4dTNaTFA2WVBBYURlWEhIUGVSdlVWanlpR3dfWE5zUl9qRzhhMEgxMUtXbUZFdkg1MDdqY08yZDdYbmFiNUlmaUd6Mm5QWFFtVFRyYUxQc1V4eDRrMC0temZteG9ucG9pMk5OQm91eVl4MHpyUmx4X2lCQ25meWvSAZgBQVVfeXFMUHZYUXp2blRQSG9LdDBGcERWS2MzWHo0SkczLUZQV0dkeDl4aEVkMlZnejNjVVgwbmVSakRUTS0wNE5KcU9uVnVzT3FyZkVyRVBhV01Qd1VLZ1pKUDVoZjVneEc3cFRBblhIQlhOMFM2N3h3OF93Ukw0WXVhR19VSzZCNmxNZDVnTHl0b0dSZzZ4SDRIa0pTUkQ?oc=5"
       }
     ],
@@ -8489,13 +9280,13 @@
     "section": "buzz"
   },
   {
-    "title": "Oscar LaDell Interview: Untouchable, Ain't Love & Songwriting | UpToHear - UpToHear",
+    "title": "Inside the music of Oscar LaDell - UpToHear",
     "src": "UpToHear",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94VXdjVVRycTRnRVNTemo1ZVZaQzlheWxmQXVNSUhKMmExeEk0ZXpXZGxkSjVXV1o5dHBWdS05bk1DT3pQeE5UUXJvLUMwV3FXVTE2ZEQ0ZDVKN212b1pNaUZrX0I3Y2RC?oc=5",
     "timestamp": "2026-08-07T16:20:36+00:00",
     "isoDate": "2026-08-07",
     "date": "7 Ago",
-    "d": "Oscar LaDell Interview: Untouchable, Ain't Love & Songwriting | UpToHear UpToHear",
+    "d": "Inside the music of Oscar LaDell UpToHear",
     "category": "general",
     "sources": [
       {
@@ -8556,10 +9347,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -8589,17 +9380,17 @@
     "section": "buzz"
   },
   {
-    "title": "Tyga Defends AI Use on New $tarface Album Release - Barrett Media",
-    "src": "Barrett Media",
+    "title": "Tyga Defends AI Use on New $tarface Album Release - barrettmedia.com",
+    "src": "barrettmedia.com",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd3hyZTVyZkNDQVN4bnQ4VGsxOF84d0VfajZMTkhNSmZObmk1QzR2WHZtTWJWRk1BVDRpb3phWWhNOWRFSmwzRHZKOGxLWmQ5UE9xTnN1d0ZSZGtlZHI1RWc3anc2SGRqekRzblozeW9zclNRamhGVEVxRmpVSnFoeFMwZXctSk1hSkRfelJn?oc=5",
     "timestamp": "2026-08-07T13:56:48+00:00",
     "isoDate": "2026-08-07",
     "date": "7 Ago",
-    "d": "Tyga Defends AI Use on New $tarface Album Release Barrett Media",
+    "d": "Tyga Defends AI Use on New $tarface Album Release barrettmedia.com",
     "category": "general",
     "sources": [
       {
-        "name": "Barrett Media",
+        "name": "barrettmedia.com",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd3hyZTVyZkNDQVN4bnQ4VGsxOF84d0VfajZMTkhNSmZObmk1QzR2WHZtTWJWRk1BVDRpb3phWWhNOWRFSmwzRHZKOGxLWmQ5UE9xTnN1d0ZSZGtlZHI1RWc3anc2SGRqekRzblozeW9zclNRamhGVEVxRmpVSnFoeFMwZXctSk1hSkRfelJn?oc=5"
       }
     ],
@@ -9411,17 +10202,17 @@
     "section": "buzz"
   },
   {
-    "title": "Garth Brooks Adds New Date To Chicago Tour Stop - Taste of Country",
-    "src": "Taste of Country",
+    "title": "Garth Brooks Adds New Date To Chicago Tour Stop - tasteofcountry.com",
+    "src": "tasteofcountry.com",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96NHpaZlgyckJZZTdITk1iY1lPM1A0ZDdTcDhiTTZvLUN6Unphc3lxcHg3ZDR2TE4ySzYwV1Btcy1GWnZweWdDcXU4c2tpeXdhMkRzNzBjOWtocGdta0tmZmdCVDdEa1o5eFE?oc=5",
     "timestamp": "2026-08-07T18:42:54+00:00",
     "isoDate": "2026-08-07",
     "date": "7 Ago",
-    "d": "Garth Brooks Adds New Date To Chicago Tour Stop Taste of Country",
+    "d": "Garth Brooks Adds New Date To Chicago Tour Stop tasteofcountry.com",
     "category": "general",
     "sources": [
       {
-        "name": "Taste of Country",
+        "name": "tasteofcountry.com",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96NHpaZlgyckJZZTdITk1iY1lPM1A0ZDdTcDhiTTZvLUN6Unphc3lxcHg3ZDR2TE4ySzYwV1Btcy1GWnZweWdDcXU4c2tpeXdhMkRzNzBjOWtocGdta0tmZmdCVDdEa1o5eFE?oc=5"
       }
     ],
@@ -9686,17 +10477,17 @@
     "section": "pt"
   },
   {
-    "title": "Mia Rose (en)canta seguidores com música de Rui Veloso: \"Voltei no tempo\" - Notícias ao Minuto",
-    "src": "Notícias ao Minuto",
+    "title": "Mia Rose (en)canta seguidores com música de Rui Veloso: \"Voltei no tempo\" - noticiasaominuto.com",
+    "src": "noticiasaominuto.com",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS0cxbDlDbkNrN0JLM29tSExNSkN0eTIybldBa1NWWFpMSXgzU3I0WVJKU2pSUGphMFJNT2V3TDYzU2RyMl9SS1dIN2libE9HQlotQmtzbERjOHZpMEw2X2lmdnhGejZhT2Z6TVJNSm9NZUN1cDVrYzRvcEliODZBQXROWE51TjdLd3NEWXJSZlRETDZTcUdQNUlKdlRGd1c2OGdMZDFuN2xEd1FZZkljeHNydmQ?oc=5",
     "timestamp": "2026-08-07T21:08:57+00:00",
     "isoDate": "2026-08-07",
     "date": "7 Ago",
-    "d": "Mia Rose (en)canta seguidores com música de Rui Veloso: \"Voltei no tempo\" Notícias ao Minuto",
+    "d": "Mia Rose (en)canta seguidores com música de Rui Veloso: \"Voltei no tempo\" noticiasaominuto.com",
     "category": "pt",
     "sources": [
       {
-        "name": "Notícias ao Minuto",
+        "name": "noticiasaominuto.com",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS0cxbDlDbkNrN0JLM29tSExNSkN0eTIybldBa1NWWFpMSXgzU3I0WVJKU2pSUGphMFJNT2V3TDYzU2RyMl9SS1dIN2libE9HQlotQmtzbERjOHZpMEw2X2lmdnhGejZhT2Z6TVJNSm9NZUN1cDVrYzRvcEliODZBQXROWE51TjdLd3NEWXJSZlRETDZTcUdQNUlKdlRGd1c2OGdMZDFuN2xEd1FZZkljeHNydmQ?oc=5"
       }
     ],
@@ -10261,6 +11052,31 @@
       {
         "name": "Paste Magazine",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUWxDTHc2b1g2dnR5X2FHd29Wdi1Sdjg2VEhSLVhlUm5LckgtcHVWYmMzd1pTYVJnUGlPYnVTZ0c3Y2xuaG9QbG9ld2lidnhHY1BGdk9wZUlsNFZ4ekR4MDFqWTlVSmFVUXdxcW9EM3duZlRHVmN1ZVBQUWxJaElzdDE0RGUxWS1tQ3FEZmNtQ1paZXNQWGc4eV9raWU2eHpTa1dvaUZB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "FLO release their sophomore album titled ‘Therapy At The Club’ To celebrate, FLO have released the music - Mc Gig Music",
+    "src": "Mc Gig Music",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN3ZGZk5NdmRLT1pyaXVIQ25DdkV2WnA5WFhJX3FwLWE5UklxcC1zbUFtaFBGazFXeUQ5R245anJ3QlB3b18wWVFPdlJfMnh3ZF9Sa1I0Q2ZxVHJRV1pISkxrVlpXZ2Jqem5qY1l2TXF4anBZaTVseGRBeVFkMjJrVTZTbklucnlETVVrZ3hudHRfd2pyeW5jRzJIUVhvNndqZUZrcEM3M0c0enZPZFdLajVVajVBOVppc2lxaUVTb1M2QnlPWUxMR3pfYjNuQ21GaWt6SmJJMXNVblhZWjZPbnRB0gHiAUFVX3lxTFA3dkZmTk12ZEtPWnJpdUhDbkN2RXZacDlYWElfcXAtYTlSSXFwLXNtQW1oUEZrMVd5RDlHbjlqcndCUHdvXzBZUU92Ul8yeHdkX1JrUjRDZnFUclFXWkhKTGtWWldnYmp6bmpjWXZNcXhqcFlpNWx4ZEF5UWQyMmtVNlNuSW5yeURNVWtneG50dF93anJ5bmNHMkhRWG82d2plRmtwQzczRzR6dk9kV0tqNVVqNUE5WmlzaXFpRVNvUzZCeU9ZTExHel9iM25DbUZpa3pKYkkxc1VuWFlaNk9udEE?oc=5",
+    "timestamp": "2026-08-07T13:00:43+00:00",
+    "isoDate": "2026-08-07",
+    "date": "7 Ago",
+    "d": "FLO release their sophomore album titled ‘Therapy At The Club’ To celebrate, FLO have released the music Mc Gig Music",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Mc Gig Music",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN3ZGZk5NdmRLT1pyaXVIQ25DdkV2WnA5WFhJX3FwLWE5UklxcC1zbUFtaFBGazFXeUQ5R245anJ3QlB3b18wWVFPdlJfMnh3ZF9Sa1I0Q2ZxVHJRV1pISkxrVlpXZ2Jqem5qY1l2TXF4anBZaTVseGRBeVFkMjJrVTZTbklucnlETVVrZ3hudHRfd2pyeW5jRzJIUVhvNndqZUZrcEM3M0c0enZPZFdLajVVajVBOVppc2lxaUVTb1M2QnlPWUxMR3pfYjNuQ21GaWt6SmJJMXNVblhZWjZPbnRB0gHiAUFVX3lxTFA3dkZmTk12ZEtPWnJpdUhDbkN2RXZacDlYWElfcXAtYTlSSXFwLXNtQW1oUEZrMVd5RDlHbjlqcndCUHdvXzBZUU92Ul8yeHdkX1JrUjRDZnFUclFXWkhKTGtWWldnYmp6bmpjWXZNcXhqcFlpNWx4ZEF5UWQyMmtVNlNuSW5yeURNVWtneG50dF93anJ5bmNHMkhRWG82d2plRmtwQzczRzR6dk9kV0tqNVVqNUE5WmlzaXFpRVNvUzZCeU9ZTExHel9iM25DbUZpa3pKYkkxc1VuWFlaNk9udEE?oc=5"
       }
     ],
     "status": "official",
@@ -11419,17 +12235,17 @@
     "section": "pt"
   },
   {
-    "title": "Pirotecnia, música e camisola que caiu de pára-quedas: a apoteótica apresentação de Vozinha - A Bola",
-    "src": "A Bola",
+    "title": "Pirotecnia, música e camisola que caiu de pára-quedas: a apoteótica apresentação de Vozinha - abola.pt",
+    "src": "abola.pt",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcWI1SEZXM2dUVmctTDVBU3pYUVB4RXJmR2NvUUVXY1RGMnp0OXpmTzl3Rmk1ZkdmUndTSzN4YTJIRFFBQjdKRndBMEJfcWNpUzhBWnNMQzlvVU9oWXlQTXNQdjZ3cVhaQnVLS25ENmEzZHJ2TTVfWGlwYnN1S3JodHVQc2Eya1JYSlI1VmhqNXp5dk1COXVRVm9qT3pWNllxb1VMb0x2dHJ2X1l2dFBGUkg2MkJZaWhhczFDNEdzZDBPbWIyU1dIVUdlWnNWSnp0SF9lR2VR?oc=5",
     "timestamp": "2026-08-06T09:15:00+00:00",
     "isoDate": "2026-08-06",
     "date": "6 Ago",
-    "d": "Pirotecnia, música e camisola que caiu de pára-quedas: a apoteótica apresentação de Vozinha A Bola",
+    "d": "Pirotecnia, música e camisola que caiu de pára-quedas: a apoteótica apresentação de Vozinha abola.pt",
     "category": "pt",
     "sources": [
       {
-        "name": "A Bola",
+        "name": "abola.pt",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcWI1SEZXM2dUVmctTDVBU3pYUVB4RXJmR2NvUUVXY1RGMnp0OXpmTzl3Rmk1ZkdmUndTSzN4YTJIRFFBQjdKRndBMEJfcWNpUzhBWnNMQzlvVU9oWXlQTXNQdjZ3cVhaQnVLS25ENmEzZHJ2TTVfWGlwYnN1S3JodHVQc2Eya1JYSlI1VmhqNXp5dk1COXVRVm9qT3pWNllxb1VMb0x2dHJ2X1l2dFBGUkg2MkJZaWhhczFDNEdzZDBPbWIyU1dIVUdlWnNWSnp0SF9lR2VR?oc=5"
       }
     ],
@@ -15025,17 +15841,17 @@
     "section": "pt"
   },
   {
-    "title": "Portugal: \"Playback\" chega hoje aos cinemas - escportugal.pt",
-    "src": "escportugal.pt",
+    "title": "Portugal: \"Playback\" chega hoje aos cinemas - ESC PORTUGAL",
+    "src": "ESC PORTUGAL",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa1VCemxGSXhXckg3bkpEaUFReG9tQW50djhDOWtKWVB0RVNtWWxjdWZrSlVmS1NDUzhfNVRTQkZlTXV6eGFHSmk5UTlGcWN5aUViMG41SnZuVTh1dFYtdENLLTZVSS1zVS12SG5RcENyRm56QVVPeGd0akUzUnNwSUFxcmZ3MU0?oc=5",
     "timestamp": "2026-08-06T22:05:00+00:00",
     "isoDate": "2026-08-06",
     "date": "6 Ago",
-    "d": "Portugal: \"Playback\" chega hoje aos cinemas escportugal.pt",
+    "d": "Portugal: \"Playback\" chega hoje aos cinemas ESC PORTUGAL",
     "category": "pt",
     "sources": [
       {
-        "name": "escportugal.pt",
+        "name": "ESC PORTUGAL",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa1VCemxGSXhXckg3bkpEaUFReG9tQW50djhDOWtKWVB0RVNtWWxjdWZrSlVmS1NDUzhfNVRTQkZlTXV6eGFHSmk5UTlGcWN5aUViMG41SnZuVTh1dFYtdENLLTZVSS1zVS12SG5RcENyRm56QVVPeGd0akUzUnNwSUFxcmZ3MU0?oc=5"
       }
     ],
@@ -15315,17 +16131,17 @@
     "section": "pt"
   },
   {
-    "title": "Fear Factory - Cybernetic Domination Tour - Bilietai",
-    "src": "Bilietai",
+    "title": "Fear Factory - Cybernetic Domination Tour - bilietai.lt",
+    "src": "bilietai.lt",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRV94bWdGNGhnWS1qMmhGanZhWlFjQzk1N19YS2czRUJLQjhrQm1sUF9VNWltQ2ZaOTc1RTc5ZHBFVE9DbG41Zkx4SmxfU2I0aGNSRUJNVC1wQXlFVC1lZVUtajVpY0V4UEZPTUFFY3dyRFo2QlRMQ21TcEdSWXgzYmhrZllKS25ZQzljYQ?oc=5",
     "timestamp": "2026-08-06T14:43:17+00:00",
     "isoDate": "2026-08-06",
     "date": "6 Ago",
-    "d": "Fear Factory - Cybernetic Domination Tour Bilietai",
+    "d": "Fear Factory - Cybernetic Domination Tour bilietai.lt",
     "category": "metal",
     "sources": [
       {
-        "name": "Bilietai",
+        "name": "bilietai.lt",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRV94bWdGNGhnWS1qMmhGanZhWlFjQzk1N19YS2czRUJLQjhrQm1sUF9VNWltQ2ZaOTc1RTc5ZHBFVE9DbG41Zkx4SmxfU2I0aGNSRUJNVC1wQXlFVC1lZVUtajVpY0V4UEZPTUFFY3dyRFo2QlRMQ21TcEdSWXgzYmhrZllKS25ZQzljYQ?oc=5"
       }
     ],
@@ -15732,17 +16548,17 @@
     "section": "recent"
   },
   {
-    "title": "O que fazer em Portugal neste fim de semana: festivais, cinema ao ar livre e muito pagode - sapo.pt",
-    "src": "sapo.pt",
+    "title": "O que fazer em Portugal neste fim de semana: festivais, cinema ao ar livre e muito pagode - SAPO",
+    "src": "SAPO",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbDk3dHhfd1ZTZmxqZlhvekg3WU9aV0c1RUJOMkREdVozRmFlTjVKZlpNdHQtZW9WeHdST3VSbUp6bUtiTFZIUFVibzNRUk1EcnJBRi1nZXNqOWczdDIwbkowcV83UlRURDRnczEwbFFnQTA3STRIUV9BSUEwenlQQW5qd3NXamE1bFc2ekYzM2xqM3dJR1V5WVBKcW56bXFkSGJ1Q29BclhJUjZVR2xmbVRwbVBSUFJ4aU9IUjJOVWJUclNMUnVGNjgyZTNMVGRh?oc=5",
     "timestamp": "2026-08-06T09:11:54+00:00",
     "isoDate": "2026-08-06",
     "date": "6 Ago",
-    "d": "O que fazer em Portugal neste fim de semana: festivais, cinema ao ar livre e muito pagode sapo.pt",
+    "d": "O que fazer em Portugal neste fim de semana: festivais, cinema ao ar livre e muito pagode SAPO",
     "category": "pt",
     "sources": [
       {
-        "name": "sapo.pt",
+        "name": "SAPO",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbDk3dHhfd1ZTZmxqZlhvekg3WU9aV0c1RUJOMkREdVozRmFlTjVKZlpNdHQtZW9WeHdST3VSbUp6bUtiTFZIUFVibzNRUk1EcnJBRi1nZXNqOWczdDIwbkowcV83UlRURDRnczEwbFFnQTA3STRIUV9BSUEwenlQQW5qd3NXamE1bFc2ekYzM2xqM3dJR1V5WVBKcW56bXFkSGJ1Q29BclhJUjZVR2xmbVRwbVBSUFJ4aU9IUjJOVWJUclNMUnVGNjgyZTNMVGRh?oc=5"
       }
     ],
@@ -15755,6 +16571,31 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "‘Kitchen sink-core’: Cascades crafts heavy music that’s hard to describe - Post and Courier",
+    "src": "Post and Courier",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRzRnUEhkcFZfX3FtQ28zZ1M3OTlBWDBiSVpIVTRPWXhMSjhvUVY0WkROc0FaQzRUeDdPRlM3WDNuMWF3QlpBNWZvV2FNNlZxS2ZNU1U3SXZZeThIYkhhWjF1QXYwM1pJRFpWNWdFa295YWFTanROb2RmVjJicTk2NXBTN0l2QXktN0VHV2dvTUkwdUlWcXZ0eUZSUmx2aVloRjl4c2tKeE84akFtZFlZNl8xdENiUkRQRlg1Q25TSXd4c0w0NFRvMm5KcG5UWHdC?oc=5",
+    "timestamp": "2026-08-06T09:00:00+00:00",
+    "isoDate": "2026-08-06",
+    "date": "6 Ago",
+    "d": "‘Kitchen sink-core’: Cascades crafts heavy music that’s hard to describe Post and Courier",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Post and Courier",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRzRnUEhkcFZfX3FtQ28zZ1M3OTlBWDBiSVpIVTRPWXhMSjhvUVY0WkROc0FaQzRUeDdPRlM3WDNuMWF3QlpBNWZvV2FNNlZxS2ZNU1U3SXZZeThIYkhhWjF1QXYwM1pJRFpWNWdFa295YWFTanROb2RmVjJicTk2NXBTN0l2QXktN0VHV2dvTUkwdUlWcXZ0eUZSUmx2aVloRjl4c2tKeE84akFtZFlZNl8xdENiUkRQRlg1Q25TSXd4c0w0NFRvMm5KcG5UWHdC?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
   },
   {
     "b": "Philippe JOUMARD",
@@ -20214,17 +21055,17 @@
     "section": "news"
   },
   {
-    "title": "Popular heavy metal band fires original member after nearly 30 years (report) - Syracuse.com",
-    "src": "Syracuse.com",
+    "title": "Popular heavy metal band fires original member after nearly 30 years (report) - syracuse.com",
+    "src": "syracuse.com",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd2dUcnVOcVZDZVY0MGFHd1RzOURxS2Roenl6ZVZwbERXdndlUzZnS3lXQzJKcGZ6SDkycGdjV3FRVFZZTlJqVzhXdndqMW5LLXdYaGZmeHBBTG9wNUlfdjR6V0otbDM5cVFoOEpfMVB1Q3RBcVRDd29pZ3ZWVmFYck9Gd0pKejBnblBpZUJ5OEItSlVDZXpFT3FTTmxuRVhSSW5FVmxialV5MVZnWXZJcXpwU3NpN3ZVN1B2TmU4WHUyOWtpRmfSAdoBQVVfeXFMT3pzVlJ4RFcyNG1TNDVDWE4tWmFXWl9DZUhwTkJTNmtFU3VwQ2h6eG9RLTktcTJsdmtsZ1g3T0dQZ1hsd1laWGdWNHVFLVlkTHdwVGw2OHlLTG1lUS1aU2lGVVM5VEF0VlA5MGVnaHExRlVIU05vRnBKd1lVMEM0THpBcTVGeURZWkR0NUJ2NnpGRHhQR0NGM0YxdkVORzVpc0hVRk9Tck9GNlI4b0hXQnc3SGtDMWZzT3E4TnlEb0JuRWp5MTF1Um84NjVUaW9UZ2JkVThnSG1pSkE?oc=5",
     "timestamp": "2026-08-05T21:08:00+00:00",
     "isoDate": "2026-08-05",
     "date": "5 Ago",
-    "d": "Popular heavy metal band fires original member after nearly 30 years (report) Syracuse.com",
+    "d": "Popular heavy metal band fires original member after nearly 30 years (report) syracuse.com",
     "category": "metal",
     "sources": [
       {
-        "name": "Syracuse.com",
+        "name": "syracuse.com",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd2dUcnVOcVZDZVY0MGFHd1RzOURxS2Roenl6ZVZwbERXdndlUzZnS3lXQzJKcGZ6SDkycGdjV3FRVFZZTlJqVzhXdndqMW5LLXdYaGZmeHBBTG9wNUlfdjR6V0otbDM5cVFoOEpfMVB1Q3RBcVRDd29pZ3ZWVmFYck9Gd0pKejBnblBpZUJ5OEItSlVDZXpFT3FTTmxuRVhSSW5FVmxialV5MVZnWXZJcXpwU3NpN3ZVN1B2TmU4WHUyOWtpRmfSAdoBQVVfeXFMT3pzVlJ4RFcyNG1TNDVDWE4tWmFXWl9DZUhwTkJTNmtFU3VwQ2h6eG9RLTktcTJsdmtsZ1g3T0dQZ1hsd1laWGdWNHVFLVlkTHdwVGw2OHlLTG1lUS1aU2lGVVM5VEF0VlA5MGVnaHExRlVIU05vRnBKd1lVMEM0THpBcTVGeURZWkR0NUJ2NnpGRHhQR0NGM0YxdkVORzVpc0hVRk9Tck9GNlI4b0hXQnc3SGtDMWZzT3E4TnlEb0JuRWp5MTF1Um84NjVUaW9UZ2JkVThnSG1pSkE?oc=5"
       }
     ],
@@ -20264,17 +21105,17 @@
     "section": "core"
   },
   {
-    "title": "Vancouver’s most unlikely councillor: the man behind the belly video - westernstandard.news",
-    "src": "westernstandard.news",
+    "title": "Vancouver’s most unlikely councillor: the man behind the belly video - Western Standard",
+    "src": "Western Standard",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1V3LXFfdURfc1c3dFN6N1hPRk9aSDVPWEo1N0o3NkVOc0NVM0VrN0c4LW92TzVQcFRWZWpkUjh6Zmd1WnEwbWswYzB3S2RTVENFRWt0LTJlaXlQZnc5by10RUI4d29iRlhwZFRQX2dsN0hudHlEZkkzNFRHZXdUUmhoQkxKcUhYRkhjR1NDRTNnSHlKWkV5TUtlNnZaZ0NKejdBVlNvSTdQcHh6?oc=5",
     "timestamp": "2026-08-05T22:30:09+00:00",
     "isoDate": "2026-08-05",
     "date": "5 Ago",
-    "d": "Vancouver’s most unlikely councillor: the man behind the belly video westernstandard.news",
+    "d": "Vancouver’s most unlikely councillor: the man behind the belly video Western Standard",
     "category": "core",
     "sources": [
       {
-        "name": "westernstandard.news",
+        "name": "Western Standard",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1V3LXFfdURfc1c3dFN6N1hPRk9aSDVPWEo1N0o3NkVOc0NVM0VrN0c4LW92TzVQcFRWZWpkUjh6Zmd1WnEwbWswYzB3S2RTVENFRWt0LTJlaXlQZnc5by10RUI4d29iRlhwZFRQX2dsN0hudHlEZkkzNFRHZXdUUmhoQkxKcUhYRkhjR1NDRTNnSHlKWkV5TUtlNnZaZ0NKejdBVlNvSTdQcHh6?oc=5"
       }
     ],
@@ -23187,17 +24028,17 @@
     "section": "news"
   },
   {
-    "title": "Jakarta melodic hardcore pack CONCRETE YOUTH trade breakdowns for melody on infectious debut promo - idioteq.com",
-    "src": "idioteq.com",
+    "title": "Jakarta melodic hardcore pack CONCRETE YOUTH trade breakdowns for melody on infectious debut promo - IDIOTEQ.com",
+    "src": "IDIOTEQ.com",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOGo3eEpJdnNpWjR2NkFvSGcxeVJOYlFhVDBpbi1zVmt6V0JqZGMtRHBqQllFeTVoZ1NGLVZncERGQUhXQm9tY2laczIwYTdaOHVpbkdISy1IdDRrd1V2U0JoNUpQanNHS1hnZlF4UUV1QlFpX29iWnZTdGszOHR4MzllbnVlZjZkT3A1ZnlZY0trT2tHbktRSUlUZXhNSktXd3NtamdDTzVoelREcUIwRzRSbDVCUF80LVU4?oc=5",
     "timestamp": "2026-08-04T11:47:56+00:00",
     "isoDate": "2026-08-04",
     "date": "4 Ago",
-    "d": "Jakarta melodic hardcore pack CONCRETE YOUTH trade breakdowns for melody on infectious debut promo idioteq.com",
+    "d": "Jakarta melodic hardcore pack CONCRETE YOUTH trade breakdowns for melody on infectious debut promo IDIOTEQ.com",
     "category": "core",
     "sources": [
       {
-        "name": "idioteq.com",
+        "name": "IDIOTEQ.com",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOGo3eEpJdnNpWjR2NkFvSGcxeVJOYlFhVDBpbi1zVmt6V0JqZGMtRHBqQllFeTVoZ1NGLVZncERGQUhXQm9tY2laczIwYTdaOHVpbkdISy1IdDRrd1V2U0JoNUpQanNHS1hnZlF4UUV1QlFpX29iWnZTdGszOHR4MzllbnVlZjZkT3A1ZnlZY0trT2tHbktRSUlUZXhNSktXd3NtamdDTzVoelREcUIwRzRSbDVCUF80LVU4?oc=5"
       }
     ],
@@ -26418,17 +27259,17 @@
     "section": "buzz"
   },
   {
-    "title": "ESC2027: SMRTV revela regulamento do 'San Marino Song Contest 2027' e abre inscrições para o formato - escportugal.pt",
-    "src": "escportugal.pt",
+    "title": "ESC2027: SMRTV revela regulamento do 'San Marino Song Contest 2027' e abre inscrições para o formato - ESC PORTUGAL",
+    "src": "ESC PORTUGAL",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcEpXZnBVaEdPZWNlazVpVHhfMDkyd3J5allpaWpEVnppWEtoMGxlTWVQOXJBUjJ5VmVVUlhmRUJiLVNXVERRQ3JOSGNZcEZ6aGdWZWtqemJublNrNnZNNTd5QWlxS2RoT1dYVzNZNE5lVGxwTjhOclpLNDhMYW1nOGFFdVBWZw?oc=5",
     "timestamp": "2026-08-04T17:55:00+00:00",
     "isoDate": "2026-08-04",
     "date": "4 Ago",
-    "d": "ESC2027: SMRTV revela regulamento do 'San Marino Song Contest 2027' e abre inscrições para o formato escportugal.pt",
+    "d": "ESC2027: SMRTV revela regulamento do 'San Marino Song Contest 2027' e abre inscrições para o formato ESC PORTUGAL",
     "category": "pt",
     "sources": [
       {
-        "name": "escportugal.pt",
+        "name": "ESC PORTUGAL",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcEpXZnBVaEdPZWNlazVpVHhfMDkyd3J5allpaWpEVnppWEtoMGxlTWVQOXJBUjJ5VmVVUlhmRUJiLVNXVERRQ3JOSGNZcEZ6aGdWZWtqemJublNrNnZNNTd5QWlxS2RoT1dYVzNZNE5lVGxwTjhOclpLNDhMYW1nOGFFdVBWZw?oc=5"
       }
     ],
@@ -27954,17 +28795,17 @@
     "section": "news"
   },
   {
-    "title": "Album review: Public Opinion – The Curse Of Public Opinion - kerrang.com",
-    "src": "kerrang.com",
+    "title": "Album review: Public Opinion – The Curse Of Public Opinion - Kerrang!",
+    "src": "Kerrang!",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQzl0RE5CdU0zQUxKaDdBamdoalFXWnZuT0tZQkRHQ3BvalVQOXJwdXo4MExMY2pHakVxVzBkQ0o2YVFsQjFLWEFfb0UyTmFqMU83LW4xNXJJYjlEYU5CUkFxWk5kUUdScXRkb1JjeUtCbWxVbm5MS2xjeXVEejJKVkk3dk84dw?oc=5",
     "timestamp": "2026-08-03T08:00:00+00:00",
     "isoDate": "2026-08-03",
     "date": "3 Ago",
-    "d": "Album review: Public Opinion – The Curse Of Public Opinion kerrang.com",
+    "d": "Album review: Public Opinion – The Curse Of Public Opinion Kerrang!",
     "category": "core",
     "sources": [
       {
-        "name": "kerrang.com",
+        "name": "Kerrang!",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQzl0RE5CdU0zQUxKaDdBamdoalFXWnZuT0tZQkRHQ3BvalVQOXJwdXo4MExMY2pHakVxVzBkQ0o2YVFsQjFLWEFfb0UyTmFqMU83LW4xNXJJYjlEYU5CUkFxWk5kUUdScXRkb1JjeUtCbWxVbm5MS2xjeXVEejJKVkk3dk84dw?oc=5"
       }
     ],
@@ -28029,17 +28870,17 @@
     "section": "core"
   },
   {
-    "title": "Propagandhi Announce Australia And Aotearoa Tour For 2027 - Noise11.com",
-    "src": "Noise11.com",
+    "title": "Propagandhi Announce Australia And Aotearoa Tour For 2027 - noise11.com",
+    "src": "noise11.com",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb1NnNlZIQWRJcVM3UFU2ZDNxbmQ4UTlOMDV2aEdGZm4tdzEtY0lRTEp5NWJabVhObzVSeTU3Y3J4N29PUTM2N0VNZ1RILXFJcm56ZEhmb0xXT0MxbFVEczZjUlllMU5aWUFGbm1yWUk1NGZ6N0k1ZjBEOHhIalY4NmhxMS1URG1yb0xzdzlQR1ZQV2w3ZmFjSlFTZw?oc=5",
     "timestamp": "2026-08-03T03:35:20+00:00",
     "isoDate": "2026-08-03",
     "date": "3 Ago",
-    "d": "Propagandhi Announce Australia And Aotearoa Tour For 2027 Noise11.com",
+    "d": "Propagandhi Announce Australia And Aotearoa Tour For 2027 noise11.com",
     "category": "core",
     "sources": [
       {
-        "name": "Noise11.com",
+        "name": "noise11.com",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb1NnNlZIQWRJcVM3UFU2ZDNxbmQ4UTlOMDV2aEdGZm4tdzEtY0lRTEp5NWJabVhObzVSeTU3Y3J4N29PUTM2N0VNZ1RILXFJcm56ZEhmb0xXT0MxbFVEczZjUlllMU5aWUFGbm1yWUk1NGZ6N0k1ZjBEOHhIalY4NmhxMS1URG1yb0xzdzlQR1ZQV2w3ZmFjSlFTZw?oc=5"
       }
     ],
@@ -28454,17 +29295,17 @@
     "section": "pt"
   },
   {
-    "title": "Neopop: música eletrónica volta a ser Antipop - pressreader.com",
-    "src": "pressreader.com",
+    "title": "Neopop: música eletrónica volta a ser Antipop - PressReader",
+    "src": "PressReader",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcEdyWHB6MWNyUGEtTEVsUXZma283MUF0WWpna0NvZWJzOHAwRWotcFppdWtoUmNPVEJ5cUMyb1RYb1dvQm9CRzN5STQ3ckxheVA5MU1mMmladjJSZHVQUHJLTlJSUmgxRVBPN0V1dHo5MURtMUhUSmhzSmNJRGlZREVYX1JROUE?oc=5",
     "timestamp": "2026-08-03T06:33:17+00:00",
     "isoDate": "2026-08-03",
     "date": "3 Ago",
-    "d": "Neopop: música eletrónica volta a ser Antipop pressreader.com",
+    "d": "Neopop: música eletrónica volta a ser Antipop PressReader",
     "category": "pt",
     "sources": [
       {
-        "name": "pressreader.com",
+        "name": "PressReader",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcEdyWHB6MWNyUGEtTEVsUXZma283MUF0WWpna0NvZWJzOHAwRWotcFppdWtoUmNPVEJ5cUMyb1RYb1dvQm9CRzN5STQ3ckxheVA5MU1mMmladjJSZHVQUHJLTlJSUmgxRVBPN0V1dHo5MURtMUhUSmhzSmNJRGlZREVYX1JROUE?oc=5"
       }
     ],
@@ -32880,7 +33721,7 @@
     "isCore": true,
     "star": false,
     "kind": "news",
-    "section": "core"
+    "section": "pt"
   },
   {
     "title": "Morrissey na Super Bock Arena: Entre o incómodo e a devoção, as canções continuam a ganhar",
@@ -33762,6 +34603,31 @@
     "alterportal": true,
     "kind": "release",
     "section": "alter"
+  },
+  {
+    "title": "Cancer Bats: “In a way, not having a specific goal has allowed us to succeed so I’ll continue until my body gives up.” - V13 Media",
+    "src": "V13 Media",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqQjFSTTZMMEtjVUxHdXFuOVNTTlJkZFMwYmliTHFjamVMM095cmdhUkQtakVBU2JRSjVQYTQ3YVpuSUZQRjJiRG5xU0pTX2RmVnEzQU9fZkVZQV96elNUMXJOblpDRHo0bF9SQXRvTmxHc2ZMRTh0UzY2RQ?oc=5",
+    "timestamp": "2026-08-03T07:00:00+00:00",
+    "isoDate": "2026-08-03",
+    "date": "3 Ago",
+    "d": "Cancer Bats: “In a way, not having a specific goal has allowed us to succeed so I’ll continue until my body gives up.” V13 Media",
+    "category": "core",
+    "sources": [
+      {
+        "name": "V13 Media",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqQjFSTTZMMEtjVUxHdXFuOVNTTlJkZFMwYmliTHFjamVMM095cmdhUkQtakVBU2JRSjVQYTQ3YVpuSUZQRjJiRG5xU0pTX2RmVnEzQU9fZkVZQV96elNUMXJOblpDRHo0bF9SQXRvTmxHc2ZMRTh0UzY2RQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
   },
   {
     "title": "David Guetta traz 'The Monolith Tour' a Portugal: guia com tudo o que precisa de saber - Rádio Comercial",
@@ -36679,17 +37545,17 @@
     "section": "core"
   },
   {
-    "title": "Os festivais que vão pôr Portugal a dançar em agosto: há um para cada estilo (e para cada playlist) - sapo.pt",
-    "src": "sapo.pt",
+    "title": "Os festivais que vão pôr Portugal a dançar em agosto: há um para cada estilo (e para cada playlist) - SAPO",
+    "src": "SAPO",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVHJ3TkFGUjFQUDNrcXpPSVRXMzBSYm03Z2l5TkVMckVvQzNjZThUQ0pfLXdkaGszOUdKNjdqR1pmenVKS0NHc1lvTjJRdXBmZVlIemhnekVlRmpuTWFQelA0SXU5c1VlZ3FiTzdDWHNGZ0sxbnp4WXJIM2VnSEZQMURFRVlNSGdKcU1mS0k0Ul9NQ3NhUWVzTkQ2LWQzRjdQS2ZmeHlRYW84OHNkNWlrYWVpN2MtSWFxYWR4RmZNU1dyRzVqcjY4Wnd2bTYxUXhLY1Z6UzlTVEFXWWhn?oc=5",
     "timestamp": "2026-08-02T18:00:00+00:00",
     "isoDate": "2026-08-02",
     "date": "2 Ago",
-    "d": "Os festivais que vão pôr Portugal a dançar em agosto: há um para cada estilo (e para cada playlist) sapo.pt",
+    "d": "Os festivais que vão pôr Portugal a dançar em agosto: há um para cada estilo (e para cada playlist) SAPO",
     "category": "pt",
     "sources": [
       {
-        "name": "sapo.pt",
+        "name": "SAPO",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVHJ3TkFGUjFQUDNrcXpPSVRXMzBSYm03Z2l5TkVMckVvQzNjZThUQ0pfLXdkaGszOUdKNjdqR1pmenVKS0NHc1lvTjJRdXBmZVlIemhnekVlRmpuTWFQelA0SXU5c1VlZ3FiTzdDWHNGZ0sxbnp4WXJIM2VnSEZQMURFRVlNSGdKcU1mS0k0Ul9NQ3NhUWVzTkQ2LWQzRjdQS2ZmeHlRYW84OHNkNWlrYWVpN2MtSWFxYWR4RmZNU1dyRzVqcjY4Wnd2bTYxUXhLY1Z6UzlTVEFXWWhn?oc=5"
       }
     ],
@@ -36779,17 +37645,17 @@
     "section": "pt"
   },
   {
-    "title": "Os concertos em Lisboa que vai querer ver esta semana - timeout.pt",
-    "src": "timeout.pt",
+    "title": "Os concertos em Lisboa que vai querer ver esta semana - Time Out Lisboa",
+    "src": "Time Out Lisboa",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXZvejZnWkdidFBFSUtlVVpTTXlCMGFyMEIwU1FtTG9WazBaajdRcWxKTEsyMVBzSlgwZE16ZEJBcGtOdFJnUy0taDdHV0ZjV1E2cnd5bVdha01DYnBCN0pwenFTQ0hZRjI2ZF9oOVYzN0hKQzB0UGM4R25rNFdjRGh1WVJWZHlJWS0w?oc=5",
     "timestamp": "2026-08-02T23:00:00+00:00",
     "isoDate": "2026-08-02",
     "date": "2 Ago",
-    "d": "Os concertos em Lisboa que vai querer ver esta semana timeout.pt",
+    "d": "Os concertos em Lisboa que vai querer ver esta semana Time Out Lisboa",
     "category": "pt",
     "sources": [
       {
-        "name": "timeout.pt",
+        "name": "Time Out Lisboa",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXZvejZnWkdidFBFSUtlVVpTTXlCMGFyMEIwU1FtTG9WazBaajdRcWxKTEsyMVBzSlgwZE16ZEJBcGtOdFJnUy0taDdHV0ZjV1E2cnd5bVdha01DYnBCN0pwenFTQ0hZRjI2ZF9oOVYzN0hKQzB0UGM4R25rNFdjRGh1WVJWZHlJWS0w?oc=5"
       }
     ],
@@ -36953,6 +37819,27 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "b": "Kogaion",
+    "t": "Chaos Beyond Cataclysm",
+    "g": "black",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "2 Ago",
+    "isoDate": "2026-08-02",
+    "url": "https://musicbrainz.org/release-group/2ed28498-cc46-4591-b5ea-3e0dc421f6a7",
+    "d": "black metal, symphonic black metal, atmospheric black metal",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/2ed28498-cc46-4591-b5ea-3e0dc421f6a7"
+      }
+    ],
+    "mbid": "2ed28498-cc46-4591-b5ea-3e0dc421f6a7",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
   },
   {
     "title": "Slipknot's Sid Wilson reportedly out of band - KGAN",
