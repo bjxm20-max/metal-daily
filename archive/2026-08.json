@@ -769,10 +769,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -794,10 +794,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "titleOriginal": "Rosie O’Donnell’s Jimmy Kimmel Live! Takeover Sets Summer Ratings High",
     "kind": "news",
     "section": "buzz"
@@ -820,10 +820,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -886,6 +886,436 @@
     "releaseKey": "pitchfork|faith ep",
     "kind": "review",
     "section": "rev"
+  },
+  {
+    "b": "Yellowcard",
+    "t": "Calvary Drive",
+    "g": "heavy",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "21 Ago",
+    "isoDate": "2026-08-21",
+    "url": "https://alterportal.net/newsongs/190095-yellowcard-calvary-drive-single-2026.html",
+    "d": "",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/newsongs/190095-yellowcard-calvary-drive-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Ninth Key",
+    "t": "No Place Like Home",
+    "g": "heavy",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "21 Ago",
+    "isoDate": "2026-08-21",
+    "url": "https://alterportal.net/alternative/190093-ninth-key-no-place-like-home-single-2026.html",
+    "d": "",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190093-ninth-key-no-place-like-home-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Karen Dió",
+    "t": "Fugaz",
+    "g": "heavy",
+    "fmt": "EP",
+    "lbl": "Alterportal",
+    "date": "21 Ago",
+    "isoDate": "2026-08-21",
+    "url": "https://alterportal.net/2026_albums/190096-karen-dio-fugaz-ep-2026.html",
+    "d": "",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190096-karen-dio-fugaz-ep-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "FKA Rayne",
+    "t": "Rotten",
+    "g": "heavy",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "21 Ago",
+    "isoDate": "2026-08-21",
+    "url": "https://alterportal.net/alternative/190094-fka-rayne-rotten-single-2026.html",
+    "d": "",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190094-fka-rayne-rotten-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "The Barbarians Of California release sophomore album \"Megatons\" today - Chaoszine",
+    "src": "Chaoszine",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHRpaU12VnBOdGpYTTQ0SndibVg0eWhNSzYwTTRvQWZrM0dDaENtSHZKaXhKdXBSS1FmYVpoYTFsVXhrMzdpVDBkOE9Tb3E3WEpvWjdIbjQyaHhZdGJwNmROY0RjT2JyLUZDM0FfQXZjaTA1S2FMVGpOM00zbUFYNFZ0dmZETzY1WVdfMlQ0Z0ZoNFlr?oc=5",
+    "timestamp": "2026-08-21T09:28:44+00:00",
+    "isoDate": "2026-08-21",
+    "date": "21 Ago",
+    "d": "The Barbarians Of California release sophomore album \"Megatons\" today Chaoszine",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Chaoszine",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWHRpaU12VnBOdGpYTTQ0SndibVg0eWhNSzYwTTRvQWZrM0dDaENtSHZKaXhKdXBSS1FmYVpoYTFsVXhrMzdpVDBkOE9Tb3E3WEpvWjdIbjQyaHhZdGJwNmROY0RjT2JyLUZDM0FfQXZjaTA1S2FMVGpOM00zbUFYNFZ0dmZETzY1WVdfMlQ0Z0ZoNFlr?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "US Metal Band Sues Netflix Over 'KPop Demon Hunters' Name - Seoul Economic Daily",
+    "src": "Seoul Economic Daily",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeEJEQW9KckJWZnRPT0xJY0VlTmRySW1rWEJhaFAxMXBaaV9CeDRxRjgzTTlnWE5VbnVQUVhmOGNsdjkxVEdlSjFqYWxRcllRdDhBUllKNDVEbGJ4WnJKQ0RsaEh0U3dBb0p6eGdlWnFzbkRmVXZteE4tOTRnX0owcW5EWlYxUDNnQVkzSlMtQm5nT1BqYUF6TGVrUS1vbmprSEQxWnpB?oc=5",
+    "timestamp": "2026-08-21T08:24:53+00:00",
+    "isoDate": "2026-08-21",
+    "date": "21 Ago",
+    "d": "US Metal Band Sues Netflix Over 'KPop Demon Hunters' Name Seoul Economic Daily",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeEJEQW9KckJWZnRPT0xJY0VlTmRySW1rWEJhaFAxMXBaaV9CeDRxRjgzTTlnWE5VbnVQUVhmOGNsdjkxVEdlSjFqYWxRcllRdDhBUllKNDVEbGJ4WnJKQ0RsaEh0U3dBb0p6eGdlWnFzbkRmVXZteE4tOTRnX0owcW5EWlYxUDNnQVkzSlMtQm5nT1BqYUF6TGVrUS1vbmprSEQxWnpB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Snot signs with BLKIIBLK ahead of new studio album in summer 2027 - Chaoszine",
+    "src": "Chaoszine",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQjhsajlRRWI5ZFZtNFRkaW81YTZxSHF3MnVab2E3eHhYOVB5U1lLTVBXX19oN2dsWGtYWHY2RExMTkhIT2lzTnV5ZUt5N0RpX3EweWhOaGdaQVBMUEhwand2S1UtYmF2NF9ycDJNYlhKRklJMXpzczVEbkk3cGJMZmNkS29RTTJGa1ptSzg3el9QZw?oc=5",
+    "timestamp": "2026-08-21T07:58:43+00:00",
+    "isoDate": "2026-08-21",
+    "date": "21 Ago",
+    "d": "Snot signs with BLKIIBLK ahead of new studio album in summer 2027 Chaoszine",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Chaoszine",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQjhsajlRRWI5ZFZtNFRkaW81YTZxSHF3MnVab2E3eHhYOVB5U1lLTVBXX19oN2dsWGtYWHY2RExMTkhIT2lzTnV5ZUt5N0RpX3EweWhOaGdaQVBMUEhwand2S1UtYmF2NF9ycDJNYlhKRklJMXpzczVEbkk3cGJMZmNkS29RTTJGa1ptSzg3el9QZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Contention Release “Nuclear Summer” EP",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/21/news/contention-release-nuclear-summer-ep/",
+    "timestamp": "2026-08-21T07:07:49+00:00",
+    "isoDate": "2026-08-21",
+    "date": "21 Ago",
+    "d": "Complete with a medley of The Swarm covers. The post Contention Release “Nuclear Summer” EP appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/21/news/contention-release-nuclear-summer-ep/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Ariana Grande wins legal battle to reveal identities of hackers who tried to sell unreleased music on dark web for “significant sums of money”",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/ariana-grande-wins-legal-battle-to-reveal-identities-of-hackers-who-tried-to-sell-unreleased-music-on-dark-web-for-significant-sums-of-money-3963917?utm_source=rss&utm_medium=rss&utm_campaign=ariana-grande-wins-legal-battle-to-reveal-identities-of-hackers-who-tried-to-sell-unreleased-music-on-dark-web-for-significant-sums-of-money",
+    "timestamp": "2026-08-21T09:20:04+00:00",
+    "isoDate": "2026-08-21",
+    "date": "21 Ago",
+    "d": "She claims that 2023 alone saw 45 songs stolen and leaked The post Ariana Grande wins legal battle to reveal identities of hackers who tried to sell unreleased music on dark web for “significant sums of money” appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/ariana-grande-wins-legal-battle-to-reveal-identities-of-hackers-who-tried-to-sell-unreleased-music-on-dark-web-for-significant-sums-of-money-3963917?utm_source=rss&utm_medium=rss&utm_campaign=ariana-grande-wins-legal-battle-to-reveal-identities-of-hackers-who-tried-to-sell-unreleased-music-on-dark-web-for-significant-sums-of-money"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "medium",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Beabadoobee shares “one of the happiest songs on the new album” ‘Memories’",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/beabadoobee-shares-one-of-the-happiest-songs-on-the-new-album-memories-3963912?utm_source=rss&utm_medium=rss&utm_campaign=beabadoobee-shares-one-of-the-happiest-songs-on-the-new-album-memories",
+    "timestamp": "2026-08-21T09:12:34+00:00",
+    "isoDate": "2026-08-21",
+    "date": "21 Ago",
+    "d": "Her fourth album 'Pylon' comes out next month The post Beabadoobee shares “one of the happiest songs on the new album” ‘Memories’ appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/beabadoobee-shares-one-of-the-happiest-songs-on-the-new-album-memories-3963912?utm_source=rss&utm_medium=rss&utm_campaign=beabadoobee-shares-one-of-the-happiest-songs-on-the-new-album-memories"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Dave Bautista will play Kratos in ‘God Of War’ TV series",
+    "src": "NME",
+    "url": "https://www.nme.com/news/tv/dave-bautista-will-play-kratos-in-god-of-war-tv-series-3963915?utm_source=rss&utm_medium=rss&utm_campaign=dave-bautista-will-play-kratos-in-god-of-war-tv-series",
+    "timestamp": "2026-08-21T09:10:30+00:00",
+    "isoDate": "2026-08-21",
+    "date": "21 Ago",
+    "d": "The Marvel star is expected to begin filming in the next couple of weeks The post Dave Bautista will play Kratos in ‘God Of War’ TV series appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/tv/dave-bautista-will-play-kratos-in-god-of-war-tv-series-3963915?utm_source=rss&utm_medium=rss&utm_campaign=dave-bautista-will-play-kratos-in-god-of-war-tv-series"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "MTV VMAs 2026 have scrapped the ‘Best Rock’ category after 37 years",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/mtv-vmas-2026-have-scrapped-the-best-rock-category-after-37-years-3963901?utm_source=rss&utm_medium=rss&utm_campaign=mtv-vmas-2026-have-scrapped-the-best-rock-category-after-37-years",
+    "timestamp": "2026-08-21T08:32:56+00:00",
+    "isoDate": "2026-08-21",
+    "date": "21 Ago",
+    "d": "It comes only one year after the awards show honoured Ozzy Osbourne with a tribute by Yungblud and Aerosmith's Steven Tyler and Joe Perry The post MTV VMAs 2026 have scrapped the ‘Best Rock’ category after 37 years appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/mtv-vmas-2026-have-scrapped-the-best-rock-category-after-37-years-3963901?utm_source=rss&utm_medium=rss&utm_campaign=mtv-vmas-2026-have-scrapped-the-best-rock-category-after-37-years"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ministry release official music video for \"We Hate\" - Chaoszine",
+    "src": "Chaoszine",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95MmJuZUl5bG5BSTJtRHQ5UmRkMVVzQ2dfVUhSOGlfNVAzMWNJRjFWbWpHZjdkSi1nRjRnOGpIME5td0NjZjBhamhIQnc5RzJrSlNNS0RDR25zS0hFRUpFX29vQzNaQl82Wm5WckFfdU1BMUc1X2R3WUJEcnI?oc=5",
+    "timestamp": "2026-08-21T08:28:43+00:00",
+    "isoDate": "2026-08-21",
+    "date": "21 Ago",
+    "d": "Ministry release official music video for \"We Hate\" Chaoszine",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Chaoszine",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95MmJuZUl5bG5BSTJtRHQ5UmRkMVVzQ2dfVUhSOGlfNVAzMWNJRjFWbWpHZjdkSi1nRjRnOGpIME5td0NjZjBhamhIQnc5RzJrSlNNS0RDR25zS0hFRUpFX29vQzNaQl82Wm5WckFfdU1BMUc1X2R3WUJEcnI?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Brandon Flowers – ‘Thrasher’ review: The Killers’ man leaves Vegas for Nashville on personal country hoedown",
+    "src": "NME",
+    "url": "https://www.nme.com/reviews/album/brandon-flowers-thrasher-album-review-the-killers-3963742?utm_source=rss&utm_medium=rss&utm_campaign=brandon-flowers-thrasher-album-review-the-killers",
+    "timestamp": "2026-08-21T08:00:58+00:00",
+    "isoDate": "2026-08-21",
+    "date": "21 Ago",
+    "d": "On his third solo effort, ‘Mr Brightside’ comes out his cage to vividly tell us about his childhood The post Brandon Flowers – ‘Thrasher’ review: The Killers’ man leaves Vegas for Nashville on personal country hoedown appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/reviews/album/brandon-flowers-thrasher-album-review-the-killers-3963742?utm_source=rss&utm_medium=rss&utm_campaign=brandon-flowers-thrasher-album-review-the-killers"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Bad Bunny sells out Puerto Rico tour finale after more than 1million fans queue for tickets",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/bad-bunny-sells-out-puerto-rico-tour-finale-after-more-than-1million-fans-queue-for-tickets-3963896?utm_source=rss&utm_medium=rss&utm_campaign=bad-bunny-sells-out-puerto-rico-tour-finale-after-more-than-1million-fans-queue-for-tickets",
+    "timestamp": "2026-08-21T07:23:11+00:00",
+    "isoDate": "2026-08-21",
+    "date": "21 Ago",
+    "d": "The homecoming shows wrap up a huge tour which saw Bad Bunny play in 22 cities across four continents The post Bad Bunny sells out Puerto Rico tour finale after more than 1million fans queue for tickets appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/bad-bunny-sells-out-puerto-rico-tour-finale-after-more-than-1million-fans-queue-for-tickets-3963896?utm_source=rss&utm_medium=rss&utm_campaign=bad-bunny-sells-out-puerto-rico-tour-finale-after-more-than-1million-fans-queue-for-tickets"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "New Song: Lucky Daye – ‘Fly U Out’ (featuring Leon Thomas) - That Grape Juice.net",
+    "src": "That Grape Juice.net",
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNakxNaWVocHFjdXRWRVd2OW5IU1Z0aktZUnZxSG5PckVmRGE2LUh0b2xfMjdJaWt3RmVlWVhNUlFESnp4d2VfY1hUTnhOd1ZVQUo5VVh5MnUyMVdGOW1NTVhkX2pvTmRaV2dnQVlZUGlzeXhodDNNLUdUNnNKai1jYXhiTzZ5U2NHVVg0RkhsX1dzNUdhWk50dzNpRDJWWFFoZ2g0ajZHQlRZaTFMaWwwdEtWcmxzRWdHNmJXR3k4bDE2Uk5BU2UxWTBhTHFRRDZYd0JXblp1T1FCYWdmekxvc0NpVnViVld2N1RrZDBhSFJwMHF1R0UxWTdhaUw2NFptT0NXQ3lmU1FUM0RXZVFn0gGWAUFVX3lxTE83dmdmUXJTYnhXTmMyNExSZkRvc1JLbC1keWJ6aGc5N1JwQVozSk04aFFHUmJoR1ZJbUJYc3Z1dUlReEdmekNsQzRETHNQbVpUOTI3WnF3VzBuNE5pdk5FRktkWmlKZTBoc0RITzZPTnoyN05Rd25wSUxEd3R5bEdhb1Y2dElweU9lTnF0Q0FYVVVZOEd3QQ?oc=5",
+    "timestamp": "2026-08-21T04:32:25+00:00",
+    "isoDate": "2026-08-21",
+    "date": "21 Ago",
+    "d": "New Song: Lucky Daye – ‘Fly U Out’ (featuring Leon Thomas) That Grape Juice.net",
+    "category": "general",
+    "sources": [
+      {
+        "name": "That Grape Juice.net",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNakxNaWVocHFjdXRWRVd2OW5IU1Z0aktZUnZxSG5PckVmRGE2LUh0b2xfMjdJaWt3RmVlWVhNUlFESnp4d2VfY1hUTnhOd1ZVQUo5VVh5MnUyMVdGOW1NTVhkX2pvTmRaV2dnQVlZUGlzeXhodDNNLUdUNnNKai1jYXhiTzZ5U2NHVVg0RkhsX1dzNUdhWk50dzNpRDJWWFFoZ2g0ajZHQlRZaTFMaWwwdEtWcmxzRWdHNmJXR3k4bDE2Uk5BU2UxWTBhTHFRRDZYd0JXblp1T1FCYWdmekxvc0NpVnViVld2N1RrZDBhSFJwMHF1R0UxWTdhaUw2NFptT0NXQ3lmU1FUM0RXZVFn0gGWAUFVX3lxTE83dmdmUXJTYnhXTmMyNExSZkRvc1JLbC1keWJ6aGc5N1JwQVozSk04aFFHUmJoR1ZJbUJYc3Z1dUlReEdmekNsQzRETHNQbVpUOTI3WnF3VzBuNE5pdk5FRktkWmlKZTBoc0RITzZPTnoyN05Rd25wSUxEd3R5bEdhb1Y2dElweU9lTnF0Q0FYVVVZOEd3QQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘Casas portuguesas, com certeza’: como a experiência do fado se preserva em SP - Estadão",
+    "src": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVWx2d2hxN0lrY1BBYXRZd3h2dWxyYTAxbkVMOEFjWndMRnR1MWp5SFc0M2tvR1BiWUlnbjVsOTlmckp3X2hGQWt5aFZLZE96R3dlVVBoM1hHbVZ2UzdZTmFkNEw2dWxpV2NTTFZFdlBSelY5VXNEYjZfczRhdGNUal9DbDNBN2RXYjVDTUtOam84SnVOaEdqMWZR?oc=5",
+    "timestamp": "2026-08-21T08:30:00+00:00",
+    "isoDate": "2026-08-21",
+    "date": "21 Ago",
+    "d": "‘Casas portuguesas, com certeza’: como a experiência do fado se preserva em SP Estadão",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Estadão",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVWx2d2hxN0lrY1BBYXRZd3h2dWxyYTAxbkVMOEFjWndMRnR1MWp5SFc0M2tvR1BiWUlnbjVsOTlmckp3X2hGQWt5aFZLZE96R3dlVVBoM1hHbVZ2UzdZTmFkNEw2dWxpV2NTTFZFdlBSelY5VXNEYjZfczRhdGNUal9DbDNBN2RXYjVDTUtOam84SnVOaEdqMWZR?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Igreja/Portugal: Secretariado Nacional de Liturgia promove o 8.º Curso de Música - Agência ECCLESIA",
+    "src": "Agência ECCLESIA",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWjFSR2NYM1RSMEVFVWY5V3VibC10LWN1UzNuTjUxWUE5V2dNOUdDVUU2dmRhWW1xNWw5Vmwzc2lMRlRXRVh2dkNnb0Q1UU95TGNKdnNzLUI0dzdvemdvMmRIc3ZxaGV1bVFjeDFobzloZUgzdW5QNjZtSHlwN3g0Ny1tQ0ZzS3NIeDdhOUt5WG82OHdSTWNoNFl3RjlNSC1ISkpLQXFJWmFNdGFiN0s2cGhtWTlidw?oc=5",
+    "timestamp": "2026-08-21T07:09:00+00:00",
+    "isoDate": "2026-08-21",
+    "date": "21 Ago",
+    "d": "Igreja/Portugal: Secretariado Nacional de Liturgia promove o 8.º Curso de Música Agência ECCLESIA",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Agência ECCLESIA",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWjFSR2NYM1RSMEVFVWY5V3VibC10LWN1UzNuTjUxWUE5V2dNOUdDVUU2dmRhWW1xNWw5Vmwzc2lMRlRXRVh2dkNnb0Q1UU95TGNKdnNzLUI0dzdvemdvMmRIc3ZxaGV1bVFjeDFobzloZUgzdW5QNjZtSHlwN3g0Ny1tQ0ZzS3NIeDdhOUt5WG82OHdSTWNoNFl3RjlNSC1ISkpLQXFJWmFNdGFiN0s2cGhtWTlidw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "title": "Netflix Sued Over ‘Kpop Demon Hunters’ By Christian Metal Band Called Demon Hunter - Billboard",
@@ -1976,14 +2406,18 @@
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGthOWpsblY2dkxubVpUUE1ubXBWQXY5anlZVlRlV05HRm9NYzdxM3VtaDlONkQ1elNLVFVwVmtOVUpldXh0T2tHSXAzMWRjU24zY0VYNDJNOFdrTHlfOU1KZlR1YW14aDNEdTVBOEdNVTJqbVVyamFYM3FHV2YwcWkzRGFmV2M5V0trVl9TR0ktR0FiNGxrb01wZC00ZTdFbHJ6MWJyTGh1ZDRoc3FWX0dyT2pBc2pEU3JCSQ?oc=5"
       },
       {
+        "name": "The Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3d4eXpRcDdUemF0VW15TXV5eXhkQ3RfNjdBcWthRlVNMEl1Y0F3Uk9MbThNX0FQOUYtcWcxUUg5azJ1aVJ3alRqUHAwQnVUNVNPOHNfN1l2WkZBZjg3cHdlR2NLNXlYdmJVZWRjdTkzRHpNMzFWb2N5ZzBDV2gtOVlnMHRJQnRvaFFmN0xnbVM5akd4bmRwcVNJNU5IUFJaZVB6RGc0WkxyUXlSOUHSAbMBQVVfeXFMUDU4a0liN21jdVFxSHhaeGxEdGJEOG1HVkU1SmE3NVlsSm1ZU0Q1Zk9HbDhzWklLOGh0QzNWbDBlV2RQT05YS1RKQjM3WVBTSTJXM1lMS25FNzA5V01UQ3pLLWlvRF85dWNKclJlaFpyaFJwZElGcmVIckVLQXpPMU10cVEtb3BXOXNoLXBTVktvUmJac1JhalpwWVBjR3FrNjhndmpnY0pjNHQxYTJ2eTJLX0U?oc=5"
+      },
+      {
         "name": "United News of Bangladesh",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUtlR0dBZURzLUtIbFloWVNVTjNJWXdvT203QzIzYmRXUGNhTUNPZzlSZ1pwTnloblp1RWxub01RMS1ucU5ONUpEbmhjb1pLVEJsWFRISjVqZmU5b0NZcVljLUpmQV9HeG5ma2laSjlzNFFldWcyRERiNnZmbWp0Y2lPU2cwRHJXbXFwcnVHOUxsWTIyZWh0akYwWF8yUkZXbnNUUTJvaWtlZXB6dUZXQTVuSmt5NFlJd0lZ?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 4,
-    "isBreaking": true,
+    "sourceCount": 5,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
     "star": true,
@@ -3210,7 +3644,7 @@
     "title": "KPop Demon Hunters Lands Netflix in Legal Fight With Metal Band - mandatory.com",
     "src": "mandatory.com",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbm9UUkE0S2N5cTN5RlhZSEJ4a0toX1lISDRuelpTZnRFZUVZU0tvVVJTdUpHdUJVSmplZnFoNWN2UWxHQ2poSmlvaGJORW52Qnp3czBmWTV2VE9RU2hvQUU3SEdmNUZIVWJiTm14UkVkalJfeDhPcW8xZzdxLUhkeE80Ylcyd3pYbnV4dHJaYUphWTRj?oc=5",
-    "timestamp": "2026-08-20T13:51:41+00:00",
+    "timestamp": "2026-08-20T13:52:31+00:00",
     "isoDate": "2026-08-20",
     "date": "20 Ago",
     "d": "KPop Demon Hunters Lands Netflix in Legal Fight With Metal Band mandatory.com",
@@ -3219,15 +3653,19 @@
       {
         "name": "mandatory.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbm9UUkE0S2N5cTN5RlhZSEJ4a0toX1lISDRuelpTZnRFZUVZU0tvVVJTdUpHdUJVSmplZnFoNWN2UWxHQ2poSmlvaGJORW52Qnp3czBmWTV2VE9RU2hvQUU3SEdmNUZIVWJiTm14UkVkalJfeDhPcW8xZzdxLUhkeE80Ylcyd3pYbnV4dHJaYUphWTRj?oc=5"
+      },
+      {
+        "name": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcENINVJTSWRIbVV6b2VSZEFCN0FJM2h4UHd5MmVfWjU0THdrcVBUc1dyX2w3ZUZhTWF5akpYRUZHd1R2UV9XTE9VTHdKNHVTX1ZCQ1Z4WnFvNXBSVnRLa0VMdXlDMUYtVElhZ042amwwVVhiMHZ6bFRPTEpSSGNYZFUzdDdoNHJDVWtPakhSc21GQUt2dDZWUUQ4N2dLQ0k?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 1,
+    "sourceCount": 2,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": false,
+    "star": true,
     "kind": "news",
     "section": "news"
   },
@@ -4324,10 +4762,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -5539,10 +5977,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -5929,10 +6367,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -5954,10 +6392,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -5979,10 +6417,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -6099,10 +6537,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -6124,10 +6562,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -6415,10 +6853,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -6440,10 +6878,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -7021,6 +7459,131 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Christian metal band sues Netflix over KPop Demon Hunters name - The Guardian",
+    "src": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdUYxQ1VKQXRTOHVLMXNOZ3J6djhzMFhtWFJPN1VnTlRyd3FpY1B5OU94bjdSLU81RzBrY2w0MnlVbXdkNEFHalczbUdmalNCcTlPR1JZdHlyWUVCY0R6dG9ERWFYbnY1SHp1TllDZVJDeVJvbkRBU29ielE3X1o1R2hnSmpTdw?oc=5",
+    "timestamp": "2026-08-20T18:05:00+00:00",
+    "isoDate": "2026-08-20",
+    "date": "20 Ago",
+    "d": "Christian metal band sues Netflix over KPop Demon Hunters name The Guardian",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdUYxQ1VKQXRTOHVLMXNOZ3J6djhzMFhtWFJPN1VnTlRyd3FpY1B5OU94bjdSLU81RzBrY2w0MnlVbXdkNEFHalczbUdmalNCcTlPR1JZdHlyWUVCY0R6dG9ERWFYbnY1SHp1TllDZVJDeVJvbkRBU29ielE3X1o1R2hnSmpTdw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Your Guide to Gigs and Events in Manila This Weekend - Rolling Stone Philippines",
+    "src": "Rolling Stone Philippines",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON3M3VHVSWFNVbURBYzdYVDIyWnhPTk1PdURMdEM0NXFWLVJFc1pidjRJSjdjR3Zrc0tkUVhzODFlWFNkazB5R2xVTFNqTGVXV2pveUtMYkpTYVNmS29XcWRIS2llbGczQV94YkQxaHNGVWlRS2ZVV0s0VXdrNVFOVWk4ZHZzeW45MWc?oc=5",
+    "timestamp": "2026-08-20T13:32:56+00:00",
+    "isoDate": "2026-08-20",
+    "date": "20 Ago",
+    "d": "Your Guide to Gigs and Events in Manila This Weekend Rolling Stone Philippines",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Rolling Stone Philippines",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON3M3VHVSWFNVbURBYzdYVDIyWnhPTk1PdURMdEM0NXFWLVJFc1pidjRJSjdjR3Zrc0tkUVhzODFlWFNkazB5R2xVTFNqTGVXV2pveUtMYkpTYVNmS29XcWRIS2llbGczQV94YkQxaHNGVWlRS2ZVV0s0VXdrNVFOVWk4ZHZzeW45MWc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Questions swirl as Prince Harry and Meghan Markle reportedly plan UK return - News24",
+    "src": "News24",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQX2h2Vl9ORGRyNWNkQ2JUZUltMy15V2MxdDQ3RC1oMHp0bVc3Zk0zaGdUb3l2VGV4YTljNFI3bHhFLVFqM2FNdlBaa3o5ekpUV0hObnlfbEEwd2NoSkJUMlFqWmJxbHdFMktsN004ZWVIU2dVYjVCTDlaaG9OLUdLZ2FyX2NEeC1URDlGSFEyTzhMQVN6Z0tOOF9BZmpNNjBaWUx4dUhIUGdjNkxDWTdWQ0hlMDBoVnBrenJraFdEd2N6NFhTTlJwUmhoOHlOdWJnTDFYUEJpNmhOTGhKeU0zS1Z4eFhqQQ?oc=5",
+    "timestamp": "2026-08-20T10:34:57+00:00",
+    "isoDate": "2026-08-20",
+    "date": "20 Ago",
+    "d": "Questions swirl as Prince Harry and Meghan Markle reportedly plan UK return News24",
+    "category": "general",
+    "sources": [
+      {
+        "name": "News24",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQX2h2Vl9ORGRyNWNkQ2JUZUltMy15V2MxdDQ3RC1oMHp0bVc3Zk0zaGdUb3l2VGV4YTljNFI3bHhFLVFqM2FNdlBaa3o5ekpUV0hObnlfbEEwd2NoSkJUMlFqWmJxbHdFMktsN004ZWVIU2dVYjVCTDlaaG9OLUdLZ2FyX2NEeC1URDlGSFEyTzhMQVN6Z0tOOF9BZmpNNjBaWUx4dUhIUGdjNkxDWTdWQ0hlMDBoVnBrenJraFdEd2N6NFhTTlJwUmhoOHlOdWJnTDFYUEJpNmhOTGhKeU0zS1Z4eFhqQQ?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Poco Lee Reportedly Arrested in UK Over Rape Allegation - El-Balad.com",
+    "src": "El-Balad.com",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkV3RnY3lzY0xxcFY2eVRXTi1YbUtldmlDekM0cG0tcUoycFh0WEJGVm9iUUhYS2V2aE91bURsOHdZaXRqOFJEcw?oc=5",
+    "timestamp": "2026-08-20T07:44:58+00:00",
+    "isoDate": "2026-08-20",
+    "date": "20 Ago",
+    "d": "Poco Lee Reportedly Arrested in UK Over Rape Allegation El-Balad.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "El-Balad.com",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBkV3RnY3lzY0xxcFY2eVRXTi1YbUtldmlDekM0cG0tcUoycFh0WEJGVm9iUUhYS2V2aE91bURsOHdZaXRqOFJEcw?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Williamson Homepage Events - Derek James Music: Ethan Anderson Album Release Party: Writers Round - Williamson Scene",
+    "src": "Williamson Scene",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZEFjTG9nSUFUb1hoa2JsOTlCVmNXbk43ZV85U2RtbjhaZlJYODVmdjdJcjZZUXBQU18ta0ZVNmxvamVPZkN3OC1OMTNla3IzX09WaFdxOTVhb1V6UWFTWVo2UnFMY2VPM2hDQXNIUW13LVRzZXVveXpGMThxTnl5Y28zY2NwaHR3dWJyVFlINWxLRDdQNVktLW5WbVJnYllVYWZfRjdQRXE0ZzgyS2pmLVhVWERFQlI4T2NBSl83Ymt5b2dXLW9zc1dJTHYydWFRbGxhNzJydjBIWEhPWEZURQ?oc=5",
+    "timestamp": "2026-08-20T06:15:26+00:00",
+    "isoDate": "2026-08-20",
+    "date": "20 Ago",
+    "d": "Williamson Homepage Events - Derek James Music: Ethan Anderson Album Release Party: Writers Round Williamson Scene",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Williamson Scene",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZEFjTG9nSUFUb1hoa2JsOTlCVmNXbk43ZV85U2RtbjhaZlJYODVmdjdJcjZZUXBQU18ta0ZVNmxvamVPZkN3OC1OMTNla3IzX09WaFdxOTVhb1V6UWFTWVo2UnFMY2VPM2hDQXNIUW13LVRzZXVveXpGMThxTnl5Y28zY2NwaHR3dWJyVFlINWxLRDdQNVktLW5WbVJnYllVYWZfRjdQRXE0ZzgyS2pmLVhVWERFQlI4T2NBSl83Ymt5b2dXLW9zc1dJTHYydWFRbGxhNzJydjBIWEhPWEZURQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
   },
   {
     "title": "Strung Out Announce Australian Tour Supports For 30th Anniversary Of Suburban Teenage Wasteland Blues - Noise11.com",
@@ -8788,31 +9351,6 @@
     "section": "news"
   },
   {
-    "title": "Christian metal band sues Netflix over KPop Demon Hunters name - The Guardian",
-    "src": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdUYxQ1VKQXRTOHVLMXNOZ3J6djhzMFhtWFJPN1VnTlRyd3FpY1B5OU94bjdSLU81RzBrY2w0MnlVbXdkNEFHalczbUdmalNCcTlPR1JZdHlyWUVCY0R6dG9ERWFYbnY1SHp1TllDZVJDeVJvbkRBU29ielE3X1o1R2hnSmpTdw?oc=5",
-    "timestamp": "2026-08-19T15:31:00+00:00",
-    "isoDate": "2026-08-19",
-    "date": "19 Ago",
-    "d": "Christian metal band sues Netflix over KPop Demon Hunters name The Guardian",
-    "category": "metal",
-    "sources": [
-      {
-        "name": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdUYxQ1VKQXRTOHVLMXNOZ3J6djhzMFhtWFJPN1VnTlRyd3FpY1B5OU94bjdSLU81RzBrY2w0MnlVbXdkNEFHalczbUdmalNCcTlPR1JZdHlyWUVCY0R6dG9ERWFYbnY1SHp1TllDZVJDeVJvbkRBU29ielE3X1o1R2hnSmpTdw?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "news"
-  },
-  {
     "title": "THROWLIGHT Release New Single ‘No Kings’ - HEAVY Magazine",
     "src": "HEAVY Magazine",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxWTJpSm9lNVZtX2lkZWZXQUpRYVZ3OHRMaENaRW54b2hDUlB6U1FFU215TUtGWDRwSTVvMUtPeDJJaTJIbkdaa1BLMklvamZOSURYbmhEZTcxYkc1cUxXUUZleG9wV1pFOTZSVkI0d24?oc=5",
@@ -9150,6 +9688,10 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/demon-hunter-sue-netflix-aeg-kpop-demon-hunters/"
+      },
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tUnI1dGpEczYtMzltRmx0RWNjZ2xiZ1U3ckM5WHd0X0ZyRWQtQzczdlV5S0hjcnFpdm5LckNDNmlpTW9FOVB2R2xwZTV1ZzRISkVmLU1FblQ0R2tPT1dzYW5WOFNZNnp6dWx6YlduTS02ZExuWkRUUA?oc=5"
       }
     ],
     "status": "official",
@@ -13434,17 +13976,17 @@
     "section": "pt"
   },
   {
-    "title": "Vilar de Mouros está de volta! Cinco dias de música e tradição no mais antigo dos festivais portugueses - Flash.pt",
-    "src": "Flash.pt",
+    "title": "Vilar de Mouros está de volta! Cinco dias de música e tradição no mais antigo dos festivais portugueses - flash.pt",
+    "src": "flash.pt",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOGJUYXN6X2t0T1hmRHpRQmlaLTI3X1F6LTUySlk4ZUVBZFp0aTd6NmpOeVdZVzM4Q3poZko0SksyOGt1cjdUQmlNMkpvcWtvY2tSWTI1N2RBc0ZhUDJXNnRoXzlwREFadlZoQW1nSjBMXzMxZTluSUJ3eHk1Sm5NMVpvdnZnbENHSDJIQmY1UWplcUo2bUh6RWJCTHlPX1Y0bzRwNGpfV2ZYSDJ3OGRDMzdCY3A3QzRkRlBXaVU5SnhpTFh1bEhxU0syMVJXOUNL0gHQAUFVX3lxTE44YlRhc3pfa3RPWGZEelFCaVotMjdfUXotNTJKWThlRUFkWnRpN3o2ak55V1lXMzhDemhmSjRKSzI4a3VyN1RCaU0ySm9xa29ja1JZMjU3ZEFzRmFQMlc2dGhfOXBEQVp2VmhBbWdKMExfMzFlOW5JQnd4eTVKbk0xWm92dmdsQ0dIMkhCZjVRamVxSjZtSHpFYkJMeU9fVjRvNHA0al9XZlhIMnc4ZEMzN0JjcDdDNGRGUFdpVTlKeGlMWHVsSHFTSzIxUlc5Q0s?oc=5",
     "timestamp": "2026-08-19T16:40:00+00:00",
     "isoDate": "2026-08-19",
     "date": "19 Ago",
-    "d": "Vilar de Mouros está de volta! Cinco dias de música e tradição no mais antigo dos festivais portugueses Flash.pt",
+    "d": "Vilar de Mouros está de volta! Cinco dias de música e tradição no mais antigo dos festivais portugueses flash.pt",
     "category": "pt",
     "sources": [
       {
-        "name": "Flash.pt",
+        "name": "flash.pt",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOGJUYXN6X2t0T1hmRHpRQmlaLTI3X1F6LTUySlk4ZUVBZFp0aTd6NmpOeVdZVzM4Q3poZko0SksyOGt1cjdUQmlNMkpvcWtvY2tSWTI1N2RBc0ZhUDJXNnRoXzlwREFadlZoQW1nSjBMXzMxZTluSUJ3eHk1Sm5NMVpvdnZnbENHSDJIQmY1UWplcUo2bUh6RWJCTHlPX1Y0bzRwNGpfV2ZYSDJ3OGRDMzdCY3A3QzRkRlBXaVU5SnhpTFh1bEhxU0syMVJXOUNL0gHQAUFVX3lxTE44YlRhc3pfa3RPWGZEelFCaVotMjdfUXotNTJKWThlRUFkWnRpN3o2ak55V1lXMzhDemhmSjRKSzI4a3VyN1RCaU0ySm9xa29ja1JZMjU3ZEFzRmFQMlc2dGhfOXBEQVp2VmhBbWdKMExfMzFlOW5JQnd4eTVKbk0xWm92dmdsQ0dIMkhCZjVRamVxSjZtSHpFYkJMeU9fVjRvNHA0al9XZlhIMnc4ZEMzN0JjcDdDNGRGUFdpVTlKeGlMWHVsSHFTSzIxUlc5Q0s?oc=5"
       }
     ],
@@ -13684,6 +14226,56 @@
     "section": "buzz"
   },
   {
+    "title": "Fernando Ribeiro, dos Moonspell, apresenta novo livro de poesia na Turquia - BOM DIA - Portugal no Mundo",
+    "src": "BOM DIA - Portugal no Mundo",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYXpxUzlMaGh2X1NFeDRVajBhZGoyS2lUa1g5RlFwdEkwUTVjWUljSlBFQkJtbHI3N0lnY3N0VFZGZ0d3U2tzV3BZbHF4V0o1ZzRmc0I2WE1Xb0VraWpzVGEtQTFMdnBrc3BlQmktNzRyYmtkUWFja3dHSEVOM0xrUExCaTBWYmFzRF9WQVVkZnlic1lsYWlNekRwT0NPZVZUcXc?oc=5",
+    "timestamp": "2026-08-19T14:00:00+00:00",
+    "isoDate": "2026-08-19",
+    "date": "19 Ago",
+    "d": "Fernando Ribeiro, dos Moonspell, apresenta novo livro de poesia na Turquia BOM DIA - Portugal no Mundo",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "BOM DIA - Portugal no Mundo",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYXpxUzlMaGh2X1NFeDRVajBhZGoyS2lUa1g5RlFwdEkwUTVjWUljSlBFQkJtbHI3N0lnY3N0VFZGZ0d3U2tzV3BZbHF4V0o1ZzRmc0I2WE1Xb0VraWpzVGEtQTFMdnBrc3BlQmktNzRyYmtkUWFja3dHSEVOM0xrUExCaTBWYmFzRF9WQVVkZnlic1lsYWlNekRwT0NPZVZUcXc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Music festival organised in aid of Galway child with brain injuries - Connacht Tribune",
+    "src": "Connacht Tribune",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zVUc3N0F3YUJORDk0YUhTRENzd3VqS2RKQUlHYi1yZ2xRc3JNbmYyVTZyN2tHSkNyUkFYOUd0cThMOENRNXYtTXc5bk0zRWRXTHZhZ1IwX2xzWGhBZkNhRk1YWWwxMWVxQUpjQ1JpbFF4Q1hfU3JDVUtYS2FsUQ?oc=5",
+    "timestamp": "2026-08-19T18:37:00+00:00",
+    "isoDate": "2026-08-19",
+    "date": "19 Ago",
+    "d": "Music festival organised in aid of Galway child with brain injuries Connacht Tribune",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Connacht Tribune",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zVUc3N0F3YUJORDk0YUhTRENzd3VqS2RKQUlHYi1yZ2xRc3JNbmYyVTZyN2tHSkNyUkFYOUd0cThMOENRNXYtTXc5bk0zRWRXTHZhZ1IwX2xzWGhBZkNhRk1YWWwxMWVxQUpjQ1JpbFF4Q1hfU3JDVUtYS2FsUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
     "title": "Sabbath Wasn't Alone in Creating Metal: Two Bands Got There Before Them, One Coined a Phrase That Still Defines the Genre - Ultimate Guitar",
     "src": "Ultimate Guitar",
     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVTFBTW0xREpDemMxb3Z0M3dDTlJ0TEk1MC1rOFBBY2hFVE9BX2t5U05WOEd4NndDRVdGb2F2NllROXpWMmNpeVA2RVVYZ1FiWGpuZlV4MWJwS3pxZmtRM09CNUdQcnh1NWpQcXUxOWVBa2RzWTJtVXIzVHRxNHA1NlZkUXpDeHBLQmF4M0ZEOHhvTFlNSmhYMFRuZkRBZ21MeFd1RTNxUWQxbXRsY1YtcHQ5YmVYVDlyLTV6bU4zZDFsRV82TVBnNm1qSm0wWmZfUDAxNkFVUEtfN0s2ZTFfOUl0N0p2eS1RcENuYWJMdDUtNUJFbTkyX053MnJVZ2xFaEEtdjl3?oc=5",
@@ -13707,31 +14299,6 @@
     "star": false,
     "kind": "news",
     "section": "news"
-  },
-  {
-    "title": "Fernando Ribeiro, dos Moonspell, apresenta novo livro de poesia na Turquia - BOM DIA - Portugal no Mundo",
-    "src": "BOM DIA - Portugal no Mundo",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYXpxUzlMaGh2X1NFeDRVajBhZGoyS2lUa1g5RlFwdEkwUTVjWUljSlBFQkJtbHI3N0lnY3N0VFZGZ0d3U2tzV3BZbHF4V0o1ZzRmc0I2WE1Xb0VraWpzVGEtQTFMdnBrc3BlQmktNzRyYmtkUWFja3dHSEVOM0xrUExCaTBWYmFzRF9WQVVkZnlic1lsYWlNekRwT0NPZVZUcXc?oc=5",
-    "timestamp": "2026-08-18T07:00:00+00:00",
-    "isoDate": "2026-08-18",
-    "date": "18 Ago",
-    "d": "Fernando Ribeiro, dos Moonspell, apresenta novo livro de poesia na Turquia BOM DIA - Portugal no Mundo",
-    "category": "pt",
-    "sources": [
-      {
-        "name": "BOM DIA - Portugal no Mundo",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYXpxUzlMaGh2X1NFeDRVajBhZGoyS2lUa1g5RlFwdEkwUTVjWUljSlBFQkJtbHI3N0lnY3N0VFZGZ0d3U2tzV3BZbHF4V0o1ZzRmc0I2WE1Xb0VraWpzVGEtQTFMdnBrc3BlQmktNzRyYmtkUWFja3dHSEVOM0xrUExCaTBWYmFzRF9WQVVkZnlic1lsYWlNekRwT0NPZVZUcXc?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": true,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "pt"
   },
   {
     "b": "God’s Hate",
@@ -25912,6 +26479,31 @@
     "section": "pt"
   },
   {
+    "title": "Solomun vai atuar na mega festa de aniversário do Brunch Electronik em Lisboa - nit.pt",
+    "src": "nit.pt",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkE1LUJnOUc2VF9ta2doLWpwbl9XQTY1MW5YNkRPNmhsSWtrUENOUllidmF3aURPNmJkU1ZuWWdBNDl3MTRtSXlaQUdYZXZvODVKVHpsU05raWFXaFVFUkg2dFdsN3RhTDVRTUtVTmUxZFlUb3ZZTnRTczN5dHdXSnB4UWRDNkxtQmpUUDlabE1wdU1rVmZyTThESngwVU9uU1ltQlFKY3diS0N3M0laUg?oc=5",
+    "timestamp": "2026-08-17T15:49:00+00:00",
+    "isoDate": "2026-08-17",
+    "date": "17 Ago",
+    "d": "Solomun vai atuar na mega festa de aniversário do Brunch Electronik em Lisboa nit.pt",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "nit.pt",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkE1LUJnOUc2VF9ta2doLWpwbl9XQTY1MW5YNkRPNmhsSWtrUENOUllidmF3aURPNmJkU1ZuWWdBNDl3MTRtSXlaQUdYZXZvODVKVHpsU05raWFXaFVFUkg2dFdsN3RhTDVRTUtVTmUxZFlUb3ZZTnRTczN5dHdXSnB4UWRDNkxtQmpUUDlabE1wdU1rVmZyTThESngwVU9uU1ltQlFKY3diS0N3M0laUg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
     "title": "Portimão: “MAR ME QUER” reúne mais de 30 mil pessoas durante “um dos grandes festivais de verão” em Portugal - SAPO",
     "src": "SAPO",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUzgtYXpSOUZMRWtZMl84ZkI0OW5KQkt5NDFoWGxCaTZjU0RQNjcxbk9iT2JYU01jcWdKLVV2eU9oUVBKQThtQmxfd21oVWNLQ3kyU3JNT2FLcEY2MUkwYzVzZFRJZjd6SGVxcW5URzVKVXE1WUZ2dU5iU2dMRUw3SHdmSzFuT2hkd0RJV3RRMlJxa2VxRHZOME1XdGxwYXlOMFJZWUFDdUp4VUxWMndfNm1aSXpLWmR1SDVvcldvS3ZHc0IyWWfSAcsBQVVfeXFMT2E2bHRzOWpVY1RhV2hTT3M3NjhZM25EV1NucDZwN2Y5WDVDODZqXzhVdXZLVk53eWowQnk0WDhiQ0NPX2c1d1NVQTNhblNxcklrNkVGZEdXb1BndmphRlVOaXBMZjl6OURjN0pZMTljWDBJX0ZyZW84dVU5cjBpc0czYnRuUTNwc3hxRUY3dXA2eHRUa3B4czRxMTlRLW9Ub05LOFpvTHh6YmNaby1vTUdCcnJSZXpyR0dPUzRZVHB5NjI1WE5pVHp2T1k?oc=5",
@@ -31229,6 +31821,31 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "More Brighton bands play at largest punk festival – ‘Rebellion’ Day Three Report - sussexonlinenews.co.uk",
+    "src": "sussexonlinenews.co.uk",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeU11XzVuRUdGZEE2dzE5cF9qNktFT1hhVUpiVF9pRWFmV1Jscy1jNGJVVXo0akU1MF96UUwzUHNJSTI4U0N6bUpLSW5IX1RJS2MzVW9lN2NySHJhX3M0SEVoZG9yNDAtOVdVbG9IMmFqS2VxRU05SXdGbC1TZWl5ZnlOUVpPNzJEM1dxb1ZubDhjU1R0eHJadGNCMndiNzZ0YlZ0TEZ5S19xWnBGeXFobVJ4bHZET1RzNi1n?oc=5",
+    "timestamp": "2026-08-15T21:04:08+00:00",
+    "isoDate": "2026-08-15",
+    "date": "15 Ago",
+    "d": "More Brighton bands play at largest punk festival – ‘Rebellion’ Day Three Report sussexonlinenews.co.uk",
+    "category": "core",
+    "sources": [
+      {
+        "name": "sussexonlinenews.co.uk",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeU11XzVuRUdGZEE2dzE5cF9qNktFT1hhVUpiVF9pRWFmV1Jscy1jNGJVVXo0akU1MF96UUwzUHNJSTI4U0N6bUpLSW5IX1RJS2MzVW9lN2NySHJhX3M0SEVoZG9yNDAtOVdVbG9IMmFqS2VxRU05SXdGbC1TZWl5ZnlOUVpPNzJEM1dxb1ZubDhjU1R0eHJadGNCMndiNzZ0YlZ0TEZ5S19xWnBGeXFobVJ4bHZET1RzNi1n?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
   },
   {
     "title": "The 20 most underappreciated bands of all time - Yardbarker",
