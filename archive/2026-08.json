@@ -202,10 +202,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -431,10 +431,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -456,10 +456,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -481,10 +481,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -506,10 +506,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -531,10 +531,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -556,10 +556,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -581,10 +581,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -606,10 +606,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -631,10 +631,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -943,7 +943,7 @@
     "title": "Big Thief Just Performed Their New Triple Album 'Horsepower' Live - Exclaim!",
     "src": "Exclaim!",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSVN3SE5wZ0RDeE1EcjVUdHg2VkgtYU5JSmZfX3Ffd2Njamk1NDFxVzgtVTRFbXVJRjRJdGtacDNXeWRDNUdHUDZLdHZwRU43SXE0andnNXdNT3R3X1AzZFo1Q01IZk1qeVFwb3pkMGVJd1V0XzNyLW80VjAzbDYwRnFJQTNKTFdlVURqd0xBd2cyazdCYmc?oc=5",
-    "timestamp": "2026-08-23T14:03:40+00:00",
+    "timestamp": "2026-08-23T14:46:03+00:00",
     "isoDate": "2026-08-23",
     "date": "23 Ago",
     "d": "Big Thief Just Performed Their New Triple Album 'Horsepower' Live Exclaim!",
@@ -1107,10 +1107,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1132,10 +1132,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1153,6 +1153,652 @@
     "releaseKey": "deceptor|reign of terror review",
     "kind": "review",
     "section": "rev"
+  },
+  {
+    "b": "One Last Dance",
+    "t": "As The Anchor Splits The Sea",
+    "g": "core",
+    "fmt": "EP",
+    "lbl": "MusicBrainz",
+    "date": "23 Ago",
+    "isoDate": "2026-08-23",
+    "url": "https://musicbrainz.org/release-group/ccd3750a-e044-439e-8e7e-a118bf0ad564",
+    "d": "deathcore",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/ccd3750a-e044-439e-8e7e-a118bf0ad564"
+      }
+    ],
+    "mbid": "ccd3750a-e044-439e-8e7e-a118bf0ad564",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "title": "A Day To Remember Turns Heavy Music Into A Full-Blown Cruise Takeover - That Eric Alper",
+    "src": "That Eric Alper",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTW8xZnBVWjl3MHZzQ2t5LW9ucGlMR1hySE9FSTNzY0RWYWpGbWtUVFplSE1fM0FMWnBEYm50WmdFZ2Q0b3doRVpVYTlfRlgxVjRLMFBaZjJmQV9UNUtzYUxIMW1wSUZEa3A1dGpzbFE1aGJGcEtuLTQ3VHpBQW9UVU56bVBCbFZhTmluT1FqZ0RPbjhjYlVGYzVUd2kzNS1VSjlEWUJhakM3M1A4LUlsaw?oc=5",
+    "timestamp": "2026-08-23T20:03:44+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "A Day To Remember Turns Heavy Music Into A Full-Blown Cruise Takeover That Eric Alper",
+    "category": "core",
+    "sources": [
+      {
+        "name": "That Eric Alper",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTW8xZnBVWjl3MHZzQ2t5LW9ucGlMR1hySE9FSTNzY0RWYWpGbWtUVFplSE1fM0FMWnBEYm50WmdFZ2Q0b3doRVpVYTlfRlgxVjRLMFBaZjJmQV9UNUtzYUxIMW1wSUZEa3A1dGpzbFE1aGJGcEtuLTQ3VHpBQW9UVU56bVBCbFZhTmluT1FqZ0RPbjhjYlVGYzVUd2kzNS1VSjlEWUJhakM3M1A4LUlsaw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Ice-T Talks New Body Count Album “Death Wish” & The U.S. Political ‘Sh*t Show’: “When Obama Was In, The World Wasn’t In This Much Disarray”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/23/news/ice-t-talks-new-body-count-album-death-wish-the-u-s-political-sht-show-when-obama-was-in-the-world-wasnt-in-this-much-disarray/",
+    "timestamp": "2026-08-23T20:02:12+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "It seems there's a chance that \"Death Wish\" might not be streaming either. The post Ice-T Talks New Body Count Album “Death Wish” & The U.S. Political ‘Sh*t Show’: “When Obama Was In, The World Wasn’t In This Much Disarray” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/23/news/ice-t-talks-new-body-count-album-death-wish-the-u-s-political-sht-show-when-obama-was-in-the-world-wasnt-in-this-much-disarray/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "BODY COUNT's ICE-T: 'It's So Obvious To The World That The United States Is Having A S*** Show Right Now'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/body-counts-ice-t-its-so-obvious-to-the-world-that-the-united-states-is-having-a-s-show-right-now",
+    "timestamp": "2026-08-23T19:29:22+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "In a new interview with Czech Republic's Metalshop TV, BODY COUNT frontman Ice-T and guitarist Ernie \"C\" Cunnigan were asked if they have already started work on material for the follow-up to the band's \"Merciless\" album, which came out in November 2024 via Century Media. Ice-T responded (as transcr...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/body-counts-ice-t-its-so-obvious-to-the-world-that-the-united-states-is-having-a-s-show-right-now"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch: Dark Tranquillity & In Flames’ Anders Fridén Paid Tribute To Tomas Lindberg With A Cover Of At The Gates’ “Blinded By Fear”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/23/news/watch-dark-tranquillity-in-flames-anders-friden-paid-tribute-to-tomas-lindberg-with-a-cover-of-at-the-gates-blinded-by-fear/",
+    "timestamp": "2026-08-23T19:20:35+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "At yesterday's 'Göteborg Brinner' festival in Gothenburg, Sweden. The post Watch: Dark Tranquillity & In Flames’ Anders Fridén Paid Tribute To Tomas Lindberg With A Cover Of At The Gates’ “Blinded By Fear” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/23/news/watch-dark-tranquillity-in-flames-anders-friden-paid-tribute-to-tomas-lindberg-with-a-cover-of-at-the-gates-blinded-by-fear/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Here’s This Week’s Top Ten Stories On Theprp.com (August 23rd, 2026)",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/23/news/heres-this-weeks-top-ten-stories-on-theprp-com-august-23rd-2026/",
+    "timestamp": "2026-08-23T19:07:34+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "Ozzfest, sushi, tributes, doom and more. The post Here’s This Week’s Top Ten Stories On Theprp.com (August 23rd, 2026) appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/23/news/heres-this-weeks-top-ten-stories-on-theprp-com-august-23rd-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "B.E.G. (No Cure, Orthodox, Etc.) Launch Their Debut Demo “We Don’t Need You, Plain And Simple”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/23/news/b-e-g-no-cure-orthodox-etc-launch-their-debut-demo-we-dont-need-you-plain-and-simple/",
+    "timestamp": "2026-08-23T18:54:03+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "Their first four tracks are now available. The post B.E.G. (No Cure, Orthodox, Etc.) Launch Their Debut Demo “We Don’t Need You, Plain And Simple” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/23/news/b-e-g-no-cure-orthodox-etc-launch-their-debut-demo-we-dont-need-you-plain-and-simple/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch: Foo Fighters Performed With The Los Angeles Philharmonic At The Hollywood Bowl Last Night",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/23/news/watch-foo-fighters-performed-with-the-los-angeles-philharmonic-at-the-hollywood-bowl-last-night/",
+    "timestamp": "2026-08-23T18:34:22+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "After Grohl & the LA Phil united at the 2025 'Coachella', the pair have newly teamed up for a full-fledged set together. The post Watch: Foo Fighters Performed With The Los Angeles Philharmonic At The Hollywood Bowl Last Night appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/23/news/watch-foo-fighters-performed-with-the-los-angeles-philharmonic-at-the-hollywood-bowl-last-night/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "SILENOZ On DIMMU BORGIR's Longevity: 'We Love What We Do, And We're Meant To Do This'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/silenoz-on-dimmu-borgirs-longevity-we-love-what-we-do-and-were-meant-to-do-this",
+    "timestamp": "2026-08-23T18:09:53+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "In a interview with Łukasz Dunaj of Noise Magazine at this year's Mystic Festival in Gdańsk, Poland, which took place from June 3 to 6, 2026, guitarist Sven \"Silenoz\" Kopperud of Norwegian symphonic black metallers DIMMU BORGIR was asked to name the \"most difficult moment\" in the the band's history...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/silenoz-on-dimmu-borgirs-longevity-we-love-what-we-do-and-were-meant-to-do-this"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "ZZ Top Play First Show Since Frank Beard's Death: Setlist + Video",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/zz-top-first-show-since-frank-beard-death/",
+    "timestamp": "2026-08-23T16:42:02+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "\"We're all here for a celebration,\" Billy Gibbons said. And celebrate they did. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/zz-top-first-show-since-frank-beard-death/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "WATCH: IN FLAMES Joined By TRIVIUM's Matt Heafy and DARK TRANQUILITY's Mikael Stanne For Göteborg Brinner Performance",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/watch-in-flames-joined-by-triviums-matt-heafy-and-dark-tranquilitys-mikael-stanne-for-goteborg-brinner-performance",
+    "timestamp": "2026-08-23T16:39:57+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "In Flames returned to the city whose sound they helped to define on Saturday night (August 22), headlining Göteborg Brinner festival at Frihamnen. To help celebrate the event, the band […] The post WATCH: IN FLAMES Joined By TRIVIUM's Matt Heafy and DARK TRANQUILITY's Mikael Stanne For Göteborg Brinner Performance appe",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/watch-in-flames-joined-by-triviums-matt-heafy-and-dark-tranquilitys-mikael-stanne-for-goteborg-brinner-performance"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "GENE SIMMONS On Why He Continues Performing Live: 'I Can't Stay Off The Stage. I Love It Too Much.'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/gene-simmons-on-why-he-continues-performing-live-i-cant-stay-off-the-stage-i-love-it-too-much",
+    "timestamp": "2026-08-23T16:21:58+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "In a new interview with Detroit's classic rock station 94.7 WCSX, KISS bassist/vocalist Gene Simmons explained why he continues to perform with his solo band, GENE SIMMONS BAND, nearly three years after KISS played the final concert of the group's \"End Of The Road\" farewell tour. He said (as transcr...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/gene-simmons-on-why-he-continues-performing-live-i-cant-stay-off-the-stage-i-love-it-too-much"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Cold Velvet",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/reviews/cold-velvet",
+    "timestamp": "2026-08-23T16:17:38+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "Ahead of their time and gone-too-soon, dark occult Goth metallers IN SOLITUDE's 2013 \"Sister\" studio album has become an unofficial roadmap for the bands following in their wake. While it didn't appear so at the time, IN SOLITUDE left a gaping hole that, to some degree, has been filled by the likes...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/reviews/cold-velvet"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "New “Letterboxd for clubbing” app lets you rate DJs after a night out",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/new-letterboxd-for-clubbing-app-lets-you-rate-djs-after-a-night-out-3964249?utm_source=rss&utm_medium=rss&utm_campaign=new-letterboxd-for-clubbing-app-lets-you-rate-djs-after-a-night-out",
+    "timestamp": "2026-08-23T20:00:42+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "Seen Live also allows users to log gigs, upload photos and discover artists through other people's reviews The post New “Letterboxd for clubbing” app lets you rate DJs after a night out appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/new-letterboxd-for-clubbing-app-lets-you-rate-djs-after-a-night-out-3964249?utm_source=rss&utm_medium=rss&utm_campaign=new-letterboxd-for-clubbing-app-lets-you-rate-djs-after-a-night-out"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "BBC Introducing announce ‘LIVE’ events across the UK for young artists after being axed from Reading & Leeds",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/bbc-introducing-announce-live-events-across-the-uk-for-young-artists-after-being-axed-from-reading-leeds-3964245?utm_source=rss&utm_medium=rss&utm_campaign=bbc-introducing-announce-live-events-across-the-uk-for-young-artists-after-being-axed-from-reading-leeds",
+    "timestamp": "2026-08-23T18:57:05+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "The programme will span 10 locations with performances, workshops, open mics and panels The post BBC Introducing announce ‘LIVE’ events across the UK for young artists after being axed from Reading & Leeds appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/bbc-introducing-announce-live-events-across-the-uk-for-young-artists-after-being-axed-from-reading-leeds-3964245?utm_source=rss&utm_medium=rss&utm_campaign=bbc-introducing-announce-live-events-across-the-uk-for-young-artists-after-being-axed-from-reading-leeds"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Bret Michaels Cancels All Scheduled Tour Dates As He Recovers from Recent Surgeries",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/bret-michaels-tour-dates-canceled-surgery/",
+    "timestamp": "2026-08-23T18:52:07+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "The 63-year-old Poison singer underwent surgery to remove a kidney stone and have a ureteral stent placed. Bret Michaels Cancels All Scheduled Tour Dates As He Recovers from Recent Surgeries Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/bret-michaels-tour-dates-canceled-surgery/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Dr. Dre says he is “embracing” AI in music: “It’s a new tool for creativity”",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/dr-dre-says-he-is-embracing-ai-in-music-its-a-new-tool-for-creativity-3964241?utm_source=rss&utm_medium=rss&utm_campaign=dr-dre-says-he-is-embracing-ai-in-music-its-a-new-tool-for-creativity",
+    "timestamp": "2026-08-23T17:57:16+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "The hip-hop legend compared opposition to the technology with the early reaction to drum machines and synthesisers The post Dr. Dre says he is “embracing” AI in music: “It’s a new tool for creativity” appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/dr-dre-says-he-is-embracing-ai-in-music-its-a-new-tool-for-creativity-3964241?utm_source=rss&utm_medium=rss&utm_campaign=dr-dre-says-he-is-embracing-ai-in-music-its-a-new-tool-for-creativity"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Hundreds of Pounds of Drugs Seized, Three More Arrested at Gathering of the Juggalos, Police Say",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/drugs-arrests-at-gathering-of-the-juggalos/",
+    "timestamp": "2026-08-23T17:34:38+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "Marijuana, mushrooms, ketamine, fentanyl, and MDMA were all seized as part of the stakeout. Hundreds of Pounds of Drugs Seized, Three More Arrested at Gathering of the Juggalos, Police Say Travis Bland",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/drugs-arrests-at-gathering-of-the-juggalos/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Big Thief Play Setlist Made Entirely of Upcoming Triple Album, Horsepower",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/big-thief-horsepower-setlist/",
+    "timestamp": "2026-08-23T17:24:28+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "The 29-song set featured guest spots by Americana luminaries such as Gillian Welch, Lucinda Williams, and Iris DeMent. Big Thief Play Setlist Made Entirely of Upcoming Triple Album, Horsepower Travis Bland",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/big-thief-horsepower-setlist/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Watch Foo Fighters play rarities with LA Philharmonic Orchestra at Hollywood Bowl",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/watch-foo-fighters-play-rarities-with-la-philharmonic-orchestra-at-hollywood-bowl-3964237?utm_source=rss&utm_medium=rss&utm_campaign=watch-foo-fighters-play-rarities-with-la-philharmonic-orchestra-at-hollywood-bowl",
+    "timestamp": "2026-08-23T17:00:01+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "The one-off set was part of a celebration for the orchestra's outgoing music director Gustavo Dudamel The post Watch Foo Fighters play rarities with LA Philharmonic Orchestra at Hollywood Bowl appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/watch-foo-fighters-play-rarities-with-la-philharmonic-orchestra-at-hollywood-bowl-3964237?utm_source=rss&utm_medium=rss&utm_campaign=watch-foo-fighters-play-rarities-with-la-philharmonic-orchestra-at-hollywood-bowl"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "A sticky situation: SARS reportedly slaps Somizi Mhlongo with massive tax bill - Briefly News",
+    "src": "Briefly News",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdXZUWFlOY2VTMEV2MENuUGZZMkpSVTc0OHhhV2paSFY1UTBLR2RiUklSM1JXZjl0a1JlSU1wNURmdV9NTmZQaU1YclFLSGFVYm4yTmdFQU5PdjJjMVRVMWJIampEZmN3TVdwX1RId1BKWTR0RUJNOGE0dDF3VTI3RHIyS01QanMwMHdiSFdvRHI4WmUxbUNFa2toUnlyaXJtMkRkOWg1YVhyMjR2UllrUzVsWFlBTTVjZHg4TmxhM2dxZw?oc=5",
+    "timestamp": "2026-08-23T16:40:52+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "A sticky situation: SARS reportedly slaps Somizi Mhlongo with massive tax bill Briefly News",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Briefly News",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdXZUWFlOY2VTMEV2MENuUGZZMkpSVTc0OHhhV2paSFY1UTBLR2RiUklSM1JXZjl0a1JlSU1wNURmdV9NTmZQaU1YclFLSGFVYm4yTmdFQU5PdjJjMVRVMWJIampEZmN3TVdwX1RId1BKWTR0RUJNOGE0dDF3VTI3RHIyS01QanMwMHdiSFdvRHI4WmUxbUNFa2toUnlyaXJtMkRkOWg1YVhyMjR2UllrUzVsWFlBTTVjZHg4TmxhM2dxZw?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "How much money do Super Bowl halftime performers actually make? - Business Upturn",
+    "src": "Business Upturn",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSFdFNERraVhhbDNkelFnRlBUOVA4amEtdzNNaVdJNEVJdWJwQ3ExWklNNlQzSXFvVzMzNnZpUC1ZZV81eTI5T2I4S0JONW1yU2JhaHJPZmxxdk5wbXo5SVdCOXhQajZQblVtVmlTRG5vaVdCM2V6U0VKdUJ3dlpyTDZ2UThHd2lYQnJCUkZ2WkZCZ0lMRGY0c2JCQWZKYjl2QUIxbVFmeVpzUUl4d2h4ZlBB?oc=5",
+    "timestamp": "2026-08-23T16:10:00+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "How much money do Super Bowl halftime performers actually make? Business Upturn",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Business Upturn",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSFdFNERraVhhbDNkelFnRlBUOVA4amEtdzNNaVdJNEVJdWJwQ3ExWklNNlQzSXFvVzMzNnZpUC1ZZV81eTI5T2I4S0JONW1yU2JhaHJPZmxxdk5wbXo5SVdCOXhQajZQblVtVmlTRG5vaVdCM2V6U0VKdUJ3dlpyTDZ2UThHd2lYQnJCUkZ2WkZCZ0lMRGY0c2JCQWZKYjl2QUIxbVFmeVpzUUl4d2h4ZlBB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music - The New York Times",
+    "src": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWlDZDZZSUMyTEhvZVdiMjJEMXRVT1FyMEJrN1dQbFNJdW9qV1RqY3had2lUX3RMeUg3aWl5TlMyd3FXeW5QelhvajlSTUplTUMxdzRTYnJPOGtTZXVxV3FYM3JYYUdmZW5BcU96OHNrX1k2eTZlbVVWMHdTcG02WTQ2Z1Y?oc=5",
+    "timestamp": "2026-08-23T09:01:07+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "Dr. Dre and Jimmy Iovine Think A.I. Is Good for Music The New York Times",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWlDZDZZSUMyTEhvZVdiMjJEMXRVT1FyMEJrN1dQbFNJdW9qV1RqY3had2lUX3RMeUg3aWl5TlMyd3FXeW5QelhvajlSTUplTUMxdzRTYnJPOGtTZXVxV3FYM3JYYUdmZW5BcU96OHNrX1k2eTZlbVVWMHdTcG02WTQ2Z1Y?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "ONU: “Portugal e os portugueses podem ajudar muito” na recuperação da Venezuela - BOM DIA - Portugal no Mundo",
+    "src": "BOM DIA - Portugal no Mundo",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNWN5M0pkcnhTZ3pQVGh2UFJfX0RZX1VETVR2eE9sV1l2RVJSMmxtS0NKczRjZGF2dmlWcDdJV3pNMzRDQ1FQdVE0NmwyYUs1NmF4REg0S0tvNHZZcEVrVE1XTUJnbnV3LXZoeXlNZTJfazlBZkpGMWFpMGFCbE5ZV1UwNUltV0lydmEwbEhramFLUnZOVFoxcmpvcw?oc=5",
+    "timestamp": "2026-08-23T18:35:33+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "ONU: “Portugal e os portugueses podem ajudar muito” na recuperação da Venezuela BOM DIA - Portugal no Mundo",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "BOM DIA - Portugal no Mundo",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNWN5M0pkcnhTZ3pQVGh2UFJfX0RZX1VETVR2eE9sV1l2RVJSMmxtS0NKczRjZGF2dmlWcDdJV3pNMzRDQ1FQdVE0NmwyYUs1NmF4REg0S0tvNHZZcEVrVE1XTUJnbnV3LXZoeXlNZTJfazlBZkpGMWFpMGFCbE5ZV1UwNUltV0lydmEwbEhramFLUnZOVFoxcmpvcw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "CA Vilar de Mouros 2026: Groove, canções e uma noite para respirar com Triggerfinger, War, Ben Harper e KALEO",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/ca-vilar-de-mouros-2026-groove-cancoes-e-uma-noite-para-respirar-com-triggerfinger-war-ben-harper-e-kaleo/",
+    "timestamp": "2026-08-23T16:59:29+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "%featured_image% O quarto dia do CA Vilar de Mouros 2026 abrandou o ritmo, entre o psicadelismo dos Monstro, o rock pesado dos Triggerfinger, o groove contagiante dos WAR e a intimidade de Ben Harper. Um dia de sol, canções, guitarras e memórias partilhadas, que encontrou nos WAR e em Ben Harper os seus momentos mais f",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/ca-vilar-de-mouros-2026-groove-cancoes-e-uma-noite-para-respirar-com-triggerfinger-war-ben-harper-e-kaleo/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Seniores do Centro Social Paroquial de Rio de Loba estreiam-se em festival de metal - Diário de Viseu",
+    "src": "Diário de Viseu",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeGV5d29MWmJVSm5xTnpuSTFfelhaanZaUWVKb3U1eTJLdzVhN1c5U3prWG1McVllR2taNU5HMllyaUJtaEk2cThWcXJxUF94SlpER3VzUXZqNk5yTmlMR2t5SWg5VDUxcFNIQnhBVFRNOVBIMmI0MGdFdmc4YW91Vjk2MTN4YnJSQnczWnpZWEcxa2FxV1ZEeGdyT2FvMkU5Q2VQX2hBRlo0WVhLSE5XbFFTRF9UOG1jTnA1Wkx1OA?oc=5",
+    "timestamp": "2026-08-23T15:45:00+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "Seniores do Centro Social Paroquial de Rio de Loba estreiam-se em festival de metal Diário de Viseu",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Diário de Viseu",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeGV5d29MWmJVSm5xTnpuSTFfelhaanZaUWVKb3U1eTJLdzVhN1c5U3prWG1McVllR2taNU5HMllyaUJtaEk2cThWcXJxUF94SlpER3VzUXZqNk5yTmlMR2t5SWg5VDUxcFNIQnhBVFRNOVBIMmI0MGdFdmc4YW91Vjk2MTN4YnJSQnczWnpZWEcxa2FxV1ZEeGdyT2FvMkU5Q2VQX2hBRlo0WVhLSE5XbFFTRF9UOG1jTnA1Wkx1OA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "title": "Baby's First Pistol break down every track on their debut album 'Affirmation Celebration'! - Punknews",
@@ -1890,10 +2536,6 @@
       {
         "name": "DN Brasil",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRWRkbW5qeUFQNHEtRTlwd0sta0FncTNadG9zU0NpRmV0c0pVZ0xSZWJxQnFLbEJ0TDhaYTVVT09ScnNIZi1tSHN2YjU4dnFFZ3FVSG9neXQzQkRxNFExcGp4OUpqX012d0lnNE54STVMc1BvaUxiWE95RVI4RDB5YXlQRExIeUp1YkdudTVQMTJPLTIxUE9kaDZTRVl3ckRWbUh1LTdwSUNwS2NyV2NkcU8waVMzcjA2NUdMZ1R2OUJ3a0Nw?oc=5"
-      },
-      {
-        "name": "DN Brasil",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcDdTcXVaU0hyVmFMcDVPSTlYYVZWeW5Xb1IxbTNNb09SMERfRVJEb1ppeldpM1gyazJmS1V5ZDlSYjJRSW0xcFk2Z2NaQnFpNzI3S20yNXFtOHVYWXJON0VmZDNrYlpLY05tUFJhZGR2NUstbnNNR1loNHFyMG5iMmxqUjRzTEUyejNjYnowYllDTEl3MWQtMk5VeWJqWUhScmVLTnVjMUVyTFZIeTVsbXNPZ1o0S29FZzdPMVVVV1VVWVhyLXoxazl6LWU?oc=5"
       }
     ],
     "status": "official",
@@ -2963,10 +3605,6 @@
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNREdwQ052NlJXdU1lRTNGYVNJenE4UWNGa0VUQWZrQ211Y01qZFlLT2ZGR0RzajRjRjgtOWlRaTB6WDRycjE3STdUeEhaUkZLZkMzZzdxS2pFWW56elo1dFFpbldNMXI2X003UVQwNndibVNDLWtuWmc2bEwzTXJuellOY2VGMmk5LVhWekRSS3k3dENLQnA3aHdFYnh3Z2ZSRjNvcmNwb3lVbWFOOGlGWm5JR1ZNWUpzRHVyVkRkWDdYdzRwRThBNml0aVc2a0pNdmxpMzF30gHWAUFVX3lxTFBmbnlCdjNWcFVTSldVNFYtU2JJS2tCM3NBYzBucl95cHlMTXNNaTZMSzFQV0pXUWsyTEpPdWpBTVdSd1RHNWwxWlBmazdfclM1VlpyNUtpY0UzZFBuTmRfcFVsSWR4ekFWcjl5c0lleWZ0QnJpT0hneUNFclRzUUZ3Tk1WTTl2cXhkTDV2TmhFZUJHeExKQXJNTEo3eWFpeUs3TGFGb3ZFaURacVhnQTJucG1TZVhEV1NiLXFKYkFWZ1A5dk5xSzIwUUMydHNqcXVyMUZfT3c?oc=5"
       },
       {
-        "name": "themusic.com.au",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGthOWpsblY2dkxubVpUUE1ubXBWQXY5anlZVlRlV05HRm9NYzdxM3VtaDlONkQ1elNLVFVwVmtOVUpldXh0T2tHSXAzMWRjU24zY0VYNDJNOFdrTHlfOU1KZlR1YW14aDNEdTVBOEdNVTJqbVVyamFYM3FHV2YwcWkzRGFmV2M5V0trVl9TR0ktR0FiNGxrb01wZC00ZTdFbHJ6MWJyTGh1ZDRoc3FWX0dyT2pBc2pEU3JCSQ?oc=5"
-      },
-      {
         "name": "The Business Standard",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3d4eXpRcDdUemF0VW15TXV5eXhkQ3RfNjdBcWthRlVNMEl1Y0F3Uk9MbThNX0FQOUYtcWcxUUg5azJ1aVJ3alRqUHAwQnVUNVNPOHNfN1l2WkZBZjg3cHdlR2NLNXlYdmJVZWRjdTkzRHpNMzFWb2N5ZzBDV2gtOVlnMHRJQnRvaFFmN0xnbVM5akd4bmRwcVNJNU5IUFJaZVB6RGc0WkxyUXlSOUHSAbMBQVVfeXFMUDU4a0liN21jdVFxSHhaeGxEdGJEOG1HVkU1SmE3NVlsSm1ZU0Q1Zk9HbDhzWklLOGh0QzNWbDBlV2RQT05YS1RKQjM3WVBTSTJXM1lMS25FNzA5V01UQ3pLLWlvRF85dWNKclJlaFpyaFJwZElGcmVIckVLQXpPMU10cVEtb3BXOXNoLXBTVktvUmJac1JhalpwWVBjR3FrNjhndmpnY0pjNHQxYTJ2eTJLX0U?oc=5"
       },
@@ -2981,7 +3619,7 @@
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 6,
+    "sourceCount": 5,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
@@ -3489,6 +4127,31 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Members of Hardcore, Punk Music Scene Coming to the Aid of Struggling New Brunswick Restaurant - TAPinto",
+    "src": "TAPinto",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMkNyMmViak1jc2NKdmR1djRxdnNvZDQxcFMzcjJKaEFCOVBKYjhPaUQyS3NCUXY4R2N4T2VhdWRwQXZiZzd1dnh6Z0xhRGZHZklEdmwwaHV5ZDZVUnBnckRFZEVlbURoVU85R0hJOFUyNkVUenNMNjJQZlBNUWhMTGtZVTRXd3dzb1g4Ml9xWU5oQm1hWEp4Z2I5VEROUS1iS3VCb1ZFbFE3MVNucTBqSlJmM0p5NkNyeVNaWVpHaW92OFh0SlowV3B6U0VpZlppSHg5MHkzTXRvaldYaldV?oc=5",
+    "timestamp": "2026-08-22T21:49:03+00:00",
+    "isoDate": "2026-08-22",
+    "date": "22 Ago",
+    "d": "Members of Hardcore, Punk Music Scene Coming to the Aid of Struggling New Brunswick Restaurant TAPinto",
+    "category": "core",
+    "sources": [
+      {
+        "name": "TAPinto",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMkNyMmViak1jc2NKdmR1djRxdnNvZDQxcFMzcjJKaEFCOVBKYjhPaUQyS3NCUXY4R2N4T2VhdWRwQXZiZzd1dnh6Z0xhRGZHZklEdmwwaHV5ZDZVUnBnckRFZEVlbURoVU85R0hJOFUyNkVUenNMNjJQZlBNUWhMTGtZVTRXd3dzb1g4Ml9xWU5oQm1hWEp4Z2I5VEROUS1iS3VCb1ZFbFE3MVNucTBqSlJmM0p5NkNyeVNaWVpHaW92OFh0SlowV3B6U0VpZlppSHg5MHkzTXRvaldYaldV?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
   },
   {
     "title": "The New Rock + Metal Albums Out Today",
@@ -6008,7 +6671,7 @@
     "title": "Death Dealer Union release “Dark Sister” music video - NextMosh",
     "src": "NextMosh",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZNW0yN1dPOGh0UWF6NU56dGVpMUVoX1FnRERFN1Y2VnluWFNsazNnN2NadEVxMkp3dUJuckJtRnBlTzAwcGg2OGhUUDFOV3ZScXNfQ0dZenpfdEFNNlExblUxTTNtcndKQ0JDX3c3MzRQOXBpVC04OTBjTkw?oc=5",
-    "timestamp": "2026-08-21T16:13:50+00:00",
+    "timestamp": "2026-08-21T16:14:24+00:00",
     "isoDate": "2026-08-21",
     "date": "21 Ago",
     "d": "Death Dealer Union release “Dark Sister” music video NextMosh",
@@ -6306,12 +6969,12 @@
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQ3BBQU8zNW9GUDV6SGg0dkx3dk53cDhJTzhrMjBRcVhmQVc0bEIxdG9oTkVuLWRHNnhSUWctdU9qOERMRC1sTWktS242NzQxX1pJMW5Zczc2enFreF9fOE1KWjNWWF9WaEJhZW9IUFk3NXY0UTJPbGhab1o0TUp5NU1Ddm5wUGtFeGQ3dWpNQjlZWE5LREJfMS1sRUxVTDl6RUZOaTg0ZkU0S3AzWXhZcUE4ZmlMX0ZseWlDRzR2UzJBdlpNZ21TazBzZ1puUFVjRDI0dDVuN2Fnajg0dG9BeHhfRnRmVjZn?oc=5"
       },
       {
-        "name": "KTVB",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVG54Vk5qdlNwQ05xVHBLem9kdTZBaTFfWDNaSnN5YllqQlhGY0JyT1ZCbFZvRTUyd2s1N2NYa1hCNUdEV0VDdGI0RFJRejNXaVNQb3JxSEQ3ckxkZGF3Mkp4bmRkcWVVcC1ZZzZRUGF5dVk2UHlTN0w4blVwYWw0SDFIRzJMQzE1Sm9lRS1tTXFEVjdfOGl6UktZX19TZ1BiMDRTT18zZlVxU1dOOThRai1ScEY5d19pZjhGbXJDUjRydkZ0bVBIeTRoNnFnTTE5ZzBNdE1WZnZlUHY5SWdUMWtRQmN4dzQ?oc=5"
-      },
-      {
         "name": "wtsp.com",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb04zajF5bDVQb2w1bnI0WE9UcldjaVdRSkJPb1lqc3ZSend4R1VLTDdCV29JSkVENjBmQWZ5Rm1pNnRjMVlCWkZEQWwwR3BfZWZyN0lmLTFSa3F3NzJGcUlaMGR4SUhNY2xiRkFmLTJINFEzY2hTcDVqZFliaERKX01NTGt2eUsxOXVOTlE0QmxGX0pXbFVMMWwzMmtnWE5jWE9jVzNWbGtDTGVid1Iybi1jRHg0Z1ZXTTA0d213S21DX2k3dldxamV1RExsdlRpbGd4SkFoa3lEcmRWTEFmMGVnOTdZQVk?oc=5"
+      },
+      {
+        "name": "KTVB",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVG54Vk5qdlNwQ05xVHBLem9kdTZBaTFfWDNaSnN5YllqQlhGY0JyT1ZCbFZvRTUyd2s1N2NYa1hCNUdEV0VDdGI0RFJRejNXaVNQb3JxSEQ3ckxkZGF3Mkp4bmRkcWVVcC1ZZzZRUGF5dVk2UHlTN0w4blVwYWw0SDFIRzJMQzE1Sm9lRS1tTXFEVjdfOGl6UktZX19TZ1BiMDRTT18zZlVxU1dOOThRai1ScEY5d19pZjhGbXJDUjRydkZ0bVBIeTRoNnFnTTE5ZzBNdE1WZnZlUHY5SWdUMWtRQmN4dzQ?oc=5"
       },
       {
         "name": "cbs8.com",
@@ -6334,7 +6997,7 @@
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQkpiZXBESlNfa29WR01MR2pKMTZlT25HaTlvQU5sMkdqX0paYVhuWjVpU3otR1ZzaDViZ2dndTZLUG9sOVJLX1JPXzZpemFlVV84SnZSUlRsVi1LbE9hZzlycVFSbTRRWWwzXzlIWl8yUGlLR0NmdGRuYjFSS3VsbWRFSEU2QldSeUtfZllQVmVmc1lwbEJseWpMdjBnYTJ2WWdoOTNnUWRhTGxTNmg3ZlNUemozMUxhZ0FhMTFIVmpEbjJ2a1Z4TXgyV0lsXzNuOVppbzlwd0FJS05LZGZYc05ZbEZodk0?oc=5"
       },
       {
-        "name": "WTOL",
+        "name": "wtol.com",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbmM3NzRzRnZKOENoSGl0R1pVT0xfdU5uM2hFNmpFaF9TODBJT1Bva1l1dzBITlMwekZ3UTFHRVpseFZrM2o2R1JRZWRyMmFFUE9LdF9ZNk9wTmtOWUZaMUh3WnptLUMxaVp2bi1YekxJMGREUlF6aFdBNGJCUTN0Mzc0N29lSHlua1NzQXptdlExOUhhdlpvSHBsajB0cTkxdFJVeTJDNXBzMmxSNU40anVXaDZYa0xQSjg2OFMydzU1OGF6UlFDRDVnZ29sbFNoTy0yMFBsbnVTZEVORmZIYkZXLU44bVU?oc=5"
       },
       {
@@ -6352,6 +7015,10 @@
       {
         "name": "9News",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPU3JiV2Z6VGNyWEIyc2daZloyZHRWazlrd2ZhcFJ3ZHR0V01ob0tka0NHWFcxUUxrdWxLSUZFeGU1RkVDUTE2QVB2RzVXOUNxcm9tQjE3a05QWVhnckZwbmlqQ3NkMkJQMXBnYUZqTlZzaG8tY01MUlJPOGtESUtiSDFkSnRmbS00Rl9fbHlCdVB2d0ZsM0QxODlFR25BRmprOXY4M0Zkczg5MjY2UURnbVc1U0ZwZ2YtSUFoY3VrdEU2VW1YOFBseDJPZXhrdUtiRVNleXU2UE5DWWZESUpDZ3ZZWTZGWWpG?oc=5"
+      },
+      {
+        "name": "5newsonline.com",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTTYxUzZJc0tSRzl5VkRhb3FPcnAxRDQ0bmN0WVpkRzRQUTVVWDVvWGlDckdmdlZyM2JDZkxVT0l4VnZHQVREaVk4TnNwbGk1eE5hT1VRVDNlOWtJU3ZsdWNHZ3E4a3F0eU5mbnQ3TXd4eWpvSm9hNTFlTU1QNFZCRDVmYlVWREI4X3BDb0VTQ0ZJUXFOTGdNMUlrTjFKcDBMaWU3bnV4LTgtOE5taG44NVVaSWZKTHVJOW1Lc3RiYTRLWUZxcnhSczJxZ3p4UnptUVpqMVFpeEVhYWhFSHVtZ3lKWjVHR2I5bjRUOUhDeUg?oc=5"
       },
       {
         "name": "KREM",
@@ -6372,10 +7039,6 @@
       {
         "name": "WFAA",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQ0QtTE9nZzFsUFl5N1g2UEduWHZteWdLS0s5NUhMRmZRaXlkWDk1Z3piQmdnNzY1cGtNci1MZThBaEhWdkMwUXBaMXkyMGtDUU5val81bDB1MUxNUHpxaHFNRGZhZ1BsQ2hOajFVZzl2WmZFcEw4UHQ1ekxJeWFQU3BSM0lQcHVaT0hCb09wYmttYVBjNFczaFVlYkUzZjVjQzdrTEFldzBRbFBYRW5FMFlQNnp0Ui1CNWhkQk14S1JVNDNoX1J4eGZMcVB6R01jVFJ3R19NUWVIVTV5ZVlfUk5HaVJ3MlE?oc=5"
-      },
-      {
-        "name": "5newsonline.com",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTTYxUzZJc0tSRzl5VkRhb3FPcnAxRDQ0bmN0WVpkRzRQUTVVWDVvWGlDckdmdlZyM2JDZkxVT0l4VnZHQVREaVk4TnNwbGk1eE5hT1VRVDNlOWtJU3ZsdWNHZ3E4a3F0eU5mbnQ3TXd4eWpvSm9hNTFlTU1QNFZCRDVmYlVWREI4X3BDb0VTQ0ZJUXFOTGdNMUlrTjFKcDBMaWU3bnV4LTgtOE5taG44NVVaSWZKTHVJOW1Lc3RiYTRLWUZxcnhSczJxZ3p4UnptUVpqMVFpeEVhYWhFSHVtZ3lKWjVHR2I5bjRUOUhDeUg?oc=5"
       },
       {
         "name": "KGW",
@@ -6412,19 +7075,11 @@
       {
         "name": "KHOU",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS3VUbzZBWURGTEZMYXlpTHdqU1A2OS1VTERUck8yTGNsbVVjaDZFUHdWdVo5N0pkU1Z0a1dKTXpZblJyTnZpR09jVkNxWGxuNndRczh0VkNyWkJZTUZEdHhuYnhrRjVkV3hwZEJwclVjY2kzaUxyYU1TZ1dLWUlIbFRGTnBEQ25Ibjc4NXpHXzhUckNxTnFQeFFWLTZwYk12Z2pMTHJONXBFT3VTaVdJYVVEZGJsdWI5VFllZ0xlM3JaVWxhdHc4aDN0OGVMRTViRjRiNUJPV3VNUVpSczlnVG5WcE55WDQ?oc=5"
-      },
-      {
-        "name": "wfmynews2.com",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSFczZmlHVmdheFlmTTZKRHc5b3RmSlBGRlJLNnoxRmFxV0VsUWVkbnV2dVJidFFMbW1TOFc3M2pUdFVieThiZllub1czd0R0LWlSWDBxbE5yNk1KRXc2MmVDMVpjcWs4aDZHSG10TENzODRmcEpXYlUybjE3OWxieEV6am4xajZIV3NuTVcwbHUzaURaWTNuN1R0N0dRLTFKR0dBM05SVWg2c3hHRFlUN1dCckJHaVItYVl5SFpnTnZLZkJDTVR4Z2E3Q1pENjdZeHNFRmtibGZ3R2plbWdheFRkWV82Vk9sZ0Q0ZVZR?oc=5"
-      },
-      {
-        "name": "WZZM13.com",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN2dWM3JlNm5rZDI1VEdoYnVFWDFtZ2FsRmxqWlZUTjdvR1IyTXBmNHB6SnhQcXRnY09zNENnT185WEd2MjJNeTJpQVA5d3FvSFhtczQtRVZFVENleVE4UDNFMng1a3BlTjJIM252ZjhieUJtZm9mMmhvWlQ4Y05oYkZzYjBfQURpVXphYWg1eHFUOUg4bjNkMDNXV0lTdVdFUEV6eTYwR182UDhGcklsdlNNQUNtNVUtdkhJLWdrMVZCUmVQZmtEN0lnN1dFVEFKcVpMWjY1MXRTVVVyaVdGVGo2OUFQX1RrTXc?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 32,
+    "sourceCount": 30,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
@@ -10699,6 +11354,102 @@
       {
         "name": "turismodeportugal.pt",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORkNBbDZVUm5CRDRMVW9sM3k2aGtscXkyT3hqWmZKcHNTUHRBUFpObHJsQ2VVX0l6V2NTZ2E1V3hxWVZYb2wyakZRSzVVeEVtV3RRS1RoeWVWVHg0SjVrOVNxR1BFR0RRZWpES01hNU4tMTJMZjVWamNBYnIwWW4xa2lRNjRoTnlEaFJ0c3hWUWN2OG1mWmowZjQyRjBVcFR4UkhEZQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Plum",
+    "t": "Bodies in Motion",
+    "g": "punk",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "21 Ago",
+    "isoDate": "2026-08-21",
+    "url": "https://musicbrainz.org/release-group/7a35651e-3f8b-43fc-92ff-9fae50024bfb",
+    "d": "rock, post-punk, new wave, art rock, chicago",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/7a35651e-3f8b-43fc-92ff-9fae50024bfb"
+      }
+    ],
+    "mbid": "7a35651e-3f8b-43fc-92ff-9fae50024bfb",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "title": "The Tragically Hip Release ‘Live July 22–August 20, 2016’ - uDiscover Music",
+    "src": "uDiscover Music",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnZkT1VUZTFNcUJwdUszeEY1V0JsUVdLTUhaSXVwdGpKdGxmVzhWWGdzSHFtc0M1bG80SDZIRXVYNFZ3UVBBTkxxNXhacS03RTJoRTJiSWtPYXdLZHdOcUhBQlFYNTBvRVNHSzVqMWFIWUNVSDlWMkVQUnR4S0d6dmJlTmxOQzFMZ2t3?oc=5",
+    "timestamp": "2026-08-21T21:37:25+00:00",
+    "isoDate": "2026-08-21",
+    "date": "21 Ago",
+    "d": "The Tragically Hip Release ‘Live July 22–August 20, 2016’ uDiscover Music",
+    "category": "general",
+    "sources": [
+      {
+        "name": "uDiscover Music",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnZkT1VUZTFNcUJwdUszeEY1V0JsUVdLTUhaSXVwdGpKdGxmVzhWWGdzSHFtc0M1bG80SDZIRXVYNFZ3UVBBTkxxNXhacS03RTJoRTJiSWtPYXdLZHdOcUhBQlFYNTBvRVNHSzVqMWFIWUNVSDlWMkVQUnR4S0d6dmJlTmxOQzFMZ2t3?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Miguel Jalôto representa Portugal no Festival Felicia Blumental - BOM DIA - Portugal no Mundo",
+    "src": "BOM DIA - Portugal no Mundo",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWkhoMnFSeEptWjBsbFpoMm9zR0JoVmxPd3RJRi1jSlhMdEJkSk03Z1ZnaXZNN3Y2UVo2SzQ2VUZQNmE1Mm9LWVNxSVE2aGszSnVLdHRjVWM2eEZLSkdydlFSZEhkcXlkM3djSTdtSXREa1JjTFR3RjY5a1NxYVdhLUphVUdrQWlfLXZBT1dFeUtRTzlFdFE?oc=5",
+    "timestamp": "2026-08-21T15:56:36+00:00",
+    "isoDate": "2026-08-21",
+    "date": "21 Ago",
+    "d": "Miguel Jalôto representa Portugal no Festival Felicia Blumental BOM DIA - Portugal no Mundo",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "BOM DIA - Portugal no Mundo",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWkhoMnFSeEptWjBsbFpoMm9zR0JoVmxPd3RJRi1jSlhMdEJkSk03Z1ZnaXZNN3Y2UVo2SzQ2VUZQNmE1Mm9LWVNxSVE2aGszSnVLdHRjVWM2eEZLSkdydlFSZEhkcXlkM3djSTdtSXREa1JjTFR3RjY5a1NxYVdhLUphVUdrQWlfLXZBT1dFeUtRTzlFdFE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Enólogo brasileiro expande produção de vinhos autorais para Portugal - blogs.correiobraziliense.com.br",
+    "src": "blogs.correiobraziliense.com.br",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRGJvNVY3UjI4Qm9fWDBaMkJCcDdkalJ1U05EUzZvZWZ0cnkwcDJhZWl1Y3Z5ZkQyMmJvLWgwWjV6MThBWmotbmhyLUV5S1VCSEROZ1RKZ1djeGlyRlV0Sk5YUTRDWlVqdWMxUUhodmw1ZWVHdUlHT2pHVUFsUkpHTElYSFNtNjZ2Ujl6Tm0tTWR0c0JadXlSNXYxMlRuM0F4Z1ctaUg2MnVpVUxScWdMNFJmZE14QWNBc0g0?oc=5",
+    "timestamp": "2026-08-21T12:32:59+00:00",
+    "isoDate": "2026-08-21",
+    "date": "21 Ago",
+    "d": "Enólogo brasileiro expande produção de vinhos autorais para Portugal blogs.correiobraziliense.com.br",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "blogs.correiobraziliense.com.br",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRGJvNVY3UjI4Qm9fWDBaMkJCcDdkalJ1U05EUzZvZWZ0cnkwcDJhZWl1Y3Z5ZkQyMmJvLWgwWjV6MThBWmotbmhyLUV5S1VCSEROZ1RKZ1djeGlyRlV0Sk5YUTRDWlVqdWMxUUhodmw1ZWVHdUlHT2pHVUFsUkpHTElYSFNtNjZ2Ujl6Tm0tTWR0c0JadXlSNXYxMlRuM0F4Z1ctaUg2MnVpVUxScWdMNFJmZE14QWNBc0g0?oc=5"
       }
     ],
     "status": "official",
@@ -17253,6 +18004,64 @@
     "section": "pt"
   },
   {
+    "title": "Christian metal band Demon Hunter sues Netflix over ‘KPop Demon Hunters’ name - Anadolu Ajansı",
+    "src": "Anadolu Ajansı",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWkFZMGhiWEtkOUthSW9QbHBRaGRqN3hzMlNrbzIyMUFCcWxvc1EtYjF4RHBIXzJqanozZmlTVWJBUjVST3lQSTR6dFRqYzBfZDNpX1FNVlhnYzBQSWFfRWhKUThkeDNjWVlnZnJWT0VFTVNoaXRYcG9vd2xtdkIxV1hCOFFhVlVwVFgzSHFKUmFsd1FHcVhYNDVqM1F6RHM0SkZ2M1VPTkFGczZDbHZtQ0ZmTC1zQUE?oc=5",
+    "timestamp": "2026-08-20T05:15:00+00:00",
+    "isoDate": "2026-08-20",
+    "date": "20 Ago",
+    "d": "Christian metal band Demon Hunter sues Netflix over ‘KPop Demon Hunters’ name Anadolu Ajansı",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWkFZMGhiWEtkOUthSW9QbHBRaGRqN3hzMlNrbzIyMUFCcWxvc1EtYjF4RHBIXzJqanozZmlTVWJBUjVST3lQSTR6dFRqYzBfZDNpX1FNVlhnYzBQSWFfRWhKUThkeDNjWVlnZnJWT0VFTVNoaXRYcG9vd2xtdkIxV1hCOFFhVlVwVFgzSHFKUmFsd1FHcVhYNDVqM1F6RHM0SkZ2M1VPTkFGczZDbHZtQ0ZmTC1zQUE?oc=5"
+      },
+      {
+        "name": "Cartoon Brew",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnp3MjZvMHJyc3d4dlhhcHhhV1RUdnJhSDV6SHZHblRmRWJIdld6emxLR3RsZEhtX2lFQlBHS0VtRWQ3clFHQjZvU3pPaW91QzRhZkV5SjNfZElRb2dDOEdwN2RsM0dZTlpMVmtCeXlzZk94TzdyX0tlRkNmRU1CRTdSVFM5ZDNDQ2RocF9SV1dWd1lwSWw3TExUYWphajZMeEFR?oc=5"
+      },
+      {
+        "name": "bandwagon.asia",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWHVubUMyVjcwTVBnczNWNFlBTzdkMXVnMVNuQ29yaHB1T3lTTlo2emRNYmtCWjdFNjYtVXY4bElWSW5uZnU1LXhrWXJOaHhyZjNqS1NfYktxbzhqanRuWUNWenQ1cHpXWGs2djZoVkZYNXIyUVRqT0phRjdLS3o3LXkxa19QTzczd3dhb3FmbGRhV0QyUHRVTHljZ0JadExvdThrWVRpSGtWSnBhQW12eg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 3,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Agenda cultural da semana: 5 programas imperdíveis para aproveitar Portugal - SAPO",
+    "src": "SAPO",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON0FjdjFLQU9zclVMLUZmX1QyLVcxZ2xBMjhMMENTYUNrbGF1U2I3M3RJWERpNl9GSHhIV3k1b2N4UFRoR0hGaDF0aUFPTG5TY1NWTV92cDhjcm9SaThiVVdXQmFxaWFROXNsZUt6TkFFa0J1dXNKU3gtenBkdEV0ejV2Y1ZVdkR2NU05enV2NEJnNm82X3JsQ2JNYWw2M0xudUJZUFdwOFFjNFp1Y0RKTTNkOE5lNzJqVHgxRllHMA?oc=5",
+    "timestamp": "2026-08-20T08:58:01+00:00",
+    "isoDate": "2026-08-20",
+    "date": "20 Ago",
+    "d": "Agenda cultural da semana: 5 programas imperdíveis para aproveitar Portugal SAPO",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "SAPO",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON0FjdjFLQU9zclVMLUZmX1QyLVcxZ2xBMjhMMENTYUNrbGF1U2I3M3RJWERpNl9GSHhIV3k1b2N4UFRoR0hGaDF0aUFPTG5TY1NWTV92cDhjcm9SaThiVVdXQmFxaWFROXNsZUt6TkFFa0J1dXNKU3gtenBkdEV0ejV2Y1ZVdkR2NU05enV2NEJnNm82X3JsQ2JNYWw2M0xudUJZUFdwOFFjNFp1Y0RKTTNkOE5lNzJqVHgxRllHMA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
     "title": "Strung Out Announce Australian Tour Supports For 30th Anniversary Of Suburban Teenage Wasteland Blues - Noise11.com",
     "src": "Noise11.com",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVXdFeWdpQzVUYXNQek5MY1owdEQ2Skp1ai1aeGtEYXhlRHJrVmVpaGpCbUJ2ckU2VXJ3aWx6VWlyaHg1Zk04Z3NKLUNEWFNmTjFRUHlSTzFUTFpLcmlGbE1paTRxdDlnWUN4YnI3R3JmcExwN2Y2MEtrWG1MVGNLV2Z1Tlo?oc=5",
@@ -18813,7 +19622,7 @@
     "section": "recent"
   },
   {
-    "title": "Banda de metal cristão Demon Hunter processa Netflix por 'KPop Demon Hunters' - Stereogum",
+    "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
     "src": "Stereogum",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0dLVGZycU1EMnplemprRVZpbEdCanpMTktaX3RBWTFvc0NNaGMzT3diVUc5ZWhsaTZOMkZrVm9pNkFfSmpBaGJwdUFzOEFXNnpTNE5KYWVkelU5UHZOS0lFcTRVSmRSUDdEaTRZVWVFbXBkcE40MFhMV3NCcFR4SFgzV2lTUUlsWE1WX1d4QTZDa21jTmNLZEUyTlNyakRFZWRFNnliWQ?oc=5",
     "timestamp": "2026-08-19T16:30:00+00:00",
@@ -18910,35 +19719,6 @@
     "isPT": false,
     "isCore": false,
     "star": false,
-    "kind": "news",
-    "section": "news"
-  },
-  {
-    "title": "Christian metal band Demon Hunter sues Netflix over ‘KPop Demon Hunters’ name - Anadolu Ajansı",
-    "src": "Anadolu Ajansı",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWkFZMGhiWEtkOUthSW9QbHBRaGRqN3hzMlNrbzIyMUFCcWxvc1EtYjF4RHBIXzJqanozZmlTVWJBUjVST3lQSTR6dFRqYzBfZDNpX1FNVlhnYzBQSWFfRWhKUThkeDNjWVlnZnJWT0VFTVNoaXRYcG9vd2xtdkIxV1hCOFFhVlVwVFgzSHFKUmFsd1FHcVhYNDVqM1F6RHM0SkZ2M1VPTkFGczZDbHZtQ0ZmTC1zQUE?oc=5",
-    "timestamp": "2026-08-19T16:13:31+00:00",
-    "isoDate": "2026-08-19",
-    "date": "19 Ago",
-    "d": "Christian metal band Demon Hunter sues Netflix over ‘KPop Demon Hunters’ name Anadolu Ajansı",
-    "category": "metal",
-    "sources": [
-      {
-        "name": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWkFZMGhiWEtkOUthSW9QbHBRaGRqN3hzMlNrbzIyMUFCcWxvc1EtYjF4RHBIXzJqanozZmlTVWJBUjVST3lQSTR6dFRqYzBfZDNpX1FNVlhnYzBQSWFfRWhKUThkeDNjWVlnZnJWT0VFTVNoaXRYcG9vd2xtdkIxV1hCOFFhVlVwVFgzSHFKUmFsd1FHcVhYNDVqM1F6RHM0SkZ2M1VPTkFGczZDbHZtQ0ZmTC1zQUE?oc=5"
-      },
-      {
-        "name": "Cartoon Brew",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnp3MjZvMHJyc3d4dlhhcHhhV1RUdnJhSDV6SHZHblRmRWJIdld6emxLR3RsZEhtX2lFQlBHS0VtRWQ3clFHQjZvU3pPaW91QzRhZkV5SjNfZElRb2dDOEdwN2RsM0dZTlpMVmtCeXlzZk94TzdyX0tlRkNmRU1CRTdSVFM5ZDNDQ2RocF9SV1dWd1lwSWw3TExUYWphajZMeEFR?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 2,
-    "isBreaking": true,
-    "isPT": false,
-    "isCore": false,
-    "star": true,
     "kind": "news",
     "section": "news"
   },
@@ -32241,7 +33021,7 @@
     "title": "PUNKTUALS Premiere Their “Death of the Party” Music Video - V13 Media",
     "src": "V13 Media",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52NXIzUXpXM21fSFVJZnZ4MWxjMlZtZ09GRmFQU3g2c1ZpT0NFUExCVjZiNzY4ZlItb2lwM2k5RFVvcVBabEo1aWN1X3lFRTY5XzV2TjZDYmY0eDFTTDJlX3VQNHRJRDFYckI4Z0JTNFg1cTBPSVcw?oc=5",
-    "timestamp": "2026-08-17T07:00:00+00:00",
+    "timestamp": "2026-08-17T13:01:08+00:00",
     "isoDate": "2026-08-17",
     "date": "17 Ago",
     "d": "PUNKTUALS Premiere Their “Death of the Party” Music Video V13 Media",
