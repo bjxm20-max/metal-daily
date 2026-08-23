@@ -62,10 +62,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -327,10 +327,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -347,6 +347,285 @@
       {
         "name": "O Vilaverdense",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRG5yZU1NalVZbFRKbklfUmszOXpSLTZ0Ui1BTlJCNW1rVHliZkJpRDllb0QwcThRYlZ4YW9QTjExT0E4cHpoQ3ZFejZ1NGxLT0d6TFVqX3VFSk45aEZMVWlSb1BJRzBBYTMyUDFERzUyajVQcmJ2MUVyU2RmWk1CeHl5c09nTV9GLWc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Christian Metal Band Demon Hunter Sues Netflix Over ‘KPop Demon Hunters’ Name - Cartoon Brew",
+    "src": "Cartoon Brew",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnp3MjZvMHJyc3d4dlhhcHhhV1RUdnJhSDV6SHZHblRmRWJIdld6emxLR3RsZEhtX2lFQlBHS0VtRWQ3clFHQjZvU3pPaW91QzRhZkV5SjNfZElRb2dDOEdwN2RsM0dZTlpMVmtCeXlzZk94TzdyX0tlRkNmRU1CRTdSVFM5ZDNDQ2RocF9SV1dWd1lwSWw3TExUYWphajZMeEFR?oc=5",
+    "timestamp": "2026-08-23T12:33:02+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "Christian Metal Band Demon Hunter Sues Netflix Over ‘KPop Demon Hunters’ Name Cartoon Brew",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Cartoon Brew",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnp3MjZvMHJyc3d4dlhhcHhhV1RUdnJhSDV6SHZHblRmRWJIdld6emxLR3RsZEhtX2lFQlBHS0VtRWQ3clFHQjZvU3pPaW91QzRhZkV5SjNfZElRb2dDOEdwN2RsM0dZTlpMVmtCeXlzZk94TzdyX0tlRkNmRU1CRTdSVFM5ZDNDQ2RocF9SV1dWd1lwSWw3TExUYWphajZMeEFR?oc=5"
+      },
+      {
+        "name": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWkFZMGhiWEtkOUthSW9QbHBRaGRqN3hzMlNrbzIyMUFCcWxvc1EtYjF4RHBIXzJqanozZmlTVWJBUjVST3lQSTR6dFRqYzBfZDNpX1FNVlhnYzBQSWFfRWhKUThkeDNjWVlnZnJWT0VFTVNoaXRYcG9vd2xtdkIxV1hCOFFhVlVwVFgzSHFKUmFsd1FHcVhYNDVqM1F6RHM0SkZ2M1VPTkFGczZDbHZtQ0ZmTC1zQUE?oc=5"
+      },
+      {
+        "name": "bandwagon.asia",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWHVubUMyVjcwTVBnczNWNFlBTzdkMXVnMVNuQ29yaHB1T3lTTlo2emRNYmtCWjdFNjYtVXY4bElWSW5uZnU1LXhrWXJOaHhyZjNqS1NfYktxbzhqanRuWUNWenQ1cHpXWGs2djZoVkZYNXIyUVRqT0phRjdLS3o3LXkxa19QTzczd3dhb3FmbGRhV0QyUHRVTHljZ0JadExvdThrWVRpSGtWSnBhQW12eg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 3,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "b": "Kogaion",
+    "t": "Kogaion x DarkVane",
+    "g": "black",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "23 Ago",
+    "isoDate": "2026-08-23",
+    "url": "https://musicbrainz.org/release-group/5bf5f459-6559-4c0e-87d4-3d41fd01a223",
+    "d": "black metal, symphonic black metal, atmospheric black metal, pagan black metal",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/5bf5f459-6559-4c0e-87d4-3d41fd01a223"
+      }
+    ],
+    "mbid": "5bf5f459-6559-4c0e-87d4-3d41fd01a223",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "title": "Watch: FOO FIGHTERS Perform With LOS ANGELES PHILHARMONIC Orchestra At Hollywood Bowl",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/watch-foo-fighters-perform-with-los-angeles-philharmonic-orchestra-at-hollywood-bowl",
+    "timestamp": "2026-08-23T12:05:43+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "On Saturday, August 22, FOO FIGHTERS joined forces with the Los Angeles Philharmonic and YOLA (Youth Orchestra Los Angeles) for a special performance celebrating Gustavo Dudamel, the beloved conductor of the Los Angeles Philharmonic, at the Hollywood Bowl in Los Angeles, California. FOO FIGHTERS' se...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/watch-foo-fighters-perform-with-los-angeles-philharmonic-orchestra-at-hollywood-bowl"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Rock music world rocked by string of deaths: List of those lost in 2026 surges past 75 - PennLive.com",
+    "src": "PennLive.com",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeW5PcXZka0JxV0VBd2haUjQ5bGtwOTdOeFFnVmJIQThKS3ZUXzdEREFZMFVaREZUOWRQdHo1UEhvRDU0bDVaZ0RQbFBzVzZLUl8yUTRyYnlPd1NOSjdubUtQX0RGR040SUo3c2JsUTJIN3ZLQUdqUVc0Zmd2a2hCWE1CNTNvRENlT3NHa3ZlMzY2cWk5TUtmWkJDckxaV295ZmtrOG9xSmNTVl9CZnVYQmlaVkZ5blJkRXBPTzQxbG1JcjVBSWNfRjlsLUk5cnZCcG5j0gHnAUFVX3lxTE1QVEhaMFotdVdXWG0zdkMxWmQtdnpEbEZvNlRwdHBuMWpqd3V2d1p3eWVaZzVHMVA4RV9GaTM0cWpvZEFMeEwydHJBMGM1UnBZNzBZQzhBSVJoQTJHdk5kbjZDXzhxdFBFekVEVHB5bk5hTVlEMjhEQm5ZSnRTRW1PYnVZUkg1a3hDZHA4TUlHaWF6SlpRWjFlSDdfX3l1bzhKZFdiZjFPd1dBNUVpMmx3aWJSZDRvWGRCQjJTQ0J3ejIxVFgwTXdCdmRkX3hZajdINWtiQTdXQXNqSUU2V3ZOOVhYUzJ4RQ?oc=5",
+    "timestamp": "2026-08-23T09:00:00+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "Rock music world rocked by string of deaths: List of those lost in 2026 surges past 75 PennLive.com",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "PennLive.com",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeW5PcXZka0JxV0VBd2haUjQ5bGtwOTdOeFFnVmJIQThKS3ZUXzdEREFZMFVaREZUOWRQdHo1UEhvRDU0bDVaZ0RQbFBzVzZLUl8yUTRyYnlPd1NOSjdubUtQX0RGR040SUo3c2JsUTJIN3ZLQUdqUVc0Zmd2a2hCWE1CNTNvRENlT3NHa3ZlMzY2cWk5TUtmWkJDckxaV295ZmtrOG9xSmNTVl9CZnVYQmlaVkZ5blJkRXBPTzQxbG1JcjVBSWNfRjlsLUk5cnZCcG5j0gHnAUFVX3lxTE1QVEhaMFotdVdXWG0zdkMxWmQtdnpEbEZvNlRwdHBuMWpqd3V2d1p3eWVaZzVHMVA4RV9GaTM0cWpvZEFMeEwydHJBMGM1UnBZNzBZQzhBSVJoQTJHdk5kbjZDXzhxdFBFekVEVHB5bk5hTVlEMjhEQm5ZSnRTRW1PYnVZUkg1a3hDZHA4TUlHaWF6SlpRWjFlSDdfX3l1bzhKZFdiZjFPd1dBNUVpMmx3aWJSZDRvWGRCQjJTQ0J3ejIxVFgwTXdCdmRkX3hZajdINWtiQTdXQXNqSUU2V3ZOOVhYUzJ4RQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Dolly Parton says she’s exploring “avatar performances”",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/dolly-parton-says-shes-exploring-avatar-performances-3964204?utm_source=rss&utm_medium=rss&utm_campaign=dolly-parton-says-shes-exploring-avatar-performances",
+    "timestamp": "2026-08-23T10:59:28+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "The country icon revealed she is looking into new ways to give fans music experiences after facing a series of health issues The post Dolly Parton says she’s exploring “avatar performances” appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/dolly-parton-says-shes-exploring-avatar-performances-3964204?utm_source=rss&utm_medium=rss&utm_campaign=dolly-parton-says-shes-exploring-avatar-performances"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Bonnaroo to take “much-needed” year off in 2027 to recover from extreme weather",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/bonnaroo-to-take-much-needed-year-off-in-2027-to-recover-from-extreme-weather-3964215?utm_source=rss&utm_medium=rss&utm_campaign=bonnaroo-to-take-much-needed-year-off-in-2027-to-recover-from-extreme-weather",
+    "timestamp": "2026-08-23T10:58:46+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "After being plagued by extreme weather and cancellations, organisers said the break \"will only make Bonnaroo better\" The post Bonnaroo to take “much-needed” year off in 2027 to recover from extreme weather appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/bonnaroo-to-take-much-needed-year-off-in-2027-to-recover-from-extreme-weather-3964215?utm_source=rss&utm_medium=rss&utm_campaign=bonnaroo-to-take-much-needed-year-off-in-2027-to-recover-from-extreme-weather"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Haircut 100 tops off a superb tour of fellow ’80s hitmakers at Westville Music Bowl - Hartford Courant",
+    "src": "Hartford Courant",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaW16Rkw2aEFHaG9ZSHNDSTBfU3A2dGZlNm11eWFXZGRNcGgtTHlidmVhWnFhdm1SZjZVT2RnZUVpemYzbTEzdHppb1pJNzZWcjkzTlp4YXV4UTk5aGV1RXlyWVRwQU1kSU5ZYVZWYjgtOFFDTWEtMUZPQVVPSGlSblRQQ29fcFcxWjI3bndQc0FvcXVkRmd3U2FKaXo3VXc0OGtPUG5hTUFFcmNncHJ4c2ktMC1IMEtQRVpmeHlhVVE2LWFOYmZFcjdTazkyNVdHN2xWS0Fn?oc=5",
+    "timestamp": "2026-08-23T10:03:01+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "Haircut 100 tops off a superb tour of fellow ’80s hitmakers at Westville Music Bowl Hartford Courant",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Hartford Courant",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaW16Rkw2aEFHaG9ZSHNDSTBfU3A2dGZlNm11eWFXZGRNcGgtTHlidmVhWnFhdm1SZjZVT2RnZUVpemYzbTEzdHppb1pJNzZWcjkzTlp4YXV4UTk5aGV1RXlyWVRwQU1kSU5ZYVZWYjgtOFFDTWEtMUZPQVVPSGlSblRQQ29fcFcxWjI3bndQc0FvcXVkRmd3U2FKaXo3VXc0OGtPUG5hTUFFcmNncHJ4c2ktMC1IMEtQRVpmeHlhVVE2LWFOYmZFcjdTazkyNVdHN2xWS0Fn?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Mark Ruffalo hits back after Paramount said his merger criticism was “anti-Semitic”: “Appalling and fundamentally dishonest”",
+    "src": "NME",
+    "url": "https://www.nme.com/news/film/mark-ruffalo-hits-back-after-paramount-said-his-merger-criticism-was-anti-semitic-appalling-and-fundamentally-dishonest-3964199?utm_source=rss&utm_medium=rss&utm_campaign=mark-ruffalo-hits-back-after-paramount-said-his-merger-criticism-was-anti-semitic-appalling-and-fundamentally-dishonest",
+    "timestamp": "2026-08-23T09:55:03+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "\"My views come from my own political convictions and should never be interpreted as hostility toward Jewish people, for whom I have deep love and respect\" The post Mark Ruffalo hits back after Paramount said his merger criticism was “anti-Semitic”: “Appalling and fundamentally dishonest” appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/film/mark-ruffalo-hits-back-after-paramount-said-his-merger-criticism-was-anti-semitic-appalling-and-fundamentally-dishonest-3964199?utm_source=rss&utm_medium=rss&utm_campaign=mark-ruffalo-hits-back-after-paramount-said-his-merger-criticism-was-anti-semitic-appalling-and-fundamentally-dishonest"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Keith Urban's former aide reveals how his music saved Dark Knight theater shooting victim - Daily Express US",
+    "src": "Daily Express US",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR2s3TzVTeXRGZDRNekFZV24wU0d4RDE4aGZxd0lWWWVVOGZSX2ZFTkJEZ1p0dThpU0FZRzBqT2h2XzQ3SXo1MzJrM1F3SlU3b2phbG1qUEYteW9WQl9hT29sb3Q3Mm11VzJ4THZLb1Z1dHpta1doS1JBYUF4Q1RFcEEtYXVxNk80cFBPVjZORk9sbktxSk81b1BDQWdUNi1yS1HSAaIBQVVfeXFMUEdrN081U3l0RmQ0TXpBWVduMFNHeEQxOGhmcXdJVlllVThmUl9mRU5CRGdadHU4aVNBWUcwak9odl80N0l6NTMyazNRd0pVN29qYWxtalBGLXlvVkJfYU9vbG90NzJtdVcyeEx2S29WdXR6bWtXaEtSQWFBeENURXBBLWF1cTZPNHBQT1Y2TkZPbG5LcUpPNW9QQ0FnVDYtcktR?oc=5",
+    "timestamp": "2026-08-23T09:00:00+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "Keith Urban's former aide reveals how his music saved Dark Knight theater shooting victim Daily Express US",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Daily Express US",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR2s3TzVTeXRGZDRNekFZV24wU0d4RDE4aGZxd0lWWWVVOGZSX2ZFTkJEZ1p0dThpU0FZRzBqT2h2XzQ3SXo1MzJrM1F3SlU3b2phbG1qUEYteW9WQl9hT29sb3Q3Mm11VzJ4THZLb1Z1dHpta1doS1JBYUF4Q1RFcEEtYXVxNk80cFBPVjZORk9sbktxSk81b1BDQWdUNi1yS1HSAaIBQVVfeXFMUEdrN081U3l0RmQ0TXpBWVduMFNHeEQxOGhmcXdJVlllVThmUl9mRU5CRGdadHU4aVNBWUcwak9odl80N0l6NTMyazNRd0pVN29qYWxtalBGLXlvVkJfYU9vbG90NzJtdVcyeEx2S29WdXR6bWtXaEtSQWFBeENURXBBLWF1cTZPNHBQT1Y2TkZPbG5LcUpPNW9QQ0FnVDYtcktR?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘Zero Civic Sense’: Blasting DJ Music, Products Tumbling From Shelves As Shopkeeper’s Frustration During Pr - News18",
+    "src": "News18",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUTc5ZGUxc0tjdGFPd2EtWjdROHZjOUNHSG5mSHI1OUpIaUU2Rm1NQ2hpcUUwV2xJRm1USkJrOWE0d3c1T0ozeHdOMl9mMjZwT3dSWVhRbTRTM3QtMng0bWlsdGdsR1pBU2xoRzlJYWVNeFlEbkZFV1hLVzhnQnR2QU9GaTlWaVZMNDFmMFhYdkZRekZSS2dwcXVkS3lMRVZYNnAzNld4bDNWWWZmVko2YkZ0UU1JQlhxbmRmcE9wWHNIRUxhNFZUeVJZMVFCNTR5OGliekxFdUV4cGxSNXJXeWFRWmVDOVBqazZ1TEpPQXg4ZVZYZHQwbUdwak5uUdIBgwJBVV95cUxPV1RYNWFFS3lXV0tvQUZNbmlIbUtTV2d2SXgzZjFNQnpXb3FMY0NNQngxSzN6NDdRWTh5MHpxTWRFMEdobmJyVnRmQm1OV3FFT0hJUEFaMEVnZHlQZll6MUp4T2tLT183RVZsTTBMY0taM2RycU9QYUZYZjlDcDdxTUxwTVBjcHVuZURnQU5xRHhPRktmVGtiYTRyMmZxemZubWRsajduc09BLUNQNnRnS0RoSTVWZnlrSXYtODNtaktwWV91OUpmWmN3anl4aHFNQkFrQ2lidThZV1IyeDdqQzlGSV9fVTFMcVNRb3d1V0NzWGY5MENJdFlnX2RHbmxjRXlj?oc=5",
+    "timestamp": "2026-08-23T08:37:22+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "‘Zero Civic Sense’: Blasting DJ Music, Products Tumbling From Shelves As Shopkeeper’s Frustration During Pr News18",
+    "category": "general",
+    "sources": [
+      {
+        "name": "News18",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUTc5ZGUxc0tjdGFPd2EtWjdROHZjOUNHSG5mSHI1OUpIaUU2Rm1NQ2hpcUUwV2xJRm1USkJrOWE0d3c1T0ozeHdOMl9mMjZwT3dSWVhRbTRTM3QtMng0bWlsdGdsR1pBU2xoRzlJYWVNeFlEbkZFV1hLVzhnQnR2QU9GaTlWaVZMNDFmMFhYdkZRekZSS2dwcXVkS3lMRVZYNnAzNld4bDNWWWZmVko2YkZ0UU1JQlhxbmRmcE9wWHNIRUxhNFZUeVJZMVFCNTR5OGliekxFdUV4cGxSNXJXeWFRWmVDOVBqazZ1TEpPQXg4ZVZYZHQwbUdwak5uUdIBgwJBVV95cUxPV1RYNWFFS3lXV0tvQUZNbmlIbUtTV2d2SXgzZjFNQnpXb3FMY0NNQngxSzN6NDdRWTh5MHpxTWRFMEdobmJyVnRmQm1OV3FFT0hJUEFaMEVnZHlQZll6MUp4T2tLT183RVZsTTBMY0taM2RycU9QYUZYZjlDcDdxTUxwTVBjcHVuZURnQU5xRHhPRktmVGtiYTRyMmZxemZubWRsajduc09BLUNQNnRnS0RoSTVWZnlrSXYtODNtaktwWV91OUpmWmN3anl4aHFNQkFrQ2lidThZV1IyeDdqQzlGSV9fVTFMcVNRb3d1V0NzWGY5MENJdFlnX2RHbmxjRXlj?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "De férias em Portugal? Atenção aos aguaceiros fortes e à trovoada - BOM DIA - Portugal no Mundo",
+    "src": "BOM DIA - Portugal no Mundo",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU25HQXItWjZlOEtGaGE1cHA3ZXpZcmRpY2E5SHhIdlRibV81ZzRjWl8xQ3IyWTdFT1h2UEZnaDRNWHNuNlpUeFc1NW1fcVdlbmh3QmFTQ214aVhFQTRGWUdEX3Bmc0RMWFZhSWJJeHp2cHpIUWd6SWZSNzVhRS1JaHhERndTSVJWQWlr?oc=5",
+    "timestamp": "2026-08-23T10:04:40+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "De férias em Portugal? Atenção aos aguaceiros fortes e à trovoada BOM DIA - Portugal no Mundo",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "BOM DIA - Portugal no Mundo",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU25HQXItWjZlOEtGaGE1cHA3ZXpZcmRpY2E5SHhIdlRibV81ZzRjWl8xQ3IyWTdFT1h2UEZnaDRNWHNuNlpUeFc1NW1fcVdlbmh3QmFTQ214aVhFQTRGWUdEX3Bmc0RMWFZhSWJJeHp2cHpIUWd6SWZSNzVhRS1JaHhERndTSVJWQWlr?oc=5"
       }
     ],
     "status": "official",
@@ -1183,10 +1462,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1536,17 +1815,17 @@
     "section": "pt"
   },
   {
-    "title": "Igreja/Portugal: «A música sacra e a música litúrgica nas nossas dioceses precisam de novos cuidados», defende padre Joaquim Ganhão - Agencia Ecclesia",
-    "src": "Agencia Ecclesia",
+    "title": "Igreja/Portugal: «A música sacra e a música litúrgica nas nossas dioceses precisam de novos cuidados», defende padre Joaquim Ganhão - Agência ECCLESIA",
+    "src": "Agência ECCLESIA",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPc01vZC00cVpHY01aaXBZcHVsanBZMjM5dnRkM083VmxfbnRHaURzanhuVDVRYlpEZXk1Ni1kOEJuaWtOSzd6b1hwTTcyNjYyQWI5Y3pLb0xkOUF3V0lGcEpBN2Z0OE4xeGI5U3BNYm5QTkJ5ajFwZ0lUUGpXYzVqaGNNVW1CWmNsSmFUa3JvOV80Y003dkwwZVl4b0xMUmZ5QmpySU03VW5LSkJlZ2gxOEJmcWwyWGV0N0wwZkNXQkpnMHRvQWhqcjlMSnU2TGVHM19fTzBJUFlWeE1nNXlYb0dDNy1iV2FsWjFXWjZRdjlCeThBcUE?oc=5",
     "timestamp": "2026-08-22T11:39:00+00:00",
     "isoDate": "2026-08-22",
     "date": "22 Ago",
-    "d": "Igreja/Portugal: «A música sacra e a música litúrgica nas nossas dioceses precisam de novos cuidados», defende padre Joaquim Ganhão Agencia Ecclesia",
+    "d": "Igreja/Portugal: «A música sacra e a música litúrgica nas nossas dioceses precisam de novos cuidados», defende padre Joaquim Ganhão Agência ECCLESIA",
     "category": "pt",
     "sources": [
       {
-        "name": "Agencia Ecclesia",
+        "name": "Agência ECCLESIA",
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPc01vZC00cVpHY01aaXBZcHVsanBZMjM5dnRkM083VmxfbnRHaURzanhuVDVRYlpEZXk1Ni1kOEJuaWtOSzd6b1hwTTcyNjYyQWI5Y3pLb0xkOUF3V0lGcEpBN2Z0OE4xeGI5U3BNYm5QTkJ5ajFwZ0lUUGpXYzVqaGNNVW1CWmNsSmFUa3JvOV80Y003dkwwZVl4b0xMUmZ5QmpySU03VW5LSkJlZ2gxOEJmcWwyWGV0N0wwZkNXQkpnMHRvQWhqcjlMSnU2TGVHM19fTzBJUFlWeE1nNXlYb0dDNy1iV2FsWjFXWjZRdjlCeThBcUE?oc=5"
       }
     ],
@@ -2629,6 +2908,56 @@
       {
         "name": "Público",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNHNXLXMwY2wzTEFmdFprSGdyd3hDdnhTTzlKQTdpNkJxTUY4MHNDS1FHZ1FIUm5hbWZsa2N4TUktckM4WEdsbEUzQUhqX3hVbDNIc25JcnNEQlhaTW5KcTkyV1NWZDVibzI5LUgwTkRoR0RnZVY5bHJMNzlvT1o5VWhUT01NMmJsVTE4WjNUZFUxdk9FdXoxNjU4T1ZiT3pfV19wTU5CWGZmRnpjSGFWZXM4bk5HWjVUc25XdTFwbVp2bjBkWVlBOXEzREFJdw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Album Review : Muse : ‘The Wow! Signal’ - Metal Planet Music",
+    "src": "Metal Planet Music",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqTWJRZnY4ZXMtMjlOS1dyODhGeG9IZ0cxbVp5ZURqVkw2TGgwT3B6M1hrN0tfTG1MbERvTEFkOW0tUzg5QjFGdXR0bXZoZ0VmbVRsaHVSUTh3bUs2Z19tNzdUOUUzajVqSkl1QWNod3JmRWJVemZjOV9B?oc=5",
+    "timestamp": "2026-08-22T23:14:29+00:00",
+    "isoDate": "2026-08-22",
+    "date": "22 Ago",
+    "d": "Album Review : Muse : ‘The Wow! Signal’ Metal Planet Music",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Planet Music",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqTWJRZnY4ZXMtMjlOS1dyODhGeG9IZ0cxbVp5ZURqVkw2TGgwT3B6M1hrN0tfTG1MbERvTEFkOW0tUzg5QjFGdXR0bXZoZ0VmbVRsaHVSUTh3bUs2Z19tNzdUOUUzajVqSkl1QWNod3JmRWJVemZjOV9B?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "VODAFONE PAREDES DE COURA’26: UM ECLISPE SOLAR, UMA ODE À LIBERDADE E UM FESTIM NO TABOÃO - Global News Portugal",
+    "src": "Global News Portugal",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEtrQ0xpRDB4MHVXTUhUN0FWTDBiajFMNm1GaXFud3kxQzlVNDV0SHBFMmhqc21yWms2bE43OEtqWlktSU9KYzRMWE4yOWxUdW5rbklGRE1VbmUxb3E1SS0xUTRPY25ERGZrTXpmU2Q5alBhczNLa01FaUVsdXdWM1RQQkRtZHNPMUpMd2ZtN3MyUGJ1YjdzV2ZxSE5CV2h3dUpWT3RHUEE0Rl94SGM0UFpzZTVNNlpr?oc=5",
+    "timestamp": "2026-08-22T12:34:11+00:00",
+    "isoDate": "2026-08-22",
+    "date": "22 Ago",
+    "d": "VODAFONE PAREDES DE COURA’26: UM ECLISPE SOLAR, UMA ODE À LIBERDADE E UM FESTIM NO TABOÃO Global News Portugal",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Global News Portugal",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEtrQ0xpRDB4MHVXTUhUN0FWTDBiajFMNm1GaXFud3kxQzlVNDV0SHBFMmhqc21yWms2bE43OEtqWlktSU9KYzRMWE4yOWxUdW5rbklGRE1VbmUxb3E1SS0xUTRPY25ERGZrTXpmU2Q5alBhczNLa01FaUVsdXdWM1RQQkRtZHNPMUpMd2ZtN3MyUGJ1YjdzV2ZxSE5CV2h3dUpWT3RHUEE0Rl94SGM0UFpzZTVNNlpr?oc=5"
       }
     ],
     "status": "official",
@@ -3914,17 +4243,17 @@
     "section": "pt"
   },
   {
-    "title": "Igreja/Portugal: Secretariado Nacional de Liturgia promove o 8.º Curso de Música - Agencia Ecclesia",
-    "src": "Agencia Ecclesia",
+    "title": "Igreja/Portugal: Secretariado Nacional de Liturgia promove o 8.º Curso de Música - Agência ECCLESIA",
+    "src": "Agência ECCLESIA",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWjFSR2NYM1RSMEVFVWY5V3VibC10LWN1UzNuTjUxWUE5V2dNOUdDVUU2dmRhWW1xNWw5Vmwzc2lMRlRXRVh2dkNnb0Q1UU95TGNKdnNzLUI0dzdvemdvMmRIc3ZxaGV1bVFjeDFobzloZUgzdW5QNjZtSHlwN3g0Ny1tQ0ZzS3NIeDdhOUt5WG82OHdSTWNoNFl3RjlNSC1ISkpLQXFJWmFNdGFiN0s2cGhtWTlidw?oc=5",
     "timestamp": "2026-08-21T07:09:00+00:00",
     "isoDate": "2026-08-21",
     "date": "21 Ago",
-    "d": "Igreja/Portugal: Secretariado Nacional de Liturgia promove o 8.º Curso de Música Agencia Ecclesia",
+    "d": "Igreja/Portugal: Secretariado Nacional de Liturgia promove o 8.º Curso de Música Agência ECCLESIA",
     "category": "pt",
     "sources": [
       {
-        "name": "Agencia Ecclesia",
+        "name": "Agência ECCLESIA",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWjFSR2NYM1RSMEVFVWY5V3VibC10LWN1UzNuTjUxWUE5V2dNOUdDVUU2dmRhWW1xNWw5Vmwzc2lMRlRXRVh2dkNnb0Q1UU95TGNKdnNzLUI0dzdvemdvMmRIc3ZxaGV1bVFjeDFobzloZUgzdW5QNjZtSHlwN3g0Ny1tQ0ZzS3NIeDdhOUt5WG82OHdSTWNoNFl3RjlNSC1ISkpLQXFJWmFNdGFiN0s2cGhtWTlidw?oc=5"
       }
     ],
@@ -5449,6 +5778,10 @@
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOFRTVEN1REY1ZTh0OGk1TUY3TlhsVWxUTXVRQVI3SGZLVW9BX3hXS1BjVzRKUUhZQjZNSUcxOGw0VUs3TUxlc21zMk5CRmdSUnVVVDA3TEVvWDVER0Y4RUY3MTJFQ1YwRWF5NjRmN0Nwd0lnTEFnOURhbDRmNXVJV0FaV2tLT2RuaDFERkhPOUoteXpmWjV2dEt5bFc3Mk9QZzRPY0NrT1M4V01DalN6UmdicE9DVEVfdnNpVHV2ZFFvd1liaXhHc3d2ZENmOXJOOHVxeGFUR0ZUaVBsNlRtVE1XTjFvai1LNWc?oc=5"
       },
       {
+        "name": "WNEP",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTnRidXV1bFcwMlZFZHc3UEt6Q0RNR28wNzNTT2RVa1NOejJQSG5UV1V5a2J3WmNqT05zNm9QdUZPNjFoSnFsTVQtdmZZbVhLOXZlWmNzR1FyS05FdmEtdU1oWVdwMHV2eDV2UFdfZGhPRjcycEI2WjNIM1JGcjdPOTFIV2lwZjIwQ3hNVjhRYUNRcS1lRUk4Tm1GNHZtaUdrdGl2MU9MQk1LcmhDdTBFcFVhZ3dYQVV5ZFh4MjdZNnlkMGJMME9acjBCX1lieHFKc0g4RUhXOGtDTXdzZFR4LU5ZRDZXSUk?oc=5"
+      },
+      {
         "name": "ABC10",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQ3BBQU8zNW9GUDV6SGg0dkx3dk53cDhJTzhrMjBRcVhmQVc0bEIxdG9oTkVuLWRHNnhSUWctdU9qOERMRC1sTWktS242NzQxX1pJMW5Zczc2enFreF9fOE1KWjNWWF9WaEJhZW9IUFk3NXY0UTJPbGhab1o0TUp5NU1Ddm5wUGtFeGQ3dWpNQjlZWE5LREJfMS1sRUxVTDl6RUZOaTg0ZkU0S3AzWXhZcUE4ZmlMX0ZseWlDRzR2UzJBdlpNZ21TazBzZ1puUFVjRDI0dDVuN2Fnajg0dG9BeHhfRnRmVjZn?oc=5"
       },
@@ -5505,16 +5838,16 @@
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNV0pHdGdUM1VHMng3OVB1VVlWcjR0RjVwaXJxYm5PY1FXZ2wyVjI3NlROOW5pdnJJOWpWZXdlNGpGLUVkMW9XMHNKR2c2ZV9LVjJmUzlzQ2dBVTJmSm5BM1NfVW1WMEUzeXdPM0pZcll3eXZZdDVQR0JjczNzTTVhZzJrbUZZV05Pa3h2MExNLVJBS2E3SU84Q1BxdS1sQl9jaUZHVnpjaW9FLVo2X0ZNdkVEalVIR3R2d2NGZ3VtVUk1Ul9MVF9RLUh3RThLMk4xVDhyMkVIYTliV29wUDZsbm9RSmlMWVk?oc=5"
       },
       {
-        "name": "KING5.com",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdkJNOTZtS3VKLXNVaWdXRTFHbXY5ekNtZFd1UmdWMjFaTk5WQWRpM2taYl9ibmRyV3VKZUhlc3JaeV9uTzBuTjNEalhpYnFsOGJUWXpTcXo0bGxfNkRTYjVVWDRqTnZZZExUejdqVUZVYklTVi1DaUM1VlFNV0xodUwwRTFWVVUwM3NwWUtKZElzalkwMXBLWnhDQUJFSWV5dF95S1lZaThCY3h0bE1ybEpwLXROY0syU0hsZ3FuRmhoTnY2b2t5ZlIyZ2ZRNTdJT2RXZ3l6QTJ3cGJtS05UUjlzWks4bHVy?oc=5"
-      },
-      {
         "name": "11Alive.com",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRXg1bmk5enhZSGRGelVRTVFtM0tiby1zVXlDMGdSN1pDNDZvOVdybksyc2IxcWhGYnIwYVE0OVpDSFB1b2hKVE5NSURiUDh3aFB0cHBlRmFBal8zdmpWcGR0RHBrVDFZVktQQWY0WnR2Ym1meng2d19SVm9OaVdqbGJ5R19iU0gyeUhDOE9XeXR1anNTb004cTAxdlhQaDFvRFlPWHVxODJpNHZMbzd6a185YTNuWmcydFlrQXRtdzBKeXNVRERxU0RXVW4wcDhEYUVqU1NkRTV4Q0RSanZUd2EtbXVLc29EakV3?oc=5"
       },
       {
         "name": "WUSA9",
         "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQamgxWTJmX1VQVzRxdkxnVlY2bTMyTW5QRy1nUGZHM3VTUFZqa0RWbmQ1cFAtVVJfN1Q4SjhieVlkN2EzVDRybF9CazJUTHFkSU9Ra0FpTURSRE5YT2VUUGVrY2ZqOG5nX2lRR3NBWGktWnJXSHBnZHhxX0hOT1V4a1VYWDlhTE1mQjMzUUE5ZGFQa3FVZUViUEhaZlpnYko4Q2t2QWUweXNFVHMzUVA4cXVhandsT2hLUmdmSG1KTWU4cTA3bXpWNTU4LU5Fb3kwSDBHY2hzVHU1dF80MVh4U1hkY0kxS0M4?oc=5"
+      },
+      {
+        "name": "KING5.com",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdkJNOTZtS3VKLXNVaWdXRTFHbXY5ekNtZFd1UmdWMjFaTk5WQWRpM2taYl9ibmRyV3VKZUhlc3JaeV9uTzBuTjNEalhpYnFsOGJUWXpTcXo0bGxfNkRTYjVVWDRqTnZZZExUejdqVUZVYklTVi1DaUM1VlFNV0xodUwwRTFWVVUwM3NwWUtKZElzalkwMXBLWnhDQUJFSWV5dF95S1lZaThCY3h0bE1ybEpwLXROY0syU0hsZ3FuRmhoTnY2b2t5ZlIyZ2ZRNTdJT2RXZ3l6QTJ3cGJtS05UUjlzWks4bHVy?oc=5"
       },
       {
         "name": "WFAA",
@@ -5557,17 +5890,25 @@
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYlZWUkZRdG1kbkV4dDNDZHN0V1dxbW9PTWhvbWlQeFBlSGZQWHp3TmE5QlBFN0FHcTdRQm1PM2tzV3QzZEtjVGhsQ0xiU1FlTmQ5WW90Z2gzWlRZcHVXb1QzTVdJZHNPX3FFdHlLdFp3SFc2T21BZ01JSHBTM2ZkMHR6UUtGUWlWZHUxVXJFM1g4U2I5SmVUVGtEUVpGQU5vU1pSUVREUzhseTRkSmhnb05oOERMU3BLQlh2WXBwY2dEcFJpRUJVQlJFTUEwY1FNMlJUT2tOS3NuYk9QUWE5T0NKdXlzTWM?oc=5"
       },
       {
+        "name": "KHOU",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS3VUbzZBWURGTEZMYXlpTHdqU1A2OS1VTERUck8yTGNsbVVjaDZFUHdWdVo5N0pkU1Z0a1dKTXpZblJyTnZpR09jVkNxWGxuNndRczh0VkNyWkJZTUZEdHhuYnhrRjVkV3hwZEJwclVjY2kzaUxyYU1TZ1dLWUlIbFRGTnBEQ25Ibjc4NXpHXzhUckNxTnFQeFFWLTZwYk12Z2pMTHJONXBFT3VTaVdJYVVEZGJsdWI5VFllZ0xlM3JaVWxhdHc4aDN0OGVMRTViRjRiNUJPV3VNUVpSczlnVG5WcE55WDQ?oc=5"
+      },
+      {
         "name": "wfmynews2.com",
         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSFczZmlHVmdheFlmTTZKRHc5b3RmSlBGRlJLNnoxRmFxV0VsUWVkbnV2dVJidFFMbW1TOFc3M2pUdFVieThiZllub1czd0R0LWlSWDBxbE5yNk1KRXc2MmVDMVpjcWs4aDZHSG10TENzODRmcEpXYlUybjE3OWxieEV6am4xajZIV3NuTVcwbHUzaURaWTNuN1R0N0dRLTFKR0dBM05SVWg2c3hHRFlUN1dCckJHaVItYVl5SFpnTnZLZkJDTVR4Z2E3Q1pENjdZeHNFRmtibGZ3R2plbWdheFRkWV82Vk9sZ0Q0ZVZR?oc=5"
       },
       {
         "name": "WZZM13.com",
         "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN2dWM3JlNm5rZDI1VEdoYnVFWDFtZ2FsRmxqWlZUTjdvR1IyTXBmNHB6SnhQcXRnY09zNENnT185WEd2MjJNeTJpQVA5d3FvSFhtczQtRVZFVENleVE4UDNFMng1a3BlTjJIM252ZjhieUJtZm9mMmhvWlQ4Y05oYkZzYjBfQURpVXphYWg1eHFUOUg4bjNkMDNXV0lTdVdFUEV6eTYwR182UDhGcklsdlNNQUNtNVUtdkhJLWdrMVZCUmVQZmtEN0lnN1dFVEFKcVpMWjY1MXRTVVVyaVdGVGo2OUFQX1RrTXc?oc=5"
+      },
+      {
+        "name": "kare11.com",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS1UtaXh1UjVLV1ZGUGdSZ2hXMGZwTF85cXRuMGgxQ3g2Mzk3aUcySlVPa3JiUy1ERDZnWkh0dVhiR1B2MGt5M0RyODRpU2ZfNDZrTTJkSkU3Ym9iTGJfcDZFdk45ZG5pcGF3OVgyTng5Z2xhWVdSZVBwaWFabDBZS2RXcFQ5azBjVWJkYnhiM2hYQ1FXU3pmZjZuc19MeVMxYmZvSTNhTE4zOE5IZVp3bHItZ3lpeDBYN2RjWHVEMVhxT1B1TzdEaG1pdWUxRFo5MmY4VVdEbXVNYTNLTGhFQ3cyNGZ1SHY1NHc?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 30,
+    "sourceCount": 33,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
@@ -8290,6 +8631,10 @@
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS3p4N0hSQjFTVll3SVNJdFFNRk9Sdmc3eThXemp3V3FpdEF4UnhrYWFkZDgzc2JfZUtFb2JGVUJWN3MwVld2VmRnZU5jcl9VbHFWRi1Gbi1GY3BpZFV4SUxiNXl5TXJrV21BOVdzSkxjeFViNENqRHc3d05pMlhnXzV2TW5TVENZZkxsdl8zZ2c4QnpWOFpzNWkyTkhJODRCQzI3ZURqSGVZNkVNQVdVSlhIODJrdWvSAcsBQVVfeXFMTjdxeEhBZGU2WE52c1l6RWRpVlBsd0tDN0JSTnNYS1BTa29GbkRFeHlTUkZodVVGRG95dEhlMDRHak4tZ1AydzNhS3NYeDgwRlBMQXFsSUM1SUZHWGZKSUVmaFhYRFFBcjJjWU9VWjg5MDhiZUpGT1FuZmdqY0U5M21WMS1nVU5ZSVhqVHVWZkkzNm9teGVJTi04NWxTbTRSOXNBRkpMck1TZmhwUV83Yk05QkRMeG0xendzd2hucG9UYXVBNHJ0UWRzT1E?oc=5"
       },
       {
+        "name": "WCAX",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObkM3OVJ2ZVBsODdqNnpIQkotWnFTeUU3eXZ1U2E0UDVaVlZoY3NfV1h5Y1BBb1NUajVVbF92SEVFMnZvT29XNUYwUHAzYkNHbTdWQnAwZ2VTY3EyOUhUeU5La0FTOTBfWGNvU29vMUxHOEhuMEtSU0s1N1V0eDY1bHRQVHZFM0p1eUwxSFBQRUxOMXczX3VQelFjVVdkcTBDamowMWpvS3c0T2dEMzFZV21IOFlINWNJaFpsYUxEQQ?oc=5"
+      },
+      {
         "name": "KPTV",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPekJodzN6aThaU0VEUzVQTUlfWWtUMmExcjlyV2RwaHVKaGhrODloTkVlYVF0RmFySzJJeXVPMW8wNHZNNFdXZElldlBxMmwtNUt4YjB5SmNrU3ZSbVQ5T0RXdjh0QTRtZnZ3akxKNXlXZ3N0MG1IZ2NqcnNqSlJ1V0I0WnZIcjhCdkl0cE1ndFU3c29ub1JCaTNMamNab3RGLUs4NUR1U1ZidGtfdlN1N0hHaXVqZkhBTHpIdWFrSQ?oc=5"
       },
@@ -8314,14 +8659,6 @@
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORGwzemczVlpXN3AzdFVGMXZSVWVtMk5VdlhCM1h6OE5EN2lVVnB3QmpkX1picEZhN2pEdHY0TWlJT1NuQ2dzNkNIQy1xSjJEbDJqbTFtNjB5WVNESnE1UzlOVGhUeVByU3VBTVdDc05qRXFHelFsUnB2dXlCTU5XWXN4NGJHVGlqLXNjRldJcEg4TlJjTlptNG5HNnBoam5rSk9HZVhzaU9qWU9rOFlaTERKN3phQm9MZ243RVljaDlILVFy?oc=5"
       },
       {
-        "name": "WTOC",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWFDeVZPSDh3d0tTVFdpRHc1bi1kUTNXSFFWVC1qOHJDaVBLRWZubzFfRjQxbGg2d3V1eVE5U2dOR0hJRFZQZzZfeDNZRkQ2WUwycHAtU1Z5cmFfZ2ZVRTVCZkkzNENtRVQ4ZlNTa3doV09wcm9XVU15YkxNR0JWd3psYW5BaVBxX2wwODR2aFJ2cXFMbXFfNzA1UU5lY0xMOW9Qb2hwMTkxWm9yVE5saUZlMXkxOWt4QUx1elZtYw?oc=5"
-      },
-      {
-        "name": "WCAX",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObkM3OVJ2ZVBsODdqNnpIQkotWnFTeUU3eXZ1U2E0UDVaVlZoY3NfV1h5Y1BBb1NUajVVbF92SEVFMnZvT29XNUYwUHAzYkNHbTdWQnAwZ2VTY3EyOUhUeU5La0FTOTBfWGNvU29vMUxHOEhuMEtSU0s1N1V0eDY1bHRQVHZFM0p1eUwxSFBQRUxOMXczX3VQelFjVVdkcTBDamowMWpvS3c0T2dEMzFZV21IOFlINWNJaFpsYUxEQQ?oc=5"
-      },
-      {
         "name": "WSMV",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSzVGd2M5OTA1cmZaLUtJS184QnVCYW5VeXVseDV2NDM0Y0pJa0VIZlBTUXQyM28yS1UyN0Z6SHVBNWFLZHBxNTQ5S3Rqc3hXMHE2a2FmcnBUY2x0NGV6MEdOeDN3aEp6VldQa19MWXh2aDA5NThRdllBWWFFWk1xRTZCQ3prYXBSQ0pKcVI4UHRmR1BrYm1EZDVDVXd0SFBQRUFDOWJQdHNNU2NkS041NDNBdlRaVTJCalRkaTRmbw?oc=5"
       },
@@ -8334,17 +8671,13 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW45X2REZGtmZDRveHJPWmRYSFBlOUZ4TDBZWGUwN3R5Y2w4S1NTcjZmWjFmWTBiUDQ0SHBFOVRTdVBvdk5qNW1Pd3VTbno3andMTXRsQklRX2tzeUp6eVVQNDB4MERaRVIwSXBfdWl0S25wMTlrTzBBMkotamtqc0Y4ZEhsaXdjX2hYZks2U3dBc0ZpUkhhWkpMcEJQZjBwdUFRMkVuMTEzd3BfWjl1T1RlZUl1Rm9qZ1NKNmVEUk4?oc=5"
       },
       {
-        "name": "WILX",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSjdQeUljYXZQUlhuSFREU1ZTUHFaQ2RtNnNacWEtbC00U1ZyVmVuU1d6dXlxUmhJbzBCazBiY2o3bENfUTNNbUo3RVpxQXVCUjQ3SENWZjd1b0JtT3A4ZnR4NFZvMXNjZXM3REZFZEd4OS1zVm90LXNWOWQ3QjlwZDk2ZWk1MFRvcDJnc0ZVNlN2Ti1JRkdyVllFWFVCRG5td1BoVnAxWm44UHRBdzF1dUtmZ0V5aHZXMnVHRGdTZw?oc=5"
-      },
-      {
         "name": "WAFF",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUUM2dVlVOTY4ZEZGTVQ1Q1VrekVlOVNrU1BMT2hScEJNNGNISldYYVRxbjhfdm1VMVNRUnkzUXV3eHZXcVBvc0NLblFybWJzTF9WakJPVFNPSkRkUktkTnNWUGE5Nk5mRGN1N0tMZGJ3OGxGcERaZ2tFbDl5Vk9acTJmNi1lTmczcUtuVEZEQlIxLUJLRHdHTUVxbENGb3Jla09XOGxiRkZmSUpqX055eDRNOFEzb0RUZDV0dDF4SQ?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 14,
+    "sourceCount": 12,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
@@ -9695,29 +10028,118 @@
     "section": "pt"
   },
   {
-    "title": "Album Review : Muse : ‘The Wow! Signal’ - Metal Planet Music",
-    "src": "Metal Planet Music",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqTWJRZnY4ZXMtMjlOS1dyODhGeG9IZ0cxbVp5ZURqVkw2TGgwT3B6M1hrN0tfTG1MbERvTEFkOW0tUzg5QjFGdXR0bXZoZ0VmbVRsaHVSUTh3bUs2Z19tNzdUOUUzajVqSkl1QWNod3JmRWJVemZjOV9B?oc=5",
-    "timestamp": "2026-08-20T18:08:43+00:00",
-    "isoDate": "2026-08-20",
-    "date": "20 Ago",
-    "d": "Album Review : Muse : ‘The Wow! Signal’ Metal Planet Music",
-    "category": "metal",
+    "b": "Watch List",
+    "t": "YOU'RE STILL ON",
+    "g": "core",
+    "fmt": "EP",
+    "lbl": "MusicBrainz",
+    "date": "21 Ago",
+    "isoDate": "2026-08-21",
+    "url": "https://musicbrainz.org/release-group/6fda37ee-8a86-4138-a661-33a4992b2193",
+    "d": "punk, hardcore punk",
     "sources": [
       {
-        "name": "Metal Planet Music",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqTWJRZnY4ZXMtMjlOS1dyODhGeG9IZ0cxbVp5ZURqVkw2TGgwT3B6M1hrN0tfTG1MbERvTEFkOW0tUzg5QjFGdXR0bXZoZ0VmbVRsaHVSUTh3bUs2Z19tNzdUOUUzajVqSkl1QWNod3JmRWJVemZjOV9B?oc=5"
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/6fda37ee-8a86-4138-a661-33a4992b2193"
+      }
+    ],
+    "mbid": "6fda37ee-8a86-4138-a661-33a4992b2193",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Masorti",
+    "t": "Histories, Pt. 3",
+    "g": "heavy",
+    "fmt": "EP",
+    "lbl": "MusicBrainz",
+    "date": "21 Ago",
+    "isoDate": "2026-08-21",
+    "url": "https://musicbrainz.org/release-group/0236f0b4-6395-403b-b882-77950a776347",
+    "d": "",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/0236f0b4-6395-403b-b882-77950a776347"
+      }
+    ],
+    "mbid": "0236f0b4-6395-403b-b882-77950a776347",
+    "star": true,
+    "country": "PT",
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "A Parting Gaze",
+    "t": "A Parting Gaze",
+    "g": "core",
+    "fmt": "EP",
+    "lbl": "MusicBrainz",
+    "date": "21 Ago",
+    "isoDate": "2026-08-21",
+    "url": "https://musicbrainz.org/release-group/4e4b1250-3a6f-4ce1-b414-caf3718941e5",
+    "d": "metalcore, post-hardcore",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/4e4b1250-3a6f-4ce1-b414-caf3718941e5"
+      }
+    ],
+    "mbid": "4e4b1250-3a6f-4ce1-b414-caf3718941e5",
+    "star": true,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "title": "O Fim de Oak Street, com Anne Hathaway, acaba de estrear e já está no Top dos mais vistos nos cinemas em Portugal - Magazine.HD",
+    "src": "Magazine.HD",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzJabUZadlBRSFFfdFpFb19OVE0zZXZpdndiMVI2SnA4cU1kSXlGM2VxNkx5Szl5Ym1DYzU4bHdrU1pIdElCYzJ4aVlqNFZXeXZpVDRvNUZFdEl3Z0pkYnozdFhsVGZYY3hkUjJJTG9jekp0UkxNUFgtS3B2OTktUW9fa0NFNFgtQW9LbTNxV2RIakxBWGNxa003QVVJaVlEZEdpbnZ4VjF6UQ?oc=5",
+    "timestamp": "2026-08-21T12:00:56+00:00",
+    "isoDate": "2026-08-21",
+    "date": "21 Ago",
+    "d": "O Fim de Oak Street, com Anne Hathaway, acaba de estrear e já está no Top dos mais vistos nos cinemas em Portugal Magazine.HD",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Magazine.HD",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzJabUZadlBRSFFfdFpFb19OVE0zZXZpdndiMVI2SnA4cU1kSXlGM2VxNkx5Szl5Ym1DYzU4bHdrU1pIdElCYzJ4aVlqNFZXeXZpVDRvNUZFdEl3Z0pkYnozdFhsVGZYY3hkUjJJTG9jekp0UkxNUFgtS3B2OTktUW9fa0NFNFgtQW9LbTNxV2RIakxBWGNxa003QVVJaVlEZEdpbnZ4VjF6UQ?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
     "isBreaking": false,
-    "isPT": false,
+    "isPT": true,
     "isCore": false,
     "star": false,
     "kind": "news",
-    "section": "news"
+    "section": "pt"
+  },
+  {
+    "title": "Liga Europa: Benfica a 90 minutos da fase de liga - BOM DIA - Portugal no Mundo",
+    "src": "BOM DIA - Portugal no Mundo",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iVEdtZ3R1THYwMzAwM2stam1yZXZ4RTVyemJzUGJmbGMtTURZVHJJM2U4WlJ3NGVBQ2RqUUtlYl9pV2JBdjItMW1acHQ0TlNBbzFYdC1UNUdEOXVEeEJnd2ZhV0FKYUNEYTNLRnpvX1dmR3JTWkE?oc=5",
+    "timestamp": "2026-08-21T09:38:07+00:00",
+    "isoDate": "2026-08-21",
+    "date": "21 Ago",
+    "d": "Liga Europa: Benfica a 90 minutos da fase de liga BOM DIA - Portugal no Mundo",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "BOM DIA - Portugal no Mundo",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iVEdtZ3R1THYwMzAwM2stam1yZXZ4RTVyemJzUGJmbGMtTURZVHJJM2U4WlJ3NGVBQ2RqUUtlYl9pV2JBdjItMW1acHQ0TlNBbzFYdC1UNUdEOXVEeEJnd2ZhV0FKYUNEYTNLRnpvX1dmR3JTWkE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "title": "‘KPop Demon Hunters’ challenged by metal band over fan confusion - NewsNation",
@@ -9796,39 +10218,6 @@
     "confidence": "confirmed",
     "sourceCount": 3,
     "isBreaking": true,
-    "isPT": false,
-    "isCore": false,
-    "star": true,
-    "kind": "news",
-    "section": "news"
-  },
-  {
-    "title": "Christian Metal Band Demon Hunter Sues Netflix Over ‘KPop Demon Hunters’ Name - Cartoon Brew",
-    "src": "Cartoon Brew",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnp3MjZvMHJyc3d4dlhhcHhhV1RUdnJhSDV6SHZHblRmRWJIdld6emxLR3RsZEhtX2lFQlBHS0VtRWQ3clFHQjZvU3pPaW91QzRhZkV5SjNfZElRb2dDOEdwN2RsM0dZTlpMVmtCeXlzZk94TzdyX0tlRkNmRU1CRTdSVFM5ZDNDQ2RocF9SV1dWd1lwSWw3TExUYWphajZMeEFR?oc=5",
-    "timestamp": "2026-08-20T05:15:00+00:00",
-    "isoDate": "2026-08-20",
-    "date": "20 Ago",
-    "d": "Christian Metal Band Demon Hunter Sues Netflix Over ‘KPop Demon Hunters’ Name Cartoon Brew",
-    "category": "metal",
-    "sources": [
-      {
-        "name": "Cartoon Brew",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnp3MjZvMHJyc3d4dlhhcHhhV1RUdnJhSDV6SHZHblRmRWJIdld6emxLR3RsZEhtX2lFQlBHS0VtRWQ3clFHQjZvU3pPaW91QzRhZkV5SjNfZElRb2dDOEdwN2RsM0dZTlpMVmtCeXlzZk94TzdyX0tlRkNmRU1CRTdSVFM5ZDNDQ2RocF9SV1dWd1lwSWw3TExUYWphajZMeEFR?oc=5"
-      },
-      {
-        "name": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWkFZMGhiWEtkOUthSW9QbHBRaGRqN3hzMlNrbzIyMUFCcWxvc1EtYjF4RHBIXzJqanozZmlTVWJBUjVST3lQSTR6dFRqYzBfZDNpX1FNVlhnYzBQSWFfRWhKUThkeDNjWVlnZnJWT0VFTVNoaXRYcG9vd2xtdkIxV1hCOFFhVlVwVFgzSHFKUmFsd1FHcVhYNDVqM1F6RHM0SkZ2M1VPTkFGczZDbHZtQ0ZmTC1zQUE?oc=5"
-      },
-      {
-        "name": "bandwagon.asia",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWHVubUMyVjcwTVBnczNWNFlBTzdkMXVnMVNuQ29yaHB1T3lTTlo2emRNYmtCWjdFNjYtVXY4bElWSW5uZnU1LXhrWXJOaHhyZjNqS1NfYktxbzhqanRuWUNWenQ1cHpXWGs2djZoVkZYNXIyUVRqT0phRjdLS3o3LXkxa19QTzczd3dhb3FmbGRhV0QyUHRVTHljZ0JadExvdThrWVRpSGtWSnBhQW12eg?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 3,
-    "isBreaking": false,
     "isPT": false,
     "isCore": false,
     "star": true,
@@ -15968,7 +16357,7 @@
       }
     ],
     "mbid": "549db06c-22fb-434e-8b89-35de4ce4f8ca",
-    "star": true,
+    "star": false,
     "kind": "release",
     "section": "recent"
   },
@@ -16267,6 +16656,31 @@
     "star": false,
     "kind": "news",
     "section": "buzz"
+  },
+  {
+    "title": "Festas do Mar abrem com Carlão e Daniela Mercury em Cascais - Observador",
+    "src": "Observador",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNWhRSTBkeUpjdnFPYkR5UjFHb3p6bkZOV1VuMEwtM3ZqTXlxcURZOWUzREZIYzJsaGZ2eFUzY3FsM0czNDNtLVQ5bGtZUHZ1N250YUUyTUc1YjJZUC0wdmpQeHVJdEl6MVRWS3d1RnpYWXZiSEItQ3FMUnl5VE05eXlIMkd1cDVrNlBRR2EwcC1Ec0Vrb1E0TENqRUR1RGljdndUUDl2eWwtUzhuRlZONG9FMTYwRFE?oc=5",
+    "timestamp": "2026-08-20T18:36:21+00:00",
+    "isoDate": "2026-08-20",
+    "date": "20 Ago",
+    "d": "Festas do Mar abrem com Carlão e Daniela Mercury em Cascais Observador",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Observador",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNWhRSTBkeUpjdnFPYkR5UjFHb3p6bkZOV1VuMEwtM3ZqTXlxcURZOWUzREZIYzJsaGZ2eFUzY3FsM0czNDNtLVQ5bGtZUHZ1N250YUUyTUc1YjJZUC0wdmpQeHVJdEl6MVRWS3d1RnpYWXZiSEItQ3FMUnl5VE05eXlIMkd1cDVrNlBRR2EwcC1Ec0Vrb1E0TENqRUR1RGljdndUUDl2eWwtUzhuRlZONG9FMTYwRFE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "title": "Strung Out Announce Australian Tour Supports For 30th Anniversary Of Suburban Teenage Wasteland Blues - Noise11.com",
@@ -19777,7 +20191,7 @@
       }
     ],
     "mbid": "9b2c4aaf-5450-469b-ba55-85dd41493d0e",
-    "star": true,
+    "star": false,
     "kind": "release",
     "section": "recent"
   },
@@ -23932,17 +24346,17 @@
     "section": "pt"
   },
   {
-    "title": "Igreja/Portugal: Curso de Música Litúrgica arranca com dois níveis de formação - Agencia Ecclesia",
-    "src": "Agencia Ecclesia",
+    "title": "Igreja/Portugal: Curso de Música Litúrgica arranca com dois níveis de formação - Agência ECCLESIA",
+    "src": "Agência ECCLESIA",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ1U5WG9iVU5YeVplZVlTQnZWeUhNd3RWVlBZc05CS05ZUllsZzJLU283UWI2TjBDRUJ2TEptNW9uOTVkUzd1amZpcEtYeUcxTVM3NHJPakdlS25MSUkzNVd3Z2IzWU1ObGxpTEpENWxUWlVsWEZzWkJrajgxeDBSYWk4OHRVRkZYSWxIWXZKVWMzZjRfUDdkOTQxV2ZUeHlQMFc0cnpxMXcyd1RPcUY4RnF4Zw?oc=5",
     "timestamp": "2026-08-18T07:43:00+00:00",
     "isoDate": "2026-08-18",
     "date": "18 Ago",
-    "d": "Igreja/Portugal: Curso de Música Litúrgica arranca com dois níveis de formação Agencia Ecclesia",
+    "d": "Igreja/Portugal: Curso de Música Litúrgica arranca com dois níveis de formação Agência ECCLESIA",
     "category": "pt",
     "sources": [
       {
-        "name": "Agencia Ecclesia",
+        "name": "Agência ECCLESIA",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ1U5WG9iVU5YeVplZVlTQnZWeUhNd3RWVlBZc05CS05ZUllsZzJLU283UWI2TjBDRUJ2TEptNW9uOTVkUzd1amZpcEtYeUcxTVM3NHJPakdlS25MSUkzNVd3Z2IzWU1ObGxpTEpENWxUWlVsWEZzWkJrajgxeDBSYWk4OHRVRkZYSWxIWXZKVWMzZjRfUDdkOTQxV2ZUeHlQMFc0cnpxMXcyd1RPcUY4RnF4Zw?oc=5"
       }
     ],
@@ -40859,7 +41273,7 @@
       }
     ],
     "mbid": "6ba5bdde-2c98-405b-b150-cf84bca22992",
-    "star": true,
+    "star": false,
     "country": "PT",
     "kind": "release",
     "section": "recent"
@@ -49042,7 +49456,7 @@
       }
     ],
     "mbid": "19835a29-0db0-4176-bfd0-2f682ff84b60",
-    "star": true,
+    "star": false,
     "country": "PT",
     "kind": "release",
     "section": "recent"
@@ -49113,6 +49527,27 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "b": "A Parting Gaze",
+    "t": "Beneath the sky",
+    "g": "core",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "14 Ago",
+    "isoDate": "2026-08-14",
+    "url": "https://musicbrainz.org/release-group/a8799112-344d-4b3c-a191-885daa28d923",
+    "d": "metalcore, post-hardcore",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/a8799112-344d-4b3c-a191-885daa28d923"
+      }
+    ],
+    "mbid": "a8799112-344d-4b3c-a191-885daa28d923",
+    "star": true,
+    "kind": "release",
+    "section": "recent"
   },
   {
     "title": "Armed with new music and an anti-right hot streak, Tunnel Jumper is making hardcore great again - Westword",
@@ -66372,7 +66807,7 @@
       }
     ],
     "mbid": "729e3f7f-0a80-4046-b05d-1b1c00054817",
-    "star": true,
+    "star": false,
     "kind": "release",
     "section": "recent"
   },
