@@ -238,7 +238,7 @@
     "date": "25 Ago",
     "isoDate": "2026-08-25",
     "url": "https://musicbrainz.org/release-group/8d57fd73-69a9-4698-aaaf-1707f6f550b0",
-    "d": "rock, electronic, post-rock, industrial, noise",
+    "d": "electronic, industrial, noise, punk, experimental",
     "sources": [
       {
         "name": "MusicBrainz",
@@ -322,7 +322,7 @@
     "date": "25 Ago",
     "isoDate": "2026-08-25",
     "url": "https://musicbrainz.org/release-group/2f432650-dd28-40be-ac56-2b5e05ac9848",
-    "d": "rock, electronic, post-rock, industrial, noise",
+    "d": "electronic, industrial, noise, punk, experimental",
     "sources": [
       {
         "name": "MusicBrainz",
@@ -664,7 +664,7 @@
     "title": "Why did Hackers target BTS Jungkook? Chinese National Gets 20 Years in Massive Cybercrime Case - Dojeon Media",
     "src": "Dojeon Media",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOakRUMHpPZGF4Vm1Jd3BlU1NsNUNWLWswLV9QY2ZDdmkzZWhtTmNRN3pFM1VvaUprN2lvMEFXNmJFSVlWamRpOHZqUHdzbkNNUHFPR2tZaHhNRFJIZzlhdXR6akJ3enZNOXFrNzZkMXh4T203d2tlbmpKZGtDT3dELVZDS2tNZkg4eG15TmRjaEtFUUF2UldpMjRrd3R5UjVpdVlrVFFvb1NsQnVZaXVmYWVwMWh4cFJaMWllRG9QVHBkN0h1em1JZkVLYw?oc=5",
-    "timestamp": "2026-08-25T11:00:05+00:00",
+    "timestamp": "2026-08-25T08:03:05+00:00",
     "isoDate": "2026-08-25",
     "date": "25 Ago",
     "d": "Why did Hackers target BTS Jungkook? Chinese National Gets 20 Years in Massive Cybercrime Case Dojeon Media",
@@ -678,10 +678,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -703,10 +703,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -714,7 +714,7 @@
     "title": "Circo acrobático e música do mundo em Pombal no Festival Sete Sóis Sete Luas - Jornal de Leiria",
     "src": "Jornal de Leiria",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU3RhaFRRVU1KaVc1MmJOemc2RmtoSlp2WTNYRjlEWG1mZGZ6VWhsV011U19uSmFDVG91TW14a0c1V3ByaS05VV9PdjFzdmpZZk9nLWFiV1ZXRkY0SUkxQ280MWQ4QVBrbXpOdXB2S3BLbF9BYmU3MV8tUVpteWt2WUJaSm10NGxCWTQyVVppT1NtYzJmN2p0dGEtM1VPNVhSaWJEVFMwU1NQbExsYzdYazVySlQ?oc=5",
-    "timestamp": "2026-08-25T15:10:14+00:00",
+    "timestamp": "2026-08-25T19:44:57+00:00",
     "isoDate": "2026-08-25",
     "date": "25 Ago",
     "d": "Circo acrobático e música do mundo em Pombal no Festival Sete Sóis Sete Luas Jornal de Leiria",
@@ -781,15 +781,19 @@
       {
         "name": "DN Brasil",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLUxsLVp1RXgxVkFiLUQxMWY3QzZLcUZRU0lpNURWRjlDUV9tTzE5a3EzMHc4SWhlbHlBOW5ub2FZZTZ4ald0VmQzMFdLb3pOVDdBWk9qVkFRajJ4RGVncUZ6Uk5FSmJNRVhFVXR0eUljbm5jNUxDZm4wU2VBWGlKU0wxcS15VnJHN0dscEU3LXpfU2UzTThFTTJMOWxPYUE4VWNjS1ZvR3N5Skh0RW1R?oc=5"
+      },
+      {
+        "name": "DN Brasil",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMWJkOG82aVdDbExDWEQxRnZrdlNySU5UYzFIcU4xN0kxSmd6Tm40ODhRM2FsS2xNNmptaVNSTDJYbEdpNFZGQjNIVnhITGgxUE0tZElKa1N5Zkd1SE92bWxDWklZb3V3S1licGk1Tk5RZ2x4QkxxdVdSZHpMaEFxMnN5djBSeHVkMUF1QTktR28wQUUwMWdGSnQ4VFR4RkdON3NpVGlscGlySnlSSWtYemFxbXBHNkhCbm1XcUhyTWRFblliVTFUTG4wX0JVMGRQVEE?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -851,10 +855,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -876,10 +880,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -1130,10 +1134,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1230,10 +1234,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1305,10 +1309,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1330,10 +1334,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1355,10 +1359,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1380,10 +1384,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1405,10 +1409,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1430,10 +1434,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1456,7 +1460,7 @@
     "title": "QUEENS OF THE STONE AGE Announces 'Perfecth' Album, Shares 'Insignificant Other' Single",
     "src": "Blabbermouth",
     "url": "https://blabbermouth.net/news/queens-of-the-stone-age-announces-perfecth-album-shares-insignificant-other-single",
-    "timestamp": "2026-08-25T16:25:40+00:00",
+    "timestamp": "2026-08-25T16:31:29+00:00",
     "isoDate": "2026-08-25",
     "date": "25 Ago",
     "d": "QUEENS OF THE STONE AGE have always remained enduringly, singularly magnetic. It isn't just their sound. It's their spirit. They are provocative in the most essential sense: unafraid to explore the dark, the sexual, the surreal, the absurd. It's art that snarls and seduces in equal measure, and neve...",
@@ -1756,7 +1760,7 @@
     "title": "Sex Prisoner Move From Powerviolence to Sludge - PopMatters",
     "src": "PopMatters",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBib3NJdFNQcWdManM5VXJ0ZDFLU2wxdHVrX0ljUFR5Y0czOXVPNzNLNGczUUU3QVpSdk5KNTctbjhyQjVUekFDOWp3TlFRM21mZjBmV3o0ekxvVUR4ODZpZl9nOWp2QQ?oc=5",
-    "timestamp": "2026-08-25T14:12:23+00:00",
+    "timestamp": "2026-08-25T12:30:00+00:00",
     "isoDate": "2026-08-25",
     "date": "25 Ago",
     "d": "Sex Prisoner Move From Powerviolence to Sludge PopMatters",
@@ -2715,6 +2719,10 @@
       {
         "name": "Stereogum",
         "url": "https://stereogum.com/2509308/classic-traffic-announce-new-album-real-music-hear-my-rage/music/"
+      },
+      {
+        "name": "Stereogum",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZkFLVmxTTzRZUmNKVVJNTGhGTkh1THpmNHFzRjFoN0tUVFppSFJYWGhfaEZlcU5LdGxXWXBYQ191aUFmY2RCZW1zVHR2SHdQTXlwUHpaSXZ0N2pXQk9rVkd0Yk9hNUtLcExpVnBWQTM4TjNMVGtVX1dkM2JvZng0Z3VDSFV6cXlSNDRGSXpxbUMwQzU3WGUwbmtB?oc=5"
       }
     ],
     "status": "official",
@@ -2756,7 +2764,7 @@
     "title": "Jefferson Starship Returns With New Music, Tour Dates - Ultimate Classic Rock",
     "src": "Ultimate Classic Rock",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOC1aRDQzZl9zS1hHNU12VHVZbXY4Y19FT25GeHNIMTVmV25kakM4Vk1SclBRbXFpal82VnAtQWI2RUx6ekp3QUR5YkdMMHRGcjVZWnpXWURUZTlVbkRwYUJCR0tRTkN5NVVNczhzb1pyZzRnNjZsMWJEZ1ZsLWtJczVqZlFlMWpub0tfOXBFWQ?oc=5",
-    "timestamp": "2026-08-25T14:00:28+00:00",
+    "timestamp": "2026-08-25T17:09:20+00:00",
     "isoDate": "2026-08-25",
     "date": "25 Ago",
     "d": "Jefferson Starship Returns With New Music, Tour Dates Ultimate Classic Rock",
@@ -3249,10 +3257,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -3399,10 +3407,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -3420,6 +3428,1726 @@
     "releaseKey": "xenith|to no avail review",
     "kind": "review",
     "section": "rev"
+  },
+  {
+    "b": "Dominia",
+    "t": "Tamas",
+    "g": "death",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "25 Ago",
+    "isoDate": "2026-08-25",
+    "url": "https://alterportal.net/2026_albums/190107-dominia-tamas-2026.html",
+    "d": "Symphonic Dark Metal / Gothic Doom Metal / Death Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190107-dominia-tamas-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "Loathe’s Erik Bickerstaffe On “A Stranger To You”: “I Think We Were Conscious Of Not Wanting To F*ck This Record Up”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/25/news/loathes-erik-bickerstaffe-on-a-stranger-to-you-i-think-we-were-conscious-of-not-wanting-to-fck-this-record-up/",
+    "timestamp": "2026-08-25T20:10:14+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "\"...There was this extreme sense of second guessing everything.\" The post Loathe’s Erik Bickerstaffe On “A Stranger To You”: “I Think We Were Conscious Of Not Wanting To F*ck This Record Up” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/25/news/loathes-erik-bickerstaffe-on-a-stranger-to-you-i-think-we-were-conscious-of-not-wanting-to-fck-this-record-up/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "The Barbarians Of California’s In-Studio Performance Of “No Sir I Won’t Wear Your Jacket” On Cardboard Instruments Is Now Available",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/25/news/the-barbarians-of-californias-in-studio-performance-of-no-sir-i-wont-wear-your-jacket-on-cardboard-instruments-is-now-available/",
+    "timestamp": "2026-08-25T19:53:32+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Part of their 'Cardboard Sessions' set. The post The Barbarians Of California’s In-Studio Performance Of “No Sir I Won’t Wear Your Jacket” On Cardboard Instruments Is Now Available appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/25/news/the-barbarians-of-californias-in-studio-performance-of-no-sir-i-wont-wear-your-jacket-on-cardboard-instruments-is-now-available/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "CORROSION OF CONFORMITY and THE SWORD Announce North American Co-Headlining Tour",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/tour-dates/corrosion-of-conformity-the-sword-north-american-co-headlining-tour-2026",
+    "timestamp": "2026-08-25T19:47:40+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Kicking off November 2 in Buffalo, New York. The post CORROSION OF CONFORMITY and THE SWORD Announce North American Co-Headlining Tour appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/tour-dates/corrosion-of-conformity-the-sword-north-american-co-headlining-tour-2026"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "PANTERA's REX BROWN Partners With SPECTOR For New Signature Bass",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/panteras-rex-brown-partners-with-spector-for-new-signature-bass",
+    "timestamp": "2026-08-25T19:44:58+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "PANTERA's Rex Brown has partnered with Spector for a new instrument: the Euro 4 Rex Brown Signature bass. \"The new Rex Brown Euro Bass has been a labor of love,\" says Brown. \"We took our time with every detail. From the balance of the pickups to the backplate design, it features the same neck profil...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/panteras-rex-brown-partners-with-spector-for-new-signature-bass"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "DOLLY PARTON, country-music icon and ‘Rockstar’, dead at 80",
+    "src": "Revolver",
+    "url": "https://www.revolvermag.com/music/dolly-parton-country-music-icon-and-rockstar-dead-at-80/",
+    "timestamp": "2026-08-25T19:40:07+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Loved by all, from Rob Halford to Nikki Sixx",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Revolver",
+        "url": "https://www.revolvermag.com/music/dolly-parton-country-music-icon-and-rockstar-dead-at-80/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Soundgarden Recruit Pearl Jam & The Pretty Reckless Members For Upcoming NFL Halftime Show Performance",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/25/news/soundgarden-recruit-pearl-jam-the-pretty-reckless-members-for-upcoming-nfl-halftime-show-performance/",
+    "timestamp": "2026-08-25T19:36:15+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "In their hometown of Seattle, naturally. The post Soundgarden Recruit Pearl Jam & The Pretty Reckless Members For Upcoming NFL Halftime Show Performance appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/25/news/soundgarden-recruit-pearl-jam-the-pretty-reckless-members-for-upcoming-nfl-halftime-show-performance/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Black Spikes Premiere “DULKES” Music Video",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/25/news/black-spikes-premiere-dulkes-music-video/",
+    "timestamp": "2026-08-25T19:21:55+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Their new album \"Ydos\" is out this coming Friday. The post Black Spikes Premiere “DULKES” Music Video appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/25/news/black-spikes-premiere-dulkes-music-video/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Rockers Share Moving Tributes Celebrating Dolly Parton",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/rockers-tributes-dolly-parton/",
+    "timestamp": "2026-08-25T19:15:50+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "See what members of the rock and metal community are saying about the death of Dolly Parton. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/rockers-tributes-dolly-parton/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "The Callous Daoboys Tease New Single “WUK”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/25/news/the-callous-daoboys-tease-new-single-wuk/",
+    "timestamp": "2026-08-25T19:12:00+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Unless that's just an abbreviation, but you get the picture. The post The Callous Daoboys Tease New Single “WUK” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/25/news/the-callous-daoboys-tease-new-single-wuk/"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "medium",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "SOUNDGARDEN To Perform During Halftime Of SEATTLE SEAHAWKS Season Opener",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/soundgarden-to-perform-during-halftime-of-seattle-seahawks-season-opener",
+    "timestamp": "2026-08-25T19:08:40+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "The Seattle Seahawks will celebrate the return of football with a special \"Countdown To Kickoff.\" The Seahawks will open the regular season at Lumen Field on Wednesday, September 9 vs. the New England Patriots, with kickoff at 5:20 p.m. PT on NBC. The home opener will also feature a special halftime...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/soundgarden-to-perform-during-halftime-of-seattle-seahawks-season-opener"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "BIOHAZARD's EVAN SEINFELD: 'We Were Intentionally Copying Ourselves' On 'Divided We Fall' Album",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/biohazards-evan-seinfeld-we-were-intentionally-copying-ourselves-on-divided-we-fall-album",
+    "timestamp": "2026-08-25T19:05:23+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "In a new interview with Remzi \"Jam Man\" Yates of Rocking With Jam Man, bassist/vocalist Evan Seinfeld spoke about the band's latest album, \"Divided We Fall\", which was recorded and released last fall after he and his bandmates spent two years touring around the globe. Asked if there was ever a mome...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/biohazards-evan-seinfeld-we-were-intentionally-copying-ourselves-on-divided-we-fall-album"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Earshot Channeled Chris Cornell’s Passing Into Their New Single “Love Left”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/25/news/earshot-channeled-chris-cornells-passing-into-their-new-single-love-left/",
+    "timestamp": "2026-08-25T19:04:02+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "The band have also aligned themselves with Judge & Jury Records. The post Earshot Channeled Chris Cornell’s Passing Into Their New Single “Love Left” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/25/news/earshot-channeled-chris-cornells-passing-into-their-new-single-love-left/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Chicago Cemetery Crematory Investigation Halts Concert Plans",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/chicago-cemetery-crematory-investigation-halts-hardcore-memorial-show-plans/",
+    "timestamp": "2026-08-25T18:49:26+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "The show is now set for a different venue due to an ongoing investigation into a crematory's handling of remains. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/chicago-cemetery-crematory-investigation-halts-hardcore-memorial-show-plans/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "DOLLY PARTON, Country and Rock Icon, Dead at 80",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/dolly-parton-country-and-rock-icon-dead-at-80",
+    "timestamp": "2026-08-25T18:41:15+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "We're playing her track with Rob Halford all day. The post DOLLY PARTON, Country and Rock Icon, Dead at 80 appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/dolly-parton-country-and-rock-icon-dead-at-80"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Squid Pisser Launch Animated “Leeches” Music Video",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/25/news/squid-pisser-launch-animated-leeches-music-video/",
+    "timestamp": "2026-08-25T18:35:57+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Their new EP \"Throat Slave\" is out this Friday. The post Squid Pisser Launch Animated “Leeches” Music Video appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/25/news/squid-pisser-launch-animated-leeches-music-video/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "The Used Announce Fall West Coast U.S. Tour",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/25/news/the-used-announce-fall-west-coast-u-s-tour/",
+    "timestamp": "2026-08-25T18:28:29+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Booked around their festival appearances and their set opening for My Chemical Romance at the Hollywood Bowl. The post The Used Announce Fall West Coast U.S. Tour appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/25/news/the-used-announce-fall-west-coast-u-s-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "AARON LEWIS Announces November 2026 'Acoustic Origins' Tour",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/aaron-lewis-announces-november-2026-acoustic-origins-tour",
+    "timestamp": "2026-08-25T18:19:25+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Multi-platinum country artist and STAIND frontman Aaron Lewis is heading back on the road this fall for an intimate series of solo acoustic performances with the \"Acoustic Origins\" tour. The 12-date trek will find Lewis bringing his powerful voice, acoustic guitar and signature storytelling to theat...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/aaron-lewis-announces-november-2026-acoustic-origins-tour"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Dolly Parton, Country Icon + Rock and Roll Hall of Famer, Dies",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/dolly-parton-dead-80/",
+    "timestamp": "2026-08-25T18:18:16+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Dolly Parton, the legendary country music icon who shaped generations of fans, has passed away at 80 in Nashville. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/dolly-parton-dead-80/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Death To All & Dark Angel Set For January 2027 Australian Tour",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/25/news/death-to-all-dark-angel-set-for-january-2027-australian-tour/",
+    "timestamp": "2026-08-25T18:17:22+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Gene's gonna be a busy boy. The post Death To All & Dark Angel Set For January 2027 Australian Tour appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/25/news/death-to-all-dark-angel-set-for-january-2027-australian-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "In Flames & Trivium Announce European/UK Co-Headlining Tour, Paleface Swiss & VOLA To Open",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/25/news/in-flames-trivium-announce-european-uk-co-headlining-tour-paleface-swiss-vola-to-open/",
+    "timestamp": "2026-08-25T18:08:32+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Look for it in the spring. The post In Flames & Trivium Announce European/UK Co-Headlining Tour, Paleface Swiss & VOLA To Open appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/25/news/in-flames-trivium-announce-european-uk-co-headlining-tour-paleface-swiss-vola-to-open/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "FROM ASHES TO NEW Singer Threatens to \"F***ing End\" Fan After Getting Sprayed By Water Gun",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/from-ashes-to-new-singer-threatens-to-fing-end-fan-after-getting-sprayed-by-water-gun",
+    "timestamp": "2026-08-25T17:56:59+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "\"\"If you do that again, you're going to leave with no fucking teeth...\" The post FROM ASHES TO NEW Singer Threatens to \"F***ing End\" Fan After Getting Sprayed By Water Gun appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/from-ashes-to-new-singer-threatens-to-fing-end-fan-after-getting-sprayed-by-water-gun"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Who Is Ryan Goff, Rob Zombie’s Fill-In Touring Drummer?",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/ryan-goff-rob-zombie-fill-in-drummer/",
+    "timestamp": "2026-08-25T17:52:02+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Get to know Rob Zombie's new fill-in touring drummer, including his past with Rob and his previous work in punk and hardcore bands. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/ryan-goff-rob-zombie-fill-in-drummer/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Here's The First Look At OZZY OSBOURNE Haunted House At Universal Studios 'Halloween Horror Nights'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/heres-the-first-look-at-ozzy-osbourne-haunted-house-at-universal-studios-halloween-horror-nights",
+    "timestamp": "2026-08-25T17:35:22+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "The Exploring Attractions channel on YouTube has uploaded a \"first look\" at Universal Studios' \"Ozzy Osbourne: Prince of Darkness\", a haunted house celebrating the late heavy metal icon and more than four decades of his solo career. You can now check it out at this location. \"Ozzy Osbourne: Prince O...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/heres-the-first-look-at-ozzy-osbourne-haunted-house-at-universal-studios-halloween-horror-nights"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "MIKE PORTNOY Praises New RUSH Drummer ANIKA NILLES, 'She Is Absolutely Perfect for This Gig'",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/mike-portnoy-praises-new-rush-drummer-anika-nilles-august-2026",
+    "timestamp": "2026-08-25T17:04:58+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "\"...You can feel the whole audience rooting for her through the whole show and I LOVE that!!!\" The post MIKE PORTNOY Praises New RUSH Drummer ANIKA NILLES, 'She Is Absolutely Perfect for This Gig' appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/mike-portnoy-praises-new-rush-drummer-anika-nilles-august-2026"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "SPIRITBOX's COURTNEY LAPLANTE Teams Up With MIXWAVE For Signature Vocal Plugin",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/spiritboxs-courtney-laplante-teams-up-with-mixwave-for-signature-vocal-plugin",
+    "timestamp": "2026-08-25T16:46:31+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Courtney LaPlante, vocalist of three-times-Grammy-nominated band SPIRITBOX, has teamed up with MixWave to launch her first signature vocal plugin, a modular vocal suite developed around the tools and techniques behind her unmistakable sound. LaPlante has helped redefine what a modern heavy vocalist...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/spiritboxs-courtney-laplante-teams-up-with-mixwave-for-signature-vocal-plugin"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Review: MASTODON’s cathartic ‘Marrow Deep’ kicks off new chapter with grace and grit",
+    "src": "Revolver",
+    "url": "https://www.revolvermag.com/feature/review-mastodons-cathartic-marrow-deep-kicks-off-new-chapter-with-grace-and-grit/",
+    "timestamp": "2026-08-25T16:39:45+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Coursing with barbarians blood and god-tier guest spots",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Revolver",
+        "url": "https://www.revolvermag.com/feature/review-mastodons-cathartic-marrow-deep-kicks-off-new-chapter-with-grace-and-grit/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "The rise of the outdoor’s punks - huckmag.com",
+    "src": "huckmag.com",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDSHZzLUc5U1l0LXBReVowVnQxU1FHT3VicDBTeU5YUkpOcVh2Zi1ZS0J4X3Nxdm9ab1RiS043ODg0VklwcWpZWVNnZktZdU1HREE0b2puNFFDUC1LaDNPd0M5WXNONmIwVEpQTFdSSnBaS0FpdVVscmQ4LWp4QQ?oc=5",
+    "timestamp": "2026-08-25T13:25:00+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "The rise of the outdoor’s punks huckmag.com",
+    "category": "core",
+    "sources": [
+      {
+        "name": "huckmag.com",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDSHZzLUc5U1l0LXBReVowVnQxU1FHT3VicDBTeU5YUkpOcVh2Zi1ZS0J4X3Nxdm9ab1RiS043ODg0VklwcWpZWVNnZktZdU1HREE0b2puNFFDUC1LaDNPd0M5WXNONmIwVEpQTFdSSnBaS0FpdVVscmQ4LWp4QQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Vive Le Rock present Instigators, Fantazmaz and Quick romance at the 100 Club 21.8.26. - RockShot Magazine",
+    "src": "RockShot Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHByaldjaDl3a09qT2U4OUJiVWlRRWYyeHlmN0dnWEJkYWR3QmRGa0tJTThWTjF2NHBQUnNuWW5mdHc4MS1lSzZoaUdkRzhUeW4yVTJNYmJJS253aDhMdHctX0ZISV9QRGRpQ2M2SC1RX1Y0b1hOMWdtYlc2WldqV3pISUxta0V0ZEJfRHg1UjJqNjFtbEF1bFJDVjNNR3o5WlBkQlVpLW0?oc=5",
+    "timestamp": "2026-08-25T12:19:53+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Vive Le Rock present Instigators, Fantazmaz and Quick romance at the 100 Club 21.8.26. RockShot Magazine",
+    "category": "core",
+    "sources": [
+      {
+        "name": "RockShot Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHByaldjaDl3a09qT2U4OUJiVWlRRWYyeHlmN0dnWEJkYWR3QmRGa0tJTThWTjF2NHBQUnNuWW5mdHc4MS1lSzZoaUdkRzhUeW4yVTJNYmJJS253aDhMdHctX0ZISV9QRGRpQ2M2SC1RX1Y0b1hOMWdtYlc2WldqV3pISUxta0V0ZEJfRHg1UjJqNjFtbEF1bFJDVjNNR3o5WlBkQlVpLW0?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Dolly Parton Remembered: Reba McEntire, Kacey Musgraves, and More Pay Tribute",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/dolly-parton-remembered-tributes/",
+    "timestamp": "2026-08-25T19:58:01+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/dolly-parton-remembered-tributes/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Every song on the ‘Women In Blue’ soundtrack",
+    "src": "NME",
+    "url": "https://www.nme.com/news/tv/women-in-blue-soundtrack-every-song-3962497?utm_source=rss&utm_medium=rss&utm_campaign=women-in-blue-soundtrack-every-song",
+    "timestamp": "2026-08-25T19:46:32+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Including an original score by Lucas Vidal The post Every song on the ‘Women In Blue’ soundtrack appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/tv/women-in-blue-soundtrack-every-song-3962497?utm_source=rss&utm_medium=rss&utm_campaign=women-in-blue-soundtrack-every-song"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Fans and Emily Eavis remember Dolly Parton’s “biggest ever” Glastonbury 2014 legends slot performance",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/fans-and-emily-eavis-remember-dolly-partons-biggest-ever-glastonbury-2014-legends-slot-performance-3964694?utm_source=rss&utm_medium=rss&utm_campaign=fans-and-emily-eavis-remember-dolly-partons-biggest-ever-glastonbury-2014-legends-slot-performance",
+    "timestamp": "2026-08-25T19:42:09+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "\"I don't think you can beat that performance as a perfect moment here at Glastonbury\", Eavis said at the time The post Fans and Emily Eavis remember Dolly Parton’s “biggest ever” Glastonbury 2014 legends slot performance appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/fans-and-emily-eavis-remember-dolly-partons-biggest-ever-glastonbury-2014-legends-slot-performance-3964694?utm_source=rss&utm_medium=rss&utm_campaign=fans-and-emily-eavis-remember-dolly-partons-biggest-ever-glastonbury-2014-legends-slot-performance"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Spook School Reunite For New Album Like A Heartbeat: Hear “Falling”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2509397/the-spook-school-reunite-for-new-album-like-a-heartbeat-hear-falling/music/",
+    "timestamp": "2026-08-25T19:38:21+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "In 2019, the Spook School broke up . Now, the Scottish indie-pop band is reuniting to release a new record titled Like A Heartbeat . The lead single \"Falling\" is out today. The post The Spook School Reunite For New Album <em>Like A Heartbeat</em>: Hear “Falling” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2509397/the-spook-school-reunite-for-new-album-like-a-heartbeat-hear-falling/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Corrosion of Conformity and The Sword Announce Fall 2026 US Tour",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/corrosion-of-conformity-the-sword-2026-us-tour/",
+    "timestamp": "2026-08-25T19:36:17+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "The outing launches November 2nd and features support from heavy psych band Hippie Death Cult. Corrosion of Conformity and The Sword Announce Fall 2026 US Tour Langdon Hickman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/corrosion-of-conformity-the-sword-2026-us-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Dolly Parton, 1946-2026: the Queen of Country was a unifying force in a divided world",
+    "src": "NME",
+    "url": "https://www.nme.com/features/music-features/dolly-parton-obituary-queen-of-country-tribute-3964673?utm_source=rss&utm_medium=rss&utm_campaign=dolly-parton-obituary-queen-of-country-tribute",
+    "timestamp": "2026-08-25T19:34:02+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "The universally loved singer-songwriter, who was always the most glamorous person in the room, will be remembered for her genius and generosity The post Dolly Parton, 1946-2026: the Queen of Country was a unifying force in a divided world appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/features/music-features/dolly-parton-obituary-queen-of-country-tribute-3964673?utm_source=rss&utm_medium=rss&utm_campaign=dolly-parton-obituary-queen-of-country-tribute"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "To Honor Dolly Parton, Trump Orders American Flags Flown at Half Staff for One Week",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/dolly-parton-donald-trump-flags-half-staff/",
+    "timestamp": "2026-08-25T19:33:52+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "\"I am lowering the American flag throughout the United States for a one week period beginning tonight at 6:00PM,\" Trump wrote. To Honor Dolly Parton, Trump Orders American Flags Flown at Half Staff for One Week Wren Graves",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/dolly-parton-donald-trump-flags-half-staff/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Willi Carlisle – “Marlboro Vinyasa”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2509394/willi-carlisle-marlboro-vinyasa/music/",
+    "timestamp": "2026-08-25T19:25:06+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "\"I been gettin' up each morning with the hair of the downward dog.\" That fantastic lyric belongs to \"Marlboro Vinyasa,\" the latest single from Willi Carlisle's Tyler Childers-produced double album The Universal Bubba . Unlike prior single \" Mason Jar At The Center Of The World ,\" which was the kind of a traditional ree",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2509394/willi-carlisle-marlboro-vinyasa/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Carterton council asked to waive $18,000 water bill due to leak - 1News",
+    "src": "1News",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOGxxZWV2ZXpnSHZHR2FwLThsUHlJaTMyVkk2VE96OHhYTVN1bTNoN1pIME1CTnFoVE1ETG9KYm10cThOa1h1Qml3QmtESFRuZk1NMExpd0dycFNoU0lyQlgyMWU5b2ZDeHdoclJpa01jMHVoNUgtQXl1VkVOWWxmRENjdTlDVGJHcUJ2NzNOZF95andqdXFVMkdIVHZnQQ?oc=5",
+    "timestamp": "2026-08-25T19:21:15+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Carterton council asked to waive $18,000 water bill due to leak 1News",
+    "category": "general",
+    "sources": [
+      {
+        "name": "1News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOGxxZWV2ZXpnSHZHR2FwLThsUHlJaTMyVkk2VE96OHhYTVN1bTNoN1pIME1CTnFoVE1ETG9KYm10cThOa1h1Qml3QmtESFRuZk1NMExpd0dycFNoU0lyQlgyMWU5b2ZDeHdoclJpa01jMHVoNUgtQXl1VkVOWWxmRENjdTlDVGJHcUJ2NzNOZF95andqdXFVMkdIVHZnQQ?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Resavoir Announce New Album Above The Clouds: Hear “4th Cloud” (Feat. Gregory Uhlmann)",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2509388/resavoir-announce-new-album-above-the-clouds-hear-4th-cloud-feat-gregory-uhlmann/music/",
+    "timestamp": "2026-08-25T19:04:26+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Trumpeter Will Miller has been a fixture of Chicago's music scene for years, appearing on key 2010s releases from artists like Chance The Rapper, Whitney, and Twin Peaks and branching out beyond the Windy City for work with heavy hitters like SZA and Mavis Staples. And for many years now, he's been leading Resavoir, an",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2509388/resavoir-announce-new-album-above-the-clouds-hear-4th-cloud-feat-gregory-uhlmann/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Dolly Parton Tributes Pour In: “A True Gift to Humanity and the Very Best of Us”",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/dolly-parton-death-celebrity-reactions-tributes/",
+    "timestamp": "2026-08-25T18:58:33+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "See tributes from fellow music icons Reba McEntire, Carole King, Sheryl Crow, Jack White, and more. Dolly Parton Tributes Pour In: “A True Gift to Humanity and the Very Best of Us” Paolo Ragusa",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/dolly-parton-death-celebrity-reactions-tributes/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Soundgarden Reuniting for NFL Kickoff Halftime Show in Seattle",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/soundgarden-reuniting-nfl-kickoff-halftime-show-seattle/",
+    "timestamp": "2026-08-25T18:44:20+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Taylor Momsen will front the band while Mike McCready will provide additional guitar. Soundgarden Reuniting for NFL Kickoff Halftime Show in Seattle Spencer Kaufman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/soundgarden-reuniting-nfl-kickoff-halftime-show-seattle/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Michael Dease Big Band to Release THE SLEEPER: Music of Gregg Hill - BroadwayWorld",
+    "src": "BroadwayWorld",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2tscWRHVldPQWg1Z3NINFVJbVprMlA2YUE5Q0JxQnZjVW11bURlQTh4Sk9QSFlRTlB2bWFiR3NjaUNnTTUzd1ZCYkh4UUkzdnFsb3VzcUhfeGpXeXRrS01uRGNTZVFibklJb29TcjB6X2J3R0I0MmFzQUhNendHcnZyeXNtZUI2anU1SWVUV0o3bjR6UEEwekRJUG5GSlN3N2RZWnVkb0hoYVpnbmJyTkxoTjYyYTdDc0RtbzZ3?oc=5",
+    "timestamp": "2026-08-25T18:28:31+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Michael Dease Big Band to Release THE SLEEPER: Music of Gregg Hill BroadwayWorld",
+    "category": "general",
+    "sources": [
+      {
+        "name": "BroadwayWorld",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2tscWRHVldPQWg1Z3NINFVJbVprMlA2YUE5Q0JxQnZjVW11bURlQTh4Sk9QSFlRTlB2bWFiR3NjaUNnTTUzd1ZCYkh4UUkzdnFsb3VzcUhfeGpXeXRrS01uRGNTZVFibklJb29TcjB6X2J3R0I0MmFzQUhNendHcnZyeXNtZUI2anU1SWVUV0o3bjR6UEEwekRJUG5GSlN3N2RZWnVkb0hoYVpnbmJyTkxoTjYyYTdDc0RtbzZ3?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Dolly Parton, icon of country music, dies aged 80",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/dolly-parton-icon-of-country-music-dies-aged-80-3964674?utm_source=rss&utm_medium=rss&utm_campaign=dolly-parton-icon-of-country-music-dies-aged-80",
+    "timestamp": "2026-08-25T18:21:13+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "\"Dolly will forever stand as an inspiration not only through her timeless music and prolific songwriting, but also her wit, warmth and kindness that made us all feel like family\" The post Dolly Parton, icon of country music, dies aged 80 appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/dolly-parton-icon-of-country-music-dies-aged-80-3964674?utm_source=rss&utm_medium=rss&utm_campaign=dolly-parton-icon-of-country-music-dies-aged-80"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Dolly Parton, the Rare Artist Beloved by Everyone, Dies at 80",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/dolly-parton-dead/",
+    "timestamp": "2026-08-25T18:13:56+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "The country legend, songwriter, actress, and humanitarian leaves behind a seven-decade legacy of unforgettable music, generosity, and joy. Dolly Parton, the Rare Artist Beloved by Everyone, Dies at 80 Eddie Fu",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/dolly-parton-dead/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Dolly Parton Dead At 80",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2509381/dolly-parton-dead-at-80/news/",
+    "timestamp": "2026-08-25T18:12:40+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Dolly Parton, one of the greatest singers and songwriters in the history of American popular entertainment, has died. Parton's family announced her passing in a video statement from her nephew Byran Seaver that was posted on Parton's social media channels this afternoon. According to a statement from her representative",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2509381/dolly-parton-dead-at-80/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Dolly Parton Dies: Iconic “Jolene” Singer-Songwriter, ‘9 To 5’ Star & 11-Time Grammy Winner Was 80 - Deadline",
+    "src": "Deadline",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SRGFQWnZHbHpoOW5QZHo2VkNXZUpqSWlpMnlFblgtekYycDNJRmF2M0F6cm5WcTgzTEZhVWRjcDczdmJVQkk5T09aaVJqazZGN0kzV3pQWVdXZlpFMG5qcHR1dmF2MnJOdmc?oc=5",
+    "timestamp": "2026-08-25T18:08:00+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Dolly Parton Dies: Iconic “Jolene” Singer-Songwriter, ‘9 To 5’ Star & 11-Time Grammy Winner Was 80 Deadline",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Deadline",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SRGFQWnZHbHpoOW5QZHo2VkNXZUpqSWlpMnlFblgtekYycDNJRmF2M0F6cm5WcTgzTEZhVWRjcDczdmJVQkk5T09aaVJqazZGN0kzV3pQWVdXZlpFMG5qcHR1dmF2MnJOdmc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Soundgarden To Reunite For NFL Season Opener Halftime Show",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2509375/soundgarden-to-reunite-for-nfl-season-opener-halftime-show/news/",
+    "timestamp": "2026-08-25T18:02:47+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Grunge overlords Soundgarden have only played live a few times since the sudden, tragic 2017 death of frontman Chris Cornell, and they've had some legal issues with Cornell's widow Vicky in the years since. But the band and Vicky Cornell reconciled in 2023, and they performed at their Rock And Roll Hall Of Fame inducti",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2509375/soundgarden-to-reunite-for-nfl-season-opener-halftime-show/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Dolly Parton Dies at 80",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/dolly-parton-dies-at-80/",
+    "timestamp": "2026-08-25T17:59:34+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/dolly-parton-dies-at-80/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Smidley – “Murphy Horse”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2509372/smidley-murphy-horse/music/",
+    "timestamp": "2026-08-25T17:54:09+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Former Foxing frontman Conor Murphy announced the new Smidley album in June. So far we've heard \" Capstone \" featuring Lucy Dacus and \" Love In Every Direction \" from Murphy Horse , and now he's sharing the title track. The post Smidley – “Murphy Horse” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2509372/smidley-murphy-horse/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Netflix Announces Norm Macdonald Documentary Directed by Judd Apatow",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/netflix-norm-macdonald-doc-judd-apatow/",
+    "timestamp": "2026-08-25T17:48:22+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "The doc is one of four celebrations of comedy legends coming out this October. Netflix Announces Norm Macdonald Documentary Directed by Judd Apatow Liz Shannon Miller",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/netflix-norm-macdonald-doc-judd-apatow/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Keanu Reeves spotted around Cincinnati during band's tour stop - WLWT",
+    "src": "WLWT",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ3c3aUJTMm9HeUpWaHZNNGRrTDhMampWenV0azdtekh4d3JXc09WY0NsaVlYTHNLQlNQYjdtM041dmVLT2w5b091WmxOdXBfUG1vamZDcGJSWXFvTDUyYmtWWnktdEhHcWxUbHJwZTRMSHMzS1Z1SUJld1M0dld1YjBXcWludE9OdkJTdUcxbHpIM2pGN0xzM1VB?oc=5",
+    "timestamp": "2026-08-25T17:44:26+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Keanu Reeves spotted around Cincinnati during band's tour stop WLWT",
+    "category": "general",
+    "sources": [
+      {
+        "name": "WLWT",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ3c3aUJTMm9HeUpWaHZNNGRrTDhMampWenV0azdtekh4d3JXc09WY0NsaVlYTHNLQlNQYjdtM041dmVLT2w5b091WmxOdXBfUG1vamZDcGJSWXFvTDUyYmtWWnktdEhHcWxUbHJwZTRMSHMzS1Z1SUJld1M0dld1YjBXcWludE9OdkJTdUcxbHpIM2pGN0xzM1VB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Paul Thomas Anderson’s ‘Cameron Winter At Carnegie Hall’ concert film announced",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/paul-thomas-andersons-cameron-winter-at-carnegie-hall-concert-film-announced-3964659?utm_source=rss&utm_medium=rss&utm_campaign=paul-thomas-andersons-cameron-winter-at-carnegie-hall-concert-film-announced",
+    "timestamp": "2026-08-25T17:38:06+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "It will capture the Geese frontman's one-off 2025 solo show at the iconic New York venue The post Paul Thomas Anderson’s ‘Cameron Winter At Carnegie Hall’ concert film announced appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/paul-thomas-andersons-cameron-winter-at-carnegie-hall-concert-film-announced-3964659?utm_source=rss&utm_medium=rss&utm_campaign=paul-thomas-andersons-cameron-winter-at-carnegie-hall-concert-film-announced"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Violinist Stirling bringing holiday tour to region - Jacksonville Journal-Courier",
+    "src": "Jacksonville Journal-Courier",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUnA1ZzU4MVYyNGFzQTNtY2JwQWZUMnpUTzdyMU1ub2Vjejh2ZENpRFB3el9oWDkyMlRza1dmVzltRGF4Yms4MmNXLXJOMUYxMDlUY1dlbFlINGEtRllTWUhZNzJCWWVkVDA4cUhjdXVYNHk0TFJLRmZmbXd0dmJyVHRzb3JPTk5RQVVVbkpsSzZtU3BvT29zN2RzR0RiYS1Yb29wUWsxdEI?oc=5",
+    "timestamp": "2026-08-25T17:30:54+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Violinist Stirling bringing holiday tour to region Jacksonville Journal-Courier",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Jacksonville Journal-Courier",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUnA1ZzU4MVYyNGFzQTNtY2JwQWZUMnpUTzdyMU1ub2Vjejh2ZENpRFB3el9oWDkyMlRza1dmVzltRGF4Yms4MmNXLXJOMUYxMDlUY1dlbFlINGEtRllTWUhZNzJCWWVkVDA4cUhjdXVYNHk0TFJLRmZmbXd0dmJyVHRzb3JPTk5RQVVVbkpsSzZtU3BvT29zN2RzR0RiYS1Yb29wUWsxdEI?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Isaiah Rashad Doesn’t Have All the Answers — and That’s the Point",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/isaiah-rashad-its-been-awful-interview/",
+    "timestamp": "2026-08-25T17:30:07+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "On It’s Been Awful, Isaiah Rashad turns inward, looking for home, healing, and his next good point in life. Isaiah Rashad Doesn’t Have All the Answers — and That’s the Point Kiana Fitzgerald",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/isaiah-rashad-its-been-awful-interview/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Dexter Story Announces New Album T’som: Hear “Mama” (Feat. Sudan Archives & Kamasi Washington)",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2509369/dexter-story-announces-new-album-tsom-hear-mama-feat-sudan-archives-kamasi-washington/music/",
+    "timestamp": "2026-08-25T17:29:08+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Dexter Story — the prolific project of Los Angeles-based producer, multi-instrumentalist, and singer Dexter Gordon — already released an album earlier this year called Inner . Now, he's returning to announce its followup T’som , and the lead single \"Mama\" features Sudan Archives and Kamasi Washington. The post Dexter S",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2509369/dexter-story-announces-new-album-tsom-hear-mama-feat-sudan-archives-kamasi-washington/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Jay-Z’s Music Finds New Audience in Unexpected Place - Reality Tea",
+    "src": "Reality Tea",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEtKV0g1WGRobmYtcDFxSi1ydnlicVc4ZFBzOVdGSm5kQzIxR0xNM29rY1g5ZmtpT3pKVktIbTY4UWJXUVM0ekNMVXI3YjZjTHd3MWdUUlcwMnhLZVEwZjZoSEdTWk9wUmFnelQwR3FCbXlPR2NYZm1UblViRGthaWlBNNIBgwFBVV95cUxQOEtKV0g1WGRobmYtcDFxSi1ydnlicVc4ZFBzOVdGSm5kQzIxR0xNM29rY1g5ZmtpT3pKVktIbTY4UWJXUVM0ekNMVXI3YjZjTHd3MWdUUlcwMnhLZVEwZjZoSEdTWk9wUmFnelQwR3FCbXlPR2NYZm1UblViRGthaWlBNA?oc=5",
+    "timestamp": "2026-08-25T17:26:38+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Jay-Z’s Music Finds New Audience in Unexpected Place Reality Tea",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Reality Tea",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEtKV0g1WGRobmYtcDFxSi1ydnlicVc4ZFBzOVdGSm5kQzIxR0xNM29rY1g5ZmtpT3pKVktIbTY4UWJXUVM0ekNMVXI3YjZjTHd3MWdUUlcwMnhLZVEwZjZoSEdTWk9wUmFnelQwR3FCbXlPR2NYZm1UblViRGthaWlBNNIBgwFBVV95cUxQOEtKV0g1WGRobmYtcDFxSi1ydnlicVc4ZFBzOVdGSm5kQzIxR0xNM29rY1g5ZmtpT3pKVktIbTY4UWJXUVM0ekNMVXI3YjZjTHd3MWdUUlcwMnhLZVEwZjZoSEdTWk9wUmFnelQwR3FCbXlPR2NYZm1UblViRGthaWlBNA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Iron Man Helmet with Eye Projector, LED Nano Gauntlet Popcorn Buckets Revealed for Avengers: Endgame Re-Release",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/iron-man-helmet-gauntlet-popcorn-buckets/",
+    "timestamp": "2026-08-25T17:15:51+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Collectibles to really annoy the heck out of the person next to you in the theater. Iron Man Helmet with Eye Projector, LED Nano Gauntlet Popcorn Buckets Revealed for Avengers: Endgame Re-Release Ben Kaye",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/iron-man-helmet-gauntlet-popcorn-buckets/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Winter – “hide-a-lullaby” (Mixtape Version Feat. Peel Dream Magazine)",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2509363/winter-hide-a-lullaby-mixtape-version-feat-peel-dream-magazine/music/",
+    "timestamp": "2026-08-25T17:00:31+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Nobody will ever be allowed to say a single rude word about Samira Winter in my presence. She records dreamy shoegaze as just plain Winter, and she's also Stereogum's newest VJ. Earlier this year, I spent a few days with Winter at the Kilby Block Party festival in Salt Lake City, where she made this instant-classic vid",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2509363/winter-hide-a-lullaby-mixtape-version-feat-peel-dream-magazine/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kanye West’s Two St. Petersburg Shows Reportedly Canceled by Gazprom Arena - inmusicblog.com",
+    "src": "inmusicblog.com",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTjhhSmM5YnFac2lfRVBSN1IzYjdxcHhxc2JYS09vemlLWmI2bUdkcVFxVXNvRW5WZmp1VlA0YktzZEdIVjVUQ0RlblFTX0pLdFlUMlNOOHFuRHB5RlhpTGNJWDNIVGJEMzRxeFlJMlJrRzVnazFBemd5UUNRbmxqYUJuSGxFcnp0QlE?oc=5",
+    "timestamp": "2026-08-25T16:56:10+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Kanye West’s Two St. Petersburg Shows Reportedly Canceled by Gazprom Arena inmusicblog.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "inmusicblog.com",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTjhhSmM5YnFac2lfRVBSN1IzYjdxcHhxc2JYS09vemlLWmI2bUdkcVFxVXNvRW5WZmp1VlA0YktzZEdIVjVUQ0RlblFTX0pLdFlUMlNOOHFuRHB5RlhpTGNJWDNIVGJEMzRxeFlJMlJrRzVnazFBemd5UUNRbmxqYUJuSGxFcnp0QlE?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Dan Stevens to Become RoboCop in New Prime Video Series",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/robocop-dan-stevens-prime-video/",
+    "timestamp": "2026-08-25T16:47:40+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "RoboCop is just the latest bit of IP being resurrected by Amazon. Dan Stevens to Become RoboCop in New Prime Video Series Liz Shannon Miller",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/robocop-dan-stevens-prime-video/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Bachman-Turner Overdrive Announce Winter 2027 US Tour",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/bachman-turner-overdrive-2027-winter-tour/",
+    "timestamp": "2026-08-25T16:46:02+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "The \"No Speed Limit\" tour kicks off January 7th and sees the band on the road through March 20th. Bachman-Turner Overdrive Announce Winter 2027 US Tour Langdon Hickman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/bachman-turner-overdrive-2027-winter-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Sylvan Esso – “On & On”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2509359/sylvan-esso-on-on/music/",
+    "timestamp": "2026-08-25T16:45:04+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "After a surprising turn into noisy guitar chaos on last year's \" Hot Slob ,\" Sylvan Esso announced their new album Ow ∞ last month and shared its Sigur Rós-sampling lead single \" Concrete Glen .\" The song, which incorporates the gorgeous, familiar-yet-alien sound of Jonsi's vocals from \"Svefn-g-englar,\" marked a return",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2509359/sylvan-esso-on-on/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Angela Autumn – “I Don’t Think About You At All”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2509357/angela-autumn-i-dont-think-about-you-at-all/music/",
+    "timestamp": "2026-08-25T16:40:29+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "You remember the scene. At least, I hope you remember the scene. It's hard to forget it. Mad Men . Season five. Episode nine. Michael Ginsberg, a young copywriter at Cooper Draper Price, has an ad pitch all ready to go, but his boss Don Draper humiliatingly dumps his idea and successfully sells his own idea instead. On",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2509357/angela-autumn-i-dont-think-about-you-at-all/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Hear a New Song From Queens of the Stone Age’s New Album, ‘Perfecth’ - Ultimate Classic Rock",
+    "src": "Ultimate Classic Rock",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jOUJRTDU4dWhpSzlnMXJFNUV1MmIybHRqTlhwTEdvcXNFVldsNjB2R0p0aklGRHZqTGZqTFBpUVJBVlVQNnhXQWc5dWh5MVdHSEtVTkYxZ1BUa3FiNnpJd2hJOUNjN3ZscFFZODhLa1pSZm8?oc=5",
+    "timestamp": "2026-08-25T13:45:52+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Hear a New Song From Queens of the Stone Age’s New Album, ‘Perfecth’ Ultimate Classic Rock",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Ultimate Classic Rock",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jOUJRTDU4dWhpSzlnMXJFNUV1MmIybHRqTlhwTEdvcXNFVldsNjB2R0p0aklGRHZqTGZqTFBpUVJBVlVQNnhXQWc5dWh5MVdHSEtVTkYxZ1BUa3FiNnpJd2hJOUNjN3ZscFFZODhLa1pSZm8?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "R.I.P Dolly Parton",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/r-i-p-dolly-parton/",
+    "timestamp": "2026-08-25T18:57:49+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "%featured_image% Faleceu a voz que transformou a música country. Dolly Parton tinha 80 anos e a causa de morte não foi, para já, revelada.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/r-i-p-dolly-parton/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Olivia Rodrigo destrona Ariana Grande do top dos álbuns mais vendidos em Portugal - smoothfm.pt",
+    "src": "smoothfm.pt",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY29aOFZXVzcyM3BHZDZJRGFXNWJtcm85RW5RWmlPaWdWeS0ySk9QYjdjbFRXcG9Dc0tsdFVUcEdqeHBxc1NDSDgySU4wdTlEZ1Y5RHNydThCejNpeDl6R1JPdDFfdk5CbURlSnVYenZxTldBRGhiSVdsZzBrZWZHV2tHM0o2a29vdVFRR1JkNzM3TjZnWlBnY3V3WkJCWGtFblJ6SEd5YmNzZFMzYUE?oc=5",
+    "timestamp": "2026-08-25T17:58:08+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Olivia Rodrigo destrona Ariana Grande do top dos álbuns mais vendidos em Portugal smoothfm.pt",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "smoothfm.pt",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY29aOFZXVzcyM3BHZDZJRGFXNWJtcm85RW5RWmlPaWdWeS0ySk9QYjdjbFRXcG9Dc0tsdFVUcEdqeHBxc1NDSDgySU4wdTlEZ1Y5RHNydThCejNpeDl6R1JPdDFfdk5CbURlSnVYenZxTldBRGhiSVdsZzBrZWZHV2tHM0o2a29vdVFRR1JkNzM3TjZnWlBnY3V3WkJCWGtFblJ6SEd5YmNzZFMzYUE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Festas do Divino Espírito Santo da Nova Inglaterra em Fall River - RTP Mundo",
+    "src": "RTP Mundo",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEh3LXFuN0FGdEpJeXlrR3VJTXgwNlVIWmdXcnQwX2RIZDBUMjB1V1V2V2pfS0p5MmpHX0VCUWhsXzRBNHNMbVlDYlhqeTdIVFNfbHltRGllRWkyS3h4czFiSHJOaFRKYmJ4X09WUk9NclVISG9rb0tuUWZ1c24zN2tabmx6T0k2b1VxNEdTXzhnQlY4ZWhQczhB?oc=5",
+    "timestamp": "2026-08-25T17:29:00+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Festas do Divino Espírito Santo da Nova Inglaterra em Fall River RTP Mundo",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "RTP Mundo",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEh3LXFuN0FGdEpJeXlrR3VJTXgwNlVIWmdXcnQwX2RIZDBUMjB1V1V2V2pfS0p5MmpHX0VCUWhsXzRBNHNMbVlDYlhqeTdIVFNfbHltRGllRWkyS3h4czFiSHJOaFRKYmJ4X09WUk9NclVISG9rb0tuUWZ1c24zN2tabmx6T0k2b1VxNEdTXzhnQlY4ZWhQczhB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Johnny Hooker sobre o regresso a Portugal: 'Desde a primeira vez que toquei aqui, senti-me em casa' - caras.pt",
+    "src": "caras.pt",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRnJrLWFHZFI0amFwQzMtVU1NbUxuY1M4UklfYVphRm9tSkZHS0hlODEyZTRnNGhWNW1iQi1JMjE0a01nUU1PQlVOY3p1bzBwaXRGbEdmdU5rU0Z4eFVPOF9aNXg0YVptMFRYbUlNZEF6NnBKQkRqNERzOUM2NmhTY0Q2M084aHg4cnpNSzF4QVRfNWp0eU5feGxXQTE2SG51OUFKZld2WDEwZnpNRmthbVphRkNTZUdrTnBDYlZ2ZVVaeEIxbFNGc3lwdU4?oc=5",
+    "timestamp": "2026-08-25T16:27:00+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Johnny Hooker sobre o regresso a Portugal: 'Desde a primeira vez que toquei aqui, senti-me em casa' caras.pt",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "caras.pt",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRnJrLWFHZFI0amFwQzMtVU1NbUxuY1M4UklfYVphRm9tSkZHS0hlODEyZTRnNGhWNW1iQi1JMjE0a01nUU1PQlVOY3p1bzBwaXRGbEdmdU5rU0Z4eFVPOF9aNXg0YVptMFRYbUlNZEF6NnBKQkRqNERzOUM2NmhTY0Q2M084aHg4cnpNSzF4QVRfNWp0eU5feGxXQTE2SG51OUFKZld2WDEwZnpNRmthbVphRkNTZUdrTnBDYlZ2ZVVaeEIxbFNGc3lwdU4?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Todos os concertos marcados para 2026 em Portugal - Expresso",
+    "src": "Expresso",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPakExNWpZSXh4M3QtUDd2bGFYcm5BNjRfZVJJRTNnc05HcXJOaWNjcFVFRmpOZ0o0X0FoT05wLTU5SnZDMmFHT3RKUzdodXZQQjZrS3Z1VDJmd2FhYjFjQnRJLV9oa3ZjamZhenV3al84OG1ySjEzZmd6aENneUsxRHZyN3l4RXRTbmRPQU5SQ04zWEdyZVhRNjdrWF80aWNLRkhMOQ?oc=5",
+    "timestamp": "2026-08-25T14:21:11+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Todos os concertos marcados para 2026 em Portugal Expresso",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Expresso",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPakExNWpZSXh4M3QtUDd2bGFYcm5BNjRfZVJJRTNnc05HcXJOaWNjcFVFRmpOZ0o0X0FoT05wLTU5SnZDMmFHT3RKUzdodXZQQjZrS3Z1VDJmd2FhYjFjQnRJLV9oa3ZjamZhenV3al84OG1ySjEzZmd6aENneUsxRHZyN3l4RXRTbmRPQU5SQ04zWEdyZVhRNjdrWF80aWNLRkhMOQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "b": "Philippe JOUMARD",
@@ -7473,10 +9201,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -8371,15 +10099,19 @@
       {
         "name": "Z94",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04VVdxOTdHY25FYS1ROUVZMzNqTUkyMlZQbFREbzFFdVJ2VmJfaWNnWEctelY1NW12UTE5cUlhQ3JNbkFPSTQ1SzRzOHFUcmkydExIaVgtSXQwaDl6RXhqczdfbW9jQUlFR212V2FB?oc=5"
+      },
+      {
+        "name": "FMX 94.5",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0U1lUMU5QVmpYNGZaMTRxMVpqeVF4OGsyaGl0WTlSdWFUNUNwYWRxb3ZWZnFQd0dQbGphaW5IWk1Scms0STNiRlRWdF9fLUtaT1g2VlZXdDB5dnlsM3VlUzlkU1lGNUFDLTBJX19lUQ?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 1,
+    "sourceCount": 2,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": false,
+    "star": true,
     "kind": "news",
     "section": "news"
   },
@@ -8559,17 +10291,17 @@
     "section": "buzz"
   },
   {
-    "title": "Every Song And Radio Station We’ve Spotted In The GTA 6 Leaks - Kotaku",
-    "src": "Kotaku",
+    "title": "Every Song And Radio Station We’ve Spotted In The GTA 6 Leaks - kotaku.com",
+    "src": "kotaku.com",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUzU3YzB1dTdoRTZQOE53UnZ0WW85V0RPd2dqUHQteWtWY2tud2owbU5hRUxBOFZBQV9SVkVMb1hxRUpsd1JWajJoQkRtU1lFYjVjNG40NEVLQ2J1cXZyRUlCUXc1R0stWWsyb200VTVLV3dkMkM2a3FvTmFzSDY0ajBTWDRQVGsxQlJpUUdIZUw2YmhG?oc=5",
     "timestamp": "2026-08-24T23:24:18+00:00",
     "isoDate": "2026-08-24",
     "date": "24 Ago",
-    "d": "Every Song And Radio Station We’ve Spotted In The GTA 6 Leaks Kotaku",
+    "d": "Every Song And Radio Station We’ve Spotted In The GTA 6 Leaks kotaku.com",
     "category": "general",
     "sources": [
       {
-        "name": "Kotaku",
+        "name": "kotaku.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUzU3YzB1dTdoRTZQOE53UnZ0WW85V0RPd2dqUHQteWtWY2tud2owbU5hRUxBOFZBQV9SVkVMb1hxRUpsd1JWajJoQkRtU1lFYjVjNG40NEVLQ2J1cXZyRUlCUXc1R0stWWsyb200VTVLV3dkMkM2a3FvTmFzSDY0ajBTWDRQVGsxQlJpUUdIZUw2YmhG?oc=5"
       }
     ],
@@ -9071,6 +10803,127 @@
       {
         "name": "RÁDIO REGIONAL | PORTUGAL",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ1A4TXdxX3NBb192ZTZMdC1wNVNVakFpSDRtYW54ZjJmcExKM2JrV255c0ExQkVSWWJGYlQwYXg4Mm45TEFYRW9KYmc4UGZhM1gyV3N3ODFvRmM1NGtMMjZZeE8tSVJHLVhsUHBoVEFoWXlWWUlPd1RYQ1cxN3ZVaEhOMFZrdmpvV1JibHBMcw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "ARKTA",
+    "t": "Four Ever",
+    "g": "rock",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "24 Ago",
+    "isoDate": "2026-08-24",
+    "url": "https://musicbrainz.org/release-group/d987a1aa-5ca7-470c-a636-5aeabb525810",
+    "d": "alternative rock, nu metal, j-rock, alternative metal",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/d987a1aa-5ca7-470c-a636-5aeabb525810"
+      }
+    ],
+    "mbid": "d987a1aa-5ca7-470c-a636-5aeabb525810",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "title": "North West: ‘Music is what I wanna do with my life’ - Dazed",
+    "src": "Dazed",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2xmM0dvWUsxVnZSeGk0R0FmendINjR6U2s2RDI3RjRNTU5md0dGQUZKRUVEWC1qYmlaaDNYSTdNQWI2VzB3MTl5b2hKZjBULW1aS1diTG0zVWtVeThQMmlFVjItUWE5NnNtdlpRT25DVDdPZlhOX2d3X0lFdmxIV0VuV045Yzg0XzI4WVR6UG5GMnVKUGhkempvSzg5TGg2TzlCSk5zTXFyb0E?oc=5",
+    "timestamp": "2026-08-24T21:01:00+00:00",
+    "isoDate": "2026-08-24",
+    "date": "24 Ago",
+    "d": "North West: ‘Music is what I wanna do with my life’ Dazed",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Dazed",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2xmM0dvWUsxVnZSeGk0R0FmendINjR6U2s2RDI3RjRNTU5md0dGQUZKRUVEWC1qYmlaaDNYSTdNQWI2VzB3MTl5b2hKZjBULW1aS1diTG0zVWtVeThQMmlFVjItUWE5NnNtdlpRT25DVDdPZlhOX2d3X0lFdmxIV0VuV045Yzg0XzI4WVR6UG5GMnVKUGhkempvSzg5TGg2TzlCSk5zTXFyb0E?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Canadian rockers Triumph to celebrate 50th anniversary with Resch stop - Green Bay Press-Gazette",
+    "src": "Green Bay Press-Gazette",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONmlyZGdfM09xMjA1aHhCak14WklhUEo3S21PTE0zMm4xVmtna2hjUDJsY1FTTnJNckFrVkdKdG1Qb1NMeE16RUhwOHplX3RRMk42MDhqaVc2bFlOWHQxMjIzT1FrVUM1UmNyRm85VkRHZWE0SmRTanBUd3NRSmdyQ0hvN2MtamNtdVcydUE1R1VfNmFnaHE1UGJpZ1B5WHVPQ0wza2lZaFZ2MlpQTkRLclg1MHBialM3RWpwVmlBaXVjTG92TF9xTDNvY19uMHlIYTBlZ25mOE02SlRaM3F4RjhB?oc=5",
+    "timestamp": "2026-08-24T19:49:00+00:00",
+    "isoDate": "2026-08-24",
+    "date": "24 Ago",
+    "d": "Canadian rockers Triumph to celebrate 50th anniversary with Resch stop Green Bay Press-Gazette",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Green Bay Press-Gazette",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONmlyZGdfM09xMjA1aHhCak14WklhUEo3S21PTE0zMm4xVmtna2hjUDJsY1FTTnJNckFrVkdKdG1Qb1NMeE16RUhwOHplX3RRMk42MDhqaVc2bFlOWHQxMjIzT1FrVUM1UmNyRm85VkRHZWE0SmRTanBUd3NRSmdyQ0hvN2MtamNtdVcydUE1R1VfNmFnaHE1UGJpZ1B5WHVPQ0wza2lZaFZ2MlpQTkRLclg1MHBialM3RWpwVmlBaXVjTG92TF9xTDNvY19uMHlIYTBlZ25mOE02SlRaM3F4RjhB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Stella Lefty reveals dates for the 'Long Way Home Tour' - Audacy",
+    "src": "Audacy",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RdDJKeGQtWktVanRpOXZzZ29nRFlKS1lVZnVZNm85ZnZVbks2UU1rVGxCZ0diNnRJV3l0eWlQOThuXzRaZkQ2TDYzOXRzWVhtZThBSjFhSkhUdWc5N3VhYzNpT0RNdw?oc=5",
+    "timestamp": "2026-08-24T14:11:00+00:00",
+    "isoDate": "2026-08-24",
+    "date": "24 Ago",
+    "d": "Stella Lefty reveals dates for the 'Long Way Home Tour' Audacy",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Audacy",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RdDJKeGQtWktVanRpOXZzZ29nRFlKS1lVZnVZNm85ZnZVbks2UU1rVGxCZ0diNnRJV3l0eWlQOThuXzRaZkQ2TDYzOXRzWVhtZThBSjFhSkhUdWc5N3VhYzNpT0RNdw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Música volta a ecoar no Palácio de Queluz com o regresso das Noites de Queluz - Correio de Sintra",
+    "src": "Correio de Sintra",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVnJ6UTNsbkhIOVNfUnhmT2JFS3BhZm1KaDZ0SVlDNzFOME5hbkFDU1A1RUFnQUh6UlZzOGFrbDZvVy12UHRWQzNmb1VDZlg1aUM4M3AyVFJxNEpVLXNpOXNHQUhWeHM3cW55T01TOHlrMmVZMmVWXzVZenZBQW1XRnE2ZXZXb1U0Vms2VGJKUnQyYVlmTDFfbTYyd3VhWlFmS2ozUFVnREtCV2UtTlgxMHBBZFM4a1U?oc=5",
+    "timestamp": "2026-08-24T15:04:05+00:00",
+    "isoDate": "2026-08-24",
+    "date": "24 Ago",
+    "d": "Música volta a ecoar no Palácio de Queluz com o regresso das Noites de Queluz Correio de Sintra",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Correio de Sintra",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVnJ6UTNsbkhIOVNfUnhmT2JFS3BhZm1KaDZ0SVlDNzFOME5hbkFDU1A1RUFnQUh6UlZzOGFrbDZvVy12UHRWQzNmb1VDZlg1aUM4M3AyVFJxNEpVLXNpOXNHQUhWeHM3cW55T01TOHlrMmVZMmVWXzVZenZBQW1XRnE2ZXZXb1U0Vms2VGJKUnQyYVlmTDFfbTYyd3VhWlFmS2ozUFVnREtCV2UtTlgxMHBBZFM4a1U?oc=5"
       }
     ],
     "status": "official",
@@ -11505,55 +13358,6 @@
     "section": "buzz"
   },
   {
-    "title": "Christian metal band Demon Hunter sues Netflix over KPop Demon Hunters - South China Morning Post",
-    "src": "South China Morning Post",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNREdwQ052NlJXdU1lRTNGYVNJenE4UWNGa0VUQWZrQ211Y01qZFlLT2ZGR0RzajRjRjgtOWlRaTB6WDRycjE3STdUeEhaUkZLZkMzZzdxS2pFWW56elo1dFFpbldNMXI2X003UVQwNndibVNDLWtuWmc2bEwzTXJuellOY2VGMmk5LVhWekRSS3k3dENLQnA3aHdFYnh3Z2ZSRjNvcmNwb3lVbWFOOGlGWm5JR1ZNWUpzRHVyVkRkWDdYdzRwRThBNml0aVc2a0pNdmxpMzF30gHWAUFVX3lxTFBmbnlCdjNWcFVTSldVNFYtU2JJS2tCM3NBYzBucl95cHlMTXNNaTZMSzFQV0pXUWsyTEpPdWpBTVdSd1RHNWwxWlBmazdfclM1VlpyNUtpY0UzZFBuTmRfcFVsSWR4ekFWcjl5c0lleWZ0QnJpT0hneUNFclRzUUZ3Tk1WTTl2cXhkTDV2TmhFZUJHeExKQXJNTEo3eWFpeUs3TGFGb3ZFaURacVhnQTJucG1TZVhEV1NiLXFKYkFWZ1A5dk5xSzIwUUMydHNqcXVyMUZfT3c?oc=5",
-    "timestamp": "2026-08-23T07:28:05+00:00",
-    "isoDate": "2026-08-23",
-    "date": "23 Ago",
-    "d": "Christian metal band Demon Hunter sues Netflix over KPop Demon Hunters South China Morning Post",
-    "category": "metal",
-    "sources": [
-      {
-        "name": "South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNREdwQ052NlJXdU1lRTNGYVNJenE4UWNGa0VUQWZrQ211Y01qZFlLT2ZGR0RzajRjRjgtOWlRaTB6WDRycjE3STdUeEhaUkZLZkMzZzdxS2pFWW56elo1dFFpbldNMXI2X003UVQwNndibVNDLWtuWmc2bEwzTXJuellOY2VGMmk5LVhWekRSS3k3dENLQnA3aHdFYnh3Z2ZSRjNvcmNwb3lVbWFOOGlGWm5JR1ZNWUpzRHVyVkRkWDdYdzRwRThBNml0aVc2a0pNdmxpMzF30gHWAUFVX3lxTFBmbnlCdjNWcFVTSldVNFYtU2JJS2tCM3NBYzBucl95cHlMTXNNaTZMSzFQV0pXUWsyTEpPdWpBTVdSd1RHNWwxWlBmazdfclM1VlpyNUtpY0UzZFBuTmRfcFVsSWR4ekFWcjl5c0lleWZ0QnJpT0hneUNFclRzUUZ3Tk1WTTl2cXhkTDV2TmhFZUJHeExKQXJNTEo3eWFpeUs3TGFGb3ZFaURacVhnQTJucG1TZVhEV1NiLXFKYkFWZ1A5dk5xSzIwUUMydHNqcXVyMUZfT3c?oc=5"
-      },
-      {
-        "name": "Rolling Stone",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSW1KYU9LS2lUc3NEVzBBdm9ObUNXQVo0d0xqdFBGdUNzUmZmZm5mc1hLSXB6THVPQWF3MHJLLVVDczgyWk9GUGJfVGJheEs2enBFbDhRLUZ6STR3RlRVbnMwa3BtMEVGTlVnZ3JOb0ZVZ0RqTTJsVklpXzVXSDVNSEY0cWgxZHR5amNXcVBlOUpWYXVieXBOMUptbVZiNzVNbnNtVG4yYm1vcHhGUGUtTUZB?oc=5"
-      },
-      {
-        "name": "themusic.com.au",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGthOWpsblY2dkxubVpUUE1ubXBWQXY5anlZVlRlV05HRm9NYzdxM3VtaDlONkQ1elNLVFVwVmtOVUpldXh0T2tHSXAzMWRjU24zY0VYNDJNOFdrTHlfOU1KZlR1YW14aDNEdTVBOEdNVTJqbVVyamFYM3FHV2YwcWkzRGFmV2M5V0trVl9TR0ktR0FiNGxrb01wZC00ZTdFbHJ6MWJyTGh1ZDRoc3FWX0dyT2pBc2pEU3JCSQ?oc=5"
-      },
-      {
-        "name": "United News of Bangladesh",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTUtlR0dBZURzLUtIbFloWVNVTjNJWXdvT203QzIzYmRXUGNhTUNPZzlSZ1pwTnloblp1RWxub01RMS1ucU5ONUpEbmhjb1pLVEJsWFRISjVqZmU5b0NZcVljLUpmQV9HeG5ma2laSjlzNFFldWcyRERiNnZmbWp0Y2lPU2cwRHJXbXFwcnVHOUxsWTIyZWh0akYwWF8yUkZXbnNUUTJvaWtlZXB6dUZXQTVuSmt5NFlJd0lZ?oc=5"
-      },
-      {
-        "name": "friendlyatheist.com",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GMDRkZTV3ZF9BemNHdkxRak1SQWdpVjhWNi1reGxvTk5UdFJlSUVIa2s1Nl84c2l2WTNNUVZtd3gzRGk4Wk5aVEhmLXFlV2RmQkNLS2M2Z1h1d3Q3a0xyTUxRRGEwdGNHNW16VHNxVUZ5eXcydXc?oc=5"
-      },
-      {
-        "name": "The Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3d4eXpRcDdUemF0VW15TXV5eXhkQ3RfNjdBcWthRlVNMEl1Y0F3Uk9MbThNX0FQOUYtcWcxUUg5azJ1aVJ3alRqUHAwQnVUNVNPOHNfN1l2WkZBZjg3cHdlR2NLNXlYdmJVZWRjdTkzRHpNMzFWb2N5ZzBDV2gtOVlnMHRJQnRvaFFmN0xnbVM5akd4bmRwcVNJNU5IUFJaZVB6RGc0WkxyUXlSOUHSAbMBQVVfeXFMUDU4a0liN21jdVFxSHhaeGxEdGJEOG1HVkU1SmE3NVlsSm1ZU0Q1Zk9HbDhzWklLOGh0QzNWbDBlV2RQT05YS1RKQjM3WVBTSTJXM1lMS25FNzA5V01UQ3pLLWlvRF85dWNKclJlaFpyaFJwZElGcmVIckVLQXpPMU10cVEtb3BXOXNoLXBTVktvUmJac1JhalpwWVBjR3FrNjhndmpnY0pjNHQxYTJ2eTJLX0U?oc=5"
-      },
-      {
-        "name": "celebitchy.com",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTlNxT0RuZTFsN3kxZzhSY0t5ckZMVUFOSTc2X1FsN2g1bXBVNnlJbzFQWEZYZ2s3MDNNdHk3Qm5sR3V3Rk1IQmpFX1RnanlHVjFTbmNtN1o2NTc5RGJRdGZyUnVwcC1DOUxaWWV3dHZaVnE5aWg2b09TcUp3bFhENFdxTkpscnFSdmNPY3czVGxaTlBpYWw1bXJmNUVNdElHSXdUTjhSUFA?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 7,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": false,
-    "star": true,
-    "kind": "news",
-    "section": "news"
-  },
-  {
     "title": "Unoptimized #11: Diana Death - t.co",
     "src": "t.co",
     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5Oa0YxNXJ4RzBna0N0UWZNX3hoSDZCUWFQZUdhTjFxN3FCMHRBMEJ6SGJYU05jVDQzQ1Zr?oc=5",
@@ -11652,6 +13456,76 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Complete List Of Every Time I Die Albums And Discography - Classic Rock History",
+    "src": "Classic Rock History",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzF1V2sxTWhrOFA3M3FRRWRGbW4zOHBna0s2a0lGdXRvbGh0cVdmTXBJRWtjMWNXQkFkcUxVLXNJMFUtNmxSb28yTlVBSGx1YkZYV1FtWEFVWUpCdWJVNHFCUk0xdnJOUWJGSTUtcXlvbG01dE9vdjVNVVIxaUJZMWE5aGM5WkZDVmxDN0k4UDZnMnNhb0pJ?oc=5",
+    "timestamp": "2026-08-23T07:00:00+00:00",
+    "isoDate": "2026-08-23",
+    "date": "23 Ago",
+    "d": "Complete List Of Every Time I Die Albums And Discography Classic Rock History",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Classic Rock History",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzF1V2sxTWhrOFA3M3FRRWRGbW4zOHBna0s2a0lGdXRvbGh0cVdmTXBJRWtjMWNXQkFkcUxVLXNJMFUtNmxSb28yTlVBSGx1YkZYV1FtWEFVWUpCdWJVNHFCUk0xdnJOUWJGSTUtcXlvbG01dE9vdjVNVVIxaUJZMWE5aGM5WkZDVmxDN0k4UDZnMnNhb0pJ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Christian metal band Demon Hunter sues Netflix over KPop Demon Hunters - South China Morning Post",
+    "src": "South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNREdwQ052NlJXdU1lRTNGYVNJenE4UWNGa0VUQWZrQ211Y01qZFlLT2ZGR0RzajRjRjgtOWlRaTB6WDRycjE3STdUeEhaUkZLZkMzZzdxS2pFWW56elo1dFFpbldNMXI2X003UVQwNndibVNDLWtuWmc2bEwzTXJuellOY2VGMmk5LVhWekRSS3k3dENLQnA3aHdFYnh3Z2ZSRjNvcmNwb3lVbWFOOGlGWm5JR1ZNWUpzRHVyVkRkWDdYdzRwRThBNml0aVc2a0pNdmxpMzF30gHWAUFVX3lxTFBmbnlCdjNWcFVTSldVNFYtU2JJS2tCM3NBYzBucl95cHlMTXNNaTZMSzFQV0pXUWsyTEpPdWpBTVdSd1RHNWwxWlBmazdfclM1VlpyNUtpY0UzZFBuTmRfcFVsSWR4ekFWcjl5c0lleWZ0QnJpT0hneUNFclRzUUZ3Tk1WTTl2cXhkTDV2TmhFZUJHeExKQXJNTEo3eWFpeUs3TGFGb3ZFaURacVhnQTJucG1TZVhEV1NiLXFKYkFWZ1A5dk5xSzIwUUMydHNqcXVyMUZfT3c?oc=5",
+    "timestamp": "2026-08-22T13:03:19+00:00",
+    "isoDate": "2026-08-22",
+    "date": "22 Ago",
+    "d": "Christian metal band Demon Hunter sues Netflix over KPop Demon Hunters South China Morning Post",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNREdwQ052NlJXdU1lRTNGYVNJenE4UWNGa0VUQWZrQ211Y01qZFlLT2ZGR0RzajRjRjgtOWlRaTB6WDRycjE3STdUeEhaUkZLZkMzZzdxS2pFWW56elo1dFFpbldNMXI2X003UVQwNndibVNDLWtuWmc2bEwzTXJuellOY2VGMmk5LVhWekRSS3k3dENLQnA3aHdFYnh3Z2ZSRjNvcmNwb3lVbWFOOGlGWm5JR1ZNWUpzRHVyVkRkWDdYdzRwRThBNml0aVc2a0pNdmxpMzF30gHWAUFVX3lxTFBmbnlCdjNWcFVTSldVNFYtU2JJS2tCM3NBYzBucl95cHlMTXNNaTZMSzFQV0pXUWsyTEpPdWpBTVdSd1RHNWwxWlBmazdfclM1VlpyNUtpY0UzZFBuTmRfcFVsSWR4ekFWcjl5c0lleWZ0QnJpT0hneUNFclRzUUZ3Tk1WTTl2cXhkTDV2TmhFZUJHeExKQXJNTEo3eWFpeUs3TGFGb3ZFaURacVhnQTJucG1TZVhEV1NiLXFKYkFWZ1A5dk5xSzIwUUMydHNqcXVyMUZfT3c?oc=5"
+      },
+      {
+        "name": "Rolling Stone",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSW1KYU9LS2lUc3NEVzBBdm9ObUNXQVo0d0xqdFBGdUNzUmZmZm5mc1hLSXB6THVPQWF3MHJLLVVDczgyWk9GUGJfVGJheEs2enBFbDhRLUZ6STR3RlRVbnMwa3BtMEVGTlVnZ3JOb0ZVZ0RqTTJsVklpXzVXSDVNSEY0cWgxZHR5amNXcVBlOUpWYXVieXBOMUptbVZiNzVNbnNtVG4yYm1vcHhGUGUtTUZB?oc=5"
+      },
+      {
+        "name": "themusic.com.au",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTGthOWpsblY2dkxubVpUUE1ubXBWQXY5anlZVlRlV05HRm9NYzdxM3VtaDlONkQ1elNLVFVwVmtOVUpldXh0T2tHSXAzMWRjU24zY0VYNDJNOFdrTHlfOU1KZlR1YW14aDNEdTVBOEdNVTJqbVVyamFYM3FHV2YwcWkzRGFmV2M5V0trVl9TR0ktR0FiNGxrb01wZC00ZTdFbHJ6MWJyTGh1ZDRoc3FWX0dyT2pBc2pEU3JCSQ?oc=5"
+      },
+      {
+        "name": "The Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3d4eXpRcDdUemF0VW15TXV5eXhkQ3RfNjdBcWthRlVNMEl1Y0F3Uk9MbThNX0FQOUYtcWcxUUg5azJ1aVJ3alRqUHAwQnVUNVNPOHNfN1l2WkZBZjg3cHdlR2NLNXlYdmJVZWRjdTkzRHpNMzFWb2N5ZzBDV2gtOVlnMHRJQnRvaFFmN0xnbVM5akd4bmRwcVNJNU5IUFJaZVB6RGc0WkxyUXlSOUHSAbMBQVVfeXFMUDU4a0liN21jdVFxSHhaeGxEdGJEOG1HVkU1SmE3NVlsSm1ZU0Q1Zk9HbDhzWklLOGh0QzNWbDBlV2RQT05YS1RKQjM3WVBTSTJXM1lMS25FNzA5V01UQ3pLLWlvRF85dWNKclJlaFpyaFJwZElGcmVIckVLQXpPMU10cVEtb3BXOXNoLXBTVktvUmJac1JhalpwWVBjR3FrNjhndmpnY0pjNHQxYTJ2eTJLX0U?oc=5"
+      },
+      {
+        "name": "friendlyatheist.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GMDRkZTV3ZF9BemNHdkxRak1SQWdpVjhWNi1reGxvTk5UdFJlSUVIa2s1Nl84c2l2WTNNUVZtd3gzRGk4Wk5aVEhmLXFlV2RmQkNLS2M2Z1h1d3Q3a0xyTUxRRGEwdGNHNW16VHNxVUZ5eXcydXc?oc=5"
+      },
+      {
+        "name": "celebitchy.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTlNxT0RuZTFsN3kxZzhSY0t5ckZMVUFOSTc2X1FsN2g1bXBVNnlJbzFQWEZYZ2s3MDNNdHk3Qm5sR3V3Rk1IQmpFX1RnanlHVjFTbmNtN1o2NTc5RGJRdGZyUnVwcC1DOUxaWWV3dHZaVnE5aWg2b09TcUp3bFhENFdxTkpscnFSdmNPY3czVGxaTlBpYWw1bXJmNUVNdElHSXdUTjhSUFA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 6,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
   },
   {
     "title": "AFI Silver, Cold and Completely Unhinged at Manchester Academy - All Music Magazine UK",
@@ -12069,17 +13943,17 @@
     "section": "buzz"
   },
   {
-    "title": "'Casas portuguesas, com certeza': como a experiência do fado se preserva em SP - Terra",
-    "src": "Terra",
+    "title": "'Casas portuguesas, com certeza': como a experiência do fado se preserva em SP - terra.com.br",
+    "src": "terra.com.br",
     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdXlWRzFFQm9KOEhYOWZrNXpWTG9qRk8yTTcyOW5QUFp4V1VtZUFMU09YWUlCTzRDZzBMVHE1ZjlpVTBJUDFSVHhnc25jV1pzel9RdmdOblZ3MVdPb012OTRRWWE2SFh3QnUzdV9xSHA2SDRtZU5NOW1kRklOTVhmVzhuR0p6VUo0dFl5NUZhQXZNcm0yTXV0elBwalBMSHE5QTJfUXV2OV9QWlBuWklFTjlPNzN2NGVFa0hMZmpIeEtVQnM3WUt1NXB1eU1pVFRLV1R3NWFHcnZGRWE1WWNLQWZzcEhKQ29QZnZDT0kwS2IwU1k?oc=5",
     "timestamp": "2026-08-22T06:26:00+00:00",
     "isoDate": "2026-08-22",
     "date": "22 Ago",
-    "d": "'Casas portuguesas, com certeza': como a experiência do fado se preserva em SP Terra",
+    "d": "'Casas portuguesas, com certeza': como a experiência do fado se preserva em SP terra.com.br",
     "category": "pt",
     "sources": [
       {
-        "name": "Terra",
+        "name": "terra.com.br",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdXlWRzFFQm9KOEhYOWZrNXpWTG9qRk8yTTcyOW5QUFp4V1VtZUFMU09YWUlCTzRDZzBMVHE1ZjlpVTBJUDFSVHhnc25jV1pzel9RdmdOblZ3MVdPb012OTRRWWE2SFh3QnUzdV9xSHA2SDRtZU5NOW1kRklOTVhmVzhuR0p6VUo0dFl5NUZhQXZNcm0yTXV0elBwalBMSHE5QTJfUXV2OV9QWlBuWklFTjlPNzN2NGVFa0hMZmpIeEtVQnM3WUt1NXB1eU1pVFRLV1R3NWFHcnZGRWE1WWNLQWZzcEhKQ29QZnZDT0kwS2IwU1k?oc=5"
       }
     ],
@@ -12206,6 +14080,10 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/best-metal-albums-1991/"
+      },
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92VkdWZUdsd3RkT21oNjFQN3gteHFBbE1Cdm1SMm44ZlM5NGUxUUVxTmxhX1ZTUE93Q0tkb3JRRUVGVHhpSHJnU0FVaXZEZHRaQnRxOTJZaw?oc=5"
       }
     ],
     "status": "official",
@@ -28924,6 +30802,31 @@
       {
         "name": "Expresso",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaThCZXlraC04QWV4ZEdtVm1oNmVvQmJQWXdDQldXNlBfaHFpSktLZUo1cHdaUXZIWXdQV0ZWSzNYcExITzRLcW5VdUxJTGhCYmgzWndmUXBpci0tVFY5dldEc2R3WUFybmdxTDlXMUsxWjJsX1hRQ1BRdEdadFJMWDdvVkZYSjdZaU9FdFprLUFDTlE2NE9EQUV0RW1PVXVIMWxWaDM4NGxyZElsVHJncnNqcGtWTEt2RmxKNWJJZm1GM1AwQnFhNGtiaVBVMXI2RU8ycHRR?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Go to Market EUA Costa Oeste - AICEP",
+    "src": "AICEP",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JX2tPalRSVmtpVmNfaGxjQVhtZm1haDBMQ0tISEw5aXE2RVp4UUVBNzNYQ1RRZzhTUlFMWHRUNjQwRU9tY2ZWVVNwQndTeUxUMkNtRzhCY2ZGUHhfT3o1NkE2dkZTZzd0RTFJQXU4WQ?oc=5",
+    "timestamp": "2026-08-20T10:26:36+00:00",
+    "isoDate": "2026-08-20",
+    "date": "20 Ago",
+    "d": "Go to Market EUA Costa Oeste AICEP",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "AICEP",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JX2tPalRSVmtpVmNfaGxjQVhtZm1haDBMQ0tISEw5aXE2RVp4UUVBNzNYQ1RRZzhTUlFMWHRUNjQwRU9tY2ZWVVNwQndTeUxUMkNtRzhCY2ZGUHhfT3o1NkE2dkZTZzd0RTFJQXU4WQ?oc=5"
       }
     ],
     "status": "official",
