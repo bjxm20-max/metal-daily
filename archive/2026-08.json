@@ -62,10 +62,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -387,10 +387,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -406,6 +406,523 @@
     "score": "",
     "cat": "general",
     "releaseKey": "pitchfork|their greatest hits 1971 1975",
+    "kind": "review",
+    "section": "rev"
+  },
+  {
+    "title": "FEAR FACTORY Releases First Single With New Singer MILO SILVESTRO, 'Roboticist'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/fear-factory-releases-first-single-with-new-singer-milo-silvestro-roboticist",
+    "timestamp": "2026-08-30T12:04:44+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "Industrial metal pioneers FEAR FACTORY have released a new single, \"Roboticist\", via Nuclear Blast. The track marks the band's first release with FEAR FACTORY's latest additions, singer Milo Silvestro and drummer Pete Webber, who have been part of FEAR FACTORY's touring lineup for nearly three and a...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/fear-factory-releases-first-single-with-new-singer-milo-silvestro-roboticist"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "b": "Mortal Throne",
+    "t": "Atrophy",
+    "g": "core",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "30 Ago",
+    "isoDate": "2026-08-30",
+    "url": "https://alterportal.net/2026_albums/190158-mortal-throne-atrophy-2026.html",
+    "d": "Стиль: Deathcore / Metalcore Треклист: 01. Haemorrhage 02. Dying Realm 03. Escape 04. Loathing 05. Forked Tongue 06. The Ground Remembers 07. Silence 08. Hecuba 09. Earthen Walls 10. Judgement",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190158-mortal-throne-atrophy-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Ballyhoo!",
+    "t": "Bad Summer",
+    "g": "punk",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "30 Ago",
+    "isoDate": "2026-08-30",
+    "url": "https://alterportal.net/2026_albums/190159-ballyhoo-bad-summer-2026.html",
+    "d": "Стиль: Pop-Punk / Punk Rock Треклист: 01. Sixteen Forever 02. Bad Summer 03. Blood Money 04. Thunderstorms 05. Happy (feat. Saxl Rose) 06. The Alchemist 07. Cali Girl II 08. I Guess I'll Go Fuck Myself 09. Slowly Dying 10. Long Weekend 11. Mandatory 12. Ruby Drive",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190159-ballyhoo-bad-summer-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "P.O.D.: 'We're Really Super Proud' Of Our Upcoming Album",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/p-o-d-were-really-super-proud-of-our-upcoming-album",
+    "timestamp": "2026-08-30T13:49:31+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "In a recent interview with FemMetal, P.O.D. guitarist Marcos Curiel and bassist Mark \"Traa\" Daniels spoke about the band's recently completed new studio album. The recording sessions for the follow-up to 2024's \"Veritas\" took place in the Whitman section of South Philadelphia, Pennsylvania with Gra...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/p-o-d-were-really-super-proud-of-our-upcoming-album"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "RIKKI ROCKETT Looks Back On 'Hollyweird', POISON's Final Album Of Original Material: 'It's Not Our Best Work'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/rikki-rockett-looks-back-on-hollyweird-poisons-final-album-of-original-material-its-not-our-best-work",
+    "timestamp": "2026-08-30T13:00:58+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "In a new interview with Robert Cavuoto of MyGlobalMind, POISON drummer Rikki Rockett spoke about the band's last album of new material, 2002's \"Hollyweird\". The record brought together POISON's classic lineup for the first full studio project since 1990's \"Flesh & Blood\". Asked why he didn't bri...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/rikki-rockett-looks-back-on-hollyweird-poisons-final-album-of-original-material-its-not-our-best-work"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch: FEAR FACTORY Performs New Single 'Roboticist' Live For First Time",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/watch-fear-factory-performs-new-single-roboticist-live-for-first-time",
+    "timestamp": "2026-08-30T12:14:27+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "Industrial metal pioneers FEAR FACTORY played their new single, \"Roboticist\", live for the first time at the opening concert of their \"Cybernetic Domination\" summer/fall 2026 European tour, which launched Saturday night (August 29) at Tama in Poznań, Poland. Fan-filmed video of the performance can b...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/watch-fear-factory-performs-new-single-roboticist-live-for-first-time"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "IRON MAIDEN Kicks Off 2026 'Run For Your Lives' North American Tour In Toronto",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/iron-maiden-kicks-off-2026-run-for-your-lives-north-american-tour-in-toronto",
+    "timestamp": "2026-08-30T11:47:58+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "British heavy metal legends IRON MAIDEN kicked off the North American leg of their \"Run For Your Lives\" tour Saturday night (August 29) at Scotiabank Arena in Toronto, Ontario, Canada. Although most of the setlist has remained the same as the one for the 2025 leg of \"Run For Your Lives\", one notable...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/iron-maiden-kicks-off-2026-run-for-your-lives-north-american-tour-in-toronto"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Iron Maiden Launch 2026 North American Tour - Photos, Setlist",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/iron-maiden-setlist-north-america-2026/",
+    "timestamp": "2026-08-30T08:32:59+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "The band's 'Run for Your Lives' tour finally arrives in North America. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/iron-maiden-setlist-north-america-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Olivia Rodrigo’s Daisy Chain Fields Raises $20 Million and Counting for Women and Girls Charities",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/olivia-rodrigos-daisy-chain-field-raises-20-million-charity/",
+    "timestamp": "2026-08-30T14:01:13+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "Melinda French Gates matched the festival's initial donation of $10 million. Olivia Rodrigo’s Daisy Chain Fields Raises $20 Million and Counting for Women and Girls Charities Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/olivia-rodrigos-daisy-chain-field-raises-20-million-charity/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Keo open up about debut album ‘Put A Smile On For Me’ at Reading 2026",
+    "src": "NME",
+    "url": "https://www.nme.com/features/music-interviews/keo-debut-album-put-a-smile-on-for-me-reading-festival-2026-3965785?utm_source=rss&utm_medium=rss&utm_campaign=keo-debut-album-put-a-smile-on-for-me-reading-festival-2026",
+    "timestamp": "2026-08-30T13:53:52+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "“It’s not perfect – at all – but I like the edge it has” The post Keo open up about debut album ‘Put A Smile On For Me’ at Reading 2026 appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/features/music-interviews/keo-debut-album-put-a-smile-on-for-me-reading-festival-2026-3965785?utm_source=rss&utm_medium=rss&utm_campaign=keo-debut-album-put-a-smile-on-for-me-reading-festival-2026"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Young Thug Drops Slime Language 3 With Future and Veeze",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/young-thug-drops-slime-language-3-with-future-and-veeze/",
+    "timestamp": "2026-08-30T13:41:02+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/young-thug-drops-slime-language-3-with-future-and-veeze/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Pete Doherty tells us about the Babyshambles reunion, The Libertines’ next album, and plans to open a second-hand shop",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/pete-doherty-interview-babyshambles-future-libertines-new-album-shop-3965780?utm_source=rss&utm_medium=rss&utm_campaign=pete-doherty-interview-babyshambles-future-libertines-new-album-shop",
+    "timestamp": "2026-08-30T13:16:59+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "The frontman talks playing without Pat Walden, how the 'Shambles are feeling \"armed and dangerous\", and \"a really interesting idea\" unfolding with The Libertines The post Pete Doherty tells us about the Babyshambles reunion, The Libertines’ next album, and plans to open a second-hand shop appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/pete-doherty-interview-babyshambles-future-libertines-new-album-shop-3965780?utm_source=rss&utm_medium=rss&utm_campaign=pete-doherty-interview-babyshambles-future-libertines-new-album-shop"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Olivia Rodrigo Joined by Stevie Nicks, Sarah McLachlan, Alanis Morissette at Daisy Chain Fields",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/olivia-rodrigo-daisy-chain-fields-stevie-nicks-sarah-mclachlan-alanis-morissette/",
+    "timestamp": "2026-08-30T13:16:46+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "The one-day festival featured Rodrigo performing \"Landslide\" with Nicks, \"Ironic\" with Morissette, and \"Building a Mystery\" with McLachlan. Olivia Rodrigo Joined by Stevie Nicks, Sarah McLachlan, Alanis Morissette at Daisy Chain Fields Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/olivia-rodrigo-daisy-chain-fields-stevie-nicks-sarah-mclachlan-alanis-morissette/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Reading 2026: Lola Young confirmed for surprise secret set",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/reading-2026-lola-young-confirmed-for-surprise-secret-set-3965777?utm_source=rss&utm_medium=rss&utm_campaign=reading-2026-lola-young-confirmed-for-surprise-secret-set",
+    "timestamp": "2026-08-30T12:04:55+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "The 'Messy' hitmaker follows other surprise appearances from Jamie T and Royal Blood at the southern site of R+L The post Reading 2026: Lola Young confirmed for surprise secret set appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/reading-2026-lola-young-confirmed-for-surprise-secret-set-3965777?utm_source=rss&utm_medium=rss&utm_campaign=reading-2026-lola-young-confirmed-for-surprise-secret-set"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The music of ‘Hey Arnold!’ stuck with '90s kids. Now it’s going on tour - LAist",
+    "src": "LAist",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM3dKVkJJYzgwSDRNWkNseXVia1d3WWF1RnJoWVQ1Q2R6NzdoTFRqSFhfRENJbFc4bmlnMmJGcVhoRjRwa1ZRejBrWEd2Ym1NSXo4UGRoZk9yaVhiN04yNmxEMFozOW9OcVdGVkJVX1NHcE5FOUVfN0VIY3hzcmJkQjNuNWVSUQ?oc=5",
+    "timestamp": "2026-08-30T12:00:00+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "The music of ‘Hey Arnold!’ stuck with '90s kids. Now it’s going on tour LAist",
+    "category": "general",
+    "sources": [
+      {
+        "name": "LAist",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM3dKVkJJYzgwSDRNWkNseXVia1d3WWF1RnJoWVQ1Q2R6NzdoTFRqSFhfRENJbFc4bmlnMmJGcVhoRjRwa1ZRejBrWEd2Ym1NSXo4UGRoZk9yaVhiN04yNmxEMFozOW9OcVdGVkJVX1NHcE5FOUVfN0VIY3hzcmJkQjNuNWVSUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "MEO Kalorama 2026 | Lauryn Hill, Um Convívio Familiar ao Sabor de Fugees, Bob Marley e Shakira",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/meo-kalorama-2026-lauryn-hill-um-convivio-familiar-ao-sabor-de-fugees-bob-marley-e-shakira/",
+    "timestamp": "2026-08-30T14:19:24+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "%featured_image% Com um ligeiro atraso a saber a pontualidade, a diva do hip-hop apresentou-se no MEO Kalorama para celebrar o legado dos Fugees. Acompanhada dos seus rebentos e de Wyclef Jean, Ms. Hill proporcionou um concerto carismático, mas disperso em extensivas atuações dos seus convidados.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/meo-kalorama-2026-lauryn-hill-um-convivio-familiar-ao-sabor-de-fugees-bob-marley-e-shakira/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "O jornal do Brasil em Portugal - DN Brasil",
+    "src": "DN Brasil",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSTFJd1FrdlJsaFQ4TVR5U0hzSW1RMlpqVDJucWVDM0ZTb3poc0t5WjJaQkt4cWFra2tKTGZpN1JKNXVRVlFXRHF3dzlvZ3B1d0c0TFNnbm56TjNNaDVPbHFlR3luQUFmeEJxN3ZVbE8xVWNFMGhpLXlJQWhrRndjU29YbFFmbEhmSGpmRWhraG9BdlNUQjY0RFdHX3p4Unk0UUxZOWR3?oc=5",
+    "timestamp": "2026-08-30T11:49:58+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "O jornal do Brasil em Portugal DN Brasil",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "DN Brasil",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSTFJd1FrdlJsaFQ4TVR5U0hzSW1RMlpqVDJucWVDM0ZTb3poc0t5WjJaQkt4cWFra2tKTGZpN1JKNXVRVlFXRHF3dzlvZ3B1d0c0TFNnbm56TjNNaDVPbHFlR3luQUFmeEJxN3ZVbE8xVWNFMGhpLXlJQWhrRndjU29YbFFmbEhmSGpmRWhraG9BdlNUQjY0RFdHX3p4Unk0UUxZOWR3?oc=5"
+      },
+      {
+        "name": "DN Brasil",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLUxsLVp1RXgxVkFiLUQxMWY3QzZLcUZRU0lpNURWRjlDUV9tTzE5a3EzMHc4SWhlbHlBOW5ub2FZZTZ4ald0VmQzMFdLb3pOVDdBWk9qVkFRajJ4RGVncUZ6Uk5FSmJNRVhFVXR0eUljbm5jNUxDZm4wU2VBWGlKU0wxcS15VnJHN0dscEU3LXpfU2UzTThFTTJMOWxPYUE4VWNjS1ZvR3N5Skh0RW1R?oc=5"
+      },
+      {
+        "name": "DN Brasil",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYldqRzBfTG5rNmlPcnM3R2dFb3VvNXFzdDV3T0h1aW41WkMteU12dWxDTnV0OFdJNDA3LVJ2ZlY5T3BzQlBQdDFjdXhrV3VLQXQ5RDVnY0VsdXY2UXZyd1JHLTJXMW9ldkhWbEdWZVNRUFNNc0dfdm5NYWpBazJBTGFEbzY1Wk1lS21uTjNTcEVwUmxwUWFyWmxkZTFxa0lQSS1lWkVMNXJNMmNtdFRNTjBUWEt0Z2o2TXFOMXlwbUc2eXVuSGhsSGxwVWRlcmc0Z0RkNw?oc=5"
+      },
+      {
+        "name": "DN Brasil",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORm1vWlUzc2JxcG8zaXAwWTRPOGk3QTFJQy0zVE1ycTJRY0ExWlEybHd5X0xPYTZheGhfQTZON21nWVhjSHdlQThiVHlCaFFjMUJheWtodzYxRC15a0dWUnFURDJDRXRwNmdmeTBzVWtweENSM1VLMWYtSkFPc3hzZDBRZkpZRVpuNVJ4djJndTd4Y1VlaEtaeWNiQmUtNXBBT1ZB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Revolution Within + Mass Disorder (Festas de Corroios) – Fotos + Vídeo | 26.08.2026",
+    "src": "Caminhos Metálicos",
+    "url": "https://www.caminhosmetalicos.com/reportagens-2026/revolution-within-mass-disorder-festas-de-corroios-fotos-video-26-08-2026/",
+    "timestamp": "2026-08-30T10:31:41+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "O conteúdo Revolution Within + Mass Disorder (Festas de Corroios) – Fotos + Vídeo | 26.08.2026 aparece primeiro em Caminhos Metálicos .",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Caminhos Metálicos",
+        "url": "https://www.caminhosmetalicos.com/reportagens-2026/revolution-within-mass-disorder-festas-de-corroios-fotos-video-26-08-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "MEO Kalorama 2026 | Angine de Poitrine, A Arte de Ouvir Música às Bolinhas",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/meo-kalorama-2026-angine-de-poitrine-a-arte-de-ouvir-musica-as-bolinhas/",
+    "timestamp": "2026-08-30T09:54:39+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "%featured_image% O fenómeno do math rock microtonal Angine de Poitrine convocou um culto para o Parque da Bela Vista.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/meo-kalorama-2026-angine-de-poitrine-a-arte-de-ouvir-musica-as-bolinhas/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Milagre Metaleiro Open Air – Público e Ambiente | 21 a 23.08.2026",
+    "src": "Caminhos Metálicos",
+    "url": "https://www.caminhosmetalicos.com/reportagens-2026/milagre-metaleiro-open-air-publico-e-ambiente-21-a-23-08-2026/",
+    "timestamp": "2026-08-30T08:05:27+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "O conteúdo Milagre Metaleiro Open Air – Público e Ambiente | 21 a 23.08.2026 aparece primeiro em Caminhos Metálicos .",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Caminhos Metálicos",
+        "url": "https://www.caminhosmetalicos.com/reportagens-2026/milagre-metaleiro-open-air-publico-e-ambiente-21-a-23-08-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Mastodon",
+    "t": "Marrow Deep Review",
+    "src": "Angry Metal Guy",
+    "date": "30 Ago",
+    "isoDate": "2026-08-30",
+    "timestamp": "2026-08-30T14:04:27+00:00",
+    "url": "https://www.angrymetalguy.com/mastodon-marrow-deep-review/",
+    "d": "\"Anchored by a somber weight and deep emotional pain impacting the connective tissue binding Mastodon over the decades, Marrow Deep signals a new era for the Atlanta heavyweights. Ninth album, and first since 2021's bloated and occasionally brilliant double op",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "mastodon|marrow deep review",
     "kind": "review",
     "section": "rev"
   },
@@ -522,31 +1039,6 @@
       {
         "name": "Blabbermouth",
         "url": "https://blabbermouth.net/news/watch-twisted-sister-plays-first-concert-with-sebastian-bach-on-lead-vocals"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "news"
-  },
-  {
-    "title": "FEAR FACTORY Releases First Single With New Singer MILO SILVESTRO, 'Roboticist'",
-    "src": "Blabbermouth",
-    "url": "https://blabbermouth.net/news/fear-factory-releases-first-single-with-new-singer-milo-silvestro-roboticist",
-    "timestamp": "2026-08-29T11:18:59+00:00",
-    "isoDate": "2026-08-29",
-    "date": "29 Ago",
-    "d": "Industrial metal pioneers FEAR FACTORY have released a new single, \"Roboticist\", via Nuclear Blast. The track marks the band's first release with FEAR FACTORY's latest additions, singer Milo Silvestro and drummer Pete Webber, who have been part of FEAR FACTORY's touring lineup for nearly three and a...",
-    "category": "metal",
-    "sources": [
-      {
-        "name": "Blabbermouth",
-        "url": "https://blabbermouth.net/news/fear-factory-releases-first-single-with-new-singer-milo-silvestro-roboticist"
       }
     ],
     "status": "official",
@@ -2548,10 +3040,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -3224,6 +3716,56 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Seacoast online Events - Milk St.: SOCKS AND CROCS FEST - Seacoastonline.com",
+    "src": "Seacoastonline.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVDVwYm5sck1xTVV0eW84R2R2RVQzSkl5MDlkSHBpOGdpVmhCdVlLM0lYdHpDWktIQ1NxM0ZNOVItZFRzRE84ZlZFNGNnZzJxWnFnQ0hJcXl5bFZ1clgxQzlFWjVYc095c2MxN2tMbHNUVF9sWGcyZ2xTNHlvVlhpWlRrUkQ2a3o4dXI2YWRiQzBxeDg4VGk4S1F0NTZMYV85Ukw1QnNzeEtQcGVaaFJoVVlGdHRYQQ?oc=5",
+    "timestamp": "2026-08-29T17:00:00+00:00",
+    "isoDate": "2026-08-29",
+    "date": "29 Ago",
+    "d": "Seacoast online Events - Milk St.: SOCKS AND CROCS FEST Seacoastonline.com",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Seacoastonline.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVDVwYm5sck1xTVV0eW84R2R2RVQzSkl5MDlkSHBpOGdpVmhCdVlLM0lYdHpDWktIQ1NxM0ZNOVItZFRzRE84ZlZFNGNnZzJxWnFnQ0hJcXl5bFZ1clgxQzlFWjVYc095c2MxN2tMbHNUVF9sWGcyZ2xTNHlvVlhpWlRrUkQ2a3o4dXI2YWRiQzBxeDg4VGk4S1F0NTZMYV85Ukw1QnNzeEtQcGVaaFJoVVlGdHRYQQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "‘It’s easier when nobody’s watching’: inside the secretive and sublime freak-folk of @ - The Guardian",
+    "src": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcW5Qdm54RkRiV25DVzhfc2VUaFhVMU14S1o1LUZaZVV6Ml9NMDh1bDEzYmFjRnY0RDF2NlpVTUhWc0w0NmNrZFpkbmp1TVFxNkFtVWpidElvaG5XRndsLUN1eWpSaTJEU0U5MEZoVE8zOXJMdlJ5MjJQemNOdVBVTVFmaFRSR2VpZWROZENHR0t5Z2hvMF91Ng?oc=5",
+    "timestamp": "2026-08-29T04:00:00+00:00",
+    "isoDate": "2026-08-29",
+    "date": "29 Ago",
+    "d": "‘It’s easier when nobody’s watching’: inside the secretive and sublime freak-folk of @ The Guardian",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcW5Qdm54RkRiV25DVzhfc2VUaFhVMU14S1o1LUZaZVV6Ml9NMDh1bDEzYmFjRnY0RDF2NlpVTUhWc0w0NmNrZFpkbmp1TVFxNkFtVWpidElvaG5XRndsLUN1eWpSaTJEU0U5MEZoVE8zOXJMdlJ5MjJQemNOdVBVTVFmaFRSR2VpZWROZENHR0t5Z2hvMF91Ng?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
   },
   {
     "b": "Roderick Newport",
@@ -4150,10 +4692,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -10015,6 +10557,56 @@
       {
         "name": "The Rockpit",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYkFRa29CZjFOZ2p5YS1OTXNEZ3pBUGxZdU1QQXlNTEZpUlZucXNrS2lBNlFVZW9RNVlrREtCUHo3ejNSNWxCX09UZnhhbXl5OVhEMzFkUG5qSkViLVhYNUlDMVpVVXlJWExGeUZlN0ttNDNNSXl2cVdma0UzNGpBS3U5aGdyVGNFSTY2VmtZVXZmQ3BUWGZzZkUxN0lLNDQ4YVE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Dinosaur Jr. Extend North American Tour, Release New Album There Near: Stream - Consequence of Sound",
+    "src": "Consequence of Sound",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTWhKNHVUeWIyaDQ2c1RtbUROUnNkMUpZeWpwaGVLb1hpY3dZQ0F5MjF3UzhkWEZMT01XTVJScUd2WmhnS2ZPQk12Wkxnd1hLeEQ5UldiTDJKNFpkYmJCLW5ZUzE0NFExM3Jfd1JXNjBkRTJnNW03OEtWdDVLTS1VVTMtZUFCd29ZZkRkVHRrUTM?oc=5",
+    "timestamp": "2026-08-28T17:17:45+00:00",
+    "isoDate": "2026-08-28",
+    "date": "28 Ago",
+    "d": "Dinosaur Jr. Extend North American Tour, Release New Album There Near: Stream Consequence of Sound",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence of Sound",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTWhKNHVUeWIyaDQ2c1RtbUROUnNkMUpZeWpwaGVLb1hpY3dZQ0F5MjF3UzhkWEZMT01XTVJScUd2WmhnS2ZPQk12Wkxnd1hLeEQ5UldiTDJKNFpkYmJCLW5ZUzE0NFExM3Jfd1JXNjBkRTJnNW03OEtWdDVLTS1VVTMtZUFCd29ZZkRkVHRrUTM?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ben Folds on 30 Years of Alt-Rock Madness — and What’s Next - Rolling Stone",
+    "src": "Rolling Stone",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQXUtMjRkeFpGRnp2VTNaOHBpb2FGSVNMYXlzVWV1YlBlRDRRYUJ2X2c4ZklJUDl4RXdVcTFwUGxaU0ZVb29EanBNVGNJaFQ4ZHBLdmVtdWxGdWwxQmFfMDhGWXRkYlpubWRIZTg3QmJhMGNtcVk3bnFlZ2Rmc3pGR0dLWVRJVHdmZktUVTloUnFIY1VkNzlxM0g5UzI?oc=5",
+    "timestamp": "2026-08-28T16:09:40+00:00",
+    "isoDate": "2026-08-28",
+    "date": "28 Ago",
+    "d": "Ben Folds on 30 Years of Alt-Rock Madness — and What’s Next Rolling Stone",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Rolling Stone",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQXUtMjRkeFpGRnp2VTNaOHBpb2FGSVNMYXlzVWV1YlBlRDRRYUJ2X2c4ZklJUDl4RXdVcTFwUGxaU0ZVb29EanBNVGNJaFQ4ZHBLdmVtdWxGdWwxQmFfMDhGWXRkYlpubWRIZTg3QmJhMGNtcVk3bnFlZ2Rmc3pGR0dLWVRJVHdmZktUVTloUnFIY1VkNzlxM0g5UzI?oc=5"
       }
     ],
     "status": "official",
