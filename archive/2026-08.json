@@ -37,10 +37,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -592,10 +592,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -854,10 +854,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -879,10 +879,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -904,10 +904,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1277,6 +1277,556 @@
     "section": "pt"
   },
   {
+    "title": "Watch: Harm’s Way Played Their First Set Since The Death Of Bo Lueders",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/30/news/watch-harms-way-played-their-first-set-since-the-death-of-bo-lueders/",
+    "timestamp": "2026-08-30T19:00:57+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "And they had a new lineup addition. The post Watch: Harm’s Way Played Their First Set Since The Death Of Bo Lueders appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/30/news/watch-harms-way-played-their-first-set-since-the-death-of-bo-lueders/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Fear Factory Kicked Off Their European/UK Tour With The Live Debut Of “Roboticist” & A Few Setlist Rarities",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/30/news/fear-factory-kicked-off-their-european-uk-tour-with-the-live-debut-of-roboticist-a-few-setlist-rarities/",
+    "timestamp": "2026-08-30T18:38:59+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "The return of two tracks that hadn't been performed since the early 00s. The post Fear Factory Kicked Off Their European/UK Tour With The Live Debut Of “Roboticist” & A Few Setlist Rarities appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/30/news/fear-factory-kicked-off-their-european-uk-tour-with-the-live-debut-of-roboticist-a-few-setlist-rarities/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch: Bluegrass Star Billy Strings Joined Cryptopsy Onstage At His ‘Ionia Freak Fair’",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/08/30/news/watch-bluegrass-star-billy-strings-joined-cryptopsy-onstage-at-his-ionia-freak-fair/",
+    "timestamp": "2026-08-30T18:23:25+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "Strings personally curated a stage of metal and hardcore heavy hitters for his inaugural bluegrass event. The post Watch: Bluegrass Star Billy Strings Joined Cryptopsy Onstage At His ‘Ionia Freak Fair’ appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/08/30/news/watch-bluegrass-star-billy-strings-joined-cryptopsy-onstage-at-his-ionia-freak-fair/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Original SLIPKNOT Vocalist ANDERS COLSEFNI Is 'Fine' With Not Being The Singer Who Actually Made The Band Famous: 'I Don't Have Any Regrets'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/original-slipknot-vocalist-anders-colsefni-is-fine-with-not-being-the-singer-who-actually-made-the-band-famous-i-dont-have-any-regrets",
+    "timestamp": "2026-08-30T17:31:29+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "In a new interview with The Phase Remains The Same, original SLIPKNOT singer Anders Colsefni, who contributed lead vocals to the band's \"Mate. Feed. Kill. Repeat.\" record, was asked where he and his then-SLIPKNOT bandmates wrote the music that ended up becoming \"Mate. Feed. Kill. Repeat.\". He respon...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/original-slipknot-vocalist-anders-colsefni-is-fine-with-not-being-the-singer-who-actually-made-the-band-famous-i-dont-have-any-regrets"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Brann Dailor Explains Why Mastodon Called New Album 'Marrow Deep'",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/mastodon-new-album-title-marrow-deep-brann-dailor-explains/",
+    "timestamp": "2026-08-30T16:14:48+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "The drummer/vocalist dives into how the title of Mastodon's latest LP represents loss, relationships and gratitude. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/mastodon-new-album-title-marrow-deep-brann-dailor-explains/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "“It was upsetting”: the 1983 song Mötley Crüe wrote during a bout of Satanism - Far Out Magazine",
+    "src": "Far Out Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU2pjRk1LS1ppRmpSNHpQNVZkaWtVcE1rQlJObFRWSkU2eFFfcTBaU0FOY24yZjVYbndRaGZFMlhhQVhCOTdaRTFZaVUzSlhwNmQyTlRYa3FoaDcwNnlRVkswd2ExRHJZdXVfQlNES2FpMk9rQ28wNnktdy1jSlZfUXVCR2lTMTNC?oc=5",
+    "timestamp": "2026-08-30T16:00:00+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "“It was upsetting”: the 1983 song Mötley Crüe wrote during a bout of Satanism Far Out Magazine",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Far Out Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU2pjRk1LS1ppRmpSNHpQNVZkaWtVcE1rQlJObFRWSkU2eFFfcTBaU0FOY24yZjVYbndRaGZFMlhhQVhCOTdaRTFZaVUzSlhwNmQyTlRYa3FoaDcwNnlRVkswd2ExRHJZdXVfQlNES2FpMk9rQ28wNnktdy1jSlZfUXVCR2lTMTNC?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "New NEVERMORE Members Speak Out: The Response From Fans Has Been 'Overwhelming'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/new-nevermore-members-speak-out-the-response-from-fans-has-been-overwhelming",
+    "timestamp": "2026-08-30T15:22:38+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "New NEVERMORE members Berzan Önen (vocals), Jack Cattoi (guitar) and Semir Özerkan (bass) spoke to Germany's Thicker Than Blood podcast about the band's reformed lineup, which also includes guitarist Jeff Loomis and drummer Van Williams. Regarding how he approaches singing the parts originally writt...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/new-nevermore-members-speak-out-the-response-from-fans-has-been-overwhelming"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Guitarist AJ Rebollo quits Bad Wolves as Dolly Parton cover song is 'final nail in coffin' - Daily Express US",
+    "src": "Daily Express US",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYWFMNlhEdHNKazB6WjkwQndUSUQtclBvMWlJelBTQlRXOEhTcG84SU04N3l3WVBlX0NJSHh0VGpxNGhNTm5MQ2I2ajN6dFR3aGcxR21haGE3TFdENWQ3bHFUY2VkN1dEMGNvc1VtWXc2eFJ6VWVmRXVHcUN4Sll5eG9SV0hwVXhFYkt1MkZR0gGTAUFVX3lxTE9MYmhTajgwR2c5RUZ4YzZkX0tRVk12MGF4V2Q0RGp2Z21URnp5MzFrcEcyTmt3NVM3SzNaenJnN3B4UnFYSlVRRF9tci10ZjYzeUx6blZjTlRZdUJJWGhxSzl0eEQ4VVRocmI2SlpuekQ2ZWdXM01UcEY1Tm1QS0FrTlp0X0g5cklSRWZtbm1WTk9lSQ?oc=5",
+    "timestamp": "2026-08-30T13:42:02+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "Guitarist AJ Rebollo quits Bad Wolves as Dolly Parton cover song is 'final nail in coffin' Daily Express US",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Daily Express US",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYWFMNlhEdHNKazB6WjkwQndUSUQtclBvMWlJelBTQlRXOEhTcG84SU04N3l3WVBlX0NJSHh0VGpxNGhNTm5MQ2I2ajN6dFR3aGcxR21haGE3TFdENWQ3bHFUY2VkN1dEMGNvc1VtWXc2eFJ6VWVmRXVHcUN4Sll5eG9SV0hwVXhFYkt1MkZR0gGTAUFVX3lxTE9MYmhTajgwR2c5RUZ4YzZkX0tRVk12MGF4V2Q0RGp2Z21URnp5MzFrcEcyTmt3NVM3SzNaenJnN3B4UnFYSlVRRF9tci10ZjYzeUx6blZjTlRZdUJJWGhxSzl0eEQ4VVRocmI2SlpuekQ2ZWdXM01UcEY1Tm1QS0FrTlp0X0g5cklSRWZtbm1WTk9lSQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Suicidal Tendencies - The Gardner News",
+    "src": "The Gardner News",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZFFobHh5R0VDUkh1aXZJWk9idloxLWktbzU3bzhhVUFvYlRqazA0UE9iSm42Vm9YRms4SGYzOE1Dc0hpbUdJNW9ZMEZSWGo3MnhUUjhLV1hnS3c3dlFlVHREYjVfd2dQc2ZuSm5VanVCWFgyU0NxVDQyVnpfSG1aRXRvdGl3SkVlM1hTOFJoY2lPOEJSemkyYV9RaHZIZWhpUE9VVjhaUQ?oc=5",
+    "timestamp": "2026-08-30T04:52:51+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "Suicidal Tendencies The Gardner News",
+    "category": "core",
+    "sources": [
+      {
+        "name": "The Gardner News",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZFFobHh5R0VDUkh1aXZJWk9idloxLWktbzU3bzhhVUFvYlRqazA0UE9iSm42Vm9YRms4SGYzOE1Dc0hpbUdJNW9ZMEZSWGo3MnhUUjhLV1hnS3c3dlFlVHREYjVfd2dQc2ZuSm5VanVCWFgyU0NxVDQyVnpfSG1aRXRvdGl3SkVlM1hTOFJoY2lPOEJSemkyYV9RaHZIZWhpUE9VVjhaUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Yeah Yeah Yeahs’ Karen O unable to perform at Daisy Chain Fields due to “family emergency”",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/yeah-yeah-yeahs-karen-o-unable-to-perform-at-daisy-chain-fields-due-to-family-emergency-3965848?utm_source=rss&utm_medium=rss&utm_campaign=yeah-yeah-yeahs-karen-o-unable-to-perform-at-daisy-chain-fields-due-to-family-emergency",
+    "timestamp": "2026-08-30T18:59:03+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "“Very sad to miss such a herstoric music event, but I’m where I’m most needed,” she wrote The post Yeah Yeah Yeahs’ Karen O unable to perform at Daisy Chain Fields due to “family emergency” appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/yeah-yeah-yeahs-karen-o-unable-to-perform-at-daisy-chain-fields-due-to-family-emergency-3965848?utm_source=rss&utm_medium=rss&utm_campaign=yeah-yeah-yeahs-karen-o-unable-to-perform-at-daisy-chain-fields-due-to-family-emergency"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Viagra Boys reveal details of their ‘emotional’ new material at Reading 2026",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/viagra-boys-reading-new-material-viagr-aboys-interview-3965828?utm_source=rss&utm_medium=rss&utm_campaign=viagra-boys-reading-new-material-viagr-aboys-interview",
+    "timestamp": "2026-08-30T18:03:19+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "The band also reflected on their 2025 breakthrough album ‘Viagr Aboys' The post Viagra Boys reveal details of their ‘emotional’ new material at Reading 2026 appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/viagra-boys-reading-new-material-viagr-aboys-interview-3965828?utm_source=rss&utm_medium=rss&utm_campaign=viagra-boys-reading-new-material-viagr-aboys-interview"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Lola Young tells Reading 2026 to “try not to give a fuck” as she plays “surprise” set",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/lola-young-reading-2026-surprise-set-report-setlist-photos-3965805?utm_source=rss&utm_medium=rss&utm_campaign=lola-young-reading-2026-surprise-set-report-setlist-photos",
+    "timestamp": "2026-08-30T17:49:31+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "The singer announced her main stage performance just a few hours before taking to the stage The post Lola Young tells Reading 2026 to “try not to give a fuck” as she plays “surprise” set appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/lola-young-reading-2026-surprise-set-report-setlist-photos-3965805?utm_source=rss&utm_medium=rss&utm_campaign=lola-young-reading-2026-surprise-set-report-setlist-photos"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Loyle Carner takes aim at J.K. Rowling, “toxic masculinity bullshit” and the far right during Reading 2026 set",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/loyle-carner-j-k-rowling-toxic-masculinity-bullshit-far-right-reading-2026-3965827?utm_source=rss&utm_medium=rss&utm_campaign=loyle-carner-j-k-rowling-toxic-masculinity-bullshit-far-right-reading-2026",
+    "timestamp": "2026-08-30T17:47:44+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "The rapper also called on the crowd to “make some noise for the NHS” The post Loyle Carner takes aim at J.K. Rowling, “toxic masculinity bullshit” and the far right during Reading 2026 set appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/loyle-carner-j-k-rowling-toxic-masculinity-bullshit-far-right-reading-2026-3965827?utm_source=rss&utm_medium=rss&utm_campaign=loyle-carner-j-k-rowling-toxic-masculinity-bullshit-far-right-reading-2026"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kacey Musgraves’s Stage Literally Caught on Fire in Boston",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/kacey-musgraves-stage-fire-in-boston/",
+    "timestamp": "2026-08-30T17:35:40+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "The country singer joked that she had too much hairspray on for a fire at the TD Garden Arena. Kacey Musgraves’s Stage Literally Caught on Fire in Boston Travis Bland",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/kacey-musgraves-stage-fire-in-boston/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Dinosaur Jr. Announce 2027 Tour",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/dinosaur-jr-announce-2027-tour/",
+    "timestamp": "2026-08-30T17:35:05+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/dinosaur-jr-announce-2027-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Olivia Rodrigo’s Daisy Chain Fields Showed the Power of a Girls-to-the-Front Festival",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/olivia-rodrigo-daisy-chain-fields-review/",
+    "timestamp": "2026-08-30T17:33:06+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "The inaugural festival brought together generations of women artists, raised $20 million for organizations supporting women and girls, and delivered one of the year's most communal festival experiences. Olivia Rodrigo’s Daisy Chain Fields Showed the Power of a Girls-to-the-Front Festival Molly Mary O'Brien",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/olivia-rodrigo-daisy-chain-fields-review/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Mesh interview: ‘We just have to re-adjust the way we discover art and music’ - SIDE-LINE",
+    "src": "SIDE-LINE",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeVFpWk1fY3BPaXFGN0JkaGRJdzdvd2hGVE5DQjN4bzljT09janNQaTF5MEMtN010SkpkZVJIQkxSRkRwQTJQTG5naFU2alowdW03QXNNSHVHdkJaOWRPUWxZTTExSmpRSHhxRnh1ZWlDWDlaLUhmaEFaZnJKMWpvUGwzOEtDN0pPQlVKNklpNWNtd0R2S1JQVndGYVRNUzNzWXNz?oc=5",
+    "timestamp": "2026-08-30T17:00:00+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "Mesh interview: ‘We just have to re-adjust the way we discover art and music’ SIDE-LINE",
+    "category": "general",
+    "sources": [
+      {
+        "name": "SIDE-LINE",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeVFpWk1fY3BPaXFGN0JkaGRJdzdvd2hGVE5DQjN4bzljT09janNQaTF5MEMtN010SkpkZVJIQkxSRkRwQTJQTG5naFU2alowdW03QXNNSHVHdkJaOWRPUWxZTTExSmpRSHhxRnh1ZWlDWDlaLUhmaEFaZnJKMWpvUGwzOEtDN0pPQlVKNklpNWNtd0R2S1JQVndGYVRNUzNzWXNz?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Chris Hansen Contemplating Legal Action Against Primetime Makers",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/chris-hansen-contemplating-legal-action-against-primetime-makers/",
+    "timestamp": "2026-08-30T16:53:16+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "The To Catch a Predator host said he was told he has a \"decent case\" against the A24 film. Chris Hansen Contemplating Legal Action Against Primetime Makers Travis Bland",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/chris-hansen-contemplating-legal-action-against-primetime-makers/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Neighbourhood Weekender 2027 line-up announced with Paul Heaton, Courteeners, Reytons and loads more",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/neighbourhood-weekender-2027-line-up-paul-heaton-courteeners-reytons-more-3965822?utm_source=rss&utm_medium=rss&utm_campaign=neighbourhood-weekender-2027-line-up-paul-heaton-courteeners-reytons-more",
+    "timestamp": "2026-08-30T16:53:10+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "Rick Astley will play a special hometown set, while there will also be a Haçienda Presents takeover The post Neighbourhood Weekender 2027 line-up announced with Paul Heaton, Courteeners, Reytons and loads more appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/neighbourhood-weekender-2027-line-up-paul-heaton-courteeners-reytons-more-3965822?utm_source=rss&utm_medium=rss&utm_campaign=neighbourhood-weekender-2027-line-up-paul-heaton-courteeners-reytons-more"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Drummer Zak Starkey Is Back in The Who After Messy Firing",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/08/zak-starkey-back-in-the-who/",
+    "timestamp": "2026-08-30T16:29:41+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "The drummer will join The Who as they embark on the rest of their farewell tour. Drummer Zak Starkey Is Back in The Who After Messy Firing Spencer Kaufman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/08/zak-starkey-back-in-the-who/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Tyler, The Creator says crowd for night one of his All Points East takeover were “fucking dead”",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/tyler-the-creator-crowd-night-one-all-points-east-fucking-dead-3965817?utm_source=rss&utm_medium=rss&utm_campaign=tyler-the-creator-crowd-night-one-all-points-east-fucking-dead",
+    "timestamp": "2026-08-30T16:10:50+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "The rapper thanked the audience on his second night for “lifting my spirits up” The post Tyler, The Creator says crowd for night one of his All Points East takeover were “fucking dead” appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/tyler-the-creator-crowd-night-one-all-points-east-fucking-dead-3965817?utm_source=rss&utm_medium=rss&utm_campaign=tyler-the-creator-crowd-night-one-all-points-east-fucking-dead"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "m80 leva um ouvinte a Paris para ver Céline Dion no seu regresso aos concertos - A voz do Algarve",
+    "src": "A voz do Algarve",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3JnMWZRXzZXSC03U0xCcjFPZGZ4c1hmXy1zbVFxUDc0WGNQUjdqd3N5UU80Z3RaR0E5QXZMcDdHRnRuVkd2UG9QUTVOdEdVMU9XUm1jaEJLaGFwWjA4OFBHSE5PalFzZDluOW5BN0dCeUczTVdiS3BSZG16TmxVTjFDQWNsTFhucnpJMXA2amtzbjdta1ZlMGlRY2xCRkVQN1IzdGR1dlozWkNTMTdvb3g0c1FWQQ?oc=5",
+    "timestamp": "2026-08-30T17:03:00+00:00",
+    "isoDate": "2026-08-30",
+    "date": "30 Ago",
+    "d": "m80 leva um ouvinte a Paris para ver Céline Dion no seu regresso aos concertos A voz do Algarve",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "A voz do Algarve",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY3JnMWZRXzZXSC03U0xCcjFPZGZ4c1hmXy1zbVFxUDc0WGNQUjdqd3N5UU80Z3RaR0E5QXZMcDdHRnRuVkd2UG9QUTVOdEdVMU9XUm1jaEJLaGFwWjA4OFBHSE5PalFzZDluOW5BN0dCeUczTVdiS3BSZG16TmxVTjFDQWNsTFhucnpJMXA2amtzbjdta1ZlMGlRY2xCRkVQN1IzdGR1dlozWkNTMTdvb3g0c1FWQQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
     "title": "Guitarist AJ Rebollo Steps Down From Bad Wolves, Blames Label Pressure To Release Dolly Parton Cover Despite Band Opposition",
     "src": "ThePRP",
     "url": "https://www.theprp.com/2026/08/28/news/guitarist-aj-rebollo-steps-down-from-bad-wolves-blames-label-pressure-to-release-dolly-parton-cover-despite-band-opposition/",
@@ -1419,10 +1969,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -2258,10 +2808,6 @@
       {
         "name": "Metal Injection",
         "url": "https://metalinjection.net/news/chop-suey-becomes-system-of-a-downs-first-ever-diamond-single"
-      },
-      {
-        "name": "Metal Injection",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVG11bVZWWGplNlE3TDhoSXJjajdCMDlmSHdkVFhPZXJVa3QtZnk4U051cVRGY3JDQlEza3dlQUtPSDBENkswSHktdk4yQ0xHbnNJa0hhYnh3TmZ3VDBlQTlSOXJFWUxTYktmNGlZOHhoZ1dFbTdyczItVHNoZWRwQnFXaG11R0MxV00yYWc1Y1AtY2NKdERyUA?oc=5"
       }
     ],
     "status": "official",
@@ -3027,17 +3573,17 @@
     "section": "news"
   },
   {
-    "title": "WBNS-TV Events - Restraining Order: Agnostic Front - 10tv.com",
-    "src": "10tv.com",
+    "title": "WBNS-TV Events - Restraining Order: Agnostic Front - 10TV",
+    "src": "10TV",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUJlWkFiNlhBc2NWa2JqREp1S2Z2ZDZrXzFDWllfRWR2azVMQzMxeEhxVGhzaHJVYnVSdUV6WXR1SkM1SWNrODAwY3dfa0R0VmhzRHhMaFp5b2xmZnYwWmppaVhkWHpmNTJWS2lSOGg2TTdxWGR4V2NXZGZzVGJzRkJfMkptanpoXzczMXkyNi1vb0xsbU9ENWxFWDl6ajUxTC1xYVp6cw?oc=5",
     "timestamp": "2026-08-29T15:34:42+00:00",
     "isoDate": "2026-08-29",
     "date": "29 Ago",
-    "d": "WBNS-TV Events - Restraining Order: Agnostic Front 10tv.com",
+    "d": "WBNS-TV Events - Restraining Order: Agnostic Front 10TV",
     "category": "core",
     "sources": [
       {
-        "name": "10tv.com",
+        "name": "10TV",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUJlWkFiNlhBc2NWa2JqREp1S2Z2ZDZrXzFDWllfRWR2azVMQzMxeEhxVGhzaHJVYnVSdUV6WXR1SkM1SWNrODAwY3dfa0R0VmhzRHhMaFp5b2xmZnYwWmppaVhkWHpmNTJWS2lSOGg2TTdxWGR4V2NXZGZzVGJzRkJfMkptanpoXzczMXkyNi1vb0xsbU9ENWxFWDl6ajUxTC1xYVp6cw?oc=5"
       }
     ],
@@ -3158,7 +3704,7 @@
     "timestamp": "2026-08-29T17:23:57+00:00",
     "isoDate": "2026-08-29",
     "date": "29 Ago",
-    "d": "A lot is going on with Bad Wolves. The Los Angeles metal band lost its vocalist last year when D.L. Laskiewicz departed to play in Falling In Reverse. (Laskiewicz himself was a replacement for Tommy Vext, who left after his MAGA support contributed to a rift with Bad Wolves founder/drummer John Boecklin.) Sara \"Killboy",
+    "d": "It was a bad week for Bad Wolves. A couple of months ago, the LA metal band released \"Paint It Red\" and announced Sara \"Killboy\" Skinner as their new singer. Skinner replaced D.L. Laskiewicz, who left to play bass in Falling In Reverse (Laskiewicz himself had replaced Tommy Vext, who left Bad Wolves amid a rift with fo",
     "category": "general",
     "sources": [
       {
@@ -4120,6 +4666,60 @@
     "star": false,
     "kind": "news",
     "section": "buzz"
+  },
+  {
+    "title": "Vítor Rua: “Nunca comprei um disco de rock português, a não ser que tocasse nele” - Público",
+    "src": "Público",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM1NVY0s3aTdITlZXaFZ4SkRiMzNWdWQ2MTEzUXZHY1VqbU5BSXVuYjBJQ2p0R01wb2R0bjBhSS0yWnJIU0NfcElSU1NiZW1WUG45dGFybXJOa0pTMVp0d3lmQ2Q3ckcta3R4VXM2OG9Wenp6cU5ObTNnNzR0VTAyV2IxV2UxMjVJcktuM0lLZDMzUVBVSk8zQ29ucVFaVlZfcHEwLUZYdWd3akZVcnB5b1BTSGl4OVltdFRVMHZxZ2U?oc=5",
+    "timestamp": "2026-08-29T07:36:03+00:00",
+    "isoDate": "2026-08-29",
+    "date": "29 Ago",
+    "d": "Vítor Rua: “Nunca comprei um disco de rock português, a não ser que tocasse nele” Público",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Público",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM1NVY0s3aTdITlZXaFZ4SkRiMzNWdWQ2MTEzUXZHY1VqbU5BSXVuYjBJQ2p0R01wb2R0bjBhSS0yWnJIU0NfcElSU1NiZW1WUG45dGFybXJOa0pTMVp0d3lmQ2Q3ckcta3R4VXM2OG9Wenp6cU5ObTNnNzR0VTAyV2IxV2UxMjVJcktuM0lLZDMzUVBVSk8zQ29ucVFaVlZfcHEwLUZYdWd3akZVcnB5b1BTSGl4OVltdFRVMHZxZ2U?oc=5"
+      },
+      {
+        "name": "Público",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fR2wyempObUd4ZjIxa1VNNFFnNkd3T0hUY3lpcHRxREVvUzlsZjRxUnd6U0xmeEF3R1hFZmJSbi1BTXFFc2pDTXZTa0E4Z1RDRmpJdGltQWFWUUJHNjFsTGRB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Milhares de pessoas, sobretudo jovens, no Funchal Summer Fest - dnoticias.pt",
+    "src": "dnoticias.pt",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOREZFZU13WmhrZ0VkeTd2UWh2YkEzWjJMZEIxSFBZR2I5YWo1WmlYRGFMRklaaUZxNkI0QTlDdmhhRzJUOFRCS3hWRmtfMzUzczVGbXJ5TlExUV9Ic2xWamgzd3ZsZk5vSmVOTWJ4VGo4bFpOSzJyQk5OdDBLRTJQcDhlSjNKWTctR1ZxZ1I3dlNEQ2g3aVBGM29ydUlRUUFrRnhWMw?oc=5",
+    "timestamp": "2026-08-29T22:10:00+00:00",
+    "isoDate": "2026-08-29",
+    "date": "29 Ago",
+    "d": "Milhares de pessoas, sobretudo jovens, no Funchal Summer Fest dnoticias.pt",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "dnoticias.pt",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOREZFZU13WmhrZ0VkeTd2UWh2YkEzWjJMZEIxSFBZR2I5YWo1WmlYRGFMRklaaUZxNkI0QTlDdmhhRzJUOFRCS3hWRmtfMzUzczVGbXJ5TlExUV9Ic2xWamgzd3ZsZk5vSmVOTWJ4VGo4bFpOSzJyQk5OdDBLRTJQcDhlSjNKWTctR1ZxZ1I3dlNEQ2g3aVBGM29ydUlRUUFrRnhWMw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "b": "Roderick Newport",
@@ -8236,31 +8836,6 @@
     "section": "pt"
   },
   {
-    "title": "Vítor Rua: “Nunca comprei um disco de rock português, a não ser que tocasse nele” - Público",
-    "src": "Público",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM1NVY0s3aTdITlZXaFZ4SkRiMzNWdWQ2MTEzUXZHY1VqbU5BSXVuYjBJQ2p0R01wb2R0bjBhSS0yWnJIU0NfcElSU1NiZW1WUG45dGFybXJOa0pTMVp0d3lmQ2Q3ckcta3R4VXM2OG9Wenp6cU5ObTNnNzR0VTAyV2IxV2UxMjVJcktuM0lLZDMzUVBVSk8zQ29ucVFaVlZfcHEwLUZYdWd3akZVcnB5b1BTSGl4OVltdFRVMHZxZ2U?oc=5",
-    "timestamp": "2026-08-28T06:00:00+00:00",
-    "isoDate": "2026-08-28",
-    "date": "28 Ago",
-    "d": "Vítor Rua: “Nunca comprei um disco de rock português, a não ser que tocasse nele” Público",
-    "category": "pt",
-    "sources": [
-      {
-        "name": "Público",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM1NVY0s3aTdITlZXaFZ4SkRiMzNWdWQ2MTEzUXZHY1VqbU5BSXVuYjBJQ2p0R01wb2R0bjBhSS0yWnJIU0NfcElSU1NiZW1WUG45dGFybXJOa0pTMVp0d3lmQ2Q3ckcta3R4VXM2OG9Wenp6cU5ObTNnNzR0VTAyV2IxV2UxMjVJcktuM0lLZDMzUVBVSk8zQ29ucVFaVlZfcHEwLUZYdWd3akZVcnB5b1BTSGl4OVltdFRVMHZxZ2U?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": true,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "pt"
-  },
-  {
     "title": "Richie Campbell:‌‌ “Music isn’t just music in post-colonial Jamaica. The whole identity is build around fighting an opressive force” - Expresso",
     "src": "Expresso",
     "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNUlZzX1FZZ3lWRW1pQUY5dFdfSV9xcnRtN0JXUzhmSVYyTm5wV0daNkRXUlZXaG9ueDJoT2hMVUc3V2RjM3NNZVBMTXBtUjE4WmVZaWN2dnlUbVhVOXFteE9mQWpSd2p6WXlmdTUtbU9SRDJWakcyVUxtRHAyTkl2Mnl2YjUyWEZ1UjdpLWJ0dk9MbDVYM0Z5T1YyUVNZOTJHQVRNc0NPMzIxN082a0FkaFd2Wjk3RnZiZWU5Tkt3UUtZRkJlZDVXZDcyRnZRUmNlSnVNY25UYWhPTS1xbGw3Q0RpVHR6MFZLQjk5dXQzYmJKNHFuYWJ2VjE5UUlJdWRBTU5LLS00Yk0wRGRtZC1PenI5RTJwYnRLOVppWGk0N2VEcTRGUEg5ZWNiZWg3cEc5OGc?oc=5",
@@ -11007,6 +11582,31 @@
       {
         "name": "ABP Live English",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVTNwc2E5eURfdm90LVNsRDEyaEJEdTJkOVc2Tlh5VFpuYkZTcEJSUHBvVUtKLXZsT1RJUHk5c0swRWtfeV9qcklzYlhnR05rTm9KQ3NrSnRHV2lreWhkMXVfUmpjZC0wM3BqRTlDbGN6dzBhdUJOcVdiNG1ZcVp5LTFaa3VSRm9CUmpFMVdMbjZxV01DWjc0UTZIeWczNHpsdXZpaE9fTXFyS0w5NWtQd3RBSXVQOUlBaUFkV1ctcDNCZmh3OUIxelhOMzNJcW1WZGxESEln0gHWAUFVX3lxTFBVM3BzYTl5RF92b3QtU2xEMTJoQkR1MmQ5VzZOWHlUWm5iRlNwQlJQcG9VS0otdmxPVElQeTlzSzBFa195X2pySXNiWGdHTmtOb0pDc2tKdEdXaWt5aGQxdV9SamNkLTAzcGpFOUNsY3p3MGF1Qk5xV2I0bVlxWnktMVprdVJGb0JSakUxV0xuNnFXTUNaNzRRNkh5ZzM0emx1dmloT19NcXJLTDk1a1B3dEFJdVA5SUFpQWRXVy1wM0JmaHc5QjF6WE4zM0lxbVZkbERISWc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "CITIZEN ZERO Release Official Music Video For Explosive New Single “Queen Of The Damned” - rocknloadmag.com",
+    "src": "rocknloadmag.com",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZHdhQVhaeWY2SlpOT2FhTnFVZDVldGZxNngzZDlvdndpejdkSlJ3bXk2b2V5bWlWak9mb2l2SGo0NlZoRGVETjkyMm9hRS1tU3V0R2FPaUtNVm5PR0lGTDV0NkZzTEQ5RFlqU1plV1h3ZWFLdFY2WFNkZ2d4UGJ6cmMyMEJDQktwT3Nac01DanB6WjVvSHJvV2pTY0RWYXhLTE9ncXZMYnA0bEN4N2ZrUHln?oc=5",
+    "timestamp": "2026-08-28T07:00:00+00:00",
+    "isoDate": "2026-08-28",
+    "date": "28 Ago",
+    "d": "CITIZEN ZERO Release Official Music Video For Explosive New Single “Queen Of The Damned” rocknloadmag.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "rocknloadmag.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZHdhQVhaeWY2SlpOT2FhTnFVZDVldGZxNngzZDlvdndpejdkSlJ3bXk2b2V5bWlWak9mb2l2SGo0NlZoRGVETjkyMm9hRS1tU3V0R2FPaUtNVm5PR0lGTDV0NkZzTEQ5RFlqU1plV1h3ZWFLdFY2WFNkZ2d4UGJ6cmMyMEJDQktwT3Nac01DanB6WjVvSHJvV2pTY0RWYXhLTE9ncXZMYnA0bEN4N2ZrUHln?oc=5"
       }
     ],
     "status": "official",
@@ -23761,6 +24361,31 @@
     "section": "news"
   },
   {
+    "title": "Deftones, IDLES and Interpol Lead Outbreak Fest 2026 Lineup at All Points East - 93X",
+    "src": "93X",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdncyOWwtV09CVi11YVpNa3dTTG9zTDdhakpuZkhLVkFHRDl1eWRfNWowMm5DR1l1NHM2eElMRk9HX19mcnFYa0s2TnE0bEdxU2FLSG5xb0x5MXQ4eHFaUHVBZ3RkT1hVX0hBTU5iclhYUXE3SF9Nb0pGRXdkLU0wNjVsTk5VVW1LQVFYUHRobVFtMmN4YXQwVklFRG5CVFpEb1VWa1NtQWhLYTdoeGc?oc=5",
+    "timestamp": "2026-08-26T12:33:14+00:00",
+    "isoDate": "2026-08-26",
+    "date": "26 Ago",
+    "d": "Deftones, IDLES and Interpol Lead Outbreak Fest 2026 Lineup at All Points East 93X",
+    "category": "core",
+    "sources": [
+      {
+        "name": "93X",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdncyOWwtV09CVi11YVpNa3dTTG9zTDdhakpuZkhLVkFHRDl1eWRfNWowMm5DR1l1NHM2eElMRk9HX19mcnFYa0s2TnE0bEdxU2FLSG5xb0x5MXQ4eHFaUHVBZ3RkT1hVX0hBTU5iclhYUXE3SF9Nb0pGRXdkLU0wNjVsTk5VVW1LQVFYUHRobVFtMmN4YXQwVklFRG5CVFpEb1VWa1NtQWhLYTdoeGc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
     "title": "Circo acrobático e música do mundo em Pombal no Festival Sete Sóis Sete Luas - Jornal de Leiria",
     "src": "Jornal de Leiria",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU3RhaFRRVU1KaVc1MmJOemc2RmtoSlp2WTNYRjlEWG1mZGZ6VWhsV011U19uSmFDVG91TW14a0c1V3ByaS05VV9PdjFzdmpZZk9nLWFiV1ZXRkY0SUkxQ280MWQ4QVBrbXpOdXB2S3BLbF9BYmU3MV8tUVpteWt2WUJaSm10NGxCWTQyVVppT1NtYzJmN2p0dGEtM1VPNVhSaWJEVFMwU1NQbExsYzdYazVySlQ?oc=5",
@@ -30740,6 +31365,31 @@
       {
         "name": "Expresso",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02WHZ4UmR5VXFlSEdTVWl6T0xnUkpZZ291VVFsbFFGcHpwZjJIYW8wYjhVVWN5dnd5b1JTZ2lPeTRLdjl2Z1FmNFJtUHRJRGxFNWlFQ21tTU9NckZLdEdNZTRmdC1WZFFkYkVOUDVpcFppYWxMcTByQlZUbWtGTW8?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Carvoeiro combina festa na praia com festividades tradicionais. - Portugal Resident",
+    "src": "Portugal Resident",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmdSVTJBVFJnNDVULWV2bHowLWFaUFhnRVBXS2JkNzRyMWxFeTlhdURIOUIzS3FOWHhleWJuNEdTb2dsdWpQNThpeHFEdDNkWXlzUkhOUGZDYTRiN3FWMHBiTzFBSENHZmlJdTRDanNuOVl0SGxzU25TcTBwU3VNOHZ1MU1CMDA1dlZVYWpSUWJ4b1l2WW1WLW5zNjZBcnM4eEE?oc=5",
+    "timestamp": "2026-08-25T09:25:25+00:00",
+    "isoDate": "2026-08-25",
+    "date": "25 Ago",
+    "d": "Carvoeiro combina festa na praia com festividades tradicionais. Portugal Resident",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Portugal Resident",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmdSVTJBVFJnNDVULWV2bHowLWFaUFhnRVBXS2JkNzRyMWxFeTlhdURIOUIzS3FOWHhleWJuNEdTb2dsdWpQNThpeHFEdDNkWXlzUkhOUGZDYTRiN3FWMHBiTzFBSENHZmlJdTRDanNuOVl0SGxzU25TcTBwU3VNOHZ1MU1CMDA1dlZVYWpSUWJ4b1l2WW1WLW5zNjZBcnM4eEE?oc=5"
       }
     ],
     "status": "official",
