@@ -241,10 +241,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "titleOriginal": "SCORPIONS Postpone 2026 Las Vegas Residency 'Due To Unforeseen Circumstances'",
     "kind": "news",
     "section": "news"
@@ -267,10 +267,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -292,10 +292,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -787,11 +787,15 @@
       {
         "name": "Arte Sonora",
         "url": "https://artesonora.pt/simple-minds-apresentam-se-na-super-bock-arena-e-no-sagres-campo-pequeno-bilhetes/"
+      },
+      {
+        "name": "arte sonora",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUNwR2tNd1ZLOGFja0wwZUVkZ2dWZjg2VWtSMEd6d0VEY1BHNndHaExZVU1YbU5VRjlNdmNaLTY2R0paYzI2RnVIRGV1TUtLZlNqSjVTQlM2blNIZUVieFljalhzZ2c4X043dVp6R0hHd3YyRlZIa01IVFpTSkhJZ3UtVWJNbkpfLURVdDRHUVJsSWhEVDFyVHhKREYwQ0NBVEVaNGllYw?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 1,
+    "sourceCount": 2,
     "isBreaking": true,
     "isPT": true,
     "isCore": false,
@@ -906,6 +910,777 @@
     "score": "",
     "cat": "general",
     "releaseKey": "pitchfork|fear on my own time",
+    "kind": "review",
+    "section": "rev"
+  },
+  {
+    "b": "Wage War",
+    "t": "Landfall",
+    "g": "core",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "3 Set",
+    "isoDate": "2026-09-03",
+    "url": "https://alterportal.net/core/190189-wage-war-landfall-single-2026.html",
+    "d": "Стиль: Metalcore Треклист: 01. Landfall new album \"Landfall\" out 09.10.2026",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/core/190189-wage-war-landfall-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Theory Of A Deadman",
+    "t": "Part 1: Funeral Songs",
+    "g": "rock",
+    "fmt": "EP",
+    "lbl": "Alterportal",
+    "date": "3 Set",
+    "isoDate": "2026-09-03",
+    "url": "https://alterportal.net/2026_albums/190187-theory-of-a-deadman-part-1-funeral-songs-ep-2026.html",
+    "d": "Modern Hard Rock / Post-Grunge",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190187-theory-of-a-deadman-part-1-funeral-songs-ep-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Tanzwut",
+    "t": "Herz Aus Stein",
+    "g": "indus",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "3 Set",
+    "isoDate": "2026-09-03",
+    "url": "https://alterportal.net/2026_albums/190192-tanzwut-herz-aus-stein-2026.html",
+    "d": "Стиль: Industrial Metal / Folk Metal Треклист: 01. Rosenkrieg 02. Keine Band Für Eine Nacht 03. Herz Aus Stein 04. Zeitgeist 05. Die Sänger Singen Noch 06. Der König Ist Pleite 07. Ich Bin Kein Engel 08. Sag Niemals Nie 09. Wir Haben´s Ubertrieben 10. No Future 11. Wenn Alle Stricke Reißen 12. Ewig Wie Das Eis 13. Kein Abschied Für Immer 14. Die Sänger Singen Noch (Feature Version)",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190192-tanzwut-herz-aus-stein-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Sworn",
+    "t": "Null Crowned The Infinite",
+    "g": "black",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "3 Set",
+    "isoDate": "2026-09-03",
+    "url": "https://alterportal.net/2026_albums/190185-sworn-null-crowned-the-infinite-2026.html",
+    "d": "Стиль: Melodic Black Metal Треклист: 01. The Starless Origin 02. Null Crowned The Infinite 03. A Cosmic Storm 04. Fracture Of Aeons 05. The Entropic Void 06. Circle Of The Eternal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190185-sworn-null-crowned-the-infinite-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Girl of Glass",
+    "t": "Some Words Were Never Enough",
+    "g": "core",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "3 Set",
+    "isoDate": "2026-09-03",
+    "url": "https://musicbrainz.org/release-group/c3ebee4b-4b47-4cf1-8f77-6b54f84d9a05",
+    "d": "deathcore",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/c3ebee4b-4b47-4cf1-8f77-6b54f84d9a05"
+      }
+    ],
+    "mbid": "c3ebee4b-4b47-4cf1-8f77-6b54f84d9a05",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Doomcrusher",
+    "t": "Forsaker",
+    "g": "core",
+    "fmt": "EP",
+    "lbl": "Alterportal",
+    "date": "3 Set",
+    "isoDate": "2026-09-03",
+    "url": "https://alterportal.net/2026_albums/190191-doomcrusher-forsaker-ep-2026.html",
+    "d": "Стиль: Metalcore / Alternative Metal / Electronic Треклист: 01. Intro 02. Forsaker 03. Breakout 04. Reflect 05. Adrenaline (feat. Any Given Day ) 06. Intoxicated 07. Odyssey",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190191-doomcrusher-forsaker-ep-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "All Shall Perish",
+    "t": "Be As Kings, Be As Gods",
+    "g": "core",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "3 Set",
+    "isoDate": "2026-09-03",
+    "url": "https://alterportal.net/core/190188-all-shall-perish-be-as-kings-be-as-gods-single-2026.html",
+    "d": "Стиль: Deathcore Треклист: 01. Be As Kings, Be As Gods",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/core/190188-all-shall-perish-be-as-kings-be-as-gods-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Absolutist",
+    "t": "Archetype For The Suffering",
+    "g": "core",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "3 Set",
+    "isoDate": "2026-09-03",
+    "url": "https://alterportal.net/2026_albums/190186-absolutist-archetype-for-the-suffering-2026.html",
+    "d": "Стиль: Progressive Metalcore / Progressive Metal Треклист: 01. Immanent 02. Myriad 03. Archetype For The Suffering 04. Gravastar 05. Lineage 06. De-Real 07. Supercharged 08. Will I See You?/font]",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190186-absolutist-archetype-for-the-suffering-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "156/Silence",
+    "t": "From A Distance",
+    "g": "core",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "3 Set",
+    "isoDate": "2026-09-03",
+    "url": "https://alterportal.net/2026_albums/190190-156-silence-from-a-distance-2026.html",
+    "d": "Стиль: Hardcore / Metalcore Треклист: 01. Control Burns 02. No Arms 03. Order & Entropy 04. Swept From Under (Call of the Void) 05. An Early Exit 06. Collateral (feat. Crippling Alcoholism) 07. Cannon Fodder (feat. Mike Hranica of The Devil Wears Prada ) 08. Secret Room 09. Proxy Idol 10. Phoenix Dies 11. From A Distance (feat. Alex Reade of Make Them Suffer ) 12. After Dusk",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190190-156-silence-from-a-distance-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "OZZY OSBOURNE Exhibition At Birmingham Museum & Art Gallery Has Welcomed Almost 800,000 Visitors Since Its Launch",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/ozzy-osbourne-exhibition-at-birmingham-museum-art-gallery-has-welcomed-almost-800000-visitors-since-its-launch",
+    "timestamp": "2026-09-03T12:26:49+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "Fans of Birmingham, U.K. rock legend Ozzy Osbourne have just a few weeks left to see the exhibition celebrating his life and legacy at Birmingham Museum & Art Gallery before it closes on Sunday, September 27, 2026. \"Ozzy Osbourne: Working Class Hero\" charts Ozzy's journey from a working-class up...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/ozzy-osbourne-exhibition-at-birmingham-museum-art-gallery-has-welcomed-almost-800000-visitors-since-its-launch"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "POLARIS Emerges From Grief With Powerful New Single And Video 'Without You'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/polaris-emerges-from-grief-with-powerful-new-single-and-video-without-you",
+    "timestamp": "2026-09-03T12:07:02+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "At the crossroads of grief and exhilarating sonic potency, Sydney's POLARIS returns today with its first instalment of new music in three years, unleashing a brand new single, \"Without You\", via ADA in Australia and New Zealand and SharpTone Records for the remainder of the world. Born from unimagin...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/polaris-emerges-from-grief-with-powerful-new-single-and-video-without-you"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "CARCASS Drummer's 'Family Situation' Forces Postponement Of Australia/New Zealand Tour",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/carcass-drummers-family-situation-forces-postponement-of-australia-new-zealand-tour",
+    "timestamp": "2026-09-03T11:50:34+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "British extreme metal veterans CARCASS have been forced to postpone their Australian tour with BRUJERIA due to a \"family situation\" affecting their drummer Dan Wilding. On Wednesday, September 2, CARCASS released the following statement via social media: \" We're incredibly sorry to announce that we...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/carcass-drummers-family-situation-forces-postponement-of-australia-new-zealand-tour"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "IRON MAIDEN's 'Eddie's Dive Bar' Pre-Show Events Are Coming To The U.S.",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/iron-maidens-eddies-dive-bar-pre-show-events-are-coming-to-the-u-s",
+    "timestamp": "2026-09-03T11:29:16+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "The U.S. leg of IRON MAIDEN's \"Run For Your Lives\" world tour kicks off on September 5 in New Jersey, and with it comes the first Eddie's Dive Bar experiences to happen Stateside. Overseas, these meetups offer passionate IRON MAIDEN fans a chance to \"Up The Irons\" and raise a pint before IRON MAIDEN...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/iron-maidens-eddies-dive-bar-pre-show-events-are-coming-to-the-u-s"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "NAILS Release Two-Song Single 'Fear Based Life'; Fifth Full-Length Album Due Summer 2027",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/nails-release-two-song-single-fear-based-life-fifth-full-length-album-due-summer-2027",
+    "timestamp": "2026-09-03T11:14:15+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "Oxnard, California's NAILS has signed to Closed Casket Activities, marking the occasion with a new seven-inch release, \"Fear Based Life\". These two songs are brutal statement of intent and a bridge to the band's fifth full-length LP, due out summer 2027. The signing closes the loop on a relationship...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/nails-release-two-song-single-fear-based-life-fifth-full-length-album-due-summer-2027"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "‘Ink’ review: Jack O’Connell makes headlines in thrilling The Sun origin story",
+    "src": "NME",
+    "url": "https://www.nme.com/reviews/film-reviews/ink-review-jack-oconnell-danny-boyle-the-sun-rupert-murdoch-3966797?utm_source=rss&utm_medium=rss&utm_campaign=ink-review-jack-oconnell-danny-boyle-the-sun-rupert-murdoch",
+    "timestamp": "2026-09-03T13:19:39+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "Based on James Graham’s acclaimed play, we’re given front row seats to the rise of Rupert Murdoch’s divisive media empire The post ‘Ink’ review: Jack O’Connell makes headlines in thrilling The Sun origin story appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/reviews/film-reviews/ink-review-jack-oconnell-danny-boyle-the-sun-rupert-murdoch-3966797?utm_source=rss&utm_medium=rss&utm_campaign=ink-review-jack-oconnell-danny-boyle-the-sun-rupert-murdoch"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kelela Covers Incubus With A String Quartet",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2510232/kelela-covers-incubus-with-a-string-quartet/music/",
+    "timestamp": "2026-09-03T13:14:43+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "The club and R&B experimenter Kelela is a bit of a futurist. You could say that she's really interested in whatever tomorrow brings. But right now, we get a fascinating chance to see her reach into her past. Kelela released her excellent album new avatar over the summer. To promote it, she recently stopped by LA's Spot",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2510232/kelela-covers-incubus-with-a-string-quartet/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Backstreet Boys at Las Vegas Sphere: How to Get Tickets",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/09/backstreet-boys-2026-sphere-how-to-get-tickets/",
+    "timestamp": "2026-09-03T13:14:39+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "Backstreet’s back for a residency at the Las Vegas Sphere, with a newly-announced stretch of shows taking place around New Year's Eve. Learn how to get tickets here. Backstreet Boys at Las Vegas Sphere: How to Get Tickets Jo Vito",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/09/backstreet-boys-2026-sphere-how-to-get-tickets/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "DIIV – “Kid”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2510227/diiv-kid/music/",
+    "timestamp": "2026-09-03T12:55:34+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "One of the most potentially fascinating albums on the docket right now is ZIRP! , the new one that Brooklyn fuzz-guitar vets DIIV recorded with PC Music co-founder and Charli XCX collaborator A. G. Cook. At least in their press materials, DIIV are framing the record as part of a \"New Alternative\" movement that also inc",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2510227/diiv-kid/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "David Byrne has written a song using only Elon Musk quotes for “scathing” new documentary",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/david-byrne-has-written-a-song-using-only-elon-musk-quotes-for-scathing-new-documentary-3966804?utm_source=rss&utm_medium=rss&utm_campaign=david-byrne-has-written-a-song-using-only-elon-musk-quotes-for-scathing-new-documentary",
+    "timestamp": "2026-09-03T12:44:28+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "“All his own words. No editorialising. Straight from the man’s mouth to mine” The post David Byrne has written a song using only Elon Musk quotes for “scathing” new documentary appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/david-byrne-has-written-a-song-using-only-elon-musk-quotes-for-scathing-new-documentary-3966804?utm_source=rss&utm_medium=rss&utm_campaign=david-byrne-has-written-a-song-using-only-elon-musk-quotes-for-scathing-new-documentary"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Iceland Airwaves 2026: Final wave of artists added to line-up and day splits revealed",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/iceland-airwaves-2026-final-wave-artists-added-line-up-day-splits-revealed-3966787?utm_source=rss&utm_medium=rss&utm_campaign=iceland-airwaves-2026-final-wave-artists-added-line-up-day-splits-revealed",
+    "timestamp": "2026-09-03T12:43:50+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "Cobrah, Alien Chicks, Leith Ross, Worldpeace DMT and more are set to perform at the Reykjavík festival The post Iceland Airwaves 2026: Final wave of artists added to line-up and day splits revealed appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/iceland-airwaves-2026-final-wave-artists-added-line-up-day-splits-revealed-3966787?utm_source=rss&utm_medium=rss&utm_campaign=iceland-airwaves-2026-final-wave-artists-added-line-up-day-splits-revealed"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "DIIV Share New Single “Kid” from Upcoming Album ZIRP!: Stream",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/09/diiv-new-single-kid-upcoming-album-zirp/",
+    "timestamp": "2026-09-03T12:37:38+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "Due October 30th, the album is produced by A. G. Cook. DIIV Share New Single “Kid” from Upcoming Album ZIRP!: Stream Karan Singh",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/09/diiv-new-single-kid-upcoming-album-zirp/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Amelia Dimoldenberg Winds Down Chicken Shop Date After 12 Years",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/amelia-dimoldenberg-winds-down-chicken-shop-date-after-12-years/",
+    "timestamp": "2026-09-03T12:36:09+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/amelia-dimoldenberg-winds-down-chicken-shop-date-after-12-years/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Jeff Goldblum and CMAT are the first guests for ‘Saturday Night Live UK’ season two",
+    "src": "NME",
+    "url": "https://www.nme.com/news/tv/jeff-goldblum-cmat-first-guests-for-saturday-night-live-uk-season-two-3966795?utm_source=rss&utm_medium=rss&utm_campaign=jeff-goldblum-cmat-first-guests-for-saturday-night-live-uk-season-two",
+    "timestamp": "2026-09-03T12:15:31+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "The hit sketch show returns this month The post Jeff Goldblum and CMAT are the first guests for ‘Saturday Night Live UK’ season two appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/tv/jeff-goldblum-cmat-first-guests-for-saturday-night-live-uk-season-two-3966795?utm_source=rss&utm_medium=rss&utm_campaign=jeff-goldblum-cmat-first-guests-for-saturday-night-live-uk-season-two"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Twenty One Pilots Say Brazilian Fans May Be “Most Passionate in the World” Ahead of Rock in Rio Debut",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/09/twenty-one-pilots-hail-brazilian-fans-rock-in-rio/",
+    "timestamp": "2026-09-03T12:02:39+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "The duo recalled being surprised after expecting backlash when they replaced Blink-182 at Lollapalooza in 2023. Twenty One Pilots Say Brazilian Fans May Be “Most Passionate in the World” Ahead of Rock in Rio Debut Pedro Camacho",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/09/twenty-one-pilots-hail-brazilian-fans-rock-in-rio/"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "medium",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Fat Dog share punk-tinged new single ‘Call It What You Want’ as they announce debut Australian tour and more UK out-store shows",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/fat-dog-share-single-call-it-what-you-want-announce-debut-australian-tour-3966785?utm_source=rss&utm_medium=rss&utm_campaign=fat-dog-share-single-call-it-what-you-want-announce-debut-australian-tour",
+    "timestamp": "2026-09-03T11:49:58+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "The new single is the latest taster of their upcoming sophomore album ‘Cancel Me (I’m Tired)’ The post Fat Dog share punk-tinged new single ‘Call It What You Want’ as they announce debut Australian tour and more UK out-store shows appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/fat-dog-share-single-call-it-what-you-want-announce-debut-australian-tour-3966785?utm_source=rss&utm_medium=rss&utm_campaign=fat-dog-share-single-call-it-what-you-want-announce-debut-australian-tour"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Mike D on telling Beastie Boys bandmate Ad-Rock he was making a solo album – and why he doesn’t feature on ‘Thank You’",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/mike-d-on-telling-beastie-boys-bandmate-ad-rock-he-was-making-a-solo-album-and-why-he-doesnt-feature-on-thank-you-3966774?utm_source=rss&utm_medium=rss&utm_campaign=mike-d-on-telling-beastie-boys-bandmate-ad-rock-he-was-making-a-solo-album-and-why-he-doesnt-feature-on-thank-you",
+    "timestamp": "2026-09-03T11:46:00+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "\"It was very important to me that I make my own record\" The post Mike D on telling Beastie Boys bandmate Ad-Rock he was making a solo album – and why he doesn’t feature on ‘Thank You’ appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/mike-d-on-telling-beastie-boys-bandmate-ad-rock-he-was-making-a-solo-album-and-why-he-doesnt-feature-on-thank-you-3966774?utm_source=rss&utm_medium=rss&utm_campaign=mike-d-on-telling-beastie-boys-bandmate-ad-rock-he-was-making-a-solo-album-and-why-he-doesnt-feature-on-thank-you"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "DMA’s: “There are a lot of similarities between country and Britpop”",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/dmas-interview-self-titled-album-tour-hills-end-britpop-3966649?utm_source=rss&utm_medium=rss&utm_campaign=dmas-interview-self-titled-album-tour-hills-end-britpop",
+    "timestamp": "2026-09-03T11:39:49+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "Guitarist Matt Mason talks to NME about the Aussie indie trio's \"coming home, full circle moment\" self-titled new album, channeling the spirit of 2016 debut ‘Hill’s End’, the \"indie poo\" discourse and bin chickens The post DMA’s: “There are a lot of similarities between country and Britpop” appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/dmas-interview-self-titled-album-tour-hills-end-britpop-3966649?utm_source=rss&utm_medium=rss&utm_campaign=dmas-interview-self-titled-album-tour-hills-end-britpop"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kelly Clarkson covers ‘KPop Demon Hunters’ ‘Golden’ for final episode of talk show",
+    "src": "NME",
+    "url": "https://www.nme.com/news/tv/kelly-clarkson-covers-kpop-demon-hunters-golden-for-final-episode-of-talk-show-3966767?utm_source=rss&utm_medium=rss&utm_campaign=kelly-clarkson-covers-kpop-demon-hunters-golden-for-final-episode-of-talk-show",
+    "timestamp": "2026-09-03T11:18:36+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "The hit was the most-requested song for her 'Kellyoke' segment The post Kelly Clarkson covers ‘KPop Demon Hunters’ ‘Golden’ for final episode of talk show appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/tv/kelly-clarkson-covers-kpop-demon-hunters-golden-for-final-episode-of-talk-show-3966767?utm_source=rss&utm_medium=rss&utm_campaign=kelly-clarkson-covers-kpop-demon-hunters-golden-for-final-episode-of-talk-show"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘Resident Evil’ movie first reactions praise “absolutely wild” game adaptation",
+    "src": "NME",
+    "url": "https://www.nme.com/news/gaming-news/resident-evil-movie-first-reactions-praise-adaptation-3966769?utm_source=rss&utm_medium=rss&utm_campaign=resident-evil-movie-first-reactions-praise-adaptation",
+    "timestamp": "2026-09-03T11:05:33+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "“It is coming from a true place of love,” said director Zach Cregger The post ‘Resident Evil’ movie first reactions praise “absolutely wild” game adaptation appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/gaming-news/resident-evil-movie-first-reactions-praise-adaptation-3966769?utm_source=rss&utm_medium=rss&utm_campaign=resident-evil-movie-first-reactions-praise-adaptation"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Watch Josh Homme, Chad Smith and Andrew Watt cover David Bowie, INXS, Tom Petty and more at Golf Jam charity event",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/watch-josh-homme-chad-smith-andrew-watt-cover-david-bowie-tom-petty-charity-event-3966768?utm_source=rss&utm_medium=rss&utm_campaign=watch-josh-homme-chad-smith-andrew-watt-cover-david-bowie-tom-petty-charity-event",
+    "timestamp": "2026-09-03T11:03:26+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "Other names in attendance included Will Ferrell, Joel Madden, Breckin Meyer, Josh Klinghoffer and more The post Watch Josh Homme, Chad Smith and Andrew Watt cover David Bowie, INXS, Tom Petty and more at Golf Jam charity event appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/watch-josh-homme-chad-smith-andrew-watt-cover-david-bowie-tom-petty-charity-event-3966768?utm_source=rss&utm_medium=rss&utm_campaign=watch-josh-homme-chad-smith-andrew-watt-cover-david-bowie-tom-petty-charity-event"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Simple Minds dão concerto em Lisboa e no Porto em abril de 2027 - Observador",
+    "src": "Observador",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaV9TSGNqX1l5S0xJaTlJYkg4V0xoSWZLRk1makxDT0l0REZsY0xNRnAtRUFra2t2QjIyb3Z0VG94ZWtfbTEzVzg5ekkwbkw3WnJ1ZS12djdVdjBCRnJiS3E1cGtobjFOZUhXZGgxT0Q4Vlo4aTRsM0Rib2VxR2JUWnAySkFXQUJnLXJ1MkNzcVNCdmktNFo5Z3NveXoyUQ?oc=5",
+    "timestamp": "2026-09-03T10:54:04+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "Simple Minds dão concerto em Lisboa e no Porto em abril de 2027 Observador",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Observador",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaV9TSGNqX1l5S0xJaTlJYkg4V0xoSWZLRk1makxDT0l0REZsY0xNRnAtRUFra2t2QjIyb3Z0VG94ZWtfbTEzVzg5ekkwbkw3WnJ1ZS12djdVdjBCRnJiS3E1cGtobjFOZUhXZGgxT0Q4Vlo4aTRsM0Rib2VxR2JUWnAySkFXQUJnLXJ1MkNzcVNCdmktNFo5Z3NveXoyUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Simple Minds vão lançar novo álbum e regressar a Portugal para dois concertos - nit.pt",
+    "src": "nit.pt",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWU1FbW1yaGpxdGhlSTRvb3NLLWJQcW9kb1BBN251YXMyT1lMdWN6YXhMNGlkMkVPYkZ1b1g4bU05WU0wQ0NKYmxLWmNLSDZzZU01WkhiVWV2VzBYQjRDTUlUR3FSR016ZS16S05HUWFEbnR1Zy1VTEpoWGFGTU0xZmhRNlpKQ0drUk13T04tMDFsMjVBRWZ4eWRITDRud1ppZFBfaVozSFRqYl9VM09uWA?oc=5",
+    "timestamp": "2026-09-03T09:59:00+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "Simple Minds vão lançar novo álbum e regressar a Portugal para dois concertos nit.pt",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "nit.pt",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWU1FbW1yaGpxdGhlSTRvb3NLLWJQcW9kb1BBN251YXMyT1lMdWN6YXhMNGlkMkVPYkZ1b1g4bU05WU0wQ0NKYmxLWmNLSDZzZU01WkhiVWV2VzBYQjRDTUlUR3FSR016ZS16S05HUWFEbnR1Zy1VTEpoWGFGTU0xZmhRNlpKQ0drUk13T04tMDFsMjVBRWZ4eWRITDRud1ppZFBfaVozSFRqYl9VM09uWA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "AMG Goes Ranking",
+    "t": "Sigh",
+    "src": "Angry Metal Guy",
+    "date": "3 Set",
+    "isoDate": "2026-09-03",
+    "timestamp": "2026-09-03T11:16:40+00:00",
+    "url": "https://www.angrymetalguy.com/amg-goes-ranking-sigh/",
+    "d": "A new release from Sigh means the AMG staffers needed to do a ranking. We did it for YOU. The post AMG Goes Ranking – Sigh appeared first on Angry Metal Guy .",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "amg goes ranking|sigh",
     "kind": "review",
     "section": "rev"
   },
@@ -2103,17 +2878,17 @@
     "section": "pt"
   },
   {
-    "title": "Primeira cantora trans de Portugal, Patrícia Ribeiro prepara biografia e relembra 6 anos na prisão: ‘Agradeço a Deus por ter sido presa’ - extra.globo.com",
-    "src": "extra.globo.com",
+    "title": "Primeira cantora trans de Portugal, Patrícia Ribeiro prepara biografia e relembra 6 anos na prisão: ‘Agradeço a Deus por ter sido presa’ - Extra online",
+    "src": "Extra online",
     "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQU2RPNUxLRDBmNUktZDdQSGFJamZiZHIyTEpXSzNON21mV05Fa0JHd19sci1RWkR0aXdQUUJwYTM2NGtnUHJQaUQxRzdySEtCa3hmVzRzejRIckQ2THFnTndLVl9acDU3VEtEQ1EtSzlVenlDMDJUYW5qTVBMSnByd0RrVHdPREVPeUcwdXlSUHBXTk01RDlSSHYzbmRGZGxZcFUxd1AxN1Z2TGU2YlZmZ24wajlrLXlUMll3MzNqMEl1S0p3RFE5cUNSWjFhMmhaU3dzSkNNR1IzZnNrd2tyVGdhU0lkMldkclZYdmw4YVpHN0JTWnAteUhQczhDT0dqWDc5TG5fYm1VV1RsaDVoSVE2Y1FIVThlZjNkTlVxM0k4RHpCc25ZQm81WEjSAawCQVVfeXFMUFNkTzVMS0QwZjVJLWQ3UEhhSWpmYmRyMkxKV0szTjdtZldORWtCR3dfbHItUVpEdGl3UFFCcGEzNjRrZ1ByUGlEMUc3ckhLQmt4Zlc0c3o0SHJENkxxZ053S1ZfWnA1N1RLRENRLUs5VXp5QzAyVGFuak1QTEpwcndEa1R3T0RFT3lHMHV5UlBwV05NNUQ5Ukh2M25kRmRsWXBVMXdQMTdWdkxlNmJWZmduMGo5ay15VDJZdzMzajBJdUtKd0RROXFDUloxYTJoWlN3c0pDTUdSM2Zza3drclRnYVNJZDJXZHJWWHZsOGFaRzdCU1pwLXlIUHM4Q09Halg3OUxuX2JtVVdUbGg1aElRNmNRSFU4ZWYzZE5VcTNJOER6QnNuWUJvNVhI?oc=5",
     "timestamp": "2026-09-02T01:24:57+00:00",
     "isoDate": "2026-09-02",
     "date": "2 Set",
-    "d": "Primeira cantora trans de Portugal, Patrícia Ribeiro prepara biografia e relembra 6 anos na prisão: ‘Agradeço a Deus por ter sido presa’ extra.globo.com",
+    "d": "Primeira cantora trans de Portugal, Patrícia Ribeiro prepara biografia e relembra 6 anos na prisão: ‘Agradeço a Deus por ter sido presa’ Extra online",
     "category": "pt",
     "sources": [
       {
-        "name": "extra.globo.com",
+        "name": "Extra online",
         "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQU2RPNUxLRDBmNUktZDdQSGFJamZiZHIyTEpXSzNON21mV05Fa0JHd19sci1RWkR0aXdQUUJwYTM2NGtnUHJQaUQxRzdySEtCa3hmVzRzejRIckQ2THFnTndLVl9acDU3VEtEQ1EtSzlVenlDMDJUYW5qTVBMSnByd0RrVHdPREVPeUcwdXlSUHBXTk01RDlSSHYzbmRGZGxZcFUxd1AxN1Z2TGU2YlZmZ24wajlrLXlUMll3MzNqMEl1S0p3RFE5cUNSWjFhMmhaU3dzSkNNR1IzZnNrd2tyVGdhU0lkMldkclZYdmw4YVpHN0JTWnAteUhQczhDT0dqWDc5TG5fYm1VV1RsaDVoSVE2Y1FIVThlZjNkTlVxM0k4RHpCc25ZQm81WEjSAawCQVVfeXFMUFNkTzVMS0QwZjVJLWQ3UEhhSWpmYmRyMkxKV0szTjdtZldORWtCR3dfbHItUVpEdGl3UFFCcGEzNjRrZ1ByUGlEMUc3ckhLQmt4Zlc0c3o0SHJENkxxZ053S1ZfWnA1N1RLRENRLUs5VXp5QzAyVGFuak1QTEpwcndEa1R3T0RFT3lHMHV5UlBwV05NNUQ5Ukh2M25kRmRsWXBVMXdQMTdWdkxlNmJWZmduMGo5ay15VDJZdzMzajBJdUtKd0RROXFDUloxYTJoWlN3c0pDTUdSM2Zza3drclRnYVNJZDJXZHJWWHZsOGFaRzdCU1pwLXlIUHM4Q09Halg3OUxuX2JtVVdUbGg1aElRNmNRSFU4ZWYzZE5VcTNJOER6QnNuWUJvNVhI?oc=5"
       }
     ],
@@ -4019,7 +4794,7 @@
         "url": "https://artesonora.pt/o-indie-music-fest-2026volta-a-ser-o-epicentro-da-musica-independente/"
       },
       {
-        "name": "artesonora.pt",
+        "name": "arte sonora",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmhkbUNmSTNGXzlIMkpiT2VuLXNoY0xXSU5Pb0ZJamVFTXlKWEFZZU9QQXpDQm9BbHZFVU1JM1VsUTlFU1lXd1BVRU1RaGpJMFJGSy1HT2F6bGVtSllaQnk5VGlKODYwcTJoa2dfQkp0Q3dEU1VLT2IzZUMzQ0RGaTktbmdXWlRFQjNqWFdtVHdVVFRocHpZ?oc=5"
       }
     ],
@@ -4327,7 +5102,7 @@
     "title": "SCOTT IAN of ANTHRAX/SOD/MR BUNGLE Breaks Down The Best Of His Career",
     "src": "Metal Injection",
     "url": "https://metalinjection.net/video/scott-ian-of-anthrax-sod-mr-bungle-breaks-down-the-best-of-his-career",
-    "timestamp": "2026-09-02T18:13:54+00:00",
+    "timestamp": "2026-09-02T18:02:00+00:00",
     "isoDate": "2026-09-02",
     "date": "2 Set",
     "d": "Tune in for some never-heard-before stories. The post SCOTT IAN of ANTHRAX/SOD/MR BUNGLE Breaks Down The Best Of His Career appeared first on Metal Injection .",
@@ -4336,10 +5111,6 @@
       {
         "name": "Metal Injection",
         "url": "https://metalinjection.net/video/scott-ian-of-anthrax-sod-mr-bungle-breaks-down-the-best-of-his-career"
-      },
-      {
-        "name": "Metal Injection",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVVlULThzQlpSWTNzZ2xjX05pQW9MTkx4VlQzR211dS1laTFvc1FkakMzVWZqOGpCcXc3TjgwaWxJWkZVTHhYZWk3QmpXOUdpTGltWktMNzdoSm11aE5ELTFaanJhSG5PX2Exd1p5OFZLQmE2dnJrMmQtRHhRUTZoYUgtcU1kTlY1S2k2MHFFSG15RVhDY1MxQ1F1Q1JsQUczOUJWNQ?oc=5"
       }
     ],
     "status": "official",
@@ -6801,10 +7572,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -8371,6 +9142,56 @@
       {
         "name": "Agência Incomparáveis",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbFVjd05VcTJ0WG9ZNmEybGkyWWpNYTVhNXhlSVRmOVZPZUhxX2hmaE9ZZV9TQU9zQVBReWZZZkd0cnloX0xfR0ZYRzQ5cEo2OTFoODc2c2p6d2lSSWxWbmY1SlBHbXV0eDRtVVh1Q0c0Y0Y3WEVKNTVCUnZ4YzNQY3dldHg1QnZqc1Z1eHV4QWVGMlB4VUw0SXVZSXkydnR6d3BLMjhjc01fdGRMaTBvS20tYXZqUDg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Festival Estarreja Arte Urbana celebra dez anos com murais, instalações, visitas e música - Rádio Ria",
+    "src": "Rádio Ria",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWjhTcEpxZ2dFRFgtSkk1bE9fMTNZYnA0MklEV2tWcFFyRHdJSXlFbWthMGdLc3BYcHpFaDQyWUlZMDNPN1REUlZZUTdSQzlxc2JYUWZpYV9xclBDT01oa2RRZ2xobTdvNnYtWnhKeGdfOTBYX09DZGljdi1oX2dmZUpNMFYtWXZIS2VuaGpzOUVWM1NPV1NpclM1SFY3djY4RTBSWVc0NHJCb19FTGtOVXZYZHlfR3Y5RUxxdHpaQTU?oc=5",
+    "timestamp": "2026-09-02T15:45:00+00:00",
+    "isoDate": "2026-09-02",
+    "date": "2 Set",
+    "d": "Festival Estarreja Arte Urbana celebra dez anos com murais, instalações, visitas e música Rádio Ria",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Rádio Ria",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWjhTcEpxZ2dFRFgtSkk1bE9fMTNZYnA0MklEV2tWcFFyRHdJSXlFbWthMGdLc3BYcHpFaDQyWUlZMDNPN1REUlZZUTdSQzlxc2JYUWZpYV9xclBDT01oa2RRZ2xobTdvNnYtWnhKeGdfOTBYX09DZGljdi1oX2dmZUpNMFYtWXZIS2VuaGpzOUVWM1NPV1NpclM1SFY3djY4RTBSWVc0NHJCb19FTGtOVXZYZHlfR3Y5RUxxdHpaQTU?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Tradição, música e fé nas Festas em Honra de Nossa Senhora da Visitação na aldeia de Odeleite - regiao-sul.pt",
+    "src": "regiao-sul.pt",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ1ZucXdWOWhlMFlHRGpmbURvSWlzZUZ6XzYwVVI0Rm5YZ2dVT0haUFAwY2FYYmJWWHppT3FVYzVtYW12Mml6TWFwNmxwUmZseHhKNGFxY2luQ29MNkgxczh4NXF4TS13VUJIcUFfQmpMVmc2dVlzNUJ4SzZ3ZWtzN2plTFRDSjBONlJRSF9hRHV1TkhLc01WM0ZBZEsybVpUdkZuNDlUVHdVR3RXY0M1bDJGQV84WjV3bVlDMmJtUl82UENoNXN2ZkVVMy1fMElCNTJIUVVwbmtNekU?oc=5",
+    "timestamp": "2026-09-02T09:14:00+00:00",
+    "isoDate": "2026-09-02",
+    "date": "2 Set",
+    "d": "Tradição, música e fé nas Festas em Honra de Nossa Senhora da Visitação na aldeia de Odeleite regiao-sul.pt",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "regiao-sul.pt",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ1ZucXdWOWhlMFlHRGpmbURvSWlzZUZ6XzYwVVI0Rm5YZ2dVT0haUFAwY2FYYmJWWHppT3FVYzVtYW12Mml6TWFwNmxwUmZseHhKNGFxY2luQ29MNkgxczh4NXF4TS13VUJIcUFfQmpMVmc2dVlzNUJ4SzZ3ZWtzN2plTFRDSjBONlJRSF9hRHV1TkhLc01WM0ZBZEsybVpUdkZuNDlUVHdVR3RXY0M1bDJGQV84WjV3bVlDMmJtUl82UENoNXN2ZkVVMy1fMElCNTJIUVVwbmtNekU?oc=5"
       }
     ],
     "status": "official",
@@ -10620,19 +11441,15 @@
       {
         "name": "Pitchfork",
         "url": "https://pitchfork.com/story/yeah-yeah-yeahs-release-new-live-album-and-short-film/"
-      },
-      {
-        "name": "Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcUx1VkxqVlcxRzNlZFh0TWlHalhxUlVvLW1yR3lrN3p3ZjJZVDJkdkpYeE5nRFJTb01WYWZOb1FNSmVnNWhpZmlBSGVFWWZwOFZqOWM5ZGoxU1EwTkJJQjlKazlkdTYxaHZhSkFBVU1Dam5UUjhEYWRpMXRLVFl4N2tJaEM1eGV0RXFQVXUzOGR2dzVtN3BSTVZB?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -11544,7 +12361,7 @@
     "title": "FAKE NAMES, Featuring Members Of BAD RELIGION And REFUSED, Announces New Album 'Punk Ruins'",
     "src": "Blabbermouth",
     "url": "https://blabbermouth.net/news/fake-names-featuring-members-of-bad-religion-and-refused-announces-new-album-punk-ruins",
-    "timestamp": "2026-09-01T15:52:25+00:00",
+    "timestamp": "2026-09-01T15:51:42+00:00",
     "isoDate": "2026-09-01",
     "date": "1 Set",
     "d": "Punk mainstays FAKE NAMES are back with their third studio album and their first new music in three years, \"Punk Ruins\", due out on October 23 via Epitaph. Today they share the new song/video for \"Until It's Normal\", the guitar-driven album opener that airs frustration with those who believe in toda...",
@@ -11553,19 +12370,15 @@
       {
         "name": "Blabbermouth",
         "url": "https://blabbermouth.net/news/fake-names-featuring-members-of-bad-religion-and-refused-announces-new-album-punk-ruins"
-      },
-      {
-        "name": "blabbermouth.net",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVm81dm9Qb1Z3eWRmWUJDMktVNGdKaW5qMHBsVnhueW5CdVhYSkNoSGJLQ25lU3UyeGM1N0tuWGxnN2syc0RPLW83TnE0b3h5UXBxa0dKZmxHNmtBaUR5Z1BBX0xnMzQ3WFBhUXV0SHB6a1hnSlJaVC1MQ2RZZEpBSFpEVy1Fc0FiZUFPWGRBakNDQW9VTTVsTURxcXJvM1hOUDcwZkl6cGh5ekZEd3Jaa0NldUpfSWpM?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -12697,10 +13510,6 @@
       {
         "name": "Stereogum",
         "url": "https://stereogum.com/2510083/coachella-2027-headliners-reportedly-include-tame-impala-dua-lipa/news/"
-      },
-      {
-        "name": "Stereogum",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZDVuejc0dkoxVXpkS3d2eDRCS3hjQ1BWbzVuXzVmeDNDTlVNcjhTMTJsZkNwa1V4NGNKRE03ZGswTzg1SG5GNnVuRVYtN2E3WFZTbGM5SEFTMFMxNDBBSDJlZ2x2VUJWYmNZaUZqRm95VnVsdnQ4aEpvYVpFdnVEeXdwRGR1ejU4N3lTUTB6aWFZNmQwbG1BZjd4Ukw1VEdhM2c?oc=5"
       }
     ],
     "status": "rumor",
@@ -14109,17 +14918,17 @@
     "section": "buzz"
   },
   {
-    "title": "Cristais da Noite: de VFX para os palcos de Portugal - O Mirante",
-    "src": "O Mirante",
+    "title": "Cristais da Noite: de VFX para os palcos de Portugal - omirante.pt",
+    "src": "omirante.pt",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRVBGWE1jcmlZaTVtQ2tQVkg1YldEQ0RYRENxTnNINXNJSUhua1hqTjVVajYtbS1sOERCVDctS1VOcXpQMm5UV1FlbGU4eC1sampBVHJGdTkyZmRxMXN4UzdHbkctVmljTDlUZEJ0a2JUVWZDaVpOYmp4cTZSSVEyekNsallvbmNwN1FxVXQyMnRKMnZpN1hGMlRZeHZWOUhGZ3dOSS1ic05pRjA?oc=5",
     "timestamp": "2026-09-01T20:00:00+00:00",
     "isoDate": "2026-09-01",
     "date": "1 Set",
-    "d": "Cristais da Noite: de VFX para os palcos de Portugal O Mirante",
+    "d": "Cristais da Noite: de VFX para os palcos de Portugal omirante.pt",
     "category": "pt",
     "sources": [
       {
-        "name": "O Mirante",
+        "name": "omirante.pt",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRVBGWE1jcmlZaTVtQ2tQVkg1YldEQ0RYRENxTnNINXNJSUhua1hqTjVVajYtbS1sOERCVDctS1VOcXpQMm5UV1FlbGU4eC1sampBVHJGdTkyZmRxMXN4UzdHbkctVmljTDlUZEJ0a2JUVWZDaVpOYmp4cTZSSVEyekNsallvbmNwN1FxVXQyMnRKMnZpN1hGMlRZeHZWOUhGZ3dOSS1ic05pRjA?oc=5"
       }
     ],
@@ -15521,6 +16330,31 @@
       {
         "name": "Público",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPX01CR0JnclNGTjZXeGVoODY3REVZWDlleW5TWkYtNjBwTW5KWFR3Uk5XbW84N2dGWTEzdDJyMTRpS05IS2d1SzJiTWRuRV9jRjJKOVNxWGlCbUJzSVhMWUZrUzFxdXdCOFFjQnhKR0NZUUYwVkJoRGdrMkNoeEhmNnI1Wi1pRXVzSi1DWmFaSDZBSnNMMTdNNWRwbVBxYWluVFA5LVFoM1lYQXUxTjF2TjJxc1JLanR5RE0xYm4xRUt2djdfdGJEUXo5TjdBLUVE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Cinema ao ar livre em Oliveira do Hospital com exibição gratuita de “Playback” - Rádio Boa Nova - Oliveira - Rádio Boa Nova - Oliveira do Hospital",
+    "src": "Rádio Boa Nova - Oliveira do Hospital",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNXzNEbkdsMFB6RDFaMDg2MHpubzlKWVF0RDBaRWpTcnpFQm5aQzN5NFJGdUp4UUpnNVB4d2lsQlJjOWpBM0hQaFlrdzhmLWNYSUZMb3hqMjJLY3lwQmVRZUpxZ3U3alRUMDJIWmlCdVQ2TnMtWGJqbTZTckl6SzlQYTF2MFQtc1JkWnBJVldDUVk3M0UxQnhhdFpIUDFiaG5zMjM0Q0tyT3FqWVV5b2dB0gGvAUFVX3lxTE1fM0RuR2wwUHpEMVowODYwem5vOUpZUXREMFpFalNyekVCblpDM3k0UkZ1SnhRSmc1UHh3aWxCUmM5akEzSFBoWWt3OGYtY1hJRkxveGoyMktjeXBCZVFlSnFndTdqVFQwMkhaaUJ1VDZOcy1YYmptNlNySXpLOVBhMXYwVC1zUmRacElWV0NRWTczRTFCeGF0WkhQMWJobnMyMzRDS3JPcWpZVXlvZ0E?oc=5",
+    "timestamp": "2026-09-01T09:26:17+00:00",
+    "isoDate": "2026-09-01",
+    "date": "1 Set",
+    "d": "Cinema ao ar livre em Oliveira do Hospital com exibição gratuita de “Playback” - Rádio Boa Nova - Oliveira Rádio Boa Nova - Oliveira do Hospital",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Rádio Boa Nova - Oliveira do Hospital",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNXzNEbkdsMFB6RDFaMDg2MHpubzlKWVF0RDBaRWpTcnpFQm5aQzN5NFJGdUp4UUpnNVB4d2lsQlJjOWpBM0hQaFlrdzhmLWNYSUZMb3hqMjJLY3lwQmVRZUpxZ3U3alRUMDJIWmlCdVQ2TnMtWGJqbTZTckl6SzlQYTF2MFQtc1JkWnBJVldDUVk3M0UxQnhhdFpIUDFiaG5zMjM0Q0tyT3FqWVV5b2dB0gGvAUFVX3lxTE1fM0RuR2wwUHpEMVowODYwem5vOUpZUXREMFpFalNyekVCblpDM3k0UkZ1SnhRSmc1UHh3aWxCUmM5akEzSFBoWWt3OGYtY1hJRkxveGoyMktjeXBCZVFlSnFndTdqVFQwMkhaaUJ1VDZOcy1YYmptNlNySXpLOVBhMXYwVC1zUmRacElWV0NRWTczRTFCeGF0WkhQMWJobnMyMzRDS3JPcWpZVXlvZ0E?oc=5"
       }
     ],
     "status": "official",
