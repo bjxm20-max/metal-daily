@@ -156,7 +156,7 @@
     "isoDate": "2026-09-03",
     "date": "3 Set",
     "d": "5 American punk rock bands that belong on any all-time greatest list AudioPhix",
-    "category": "core",
+    "category": "metal",
     "sources": [
       {
         "name": "AudioPhix",
@@ -168,10 +168,10 @@
     "sourceCount": 1,
     "isBreaking": true,
     "isPT": false,
-    "isCore": true,
+    "isCore": false,
     "star": true,
     "kind": "news",
-    "section": "core"
+    "section": "news"
   },
   {
     "title": "Polaris returns with \"Without You\", first new single in three years - Chaoszine",
@@ -216,10 +216,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -787,15 +787,11 @@
       {
         "name": "Arte Sonora",
         "url": "https://artesonora.pt/simple-minds-apresentam-se-na-super-bock-arena-e-no-sagres-campo-pequeno-bilhetes/"
-      },
-      {
-        "name": "arte sonora",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOUNwR2tNd1ZLOGFja0wwZUVkZ2dWZjg2VWtSMEd6d0VEY1BHNndHaExZVU1YbU5VRjlNdmNaLTY2R0paYzI2RnVIRGV1TUtLZlNqSjVTQlM2blNIZUVieFljalhzZ2c4X043dVp6R0hHd3YyRlZIa01IVFpTSkhJZ3UtVWJNbkpfLURVdDRHUVJsSWhEVDFyVHhKREYwQ0NBVEVaNGllYw?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "isBreaking": true,
     "isPT": true,
     "isCore": false,
@@ -846,10 +842,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1685,6 +1681,811 @@
     "section": "rev"
   },
   {
+    "b": "Trevor McNevan",
+    "t": "Walk Thru Fire (feat. Tobymac)",
+    "g": "hiphop",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "3 Set",
+    "isoDate": "2026-09-03",
+    "url": "https://alterportal.net/newsongs/190194-trevor-mcnevan-walk-thru-fire-feat-tobymac-single-2026.html",
+    "d": "Pop Rock / Rap Rock",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/newsongs/190194-trevor-mcnevan-walk-thru-fire-feat-tobymac-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Iapetus",
+    "t": "The Mother Void",
+    "g": "death",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "3 Set",
+    "isoDate": "2026-09-03",
+    "url": "https://alterportal.net/newsongs/190196-iapetus-the-mother-void-single-2026.html",
+    "d": "Progressive Melodic Death Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/newsongs/190196-iapetus-the-mother-void-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Cevilain",
+    "t": "Infinite",
+    "g": "rock",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "3 Set",
+    "isoDate": "2026-09-03",
+    "url": "https://alterportal.net/alternative/190195-cevilain-infinite-single-2026.html",
+    "d": "Alternative Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190195-cevilain-infinite-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Blue Medusa",
+    "t": "Crocodile.",
+    "g": "core",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "3 Set",
+    "isoDate": "2026-09-03",
+    "url": "https://alterportal.net/core/190193-blue-medusa-crocodile-single-2026.html",
+    "d": "Melodic Metalcore / Female Vocal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/core/190193-blue-medusa-crocodile-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "WATCH: Bloody Teeth, Tarot Cards and Angels Adorn EMMA RUTH RUNDLE's \"God's Picture\"",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/new-music/emma-ruth-rundle-new-single-gods-picture-september-2026",
+    "timestamp": "2026-09-03T15:33:41+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "A rather ominous depiction of the world, but nonetheless impeccably accurate. The post WATCH: Bloody Teeth, Tarot Cards and Angels Adorn EMMA RUTH RUNDLE's \"God's Picture\" appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/new-music/emma-ruth-rundle-new-single-gods-picture-september-2026"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Hear SLEEP’s epic first album in 8 years ‘Hempispheres’",
+    "src": "Revolver",
+    "url": "https://www.revolvermag.com/music/hear-sleeps-epic-first-album-in-8-years-hempispheres/",
+    "timestamp": "2026-09-03T15:30:41+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "A doom-grooved trip from the reconfigured stoner trio",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Revolver",
+        "url": "https://www.revolvermag.com/music/hear-sleeps-epic-first-album-in-8-years-hempispheres/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "70000 TONS OF METAL Cruise Announces Public Sales And First Half Of 2027 Lineup",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/70000-tons-of-metal-cruise-announces-public-sales-and-first-half-of-2027-lineup",
+    "timestamp": "2026-09-03T14:34:21+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "70000 Tons Of Metal, the original, the world's biggest heavy metal cruise, just announced that public sales for the 2027 sailing will begin on Monday, September 7, 2026 at 12:00 p.m. EDT / 18:00 CET via 70000tons.com. Join the United Nations Of Heavy Metal at sea and experience heavy metal in an ent...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/70000-tons-of-metal-cruise-announces-public-sales-and-first-half-of-2027-lineup"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "INTERVIEW: CHAT PILE Won't Let You Ignore the End of the World",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/interviews/chat-pile-interview-2026-who-loves-the-sun",
+    "timestamp": "2026-09-03T14:13:34+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "We sat down with the Oklahoma noise rockers to talk their heavy new 'Who Loves the Sun,' why you need to be angry for part of your day, and more. The post INTERVIEW: CHAT PILE Won't Let You Ignore the End of the World appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/interviews/chat-pile-interview-2026-who-loves-the-sun"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Breaking Benjamin Kick off Fall 2026 Touring - Setlist + Video",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/breaking-benjamin-fall-2026-tour-setlist-video/",
+    "timestamp": "2026-09-03T14:02:08+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "Breaking Benjamin are back stateside kicking off their fall 2026 North American tour. See the opening night setlist and performance footage. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/breaking-benjamin-fall-2026-tour-setlist-video/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "IRON MAIDEN Announces Two Special Anniversary Releases",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/iron-maiden-announces-two-special-anniversary-releases",
+    "timestamp": "2026-09-03T13:48:50+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "Forty years since the release of IRON MAIDEN's multi-million-selling sixth album \"Somewhere In Time\", the appreciation and acclaim for its groundbreaking songs and production continues to grow. Featuring many songs which IRON MAIDEN has included in its live set in recent years, including \"Wasted Yea...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/iron-maiden-announces-two-special-anniversary-releases"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "TONY IOMMI On His Battle With Lymphoma: 'As Far As The Cancer Is Concerned, It's Stayed Away At The Moment'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/tony-iommi-on-his-battle-with-lymphoma-as-far-as-the-cancer-is-concerned-its-stayed-away-at-the-moment",
+    "timestamp": "2026-09-03T13:21:30+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "BLACK SABBATH guitarist Tony Iommi says that his cancer is still in remission, nearly 15 years after he was diagnosed with the early stages of lymphoma. The now-78-year-old musician revealed his cancer diagnosis in early 2012, shortly after SABBATH announced a reunion tour and album. He underwent tr...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/tony-iommi-on-his-battle-with-lymphoma-as-far-as-the-cancer-is-concerned-its-stayed-away-at-the-moment"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Scorpions Postpone All 2026 Tour Dates",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/scorpions-postpone-2026-tour-dates/",
+    "timestamp": "2026-09-03T12:34:49+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "The German hard rockers promise to return in 2027. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/scorpions-postpone-2026-tour-dates/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Scorpions Postpone All 2026 Tour Dates – Statement Issued - Loudwire",
+    "src": "Loudwire",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtVXl0bHd3cFBIN0JPSFlfT2lvWVdINkloclV1dUJVMmRLOWhwbDBZcDFFeHFfTW11NTZ4Sk1vcWZ4RDlSQnNSemJ5UHhCWlhvRDl5emhZaUFBWWdObUVMbTlQd0dqMDQ?oc=5",
+    "timestamp": "2026-09-03T12:34:49+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "Scorpions Postpone All 2026 Tour Dates – Statement Issued Loudwire",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtVXl0bHd3cFBIN0JPSFlfT2lvWVdINkloclV1dUJVMmRLOWhwbDBZcDFFeHFfTW11NTZ4Sk1vcWZ4RDlSQnNSemJ5UHhCWlhvRDl5emhZaUFBWWdObUVMbTlQd0dqMDQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "'70s Metal Band Saxon Releases New Song 51 Years After Forming - Yahoo",
+    "src": "Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFM5YkdnbkY2R2ZMNy1nd0pTV0k2S3h0dlNSVEdVNEhzNFRvTXFuSW5hU214eDB2N19hVTBFa2hIOExvZXRpR1V3b0k5ZVE3aVpOQWN2SHNWUlpNazZkcTFMYURZQ0hGUTNOR2xFNkN0MWVxQlZsWGtPMEpYdzZZUmdwelA2RXRUcXE5YmNOVVJPUnhPUFhIQmdjNA?oc=5",
+    "timestamp": "2026-09-03T12:00:00+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "'70s Metal Band Saxon Releases New Song 51 Years After Forming Yahoo",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFM5YkdnbkY2R2ZMNy1nd0pTV0k2S3h0dlNSVEdVNEhzNFRvTXFuSW5hU214eDB2N19hVTBFa2hIOExvZXRpR1V3b0k5ZVE3aVpOQWN2SHNWUlpNazZkcTFMYURZQ0hGUTNOR2xFNkN0MWVxQlZsWGtPMEpYdzZZUmdwelA2RXRUcXE5YmNOVVJPUnhPUFhIQmdjNA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "BRING ME THE HORIZON FOLLOW METALLICA, LINKIN PARK & SLIPKNOT INTO FORTNITE FESTIVAL - theriffreport.co.uk",
+    "src": "theriffreport.co.uk",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV3k5eEdQdE12MElOQjZaazMxMlpnb1NpTWVPc0ZlZ1E2d1RqMmJRamNLZ1FGeUdOMTQ4Uk5vV1RnM0FEcS03aWs1Z1l0aTJCMWtiRzJsWU9Ra0lUNDdUQXhTZ2FybnFqY3BHQmp3RWNyQVI2VVNDa0Z4alpBdFF6aEZ1M3FNRHI1TVVtRVRVbEkxUkt3c2JoUHBjQTJWZFN0dEtHclpuc1lKV3dEU0dvOFpsQ2todUJKVTItdll3R2NROFc1R21EVXJfYm9kOGFrV2ZpTVVMY21Ma0gwSldZ?oc=5",
+    "timestamp": "2026-09-03T10:47:01+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "BRING ME THE HORIZON FOLLOW METALLICA, LINKIN PARK & SLIPKNOT INTO FORTNITE FESTIVAL theriffreport.co.uk",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "theriffreport.co.uk",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV3k5eEdQdE12MElOQjZaazMxMlpnb1NpTWVPc0ZlZ1E2d1RqMmJRamNLZ1FGeUdOMTQ4Uk5vV1RnM0FEcS03aWs1Z1l0aTJCMWtiRzJsWU9Ra0lUNDdUQXhTZ2FybnFqY3BHQmp3RWNyQVI2VVNDa0Z4alpBdFF6aEZ1M3FNRHI1TVVtRVRVbEkxUkt3c2JoUHBjQTJWZFN0dEtHclpuc1lKV3dEU0dvOFpsQ2todUJKVTItdll3R2NROFc1R21EVXJfYm9kOGFrV2ZpTVVMY21Ma0gwSldZ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "42 Years Ago Today: Legendary Band Released One of the 'Greatest Metal Albums of All Time' - Men's Journal",
+    "src": "Men's Journal",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbUxUekRVRXRoc3N1dzhsZVd2STJqQTZBM1pVeFUwdndhRXRfdGN1WTVLb1BjQ0JsenlqRVlHa3NkWVNsa09seVhubkRrTUVXWHN5TExyMEZFdXotRTVOTHhscjdWY203NVlhR3VDM05jQ01HSWZDWXNFWlQtV01GR3BCQlNpMzdjRTJ0LUthdGNSRTRqMEliMXZ4OW9ZdVRnbnh0ZnlkN1JrbGZqT0x3SFhNcVpjZ3RVaTFxSk5MT1ZUUTluUU8wbQ?oc=5",
+    "timestamp": "2026-09-03T10:17:00+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "42 Years Ago Today: Legendary Band Released One of the 'Greatest Metal Albums of All Time' Men's Journal",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Men's Journal",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbUxUekRVRXRoc3N1dzhsZVd2STJqQTZBM1pVeFUwdndhRXRfdGN1WTVLb1BjQ0JsenlqRVlHa3NkWVNsa09seVhubkRrTUVXWHN5TExyMEZFdXotRTVOTHhscjdWY203NVlhR3VDM05jQ01HSWZDWXNFWlQtV01GR3BCQlNpMzdjRTJ0LUthdGNSRTRqMEliMXZ4OW9ZdVRnbnh0ZnlkN1JrbGZqT0x3SFhNcVpjZ3RVaTFxSk5MT1ZUUTluUU8wbQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Simple Minds: 3Arena Dublin – 17 May 2026 - Metal Planet Music",
+    "src": "Metal Planet Music",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbWJsV2F0d2NKbllVYnBWSjhqQVVsRlMtdXViTkFNUkM0ekc2dWNYSXBEeHE1LWNhUms5Zk9oZGxFa3JIOG9vcEI4bVJBNDZneXExN0pLRFlwb3JvMGFacUp1Z3ZtQlUwSTJ4QW9Na0xRc1A2aWhUaFV4c210Q3JUaXdn?oc=5",
+    "timestamp": "2026-09-03T09:07:01+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "Simple Minds: 3Arena Dublin – 17 May 2026 Metal Planet Music",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Planet Music",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbWJsV2F0d2NKbllVYnBWSjhqQVVsRlMtdXViTkFNUkM0ekc2dWNYSXBEeHE1LWNhUms5Zk9oZGxFa3JIOG9vcEI4bVJBNDZneXExN0pLRFlwb3JvMGFacUp1Z3ZtQlUwSTJ4QW9Na0xRc1A2aWhUaFV4c210Q3JUaXdn?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Laurie Vincent launches Big Truck: “In Soft Play it feels like I’m cosplaying my 18-year-old self – this sounds like the person I know”",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/laurie-vincent-interview-big-truck-new-band-buddhism-soft-play-3966819?utm_source=rss&utm_medium=rss&utm_campaign=laurie-vincent-interview-big-truck-new-band-buddhism-soft-play",
+    "timestamp": "2026-09-03T15:36:58+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "The artist tells NME about finding freedom and confidence as a frontman away from punk constraints, why new bands should keep it old-school, lessons learned from Buddhism and sobriety, and what the future holds for Soft Play The post Laurie Vincent launches Big Truck: “In Soft Play it feels like I’m cosplaying my 18-ye",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/laurie-vincent-interview-big-truck-new-band-buddhism-soft-play-3966819?utm_source=rss&utm_medium=rss&utm_campaign=laurie-vincent-interview-big-truck-new-band-buddhism-soft-play"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Shady Bug Announce New Album I wanted to be there: Hear “my night routine”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2510261/shady-bug-announce-new-album-i-wanted-to-be-there-hear-my-night-routine/music/",
+    "timestamp": "2026-09-03T15:33:06+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "Please welcome yet another cool band to the Julia's War Recordings roster. Julia's War, the Philadelphia label founded by They Are Gutting A Body Of Water frontman Doug Dulgarian, is on a pretty absurd winning streak right now, putting out strong recent records from acts like Total Wife, Mx Lonely, God Of War, and Mela",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2510261/shady-bug-announce-new-album-i-wanted-to-be-there-hear-my-night-routine/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Living Hour Announce New EP Magnet: Hear The Title Track",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2510254/living-hour-announce-new-ep-magnet-hear-the-title-track/music/",
+    "timestamp": "2026-09-03T14:55:29+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "Dreamy Winnipeg mainstays Living Hour are following up last year's excellent Internal Drone Infinity with a new EP. Magnet , which drops three weeks from today, comprises two new songs and two demos of Internal Drone Infinity tunes. It leads off with the title track, which dials back Living Hour's hard-hitting qualitie",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2510254/living-hour-announce-new-ep-magnet-hear-the-title-track/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Blatant “Sk8er Boi” & “Life Is A Highway” AI Ripoffs Cited In SOCAN’s Lawsuit Against Suno",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2510250/blatant-sk8er-boi-life-is-a-highway-ai-ripoffs-cited-in-socans-lawsuit-against-suno/news/",
+    "timestamp": "2026-09-03T14:53:01+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "Stella Lefty isn't the only one out here ripping off hit songs . Some people are trying to build entire billion-dollar tech businesses out of the practice. Right now, many, many parties are suing Suno, the leading generative AI music platform. Major labels Universal Music Group and Sony Music Entertainment are in activ",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2510250/blatant-sk8er-boi-life-is-a-highway-ai-ripoffs-cited-in-socans-lawsuit-against-suno/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Brazil introduces ‘Taylor Swift Law’ three years after fan died of extreme heat at gig",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/brazil-introduces-taylor-swift-law-three-years-after-fan-died-of-extreme-heat-at-gig-3966818?utm_source=rss&utm_medium=rss&utm_campaign=brazil-introduces-taylor-swift-law-three-years-after-fan-died-of-extreme-heat-at-gig",
+    "timestamp": "2026-09-03T14:49:01+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "The law cracks down on scalpers, and also requires venues to provide free drinking water to visitors The post Brazil introduces ‘Taylor Swift Law’ three years after fan died of extreme heat at gig appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/brazil-introduces-taylor-swift-law-three-years-after-fan-died-of-extreme-heat-at-gig-3966818?utm_source=rss&utm_medium=rss&utm_campaign=brazil-introduces-taylor-swift-law-three-years-after-fan-died-of-extreme-heat-at-gig"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Scorpions Postpone Remaining 2026 Dates, Including Las Vegas Residency",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/09/scorpions-postpone-2026-dates/",
+    "timestamp": "2026-09-03T14:42:27+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "The shows have been rescheduled for 2027. Scorpions Postpone Remaining 2026 Dates, Including Las Vegas Residency Langdon Hickman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/09/scorpions-postpone-2026-dates/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Armlock – “Half Time”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2510177/armlock-half-time/music/",
+    "timestamp": "2026-09-03T14:34:48+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "Australia's Armlock have been on the rise since their 2024 album Seashell Angel Lucky Charm . The duo toured with Snail Mail earlier this year, and Anxious named them as an influence for their latest song \" Don't Move .\" Now, they're back with \"Half Time.\" The post Armlock – “Half Time” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2510177/armlock-half-time/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "PlayStation fans disappointed with “lacklustre” State Of Play showcase",
+    "src": "NME",
+    "url": "https://www.nme.com/news/gaming-news/playstation-state-of-play-september-2026-big-annoucements-3966816?utm_source=rss&utm_medium=rss&utm_campaign=playstation-state-of-play-september-2026-big-annoucements",
+    "timestamp": "2026-09-03T14:25:21+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "“This is a state of desperation, not a State Of Play” The post PlayStation fans disappointed with “lacklustre” State Of Play showcase appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/gaming-news/playstation-state-of-play-september-2026-big-annoucements-3966816?utm_source=rss&utm_medium=rss&utm_campaign=playstation-state-of-play-september-2026-big-annoucements"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Stella Lefty Accused Of Copying A Third Hit Song",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2510239/stella-lefty-accused-of-copying-a-third-hit-song/news/",
+    "timestamp": "2026-09-03T14:11:29+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "Everyone's having a great time talking about the funniest new character on the pop landscape. The suddenly omnipresent country-adjacent folk-pop hitmaker Stella Lefty is otherwise known as Stella Lefkofsky, the daughter of Groupon's billionaire co-founder. That would already been a silly enough backstory, but it gets e",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2510239/stella-lefty-accused-of-copying-a-third-hit-song/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Noel Gallagher Seemingly Confirms Oasis Summer 2027 Tour",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/09/oasis-noel-gallagher-teases-summer-2027-tour/",
+    "timestamp": "2026-09-03T14:09:15+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "\"There’s no football tournament on next year, so we’ve got to do something in the summer, right?,” Gallagher said. Noel Gallagher Seemingly Confirms Oasis Summer 2027 Tour Paolo Ragusa",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/09/oasis-noel-gallagher-teases-summer-2027-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Read An Exclusive Excerpt From Andrew Sacher’s New Book Emo Revival",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2509613/read-an-exclusive-excerpt-from-andrew-sachers-new-book-emo-revival/columns/sounding-board/book-club/",
+    "timestamp": "2026-09-03T14:08:05+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "For years, Andrew Sacher served as the resident emo aficionado at BrooklynVegan , shedding light on up-and-coming bands that other sites weren't covering. He first announced his emo revival book back in 2023, and the anticipation has been ramping up in recent months as the publication date approaches. But just last mon",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2509613/read-an-exclusive-excerpt-from-andrew-sachers-new-book-emo-revival/columns/sounding-board/book-club/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Avalanches announce massive 31-song tracklist for new album ‘No Bad Memories’, featuring Rivers Cuomo, Karen O, Haley Joel Osment, Mike Patton, Barry Can’t Swim and many more",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/the-avalanches-tracklist-no-bad-memories-rivers-cuomo-karen-o-haley-joel-osment-mike-patton-barry-cant-swim-3966807?utm_source=rss&utm_medium=rss&utm_campaign=the-avalanches-tracklist-no-bad-memories-rivers-cuomo-karen-o-haley-joel-osment-mike-patton-barry-cant-swim",
+    "timestamp": "2026-09-03T13:55:32+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "Jamie xx, Yellow Magic Orchestra founder Haruomi Hosono, Suzanne Ciani and plenty more will also feature on the record The post The Avalanches announce massive 31-song tracklist for new album ‘No Bad Memories’, featuring Rivers Cuomo, Karen O, Haley Joel Osment, Mike Patton, Barry Can’t Swim and many more appeared firs",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/the-avalanches-tracklist-no-bad-memories-rivers-cuomo-karen-o-haley-joel-osment-mike-patton-barry-cant-swim-3966807?utm_source=rss&utm_medium=rss&utm_campaign=the-avalanches-tracklist-no-bad-memories-rivers-cuomo-karen-o-haley-joel-osment-mike-patton-barry-cant-swim"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "BABYMETAL Kick Off 2026 North American Tour with Halestorm: Video + Setlists",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/09/babymetal-kick-off-2026-north-american-tour-halestorm/",
+    "timestamp": "2026-09-03T13:46:35+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "It's the Japanese pop-metal act's biggest stateside tour ever. BABYMETAL Kick Off 2026 North American Tour with Halestorm: Video + Setlists Spencer Kaufman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/09/babymetal-kick-off-2026-north-american-tour-halestorm/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Rubber Band Gun Shares Surprise New Album Bloodwork Feat. Sam And Louise Sullivan & Star Moles",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2510233/rubber-band-gun-shares-surprise-new-album-bloodwork-feat-sam-and-louise-sullivan-star-moles/music/",
+    "timestamp": "2026-09-03T13:37:24+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "Within the independent music world, there's been a growing enthusiasm this year for Historic New Jersey, a recording collective and/or record label in Philadelphia making retro-tinted pop-rock, scrappy yet finely crafted, familiar but seemingly beamed in from an alternate timeline. The hype started to build in February",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2510233/rubber-band-gun-shares-surprise-new-album-bloodwork-feat-sam-and-louise-sullivan-star-moles/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Diiv’s New “Kid” Video Is Filmed by Zachary Cole Smith’s Kid",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/diivs-new-kid-video-is-filmed-by-zachary-cole-smiths-kid/",
+    "timestamp": "2026-09-03T13:34:49+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/diivs-new-kid-video-is-filmed-by-zachary-cole-smiths-kid/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ella Langley’s 2026 Tour: How to Get Tickets at Last-Minute",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/09/ella-langley-2026-tour-how-to-get-tickets/",
+    "timestamp": "2026-09-03T13:23:44+00:00",
+    "isoDate": "2026-09-03",
+    "date": "3 Set",
+    "d": "The country star is celebrating her breakout year with her biggest shows to-date. Learn how to get tickets. Ella Langley’s 2026 Tour: How to Get Tickets at Last-Minute Paolo Ragusa",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/09/ella-langley-2026-tour-how-to-get-tickets/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
     "b": "Philippe JOUMARD",
     "t": "Septembers Renhet",
     "g": "electro",
@@ -1805,7 +2606,7 @@
     "title": "Original Slipknot Vocalist Missed Band's Rise to Fame, and Now Works '40 to 60 Hours a Week' Like 'Most People Do': 'It Took a While, but I'm Fine With It' - Ultimate Guitar",
     "src": "Ultimate Guitar",
     "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQX3FEQWNvM3JuWFZYQ3Y4aVZDY0N0dy1JXzlBcFBSR3QyVkNmcDF6Wm1rbFZUdWM1ZngtS0QwZ2Y3OXk1dzFoVzRMY0c2eVRET1lBUklWdWd2OWFRbERhNW9JMDhyT3BVT085X21FWkh2QUxYTjc2b1ZvUTJBRHFVU3lTQUpPSmFETF9hV2ZYRXJUTXp6RmFySnJFY2U3VEVnVTNkV0dqTWFqWGFhVmo0M2JDOVpEdUJvRG9NU2JycVhPTkVBcGE5eG1DVWdISl9NSTFPemJpck9aQU9SZ1dYYVE5MHNpRHktWTctUGp2anB0VkJ6aEdxbTdVZWZJVDAtd2JBcmNGVzRkM241bXdNSzBjTHc4cmdydzZ4SU9RYXhid253andv?oc=5",
-    "timestamp": "2026-09-02T14:33:31+00:00",
+    "timestamp": "2026-09-02T14:36:48+00:00",
     "isoDate": "2026-09-02",
     "date": "2 Set",
     "d": "Original Slipknot Vocalist Missed Band's Rise to Fame, and Now Works '40 to 60 Hours a Week' Like 'Most People Do': 'It Took a While, but I'm Fine With It' Ultimate Guitar",
@@ -3030,10 +3831,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -4792,19 +5593,15 @@
       {
         "name": "Arte Sonora",
         "url": "https://artesonora.pt/o-indie-music-fest-2026volta-a-ser-o-epicentro-da-musica-independente/"
-      },
-      {
-        "name": "arte sonora",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUmhkbUNmSTNGXzlIMkpiT2VuLXNoY0xXSU5Pb0ZJamVFTXlKWEFZZU9QQXpDQm9BbHZFVU1JM1VsUTlFU1lXd1BVRU1RaGpJMFJGSy1HT2F6bGVtSllaQnk5VGlKODYwcTJoa2dfQkp0Q3dEU1VLT2IzZUMzQ0RGaTktbmdXWlRFQjNqWFdtVHdVVFRocHpZ?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -6130,7 +6927,7 @@
     "timestamp": "2026-09-02T16:24:53+00:00",
     "isoDate": "2026-09-02",
     "date": "2 Set",
-    "d": "Elon Musk, the richest and arguably shittiest man on the planet, is the subject of Musk , a new epic-length documentary from Alex Gibney, a filmmaker who won an Oscar for 2005's Enron: The Smartest Guys In The Room and whose other works include Going Clear: Scientology And The Prison Of Belief and The Inventor: Out For",
+    "d": "Elon Musk, the richest and arguably shittiest man on the planet, is the subject of Musk , a new epic-length documentary from Alex Gibney, a filmmaker who was Oscar-nominated for 2005's Enron: The Smartest Guys In The Room and whose other works include Going Clear: Scientology And The Prison Of Belief and The Inventor: ",
     "category": "general",
     "sources": [
       {
@@ -6908,7 +7705,7 @@
     "isoDate": "2026-09-02",
     "date": "2 Set",
     "d": "DS Interview: Adorn With the Metal GODCHAIN: An Interview with Chicago’s Heretic Metal Band Dying Scene",
-    "category": "core",
+    "category": "metal",
     "sources": [
       {
         "name": "Dying Scene",
@@ -6920,10 +7717,10 @@
     "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
-    "isCore": true,
+    "isCore": false,
     "star": false,
     "kind": "news",
-    "section": "core"
+    "section": "news"
   },
   {
     "title": "KING KRAKEN INTERVIEW: WELSH RIFF MONSTERS ON STEELHOUSE, NEW MUSIC, ALBUM THREE & WHY THEY’RE NEVER STOPPING! - theriffreport.co.uk",
@@ -7830,17 +8627,17 @@
     "section": "core"
   },
   {
-    "title": "Mad Max – Stories of Destiny (Rock of Angels Records / Reigning Phoenix Music) - deadrhetoric.com",
-    "src": "deadrhetoric.com",
+    "title": "Mad Max – Stories of Destiny (Rock of Angels Records / Reigning Phoenix Music) - Dead Rhetoric",
+    "src": "Dead Rhetoric",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWnNQc1pndU1aVWNrUzMzMl9lSVlPSDZ4YnZxRVRGOWV0OUtjMVZhWXI3dWRUVEk4QUhSLURnX1NENXBxaEozdnpqaGpzdUp4VVN2WGtrM1dMZjBVeVFrWDlPRVRZMno4TzI5VWNVcWdRaGltQUEwc2U5dTNzZElQTVZqakh3cFBWQVV6dDgtd3FsaDNWeXdpZ05XNV92QjczcW1SSHQxa3Ixdw?oc=5",
     "timestamp": "2026-09-02T23:01:47+00:00",
     "isoDate": "2026-09-02",
     "date": "2 Set",
-    "d": "Mad Max – Stories of Destiny (Rock of Angels Records / Reigning Phoenix Music) deadrhetoric.com",
+    "d": "Mad Max – Stories of Destiny (Rock of Angels Records / Reigning Phoenix Music) Dead Rhetoric",
     "category": "metal",
     "sources": [
       {
-        "name": "deadrhetoric.com",
+        "name": "Dead Rhetoric",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWnNQc1pndU1aVWNrUzMzMl9lSVlPSDZ4YnZxRVRGOWV0OUtjMVZhWXI3dWRUVEk4QUhSLURnX1NENXBxaEozdnpqaGpzdUp4VVN2WGtrM1dMZjBVeVFrWDlPRVRZMno4TzI5VWNVcWdRaGltQUEwc2U5dTNzZElQTVZqakh3cFBWQVV6dDgtd3FsaDNWeXdpZ05XNV92QjczcW1SSHQxa3Ixdw?oc=5"
       }
     ],
@@ -9203,6 +10000,131 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Barkasth – Silent Torment Review - metaladdicts.com",
+    "src": "metaladdicts.com",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sLWs2MWFLM3ZPY2pxWExhc05VLWxfbVdaT3JDWW1TQzRUZWxYMXNTOHpUNnV0R3NkUDdTUDF3VjMtWWo5Qi0xTEhkbUlTaWpVMnd3Tk1FLVl6SkVadWQ4dE44U21Ualk?oc=5",
+    "timestamp": "2026-09-02T23:29:15+00:00",
+    "isoDate": "2026-09-02",
+    "date": "2 Set",
+    "d": "Barkasth – Silent Torment Review metaladdicts.com",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "metaladdicts.com",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sLWs2MWFLM3ZPY2pxWExhc05VLWxfbVdaT3JDWW1TQzRUZWxYMXNTOHpUNnV0R3NkUDdTUDF3VjMtWWo5Qi0xTEhkbUlTaWpVMnd3Tk1FLVl6SkVadWQ4dE44U21Ualk?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "RANDY RHOADS Planned To Leave OZZY OSBOURNE’s Band To Pursue A Master’s Degree In Music, Says BOB DAISLEY - BraveWords",
+    "src": "BraveWords",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObDhTRW9GV3plNlMwblRNMkFkVEh4cGVNZHcxZWhQY1ZGOW9SWHd2T05jcVhpMmpqYXBsMmdEMENpbVFkRmhNYS1nbXlPa2VadVNCSTlUb0dkSlh0a0lQTEtSSXNIWXdhc2EzMkJsRGloRGpKRVY0dm1GNXozMGJTY3FPRmlVSjVhOVNrbldRUE1VRmRPbU9SRlgweVVkclpmazZqVFRxZkxhRGxYTzhOeHZPZ0swci12YV9leDlXMlNzRlNHYXZBSFgwb9IB0wFBVV95cUxQWVkxTnFGMlZlekt5WkF6Q01hQ29WYk1yT20tNzllektQVGZ6X05YZXlHMXR1b0RZbEpWZ1ZadmVxNEpPOFRjNXk4NHRxeXJaaXc0OWVmVXdHX1hPMGNTdnM4NUxUbWY1eXVVV3JaR0liQ2xsMTRLVDFIMnpoQndBUngzT2lUdGF4SEdsQ0ROYjR5NmtYREMtZkZ0RlMxRF9xUUpRWEpRQVBvbktYMXdNQ211bTNacHQzSXZPemwzTXNKajI5MC1mXzh0MUpkT2c5TDZr?oc=5",
+    "timestamp": "2026-09-02T16:38:36+00:00",
+    "isoDate": "2026-09-02",
+    "date": "2 Set",
+    "d": "RANDY RHOADS Planned To Leave OZZY OSBOURNE’s Band To Pursue A Master’s Degree In Music, Says BOB DAISLEY BraveWords",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "BraveWords",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObDhTRW9GV3plNlMwblRNMkFkVEh4cGVNZHcxZWhQY1ZGOW9SWHd2T05jcVhpMmpqYXBsMmdEMENpbVFkRmhNYS1nbXlPa2VadVNCSTlUb0dkSlh0a0lQTEtSSXNIWXdhc2EzMkJsRGloRGpKRVY0dm1GNXozMGJTY3FPRmlVSjVhOVNrbldRUE1VRmRPbU9SRlgweVVkclpmazZqVFRxZkxhRGxYTzhOeHZPZ0swci12YV9leDlXMlNzRlNHYXZBSFgwb9IB0wFBVV95cUxQWVkxTnFGMlZlekt5WkF6Q01hQ29WYk1yT20tNzllektQVGZ6X05YZXlHMXR1b0RZbEpWZ1ZadmVxNEpPOFRjNXk4NHRxeXJaaXc0OWVmVXdHX1hPMGNTdnM4NUxUbWY1eXVVV3JaR0liQ2xsMTRLVDFIMnpoQndBUngzT2lUdGF4SEdsQ0ROYjR5NmtYREMtZkZ0RlMxRF9xUUpRWEpRQVBvbktYMXdNQ211bTNacHQzSXZPemwzTXNKajI5MC1mXzh0MUpkT2c5TDZr?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Heavy metal band storms off stage during first song, abandons show: ‘Thank you and sorry’ - Yahoo",
+    "src": "Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXdCVXVkazlwXzdjaHlEbXhaeEZNWkhWQnlBSzhUTWFkc082bVJDT1BQazBVTldWN2lSLVZ2d284RnBmRjJTWnZoQnVvNWtHQnVxVzdLZy05Vk5ZZnZaaXdDWG5xallGNHBQTjNVVkt1R3loRzFlRm1iejZ1WDlyc0FJanBnajVqOV9XWVl0eV9zRFlhVXo2bQ?oc=5",
+    "timestamp": "2026-09-02T15:46:29+00:00",
+    "isoDate": "2026-09-02",
+    "date": "2 Set",
+    "d": "Heavy metal band storms off stage during first song, abandons show: ‘Thank you and sorry’ Yahoo",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXdCVXVkazlwXzdjaHlEbXhaeEZNWkhWQnlBSzhUTWFkc082bVJDT1BQazBVTldWN2lSLVZ2d284RnBmRjJTWnZoQnVvNWtHQnVxVzdLZy05Vk5ZZnZaaXdDWG5xallGNHBQTjNVVkt1R3loRzFlRm1iejZ1WDlyc0FJanBnajVqOV9XWVl0eV9zRFlhVXo2bQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Heavy metal band confirms hiatus: ‘It’s too tiresome’ - Yahoo",
+    "src": "Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXZ6M3pXUTdZMXVRbVM5MVdDX2VSQ2pScmZhckF4VW9XTVJfRG96YTBtblV1MXpGOUozbjdVVVBBMFNuS0NsNVZjNG1wMTFTMUZHTU0wX2xQTlFZZDUzS2I3My1fc2hITHhBUXREWGJvQWJXRDFadEJDTGJlQV96dWNWU29ldDBVVFVUSzZFd0JUaFVQa1VkLXR0TzhMNm8?oc=5",
+    "timestamp": "2026-09-02T12:14:08+00:00",
+    "isoDate": "2026-09-02",
+    "date": "2 Set",
+    "d": "Heavy metal band confirms hiatus: ‘It’s too tiresome’ Yahoo",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXZ6M3pXUTdZMXVRbVM5MVdDX2VSQ2pScmZhckF4VW9XTVJfRG96YTBtblV1MXpGOUozbjdVVVBBMFNuS0NsNVZjNG1wMTFTMUZHTU0wX2xQTlFZZDUzS2I3My1fc2hITHhBUXREWGJvQWJXRDFadEJDTGJlQV96dWNWU29ldDBVVFVUSzZFd0JUaFVQa1VkLXR0TzhMNm8?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "To The Grave Premiere New Single & Music Video - Metal Underground.com",
+    "src": "Metal Underground.com",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IN0w5aHY5SmlBZ1k5T2JMTGpDY0hEMTJ3Q1NmT0JHX292SkhCLWNMalVGUVoxQk45aXNEUGdudVprMVV2b0hFYm1rWHk0dmRJa05tTTN2ZWNlYzZiVkpqMm1EZ3JCbHFoVHRYSjBJRQ?oc=5",
+    "timestamp": "2026-09-02T05:22:00+00:00",
+    "isoDate": "2026-09-02",
+    "date": "2 Set",
+    "d": "To The Grave Premiere New Single & Music Video Metal Underground.com",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Underground.com",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IN0w5aHY5SmlBZ1k5T2JMTGpDY0hEMTJ3Q1NmT0JHX292SkhCLWNMalVGUVoxQk45aXNEUGdudVprMVV2b0hFYm1rWHk0dmRJa05tTTN2ZWNlYzZiVkpqMm1EZ3JCbHFoVHRYSjBJRQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
   },
   {
     "b": "VA",
@@ -16366,5 +17288,80 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "’90s Metal Band Announces Special Tour 36 Years After Forming in Finland - parade.com",
+    "src": "parade.com",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMWNoU1BFXzdCTlRjMVRmdmdTMklVYlFoamprU0x5dklvWUJmVFByRFI0Qlh1di1qSENhbTA2OVNpS1U1XzA3NzZxMFBLbHlmZS15cG9LUTltd2JKTjFOQ2l0YTdySUlvQWNhUElDR1RIQjBSMHdaV2pXcjZtYnl2YmdyOA?oc=5",
+    "timestamp": "2026-09-01T23:09:25+00:00",
+    "isoDate": "2026-09-01",
+    "date": "1 Set",
+    "d": "’90s Metal Band Announces Special Tour 36 Years After Forming in Finland parade.com",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "parade.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMWNoU1BFXzdCTlRjMVRmdmdTMklVYlFoamprU0x5dklvWUJmVFByRFI0Qlh1di1qSENhbTA2OVNpS1U1XzA3NzZxMFBLbHlmZS15cG9LUTltd2JKTjFOQ2l0YTdySUlvQWNhUElDR1RIQjBSMHdaV2pXcjZtYnl2YmdyOA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Metal Guitarist, AJ Rebollo, Quits After Label Releases “Jolene” Cover Without Dolly Parton - thoughtcatalog.com",
+    "src": "thoughtcatalog.com",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTU9sWU9ac0FPa2cxN2ZraHhhdFM1Q0xyeFJ5NHdsa05aX29CRjFkU1FSaXY2aHFCMUE4dDFYbVRmaHhEUVhhZGtET0xXMXJhVE5qZGdMNlVKYXUtbDBJNXB3ZTJ0bUdZeVJ1QWxaMjZFcWwxNWd0aWQ4Q2hhd2d2Ni1GWE5DTDNESUFPWG5qd05RT25fTzBCZW10aFd5SWdZVVZMVEU4MmlaUVdmUC02d1JENkxCZnVFRGRKWURqV3lEN0tVd1IxSWI4YjhKU0JKQ0pmQw?oc=5",
+    "timestamp": "2026-09-01T10:46:45+00:00",
+    "isoDate": "2026-09-01",
+    "date": "1 Set",
+    "d": "Metal Guitarist, AJ Rebollo, Quits After Label Releases “Jolene” Cover Without Dolly Parton thoughtcatalog.com",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "thoughtcatalog.com",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTU9sWU9ac0FPa2cxN2ZraHhhdFM1Q0xyeFJ5NHdsa05aX29CRjFkU1FSaXY2aHFCMUE4dDFYbVRmaHhEUVhhZGtET0xXMXJhVE5qZGdMNlVKYXUtbDBJNXB3ZTJ0bUdZeVJ1QWxaMjZFcWwxNWd0aWQ4Q2hhd2d2Ni1GWE5DTDNESUFPWG5qd05RT25fTzBCZW10aFd5SWdZVVZMVEU4MmlaUVdmUC02d1JENkxCZnVFRGRKWURqV3lEN0tVd1IxSWI4YjhKU0JKQ0pmQw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Garden of Stone releases second single 'Obsession' from upcoming album 'For the World of the Obsolete' - Popzine",
+    "src": "Popzine",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUM0V3NiU0t4UmtMMUlpWEVVR0doOGVPOUdZYUx0aDY5M0FEcndDbG9SVkluQmljeXo5NXhtZHRJS2Eyd2dObVc0TVBFTkNaMWtDUTM0VVUxa29PWm53b2dvNV9sR2N6cVd0U3RORXlQZm1nLUllZU5nMDhPNUMxTTE0VXZ0MTFNWGo1Qko2Wi1rUjhWaTFQbFYwMjd2Z1J3UXNLdjU0eURaMjlZQ0s0VmExQ3YwMFV5R2xYcEFSbw?oc=5",
+    "timestamp": "2026-09-01T07:19:17+00:00",
+    "isoDate": "2026-09-01",
+    "date": "1 Set",
+    "d": "Garden of Stone releases second single 'Obsession' from upcoming album 'For the World of the Obsolete' Popzine",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Popzine",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUM0V3NiU0t4UmtMMUlpWEVVR0doOGVPOUdZYUx0aDY5M0FEcndDbG9SVkluQmljeXo5NXhtZHRJS2Eyd2dObVc0TVBFTkNaMWtDUTM0VVUxa29PWm53b2dvNV9sR2N6cVd0U3RORXlQZm1nLUllZU5nMDhPNUMxTTE0VXZ0MTFNWGo1Qko2Wi1rUjhWaTFQbFYwMjd2Z1J3UXNLdjU0eURaMjlZQ0s0VmExQ3YwMFV5R2xYcEFSbw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
   }
 ]
