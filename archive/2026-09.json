@@ -67,10 +67,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -163,25 +163,25 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
   {
-    "title": "Former Every Time I Die Guitarist Andy Williams Collapses During Wrestling Show - Loudwire",
-    "src": "Loudwire",
+    "title": "Ex-Every Time I Die Guitarist Andy Williams Dead at 48: REPORT - loudwire.com",
+    "src": "loudwire.com",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBubUpIcGVqdjRETmczMWJxZzcyMU0zcm9aRHhlaU1YWDdrQlJDRTA4RXFpUUY0NmZTR1k5V1BLanppMW9iSlF1dTM5M2dsckg3eWt1WG5EdXpaTjVhTl9OSmp1OTVEVzhieHV5T25mUWtkVVMtaFE?oc=5",
-    "timestamp": "2026-09-06T03:49:17+00:00",
+    "timestamp": "2026-09-06T03:48:50+00:00",
     "isoDate": "2026-09-06",
     "date": "6 Set",
-    "d": "Former Every Time I Die Guitarist Andy Williams Collapses During Wrestling Show Loudwire",
+    "d": "Ex-Every Time I Die Guitarist Andy Williams Dead at 48: REPORT loudwire.com",
     "category": "general",
     "sources": [
       {
-        "name": "Loudwire",
+        "name": "loudwire.com",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBubUpIcGVqdjRETmczMWJxZzcyMU0zcm9aRHhlaU1YWDdrQlJDRTA4RXFpUUY0NmZTR1k5V1BLanppMW9iSlF1dTM5M2dsckg3eWt1WG5EdXpaTjVhTl9OSmp1OTVEVzhieHV5T25mUWtkVVMtaFE?oc=5"
       }
     ],
@@ -196,27 +196,31 @@
     "section": "buzz"
   },
   {
-    "title": "Ex-Every Time I Die Andy Williams Collapses at Wrestling Event",
+    "title": "Ex-Every Time I Die Guitarist Andy Williams Dead at 48: REPORT",
     "src": "Loudwire",
     "url": "https://loudwire.com/andy-williams-collapses-during-wrestling-show/",
-    "timestamp": "2026-09-06T03:47:04+00:00",
+    "timestamp": "2026-09-06T03:48:50+00:00",
     "isoDate": "2026-09-06",
     "date": "6 Set",
-    "d": "Williams was wrestling as The Butcher when he reportedly collapsed and required CPR. He was later transported to a local hospital. Continue reading…",
+    "d": "Williams was wrestling as The Butcher when he reportedly collapsed and required CPR. He was later transported to a local hospital, where he later died according to reports. Continue reading…",
     "category": "metal",
     "sources": [
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/andy-williams-collapses-during-wrestling-show/"
+      },
+      {
+        "name": "loudwire.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBubUpIcGVqdjRETmczMWJxZzcyMU0zcm9aRHhlaU1YWDdrQlJDRTA4RXFpUUY0NmZTR1k5V1BLanppMW9iSlF1dTM5M2dsckg3eWt1WG5EdXpaTjVhTl9OSmp1OTVEVzhieHV5T25mUWtkVVMtaFE?oc=5"
       }
     ],
     "status": "rumor",
     "confidence": "medium",
-    "sourceCount": 1,
+    "sourceCount": 2,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": false,
+    "star": true,
     "kind": "news",
     "section": "news"
   },
@@ -637,6 +641,331 @@
       {
         "name": "Magazine.HD",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNHBwWjExcW4xR1VCQmp4U3Vfdk04QkNBZGRwVUh2c1NCanJnNzNwWnYyX3BkYV9EQnhqYWFTWVhYR1BTVWpFWjYxcEROeWhLSm45MHd4UzBaRFZLQkdEdmxqMVhKTHpNLWw5dE1relpUVmZ3WktIX2NLeXZ3ckcyTENxUmMyUGFEaFI1Uy1MWkZYa3c2Q3l3Q0J3U1U2SzRzX1RhMHhZSk8tWm8yTVdySVhjWEx3dU8wQjNyVmF2dTZlalU1bU9HbFA4WDEyLWU4MHlDN0FxWUo2VDg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Andy Williams (Atomic Rule, Ex-Every Time I Die) Has Passed Away",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/09/06/news/andy-williams-atomic-rule-ex-every-time-i-die-has-passed-away/",
+    "timestamp": "2026-09-06T14:19:09+00:00",
+    "isoDate": "2026-09-06",
+    "date": "6 Set",
+    "d": "Absolutely terrible news. The post Andy Williams (Atomic Rule, Ex-Every Time I Die) Has Passed Away appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/09/06/news/andy-williams-atomic-rule-ex-every-time-i-die-has-passed-away/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Iconic Deathcore Band Release First New Music in 15 Years",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/all-shall-perish-first-new-music-15-years-kickstarter-campaign-comeback-album/",
+    "timestamp": "2026-09-06T14:08:22+00:00",
+    "isoDate": "2026-09-06",
+    "date": "6 Set",
+    "d": "Hint: They're considered a pioneer of deathcore! Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/all-shall-perish-first-new-music-15-years-kickstarter-campaign-comeback-album/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Iconic Deathcore Band Release First New Music in 15 Years, Launch Kickstarter Campaign for Comeback Album - loudwire.com",
+    "src": "loudwire.com",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeHo0UnQ0R1AwZzBxRk04dUNkNlRrUFhVanVGaVh1N2k1c2tNWHFzSkxFZ2RjQ0M2T3lMLVR0aEpSM1Z5V210RElmTUtvTEthZ1RIdjUtTjhwSVQwYUgyT1paY0VqQXgyaU9EVWlxOXFCQ21nOHlSTVByRnN1Q214WXoyMWhCek9WUGhZQjBvQmNFN1pzSjVWSWZhQ2wtbjhx?oc=5",
+    "timestamp": "2026-09-06T14:08:22+00:00",
+    "isoDate": "2026-09-06",
+    "date": "6 Set",
+    "d": "Iconic Deathcore Band Release First New Music in 15 Years, Launch Kickstarter Campaign for Comeback Album loudwire.com",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "loudwire.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeHo0UnQ0R1AwZzBxRk04dUNkNlRrUFhVanVGaVh1N2k1c2tNWHFzSkxFZ2RjQ0M2T3lMLVR0aEpSM1Z5V210RElmTUtvTEthZ1RIdjUtTjhwSVQwYUgyT1paY0VqQXgyaU9EVWlxOXFCQ21nOHlSTVByRnN1Q214WXoyMWhCek9WUGhZQjBvQmNFN1pzSjVWSWZhQ2wtbjhx?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "CLINT LOWERY Doesn't Try To Predict When SEVENDUST Will End: 'I Think God Will Do That For Me'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/clint-lowery-doesnt-try-to-predict-when-sevendust-will-end-i-think-god-will-do-that-for-me",
+    "timestamp": "2026-09-06T13:46:56+00:00",
+    "isoDate": "2026-09-06",
+    "date": "6 Set",
+    "d": "In a recent interview with Thinking About Guitar's Jonathan Graham, SEVENDUST guitarist Clint Lowery addressed drummer Morgan Rose's recent admission that he and his SEVENDUST bandmates were discussing the possibility of calling it quits two years ago, prior to beginning work on the group's fifteent...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/clint-lowery-doesnt-try-to-predict-when-sevendust-will-end-i-think-god-will-do-that-for-me"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Andy Williams, Former EVERY TIME I DIE Guitarist and Professional Wrestler, Dead at 48",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/andy-williams-dead-every-time-i-die-48",
+    "timestamp": "2026-09-06T13:39:45+00:00",
+    "isoDate": "2026-09-06",
+    "date": "6 Set",
+    "d": "Williams collapsed in the middle of a wrestling ring and was taken to a hospital where he passed. The post Andy Williams, Former EVERY TIME I DIE Guitarist and Professional Wrestler, Dead at 48 appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/andy-williams-dead-every-time-i-die-48"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Bad Bunny Wins His First Emmy Award",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/bad-bunny-wins-emmy-awards/",
+    "timestamp": "2026-09-06T13:55:34+00:00",
+    "isoDate": "2026-09-06",
+    "date": "6 Set",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/bad-bunny-wins-emmy-awards/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Andy Williams, Former Every Time I Die Guitarist and Pro Wrestler, Dead at 48",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/09/andy-williams-every-time-i-die-guitarist-wrestler-dead/",
+    "timestamp": "2026-09-06T13:50:42+00:00",
+    "isoDate": "2026-09-06",
+    "date": "6 Set",
+    "d": "The guitarist passed away after collapsing at a wrestling match in Pennsylvania. Andy Williams, Former Every Time I Die Guitarist and Pro Wrestler, Dead at 48 Spencer Kaufman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/09/andy-williams-every-time-i-die-guitarist-wrestler-dead/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Spirit Of Talk Talk Celebrates 40 Years Of The Colour Of Spring In London",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2510498/spirit-of-talk-talk-celebrates-40-years-of-the-colour-of-spring-in-london/news/",
+    "timestamp": "2026-09-06T13:42:31+00:00",
+    "isoDate": "2026-09-06",
+    "date": "6 Set",
+    "d": "Last night, at the O2 Forum Kentish Town in London, a bunch of musicians gathered to celebrate the late Mark Hollis and the 40th anniversary of The Colour Of Spring , the third studio from British new wave group Talk Talk. The Spirit Of Talk Talk event featured original band members Simon Brenner, Phil Ramocon, and Ian",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2510498/spirit-of-talk-talk-celebrates-40-years-of-the-colour-of-spring-in-london/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "This Texas Country Band Is Trying to Turn a Viral Collab With Luke Combs Into Longevity - Rolling Stone",
+    "src": "Rolling Stone",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalUyU0FsLVVIRWxkbGpTVXVOQU1FM0xUZE9xYjVoMjd6OU1SR0NYbFltR0JBeE5lZm1ldGlsYy1PdjBoQXZYOHdlZFJEdkxKeVRyR1JUNktZdDZJTDdXaFZYS3BFU3FHMW1pNk5Qb1JZYnBER1lQM2hBM2RTX2hvX1d3WS1COEdQblBmMDM1TFluV2xvZFNwRGxoOGFvRkJQd3JzUjBxY2ZwT0k?oc=5",
+    "timestamp": "2026-09-06T13:30:00+00:00",
+    "isoDate": "2026-09-06",
+    "date": "6 Set",
+    "d": "This Texas Country Band Is Trying to Turn a Viral Collab With Luke Combs Into Longevity Rolling Stone",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Rolling Stone",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOalUyU0FsLVVIRWxkbGpTVXVOQU1FM0xUZE9xYjVoMjd6OU1SR0NYbFltR0JBeE5lZm1ldGlsYy1PdjBoQXZYOHdlZFJEdkxKeVRyR1JUNktZdDZJTDdXaFZYS3BFU3FHMW1pNk5Qb1JZYnBER1lQM2hBM2RTX2hvX1d3WS1COEdQblBmMDM1TFluV2xvZFNwRGxoOGFvRkJQd3JzUjBxY2ZwT0k?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "HYOLISOO's Debut Demands: Helicopters, Skydiving, 30-Minute Stage — 'Music Core' Reportedly Ignored All - Kagit",
+    "src": "Kagit",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16UnhGNTJyeXBaY1NvVDBfYm1rc1QtQ2NOdHlxQmdIdnZXY0hQaUFaZ01SOU9XcGlxZWN2UWdKczdZT3hhSkxOX3ozcGxmUlBveHRMeXpmbE92Zw?oc=5",
+    "timestamp": "2026-09-06T06:53:03+00:00",
+    "isoDate": "2026-09-06",
+    "date": "6 Set",
+    "d": "HYOLISOO's Debut Demands: Helicopters, Skydiving, 30-Minute Stage — 'Music Core' Reportedly Ignored All Kagit",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Kagit",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16UnhGNTJyeXBaY1NvVDBfYm1rc1QtQ2NOdHlxQmdIdnZXY0hQaUFaZ01SOU9XcGlxZWN2UWdKczdZT3hhSkxOX3ozcGxmUlBveHRMeXpmbE92Zw?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "ACCEPT's WOLF HOFFMANN On A.I.-Generated Music And Artwork: 'The Quality Is Just Overwhelming'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/accepts-wolf-hoffmann-on-a-i-generated-music-and-artwork-the-quality-is-just-overwhelming",
+    "timestamp": "2026-09-06T12:50:11+00:00",
+    "isoDate": "2026-09-06",
+    "date": "6 Set",
+    "d": "In a new interview with Jorge Botas of Portugal's Metal Global, ACCEPT guitarist Wolf Hoffmann spoke about artificial intelligence and its growing use in the music creation process. He said (as transcribed by BLABBERMOUTH.NET): \"It's scary, man. I think it's a necessary development, because we all k...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/accepts-wolf-hoffmann-on-a-i-generated-music-and-artwork-the-quality-is-just-overwhelming"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Ivete Sangalo trouxe o samba da infância para os Jardins do Casino Estoril - nit.pt",
+    "src": "nit.pt",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaXpHS2YxUE1DVXA1aDFsV1dLTnowZzBlNXhHdWRqNjRoZlRiOTBWTWZ4WGxPdXZxX2pVQWYyb09wVEp5YmFNYTduYlEwNGtsZi05NWM5ZHptTm1RejhsclJ4UjdfNm04dEE1cThpWEl5dWlESVI1aFJaZHk0M0tQclZlc24waFFPRVJWSTR0VWQzQkxvdndkMHRrVjh0TmlOeDd1cmo5bjdpSXZx?oc=5",
+    "timestamp": "2026-09-06T09:32:00+00:00",
+    "isoDate": "2026-09-06",
+    "date": "6 Set",
+    "d": "Ivete Sangalo trouxe o samba da infância para os Jardins do Casino Estoril nit.pt",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "nit.pt",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaXpHS2YxUE1DVXA1aDFsV1dLTnowZzBlNXhHdWRqNjRoZlRiOTBWTWZ4WGxPdXZxX2pVQWYyb09wVEp5YmFNYTduYlEwNGtsZi05NWM5ZHptTm1RejhsclJ4UjdfNm04dEE1cThpWEl5dWlESVI1aFJaZHk0M0tQclZlc24waFFPRVJWSTR0VWQzQkxvdndkMHRrVjh0TmlOeDd1cmo5bjdpSXZx?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Um som “agressivo gostoso”, uma Maquina. imparável - Público",
+    "src": "Público",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWElKaXczaENFSllSbnNLZXktZFV2T2RaR25tbmtrVjZyLVRtTEtuZy1EMkpVem1Ha0RxMG5ka3dPUVdIY3lyOFBDdE9GTXRxUnA4U3J4UWliRlVZeGt4eFdpRzV5dU9qb0xrMkhPSmQxdktUYUxYMTY4dmhfTjJCUWhiV3VvRkQ2NzV2d3hPSHM1ejg2YVJGWWIzanFla29pdHVkMzYtQQ?oc=5",
+    "timestamp": "2026-09-06T09:00:00+00:00",
+    "isoDate": "2026-09-06",
+    "date": "6 Set",
+    "d": "Um som “agressivo gostoso”, uma Maquina. imparável Público",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Público",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWElKaXczaENFSllSbnNLZXktZFV2T2RaR25tbmtrVjZyLVRtTEtuZy1EMkpVem1Ha0RxMG5ka3dPUVdIY3lyOFBDdE9GTXRxUnA4U3J4UWliRlVZeGt4eFdpRzV5dU9qb0xrMkhPSmQxdktUYUxYMTY4dmhfTjJCUWhiV3VvRkQ2NzV2d3hPSHM1ejg2YVJGWWIzanFla29pdHVkMzYtQQ?oc=5"
       }
     ],
     "status": "official",
@@ -1530,17 +1859,17 @@
     "section": "news"
   },
   {
-    "title": "3 Rock Bands From the 1970s That Saw Multiple Members Go Solo - American Songwriter",
-    "src": "American Songwriter",
+    "title": "3 Rock Bands From the 1970s That Saw Multiple Members Go Solo - americansongwriter.com",
+    "src": "americansongwriter.com",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRjkxeV9PWTNEbGczTjg5VzBjTzZ1YU1mY2JoelNCRktIckFJZ1hCQVdZZjVyTXlqeWxDYmZNZHJYTXMtM1JiSXZMLVJiZ3hWWWJ6Q0tCQ254YnVzUXRIa2YyMzgwQWF6dGpjTl9rMTR4THVrZzRSVC1XSDFWelFrcGlhdDNfWTNLbnJrdGdwNmllM1dtdWU3Rw?oc=5",
     "timestamp": "2026-09-05T15:30:00+00:00",
     "isoDate": "2026-09-05",
     "date": "5 Set",
-    "d": "3 Rock Bands From the 1970s That Saw Multiple Members Go Solo American Songwriter",
+    "d": "3 Rock Bands From the 1970s That Saw Multiple Members Go Solo americansongwriter.com",
     "category": "metal",
     "sources": [
       {
-        "name": "American Songwriter",
+        "name": "americansongwriter.com",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRjkxeV9PWTNEbGczTjg5VzBjTzZ1YU1mY2JoelNCRktIckFJZ1hCQVdZZjVyTXlqeWxDYmZNZHJYTXMtM1JiSXZMLVJiZ3hWWWJ6Q0tCQ254YnVzUXRIa2YyMzgwQWF6dGpjTl9rMTR4THVrZzRSVC1XSDFWelFrcGlhdDNfWTNLbnJrdGdwNmllM1dtdWU3Rw?oc=5"
       }
     ],
@@ -1680,17 +2009,17 @@
     "section": "news"
   },
   {
-    "title": "Rock music world’s heartbreaking trend: Nearly 100 musicians have died in 2026 - mlive.com",
-    "src": "mlive.com",
+    "title": "Rock music world’s heartbreaking trend: Nearly 100 musicians have died in 2026 - MLive.com",
+    "src": "MLive.com",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYllRQ1lRRm1RLTNBOFZ0dmp3V3EwdGlIRXNtVEJUcmlmbUhxUWxSYnppU1g2anVJYXdFUHUyWHJXOXVENFhhdkNQbENKZm5TeGQ3V2xpZllpV0tGNFc0cnF4dnhqSnkyV3pGdDMycm9yc0E1MEw3amlHM0dqaGNyQk1xQlEtWVhidjNjTXQ4eUhCbW9wLXpJTExHQTZuNE1wd3pacmNlMXg0cnVDczBwYzRaMnA4Y2c?oc=5",
     "timestamp": "2026-09-05T10:00:00+00:00",
     "isoDate": "2026-09-05",
     "date": "5 Set",
-    "d": "Rock music world’s heartbreaking trend: Nearly 100 musicians have died in 2026 mlive.com",
+    "d": "Rock music world’s heartbreaking trend: Nearly 100 musicians have died in 2026 MLive.com",
     "category": "metal",
     "sources": [
       {
-        "name": "mlive.com",
+        "name": "MLive.com",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYllRQ1lRRm1RLTNBOFZ0dmp3V3EwdGlIRXNtVEJUcmlmbUhxUWxSYnppU1g2anVJYXdFUHUyWHJXOXVENFhhdkNQbENKZm5TeGQ3V2xpZllpV0tGNFc0cnF4dnhqSnkyV3pGdDMycm9yc0E1MEw3amlHM0dqaGNyQk1xQlEtWVhidjNjTXQ4eUhCbW9wLXpJTExHQTZuNE1wd3pacmNlMXg0cnVDczBwYzRaMnA4Y2c?oc=5"
       }
     ],
@@ -2725,17 +3054,17 @@
     "section": "buzz"
   },
   {
-    "title": "Country Legend Alan Jackson’s Final Show Reportedly Made History as the Highest-Grossing Concert Ever - yahoo.com",
-    "src": "yahoo.com",
+    "title": "Country Legend Alan Jackson’s Final Show Reportedly Made History as the Highest-Grossing Concert Ever - Yahoo",
+    "src": "Yahoo",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa0NsOER6eUsyVTlITWtKSEEyRUItTklON1BRbFhvQUNkR3V4SE53MVVQUWRHSC1yRzNpSjJCYkhUTVVuRGZwNkFSVlA1MEFfWXdZRzA2STRfRnpNNFNmMThjUldQQjZ4QmQ5dHdkR0NBVDZLb2ljUHpRYkVnREE1T0FWbkdkaUVUZF9uOWNNM0hYZHZ4a0N1SERHa1NSSzhf?oc=5",
     "timestamp": "2026-09-05T13:25:56+00:00",
     "isoDate": "2026-09-05",
     "date": "5 Set",
-    "d": "Country Legend Alan Jackson’s Final Show Reportedly Made History as the Highest-Grossing Concert Ever yahoo.com",
+    "d": "Country Legend Alan Jackson’s Final Show Reportedly Made History as the Highest-Grossing Concert Ever Yahoo",
     "category": "general",
     "sources": [
       {
-        "name": "yahoo.com",
+        "name": "Yahoo",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa0NsOER6eUsyVTlITWtKSEEyRUItTklON1BRbFhvQUNkR3V4SE53MVVQUWRHSC1yRzNpSjJCYkhUTVVuRGZwNkFSVlA1MEFfWXdZRzA2STRfRnpNNFNmMThjUldQQjZ4QmQ5dHdkR0NBVDZLb2ljUHpRYkVnREE1T0FWbkdkaUVUZF9uOWNNM0hYZHZ4a0N1SERHa1NSSzhf?oc=5"
       }
     ],
@@ -4174,17 +4503,17 @@
     "section": "pt"
   },
   {
-    "title": "Dia da Lusofonia volta às Fontaínhas - bantumen.com",
-    "src": "bantumen.com",
+    "title": "Dia da Lusofonia volta às Fontaínhas - Bantumen",
+    "src": "Bantumen",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmSktIcFdsVjViVUZhT3MwOFNYc0F1eUdSNGo5NDFyU3N1Sk9qSzRjYzAwZWFiZ2U5RW1sRVdrajVQdUQtbzdOY3lvZW5VMGxqSUJvU0hXRm9SYW93bUR2dVJKdzkzX2J1QXln?oc=5",
     "timestamp": "2026-09-04T00:55:33+00:00",
     "isoDate": "2026-09-04",
     "date": "4 Set",
-    "d": "Dia da Lusofonia volta às Fontaínhas bantumen.com",
+    "d": "Dia da Lusofonia volta às Fontaínhas Bantumen",
     "category": "pt",
     "sources": [
       {
-        "name": "bantumen.com",
+        "name": "Bantumen",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmSktIcFdsVjViVUZhT3MwOFNYc0F1eUdSNGo5NDFyU3N1Sk9qSzRjYzAwZWFiZ2U5RW1sRVdrajVQdUQtbzdOY3lvZW5VMGxqSUJvU0hXRm9SYW93bUR2dVJKdzkzX2J1QXln?oc=5"
       }
     ],
@@ -4384,17 +4713,17 @@
         "url": "https://loudwire.com/rock-metal-bands-albums-40-years-apart/"
       },
       {
-        "name": "Loudwire",
+        "name": "loudwire.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qM2JxZ05DTWRaVW5VVXJfM3hTRlZTUUtheXdJUEhiOHdST1Z4UzhXTk9uU2dEZ3N2eEFtREcwY01NaGxCeUZQdi1jQzVUdElEdUM4QU1YanpzaHNlTW5qalI4UlBITWFFakNROQ?oc=5"
       },
       {
-        "name": "1063thebuzz.com",
+        "name": "106.3 The Buzz",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xVXU1bENGdDBEZ3EzVG45SExxXzVJdTdyNk1zMDU0OXBFX1F0LXRJWkhtVW4tZnFFVHM5aHRGaS11ZUZfMmdtNm42bEkzV2U0aGVCWEVTSHhWWVJvVl9MYm9HQlY4R0xwZXpicmM0Y2VxcXFnQ1cyTVpSQXhjQQ?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 2,
+    "sourceCount": 3,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
@@ -4492,17 +4821,17 @@
         "url": "https://loudwire.com/2026-hard-rock-metal-album-release-calendar/"
       },
       {
-        "name": "Loudwire",
+        "name": "loudwire.com",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nTUp5MUNLYUxYdTdBNzBoMmt3ajZFcjhxSXl3MGJsWU1ra1U0UEoxa2pacEE4bGp1NHJtMkZmUFVUa2xteHZEbDlqZWpsTkx6bXhtLVVSTENISkZULWFrZnpzYS0zLUZXbXZqMy1RVVE3VlE?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 1,
+    "sourceCount": 2,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": false,
+    "star": true,
     "kind": "news",
     "section": "news"
   },
@@ -5374,17 +5703,17 @@
     "section": "news"
   },
   {
-    "title": "How Bob Dylan Inspired the Name of Legendary Heavy Metal Band Judas Priest - yahoo.com",
-    "src": "yahoo.com",
+    "title": "How Bob Dylan Inspired the Name of Legendary Heavy Metal Band Judas Priest - Yahoo",
+    "src": "Yahoo",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT1ltRTh0WXZad0pOazVhTXVJV21UalFpTGV5UFVEQzMyVVFBRVFFQnphNlFCMmZuWEduRUpzZy01cjBjOVZiRG5ndWpoQ21IdG9xNEEtbUkxMEdJWm15aFpKclItam1QaW43TlpCR29jQWMwYmVhcU4wcklaZnMyTUlRbFMtSk5DdV9nd09DdWp3RzROZnZGYS03TEk1SFcy?oc=5",
     "timestamp": "2026-09-04T10:41:23+00:00",
     "isoDate": "2026-09-04",
     "date": "4 Set",
-    "d": "How Bob Dylan Inspired the Name of Legendary Heavy Metal Band Judas Priest yahoo.com",
+    "d": "How Bob Dylan Inspired the Name of Legendary Heavy Metal Band Judas Priest Yahoo",
     "category": "metal",
     "sources": [
       {
-        "name": "yahoo.com",
+        "name": "Yahoo",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT1ltRTh0WXZad0pOazVhTXVJV21UalFpTGV5UFVEQzMyVVFBRVFFQnphNlFCMmZuWEduRUpzZy01cjBjOVZiRG5ndWpoQ21IdG9xNEEtbUkxMEdJWm15aFpKclItam1QaW43TlpCR29jQWMwYmVhcU4wcklaZnMyTUlRbFMtSk5DdV9nd09DdWp3RzROZnZGYS03TEk1SFcy?oc=5"
       }
     ],
@@ -6664,17 +6993,17 @@
     "section": "news"
   },
   {
-    "title": "25 Years Ago Today, This Heavy Metal Album Hit Shelves and Became One of Modern Rock’s Defining Records - Men's Journal",
-    "src": "Men's Journal",
+    "title": "25 Years Ago Today, This Heavy Metal Album Hit Shelves and Became One of Modern Rock’s Defining Records - mensjournal.com",
+    "src": "mensjournal.com",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNVFpbzlBMGpuYnNOeTlmWE5oeHdaOEdzdnRLNWtyc1hQTXJydlRVN1JEN3V6Z0tOeGtXY3lKR3JBVFd3VUY5RlRwNWZHanRJdFlFVE9zR2k0NEJDNFd3eV9wTU1uWVE1RHl5anV2WExIWWpZbUFubW9KNHMzakJyemRpRWpOei1BQjU0TElYWVZXVmdvbVN1dEZGN1luZWZFZHVURlJmaHFEUFc4SDctNWF0OEtqMzQ4SlRGcUlHQ2lDMEtCZUMtWXRNemZTVTJuV3VaUTZRNFJCOFU?oc=5",
     "timestamp": "2026-09-04T16:31:36+00:00",
     "isoDate": "2026-09-04",
     "date": "4 Set",
-    "d": "25 Years Ago Today, This Heavy Metal Album Hit Shelves and Became One of Modern Rock’s Defining Records Men's Journal",
+    "d": "25 Years Ago Today, This Heavy Metal Album Hit Shelves and Became One of Modern Rock’s Defining Records mensjournal.com",
     "category": "metal",
     "sources": [
       {
-        "name": "Men's Journal",
+        "name": "mensjournal.com",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNVFpbzlBMGpuYnNOeTlmWE5oeHdaOEdzdnRLNWtyc1hQTXJydlRVN1JEN3V6Z0tOeGtXY3lKR3JBVFd3VUY5RlRwNWZHanRJdFlFVE9zR2k0NEJDNFd3eV9wTU1uWVE1RHl5anV2WExIWWpZbUFubW9KNHMzakJyemRpRWpOei1BQjU0TElYWVZXVmdvbVN1dEZGN1luZWZFZHVURlJmaHFEUFc4SDctNWF0OEtqMzQ4SlRGcUlHQ2lDMEtCZUMtWXRNemZTVTJuV3VaUTZRNFJCOFU?oc=5"
       }
     ],
@@ -7685,10 +8014,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -7768,17 +8097,17 @@
     "section": "buzz"
   },
   {
-    "title": "Viral Masked Mystery Band President Release Debut Album – What Social Media Is Saying - Loudwire",
-    "src": "Loudwire",
+    "title": "Viral Masked Mystery Band President Release Debut Album – What Social Media Is Saying - loudwire.com",
+    "src": "loudwire.com",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WNEllLXhxX00wMlBxOVJXX2Fnb2FSbVZQZHIyc01rNktzM09JTHA1eF84aXdka0JYaWFtVHMxV1JCUTlrNHpYc0tMSXA3YUx4NUdPWW9FVUhBZXlGdGloVlV1SzFWX1FEYzcza2ln?oc=5",
     "timestamp": "2026-09-04T15:45:12+00:00",
     "isoDate": "2026-09-04",
     "date": "4 Set",
-    "d": "Viral Masked Mystery Band President Release Debut Album – What Social Media Is Saying Loudwire",
+    "d": "Viral Masked Mystery Band President Release Debut Album – What Social Media Is Saying loudwire.com",
     "category": "general",
     "sources": [
       {
-        "name": "Loudwire",
+        "name": "loudwire.com",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WNEllLXhxX00wMlBxOVJXX2Fnb2FSbVZQZHIyc01rNktzM09JTHA1eF84aXdka0JYaWFtVHMxV1JCUTlrNHpYc0tMSXA3YUx4NUdPWW9FVUhBZXlGdGloVlV1SzFWX1FEYzcza2ln?oc=5"
       }
     ],
@@ -7793,17 +8122,17 @@
     "section": "buzz"
   },
   {
-    "title": "“Playlist is starting to look like evidence”: Internet reacts as TikToker Stella Lefty has been named “Stella Thefty” over song copying allegations - Soap Central",
-    "src": "Soap Central",
+    "title": "“Playlist is starting to look like evidence”: Internet reacts as TikToker Stella Lefty has been named “Stella Thefty” over song copying allegations - soapcentral.com",
+    "src": "soapcentral.com",
     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNGlHNTN0bTZ1bENqVHNrcjYtX3dLSWN1MDY3QlVUalA4MmlLQ1JwVFFyc2pTYXR0SmE0V1dnSTFFWHJyZVJfMlpJM1doeHpyOV9wR2NYc1d1ZUI2NWZaSVMxTjVnZTduMXQyeWdsWkhuMGtsRmlBcVFMZUhqMUZrSHAxcFUyNG1maHF1OFJ5NER1ZWUtN0d0ZndNNno5aEhoaXFYdmg2UlJPemZ0bS1XaE1VSDl4RzBxWjNKQVhyQi1WRHFYWi13MGh3MTJuMnhBR3FUeWR3RG1RWE1KeWZRYXhwaDJ0NDBIc1BONklYYXdBVjBTQkh0UGFB?oc=5",
     "timestamp": "2026-09-04T15:18:34+00:00",
     "isoDate": "2026-09-04",
     "date": "4 Set",
-    "d": "“Playlist is starting to look like evidence”: Internet reacts as TikToker Stella Lefty has been named “Stella Thefty” over song copying allegations Soap Central",
+    "d": "“Playlist is starting to look like evidence”: Internet reacts as TikToker Stella Lefty has been named “Stella Thefty” over song copying allegations soapcentral.com",
     "category": "general",
     "sources": [
       {
-        "name": "Soap Central",
+        "name": "soapcentral.com",
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNGlHNTN0bTZ1bENqVHNrcjYtX3dLSWN1MDY3QlVUalA4MmlLQ1JwVFFyc2pTYXR0SmE0V1dnSTFFWHJyZVJfMlpJM1doeHpyOV9wR2NYc1d1ZUI2NWZaSVMxTjVnZTduMXQyeWdsWkhuMGtsRmlBcVFMZUhqMUZrSHAxcFUyNG1maHF1OFJ5NER1ZWUtN0d0ZndNNno5aEhoaXFYdmg2UlJPemZ0bS1XaE1VSDl4RzBxWjNKQVhyQi1WRHFYWi13MGh3MTJuMnhBR3FUeWR3RG1RWE1KeWZRYXhwaDJ0NDBIc1BONklYYXdBVjBTQkh0UGFB?oc=5"
       }
     ],
@@ -9430,17 +9759,17 @@
     "section": "buzz"
   },
   {
-    "title": "Mamma Mia! Brings Its 25th Anniversary Tour to the Academy of Music in Late September - northeasttimes.com",
-    "src": "northeasttimes.com",
+    "title": "Mamma Mia! Brings Its 25th Anniversary Tour to the Academy of Music in Late September - Northeast Times",
+    "src": "Northeast Times",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUxkYXpNY0JEcnZqNTRxc3RndE5tOUVkakxkM3dMY1ZILWNNUzRiZTdxUzU5aVQzaWQ5Z2dUM3lqOHBrazdlblVTWGUxeGFXbmNHSmZiVllLWlNpUmZOT1Awc1Jvd2ZPeGJvZFZiVTd5bVVoT2lhSkd4YlBqRnJfZTk4NUtHcm1PUG9xSVNsVTUwSnJzNFJWVTlSS2FuUnliTGtRZ0hpMEtZTTRYSERQdy1FUQ?oc=5",
     "timestamp": "2026-09-04T18:50:35+00:00",
     "isoDate": "2026-09-04",
     "date": "4 Set",
-    "d": "Mamma Mia! Brings Its 25th Anniversary Tour to the Academy of Music in Late September northeasttimes.com",
+    "d": "Mamma Mia! Brings Its 25th Anniversary Tour to the Academy of Music in Late September Northeast Times",
     "category": "general",
     "sources": [
       {
-        "name": "northeasttimes.com",
+        "name": "Northeast Times",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdUxkYXpNY0JEcnZqNTRxc3RndE5tOUVkakxkM3dMY1ZILWNNUzRiZTdxUzU5aVQzaWQ5Z2dUM3lqOHBrazdlblVTWGUxeGFXbmNHSmZiVllLWlNpUmZOT1Awc1Jvd2ZPeGJvZFZiVTd5bVVoT2lhSkd4YlBqRnJfZTk4NUtHcm1PUG9xSVNsVTUwSnJzNFJWVTlSS2FuUnliTGtRZ0hpMEtZTTRYSERQdy1FUQ?oc=5"
       }
     ],
@@ -9455,17 +9784,17 @@
     "section": "buzz"
   },
   {
-    "title": "UK Watchdog Reportedly Gearing Up Major Inquiry Into Live Nation’s Market Power - ticketnews.com",
-    "src": "ticketnews.com",
+    "title": "UK Watchdog Reportedly Gearing Up Major Inquiry Into Live Nation’s Market Power - TicketNews",
+    "src": "TicketNews",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMkM3bmRXb2xOT0FTa2lSN0ZSM1dGckI4N29SeVpmRWk0dVFiZHhMZFBjREZsR0xTSzJZclpaRnU1bWFTT00ybmJZVHJkcmZvcmotd0NIaFZEOGI2VzlpaHdjbE1ub0lId3NWMjdRS19oMlBrV3ctWFFSMUtjWlhGOVRRRTVrbW95QkNERnJNcTlqcDFCczh0cmo4R2JaRU5WU0Fsd21UaHhzT0NnNkdYck9Ick0?oc=5",
     "timestamp": "2026-09-04T18:15:27+00:00",
     "isoDate": "2026-09-04",
     "date": "4 Set",
-    "d": "UK Watchdog Reportedly Gearing Up Major Inquiry Into Live Nation’s Market Power ticketnews.com",
+    "d": "UK Watchdog Reportedly Gearing Up Major Inquiry Into Live Nation’s Market Power TicketNews",
     "category": "general",
     "sources": [
       {
-        "name": "ticketnews.com",
+        "name": "TicketNews",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMkM3bmRXb2xOT0FTa2lSN0ZSM1dGckI4N29SeVpmRWk0dVFiZHhMZFBjREZsR0xTSzJZclpaRnU1bWFTT00ybmJZVHJkcmZvcmotd0NIaFZEOGI2VzlpaHdjbE1ub0lId3NWMjdRS19oMlBrV3ctWFFSMUtjWlhGOVRRRTVrbW95QkNERnJNcTlqcDFCczh0cmo4R2JaRU5WU0Fsd21UaHhzT0NnNkdYck9Ick0?oc=5"
       }
     ],
@@ -9980,17 +10309,17 @@
     "section": "buzz"
   },
   {
-    "title": "A song composed of statements by Elon Musk - en.vijesti.me",
-    "src": "en.vijesti.me",
+    "title": "A song composed of statements by Elon Musk - vijesti.me",
+    "src": "vijesti.me",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaklmd3p4cTlIVzltNkMzaHkweGJ3bHB1czdCclBzbGZ5UW9WZ1VRamZtOFNGNG1LSUotRHM4MUY3allxeWNyeUJBeGpRQURKQTh6T2FXcEM1N1BxVVFMZDUwRGdEd1ZjNEQ2NXRKY29YY3BLVU9yTEt1WlJQN2VhUk9wZVNxYzlVcGfSAYABQVVfeXFMTnkzcE5RWHpfTzRfYzVWQ0VKS0pXQ3VKa1JaNmxUbE1WNVJldzVZWWdkYWFmdWdxZEIyaVVnWi1WM3N4cGtJRzVJM2JhdWNBdVdhZnAtSFJvUUM4VEc1VlBwMUc3bGhvZTVVMlpZRndKTU12X25PUTY3Wklsck5lYU4?oc=5",
     "timestamp": "2026-09-04T09:25:17+00:00",
     "isoDate": "2026-09-04",
     "date": "4 Set",
-    "d": "A song composed of statements by Elon Musk en.vijesti.me",
+    "d": "A song composed of statements by Elon Musk vijesti.me",
     "category": "general",
     "sources": [
       {
-        "name": "en.vijesti.me",
+        "name": "vijesti.me",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaklmd3p4cTlIVzltNkMzaHkweGJ3bHB1czdCclBzbGZ5UW9WZ1VRamZtOFNGNG1LSUotRHM4MUY3allxeWNyeUJBeGpRQURKQTh6T2FXcEM1N1BxVVFMZDUwRGdEd1ZjNEQ2NXRKY29YY3BLVU9yTEt1WlJQN2VhUk9wZVNxYzlVcGfSAYABQVVfeXFMTnkzcE5RWHpfTzRfYzVWQ0VKS0pXQ3VKa1JaNmxUbE1WNVJldzVZWWdkYWFmdWdxZEIyaVVnWi1WM3N4cGtJRzVJM2JhdWNBdVdhZnAtSFJvUUM4VEc1VlBwMUc3bGhvZTVVMlpZRndKTU12X25PUTY3Wklsck5lYU4?oc=5"
       }
     ],
@@ -10076,17 +10405,17 @@
     "section": "core"
   },
   {
-    "title": "Upcoming SNME Quavo Spotlight Reportedly A 'Soft Launch' For WWE Music Performances - yahoo.com",
-    "src": "yahoo.com",
+    "title": "Upcoming SNME Quavo Spotlight Reportedly A 'Soft Launch' For WWE Music Performances - Yahoo",
+    "src": "Yahoo",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZl9QOHVwU0Z1bGRRUWZ2M25vUnQ3eVZxTmZBSjFQeklrbGdKcXg5VTQ3Mi1HVzlHUGZIckRsSU40UDhkMkdlUklUWm1pRkJsSDJFSVVfb2NTTUEtMUUxLXdWQ2UtOU9pQi1uSFJGREhxX3FFS3hHSWNORGVFNTBkVEE4UG4xQVFlb0FlYjhZN2xpeEpYZEdDRXl1aHJHWE92aDFFZXM3TWhEdw?oc=5",
     "timestamp": "2026-09-04T16:04:14+00:00",
     "isoDate": "2026-09-04",
     "date": "4 Set",
-    "d": "Upcoming SNME Quavo Spotlight Reportedly A 'Soft Launch' For WWE Music Performances yahoo.com",
+    "d": "Upcoming SNME Quavo Spotlight Reportedly A 'Soft Launch' For WWE Music Performances Yahoo",
     "category": "general",
     "sources": [
       {
-        "name": "yahoo.com",
+        "name": "Yahoo",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZl9QOHVwU0Z1bGRRUWZ2M25vUnQ3eVZxTmZBSjFQeklrbGdKcXg5VTQ3Mi1HVzlHUGZIckRsSU40UDhkMkdlUklUWm1pRkJsSDJFSVVfb2NTTUEtMUUxLXdWQ2UtOU9pQi1uSFJGREhxX3FFS3hHSWNORGVFNTBkVEE4UG4xQVFlb0FlYjhZN2xpeEpYZEdDRXl1aHJHWE92aDFFZXM3TWhEdw?oc=5"
       }
     ],
@@ -10268,18 +10597,85 @@
     "section": "pt"
   },
   {
-    "title": "Warped Tour D.C.: Jimmy Eat World, Rise Against, Sleeping With Sirens - ticketnews.com",
-    "src": "ticketnews.com",
+    "title": "Warped Tour D.C.: Jimmy Eat World, Rise Against, Sleeping With Sirens - TicketNews",
+    "src": "TicketNews",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSTcwazI2U2thX2t6bk91U3Bld0NzOGNnZWhFWHJJSmxyY2N3aHZYOFpWSW1BRHA1dHpGb0xJY2pUczNPbWh1VlpkVjZtM292eVpSOTlGdDhsZ2pnQXJSQ3AtODFkUkdXOGNfcVc4ZE5JWW5BRS1lMEkxM0hRNmNtUWNIdWtEa29ibm9EbXQzV2hYbFJlYlJBNVZCRjVjY1VrXzU4?oc=5",
     "timestamp": "2026-09-04T08:55:05+00:00",
     "isoDate": "2026-09-04",
     "date": "4 Set",
-    "d": "Warped Tour D.C.: Jimmy Eat World, Rise Against, Sleeping With Sirens ticketnews.com",
+    "d": "Warped Tour D.C.: Jimmy Eat World, Rise Against, Sleeping With Sirens TicketNews",
     "category": "core",
     "sources": [
       {
-        "name": "ticketnews.com",
+        "name": "TicketNews",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSTcwazI2U2thX2t6bk91U3Bld0NzOGNnZWhFWHJJSmxyY2N3aHZYOFpWSW1BRHA1dHpGb0xJY2pUczNPbWh1VlpkVjZtM292eVpSOTlGdDhsZ2pnQXJSQ3AtODFkUkdXOGNfcVc4ZE5JWW5BRS1lMEkxM0hRNmNtUWNIdWtEa29ibm9EbXQzV2hYbFJlYlJBNVZCRjVjY1VrXzU4?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "b": "Vane Lily",
+    "t": "ROT",
+    "g": "indus",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "4 Set",
+    "isoDate": "2026-09-04",
+    "url": "https://musicbrainz.org/release-group/d7e524cd-e4ea-4fd2-873d-8fdfabbfb825",
+    "d": "industrial rock",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/d7e524cd-e4ea-4fd2-873d-8fdfabbfb825"
+      }
+    ],
+    "mbid": "d7e524cd-e4ea-4fd2-873d-8fdfabbfb825",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "DECO*27",
+    "t": "洗脳",
+    "g": "pop",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "4 Set",
+    "isoDate": "2026-09-04",
+    "url": "https://musicbrainz.org/release-group/cec719d7-d187-4fd9-954f-1be7414f59f7",
+    "d": "pop, rockabilly, swing, pop rock, jazz fusion",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/cec719d7-d187-4fd9-954f-1be7414f59f7"
+      }
+    ],
+    "mbid": "cec719d7-d187-4fd9-954f-1be7414f59f7",
+    "star": false,
+    "kind": "release",
+    "section": "main"
+  },
+  {
+    "title": "STEP 2 THIS sign with Triple B Records, release 'Break The Game' EP - Lambgoat",
+    "src": "Lambgoat",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUWZfXzlPNkNYd3hSaGJpOFUwdmFrZW0wVGl4ZEIwSWdRRmZ0SThJeldTTDluMUZoTVhrSy1sYjNGNVZUeDNqYVBRVHBJeWdWMTNPYU01NGJGNVJYUUNIWi1mOFJRbEFEa3RCSFVBU1NuQzlGc1JNb2VrN1owcENKaDBVLVR6cG1BblYwejU2MXhNTkNvYkpMQzYtU2NZQQ?oc=5",
+    "timestamp": "2026-09-04T07:26:00+00:00",
+    "isoDate": "2026-09-04",
+    "date": "4 Set",
+    "d": "STEP 2 THIS sign with Triple B Records, release 'Break The Game' EP Lambgoat",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Lambgoat",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUWZfXzlPNkNYd3hSaGJpOFUwdmFrZW0wVGl4ZEIwSWdRRmZ0SThJeldTTDluMUZoTVhrSy1sYjNGNVZUeDNqYVBRVHBJeWdWMTNPYU01NGJGNVJYUUNIWi1mOFJRbEFEa3RCSFVBU1NuQzlGc1JNb2VrN1owcENKaDBVLVR6cG1BblYwejU2MXhNTkNvYkpMQzYtU2NZQQ?oc=5"
       }
     ],
     "status": "official",
@@ -12720,17 +13116,17 @@
     "section": "core"
   },
   {
-    "title": "15 Times Hardcore Bands Gave Us the Best (And Most Unexpected) Cover Songs - Loudwire",
-    "src": "Loudwire",
+    "title": "15 Times Hardcore Bands Gave Us the Best (And Most Unexpected) Cover Songs - loudwire.com",
+    "src": "loudwire.com",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1adS1jek9YQ0gyclBQNXQ1V19iNnpjaUEyX2VHY2lsZVlyejY1UGk4dHMydHJtSXVsWkF0NXV3WEVZYUtxRmpFTGotMU1yTlAtU2tTMEFQMzJkblZYRldwNlBFcw?oc=5",
     "timestamp": "2026-09-03T17:30:45+00:00",
     "isoDate": "2026-09-03",
     "date": "3 Set",
-    "d": "15 Times Hardcore Bands Gave Us the Best (And Most Unexpected) Cover Songs Loudwire",
+    "d": "15 Times Hardcore Bands Gave Us the Best (And Most Unexpected) Cover Songs loudwire.com",
     "category": "core",
     "sources": [
       {
-        "name": "Loudwire",
+        "name": "loudwire.com",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1adS1jek9YQ0gyclBQNXQ1V19iNnpjaUEyX2VHY2lsZVlyejY1UGk4dHMydHJtSXVsWkF0NXV3WEVZYUtxRmpFTGotMU1yTlAtU2tTMEFQMzJkblZYRldwNlBFcw?oc=5"
       }
     ],
@@ -13050,17 +13446,17 @@
     "section": "core"
   },
   {
-    "title": "Deviated Instinct: Scavenger Gospel – Album Review - Louder Than War",
-    "src": "Louder Than War",
+    "title": "Deviated Instinct: Scavenger Gospel – Album Review - louderthanwar.com",
+    "src": "louderthanwar.com",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1VXB4T2dIdmphMy0wYnRsX1QwSFQ4X3IyY1d0ZkhDSmNva0QzblpNRHg5WVNRRHAzQzhMcjkxVnREQzZHSlB0d0ZDVTZ0TVl5aUhoU0MzcWtoQ01yVTJ4aWNOYkU3eVRSX293Z2x0UUR5SlVHdHZqLXdhbGhDVU0?oc=5",
     "timestamp": "2026-09-03T11:02:32+00:00",
     "isoDate": "2026-09-03",
     "date": "3 Set",
-    "d": "Deviated Instinct: Scavenger Gospel – Album Review Louder Than War",
+    "d": "Deviated Instinct: Scavenger Gospel – Album Review louderthanwar.com",
     "category": "core",
     "sources": [
       {
-        "name": "Louder Than War",
+        "name": "louderthanwar.com",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1VXB4T2dIdmphMy0wYnRsX1QwSFQ4X3IyY1d0ZkhDSmNva0QzblpNRHg5WVNRRHAzQzhMcjkxVnREQzZHSlB0d0ZDVTZ0TVl5aUhoU0MzcWtoQ01yVTJ4aWNOYkU3eVRSX293Z2x0UUR5SlVHdHZqLXdhbGhDVU0?oc=5"
       }
     ],
@@ -14000,17 +14396,17 @@
     "section": "pt"
   },
   {
-    "title": "Portugal: Salvador Sobral anuncia regresso ao Spotify após vários meses de boicote - escportugal.pt",
-    "src": "escportugal.pt",
+    "title": "Portugal: Salvador Sobral anuncia regresso ao Spotify após vários meses de boicote - ESC PORTUGAL",
+    "src": "ESC PORTUGAL",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vMFBKZTlFaWEydDBuc09QWDBWdEF5Y0RWZmw0Q2lUcXh2YnZ1ZnV4cGNKUVB3UlY4clhiOW1BemRJTFBqSVJ1LVpydDFNTjNXR1RqLUdXRWVUT1pTcGZWYzVvY09DZ0lhTjVzblZiNENzRHc1aWZCXzloUFk?oc=5",
     "timestamp": "2026-09-03T15:12:00+00:00",
     "isoDate": "2026-09-03",
     "date": "3 Set",
-    "d": "Portugal: Salvador Sobral anuncia regresso ao Spotify após vários meses de boicote escportugal.pt",
+    "d": "Portugal: Salvador Sobral anuncia regresso ao Spotify após vários meses de boicote ESC PORTUGAL",
     "category": "pt",
     "sources": [
       {
-        "name": "escportugal.pt",
+        "name": "ESC PORTUGAL",
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vMFBKZTlFaWEydDBuc09QWDBWdEF5Y0RWZmw0Q2lUcXh2YnZ1ZnV4cGNKUVB3UlY4clhiOW1BemRJTFBqSVJ1LVpydDFNTjNXR1RqLUdXRWVUT1pTcGZWYzVvY09DZ0lhTjVzblZiNENzRHc1aWZCXzloUFk?oc=5"
       }
     ],
@@ -14540,17 +14936,17 @@
     "section": "news"
   },
   {
-    "title": "Ex-Turnstile Guitarist to Face Competency Hearing in Attempted Murder Case - Loudwire",
-    "src": "Loudwire",
+    "title": "Ex-Turnstile Guitarist to Face Competency Hearing in Attempted Murder Case - loudwire.com",
+    "src": "loudwire.com",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMDIxbk5Ydy1mbWFxb2Vxa3RmT1dBbFN5cWRfclUxdWIzeFh3RnQyUDhyMkxmVUpaTnhSa1g0T1lRSm1QTUQwOFNpVklCdGNOV19xaE5leGlvWlRmcXp3eThiY0tKbHpqN0NsZ0Y3RDdXOENOTHc1b253Ny1TeEo4ZXNSWG1RbWR6TzM2S1E2NFU?oc=5",
     "timestamp": "2026-09-03T17:18:42+00:00",
     "isoDate": "2026-09-03",
     "date": "3 Set",
-    "d": "Ex-Turnstile Guitarist to Face Competency Hearing in Attempted Murder Case Loudwire",
+    "d": "Ex-Turnstile Guitarist to Face Competency Hearing in Attempted Murder Case loudwire.com",
     "category": "metal",
     "sources": [
       {
-        "name": "Loudwire",
+        "name": "loudwire.com",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMDIxbk5Ydy1mbWFxb2Vxa3RmT1dBbFN5cWRfclUxdWIzeFh3RnQyUDhyMkxmVUpaTnhSa1g0T1lRSm1QTUQwOFNpVklCdGNOV19xaE5leGlvWlRmcXp3eThiY0tKbHpqN0NsZ0Y3RDdXOENOTHc1b253Ny1TeEo4ZXNSWG1RbWR6TzM2S1E2NFU?oc=5"
       }
     ],
@@ -14565,17 +14961,17 @@
     "section": "news"
   },
   {
-    "title": "42 Years Ago Today: Legendary Band Released One of the 'Greatest Metal Albums of All Time' - yahoo.com",
-    "src": "yahoo.com",
+    "title": "42 Years Ago Today: Legendary Band Released One of the 'Greatest Metal Albums of All Time' - Yahoo",
+    "src": "Yahoo",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM3J2UFdSTTVvbkZxZUpUb2dpbDhmcFdzbWZySEtMeWxqbWRjNE1UU2ZlaTl5MVpGSl9hdFN6bkVGN1hyQWd1cWNnV3ZjUGtENDdESkp5Wk5uTmJQb0JJUndxT3JrNGFNNUNOcEl1TXcxVFRrLUwwNHJHR1p6aDVzblZPOXNXODJiX1JQU1pTaFd6a0ZRQ1BnekN3?oc=5",
     "timestamp": "2026-09-03T10:17:00+00:00",
     "isoDate": "2026-09-03",
     "date": "3 Set",
-    "d": "42 Years Ago Today: Legendary Band Released One of the 'Greatest Metal Albums of All Time' yahoo.com",
+    "d": "42 Years Ago Today: Legendary Band Released One of the 'Greatest Metal Albums of All Time' Yahoo",
     "category": "metal",
     "sources": [
       {
-        "name": "yahoo.com",
+        "name": "Yahoo",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM3J2UFdSTTVvbkZxZUpUb2dpbDhmcFdzbWZySEtMeWxqbWRjNE1UU2ZlaTl5MVpGSl9hdFN6bkVGN1hyQWd1cWNnV3ZjUGtENDdESkp5Wk5uTmJQb0JJUndxT3JrNGFNNUNOcEl1TXcxVFRrLUwwNHJHR1p6aDVzblZPOXNXODJiX1JQU1pTaFd6a0ZRQ1BnekN3?oc=5"
       }
     ],
@@ -15700,17 +16096,17 @@
     "section": "news"
   },
   {
-    "title": "Show do Sepultura no Rock in Rio 2026 não contará com clássicos da banda - Wikimetal",
-    "src": "Wikimetal",
+    "title": "Show do Sepultura no Rock in Rio 2026 não contará com clássicos da banda - wikimetal.com.br",
+    "src": "wikimetal.com.br",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOU5QaDRYMUVWbVJCNExjODNEY0ZUQXRNeEtFeExUN1FlSzZYM0dDOXJwMS0tSlpobkE0VllOZTU3QlFRZjZXMGV5SGdtV21sUVlMSU1jRHFYdGJNdHN3dUp6LWhpZ0drLUs1a1lVbWhTVV9KMkFybk5aa19OekJWZ3FWR3oxRGcwNUg5eVlhV3dLUkdPaEk4aGJvUndLdUxKcHY00gGoAUFVX3lxTE8yRHBaT3V0OE1neDJ5QUUzMHl3R2hnVm54YW1CZUZVTWsxT0I3eE8xc2U5VXlZcWtMUHdVNzMzX05SbzJZaloxNzQ5MXBJVGtkRkpFbTQ1cFNwMGpidHAyaWtGbUx0cDg2VEZZQUpyLWMwdWRudGlDTDlzUGJSSHVFbFVyZzFYd1BBdTVvNnZfbE53MjVuaXBtZmRqQjhEeW1JTkppb2MtZg?oc=5",
     "timestamp": "2026-09-03T22:13:54+00:00",
     "isoDate": "2026-09-03",
     "date": "3 Set",
-    "d": "Show do Sepultura no Rock in Rio 2026 não contará com clássicos da banda Wikimetal",
+    "d": "Show do Sepultura no Rock in Rio 2026 não contará com clássicos da banda wikimetal.com.br",
     "category": "metal",
     "sources": [
       {
-        "name": "Wikimetal",
+        "name": "wikimetal.com.br",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOU5QaDRYMUVWbVJCNExjODNEY0ZUQXRNeEtFeExUN1FlSzZYM0dDOXJwMS0tSlpobkE0VllOZTU3QlFRZjZXMGV5SGdtV21sUVlMSU1jRHFYdGJNdHN3dUp6LWhpZ0drLUs1a1lVbWhTVV9KMkFybk5aa19OekJWZ3FWR3oxRGcwNUg5eVlhV3dLUkdPaEk4aGJvUndLdUxKcHY00gGoAUFVX3lxTE8yRHBaT3V0OE1neDJ5QUUzMHl3R2hnVm54YW1CZUZVTWsxT0I3eE8xc2U5VXlZcWtMUHdVNzMzX05SbzJZaloxNzQ5MXBJVGtkRkpFbTQ1cFNwMGpidHAyaWtGbUx0cDg2VEZZQUpyLWMwdWRudGlDTDlzUGJSSHVFbFVyZzFYd1BBdTVvNnZfbE53MjVuaXBtZmRqQjhEeW1JTkppb2MtZg?oc=5"
       }
     ],
@@ -15764,7 +16160,7 @@
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYUw5YUdTYko5NjJLbDJnbzctbzV5MDNvbUtpU2J0ekJCNHN0dWxkRXBzVjlKcEZ6elM4WWthTTBvOThIbXJ4WUczeTNqNy1qQkl2c2RNY0lnVmVXNGFUMkt6VFZXNFNUbzJMSlVYcG1LaDZxTFpFZzh2V2V2UXVEaDRwOV9KX0tnOUJPZEgwWGRXT0dKTm9IVHZCU3hVWjR6SjVtQnl0ZmtsVVpLVS1ZVDk3bEhvaXA5MERGYWpWd3B5UjdvczIxRtIB3AFBVV95cUxOSzlhMmJteHc0NkpIVWsxVlBfV3dyam9xb00zUlBNREdncEFUNlVhS3VNRG5Ib0tCUzZ6V0tsVTFGWVNGb0NhZmEtemZIRmotd0hwajZUZmlmZU9Ed2Vab1dhNk92RUZGcFNMc2Y5b1I0cDg0bzZTejhqTnZSQjJNeWwzRWJDVXBhZTJHRG5mVllURzdmdGduMUEwX3MySDl1bDZJME5zeVZ0RFN2Ymg1NjJBODFDSVRlbm9ZWTVaMDJJV1JoclRWNkRJamJGUlIza1psLW1KYkdiekpN?oc=5"
       },
       {
-        "name": "yahoo.com",
+        "name": "Yahoo",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZXAyQkxUMEtwVlAybS1MeE9mRnh1RTByRHoyWUZFVndQZ0dXRGdCeDNJcDRhOVZvdm54VTd0TjlzbUU4Q3JsOTVZNE12bHkwS2wwSXQ3aTFlZkMzZGp3Z0k3N0hSR3BpLVV2OU1IWVFTZ3MxTzBsZlBhb0pOWGdWQmlyZnJCRTNlQVBlcmxOVV8yR2Z6QWdj?oc=5"
       }
     ],
@@ -16279,17 +16675,17 @@
     "section": "buzz"
   },
   {
-    "title": "Bring Me The Horizon x Fortnite Festival: Música dos BMTH Passa a Fazer Parte da Experiência de Jogo - impericon.com",
-    "src": "impericon.com",
+    "title": "Bring Me The Horizon x Fortnite Festival: Música dos BMTH Passa a Fazer Parte da Experiência de Jogo - Impericon",
+    "src": "Impericon",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmNaYkNVRGVsRlQ5TTNTSElLblp1TU9SZUJDMnZTVGY1OU1Hcmd0bjhyaFNNbHV1VE5wQTBYaWRYX29NTS10UUVYVkRtek9MTHZuQ3JhRnBKWDlGakQ0TWE5TjE3QzI4UEIwLUY2MTVwbFlsRHZPRFZ0Vk1tZXVkNFQya2ozX0RDV0pXSTNzMTloZGVSaHMzN2RabzZCR2hQMkoxTFE4cEVZS2pVcnRaWk9tanhnOTdFYWFiVGlFX3NVRDJHWVlPY2d1SFA?oc=5",
     "timestamp": "2026-09-03T15:59:31+00:00",
     "isoDate": "2026-09-03",
     "date": "3 Set",
-    "d": "Bring Me The Horizon x Fortnite Festival: Música dos BMTH Passa a Fazer Parte da Experiência de Jogo impericon.com",
+    "d": "Bring Me The Horizon x Fortnite Festival: Música dos BMTH Passa a Fazer Parte da Experiência de Jogo Impericon",
     "category": "pt",
     "sources": [
       {
-        "name": "impericon.com",
+        "name": "Impericon",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmNaYkNVRGVsRlQ5TTNTSElLblp1TU9SZUJDMnZTVGY1OU1Hcmd0bjhyaFNNbHV1VE5wQTBYaWRYX29NTS10UUVYVkRtek9MTHZuQ3JhRnBKWDlGakQ0TWE5TjE3QzI4UEIwLUY2MTVwbFlsRHZPRFZ0Vk1tZXVkNFQya2ozX0RDV0pXSTNzMTloZGVSaHMzN2RabzZCR2hQMkoxTFE4cEVZS2pVcnRaWk9tanhnOTdFYWFiVGlFX3NVRDJHWVlPY2d1SFA?oc=5"
       }
     ],
@@ -16767,17 +17163,17 @@
     "section": "news"
   },
   {
-    "title": "Concert review: Metal cover band Hairball provide big, noisy fun at MN State Fair Grandstand - twincities.com",
-    "src": "twincities.com",
+    "title": "Concert review: Metal cover band Hairball provide big, noisy fun at MN State Fair Grandstand - Pioneer Press",
+    "src": "Pioneer Press",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX2I4UEtpQzl4VGwwVmZTTk5NLU5GMHk3WUZGWFhITVQtWGM2d2RMZnpTT1NmMnVkMWFoNXZKUDV2REV5TXZoOC1EdWRQUENXeWs1YWpRb1VqQnNHU0tzclEwQzFaNU1qLWl2WlNWTWxXOGxzOGYtcWJyaWNBMTM0TWhTWjJBSXlQSEE4R0tUS3VteGQ0aWw0Rk9QLTZEcHBnTW5KZnp5LVZCdE1KOW93NUlScmpLVlRCYjRSY0hXOENvSUZNNWdWYw?oc=5",
     "timestamp": "2026-09-02T03:44:30+00:00",
     "isoDate": "2026-09-02",
     "date": "2 Set",
-    "d": "Concert review: Metal cover band Hairball provide big, noisy fun at MN State Fair Grandstand twincities.com",
+    "d": "Concert review: Metal cover band Hairball provide big, noisy fun at MN State Fair Grandstand Pioneer Press",
     "category": "metal",
     "sources": [
       {
-        "name": "twincities.com",
+        "name": "Pioneer Press",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX2I4UEtpQzl4VGwwVmZTTk5NLU5GMHk3WUZGWFhITVQtWGM2d2RMZnpTT1NmMnVkMWFoNXZKUDV2REV5TXZoOC1EdWRQUENXeWs1YWpRb1VqQnNHU0tzclEwQzFaNU1qLWl2WlNWTWxXOGxzOGYtcWJyaWNBMTM0TWhTWjJBSXlQSEE4R0tUS3VteGQ0aWw0Rk9QLTZEcHBnTW5KZnp5LVZCdE1KOW93NUlScmpLVlRCYjRSY0hXOENvSUZNNWdWYw?oc=5"
       }
     ],
@@ -22174,17 +22570,17 @@
     "section": "pt"
   },
   {
-    "title": "Argentina: “Club Portugués del Gran Buenos Aires” celebrou 48.º aniversário - Agência Incomparáveis",
-    "src": "Agência Incomparáveis",
+    "title": "Argentina: “Club Portugués del Gran Buenos Aires” celebrou 48.º aniversário - agenciaincomparaveis.com",
+    "src": "agenciaincomparaveis.com",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM3I5ZHItbkQxMS1BczU2UzhIQUtNU1B6cng0REptai11Y0dCVVJQTTRYOW5MVGRuNjFNanE4RWtQaVVEM2dLUVphZ25aQ2I3MXFzWm1KQ291RFJOWkV2Q1VWZkdRLUs1Xy1hWDl2bE9kdnlIVUpxQWRPTlNUeHZ5OUFmMngzTzIwd1RRSjNoYTJjTzB3TkEyZ3dhS1J0SmhEVWRtbW0yNnJ5b3Z2UjIw?oc=5",
     "timestamp": "2026-09-02T19:15:58+00:00",
     "isoDate": "2026-09-02",
     "date": "2 Set",
-    "d": "Argentina: “Club Portugués del Gran Buenos Aires” celebrou 48.º aniversário Agência Incomparáveis",
+    "d": "Argentina: “Club Portugués del Gran Buenos Aires” celebrou 48.º aniversário agenciaincomparaveis.com",
     "category": "pt",
     "sources": [
       {
-        "name": "Agência Incomparáveis",
+        "name": "agenciaincomparaveis.com",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM3I5ZHItbkQxMS1BczU2UzhIQUtNU1B6cng0REptai11Y0dCVVJQTTRYOW5MVGRuNjFNanE4RWtQaVVEM2dLUVphZ25aQ2I3MXFzWm1KQ291RFJOWkV2Q1VWZkdRLUs1Xy1hWDl2bE9kdnlIVUpxQWRPTlNUeHZ5OUFmMngzTzIwd1RRSjNoYTJjTzB3TkEyZ3dhS1J0SmhEVWRtbW0yNnJ5b3Z2UjIw?oc=5"
       }
     ],
@@ -24057,17 +24453,17 @@
     "section": "core"
   },
   {
-    "title": "New Hardcore Band Spotlight: HAND - No Echo",
-    "src": "No Echo",
+    "title": "New Hardcore Band Spotlight: HAND - noecho.net",
+    "src": "noecho.net",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jTk1tV1hVbXVBYmszTUJDNzl2dm9nekRUOERaS0xjREJva2YtV1FPbGZtaTM5YWJXVnFKVHNGa0gtYkZoMFBDUkRTcTRjT1M5Vy02YWFVU1lWTEo3ZXJpLTFYRWVZVzEzbVUtR1JDanJFVE1UQXhHcUZQQQ?oc=5",
     "timestamp": "2026-09-02T07:00:00+00:00",
     "isoDate": "2026-09-02",
     "date": "2 Set",
-    "d": "New Hardcore Band Spotlight: HAND No Echo",
+    "d": "New Hardcore Band Spotlight: HAND noecho.net",
     "category": "core",
     "sources": [
       {
-        "name": "No Echo",
+        "name": "noecho.net",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jTk1tV1hVbXVBYmszTUJDNzl2dm9nekRUOERaS0xjREJva2YtV1FPbGZtaTM5YWJXVnFKVHNGa0gtYkZoMFBDUkRTcTRjT1M5Vy02YWFVU1lWTEo3ZXJpLTFYRWVZVzEzbVUtR1JDanJFVE1UQXhHcUZQQQ?oc=5"
       }
     ],
@@ -24961,17 +25357,17 @@
     "section": "pt"
   },
   {
-    "title": "PISS announce debut album ‘you made me / skin on linen’ alongside single ‘time loop at hot slit’ - diymag.com",
-    "src": "diymag.com",
+    "title": "PISS announce debut album ‘you made me / skin on linen’ alongside single ‘time loop at hot slit’ - DIY Magazine",
+    "src": "DIY Magazine",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV25jQTJtd2RxMFpBel9lSC1ZOEVFcmNhc0NSVE4tTDdMVHNxbVZwdmZ4V0dUVlR5XzF2QllFQ29xN05ZOUZBLVlPelRUVkN5Z0FEZ25RVUtRTTVLRkd6RG1NWGtwTG5iNDZPdlpzZ0w0aE1vaTJ3SDgxRTRwekVyNXdyTzEzWU9zaENyNW5SaWRwVVQtU0paTGYyZ284M1FpTjRpVC1KNC1yOVlnM05nbTJjMUo?oc=5",
     "timestamp": "2026-09-02T16:11:00+00:00",
     "isoDate": "2026-09-02",
     "date": "2 Set",
-    "d": "PISS announce debut album ‘you made me / skin on linen’ alongside single ‘time loop at hot slit’ diymag.com",
+    "d": "PISS announce debut album ‘you made me / skin on linen’ alongside single ‘time loop at hot slit’ DIY Magazine",
     "category": "core",
     "sources": [
       {
-        "name": "diymag.com",
+        "name": "DIY Magazine",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV25jQTJtd2RxMFpBel9lSC1ZOEVFcmNhc0NSVE4tTDdMVHNxbVZwdmZ4V0dUVlR5XzF2QllFQ29xN05ZOUZBLVlPelRUVkN5Z0FEZ25RVUtRTTVLRkd6RG1NWGtwTG5iNDZPdlpzZ0w0aE1vaTJ3SDgxRTRwekVyNXdyTzEzWU9zaENyNW5SaWRwVVQtU0paTGYyZ284M1FpTjRpVC1KNC1yOVlnM05nbTJjMUo?oc=5"
       }
     ],
@@ -24986,17 +25382,17 @@
     "section": "core"
   },
   {
-    "title": "idobi Session: XCOMM Revitalize Hardcore With \"Pirates\" Live Performance - idobi",
-    "src": "idobi",
+    "title": "idobi Session: XCOMM Revitalize Hardcore With \"Pirates\" Live Performance - idobi.com",
+    "src": "idobi.com",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdFMtM3JyVzJiUm1vMlEycmREM0pUMHVDU05PZ3ZvUEI5NnJvb2R1dXpEdUxJdWtGZm15VlR5MjJkVTlIbGF0QWVZYUVHNEhPdDROU3NPZF9Ba190alpScExIZDhKS1lWNEhmUEhmdnhReGQ2SnpIM3RGdUhEWDZIQ181V2tDOWs4RVZ0YjIxMGoxd1F3QlZhLQ?oc=5",
     "timestamp": "2026-09-02T16:03:25+00:00",
     "isoDate": "2026-09-02",
     "date": "2 Set",
-    "d": "idobi Session: XCOMM Revitalize Hardcore With \"Pirates\" Live Performance idobi",
+    "d": "idobi Session: XCOMM Revitalize Hardcore With \"Pirates\" Live Performance idobi.com",
     "category": "core",
     "sources": [
       {
-        "name": "idobi",
+        "name": "idobi.com",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdFMtM3JyVzJiUm1vMlEycmREM0pUMHVDU05PZ3ZvUEI5NnJvb2R1dXpEdUxJdWtGZm15VlR5MjJkVTlIbGF0QWVZYUVHNEhPdDROU3NPZF9Ba190alpScExIZDhKS1lWNEhmUEhmdnhReGQ2SnpIM3RGdUhEWDZIQ181V2tDOWs4RVZ0YjIxMGoxd1F3QlZhLQ?oc=5"
       }
     ],
@@ -25061,17 +25457,17 @@
     "section": "news"
   },
   {
-    "title": "Festival Estarreja Arte Urbana celebra dez anos com murais, instalações, visitas e música - Rádio RIA",
-    "src": "Rádio RIA",
+    "title": "Festival Estarreja Arte Urbana celebra dez anos com murais, instalações, visitas e música - Rádio Ria",
+    "src": "Rádio Ria",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSktVM2dQWUJwTk55S3d2S013SEJ3aTYyeTdVVzk2QTVfZXJocm5pd3VZT2pzczNyTURPcDItQUotS0d0YkplUEdRR08xMUtIbUZHYXhfM09fOW9EUzJQREF2LW5mWnAtYkxWQzVkUjBKTHZ1c3pqeWg1OHJ4TkNpSTRiVGFYd2doYWJEZm5mWmptWGNiWEtzc1hJSGZ1U3JOX0xYZ05yYnllS2Vtak5FUTlXN0ZqemUwYTFUTUtRcGtRZEk2OERF?oc=5",
     "timestamp": "2026-09-02T15:45:00+00:00",
     "isoDate": "2026-09-02",
     "date": "2 Set",
-    "d": "Festival Estarreja Arte Urbana celebra dez anos com murais, instalações, visitas e música Rádio RIA",
+    "d": "Festival Estarreja Arte Urbana celebra dez anos com murais, instalações, visitas e música Rádio Ria",
     "category": "pt",
     "sources": [
       {
-        "name": "Rádio RIA",
+        "name": "Rádio Ria",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSktVM2dQWUJwTk55S3d2S013SEJ3aTYyeTdVVzk2QTVfZXJocm5pd3VZT2pzczNyTURPcDItQUotS0d0YkplUEdRR08xMUtIbUZHYXhfM09fOW9EUzJQREF2LW5mWnAtYkxWQzVkUjBKTHZ1c3pqeWg1OHJ4TkNpSTRiVGFYd2doYWJEZm5mWmptWGNiWEtzc1hJSGZ1U3JOX0xYZ05yYnllS2Vtak5FUTlXN0ZqemUwYTFUTUtRcGtRZEk2OERF?oc=5"
       }
     ],
@@ -25111,17 +25507,17 @@
     "section": "pt"
   },
   {
-    "title": "SLIPKNOT's Sid Wilson Was Initiated Into SLIPKNOT By Fighting Clown During A Show - metalinjection.net",
-    "src": "metalinjection.net",
+    "title": "SLIPKNOT's Sid Wilson Was Initiated Into SLIPKNOT By Fighting Clown During A Show - Metal Injection",
+    "src": "Metal Injection",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVUlaemVORFBYcWRLbmhZUFdkX1psdVZ2elpUbUhXLXI4UkZQcnBNSEFqVFI2NkRnODBmN0hwLTRWeE04SXEtYWlfMkNKcXRlUTByR21pR3EtU1ZVMTJFSGs2V2wzNXQ2UTY0ZHl6T1FqM2J6TUU1WHJWaGU0SzlXTXVRS3hZUjRCaHozbzVqVm9nYy1RSXZ1REhkYld5ckRfWm1ob1d4bGQ2TWdyWDU3WlFB?oc=5",
     "timestamp": "2026-09-02T07:00:00+00:00",
     "isoDate": "2026-09-02",
     "date": "2 Set",
-    "d": "SLIPKNOT's Sid Wilson Was Initiated Into SLIPKNOT By Fighting Clown During A Show metalinjection.net",
+    "d": "SLIPKNOT's Sid Wilson Was Initiated Into SLIPKNOT By Fighting Clown During A Show Metal Injection",
     "category": "metal",
     "sources": [
       {
-        "name": "metalinjection.net",
+        "name": "Metal Injection",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVUlaemVORFBYcWRLbmhZUFdkX1psdVZ2elpUbUhXLXI4UkZQcnBNSEFqVFI2NkRnODBmN0hwLTRWeE04SXEtYWlfMkNKcXRlUTByR21pR3EtU1ZVMTJFSGs2V2wzNXQ2UTY0ZHl6T1FqM2J6TUU1WHJWaGU0SzlXTXVRS3hZUjRCaHozbzVqVm9nYy1RSXZ1REhkYld5ckRfWm1ob1d4bGQ2TWdyWDU3WlFB?oc=5"
       }
     ],
@@ -26361,17 +26757,17 @@
     "section": "news"
   },
   {
-    "title": "The Monsters Mark 40 Years with New Album ‘Off The Road We Go’ - v13.net",
-    "src": "v13.net",
+    "title": "The Monsters Mark 40 Years with New Album ‘Off The Road We Go’ - V13 Media",
+    "src": "V13 Media",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT19QS0dCQXlBSnlPQWVXX0ZQbE1ZOTlySFl4Q2F1cUp3ODNueW1NaGh6T2pvQVg2TXZya2l6U3RNclRLWGxKdlU3cDkzS0U0Y0pQVFM4em04YmU4dlJuUlV3ZzB2dDdDYmlZSmgwQVhzaGhoSVdwUHVRaW1ORW9rTXdYb3gyeTNoSXg4LXBR?oc=5",
     "timestamp": "2026-09-01T11:58:42+00:00",
     "isoDate": "2026-09-01",
     "date": "1 Set",
-    "d": "The Monsters Mark 40 Years with New Album ‘Off The Road We Go’ v13.net",
+    "d": "The Monsters Mark 40 Years with New Album ‘Off The Road We Go’ V13 Media",
     "category": "core",
     "sources": [
       {
-        "name": "v13.net",
+        "name": "V13 Media",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT19QS0dCQXlBSnlPQWVXX0ZQbE1ZOTlySFl4Q2F1cUp3ODNueW1NaGh6T2pvQVg2TXZya2l6U3RNclRLWGxKdlU3cDkzS0U0Y0pQVFM4em04YmU4dlJuUlV3ZzB2dDdDYmlZSmgwQVhzaGhoSVdwUHVRaW1ORW9rTXdYb3gyeTNoSXg4LXBR?oc=5"
       }
     ],
@@ -26914,17 +27310,17 @@
     "section": "alter"
   },
   {
-    "title": "FAKE NAMES, Featuring Members Of BAD RELIGION And REFUSED, Announces New Album 'Punk Ruins' - BLABBERMOUTH.NET",
-    "src": "BLABBERMOUTH.NET",
+    "title": "FAKE NAMES, Featuring Members Of BAD RELIGION And REFUSED, Announces New Album 'Punk Ruins' - blabbermouth.net",
+    "src": "blabbermouth.net",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVm81dm9Qb1Z3eWRmWUJDMktVNGdKaW5qMHBsVnhueW5CdVhYSkNoSGJLQ25lU3UyeGM1N0tuWGxnN2syc0RPLW83TnE0b3h5UXBxa0dKZmxHNmtBaUR5Z1BBX0xnMzQ3WFBhUXV0SHB6a1hnSlJaVC1MQ2RZZEpBSFpEVy1Fc0FiZUFPWGRBakNDQW9VTTVsTURxcXJvM1hOUDcwZkl6cGh5ekZEd3Jaa0NldUpfSWpM?oc=5",
     "timestamp": "2026-09-01T15:52:25+00:00",
     "isoDate": "2026-09-01",
     "date": "1 Set",
-    "d": "FAKE NAMES, Featuring Members Of BAD RELIGION And REFUSED, Announces New Album 'Punk Ruins' BLABBERMOUTH.NET",
+    "d": "FAKE NAMES, Featuring Members Of BAD RELIGION And REFUSED, Announces New Album 'Punk Ruins' blabbermouth.net",
     "category": "core",
     "sources": [
       {
-        "name": "BLABBERMOUTH.NET",
+        "name": "blabbermouth.net",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVm81dm9Qb1Z3eWRmWUJDMktVNGdKaW5qMHBsVnhueW5CdVhYSkNoSGJLQ25lU3UyeGM1N0tuWGxnN2syc0RPLW83TnE0b3h5UXBxa0dKZmxHNmtBaUR5Z1BBX0xnMzQ3WFBhUXV0SHB6a1hnSlJaVC1MQ2RZZEpBSFpEVy1Fc0FiZUFPWGRBakNDQW9VTTVsTURxcXJvM1hOUDcwZkl6cGh5ekZEd3Jaa0NldUpfSWpM?oc=5"
       }
     ],
@@ -28297,17 +28693,17 @@
     "section": "news"
   },
   {
-    "title": "“The first rock band that inspired me was KISS” – Ryoji Shinomoto (Ryujin) shares 5 of his favorite guitarists - chaoszine.net",
-    "src": "chaoszine.net",
+    "title": "“The first rock band that inspired me was KISS” – Ryoji Shinomoto (Ryujin) shares 5 of his favorite guitarists - Chaoszine",
+    "src": "Chaoszine",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOC1LMUNNd2owNEp4c0dqMEYtVGRmSEZLb2FCQzd3b2RZYTRrTzVrREFxSl9uRW9kZ0tvVG9YWTI5VVJTZk1mVVpxb3dBOEZEZURLSzY1TVdXQ25LSG5RaGo3WEZMeDFiVnZWcVhjb0w0YzNNX3dhaHNUUlB2QUJvRHpVbTJFbWRLMkRmR2FoZC1nR0dXNVNCM1lqaEtrVE5LazB6TWVaQjE0MGVMV1VNSHFZa3Y2Z3VMQnpYSk9hWFFKcHdvNEE?oc=5",
     "timestamp": "2026-09-01T16:03:07+00:00",
     "isoDate": "2026-09-01",
     "date": "1 Set",
-    "d": "“The first rock band that inspired me was KISS” – Ryoji Shinomoto (Ryujin) shares 5 of his favorite guitarists chaoszine.net",
+    "d": "“The first rock band that inspired me was KISS” – Ryoji Shinomoto (Ryujin) shares 5 of his favorite guitarists Chaoszine",
     "category": "metal",
     "sources": [
       {
-        "name": "chaoszine.net",
+        "name": "Chaoszine",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOC1LMUNNd2owNEp4c0dqMEYtVGRmSEZLb2FCQzd3b2RZYTRrTzVrREFxSl9uRW9kZ0tvVG9YWTI5VVJTZk1mVVpxb3dBOEZEZURLSzY1TVdXQ25LSG5RaGo3WEZMeDFiVnZWcVhjb0w0YzNNX3dhaHNUUlB2QUJvRHpVbTJFbWRLMkRmR2FoZC1nR0dXNVNCM1lqaEtrVE5LazB6TWVaQjE0MGVMV1VNSHFZa3Y2Z3VMQnpYSk9hWFFKcHdvNEE?oc=5"
       }
     ],
@@ -29097,17 +29493,17 @@
     "section": "pt"
   },
   {
-    "title": "Seis meses depois de boicote, Salvador Sobral regressa ao Spotify: \"Golias demasiado forte para enfrentar sozinho\" - observador.pt",
-    "src": "observador.pt",
+    "title": "Seis meses depois de boicote, Salvador Sobral regressa ao Spotify: \"Golias demasiado forte para enfrentar sozinho\" - Observador",
+    "src": "Observador",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ3dyUjRYQ2U3VE1ZTV81QUVpSmRCVUdDdmxnSFVidG05RjFSUlhzQ2p6a0h2VjBkX0R3clAweGVkWUQ3N1pRWmRUNE1LM1JteFNFY011a19ObExDTmpEQTBhdjBCMk5hb1RtN2EyQVhiU19vRllONmNfQmlVTUZ4bVdNSzZnc0NPQTNxU1dqRHVrWk9zRXVseTNzVlItdmdTM3NNUzluOFdKN1l5NXRqQkhxLXNmMzFZaXdkODBNeWFPb1A1WFNUY0dIYU5XQ09iVXNoWlR4UHUtYnJr?oc=5",
     "timestamp": "2026-09-01T16:30:59+00:00",
     "isoDate": "2026-09-01",
     "date": "1 Set",
-    "d": "Seis meses depois de boicote, Salvador Sobral regressa ao Spotify: \"Golias demasiado forte para enfrentar sozinho\" observador.pt",
+    "d": "Seis meses depois de boicote, Salvador Sobral regressa ao Spotify: \"Golias demasiado forte para enfrentar sozinho\" Observador",
     "category": "pt",
     "sources": [
       {
-        "name": "observador.pt",
+        "name": "Observador",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ3dyUjRYQ2U3VE1ZTV81QUVpSmRCVUdDdmxnSFVidG05RjFSUlhzQ2p6a0h2VjBkX0R3clAweGVkWUQ3N1pRWmRUNE1LM1JteFNFY011a19ObExDTmpEQTBhdjBCMk5hb1RtN2EyQVhiU19vRllONmNfQmlVTUZ4bVdNSzZnc0NPQTNxU1dqRHVrWk9zRXVseTNzVlItdmdTM3NNUzluOFdKN1l5NXRqQkhxLXNmMzFZaXdkODBNeWFPb1A1WFNUY0dIYU5XQ09iVXNoWlR4UHUtYnJr?oc=5"
       }
     ],
@@ -30224,17 +30620,17 @@
     "section": "pt"
   },
   {
-    "title": "OFFSET VISION Sign With NINTH LIFE RECORDS, Drop New EP - heavymag.com.au",
-    "src": "heavymag.com.au",
+    "title": "OFFSET VISION Sign With NINTH LIFE RECORDS, Drop New EP - HEAVY Magazine",
+    "src": "HEAVY Magazine",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX3oyTXowNmNnTENwWUVBaHVVTklJMGlsNmN2UnJGNGJfV1JqX3ppOWpfdGVLTXlQdGlZN1lxbDJmUUotWVRGWEN2UnlOUmpoWGttbUhnRTZxUGh5VXpHUVVvbVQ1VEhsaHAyMEZDT0VhNDZ3OFBnSUZFeEw1S0VLMzBsYXhSdw?oc=5",
     "timestamp": "2026-09-01T23:51:48+00:00",
     "isoDate": "2026-09-01",
     "date": "1 Set",
-    "d": "OFFSET VISION Sign With NINTH LIFE RECORDS, Drop New EP heavymag.com.au",
+    "d": "OFFSET VISION Sign With NINTH LIFE RECORDS, Drop New EP HEAVY Magazine",
     "category": "core",
     "sources": [
       {
-        "name": "heavymag.com.au",
+        "name": "HEAVY Magazine",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX3oyTXowNmNnTENwWUVBaHVVTklJMGlsNmN2UnJGNGJfV1JqX3ppOWpfdGVLTXlQdGlZN1lxbDJmUUotWVRGWEN2UnlOUmpoWGttbUhnRTZxUGh5VXpHUVVvbVQ1VEhsaHAyMEZDT0VhNDZ3OFBnSUZFeEw1S0VLMzBsYXhSdw?oc=5"
       }
     ],
@@ -32514,7 +32910,7 @@
     "isoDate": "2026-09-01",
     "date": "1 Set",
     "d": "The 10 Greatest Sludge Bands of All Time Metal Injection",
-    "category": "core",
+    "category": "metal",
     "sources": [
       {
         "name": "Metal Injection",
@@ -32526,10 +32922,10 @@
     "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
-    "isCore": true,
+    "isCore": false,
     "star": false,
     "kind": "news",
-    "section": "core"
+    "section": "news"
   },
   {
     "title": "INTERVIEW: DEVIL MASTER Return with 'Bloody Dreams': \"If You Don't Want to Have Fun, Go to Church\" - Metal Injection",
@@ -32682,17 +33078,17 @@
     "section": "pt"
   },
   {
-    "title": "Nesta quarta (10), Dia das Comunidades Portuguesas será celebrado com música e poesia na Praça Portugal - cubatao.sp.gov.br",
-    "src": "cubatao.sp.gov.br",
+    "title": "Nesta quarta (10), Dia das Comunidades Portuguesas será celebrado com música e poesia na Praça Portugal - Prefeitura de Cubatão",
+    "src": "Prefeitura de Cubatão",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV0VkYWFlaFkxYS13aGNQOTVYR21FNUpybk9ZTTRQMUhyeTJrV3F2V2ZsS2hnR3Z0LW1acXd0Y3RkTHRlMDBCaHhUU2NTLXBrdmZFdE5fVGJUWnprVUUwdEhhREdvd0hhdTc4VGx0eFBLUVdQdmdrZXltak4yMmRORW91R2F6ck5JVG5aeS1hQm95dDhoWldadGZHV1FURlpDOFc2VmU5X1phTmRGVUVtNkNlYWdfOC1RN18xTXdJVXdKdklHZWc?oc=5",
     "timestamp": "2026-09-01T07:00:00+00:00",
     "isoDate": "2026-09-01",
     "date": "1 Set",
-    "d": "Nesta quarta (10), Dia das Comunidades Portuguesas será celebrado com música e poesia na Praça Portugal cubatao.sp.gov.br",
+    "d": "Nesta quarta (10), Dia das Comunidades Portuguesas será celebrado com música e poesia na Praça Portugal Prefeitura de Cubatão",
     "category": "pt",
     "sources": [
       {
-        "name": "cubatao.sp.gov.br",
+        "name": "Prefeitura de Cubatão",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV0VkYWFlaFkxYS13aGNQOTVYR21FNUpybk9ZTTRQMUhyeTJrV3F2V2ZsS2hnR3Z0LW1acXd0Y3RkTHRlMDBCaHhUU2NTLXBrdmZFdE5fVGJUWnprVUUwdEhhREdvd0hhdTc4VGx0eFBLUVdQdmdrZXltak4yMmRORW91R2F6ck5JVG5aeS1hQm95dDhoWldadGZHV1FURlpDOFc2VmU5X1phTmRGVUVtNkNlYWdfOC1RN18xTXdJVXdKdklHZWc?oc=5"
       }
     ],
