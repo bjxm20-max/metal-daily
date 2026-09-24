@@ -323,10 +323,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -348,10 +348,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -698,10 +698,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -873,10 +873,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -898,10 +898,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -923,35 +923,35 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
   {
-    "title": "“O meu nome era para ser Ana Cristina, mas a ir para o registo, o meu pai ouviu uma música de uma Arlinda. A minha mãe quase que o matou” - Expresso",
-    "src": "Expresso",
+    "title": "“O meu nome era para ser Ana Cristina, mas a ir para o registo, o meu pai ouviu uma música de uma Arlinda. A minha mãe quase que o matou” - expresso.pt",
+    "src": "expresso.pt",
     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNdkhlOXc1QUpIM3d4cUtDU280ME10WWJPdEV4WGxLUXNtbmoxOVNkbTQxeFVHSF83QVAyVnV4blBHamNFQWdHNmtFdnNYUi1laEU1Q3dzT1dMQi1KYjU1RGZsWlRiVGJUYjEwb2dEREduSks4eVZZWXQ4VGViem03U0IzRDFyWFNLdmo5Y1Z0a2VaZXJMeDU1aVZmWURzMmtIY2tuQzBEZ2VJVlU3VWU1U093RTdCaGI0RU1EUWozM294TVFsOWJwZ2RfUVN4bFNfMm8tSDNvTGZWNW16RUNOWWwwN2dJRm5fb05aQ0dTbjVpaEFVOWp0UFNwRlpHQUFUUHdGZ2Z5enc5cnNoMDJKRlBIMWRQTUI2Q2dieUtxbkNYdw?oc=5",
     "timestamp": "2026-09-24T07:00:00+00:00",
     "isoDate": "2026-09-24",
     "date": "24 Set",
-    "d": "“O meu nome era para ser Ana Cristina, mas a ir para o registo, o meu pai ouviu uma música de uma Arlinda. A minha mãe quase que o matou” Expresso",
+    "d": "“O meu nome era para ser Ana Cristina, mas a ir para o registo, o meu pai ouviu uma música de uma Arlinda. A minha mãe quase que o matou” expresso.pt",
     "category": "pt",
     "sources": [
       {
-        "name": "Expresso",
+        "name": "expresso.pt",
         "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNdkhlOXc1QUpIM3d4cUtDU280ME10WWJPdEV4WGxLUXNtbmoxOVNkbTQxeFVHSF83QVAyVnV4blBHamNFQWdHNmtFdnNYUi1laEU1Q3dzT1dMQi1KYjU1RGZsWlRiVGJUYjEwb2dEREduSks4eVZZWXQ4VGViem03U0IzRDFyWFNLdmo5Y1Z0a2VaZXJMeDU1aVZmWURzMmtIY2tuQzBEZ2VJVlU3VWU1U093RTdCaGI0RU1EUWozM294TVFsOWJwZ2RfUVN4bFNfMm8tSDNvTGZWNW16RUNOWWwwN2dJRm5fb05aQ0dTbjVpaEFVOWp0UFNwRlpHQUFUUHdGZ2Z5enc5cnNoMDJKRlBIMWRQTUI2Q2dieUtxbkNYdw?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1134,7 +1134,7 @@
     "title": "See Official Trailer For 'Ozzy & Black Sabbath: Back To The Beginning' Concert Film",
     "src": "Blabbermouth",
     "url": "https://blabbermouth.net/news/see-official-trailer-for-ozzy-black-sabbath-back-to-the-beginning-concert-film",
-    "timestamp": "2026-09-24T13:33:14+00:00",
+    "timestamp": "2026-09-24T14:12:09+00:00",
     "isoDate": "2026-09-24",
     "date": "24 Set",
     "d": "Trafalgar Releasing has released the official trailer for the global cinematic release of \"Ozzy & Black Sabbath: Back To The Beginning\", produced by Mercury Studios, the world's leading music-focused content studio. Check it out below. The film definitively captures the triumphant final live per...",
@@ -1456,17 +1456,17 @@
     "section": "buzz"
   },
   {
-    "title": "Central Texas Christian music artist Whitlee Casey returning to Troy for EP release and worship event - kxxv.com",
-    "src": "kxxv.com",
+    "title": "Central Texas Christian music artist Whitlee Casey returning to Troy for EP release and worship event - KXXV",
+    "src": "KXXV",
     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcHFMWkY1NXpkbllDSUYxOWplOWdsUTFwNzB6QzFuYlVqbHkzRXEyRUFEUS1OcFI2bTBfVy1YeE9sVkxwbExfV04xdGxpei11bFRBNURud0ZEM0RCQjQ3TGxHUk5HX19vcHU2Zm5mMkRGTGxiOEY1NXBfUjFyTmlWa1NRZ3F1MzV3aWM3QWJYSEZKcEtEZnBJUFlRekxsUnhTeEU2OXhlVmgycVRuX1V4Tm4xd0p0ckRtN08zMmw5Y1ZBak1ZYXQyWEpUOW0xeGpBY1JoNzRUeTFwOVh1MS1FYXQ3WTg1ZnlrUkNwbWdxSkY?oc=5",
     "timestamp": "2026-09-24T13:56:43+00:00",
     "isoDate": "2026-09-24",
     "date": "24 Set",
-    "d": "Central Texas Christian music artist Whitlee Casey returning to Troy for EP release and worship event kxxv.com",
+    "d": "Central Texas Christian music artist Whitlee Casey returning to Troy for EP release and worship event KXXV",
     "category": "general",
     "sources": [
       {
-        "name": "kxxv.com",
+        "name": "KXXV",
         "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcHFMWkY1NXpkbllDSUYxOWplOWdsUTFwNzB6QzFuYlVqbHkzRXEyRUFEUS1OcFI2bTBfVy1YeE9sVkxwbExfV04xdGxpei11bFRBNURud0ZEM0RCQjQ3TGxHUk5HX19vcHU2Zm5mMkRGTGxiOEY1NXBfUjFyTmlWa1NRZ3F1MzV3aWM3QWJYSEZKcEtEZnBJUFlRekxsUnhTeEU2OXhlVmgycVRuX1V4Tm4xd0p0ckRtN08zMmw5Y1ZBak1ZYXQyWEpUOW0xeGpBY1JoNzRUeTFwOVh1MS1FYXQ3WTg1ZnlrUkNwbWdxSkY?oc=5"
       }
     ],
@@ -1756,17 +1756,17 @@
     "section": "buzz"
   },
   {
-    "title": "Does Ella Langley have a new beau? Meet fellow country star Tucker Wetmore - South China Morning Post",
-    "src": "South China Morning Post",
+    "title": "Does Ella Langley have a new beau? Meet fellow country star Tucker Wetmore - SCMP",
+    "src": "SCMP",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTEY4dTZTU2t5NWRjX1U4UEdWWlNKX3Z3UFNjX2JxWnFDWU5ISGJUYUt3ODVac19TNHN6bkN2UmNhTlAtSEU1Z1lzR09qNXZiRVdLcVhlLV9JVy1PNkZobjJxN1JmNkkxQ1Y2UlptdHRoTERtazJma0ZQRjJIajExc2RJTU1nV0t6S2lqTWpWWkhMVE1ITjhsWUJ3dDg5R1dOakJGZzBMY3RJWGQ4dXhxSUMxck9FTFlLbUsxMEdMX1EtY3N1elpKelNDQWhfdkNNQ2MwQjRLY1BIcHJvdkHSAd4BQVVfeXFMTms1SlloWXVsbDJrVmVjaHkxdk92ZjhBanVuLWpUNzR4ZFRObjVQOWt6U1ViUDVOZVpQSUcyaHRPekZNYjkzQTZVWlpPUmt4TXAzXzJfNkZObDdfRmstMmVucHp4bi1jb0REbWhTWlBTTnVERVJvQVdWT2pHZzlaSDdxVVlSY2xVZFhsdUVyQ3daUVVZaFh1bnh5N0x5ZjZjVElOazNuNmc4Q2FydGFMek1WQnZNVzdtaWhxN1JQZEM0QW9zVUhkcklnUVFvUFZjTEpuVWY2ejdmTGhQdFln?oc=5",
     "timestamp": "2026-09-24T08:35:24+00:00",
     "isoDate": "2026-09-24",
     "date": "24 Set",
-    "d": "Does Ella Langley have a new beau? Meet fellow country star Tucker Wetmore South China Morning Post",
+    "d": "Does Ella Langley have a new beau? Meet fellow country star Tucker Wetmore SCMP",
     "category": "general",
     "sources": [
       {
-        "name": "South China Morning Post",
+        "name": "SCMP",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTEY4dTZTU2t5NWRjX1U4UEdWWlNKX3Z3UFNjX2JxWnFDWU5ISGJUYUt3ODVac19TNHN6bkN2UmNhTlAtSEU1Z1lzR09qNXZiRVdLcVhlLV9JVy1PNkZobjJxN1JmNkkxQ1Y2UlptdHRoTERtazJma0ZQRjJIajExc2RJTU1nV0t6S2lqTWpWWkhMVE1ITjhsWUJ3dDg5R1dOakJGZzBMY3RJWGQ4dXhxSUMxck9FTFlLbUsxMEdMX1EtY3N1elpKelNDQWhfdkNNQ2MwQjRLY1BIcHJvdkHSAd4BQVVfeXFMTms1SlloWXVsbDJrVmVjaHkxdk92ZjhBanVuLWpUNzR4ZFRObjVQOWt6U1ViUDVOZVpQSUcyaHRPekZNYjkzQTZVWlpPUmt4TXAzXzJfNkZObDdfRmstMmVucHp4bi1jb0REbWhTWlBTTnVERVJvQVdWT2pHZzlaSDdxVVlSY2xVZFhsdUVyQ3daUVVZaFh1bnh5N0x5ZjZjVElOazNuNmc4Q2FydGFMek1WQnZNVzdtaWhxN1JQZEM0QW9zVUhkcklnUVFvUFZjTEpuVWY2ejdmTGhQdFln?oc=5"
       }
     ],
@@ -1781,17 +1781,17 @@
     "section": "buzz"
   },
   {
-    "title": "Jabbawaukee captures its dynamic live sound on latest album release - IndependentRI.com",
-    "src": "IndependentRI.com",
+    "title": "Jabbawaukee captures its dynamic live sound on latest album release - independentri.com",
+    "src": "independentri.com",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMDg2aVpCSjdIMW9ibGpWdVNYUWVMdUVVVnU4LWhLLW85RzdOZWh3eHJsVU9HbzBIRW9LVjY2OUFpRVlUeHlXNGYzejlTdGV6LUs5MEt3bTNDdVhGVUVfWnEyWV9VNi1xNk9vMzVkQUFwMmcwbE9rQXZyVTBqLU5ud0dnSHpLTk1qdFZuQkllZjIyUWZUU29tMEw3OA?oc=5",
     "timestamp": "2026-09-24T04:00:00+00:00",
     "isoDate": "2026-09-24",
     "date": "24 Set",
-    "d": "Jabbawaukee captures its dynamic live sound on latest album release IndependentRI.com",
+    "d": "Jabbawaukee captures its dynamic live sound on latest album release independentri.com",
     "category": "general",
     "sources": [
       {
-        "name": "IndependentRI.com",
+        "name": "independentri.com",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMDg2aVpCSjdIMW9ibGpWdVNYUWVMdUVVVnU4LWhLLW85RzdOZWh3eHJsVU9HbzBIRW9LVjY2OUFpRVlUeHlXNGYzejlTdGV6LUs5MEt3bTNDdVhGVUVfWnEyWV9VNi1xNk9vMzVkQUFwMmcwbE9rQXZyVTBqLU5ud0dnSHpLTk1qdFZuQkllZjIyUWZUU29tMEw3OA?oc=5"
       }
     ],
@@ -1881,17 +1881,1375 @@
     "section": "pt"
   },
   {
-    "title": "Dolly Parton's nephew reportedly fired as head of security amid estate dispute - usatoday.com",
-    "src": "usatoday.com",
+    "b": "Stand Atlantic",
+    "t": "NEXT2U",
+    "g": "electro",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "24 Set",
+    "isoDate": "2026-09-24",
+    "url": "https://alterportal.net/alternative/190393-stand-atlantic-next2u-single-2026.html",
+    "d": "Alternative Rock / Electronic / Female Vocal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190393-stand-atlantic-next2u-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Silent Theory",
+    "t": "In My Bones",
+    "g": "electro",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "24 Set",
+    "isoDate": "2026-09-24",
+    "url": "https://alterportal.net/alternative/190396-silent-theory-in-my-bones-single-2026.html",
+    "d": "Alternative Metal / Electronic",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190396-silent-theory-in-my-bones-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Ninth Key",
+    "t": "Dark Time Sunshine",
+    "g": "hiphop",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "24 Set",
+    "isoDate": "2026-09-24",
+    "url": "https://alterportal.net/alternative/190397-ninth-key-dark-time-sunshine-single-2026.html",
+    "d": "Alternative Rock / Rap Rock",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190397-ninth-key-dark-time-sunshine-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Illumishade",
+    "t": "The River",
+    "g": "symph",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "24 Set",
+    "isoDate": "2026-09-24",
+    "url": "https://alterportal.net/newsongs/190395-illumishade-the-river-single-2026.html",
+    "d": "Modern Symphonic Metal / Female Vocal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/newsongs/190395-illumishade-the-river-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Fuel",
+    "t": "Bad At Love",
+    "g": "rock",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "24 Set",
+    "isoDate": "2026-09-24",
+    "url": "https://alterportal.net/alternative/190392-fuel-bad-at-love-single-2026.html",
+    "d": "Alternative Metal / Hard Rock",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190392-fuel-bad-at-love-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "From Ashes To New",
+    "t": "Love Me",
+    "g": "electro",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "24 Set",
+    "isoDate": "2026-09-24",
+    "url": "https://alterportal.net/alternative/190390-from-ashes-to-new-love-me-single-2026.html",
+    "d": "Alternative Metal / Electronic",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190390-from-ashes-to-new-love-me-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Black Lab",
+    "t": "Siren",
+    "g": "rock",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "24 Set",
+    "isoDate": "2026-09-24",
+    "url": "https://alterportal.net/2026_albums/190389-black-lab-siren-2026.html",
+    "d": "Alternative Rock / Post-Grunge",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190389-black-lab-siren-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "As December Falls",
+    "t": "Nervous (feat. Solence)",
+    "g": "electro",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "24 Set",
+    "isoDate": "2026-09-24",
+    "url": "https://alterportal.net/alternative/190394-as-december-falls-nervous-feat-solence-single-2026.html",
+    "d": "Alternative Rock / Electronic / Male & Female Vocals",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190394-as-december-falls-nervous-feat-solence-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "Crypta Launch Music Video For Their New Song “A Portrait Of Decay”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/09/24/news/crypta-launch-music-video-for-their-new-song-a-portrait-of-decay/",
+    "timestamp": "2026-09-24T16:25:48+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "The first song of their new chapter. The post Crypta Launch Music Video For Their New Song “A Portrait Of Decay” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/09/24/news/crypta-launch-music-video-for-their-new-song-a-portrait-of-decay/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "19 Big-Name Punk Bands With Only One Original Member Left",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/punk-bands-one-original-member/",
+    "timestamp": "2026-09-24T16:19:25+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "These 19 punk bands have stuck it out, albeit with only one original member still going today. And they deserve some credit for their perseverance, too. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/punk-bands-one-original-member/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "19 Punk Bands Who Are Still Touring With Only One Original Member Left - Loudwire",
+    "src": "Loudwire",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsVzJIYTFsdTlNaEVERHhPZDg2R2w2V3c0Qmp5bkl3ZGtnV0dlOG5GOVNyMEFGMi1TeDNvcDB2ZlNmLWtLS1Y2Ynk2d0ZSOVVXSnpTOURwRHhUMDBFUno0b2h3?oc=5",
+    "timestamp": "2026-09-24T16:19:25+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "19 Punk Bands Who Are Still Touring With Only One Original Member Left Loudwire",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsVzJIYTFsdTlNaEVERHhPZDg2R2w2V3c0Qmp5bkl3ZGtnV0dlOG5GOVNyMEFGMi1TeDNvcDB2ZlNmLWtLS1Y2Ynk2d0ZSOVVXSnpTOURwRHhUMDBFUno0b2h3?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "The 5 Rising Scottish Metal Bands You Need To Know",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/lists/the-5-rising-scottish-metal-bands-you-need-to-know",
+    "timestamp": "2026-09-24T16:05:50+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "The hardest tunes from the auld country. The post The 5 Rising Scottish Metal Bands You Need To Know appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/lists/the-5-rising-scottish-metal-bands-you-need-to-know"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "EVANESCENCE Celebrates 20 Years Of 'The Open Door' With Expanded Deluxe Anniversary Edition",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/evanescence-celebrates-20-years-of-the-open-door-with-expanded-deluxe-anniversary-edition",
+    "timestamp": "2026-09-24T16:01:09+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Twenty years after \"The Open Door\" debuted at No. 1 on the Billboard 200, Craft Recordings celebrates EVANESCENCE's landmark 2006 album with a newly remastered and expanded anniversary Deluxe Edition, arriving November 6 on 2-LP, CD and digital formats. Alongside the original album, the collection b...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/evanescence-celebrates-20-years-of-the-open-door-with-expanded-deluxe-anniversary-edition"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Ozzy + Black Sabbath's 'Back to the Beginning' Trailer Revealed",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/ozzy-black-sabbath-back-to-the-beginning-trailer-track-listing/",
+    "timestamp": "2026-09-24T15:52:00+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Get a look at the first official trailer and see what performances made the cut for the 'Ozzy + Black Sabbath: Back to the Beginning' concert film. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/ozzy-black-sabbath-back-to-the-beginning-trailer-track-listing/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "MOTÖRHEAD's 'Orgasmatron' Album Remixed By Longtime Producer CAMERON WEBB For 40th-Anniversary Edition",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/motorheads-orgasmatron-album-remixed-by-longtime-producer-cameron-webb-for-40th-anniversary-edition",
+    "timestamp": "2026-09-24T15:37:01+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "The 40th-anniverasary edition of MOTÖRHEAD's classic album \"Orgasmatron\" will be made available on November 6 via BMG. Originally released in 1986, \"Orgasmatron\" featured the lineup of Lemmy, Phil Campbell, Würzel and Pete Gill. It marked a new chapter for the band, pushing further into heavier terr...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/motorheads-orgasmatron-album-remixed-by-longtime-producer-cameron-webb-for-40th-anniversary-edition"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "The band Henry Rollins said saved 1980s rock: “The only ray of light” - Far Out Magazine",
+    "src": "Far Out Magazine",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2RQNEd5ZFJJY2xzb3RXTFNUWS1UaXkzaXh5QXBWYjdBQTVWUHhUQTJfY0VDV0lpQm9DOXdsYWxITXpIaGRkUnp6dVlTQzdITDA0ZTNfLWNkeVJ6Nmh4Rnhnc0x5Y2wweFlNdjUzamp4bWd4VkpWS0t1QlJTMklPRmZnZWVmdHFRM3gzd1lnX3M?oc=5",
+    "timestamp": "2026-09-24T15:35:00+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "The band Henry Rollins said saved 1980s rock: “The only ray of light” Far Out Magazine",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Far Out Magazine",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa2RQNEd5ZFJJY2xzb3RXTFNUWS1UaXkzaXh5QXBWYjdBQTVWUHhUQTJfY0VDV0lpQm9DOXdsYWxITXpIaGRkUnp6dVlTQzdITDA0ZTNfLWNkeVJ6Nmh4Rnhnc0x5Y2wweFlNdjUzamp4bWd4VkpWS0t1QlJTMklPRmZnZWVmdHFRM3gzd1lnX3M?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "SYSTEM OF A DOWN To Celebrate 'Toxicity' With 25th-Anniversary Exhibition At Los Angeles's Beyond The Streets Gallery",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/system-of-a-down-to-celebrate-toxicity-with-25th-anniversary-exhibition-at-los-angeless-beyond-the-streets-gallery",
+    "timestamp": "2026-09-24T15:34:16+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Grammy Award-winning rock icons SYSTEM OF A DOWN will celebrate the 25th anniversary of \"Toxicity\" with a week-long exhibition at Beyond The Streets in Los Angeles, opening Tuesday, October 13, inviting fans to step inside the immersive world of an album that has become a defining pillar of modern r...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/system-of-a-down-to-celebrate-toxicity-with-25th-anniversary-exhibition-at-los-angeless-beyond-the-streets-gallery"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Ritual Error – Terminal with Benefits | Album Review - Noizze UK",
+    "src": "Noizze UK",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PTHlmNmxlQ2RQQXM3azdoNUZ2NUlxZkl1SXZYUnVrZ2RLWlJGTEliVU5uRDZFWHBvLXNaY2VSMjlfYXVZd2hXQzNzQVFQVTVtUWdCTE9PZDJvS3R0SHItb0tabU5HbzZmOFN4MGpTcVZCY2stTXh0T1ZMeWp0aGs?oc=5",
+    "timestamp": "2026-09-24T15:18:15+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Ritual Error – Terminal with Benefits | Album Review Noizze UK",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Noizze UK",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PTHlmNmxlQ2RQQXM3azdoNUZ2NUlxZkl1SXZYUnVrZ2RLWlJGTEliVU5uRDZFWHBvLXNaY2VSMjlfYXVZd2hXQzNzQVFQVTVtUWdCTE9PZDJvS3R0SHItb0tabU5HbzZmOFN4MGpTcVZCY2stTXh0T1ZMeWp0aGs?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "WATCH: 'Ozzy & Black Sabbath: Back To The Beginning' Official Trailer Released",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/ozzy-osbourne-forever/watch-ozzy-black-sabbath-back-to-the-beginning-official-trailer-released",
+    "timestamp": "2026-09-24T15:17:05+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Coming to cinemas later this autumn. The post WATCH: 'Ozzy & Black Sabbath: Back To The Beginning' Official Trailer Released appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/ozzy-osbourne-forever/watch-ozzy-black-sabbath-back-to-the-beginning-official-trailer-released"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "'Best Combo Meal on the Worst Night': Wendy's releases 6-track emo album - Nonstop Local News",
+    "src": "Nonstop Local News",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOb0xscVJiVEdMSmpFT3FiQWlIc0F1TXZyLW42QnNZMk4wX0d2Rkk2SGF6aktjMDNKWl9lN3RLS051MXcwcGhvUXQ3S2QwRHhQSHNBUmdwcnAyQjF2blA0TkZCNENKSE54TlhNYkw5dkxZWXg3SFhlbmlPc3hrWUVOZnJwUG1aVlZtVFRuR2MtVU1wNm8wUzd6a2dSdnE2TDY1bDhBdm82Y3JSTW5IWEVsaF9ocUZRNFFMM3ByTlJqdG1lR0Y5Q09PQjl2TDdqVzc3VFZoU1V1dFdpQlJLSnBEdFVoWTRJeFRKcUVaMWJ6OU5jWUVU?oc=5",
+    "timestamp": "2026-09-24T15:03:00+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "'Best Combo Meal on the Worst Night': Wendy's releases 6-track emo album Nonstop Local News",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Nonstop Local News",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOb0xscVJiVEdMSmpFT3FiQWlIc0F1TXZyLW42QnNZMk4wX0d2Rkk2SGF6aktjMDNKWl9lN3RLS051MXcwcGhvUXQ3S2QwRHhQSHNBUmdwcnAyQjF2blA0TkZCNENKSE54TlhNYkw5dkxZWXg3SFhlbmlPc3hrWUVOZnJwUG1aVlZtVFRuR2MtVU1wNm8wUzd6a2dSdnE2TDY1bDhBdm82Y3JSTW5IWEVsaF9ocUZRNFFMM3ByTlJqdG1lR0Y5Q09PQjl2TDdqVzc3VFZoU1V1dFdpQlJLSnBEdFVoWTRJeFRKcUVaMWJ6OU5jWUVU?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "EVANESCENCE announce expanded anniversary edition of ‘The Open Door’",
+    "src": "Revolver",
+    "url": "https://www.revolvermag.com/news/evanescence-announce-expanded-anniversary-edition-of-the-open-door/",
+    "timestamp": "2026-09-24T15:01:04+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Exclusive “Mercury Blend” vinyl pressing in Revolver’s shop",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Revolver",
+        "url": "https://www.revolvermag.com/news/evanescence-announce-expanded-anniversary-edition-of-the-open-door/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "APOCALYPTICA Releases 'Upperhand' Song For 'Control Resonant' Video Game",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/apocalyptica-releases-upperhand-song-for-control-resonant-video-game",
+    "timestamp": "2026-09-24T14:36:49+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Finnish cello rockers APOCALYPTICA have teamed up with Katrine Stenbekk of Norwegian alternative folk band KALANDRA for \"Upperhand\", which evolved from their instrumental main theme of Remedy Entertainment's upcoming video game CONTROL Resonant. Born from the game's unsettling, paranatural world, \"U...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/apocalyptica-releases-upperhand-song-for-control-resonant-video-game"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "'America's Got Talent' Winner Lands Opening Spot for Major Band",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/americas-got-talent-nene-royal-opening-spot-avenged-sevenfold/",
+    "timestamp": "2026-09-24T14:32:47+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Nene Royal will open for Avenged Sevenfold when they play in Singapore in October 2026. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/americas-got-talent-nene-royal-opening-spot-avenged-sevenfold/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "BULLET FOR MY VALENTINE announce new album with biting song “Social Apocalypse”",
+    "src": "Revolver",
+    "url": "https://www.revolvermag.com/music/bullet-for-my-valentine-announce-album-with-new-song-social-apocalypse/",
+    "timestamp": "2026-09-24T14:30:50+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "About “the end of the world as we know it”",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Revolver",
+        "url": "https://www.revolvermag.com/music/bullet-for-my-valentine-announce-album-with-new-song-social-apocalypse/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "ASIA Releases Music Video For 'Arcadia' Single From Upcoming 'Indigo' Album",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/asia-releases-music-video-for-arcadia-single-from-upcoming-indigo-album",
+    "timestamp": "2026-09-24T13:55:22+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Legendary English rock supergroup ASIA will release its new studio album, \"Indigo\", on November 6, 2026 via Frontiers Music Srl. The LP features ASIA's current lineup consisting of Geoff Downes (keyboards),Virgil Donati (drums),John Mitchell (guitar) and Harry Whitley (bass, vocals). The official mu...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/asia-releases-music-video-for-arcadia-single-from-upcoming-indigo-album"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Dominican Singer-Songwriter Alex Ferreira Reunites With Silvana Estrada at Tiny Desk: Watch",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/09/dominican-alex-ferreira-silvana-estrada-tiny-desk/",
+    "timestamp": "2026-09-24T16:20:30+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "The longtime collaborators reunited for “Me Pierdo Contigo” during Ferreira’s debut behind the Desk. Dominican Singer-Songwriter Alex Ferreira Reunites With Silvana Estrada at Tiny Desk: Watch Pedro Camacho",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/09/dominican-alex-ferreira-silvana-estrada-tiny-desk/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "U2 Announce New Album Carnaval De Luz, Unveil New Song “Silencio”: Stream",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/09/u2-carnaval-de-lux-new-album-silencio-stream/",
+    "timestamp": "2026-09-24T16:17:57+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Arriving on November 13th, the Irish band's new album features collaborations from the late Dolly Parton, Brian Eno, and more. U2 Announce New Album Carnaval De Luz, Unveil New Song “Silencio”: Stream Paolo Ragusa",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/09/u2-carnaval-de-lux-new-album-silencio-stream/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Blithe Field Announces New Album Soft Core Hard Wear: Hear “Milked Rainbow”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2512428/blithe-field-announces-new-album-soft-core-hard-wear-hear-milked-rainbow/music/",
+    "timestamp": "2026-09-24T16:13:36+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Spencer Radcliffe is back as Blithe Field . The Midwestern musician is releasing his new album Soft Core Hard Wear , the follow-up to 2023's Grits Kissed , next month via Orindal Records. The first preview of the project is the single \"Milked Rainbow,\" which is an incredible title alone. But the song itself is also mys",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2512428/blithe-field-announces-new-album-soft-core-hard-wear-hear-milked-rainbow/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Prodigy announce ‘Breathe’ 30th anniversary 12″ vinyl",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/the-prodigy-announce-breathe-30th-anniversary-12-vinyl-3970649?utm_source=rss&utm_medium=rss&utm_campaign=the-prodigy-announce-breathe-30th-anniversary-12-vinyl",
+    "timestamp": "2026-09-24T16:12:42+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "The special reissue of the rave anthem will feature remixes and an instrumental The post The Prodigy announce ‘Breathe’ 30th anniversary 12″ vinyl appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/the-prodigy-announce-breathe-30th-anniversary-12-vinyl-3970649?utm_source=rss&utm_medium=rss&utm_campaign=the-prodigy-announce-breathe-30th-anniversary-12-vinyl"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Dolly Parton’s Final Recorded Vocals Featured on New U2 Track “Torn”",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/09/dolly-parton-u2-torn-final-vocals/",
+    "timestamp": "2026-09-24T16:05:42+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "The song will serve as the closing track on U2's upcoming new album, Carnaval De Luz. Dolly Parton’s Final Recorded Vocals Featured on New U2 Track “Torn” Ben Kaye",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/09/dolly-parton-u2-torn-final-vocals/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Anthony Naples – “BBT” & “Seven”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2512449/anthony-naples-bbt-seven/music/",
+    "timestamp": "2026-09-24T16:03:14+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Electronic producer Anthony Naples come from New York (not Naples) and makes tastefully bangin' dance tracks. His album Scanners came out last year, and now he's got two more jams on a new single. I don't know what the title of \"BBT\" stands for, but it's got a booming house beat and a whole lot of mini-hooks. \"Seven\" l",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2512449/anthony-naples-bbt-seven/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "U2 announce long-awaited new album ‘Carnaval De Luz’ and share charismatic single ‘Silencio’",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/u2-announce-long-awaited-new-album-carnaval-de-luz-single-silencio-3970629?utm_source=rss&utm_medium=rss&utm_campaign=u2-announce-long-awaited-new-album-carnaval-de-luz-single-silencio",
+    "timestamp": "2026-09-24T16:00:28+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "“It’s a messy, provocative, sacred collection of songs,” The Edge said of the record, which features Dolly Parton’s final vocal performance on ‘Torn’ The post U2 announce long-awaited new album ‘Carnaval De Luz’ and share charismatic single ‘Silencio’ appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/u2-announce-long-awaited-new-album-carnaval-de-luz-single-silencio-3970629?utm_source=rss&utm_medium=rss&utm_campaign=u2-announce-long-awaited-new-album-carnaval-de-luz-single-silencio"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The War On Drugs Debut New Song “Now We’re Talkin'” In Birmingham",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2512442/the-war-on-drugs-debut-new-song-now-were-talkin-in-birmingham/news/",
+    "timestamp": "2026-09-24T15:50:42+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Now we are indeed talking. The War On Drugs returned last month with \" Who's That ,\" their first new single in four years, and it lived up to our lofty expectations . The band is out on the road right now, and they presented another new track for the good people of Birmingham. The post The War On Drugs Debut New Song “",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2512442/the-war-on-drugs-debut-new-song-now-were-talkin-in-birmingham/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Lizzy McAlpine Announces 2027 “The Over Country Tour”",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/09/lizzy-mcalpine-2027-the-over-country-tour-dates/",
+    "timestamp": "2026-09-24T15:47:46+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "The expansive trek is in support of her latest album, Angel. Lizzy McAlpine Announces 2027 “The Over Country Tour” Eddie Fu",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/09/lizzy-mcalpine-2027-the-over-country-tour-dates/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Amy Grant To Release Deluxe Edition of ‘The Me That Remains’ - MusicRow.com",
+    "src": "MusicRow.com",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdFhZaW9wTDJ6V2JRc2lIRVBKVHhlMTdfOXBJTzNVNVo3ckt1Q1BBNC04TWZHb2UxSFdPWDRLWUhjRkR2YWZNYXJSaUpWYVlRWDFEcnNjVFBiZmFMUWVQekQtcWU0bVZuOFp3WHJqVlFHbnNLWGRleTFYTUxZZVpMTmxHbGd1SHNoUnZZeWlON1h0QQ?oc=5",
+    "timestamp": "2026-09-24T15:41:36+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Amy Grant To Release Deluxe Edition of ‘The Me That Remains’ MusicRow.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "MusicRow.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdFhZaW9wTDJ6V2JRc2lIRVBKVHhlMTdfOXBJTzNVNVo3ckt1Q1BBNC04TWZHb2UxSFdPWDRLWUhjRkR2YWZNYXJSaUpWYVlRWDFEcnNjVFBiZmFMUWVQekQtcWU0bVZuOFp3WHJqVlFHbnNLWGRleTFYTUxZZVpMTmxHbGd1SHNoUnZZeWlON1h0QQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Bonniesongs – “Scream”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2512418/bonniesongs-scream/music/",
+    "timestamp": "2026-09-24T15:37:27+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Bonniesongs is the musical moniker of Irish-born, Australian-based multi-instrumentalist Bonnie Stewart, who has classified her off-kilter songwriting as \"ethereal grunge.\" Today, she returned with a peculiar banger called \"Scream.\" The post Bonniesongs – “Scream” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2512418/bonniesongs-scream/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Something In The Way 2027 Has JAMC, Turnover, Wednesday, TUI, More",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2512431/something-in-the-way-2027-has-jamc-turnover-wednesday-tui-more/news/",
+    "timestamp": "2026-09-24T15:34:41+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "The Jesus And Mary Chain and Trapped Under Ice are playing the same show. That's fucking awesome. For the past few years, the people at Run For Cover Records have worked together to put on Something In The Way , an extremely cool annual Boston festival that brings together different strains of cool-as-hell guitar music",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2512431/something-in-the-way-2027-has-jamc-turnover-wednesday-tui-more/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Michael Kiwanuka Serves Up New Album Fudge",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/michael-kiwanuka-serves-up-new-album-fudge/",
+    "timestamp": "2026-09-24T15:22:48+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/michael-kiwanuka-serves-up-new-album-fudge/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Taylor Swift’s new ‘Patient Zero’ video, starring Dakota Johnson and Colin Farrell, to premiere at MTV VMAs",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/taylor-swifts-new-patient-zero-video-starring-dakota-johnson-and-colin-farrell-to-premiere-at-mtv-vmas-3970619?utm_source=rss&utm_medium=rss&utm_campaign=taylor-swifts-new-patient-zero-video-starring-dakota-johnson-and-colin-farrell-to-premiere-at-mtv-vmas",
+    "timestamp": "2026-09-24T15:19:31+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "The pop giant directed the dramatic-looking visuals herself The post Taylor Swift’s new ‘Patient Zero’ video, starring Dakota Johnson and Colin Farrell, to premiere at MTV VMAs appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/taylor-swifts-new-patient-zero-video-starring-dakota-johnson-and-colin-farrell-to-premiere-at-mtv-vmas-3970619?utm_source=rss&utm_medium=rss&utm_campaign=taylor-swifts-new-patient-zero-video-starring-dakota-johnson-and-colin-farrell-to-premiere-at-mtv-vmas"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘Grand Theft Auto 6’s £350 collector’s edition doesn’t include the game",
+    "src": "NME",
+    "url": "https://www.nme.com/news/gaming-news/grand-theft-auto-6-physical-collectors-edition-pre-order-goodtime-state-3970637?utm_source=rss&utm_medium=rss&utm_campaign=grand-theft-auto-6-physical-collectors-edition-pre-order-goodtime-state",
+    "timestamp": "2026-09-24T15:18:04+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "‘The Goodtime State – Vice City Collection’ is available to pre-order now The post ‘Grand Theft Auto 6’s £350 collector’s edition doesn’t include the game appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/gaming-news/grand-theft-auto-6-physical-collectors-edition-pre-order-goodtime-state-3970637?utm_source=rss&utm_medium=rss&utm_campaign=grand-theft-auto-6-physical-collectors-edition-pre-order-goodtime-state"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Johnny Depp Seeks Out Revenge in Very Bloody Day Drinker Trailer: Watch",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/09/day-drinker-trailer-johnny-depp/",
+    "timestamp": "2026-09-24T15:11:08+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "The revenge thriller arrives in theaters in March 2027. Johnny Depp Seeks Out Revenge in Very Bloody Day Drinker Trailer: Watch Liz Shannon Miller",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/09/day-drinker-trailer-johnny-depp/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Trailer and Setlist Unveiled for Concert Film Ozzy & Black Sabbath: Back to the Beginning",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/09/trailer-setlist-concert-film-ozzy-black-sabbath-back-to-the-beginning/",
+    "timestamp": "2026-09-24T15:10:24+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "The movie will hit theaters on October 28th. Trailer and Setlist Unveiled for Concert Film Ozzy & Black Sabbath: Back to the Beginning Spencer Kaufman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/09/trailer-setlist-concert-film-ozzy-black-sabbath-back-to-the-beginning/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Macklemore Announces Free Palestine Tour",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/macklemore-announces-free-palestine-tour/",
+    "timestamp": "2026-09-24T15:09:22+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/macklemore-announces-free-palestine-tour/"
+      },
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2512425/macklemore-announces-free-palestine-tour/news/"
+      },
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/09/macklemore-free-palestine-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 3,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Macklemore announces ‘Free Palestine’ music tour after Ed Sheeran debacle - Page Six",
+    "src": "Page Six",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWWF2TW54WXkybEJFWjVkMWlUOWJIQmhNa1pHNXdPal9QNlJFLXFTVGpkQWU2VnlXUlNuaTl3cEt4Z29VSVRzd2I2VS1NdWczSUVKZHRSZVprYnlpOUdfS2txMW9vUEtmcjZvNS1yZDE1bXRiZC0xUUNtaVRGNVNfcmZQenZtNlc4dTJTVGp3VXdSaFkxM1I4aGNTOVdGNDFjdmFSQjc5R0xub0JmUndKY1dkcGN1RG9Q?oc=5",
+    "timestamp": "2026-09-24T15:02:36+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Macklemore announces ‘Free Palestine’ music tour after Ed Sheeran debacle Page Six",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Page Six",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWWF2TW54WXkybEJFWjVkMWlUOWJIQmhNa1pHNXdPal9QNlJFLXFTVGpkQWU2VnlXUlNuaTl3cEt4Z29VSVRzd2I2VS1NdWczSUVKZHRSZVprYnlpOUdfS2txMW9vUEtmcjZvNS1yZDE1bXRiZC0xUUNtaVRGNVNfcmZQenZtNlc4dTJTVGp3VXdSaFkxM1I4aGNTOVdGNDFjdmFSQjc5R0xub0JmUndKY1dkcGN1RG9Q?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Sebadoh Reissuing Harmacy for 30th Anniversary",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/sebadoh-reissuing-harmacy-for-30th-anniversary/",
+    "timestamp": "2026-09-24T15:00:16+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/sebadoh-reissuing-harmacy-for-30th-anniversary/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Julia Jacklin On Chaos, Control, And The Gem",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2512389/julia-jacklin-on-chaos-control-and-the-gem/interviews/qa/",
+    "timestamp": "2026-09-24T14:54:43+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Julia Jacklin is changing her mind. There’s power in that. When I spoke with the Melbourne-based musician about her last album Pre Pleasure , in 2022, she imagined that her future self might approach music with more calculation. “Maybe when I have a bit more time, I’ll come in with real intentions. But at the moment, w",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2512389/julia-jacklin-on-chaos-control-and-the-gem/interviews/qa/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "serpentwithfeet Announces New EP Sentinel: Hear The Title Track",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2512413/serpentwithfeet-announces-new-ep-sentinel-hear-the-title-track/music/",
+    "timestamp": "2026-09-24T14:46:09+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "The Baltimore-born, New York-based artist serpentwithfeet continues to explore R&B tradition through the lens of queer sexuality, a rich basis for a fascinating career. After releasing the 2024 album Grip and its 2025 companion piece Grip Sequel , serpentwithfeet is coming back with a new EP called Sentinel . Its title",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2512413/serpentwithfeet-announces-new-ep-sentinel-hear-the-title-track/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Beach Boys Suddenly Cancel September Shows Without Explanation",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/09/the-beach-boys-cancel-september-tour-dates/",
+    "timestamp": "2026-09-24T14:36:22+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "The group had been set to return to the road after canceling summer tour dates for Mike Love to \"recharge.\" The Beach Boys Suddenly Cancel September Shows Without Explanation Eddie Fu",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/09/the-beach-boys-cancel-september-tour-dates/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Sebadoh Announce Deluxe 30th Anniversary Edition Of Harmacy: Hear “Beauty Of The Ride (Alternate Version)”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2512348/sebadoh-announce-deluxe-30th-anniversary-edition-of-harmacy-hear-beauty-of-the-ride-alternate-version/music/",
+    "timestamp": "2026-09-24T14:36:05+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Sebadoh are celebrating 30 years of their sixth album Harmacy . The indie rockers announced an anniversary edition today, and an alternate version of the track \"Beauty Of The Ride\" is out now. The post Sebadoh Announce Deluxe 30th Anniversary Edition Of <em>Harmacy</em>: Hear “Beauty Of The Ride (Alternate Version)” ap",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2512348/sebadoh-announce-deluxe-30th-anniversary-edition-of-harmacy-hear-beauty-of-the-ride-alternate-version/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Boys Noize Announces New Album 7LLVSION, Reveals New Song “1+1+1”: Stream",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/09/boys-noize-new-album-7llvsion-new-song-1-1-1-stream/",
+    "timestamp": "2026-09-24T14:29:27+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "The producer and DJ's first new album in five years is out everywhere on November 6th. Boys Noize Announces New Album 7LLVSION, Reveals New Song “1+1+1”: Stream Paolo Ragusa",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/09/boys-noize-new-album-7llvsion-new-song-1-1-1-stream/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Cassie Jean and the Fireflies to headline release party at Fogartyville - ABC7 WWSB",
+    "src": "ABC7 WWSB",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUERIOUNvbTltU1FubFVtRGJZVnBaREc5OHZoVTNnYzZnWFp1TFRJMUV2T3lUUWZMaF85d21icTFIVUFhdGNXT2k0eTUxQm1vVF84YjBXUVhwLUlIN3ZoZFByU1NIY0dveFo4Rlo4ODByeGdpYzFseFY3aWxsM0lzRVdxazRreGNJeGZFeU11bjJuZWt6ZkVROTlPSzDSAbABQVVfeXFMTy05dVNEZUVkMkVJOU95UmlGZTdmNXJjYmYzLVFYQm9WcHdESUVXd0FRMVNDd0xKWjFVRmR3dGV1bHVzcjVCVmk2VWJDLTlQcFdZdExfYmRlWGlwYS10a1lyVkFWbXRpUlczaElfbHBqdzRPQXFNbUJBUnJtdU9kVElreU9TQnhwdmZkSHVNTWV4LUtqaEp0S1pEVzZ3c1hBQnRLYU5lLTJabEdva0RDX0k?oc=5",
+    "timestamp": "2026-09-24T14:23:00+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Cassie Jean and the Fireflies to headline release party at Fogartyville ABC7 WWSB",
+    "category": "general",
+    "sources": [
+      {
+        "name": "ABC7 WWSB",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUERIOUNvbTltU1FubFVtRGJZVnBaREc5OHZoVTNnYzZnWFp1TFRJMUV2T3lUUWZMaF85d21icTFIVUFhdGNXT2k0eTUxQm1vVF84YjBXUVhwLUlIN3ZoZFByU1NIY0dveFo4Rlo4ODByeGdpYzFseFY3aWxsM0lzRVdxazRreGNJeGZFeU11bjJuZWt6ZkVROTlPSzDSAbABQVVfeXFMTy05dVNEZUVkMkVJOU95UmlGZTdmNXJjYmYzLVFYQm9WcHdESUVXd0FRMVNDd0xKWjFVRmR3dGV1bHVzcjVCVmk2VWJDLTlQcFdZdExfYmRlWGlwYS10a1lyVkFWbXRpUlczaElfbHBqdzRPQXFNbUJBUnJtdU9kVElreU9TQnhwdmZkSHVNTWV4LUtqaEp0S1pEVzZ3c1hBQnRLYU5lLTJabEdva0RDX0k?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Jesse Labelle Will Lead New Tour of A BEAUTIFUL NOISE - BroadwayWorld",
+    "src": "BroadwayWorld",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLXc0eGFNalVLckpaN0pUN0o1VjNCb1ZhQzUyc0o2TUkzSUdLZVp0QmpHRVI2SFhVbnRrU1dGcWVPcnJ5d3JwaHExMk9qU1ROSFRGRnpmTnBWbFI0RE9Pa2h6U19EQzYyenk0M0FRck9WcmRCbUp4alpyeHhKM3RnMExBazlsR1Brdkdvc21ib3dCV2V4NHQ5ZDFwV1hxZzFtTXc?oc=5",
+    "timestamp": "2026-09-24T13:09:10+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Jesse Labelle Will Lead New Tour of A BEAUTIFUL NOISE BroadwayWorld",
+    "category": "general",
+    "sources": [
+      {
+        "name": "BroadwayWorld",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLXc0eGFNalVLckpaN0pUN0o1VjNCb1ZhQzUyc0o2TUkzSUdLZVp0QmpHRVI2SFhVbnRrU1dGcWVPcnJ5d3JwaHExMk9qU1ROSFRGRnpmTnBWbFI0RE9Pa2h6U19EQzYyenk0M0FRck9WcmRCbUp4alpyeHhKM3RnMExBazlsR1Brdkdvc21ib3dCV2V4NHQ5ZDFwV1hxZzFtTXc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Colin Farrell and Dakota Johnson to Star in Taylor Swift’s Music Video for “Patient Zero” - The Hollywood Reporter",
+    "src": "The Hollywood Reporter",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYnZqQkNiMDRweDBTcjhIVUJEYjlVMkgtU2FHbFpZdHZPZlVhNC1GUUc5ZHV6RlUyQWJKLXZlRUw3VlhOSHFacms3NmNDZzBCRWRrdmdidV9pUllkc19WVjZHendKRjJ6dmYzd2FkZGljeFNUZS1MZlh1ZTBRMWxLdGxSc2dwWG9GWm0zR2VaLTZZeXlfNDhKZ0otcjl4T2Zp?oc=5",
+    "timestamp": "2026-09-24T12:34:40+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Colin Farrell and Dakota Johnson to Star in Taylor Swift’s Music Video for “Patient Zero” The Hollywood Reporter",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Hollywood Reporter",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYnZqQkNiMDRweDBTcjhIVUJEYjlVMkgtU2FHbFpZdHZPZlVhNC1GUUc5ZHV6RlUyQWJKLXZlRUw3VlhOSHFacms3NmNDZzBCRWRrdmdidV9pUllkc19WVjZHendKRjJ6dmYzd2FkZGljeFNUZS1MZlh1ZTBRMWxLdGxSc2dwWG9GWm0zR2VaLTZZeXlfNDhKZ0otcjl4T2Zp?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Diddy's Longtime Chief Of Staff Kristina Khorram Reportedly Now Works For Usher - Complex",
+    "src": "Complex",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWGdzdUxOSXFZcFdnLXZBdUtXTmdibUsyRmcxYklzazlZTWtMV3JRRDJxRU9lUWlzaFVmb1dzZWJIZ3VSOE5uRVJLWFhFSmhiNm9XS2VCaVVBYWhUQnZ4Q1BTdGpxUDJDZ2c0Wkw5c0hoYVdtcExlT1Zub09mSlRyWXJR?oc=5",
+    "timestamp": "2026-09-24T01:39:13+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "Diddy's Longtime Chief Of Staff Kristina Khorram Reportedly Now Works For Usher Complex",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Complex",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWGdzdUxOSXFZcFdnLXZBdUtXTmdibUsyRmcxYklzazlZTWtMV3JRRDJxRU9lUWlzaFVmb1dzZWJIZ3VSOE5uRVJLWFhFSmhiNm9XS2VCaVVBYWhUQnZ4Q1BTdGpxUDJDZ2c0Wkw5c0hoYVdtcExlT1Zub09mSlRyWXJR?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Morphine anunciam novo álbum com gravações de Mark Sandman",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/morphine-anunciam-novo-album-com-gravacoes-de-mark-sandman/",
+    "timestamp": "2026-09-24T14:19:11+00:00",
+    "isoDate": "2026-09-24",
+    "date": "24 Set",
+    "d": "%featured_image% Os Morphine vão editar \"Cocoon\", um novo álbum construído a partir de gravações deixadas por Mark Sandman antes da sua morte, em 1999. O disco chega no final do ano e inclui novas partes de saxofone gravadas por Dana Colley.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/morphine-anunciam-novo-album-com-gravacoes-de-mark-sandman/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "The Eternal",
+    "t": "Obscured Horizons Review",
+    "src": "Angry Metal Guy",
+    "date": "24 Set",
+    "isoDate": "2026-09-24",
+    "timestamp": "2026-09-24T15:53:27+00:00",
+    "url": "https://www.angrymetalguy.com/the-eternal-obscured-horizons-review/",
+    "d": "\"I've been slinging positive words about the relatively unknown Aussie Goth-doom crew The Eternal since 2018, when I was first captivated by their Waiting for the Eternal Dawn opus. It was like a variation on classic Peaceville doom mixed with acts like To Die",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "the eternal|obscured horizons review",
+    "kind": "review",
+    "section": "rev"
+  },
+  {
+    "title": "Dolly Parton's nephew reportedly fired as head of security amid estate dispute - USA Today",
+    "src": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNzVtVmkyVXM5VWw5eFdCXzBfTmRkWEhLdHVUdFBLVU95RXZtLTk0T25CVUhNWGlvYXNKbnV2MzY3UFgxQVdnRTRVSGd6WVpoQ0Q3bmpXZUNsNjI1UHJNWVp2aDZIYkU1c3g0OURuUVJUckRWbldSd2N3c1lVMUwyazltYmR2WS1yZmhHNjBqbTZFZWNYcVI1TFQwYU9RS0tka0VuN0lzb21QNlpDbHdJQnhqOGJicEZYM0w2X2dtQQ?oc=5",
     "timestamp": "2026-09-23T02:19:00+00:00",
     "isoDate": "2026-09-23",
     "date": "23 Set",
-    "d": "Dolly Parton's nephew reportedly fired as head of security amid estate dispute usatoday.com",
+    "d": "Dolly Parton's nephew reportedly fired as head of security amid estate dispute USA Today",
     "category": "general",
     "sources": [
       {
-        "name": "usatoday.com",
+        "name": "USA Today",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNzVtVmkyVXM5VWw5eFdCXzBfTmRkWEhLdHVUdFBLVU95RXZtLTk0T25CVUhNWGlvYXNKbnV2MzY3UFgxQVdnRTRVSGd6WVpoQ0Q3bmpXZUNsNjI1UHJNWVp2aDZIYkU1c3g0OURuUVJUckRWbldSd2N3c1lVMUwyazltYmR2WS1yZmhHNjBqbTZFZWNYcVI1TFQwYU9RS0tka0VuN0lzb21QNlpDbHdJQnhqOGJicEZYM0w2X2dtQQ?oc=5"
       }
     ],
@@ -1952,17 +3310,17 @@
     "section": "news"
   },
   {
-    "title": "‘80s metal band announces tour with new 23-year-old lead singer (photo) - syracuse.com",
-    "src": "syracuse.com",
+    "title": "‘80s metal band announces tour with new 23-year-old lead singer (photo) - Syracuse.com",
+    "src": "Syracuse.com",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPelFVQklBaE1QeGRHUjJUTFhZem9XbS1YMy1kODBxZDNkU3NlS0IwWmRCX2lVZGxlVTh6eWxrczZ6R0tVaEt5YTJ3MTVWMWNIdGZ1YlpaNDh5VGh0NWQ4MFpDWUlYMjdpLTZHRnEwSFVCbk9BcWpNNlV0dGlJbWZPYWQ4eWk3RS1OY3ZhQmtGdFk1UWFDTXp4Y1VNNktuLUxYd0RMMlFiVkhFRmU2QVZBaC1lZmRpRzZnbW1KbNIB0AFBVV95cUxQYjFTMlpPZUVZNkNKeVhOU01BX0hncXNtZE85OXJSMHlVWmIzaFg2dDFfUFdnLVgzYjlzOEhueFRBUEV6U1ZSYmNnMWVyZ1RfMW1HOUFadnpKcnVJaHRNRGZJdFdKdUN4Q0xoNnhmX3V0aW5hb0lULS1DQ1Y1VXZiT0ZqdWEyMzBkanRIU1JjeFBiMkh1TDlzMkdrNkF2eXgyZmMzLUlkRkNJVnpTSzdSM0Y5dVRySC1yeS05WEJ3YTctVmRKY25DTFRjeE5rQl9z?oc=5",
     "timestamp": "2026-09-23T10:00:00+00:00",
     "isoDate": "2026-09-23",
     "date": "23 Set",
-    "d": "‘80s metal band announces tour with new 23-year-old lead singer (photo) syracuse.com",
+    "d": "‘80s metal band announces tour with new 23-year-old lead singer (photo) Syracuse.com",
     "category": "metal",
     "sources": [
       {
-        "name": "syracuse.com",
+        "name": "Syracuse.com",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPelFVQklBaE1QeGRHUjJUTFhZem9XbS1YMy1kODBxZDNkU3NlS0IwWmRCX2lVZGxlVTh6eWxrczZ6R0tVaEt5YTJ3MTVWMWNIdGZ1YlpaNDh5VGh0NWQ4MFpDWUlYMjdpLTZHRnEwSFVCbk9BcWpNNlV0dGlJbWZPYWQ4eWk3RS1OY3ZhQmtGdFk1UWFDTXp4Y1VNNktuLUxYd0RMMlFiVkhFRmU2QVZBaC1lZmRpRzZnbW1KbNIB0AFBVV95cUxQYjFTMlpPZUVZNkNKeVhOU01BX0hncXNtZE85OXJSMHlVWmIzaFg2dDFfUFdnLVgzYjlzOEhueFRBUEV6U1ZSYmNnMWVyZ1RfMW1HOUFadnpKcnVJaHRNRGZJdFdKdUN4Q0xoNnhmX3V0aW5hb0lULS1DQ1Y1VXZiT0ZqdWEyMzBkanRIU1JjeFBiMkh1TDlzMkdrNkF2eXgyZmMzLUlkRkNJVnpTSzdSM0Y5dVRySC1yeS05WEJ3YTctVmRKY25DTFRjeE5rQl9z?oc=5"
       }
     ],
@@ -2002,17 +3360,17 @@
     "section": "news"
   },
   {
-    "title": "Long Island singer, 23, becomes frontman for heavy metal band Quiet Riot after online audition - New York Post",
-    "src": "New York Post",
+    "title": "Long Island singer, 23, becomes frontman for heavy metal band Quiet Riot after online audition - nypost.com",
+    "src": "nypost.com",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ1NYU2wyak9FZWp6VDd4emNFNHRIS21ONDBiLVdrWS13MkpjamZHdXd4NEFxNUtTT2MyWUMtYkV6dG9ZMjFvZjBQMTFFVHZxenFBNi0yWUdmWC1LV25oOV9CQmJ3OTdEaGNIMzFFaUJyWnNITmt1eGU2LXZGMjhiZzVna2dxaTVFcWNkNWZEUzhkcERGMk84ZzRYTktCUlhjbjNzWnBoV1J3MkZWYkxqQWVyNldaMzZTcjZmRkt4dnJXbUl2Q1FVVmVR?oc=5",
     "timestamp": "2026-09-23T09:09:00+00:00",
     "isoDate": "2026-09-23",
     "date": "23 Set",
-    "d": "Long Island singer, 23, becomes frontman for heavy metal band Quiet Riot after online audition New York Post",
+    "d": "Long Island singer, 23, becomes frontman for heavy metal band Quiet Riot after online audition nypost.com",
     "category": "metal",
     "sources": [
       {
-        "name": "New York Post",
+        "name": "nypost.com",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ1NYU2wyak9FZWp6VDd4emNFNHRIS21ONDBiLVdrWS13MkpjamZHdXd4NEFxNUtTT2MyWUMtYkV6dG9ZMjFvZjBQMTFFVHZxenFBNi0yWUdmWC1LV25oOV9CQmJ3OTdEaGNIMzFFaUJyWnNITmt1eGU2LXZGMjhiZzVna2dxaTVFcWNkNWZEUzhkcERGMk84ZzRYTktCUlhjbjNzWnBoV1J3MkZWYkxqQWVyNldaMzZTcjZmRkt4dnJXbUl2Q1FVVmVR?oc=5"
       }
     ],
@@ -2812,17 +4170,17 @@
     "section": "news"
   },
   {
-    "title": "Metal meets Mongolian throat singing and instruments in Uuhai’s Hong Kong debut - South China Morning Post",
-    "src": "South China Morning Post",
+    "title": "Metal meets Mongolian throat singing and instruments in Uuhai’s Hong Kong debut - SCMP",
+    "src": "SCMP",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT21ORFV4dG5oOHRnZkkyLTNvUlA3SktoMlZha1dIXy1VX09rV2FPSm5CMndLNU50VXJBRXExbDlnR2lHdExwT1RZQlB4bG5EbGNaNDFwZFFHQVNlU05MdXpGUmJ4eUhUN0hWaWVzaF80aUJUalhfaE5UVEZLaW85V19ndzF4SE9DZU5IUGt6b1lsVzlJSUN1VW1iZzJYNmZpbi1leWZiMGd1YVRDQzZoLTJkVElWbXNkeDkwVWNmbDREUFZEbVHSAcYBQVVfeXFMTk9tTkRVeHRuaDh0Z2ZJMi0zb1JQN0pLaDJWYWtXSF8tVV9Pa1dhT0puQjJ3SzVOdFVyQUVxMWw5Z0dpR3RMcE9UWUJQeGxuRGxjWjQxcGRRR0FTZVNOTHV6RlJieHlIVDdIVmllc2hfNGlCVGpYX2hOVFRGS2lvOVdfZ3cxeEhPQ2VOSFBrem9ZbFc5SUlDdVVtYmcyWDZmaW4tZXlmYjBndWFUQ0M2aC0yZFRJVm1zZHg5MFVjZmw0RFBWRG1R?oc=5",
     "timestamp": "2026-09-23T10:15:06+00:00",
     "isoDate": "2026-09-23",
     "date": "23 Set",
-    "d": "Metal meets Mongolian throat singing and instruments in Uuhai’s Hong Kong debut South China Morning Post",
+    "d": "Metal meets Mongolian throat singing and instruments in Uuhai’s Hong Kong debut SCMP",
     "category": "metal",
     "sources": [
       {
-        "name": "South China Morning Post",
+        "name": "SCMP",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT21ORFV4dG5oOHRnZkkyLTNvUlA3SktoMlZha1dIXy1VX09rV2FPSm5CMndLNU50VXJBRXExbDlnR2lHdExwT1RZQlB4bG5EbGNaNDFwZFFHQVNlU05MdXpGUmJ4eUhUN0hWaWVzaF80aUJUalhfaE5UVEZLaW85V19ndzF4SE9DZU5IUGt6b1lsVzlJSUN1VW1iZzJYNmZpbi1leWZiMGd1YVRDQzZoLTJkVElWbXNkeDkwVWNmbDREUFZEbVHSAcYBQVVfeXFMTk9tTkRVeHRuaDh0Z2ZJMi0zb1JQN0pLaDJWYWtXSF8tVV9Pa1dhT0puQjJ3SzVOdFVyQUVxMWw5Z0dpR3RMcE9UWUJQeGxuRGxjWjQxcGRRR0FTZVNOTHV6RlJieHlIVDdIVmllc2hfNGlCVGpYX2hOVFRGS2lvOVdfZ3cxeEhPQ2VOSFBrem9ZbFc5SUlDdVVtYmcyWDZmaW4tZXlmYjBndWFUQ0M2aC0yZFRJVm1zZHg5MFVjZmw0RFBWRG1R?oc=5"
       }
     ],
@@ -3731,17 +5089,17 @@
     "section": "news"
   },
   {
-    "title": "Bad Brains Share a Previously Unreleased Version of \"Pay To Cum\" - First Ever Studio Recordings to Release Soon via Trust Records - Ghost Cult Magazine",
-    "src": "Ghost Cult Magazine",
+    "title": "Bad Brains Share a Previously Unreleased Version of \"Pay To Cum\" - First Ever Studio Recordings to Release Soon via Trust Records - ghostcultmag.com",
+    "src": "ghostcultmag.com",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTDd6V0R0OUVsd2Exd2N4eVJGUUdIYW5sZzBZMW5LMzFWbXNEWE5BYUN0MmlBS3p0Ti1leW5wanlSbElGSGIwMTRSUURqUVhKMXE1c1JYWlp6OTR0R2s5RVpISXdoekhUalJHbl9yc05ac0pDM3IyRkRYempfRVU1Vl8zaG10QUNWazBDTk9yUHRralhtOExJWnhBYndJSnVSSS1HaElGdmRjZDBvLTRERVI0b3R3QWQxTmgtRml4WG5LcnByRXM1cEtCZDhMLU9HUlJWcGt4aVVOS2hiY1JwejJlR080Zw?oc=5",
     "timestamp": "2026-09-23T14:00:49+00:00",
     "isoDate": "2026-09-23",
     "date": "23 Set",
-    "d": "Bad Brains Share a Previously Unreleased Version of \"Pay To Cum\" - First Ever Studio Recordings to Release Soon via Trust Records Ghost Cult Magazine",
+    "d": "Bad Brains Share a Previously Unreleased Version of \"Pay To Cum\" - First Ever Studio Recordings to Release Soon via Trust Records ghostcultmag.com",
     "category": "core",
     "sources": [
       {
-        "name": "Ghost Cult Magazine",
+        "name": "ghostcultmag.com",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTDd6V0R0OUVsd2Exd2N4eVJGUUdIYW5sZzBZMW5LMzFWbXNEWE5BYUN0MmlBS3p0Ti1leW5wanlSbElGSGIwMTRSUURqUVhKMXE1c1JYWlp6OTR0R2s5RVpISXdoekhUalJHbl9yc05ac0pDM3IyRkRYempfRVU1Vl8zaG10QUNWazBDTk9yUHRralhtOExJWnhBYndJSnVSSS1HaElGdmRjZDBvLTRERVI0b3R3QWQxTmgtRml4WG5LcnByRXM1cEtCZDhMLU9HUlJWcGt4aVVOS2hiY1JwejJlR080Zw?oc=5"
       }
     ],
@@ -5781,17 +7139,17 @@
     "section": "buzz"
   },
   {
-    "title": "Electric Horizons Release Self-Titled Debut Album - nysmusic.com",
-    "src": "nysmusic.com",
+    "title": "Electric Horizons Release Self-Titled Debut Album - NYS Music",
+    "src": "NYS Music",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONE1XcjViZmxwSElpdHNJMGF4YUJMRFVWeDdCSGFuOUhfbmFUWEJybmJfOEVfMG5nR2FBZ09VUkR2REJnZ3lwRzlxanN5SjBhYjV4U0dHNkdJVUpUYXl6QjBacnJoQUpSYkFISDc3NXI3OUQ3dWhzZDFjdm94Ymd5VWZwVEVUWFlhN2c?oc=5",
     "timestamp": "2026-09-23T16:49:00+00:00",
     "isoDate": "2026-09-23",
     "date": "23 Set",
-    "d": "Electric Horizons Release Self-Titled Debut Album nysmusic.com",
+    "d": "Electric Horizons Release Self-Titled Debut Album NYS Music",
     "category": "general",
     "sources": [
       {
-        "name": "nysmusic.com",
+        "name": "NYS Music",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONE1XcjViZmxwSElpdHNJMGF4YUJMRFVWeDdCSGFuOUhfbmFUWEJybmJfOEVfMG5nR2FBZ09VUkR2REJnZ3lwRzlxanN5SjBhYjV4U0dHNkdJVUpUYXl6QjBacnJoQUpSYkFISDc3NXI3OUQ3dWhzZDFjdm94Ymd5VWZwVEVUWFlhN2c?oc=5"
       }
     ],
@@ -5956,17 +7314,17 @@
     "section": "buzz"
   },
   {
-    "title": "Donald Trump Reportedly Humiliated as 'Send in the Clowns' Plays Before Greenland Deal Signing - ibtimes.co.uk",
-    "src": "ibtimes.co.uk",
+    "title": "Donald Trump Reportedly Humiliated as 'Send in the Clowns' Plays Before Greenland Deal Signing - International Business Times UK",
+    "src": "International Business Times UK",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQejJSbnNiVjNYcnFZYnliejBYUkhGZjhsQTRsM0lXeDlwX0x6dDdJc28wc1RqYnVwLWh5MXo2X3lETkt1bE1GUU9fMjZNWGFWRk43dkIyVE9lQkd6RHNGT28wakx2MWFlTzA0MERIbTVMZWhnbmNPUy1aVG5GZkMyWnhMdGZYV2M?oc=5",
     "timestamp": "2026-09-23T15:44:09+00:00",
     "isoDate": "2026-09-23",
     "date": "23 Set",
-    "d": "Donald Trump Reportedly Humiliated as 'Send in the Clowns' Plays Before Greenland Deal Signing ibtimes.co.uk",
+    "d": "Donald Trump Reportedly Humiliated as 'Send in the Clowns' Plays Before Greenland Deal Signing International Business Times UK",
     "category": "general",
     "sources": [
       {
-        "name": "ibtimes.co.uk",
+        "name": "International Business Times UK",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQejJSbnNiVjNYcnFZYnliejBYUkhGZjhsQTRsM0lXeDlwX0x6dDdJc28wc1RqYnVwLWh5MXo2X3lETkt1bE1GUU9fMjZNWGFWRk43dkIyVE9lQkd6RHNGT28wakx2MWFlTzA0MERIbTVMZWhnbmNPUy1aVG5GZkMyWnhMdGZYV2M?oc=5"
       }
     ],
@@ -6006,17 +7364,17 @@
     "section": "buzz"
   },
   {
-    "title": "Hilary Duff's tour is coming to Des Moines. How to get tickets - The Des Moines Register",
-    "src": "The Des Moines Register",
+    "title": "Hilary Duff's tour is coming to Des Moines. How to get tickets - desmoinesregister.com",
+    "src": "desmoinesregister.com",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTjlUNnBTOVJWbVhqTmhYQjdWdEZtbF85WXF4dmRzSmxXQ1NEQXVYcWhWQlRocTlTeDdBWnQ1TDZUZlNTQmdTaGpfM2tPUllJTEY1V3BZdmd4MzM1NkFZSE5iZk1VSElsSVBQVi16WmJPMXc0cG9tUTVESlNsck9kSmpSTi1CeXRNY0pjOWF2X2h6V0R0c0lYQjVnbVBEOGxLck9WQmpjc3d0ZXQyNVdKSVVUT1BWdWNPcUtN?oc=5",
     "timestamp": "2026-09-23T14:35:00+00:00",
     "isoDate": "2026-09-23",
     "date": "23 Set",
-    "d": "Hilary Duff's tour is coming to Des Moines. How to get tickets The Des Moines Register",
+    "d": "Hilary Duff's tour is coming to Des Moines. How to get tickets desmoinesregister.com",
     "category": "general",
     "sources": [
       {
-        "name": "The Des Moines Register",
+        "name": "desmoinesregister.com",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTjlUNnBTOVJWbVhqTmhYQjdWdEZtbF85WXF4dmRzSmxXQ1NEQXVYcWhWQlRocTlTeDdBWnQ1TDZUZlNTQmdTaGpfM2tPUllJTEY1V3BZdmd4MzM1NkFZSE5iZk1VSElsSVBQVi16WmJPMXc0cG9tUTVESlNsck9kSmpSTi1CeXRNY0pjOWF2X2h6V0R0c0lYQjVnbVBEOGxLck9WQmpjc3d0ZXQyNVdKSVVUT1BWdWNPcUtN?oc=5"
       }
     ],
@@ -6056,17 +7414,17 @@
     "section": "buzz"
   },
   {
-    "title": "THAO Announces Fall 2026 & Spring 2027 North American Tour Dates - music.mxdwn.com",
-    "src": "music.mxdwn.com",
+    "title": "THAO Announces Fall 2026 & Spring 2027 North American Tour Dates - mxdwn Music",
+    "src": "mxdwn Music",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV2lQQlRuYWM0UGRacll2NG5mNzdHblVEdzFycFVRcUNkMXZEekRiWVhHMjlVb1ZtamV2dVJOM1ZMd0Z6XzQ1VEQ3c2V3VHNrbENJanQ0WThnaFRUM2g5am9ZZ20ySlc2WTNHNEZTcXRXNjkyMG1QUGc1dThyaDV6RjdIOEZudzR3MDV6ZGE5RDAwN2YwNWtoV1BqVE9wQ0FvOXZmTFlR0gGrAUFVX3lxTE5vSXZFZHEycWl2eTk0SW4xNUlMOHRWeHh3Sjg1R2pwQU5xUkdFbGtId1I4eGlaMHZ0STVEZnM4OUNfM0Y3QUlSZnczUzVkQU8ySHIydXdFdHRrYXI5aW9SWDhNdU92TmlBckdDdHRCTk96aVhHSVNWVzRTMkFxeENXSTkyU09TZFZiQ3VMbVFNN0U4UU1xOHM3R0tMQ09jeVY4WXBZSlBKczZGYw?oc=5",
     "timestamp": "2026-09-23T01:16:44+00:00",
     "isoDate": "2026-09-23",
     "date": "23 Set",
-    "d": "THAO Announces Fall 2026 & Spring 2027 North American Tour Dates music.mxdwn.com",
+    "d": "THAO Announces Fall 2026 & Spring 2027 North American Tour Dates mxdwn Music",
     "category": "general",
     "sources": [
       {
-        "name": "music.mxdwn.com",
+        "name": "mxdwn Music",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV2lQQlRuYWM0UGRacll2NG5mNzdHblVEdzFycFVRcUNkMXZEekRiWVhHMjlVb1ZtamV2dVJOM1ZMd0Z6XzQ1VEQ3c2V3VHNrbENJanQ0WThnaFRUM2g5am9ZZ20ySlc2WTNHNEZTcXRXNjkyMG1QUGc1dThyaDV6RjdIOEZudzR3MDV6ZGE5RDAwN2YwNWtoV1BqVE9wQ0FvOXZmTFlR0gGrAUFVX3lxTE5vSXZFZHEycWl2eTk0SW4xNUlMOHRWeHh3Sjg1R2pwQU5xUkdFbGtId1I4eGlaMHZ0STVEZnM4OUNfM0Y3QUlSZnczUzVkQU8ySHIydXdFdHRrYXI5aW9SWDhNdU92TmlBckdDdHRCTk96aVhHSVNWVzRTMkFxeENXSTkyU09TZFZiQ3VMbVFNN0U4UU1xOHM3R0tMQ09jeVY4WXBZSlBKczZGYw?oc=5"
       }
     ],
@@ -6796,17 +8154,17 @@
     "section": "buzz"
   },
   {
-    "title": "What dreams are made of! Hilary Duff expands 'Lucky Me' tour to Cleveland - beaconjournal.com",
-    "src": "beaconjournal.com",
+    "title": "What dreams are made of! Hilary Duff expands 'Lucky Me' tour to Cleveland - Akron Beacon Journal",
+    "src": "Akron Beacon Journal",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVnFKX1lEUXJ1bnAtUkNzT0U3YktVa0ZObDdBamo5TFN2WFZJcWV0R2tGMG1LVGtDUFFhcGdjRG5JblRyaXFXNEIyX3k4ZVlXaUhjcmVKSWtUS2JMa0d2R0Zsc0xwejZmRmRNUjBnSklveUJmSkxEc0Y5TU9xS0xRVTQzemhsNGtpUzFQaVQ1OWZVbWtId3VJeGhiSC1TUXNyaV9BOW9MZVVqRTNJcklnU1NEVml3dHd1bDJRQXBCSkhkUQ?oc=5",
     "timestamp": "2026-09-23T19:15:00+00:00",
     "isoDate": "2026-09-23",
     "date": "23 Set",
-    "d": "What dreams are made of! Hilary Duff expands 'Lucky Me' tour to Cleveland beaconjournal.com",
+    "d": "What dreams are made of! Hilary Duff expands 'Lucky Me' tour to Cleveland Akron Beacon Journal",
     "category": "general",
     "sources": [
       {
-        "name": "beaconjournal.com",
+        "name": "Akron Beacon Journal",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVnFKX1lEUXJ1bnAtUkNzT0U3YktVa0ZObDdBamo5TFN2WFZJcWV0R2tGMG1LVGtDUFFhcGdjRG5JblRyaXFXNEIyX3k4ZVlXaUhjcmVKSWtUS2JMa0d2R0Zsc0xwejZmRmRNUjBnSklveUJmSkxEc0Y5TU9xS0xRVTQzemhsNGtpUzFQaVQ1OWZVbWtId3VJeGhiSC1TUXNyaV9BOW9MZVVqRTNJcklnU1NEVml3dHd1bDJRQXBCSkhkUQ?oc=5"
       }
     ],
@@ -6821,17 +8179,17 @@
     "section": "buzz"
   },
   {
-    "title": "Meet Charli xcx’s most dedicated NYC angels - dazeddigital.com",
-    "src": "dazeddigital.com",
+    "title": "Meet Charli xcx’s most dedicated NYC angels - Dazed",
+    "src": "Dazed",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM0p4R0M2RjVTUHd0cjNONXFMYjJUQmNmLVVKRmJhcG16ZDl2cVR4dmUwbFBmWG9lMU9Ma05STTM3NGhwUUhleTVEdEg1RmdsaWZ3VURWZlNuQlRmUTVNYXl1Y3NIa3hrWlhfNGtpUzhhMGd1YXRDYS1rYU5aWS04anBLS3BEZVV4UVFPQU9SUTlBVXJmZlJBd19R?oc=5",
     "timestamp": "2026-09-23T14:32:54+00:00",
     "isoDate": "2026-09-23",
     "date": "23 Set",
-    "d": "Meet Charli xcx’s most dedicated NYC angels dazeddigital.com",
+    "d": "Meet Charli xcx’s most dedicated NYC angels Dazed",
     "category": "general",
     "sources": [
       {
-        "name": "dazeddigital.com",
+        "name": "Dazed",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM0p4R0M2RjVTUHd0cjNONXFMYjJUQmNmLVVKRmJhcG16ZDl2cVR4dmUwbFBmWG9lMU9Ma05STTM3NGhwUUhleTVEdEg1RmdsaWZ3VURWZlNuQlRmUTVNYXl1Y3NIa3hrWlhfNGtpUzhhMGd1YXRDYS1rYU5aWS04anBLS3BEZVV4UVFPQU9SUTlBVXJmZlJBd19R?oc=5"
       }
     ],
@@ -7237,21 +8595,21 @@
     "section": "core"
   },
   {
-    "title": "Wendy's releases new emo album with metalcore, pop punk vocalists - usatoday.com",
-    "src": "usatoday.com",
+    "title": "Wendy's releases new emo album with metalcore, pop punk vocalists - USA Today",
+    "src": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYkhiLWpKZ0VlTVM0dDlQemgxV0Y4Z2R0dm1nelpKNUwweUpuczNQbGgteDA4UmJtUGFfRTRtdENBUHA2MFVnbW1RSmtxdG1CMmw5X1VWXzNqcnBuaGx6QkRCN1lWYlBveEZBR1VkcmM3M3Ayb2NjUTYybmE5c2JVbXZaZW1Cc1VhMUtzNHdzNE92dw?oc=5",
     "timestamp": "2026-09-23T17:55:00+00:00",
     "isoDate": "2026-09-23",
     "date": "23 Set",
-    "d": "Wendy's releases new emo album with metalcore, pop punk vocalists usatoday.com",
+    "d": "Wendy's releases new emo album with metalcore, pop punk vocalists USA Today",
     "category": "core",
     "sources": [
       {
-        "name": "usatoday.com",
+        "name": "USA Today",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYkhiLWpKZ0VlTVM0dDlQemgxV0Y4Z2R0dm1nelpKNUwweUpuczNQbGgteDA4UmJtUGFfRTRtdENBUHA2MFVnbW1RSmtxdG1CMmw5X1VWXzNqcnBuaGx6QkRCN1lWYlBveEZBR1VkcmM3M3Ayb2NjUTYybmE5c2JVbXZaZW1Cc1VhMUtzNHdzNE92dw?oc=5"
       },
       {
-        "name": "sg.news.yahoo.com",
+        "name": "Yahoo News Singapore",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS2lUS0lLWmZlOTBZbVZoNmkxUjlDdkxfTkVhY1NPYlliYmNSdnpRS2IxRmctRUtBckRzUFFUS2tYdUZyMGdNbXRqd09XM08zcWtvMlVRMThrcU1MbmdUamVnZVRYMVFUSXRUc2UxeF9hOVhSVlpLcC1CZ0tGekNZcXRR?oc=5"
       }
     ],
@@ -7316,17 +8674,17 @@
     "section": "news"
   },
   {
-    "title": "Hayley Williams Issues Statement on Death of New Found Glory's Chad Gilbert - Exclaim!",
-    "src": "Exclaim!",
+    "title": "Hayley Williams Issues Statement on Death of New Found Glory's Chad Gilbert - exclaim.ca",
+    "src": "exclaim.ca",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmLTg0czZTMFUzX3ZqZWVZdDFoRlRwemJKcVg0QXF3UlJxTGxwRzZIMU9jWTNxaWJQRHRpcXpXYVZNUkRRbGVNZzhQemFueDVpQ2J1M2VUYUVUcG45cndWNkdySkNEeV84TElremlNcmlSVExjdHNDSWtlMmctOXM?oc=5",
     "timestamp": "2026-09-23T10:38:41+00:00",
     "isoDate": "2026-09-23",
     "date": "23 Set",
-    "d": "Hayley Williams Issues Statement on Death of New Found Glory's Chad Gilbert Exclaim!",
+    "d": "Hayley Williams Issues Statement on Death of New Found Glory's Chad Gilbert exclaim.ca",
     "category": "core",
     "sources": [
       {
-        "name": "Exclaim!",
+        "name": "exclaim.ca",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmLTg0czZTMFUzX3ZqZWVZdDFoRlRwemJKcVg0QXF3UlJxTGxwRzZIMU9jWTNxaWJQRHRpcXpXYVZNUkRRbGVNZzhQemFueDVpQ2J1M2VUYUVUcG45cndWNkdySkNEeV84TElremlNcmlSVExjdHNDSWtlMmctOXM?oc=5"
       }
     ],
@@ -7391,17 +8749,17 @@
     "section": "buzz"
   },
   {
-    "title": "Alternative rock trio Halfway Here goes the distance with first album ‘As far as I can see’ - alligator.org",
-    "src": "alligator.org",
+    "title": "Alternative rock trio Halfway Here goes the distance with first album ‘As far as I can see’ - The Independent Florida Alligator",
+    "src": "The Independent Florida Alligator",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FbnYzazY3LTJqdUdBenlKQXF6NFVRUGM3RkM5cE1Xck8xYXNYQTFieWFyM0ZzN2lqSlNJOExzdXUyb2tOYU0tQTJiQWl0R3I4ekloQlZrb0RwWGRSRDNteEZCZV9nNFdIMUN1VU42T05oOU83?oc=5",
     "timestamp": "2026-09-23T19:36:00+00:00",
     "isoDate": "2026-09-23",
     "date": "23 Set",
-    "d": "Alternative rock trio Halfway Here goes the distance with first album ‘As far as I can see’ alligator.org",
+    "d": "Alternative rock trio Halfway Here goes the distance with first album ‘As far as I can see’ The Independent Florida Alligator",
     "category": "general",
     "sources": [
       {
-        "name": "alligator.org",
+        "name": "The Independent Florida Alligator",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FbnYzazY3LTJqdUdBenlKQXF6NFVRUGM3RkM5cE1Xck8xYXNYQTFieWFyM0ZzN2lqSlNJOExzdXUyb2tOYU0tQTJiQWl0R3I4ekloQlZrb0RwWGRSRDNteEZCZV9nNFdIMUN1VU42T05oOU83?oc=5"
       }
     ],
@@ -7541,17 +8899,17 @@
     "section": "buzz"
   },
   {
-    "title": "Hilary Duff Announces Additional 32 Dates for ‘The Lucky Me’ Tour in Europe, Latin America and the United States - variety.com",
-    "src": "variety.com",
+    "title": "Hilary Duff Announces Additional 32 Dates for ‘The Lucky Me’ Tour in Europe, Latin America and the United States - Variety",
+    "src": "Variety",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNXRzblQyQ19BcEdRelpfTlNrOGJOWlhqZXJqd2tWcm8weG1nbEMyQTIzb1p6RjJ0MmRGbVhDSlhVX3daRnFUcG43VHNJVDVXeXlSNmtNYUw4ODlQTlNDcWI1ck00MUkxNExWTmc3ZXEwN20yd2J3S1otTHl4NjltNloxU0QwQ0thaExzc1dnX2NLemd4VE1ZbS13?oc=5",
     "timestamp": "2026-09-23T13:05:00+00:00",
     "isoDate": "2026-09-23",
     "date": "23 Set",
-    "d": "Hilary Duff Announces Additional 32 Dates for ‘The Lucky Me’ Tour in Europe, Latin America and the United States variety.com",
+    "d": "Hilary Duff Announces Additional 32 Dates for ‘The Lucky Me’ Tour in Europe, Latin America and the United States Variety",
     "category": "general",
     "sources": [
       {
-        "name": "variety.com",
+        "name": "Variety",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNXRzblQyQ19BcEdRelpfTlNrOGJOWlhqZXJqd2tWcm8weG1nbEMyQTIzb1p6RjJ0MmRGbVhDSlhVX3daRnFUcG43VHNJVDVXeXlSNmtNYUw4ODlQTlNDcWI1ck00MUkxNExWTmc3ZXEwN20yd2J3S1otTHl4NjltNloxU0QwQ0thaExzc1dnX2NLemd4VE1ZbS13?oc=5"
       }
     ],
@@ -7716,17 +9074,17 @@
     "section": "buzz"
   },
   {
-    "title": "How San Francisco’s Underscores Ascended to Portola and Charli xcx’s Tour - kqed.org",
-    "src": "kqed.org",
+    "title": "How San Francisco’s Underscores Ascended to Portola and Charli xcx’s Tour - KQED",
+    "src": "KQED",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdk4tNnNQWWJGR0dhdlAwdGhNdThiYTAtcWdWS21WamdaS0NRdzg5NTBRTDNORElKeDhMa1M0SnBxUldYSTZ4bU0ySlFEd19Lb3R6bGJhRWtLcWJ2dGhORzBRQkdGaWRiZU95Y2pUNS0yN05xQVowVm9oRnpKbkRmdzl6OW9odw?oc=5",
     "timestamp": "2026-09-23T18:26:07+00:00",
     "isoDate": "2026-09-23",
     "date": "23 Set",
-    "d": "How San Francisco’s Underscores Ascended to Portola and Charli xcx’s Tour kqed.org",
+    "d": "How San Francisco’s Underscores Ascended to Portola and Charli xcx’s Tour KQED",
     "category": "general",
     "sources": [
       {
-        "name": "kqed.org",
+        "name": "KQED",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdk4tNnNQWWJGR0dhdlAwdGhNdThiYTAtcWdWS21WamdaS0NRdzg5NTBRTDNORElKeDhMa1M0SnBxUldYSTZ4bU0ySlFEd19Lb3R6bGJhRWtLcWJ2dGhORzBRQkdGaWRiZU95Y2pUNS0yN05xQVowVm9oRnpKbkRmdzl6OW9odw?oc=5"
       }
     ],
@@ -7789,6 +9147,56 @@
     "star": false,
     "kind": "news",
     "section": "buzz"
+  },
+  {
+    "title": "Taylor Swift reveals new 'Life of a Showgirl The Encore' album - USA Today",
+    "src": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc1RzeFZHMU1rZ2VhWFJlVFpZMmRFeUpkSEp5YkxXbGw0ZE1qRU9QeXJfZEo4bWhidTl2dGxsT1Y4UE9Fb3VOYWVPQzZfeG56eFc2MEtUVHBqOE1EbXlhOGJkMGNublU5YzlmcTRHdkRwOXlVeVhGTTVGNHVjTXNZT1VuZ1hQQUV6Ry0yVWd5NE02U3F0dGJCUWZiVGRCTzNVLTdoZzJSUDNteUhTdHBtamFKSzZVeW9aazd5VXM4Tzk?oc=5",
+    "timestamp": "2026-09-23T14:12:00+00:00",
+    "isoDate": "2026-09-23",
+    "date": "23 Set",
+    "d": "Taylor Swift reveals new 'Life of a Showgirl The Encore' album USA Today",
+    "category": "general",
+    "sources": [
+      {
+        "name": "USA Today",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc1RzeFZHMU1rZ2VhWFJlVFpZMmRFeUpkSEp5YkxXbGw0ZE1qRU9QeXJfZEo4bWhidTl2dGxsT1Y4UE9Fb3VOYWVPQzZfeG56eFc2MEtUVHBqOE1EbXlhOGJkMGNublU5YzlmcTRHdkRwOXlVeVhGTTVGNHVjTXNZT1VuZ1hQQUV6Ry0yVWd5NE02U3F0dGJCUWZiVGRCTzNVLTdoZzJSUDNteUhTdHBtamFKSzZVeW9aazd5VXM4Tzk?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Portugal já foi uma rave: \"Paraíso\", de Daniel Mota, mostra quem pôs o país a dançar - expresso.pt",
+    "src": "expresso.pt",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVTlhekZ3bGFReFNmNm9PYV9BT2tQTTBlU3U4TVdQSmk2VEpCcm9aTEpZVjhmdlp1MmJEaVI3VFdYYUdEQmQ2Y3FvcXoyTTdSZTREdlhMN0pSUVlLYmdPSW9jV3hieDVhWTd0RVpnX0pyRVNac0QtbS0xMG55eFZTQU0xUHlYV1Y4X3dVU2RHTF95NmlaNlZlYzdOSXZmUGQ1NVBOLXpVTTQ0ZEthWUxMcEU0Q2VhZFVQVHpTUVZpand3NzQxNG5YOQ?oc=5",
+    "timestamp": "2026-09-23T15:45:00+00:00",
+    "isoDate": "2026-09-23",
+    "date": "23 Set",
+    "d": "Portugal já foi uma rave: \"Paraíso\", de Daniel Mota, mostra quem pôs o país a dançar expresso.pt",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "expresso.pt",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVTlhekZ3bGFReFNmNm9PYV9BT2tQTTBlU3U4TVdQSmk2VEpCcm9aTEpZVjhmdlp1MmJEaVI3VFdYYUdEQmQ2Y3FvcXoyTTdSZTREdlhMN0pSUVlLYmdPSW9jV3hieDVhWTd0RVpnX0pyRVNac0QtbS0xMG55eFZTQU0xUHlYV1Y4X3dVU2RHTF95NmlaNlZlYzdOSXZmUGQ1NVBOLXpVTTQ0ZEthWUxMcEU0Q2VhZFVQVHpTUVZpand3NzQxNG5YOQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "b": "The Dead Broken Heart",
@@ -8733,17 +10141,17 @@
     "section": "pt"
   },
   {
-    "title": "Jorge Palma: Um músico de muitas companhias que “Só” marcou a música portuguesa - noticiasdecoimbra.pt",
-    "src": "noticiasdecoimbra.pt",
+    "title": "Jorge Palma: Um músico de muitas companhias que “Só” marcou a música portuguesa - Notícias de Coimbra",
+    "src": "Notícias de Coimbra",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEtURFBMNTVmMUFwck0zWWdfaUQ4OGNqR2RIN0c5UEt2Mndzei0yU1pHVjFSbGdCaUU2LVBVbzlnenhLTi1uN0NNOVRPbHRoeGNQcVFWNDQ4bzJ1bUFUYVF2MHZnLTdndG16aHBqQlBTMHFOX3hHMFBsVGxlUnJHdENkSFBrcVFqUnJYUkl6enRwYzdJa3YxZDlrUnpCRmZWdWZGOGxNakU2WjEwZnp3?oc=5",
     "timestamp": "2026-09-22T06:22:49+00:00",
     "isoDate": "2026-09-22",
     "date": "22 Set",
-    "d": "Jorge Palma: Um músico de muitas companhias que “Só” marcou a música portuguesa noticiasdecoimbra.pt",
+    "d": "Jorge Palma: Um músico de muitas companhias que “Só” marcou a música portuguesa Notícias de Coimbra",
     "category": "pt",
     "sources": [
       {
-        "name": "noticiasdecoimbra.pt",
+        "name": "Notícias de Coimbra",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEtURFBMNTVmMUFwck0zWWdfaUQ4OGNqR2RIN0c5UEt2Mndzei0yU1pHVjFSbGdCaUU2LVBVbzlnenhLTi1uN0NNOVRPbHRoeGNQcVFWNDQ4bzJ1bUFUYVF2MHZnLTdndG16aHBqQlBTMHFOX3hHMFBsVGxlUnJHdENkSFBrcVFqUnJYUkl6enRwYzdJa3YxZDlrUnpCRmZWdWZGOGxNakU2WjEwZnp3?oc=5"
       }
     ],
@@ -8908,17 +10316,17 @@
     "section": "pt"
   },
   {
-    "title": "Portugal: Morreu o cantor e compositor Jorge Palma - ESC PORTUGAL",
-    "src": "ESC PORTUGAL",
+    "title": "Portugal: Morreu o cantor e compositor Jorge Palma - escportugal.pt",
+    "src": "escportugal.pt",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORmdORl9PTlVma2ZDV0tfVHJfdjlnMDRUb1hTUUpVOE1uWlNULTZoQmR3VWpIZktaMDZyUkJOODZCVXpmZnBHUEFnQ0FkMk5TcE5SMzFYVTR1UlM4VzY4T0l4R01iQjVGeExyWmFsSlNnZXd3c0NEQmRZbFZSRXlFRVZvYUw?oc=5",
     "timestamp": "2026-09-22T00:07:00+00:00",
     "isoDate": "2026-09-22",
     "date": "22 Set",
-    "d": "Portugal: Morreu o cantor e compositor Jorge Palma ESC PORTUGAL",
+    "d": "Portugal: Morreu o cantor e compositor Jorge Palma escportugal.pt",
     "category": "pt",
     "sources": [
       {
-        "name": "ESC PORTUGAL",
+        "name": "escportugal.pt",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORmdORl9PTlVma2ZDV0tfVHJfdjlnMDRUb1hTUUpVOE1uWlNULTZoQmR3VWpIZktaMDZyUkJOODZCVXpmZnBHUEFnQ0FkMk5TcE5SMzFYVTR1UlM4VzY4T0l4R01iQjVGeExyWmFsSlNnZXd3c0NEQmRZbFZSRXlFRVZvYUw?oc=5"
       }
     ],
@@ -11018,17 +12426,17 @@
     "section": "pt"
   },
   {
-    "title": "No falecimento de Jorge Palma - pcp.pt",
-    "src": "pcp.pt",
+    "title": "No falecimento de Jorge Palma - Partido Comunista Português",
+    "src": "Partido Comunista Português",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jNktfQ000aG5ycThuelFSYk91eTk5STJrUjU3UWI1LTg2NU4wRENQR3hOVnluNWJNdWtRWDJHYjRpazBNUFNsSktaQ3VTc1dFQVc2bEhDOHExZjBM?oc=5",
     "timestamp": "2026-09-22T11:57:17+00:00",
     "isoDate": "2026-09-22",
     "date": "22 Set",
-    "d": "No falecimento de Jorge Palma pcp.pt",
+    "d": "No falecimento de Jorge Palma Partido Comunista Português",
     "category": "pt",
     "sources": [
       {
-        "name": "pcp.pt",
+        "name": "Partido Comunista Português",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jNktfQ000aG5ycThuelFSYk91eTk5STJrUjU3UWI1LTg2NU4wRENQR3hOVnluNWJNdWtRWDJHYjRpazBNUFNsSktaQ3VTc1dFQVc2bEhDOHExZjBM?oc=5"
       }
     ],
@@ -11368,17 +12776,17 @@
     "section": "news"
   },
   {
-    "title": "Symphonic Power Metal band VALKYRIE'S FIRE bring ‘The Raven’ by Edgar Allen Poe to life in new “Evermore” music video - Metal Planet Music",
-    "src": "Metal Planet Music",
+    "title": "Symphonic Power Metal band VALKYRIE'S FIRE bring ‘The Raven’ by Edgar Allen Poe to life in new “Evermore” music video - metalplanetmusic.com",
+    "src": "metalplanetmusic.com",
     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUENyelJUVTFBVGY4a01EcERfWXpDelZKV19yb3R6WGVVdXRLQ3ZrYWc2Vlk3QnUwWFBEQmt4VFUteVFIdGRTRlI4VVdXWkhNX3RHVmQ5UFFoeXVXWU9WRldNbURFMk1sT3BjTktuUFVTQzhqUlc4YXFIT3N6UWhTeE5tckg2NmJQeHc2UE1pcDNBbjdEM2k4dEx5TmY2TXB4bmJCSW9mNFA5Mzl4TnhqMWlWbEFHdHNvcXUyQmVadDhXVUQ4LXAxYm9QUG9wMnZrdnU2aXRGWXBDTmVveTlueVFHOUQ?oc=5",
     "timestamp": "2026-09-22T17:38:41+00:00",
     "isoDate": "2026-09-22",
     "date": "22 Set",
-    "d": "Symphonic Power Metal band VALKYRIE'S FIRE bring ‘The Raven’ by Edgar Allen Poe to life in new “Evermore” music video Metal Planet Music",
+    "d": "Symphonic Power Metal band VALKYRIE'S FIRE bring ‘The Raven’ by Edgar Allen Poe to life in new “Evermore” music video metalplanetmusic.com",
     "category": "metal",
     "sources": [
       {
-        "name": "Metal Planet Music",
+        "name": "metalplanetmusic.com",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUENyelJUVTFBVGY4a01EcERfWXpDelZKV19yb3R6WGVVdXRLQ3ZrYWc2Vlk3QnUwWFBEQmt4VFUteVFIdGRTRlI4VVdXWkhNX3RHVmQ5UFFoeXVXWU9WRldNbURFMk1sT3BjTktuUFVTQzhqUlc4YXFIT3N6UWhTeE5tckg2NmJQeHc2UE1pcDNBbjdEM2k4dEx5TmY2TXB4bmJCSW9mNFA5Mzl4TnhqMWlWbEFHdHNvcXUyQmVadDhXVUQ4LXAxYm9QUG9wMnZrdnU2aXRGWXBDTmVveTlueVFHOUQ?oc=5"
       }
     ],
@@ -14303,17 +15711,17 @@
     "section": "pt"
   },
   {
-    "title": "“O Brasil é minha maior fonte de inspiração\" - revistacontinente.com.br",
-    "src": "revistacontinente.com.br",
+    "title": "“O Brasil é minha maior fonte de inspiração\" - Revista Continente",
+    "src": "Revista Continente",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkF2ZVprVzFubHZJSkM1Y2FTb1RIMUQ5N1hER3ZSdW0zLWJKOS04amFZU2ZBZ1hGTTZvUUJrZU5Eb1VFUEIzcWwzSExuamVLOFNHVG9mTWdWbmJFOTVmbnh2N3F6cDFkQXVfbXZOQmVhYjk5eGU5bmZsM090cjVrelhHVTZwYjJkcXhjOWVmaTBSQUU?oc=5",
     "timestamp": "2026-09-22T18:02:40+00:00",
     "isoDate": "2026-09-22",
     "date": "22 Set",
-    "d": "“O Brasil é minha maior fonte de inspiração\" revistacontinente.com.br",
+    "d": "“O Brasil é minha maior fonte de inspiração\" Revista Continente",
     "category": "pt",
     "sources": [
       {
-        "name": "revistacontinente.com.br",
+        "name": "Revista Continente",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQkF2ZVprVzFubHZJSkM1Y2FTb1RIMUQ5N1hER3ZSdW0zLWJKOS04amFZU2ZBZ1hGTTZvUUJrZU5Eb1VFUEIzcWwzSExuamVLOFNHVG9mTWdWbmJFOTVmbnh2N3F6cDFkQXVfbXZOQmVhYjk5eGU5bmZsM090cjVrelhHVTZwYjJkcXhjOWVmaTBSQUU?oc=5"
       }
     ],
@@ -15750,17 +17158,17 @@
     "section": "rev"
   },
   {
-    "title": "Quem é Bluay? Conhece o artista por detrás do momento viral “O Que Tem no Carro”? - rfm.pt",
-    "src": "rfm.pt",
+    "title": "Quem é Bluay? Conhece o artista por detrás do momento viral “O Que Tem no Carro”? - RFM",
+    "src": "RFM",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRjZfR3FiVUYtVy1PeXp1Vy1ld3VabE50REtQeEdOWXN1Y3VzTzJqX3FKN3RWTlBMc2xDcXM2TE5Ed1ZDTG1kMWp1Y1lqUUJOeW9NU0NYSGdYUFZYcHVXelFtTTMxVm5oeHRzbnoycTdsd2thZjlESEVCT1haNFFGU2F6c3QwSC0wY1A4VjFibk9CdUxEUzZZSFp6dFZwQkt6Q3ltZngxXy11VFpmWkHSAbMBQVVfeXFMUElzZkdoU2xwSzhodXhvZ3BxRzd5Y1BBOWVxV1NBLTVxaG9TYjA1OHlIY3NOUWxMczdoTTBuYUNGNmdJRTJZSVBSRFNqVlRGQXVRMEZ0SWl2TkR2WjBfLUJVbXpjTjdaUnBILUI1b2FXMm83Vll1SkluSl8xMlUwU3NWaXBGdWRHUkdIQnAxWEpWbTNaWWRVNlRPeWVXYVBTaHBuOW5saGlGbHVsejYzbFR2QWs?oc=5",
     "timestamp": "2026-09-21T07:00:00+00:00",
     "isoDate": "2026-09-21",
     "date": "21 Set",
-    "d": "Quem é Bluay? Conhece o artista por detrás do momento viral “O Que Tem no Carro”? rfm.pt",
+    "d": "Quem é Bluay? Conhece o artista por detrás do momento viral “O Que Tem no Carro”? RFM",
     "category": "pt",
     "sources": [
       {
-        "name": "rfm.pt",
+        "name": "RFM",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRjZfR3FiVUYtVy1PeXp1Vy1ld3VabE50REtQeEdOWXN1Y3VzTzJqX3FKN3RWTlBMc2xDcXM2TE5Ed1ZDTG1kMWp1Y1lqUUJOeW9NU0NYSGdYUFZYcHVXelFtTTMxVm5oeHRzbnoycTdsd2thZjlESEVCT1haNFFGU2F6c3QwSC0wY1A4VjFibk9CdUxEUzZZSFp6dFZwQkt6Q3ltZngxXy11VFpmWkHSAbMBQVVfeXFMUElzZkdoU2xwSzhodXhvZ3BxRzd5Y1BBOWVxV1NBLTVxaG9TYjA1OHlIY3NOUWxMczdoTTBuYUNGNmdJRTJZSVBSRFNqVlRGQXVRMEZ0SWl2TkR2WjBfLUJVbXpjTjdaUnBILUI1b2FXMm83Vll1SkluSl8xMlUwU3NWaXBGdWRHUkdIQnAxWEpWbTNaWWRVNlRPeWVXYVBTaHBuOW5saGlGbHVsejYzbFR2QWs?oc=5"
       }
     ],
@@ -16908,17 +18316,17 @@
     "section": "news"
   },
   {
-    "title": "New Found Glory Guitarist Chad Gilbert Dies at 45 -- and the Scene Loses an Icon - rockcellarmagazine.com",
-    "src": "rockcellarmagazine.com",
+    "title": "New Found Glory Guitarist Chad Gilbert Dies at 45 -- and the Scene Loses an Icon - Rock Cellar Magazine",
+    "src": "Rock Cellar Magazine",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1MzZ2NfeHR0NlduNjkzS2ZBZ2tBMmk4QlVSc0RZX211RTZEWjc0b0VUTGk1a2kyZE5Uc0VFN0VKdVBPSTlTaEc0TDQwaHlvVjdULVI1SmdlQVh6QnFjRW9VbTRoU1RKV1E1aW5YWDBZLWlPQ3lZX19yTlZFMUhEX2JHZ3M5Z19wWUVPZmFCY1FHUzhhcWxLUA?oc=5",
     "timestamp": "2026-09-21T17:06:06+00:00",
     "isoDate": "2026-09-21",
     "date": "21 Set",
-    "d": "New Found Glory Guitarist Chad Gilbert Dies at 45 -- and the Scene Loses an Icon rockcellarmagazine.com",
+    "d": "New Found Glory Guitarist Chad Gilbert Dies at 45 -- and the Scene Loses an Icon Rock Cellar Magazine",
     "category": "core",
     "sources": [
       {
-        "name": "rockcellarmagazine.com",
+        "name": "Rock Cellar Magazine",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU1MzZ2NfeHR0NlduNjkzS2ZBZ2tBMmk4QlVSc0RZX211RTZEWjc0b0VUTGk1a2kyZE5Uc0VFN0VKdVBPSTlTaEc0TDQwaHlvVjdULVI1SmdlQVh6QnFjRW9VbTRoU1RKV1E1aW5YWDBZLWlPQ3lZX19yTlZFMUhEX2JHZ3M5Z19wWUVPZmFCY1FHUzhhcWxLUA?oc=5"
       }
     ],
@@ -20055,6 +21463,31 @@
     "section": "pt"
   },
   {
+    "title": "See WILLIAM SHATNER cover OZZY and METALLICA with new band the F*CKERS - Revolver Magazine",
+    "src": "Revolver Magazine",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRmZVd19rZ2JRUTB4SGo1TXRWQ1NMQmVOVHJUUGs4eERONGlmQmQ3a0lVbE5wSWo1WlZmcEZqMVo3cnVpTGtlU0N3b3RhRjBnbE90YWZHdXNVQVQ1UE0zLWluUVNZQnVzRkFfVlp2RnhsZEFndG40Z2hSVGd1dU1YdzM1SzZIZFBrVzNQdWNDRU1fcXFYRXU5TG1JM0ptOVB4NzlnaVZhZw?oc=5",
+    "timestamp": "2026-09-21T14:59:20+00:00",
+    "isoDate": "2026-09-21",
+    "date": "21 Set",
+    "d": "See WILLIAM SHATNER cover OZZY and METALLICA with new band the F*CKERS Revolver Magazine",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Revolver Magazine",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRmZVd19rZ2JRUTB4SGo1TXRWQ1NMQmVOVHJUUGs4eERONGlmQmQ3a0lVbE5wSWo1WlZmcEZqMVo3cnVpTGtlU0N3b3RhRjBnbE90YWZHdXNVQVQ1UE0zLWluUVNZQnVzRkFfVlp2RnhsZEFndG40Z2hSVGd1dU1YdzM1SzZIZFBrVzNQdWNDRU1fcXFYRXU5TG1JM0ptOVB4NzlnaVZhZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
     "title": "18 of the Biggest Emo Hits Ever from When We Were Young Festival Artists - SiriusXM",
     "src": "SiriusXM",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90YWtIaFBoSlg5RmdrSkVNTEdyU3JxTWcxR21jRkZ4U09uUjhSdGtweWE0WklHdEV1Z1BYTnpTcUp0UmxWdzFGMDJMUXJWSmNPREdBOA?oc=5",
@@ -22431,6 +23864,31 @@
       {
         "name": "KFOR",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdmltY3RlOThSb05RMVVHdjUtOUtlMHVqOXkybXVjZUlJSThyTUEzNHRQZ1RjQ2VFNWJJVEJ5MG1KRFZ1cXI2LTl1Q1RMendLcGdQZlZTR2c4cTVlWjdVdzVJTVJYQW9rS0hOMWt5ZkgyXzZSeEpYQWRHU2ZLNG9ETFBiYTNzcENLOTkyM2ZlTkg3LXdfaGR4WXJRUThuTi1h0gGgAUFVX3lxTE92aW1jdGU5OFJvTlExVUd2NS05S2UwdWo5eTJtdWNlSUlJOHJNQTM0dFBnVGNDZUU1YklUQnkwbUpEVnVxcjYtOXVDVEx6d0twZ1BmVlNHZzhxNWVaN1V3NUlNUlhBb2tLSE4xa3lmSDJfNlJ4SlhBZEdTZks0b0RMUGJhM3NwQ0s5OTIzZmVOSDctd19oZHhZclFROG5OLWE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Chad Gilbert, guitarist for New Found Glory, dies at 45 - ValleyCentral.com",
+    "src": "ValleyCentral.com",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbW9NZXMzd290VGN6Ulhsd3N1Z1hjSHhLZ2dmNVV6aThDRXBBSE9vWVAyZ0FWU1NabWgxazRpMlZiLXNqRG9QdnBUOGR2a0R4bWpna2tqU3NBRERkeXlLazVEa1UwUEpDUzRmRVFHVDFKZTk5eTgxbWVOcHB3NjZjS05HSDJxUDIyUjZrTVF1TUIwUkVQNG5URFR6dkVLcmJTUTZKOTJiZVRINWvSAasBQVVfeXFMTW1vTWVzM3dvdFRjelJYbHdzdWdYY0h4S2dnZjVVemk4Q0VwQUhPb1lQMmdBVlNTWm1oMWs0aTJWYi1zakRvUHZwVDhkdmtEeG1qZ2tralNzQUREZHl5S2s1RGtVMFBKQ1M0ZkVRR1QxSmU5OXk4MW1lTnBwdzY2Y0tOR0gycVAyMlI2a01RdU1CMFJFUDRuVERUenZFS3JiU1E2SjkyYmVUSDVr?oc=5",
+    "timestamp": "2026-09-20T15:11:48+00:00",
+    "isoDate": "2026-09-20",
+    "date": "20 Set",
+    "d": "Chad Gilbert, guitarist for New Found Glory, dies at 45 ValleyCentral.com",
+    "category": "core",
+    "sources": [
+      {
+        "name": "ValleyCentral.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbW9NZXMzd290VGN6Ulhsd3N1Z1hjSHhLZ2dmNVV6aThDRXBBSE9vWVAyZ0FWU1NabWgxazRpMlZiLXNqRG9QdnBUOGR2a0R4bWpna2tqU3NBRERkeXlLazVEa1UwUEpDUzRmRVFHVDFKZTk5eTgxbWVOcHB3NjZjS05HSDJxUDIyUjZrTVF1TUIwUkVQNG5URFR6dkVLcmJTUTZKOTJiZVRINWvSAasBQVVfeXFMTW1vTWVzM3dvdFRjelJYbHdzdWdYY0h4S2dnZjVVemk4Q0VwQUhPb1lQMmdBVlNTWm1oMWs0aTJWYi1zakRvUHZwVDhkdmtEeG1qZ2tralNzQUREZHl5S2s1RGtVMFBKQ1M0ZkVRR1QxSmU5OXk4MW1lTnBwdzY2Y0tOR0gycVAyMlI2a01RdU1CMFJFUDRuVERUenZFS3JiU1E2SjkyYmVUSDVr?oc=5"
       }
     ],
     "status": "official",
@@ -29518,17 +30976,17 @@
     "section": "news"
   },
   {
-    "title": "New Music Friday – September 18th, 2026 - Boolin Tunes",
-    "src": "Boolin Tunes",
+    "title": "New Music Friday – September 18th, 2026 - boolintunes.com",
+    "src": "boolintunes.com",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhWlZPNDc1cXlDNVplVF9SemZhUEFlNkd0VGhPMlQ0cEM5WWxsZUJIY3l3amRMU0VKTk5pUWFzR0ZzWjRYbEg0V05GVzY4UVR4a29GQS1IbkU2YUVkRWNvVkZ6eG1VcnNDRTBPYkxsZ2VoRDlV?oc=5",
     "timestamp": "2026-09-18T20:18:08+00:00",
     "isoDate": "2026-09-18",
     "date": "18 Set",
-    "d": "New Music Friday – September 18th, 2026 Boolin Tunes",
+    "d": "New Music Friday – September 18th, 2026 boolintunes.com",
     "category": "core",
     "sources": [
       {
-        "name": "Boolin Tunes",
+        "name": "boolintunes.com",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhWlZPNDc1cXlDNVplVF9SemZhUEFlNkd0VGhPMlQ0cEM5WWxsZUJIY3l3amRMU0VKTk5pUWFzR0ZzWjRYbEg0V05GVzY4UVR4a29GQS1IbkU2YUVkRWNvVkZ6eG1VcnNDRTBPYkxsZ2VoRDlV?oc=5"
       }
     ],
@@ -31704,17 +33162,17 @@
     "section": "pt"
   },
   {
-    "title": "Piratas à solta - ligaportugal.pt",
-    "src": "ligaportugal.pt",
+    "title": "Piratas à solta - Liga Portugal",
+    "src": "Liga Portugal",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50WDBXOWZwaS1tWGxnSUVSZndYQjBuSUtMMng4WnVyTWl2c2ZqT2cwSC1iNlpPaVdxeUpMSTFScC05cVZZNXNqMTdKRDNnUndJdnZzWjFzSWdUaWNIcEtEdWVEdzNDbkk?oc=5",
     "timestamp": "2026-09-18T11:16:25+00:00",
     "isoDate": "2026-09-18",
     "date": "18 Set",
-    "d": "Piratas à solta ligaportugal.pt",
+    "d": "Piratas à solta Liga Portugal",
     "category": "pt",
     "sources": [
       {
-        "name": "ligaportugal.pt",
+        "name": "Liga Portugal",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50WDBXOWZwaS1tWGxnSUVSZndYQjBuSUtMMng4WnVyTWl2c2ZqT2cwSC1iNlpPaVdxeUpMSTFScC05cVZZNXNqMTdKRDNnUndJdnZzWjFzSWdUaWNIcEtEdWVEdzNDbkk?oc=5"
       }
     ],
