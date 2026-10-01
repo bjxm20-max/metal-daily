@@ -658,10 +658,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -1133,10 +1133,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1258,10 +1258,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1391,17 +1391,17 @@
     "section": "buzz"
   },
   {
-    "title": "Sia strikes $180 million deal to sell half of her music catalogue: Report - wionews.com",
-    "src": "wionews.com",
+    "title": "Sia strikes $180 million deal to sell half of her music catalogue: Report - WION",
+    "src": "WION",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ1JoTUFTQ1pkaUVYSzIyQWFXVlFDX3JHdE9mVWlaMW5vdkQ4d09JM1o3NEc0XzY0MEZGT0ZlMEUyYWk3cExrYXRORkJHOUhqYmRCTGkyX3JtX1k4UDFYWEJSZEFPWGE0cEpXek1OVEJiNEE5UnlEYTlXaWhqRWRSd2hvRnVFc1pJNWZRZUQ4eHRBMjQxamNycGhfRFc2Q0dDZVZlZ3Eyc0oxNy1McWtBd3phRDdxQmhvVlZrQmZSRVdwSGl2UkxuN2k4bHF6eWFuaTFv0gHTAUFVX3lxTE1nUmhNQVNDWmRpRVhLMjJBYVdWUUNfckd0T2ZVaVoxbm92RDh3T0kzWjc0RzRfNjQwRkZPRmUwRTJhaTdwTGthdE5GQkc5SGpiZEJMaTJfcm1fWThQMVhYQlJkQU9YYTRwSld6TU5UQmI0QTlSeURhOVdpaGpFZFJ3aG9GdUVzWkk1ZlFlRDh4dEEyNDFqY3JwaF9EVzZDR0NlVmVncTJzSjE3LUxxa0F3emFEN3FCaG9WVmtCZlJFV3BIaXZSTG43aThscXp5YW5pMW8?oc=5",
     "timestamp": "2026-10-01T02:20:00+00:00",
     "isoDate": "2026-10-01",
     "date": "1 Out",
-    "d": "Sia strikes $180 million deal to sell half of her music catalogue: Report wionews.com",
+    "d": "Sia strikes $180 million deal to sell half of her music catalogue: Report WION",
     "category": "general",
     "sources": [
       {
-        "name": "wionews.com",
+        "name": "WION",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ1JoTUFTQ1pkaUVYSzIyQWFXVlFDX3JHdE9mVWlaMW5vdkQ4d09JM1o3NEc0XzY0MEZGT0ZlMEUyYWk3cExrYXRORkJHOUhqYmRCTGkyX3JtX1k4UDFYWEJSZEFPWGE0cEpXek1OVEJiNEE5UnlEYTlXaWhqRWRSd2hvRnVFc1pJNWZRZUQ4eHRBMjQxamNycGhfRFc2Q0dDZVZlZ3Eyc0oxNy1McWtBd3phRDdxQmhvVlZrQmZSRVdwSGl2UkxuN2k4bHF6eWFuaTFv0gHTAUFVX3lxTE1nUmhNQVNDWmRpRVhLMjJBYVdWUUNfckd0T2ZVaVoxbm92RDh3T0kzWjc0RzRfNjQwRkZPRmUwRTJhaTdwTGthdE5GQkc5SGpiZEJMaTJfcm1fWThQMVhYQlJkQU9YYTRwSld6TU5UQmI0QTlSeURhOVdpaGpFZFJ3aG9GdUVzWkk1ZlFlRDh4dEEyNDFqY3JwaF9EVzZDR0NlVmVncTJzSjE3LUxxa0F3emFEN3FCaG9WVmtCZlJFV3BIaXZSTG43aThscXp5YW5pMW8?oc=5"
       }
     ],
@@ -1683,10 +1683,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -2417,7 +2417,7 @@
     "timestamp": "2026-10-01T15:51:26+00:00",
     "isoDate": "2026-10-01",
     "date": "1 Out",
-    "d": "As he unveiled his collection at the rock icon’s former apartment, Wood told NME about the side of Hendrix people don’t know, wanting to return to Glastonbury with the Stones “in the drop of a hat”, and if all hope is lost for a Faces reunion The post Ronnie Wood talks new Jimi Hendrix exhibition and hopes of Rolling S",
+    "d": "As he unveiled his collection at Hendrix's former apartment, Wood told NME about the side of the late rock icon people don’t know, wanting to return to Glastonbury with the Stones “in the drop of a hat”, and if all hope is lost for a Faces reunion The post Ronnie Wood talks new Jimi Hendrix exhibition and hopes of Roll",
     "category": "general",
     "sources": [
       {
@@ -2711,17 +2711,17 @@
     "section": "buzz"
   },
   {
-    "title": "Carly Rae Jepsen Announces ‘Day and Night’ North American Tour - Rolling Stone",
-    "src": "Rolling Stone",
+    "title": "Carly Rae Jepsen Announces ‘Day and Night’ North American Tour - rollingstone.com",
+    "src": "rollingstone.com",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOREluazE3WWx2N3NpeDVmc0hRSnhoOGlzdlFWY0F2WUpYUHlhQWFHb01od2FGTlluTUZ4TVpJQXVaZTV5T3R2VkROUlBDYXpMVGdkalQzVThndXdZOXlpQy1PbWR4S0RVMnJGVUhhWUJBR29rWkJ6WEg5TDBjNV81MzExbWFHcGxGZ0ExUDJoUTBKQ3VNOGRsVHJwLWlGZ1pJRVI2d0xEX2VxOVBlV3N2eVVnVVo?oc=5",
     "timestamp": "2026-10-01T14:25:38+00:00",
     "isoDate": "2026-10-01",
     "date": "1 Out",
-    "d": "Carly Rae Jepsen Announces ‘Day and Night’ North American Tour Rolling Stone",
+    "d": "Carly Rae Jepsen Announces ‘Day and Night’ North American Tour rollingstone.com",
     "category": "general",
     "sources": [
       {
-        "name": "Rolling Stone",
+        "name": "rollingstone.com",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOREluazE3WWx2N3NpeDVmc0hRSnhoOGlzdlFWY0F2WUpYUHlhQWFHb01od2FGTlluTUZ4TVpJQXVaZTV5T3R2VkROUlBDYXpMVGdkalQzVThndXdZOXlpQy1PbWR4S0RVMnJGVUhhWUJBR29rWkJ6WEg5TDBjNV81MzExbWFHcGxGZ0ExUDJoUTBKQ3VNOGRsVHJwLWlGZ1pJRVI2d0xEX2VxOVBlV3N2eVVnVVo?oc=5"
       }
     ],
@@ -3189,7 +3189,7 @@
     "title": "‘Shane was rascality personified’: the Pogues on their late frontman, anti-Irish prejudice and the feud over Fairytale of New York - The Guardian",
     "src": "The Guardian",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX25SNHpwdDZQY0N2LXZxa3VtV3I5R3lQSDBMUG5zbU15cVlhSWFBNjQyV0FIU3BNNGViZGJQM1NhSGxyRU11Rmp6a3pYSk1JS3RWUC1RTHBZc2lLYXhZQ0xrWXFjVkxVZlZKaHlUQ1RnQ3hQT3FNejhoQmpVc2dwTDl6ZGxGakxIcVMzU0tCNjU3R25ZbUEyWHZxcjI3ZDNNR0M5M0s4S19KUnR0MjdNYng0d1M?oc=5",
-    "timestamp": "2026-10-01T12:42:00+00:00",
+    "timestamp": "2026-10-01T15:54:00+00:00",
     "isoDate": "2026-10-01",
     "date": "1 Out",
     "d": "‘Shane was rascality personified’: the Pogues on their late frontman, anti-Irish prejudice and the feud over Fairytale of New York The Guardian",
@@ -3286,27 +3286,27 @@
     "section": "buzz"
   },
   {
-    "title": "Deadlynoiz & LVLD Music Release ‘Waiting’ - edmhousenetwork.com",
-    "src": "edmhousenetwork.com",
+    "title": "Deadlynoiz & LVLD Music Release ‘Waiting’ - EDM House Network",
+    "src": "EDM House Network",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKaWJ1OEpudmEzTTByVXUweGVDRTlrZ3g2S3NiMndtU0JpRlpoZ1dUMjA0M0ZsUHM0dUxHU29uRXBWT1lDRXFscjU2V3d0SkVTejNuNUh6ZzRYRElZRGtKaFktcENFUlhzMTZLU0hRbmVoeURs?oc=5",
     "timestamp": "2026-10-01T08:53:06+00:00",
     "isoDate": "2026-10-01",
     "date": "1 Out",
-    "d": "Deadlynoiz & LVLD Music Release ‘Waiting’ edmhousenetwork.com",
+    "d": "Deadlynoiz & LVLD Music Release ‘Waiting’ EDM House Network",
     "category": "general",
     "sources": [
       {
-        "name": "edmhousenetwork.com",
+        "name": "EDM House Network",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKaWJ1OEpudmEzTTByVXUweGVDRTlrZ3g2S3NiMndtU0JpRlpoZ1dUMjA0M0ZsUHM0dUxHU29uRXBWT1lDRXFscjU2V3d0SkVTejNuNUh6ZzRYRElZRGtKaFktcENFUlhzMTZLU0hRbmVoeURs?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -3364,7 +3364,7 @@
     "title": "Luto na cultura portuguesa: Morre a atriz e cantora lírica Helena Afonso aos 78 anos - Dioguinho",
     "src": "Dioguinho",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOazVLMVNtMDVCR3dWaGVscHJOOWNEMGZ5RmRJaXhsMnpMd3Nmc3VrdElOdnJEMUlGZ2FRSVpwdWVfbW9tejgyUnlhUEluNnBCSUd5aVVKaE41Wk8yZjk5dVlJdnFPdFczSjBneHVJM3lxRXJWUml2R0xyaGdTTk4wam16MzVpTzNpbU9OdzVSNk1rcW9RN1pfWTN3TDNBQ1RLRl94Q01JOGhGdw?oc=5",
-    "timestamp": "2026-10-01T15:39:00+00:00",
+    "timestamp": "2026-10-01T15:38:27+00:00",
     "isoDate": "2026-10-01",
     "date": "1 Out",
     "d": "Luto na cultura portuguesa: Morre a atriz e cantora lírica Helena Afonso aos 78 anos Dioguinho",
@@ -3539,7 +3539,7 @@
     "title": "Todos os concertos marcados para 2026 em Portugal - Expresso",
     "src": "Expresso",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVmRWZFE2TVN3X0NPSmlmd2g0bzFLSV82dDVTM2czcWNUVzNpWjdIQWU4bHhXYUI3YUd6WVh3U01HQlJGdXJ1Rno4MU12blBpVXJXWk10MmY5MUFCS0c3UTBwVzFKbGkzT3BiVWZLVHdyUmhkd0FDOS1UdGctRVhHV2psUjlkdUZMWm1hMFREbEFVSEFubEswMWZzY3JGT1JOZDV2dA?oc=5",
-    "timestamp": "2026-10-01T12:44:25+00:00",
+    "timestamp": "2026-10-01T17:11:18+00:00",
     "isoDate": "2026-10-01",
     "date": "1 Out",
     "d": "Todos os concertos marcados para 2026 em Portugal Expresso",
@@ -3559,5 +3559,1115 @@
     "star": true,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "b": "Urisk",
+    "t": "Call",
+    "g": "black",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "1 Out",
+    "isoDate": "2026-10-01",
+    "url": "https://alterportal.net/2026_albums/190457-urisk-call-2026.html",
+    "d": "Atmospheric Black Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190457-urisk-call-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "Tom Morello’s ‘Power To The People’ Festival To Be Livestreamed For Free",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/01/news/tom-morellos-power-to-the-people-festival-to-be-livestreamed-for-free/",
+    "timestamp": "2026-10-01T17:58:55+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Featuring Bruce Springsteen, Foo Fighters, Dave Matthews, Public Enemy and many more. The post Tom Morello’s ‘Power To The People’ Festival To Be Livestreamed For Free appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/01/news/tom-morellos-power-to-the-people-festival-to-be-livestreamed-for-free/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Conrad ‘Cronos’ Lant, frontman of UK heavy metal band Venom, dies aged 63 - The Guardian",
+    "src": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa3dPcVYzYWQyaWR5Z1l4cmY4NzVRVHpPM2VSZTZ5OXRiRGpGQy1welVPNWtWX1ZOSmUwRVY4REQ2ajF0X1ZWZHdDY3E4Qk5QQWhYUXpvQ1R4ZEU3ZVN3UTlVcHNac1VJdTA4MG1NUGFJWGRrbUV0X2hIekpXa085MllUWU52NmIxbWVUdjZjNk0?oc=5",
+    "timestamp": "2026-10-01T17:50:00+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Conrad ‘Cronos’ Lant, frontman of UK heavy metal band Venom, dies aged 63 The Guardian",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa3dPcVYzYWQyaWR5Z1l4cmY4NzVRVHpPM2VSZTZ5OXRiRGpGQy1welVPNWtWX1ZOSmUwRVY4REQ2ajF0X1ZWZHdDY3E4Qk5QQWhYUXpvQ1R4ZEU3ZVN3UTlVcHNac1VJdTA4MG1NUGFJWGRrbUV0X2hIekpXa085MllUWU52NmIxbWVUdjZjNk0?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "BAD BRAINS READY 'ARE YOU READY: THE FIRST STUDIO RECORDING (Inner Ear - March 1979)' ALBUM - KNAC.COM",
+    "src": "KNAC.COM",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmo3RG1KYzdOYXVpY0Nzd0pPdTlrdllCdmV6QzdtSG5ucGVfU1BmT1h0WExUOUEtX1lYaEJDSjhvU0x3Wl9MS0J0eFE3cDhSdjZUMzl4Rko4d0pKYzF6TWpOUHFkM3NlV2RTVkdVQURFV2g1dkd3WTVEbnEtOHpWMkdZUQ?oc=5",
+    "timestamp": "2026-10-01T17:44:17+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "BAD BRAINS READY 'ARE YOU READY: THE FIRST STUDIO RECORDING (Inner Ear - March 1979)' ALBUM KNAC.COM",
+    "category": "core",
+    "sources": [
+      {
+        "name": "KNAC.COM",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQmo3RG1KYzdOYXVpY0Nzd0pPdTlrdllCdmV6QzdtSG5ucGVfU1BmT1h0WExUOUEtX1lYaEJDSjhvU0x3Wl9MS0J0eFE3cDhSdjZUMzl4Rko4d0pKYzF6TWpOUHFkM3NlV2RTVkdVQURFV2g1dkd3WTVEbnEtOHpWMkdZUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "EXHORDER's KYLE THOMAS: 'We Have A Very Big' Record 'Label Right Now That's Been Very, Very Active In Pursuing Us'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/exhorders-kyle-thomas-we-have-a-very-big-record-label-right-now-thats-been-very-very-active-in-pursuing-us",
+    "timestamp": "2026-10-01T17:41:59+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "In a new interview with Scott Davidson of Chicago's Rebel Radio, vocalist/guitarist Kyle Thomas of thrash and groove trailblazers EXHORDER spoke about a possible follow-up to the band's fourth full-length album, \"Defectum Omnium\", which came out in March 2024 via Nuclear Blast Records. The 56-year-o...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/exhorders-kyle-thomas-we-have-a-very-big-record-label-right-now-thats-been-very-very-active-in-pursuing-us"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Immortal Announce “Immortal – Complete Discography 1992-2023” Box Set",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/01/news/immortal-announce-immortal-complete-discography-1992-2023-box-set/",
+    "timestamp": "2026-10-01T17:37:18+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Featuring 13 LPs. The post Immortal Announce “Immortal – Complete Discography 1992-2023” Box Set appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/01/news/immortal-announce-immortal-complete-discography-1992-2023-box-set/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Everything in the Metal Injection Store Is Slashed 20% Off for 7 Days",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/everything-in-the-metal-injection-store-is-slashed-20-off-for-7-days",
+    "timestamp": "2026-10-01T17:12:56+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "This is just the beginning. The post Everything in the Metal Injection Store Is Slashed 20% Off for 7 Days appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/everything-in-the-metal-injection-store-is-slashed-20-off-for-7-days"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Whores. Reveal December Headlining Run",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/01/news/whores-reveal-december-headlining-run/",
+    "timestamp": "2026-10-01T17:12:15+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "A roughly two-week trek will kickoff December. The post Whores. Reveal December Headlining Run appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/01/news/whores-reveal-december-headlining-run/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Distant Enlist Spite’s Darius Tehrani For “The Shallow Gaze” Music Video",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/01/news/distant-enlist-spites-darius-tehrani-for-the-shallow-gaze-music-video/",
+    "timestamp": "2026-10-01T17:02:57+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "The latest from the guest-filled \"Into Despair\". The post Distant Enlist Spite’s Darius Tehrani For “The Shallow Gaze” Music Video appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/01/news/distant-enlist-spites-darius-tehrani-for-the-shallow-gaze-music-video/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "78-Year-Old ALICE COOPER Once Again Rules Out Retirement: 'I Can't Think Of A Better Job'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/78-year-old-alice-cooper-once-again-rules-out-retirement-i-cant-think-of-a-better-job",
+    "timestamp": "2026-10-01T16:56:04+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "In a new interview with The Telegraph's Mick Brown, legendary rocker Alice Cooper, who turned 78 in February, was once again asked about the possibility of retirement. The singer, who was born Vincent Damon Furnier, responded (as transcribed by BLABBERMOUTH.NET): \"Of course, Alice is a fictitious ch...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/78-year-old-alice-cooper-once-again-rules-out-retirement-i-cant-think-of-a-better-job"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "King 810’s “I Know You Heard Of Me” Music Video Debuts",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/01/news/king-810s-i-know-you-heard-of-me-music-video-debuts/",
+    "timestamp": "2026-10-01T16:50:50+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "The opening track for their forthcoming new album. The post King 810’s “I Know You Heard Of Me” Music Video Debuts appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/01/news/king-810s-i-know-you-heard-of-me-music-video-debuts/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "How Scott Ian Reacted When Metallica Fired Dave Mustaine",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/scott-ian-metallica-fired-dave-mustaine/",
+    "timestamp": "2026-10-01T16:47:21+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "In a new interview, Anthrax's Scott Ian shared how he reacted when Metallica told him they fired Dave Mustaine back in 1983. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/scott-ian-metallica-fired-dave-mustaine/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "CRONOS, VENOM founder and extreme-metal icon, dead at 63",
+    "src": "Revolver",
+    "url": "https://www.revolvermag.com/music/cronos-venom-founder-and-extreme-music-icon-dead-at-63/",
+    "timestamp": "2026-10-01T16:44:16+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "‘Black Metal’ maker was “uncompromising, fearless and unmistakable”",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Revolver",
+        "url": "https://www.revolvermag.com/music/cronos-venom-founder-and-extreme-music-icon-dead-at-63/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "VENOM Frontman CONRAD 'CRONOS' LANT Dead At 63",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/venom-frontman-conrad-cronos-lant-dead-at-63",
+    "timestamp": "2026-10-01T16:37:33+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Conrad \"Cronos\" Lant of black metal pioneers VENOM has died at the age of 63. The vocalist/bassist's passing was confirmed in a post earlier today (Thursday, October 1) on VENOM's official social media, although no cause of death was revealed. The message reads as follows: \"IN MEMORIAM — CONRAD 'CRO...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/venom-frontman-conrad-cronos-lant-dead-at-63"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Lzzy Hale Weighs In With Statement on 'Cornell 7' Rape Case",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/halestorm-lzzy-hale-cornell-7-rape-case/",
+    "timestamp": "2026-10-01T16:29:22+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Halestorm frontwoman Lzzy Hale shared a post expressing her thoughts on the ongoing 'Cornell 7' rape case. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/halestorm-lzzy-hale-cornell-7-rape-case/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Comeback Kid Launch “Yesterday’s Gone” Music Video Featuring Incendiary’s Brendan Garrone",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/01/news/comeback-kid-launch-yesterdays-gone-music-video-featuring-incendiarys-brendan-garrone/",
+    "timestamp": "2026-10-01T16:28:31+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Their second chosen single. The post Comeback Kid Launch “Yesterday’s Gone” Music Video Featuring Incendiary’s Brendan Garrone appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/01/news/comeback-kid-launch-yesterdays-gone-music-video-featuring-incendiarys-brendan-garrone/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Twiztid Stream Their Version Of Papa Roach’s “Getting Away With Murder”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/01/news/twiztid-stream-their-version-of-papa-roachs-getting-away-with-murder/",
+    "timestamp": "2026-10-01T16:16:24+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Kicking off 'rocktober'. The post Twiztid Stream Their Version Of Papa Roach’s “Getting Away With Murder” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/01/news/twiztid-stream-their-version-of-papa-roachs-getting-away-with-murder/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Founder of Influential Heavy Metal Group Dead at 63 - Wide Open Country",
+    "src": "Wide Open Country",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYVNCaTNZUE5qMFdiMm9paGFTRjVIMkM3eWRQZ2RkT1hIZGt0R2tSQ1Z3b1R3d01wcktUUzB2WFk0NVJZRGpXN1lRSmVBbGtWUDNFbDdFYWs2eVphU1l6dmNBZjRtNUgwYXk0Y2xManZXNWVDajRCcWMwdDA0VElCbXNJcGZjX0VvNmZjSQ?oc=5",
+    "timestamp": "2026-10-01T16:16:15+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Founder of Influential Heavy Metal Group Dead at 63 Wide Open Country",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Wide Open Country",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYVNCaTNZUE5qMFdiMm9paGFTRjVIMkM3eWRQZ2RkT1hIZGt0R2tSQ1Z3b1R3d01wcktUUzB2WFk0NVJZRGpXN1lRSmVBbGtWUDNFbDdFYWs2eVphU1l6dmNBZjRtNUgwYXk0Y2xManZXNWVDajRCcWMwdDA0VElCbXNJcGZjX0VvNmZjSQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "SHOGUN MOJO, Featuring KISS Guitarist TOMMY THAYER And DAN REED, Releases Second Single 'Gonna Raise Hell'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/shogun-mojo-featuring-kiss-guitarist-tommy-thayer-and-dan-reed-releases-second-single-gonna-raise-hell",
+    "timestamp": "2026-10-01T16:08:55+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "SHOGUN MOJO, an exciting new collaboration between legendary KISS guitarist Tommy Thayer and acclaimed singer-songwriter Dan Reed of DAN REED NETWORK fame, will release its self-titled debut album on October 30, 2026 via Frontiers Music Srl. The official music video for the LP's second single, \"Gonn...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/shogun-mojo-featuring-kiss-guitarist-tommy-thayer-and-dan-reed-releases-second-single-gonna-raise-hell"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Venom Legend Conrad 'Cronos' Lant Has Died at 63",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/venom-cronos-dead-63/",
+    "timestamp": "2026-10-01T16:05:25+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Influential metal legend, Venom's Conrad 'Cronos' Lant, has died at age 63, as revealed in a statement from the band and the musician's son. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/venom-cronos-dead-63/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Conrad ‘Cronos’ Lant, Founder of Venom and Godfather of Black Metal, Dead at 63 - VICE",
+    "src": "VICE",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEF0ZVNQTFh6VEVTTTFRLTFJQVJzSzYtUzBpLUhpNHZCZEIwZDBmR2lxNG8xNWJGLWlibXVkdjBIWmRrb0F0eWNuc0NQNnE5Qlc1NjI3NXVENFFIUmpweW9SMTFMbTMyQ3cyUVJfRFZ5N01ZQzU2V3NSTWwyd2RyRFdXcnhTMl81TXA2UnhDMjlFRXBKbTJTVTk3WUNVRng4eGltNkZ1VkpldGdx?oc=5",
+    "timestamp": "2026-10-01T15:59:17+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Conrad ‘Cronos’ Lant, Founder of Venom and Godfather of Black Metal, Dead at 63 VICE",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "VICE",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOEF0ZVNQTFh6VEVTTTFRLTFJQVJzSzYtUzBpLUhpNHZCZEIwZDBmR2lxNG8xNWJGLWlibXVkdjBIWmRrb0F0eWNuc0NQNnE5Qlc1NjI3NXVENFFIUmpweW9SMTFMbTMyQ3cyUVJfRFZ5N01ZQzU2V3NSTWwyd2RyRFdXcnhTMl81TXA2UnhDMjlFRXBKbTJTVTk3WUNVRng4eGltNkZ1VkpldGdx?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Metal Music Festival Returns to Bengaluru for its 14th Edition - Daily Music Roll",
+    "src": "Daily Music Roll",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQejRlNUJNdDBjT3BsSjlCUDZhNktmNk1lQjVGMy1TSzRsVXZnOTBUTTc2LWFXblp2ZTRUUFVnQ2tGLXFMZmNGcnl3X2pyeXhCNE9BM2piYk5VOExuR3k3bEhsYnlTRGNGYThJeGxHOXdBcVNLWVhPN2xYcndyYzJRSTU3TGFuNXlyYUlzenI2ZlhfR0NwelNOUmdOdjJkRTZLSG5JT3JqMXhfaHBKY2pOVUhLdmxfT3M3YXlmaHE4SQ?oc=5",
+    "timestamp": "2026-10-01T13:55:43+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Metal Music Festival Returns to Bengaluru for its 14th Edition Daily Music Roll",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Daily Music Roll",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQejRlNUJNdDBjT3BsSjlCUDZhNktmNk1lQjVGMy1TSzRsVXZnOTBUTTc2LWFXblp2ZTRUUFVnQ2tGLXFMZmNGcnl3X2pyeXhCNE9BM2piYk5VOExuR3k3bEhsYnlTRGNGYThJeGxHOXdBcVNLWVhPN2xYcndyYzJRSTU3TGFuNXlyYUlzenI2ZlhfR0NwelNOUmdOdjJkRTZLSG5JT3JqMXhfaHBKY2pOVUhLdmxfT3M3YXlmaHE4SQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "“You saw heavy metal bands doing power ballads!”: Why MTV nearly made Steve Morse quit music for a VERY different career - Guitar.com",
+    "src": "Guitar.com",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWZVUTE4eUl6cG0zTkFSUXg0a1R1U1NBQ0lSbFFBX1J1YThDM2NlVWdabjdBX0N2UTBtb3FnQ2FNM2phV3hIenZ1Vmw0LTQxUUVKQUotTjdkUG1rdkl5Y2JPWnNvSS14aEpmRWVCVjF3cTdQbDB0ekNwWVc4VmdXQnFFY1paOUJ5VEpkMHRHTG5nS1RUQ2dZUmROMXFwQjdyLWZud2dyWXpYdw?oc=5",
+    "timestamp": "2026-10-01T12:09:24+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "“You saw heavy metal bands doing power ballads!”: Why MTV nearly made Steve Morse quit music for a VERY different career Guitar.com",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Guitar.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWZVUTE4eUl6cG0zTkFSUXg0a1R1U1NBQ0lSbFFBX1J1YThDM2NlVWdabjdBX0N2UTBtb3FnQ2FNM2phV3hIenZ1Vmw0LTQxUUVKQUotTjdkUG1rdkl5Y2JPWnNvSS14aEpmRWVCVjF3cTdQbDB0ekNwWVc4VmdXQnFFY1paOUJ5VEpkMHRHTG5nS1RUQ2dZUmROMXFwQjdyLWZud2dyWXpYdw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "1976 Rock Song, Lasting Over 10 Minutes, Was Recorded in a Wheelchair - AOL.ca",
+    "src": "AOL.ca",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IeVViTERkQkhtdzVaZjRXTjFDV3F1WmhJUkFpdmxnNnhDYnhfOEg1RGY1Y2RVNERiUFpMZWphajZHakZRT0pvaFRULTFpOXZ4eEtnOC1LaXFVeXJkM3BKWjVRZ19DMUE1d2tHSThvTEJQZjdGWjlCVTFn?oc=5",
+    "timestamp": "2026-10-01T02:09:00+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "1976 Rock Song, Lasting Over 10 Minutes, Was Recorded in a Wheelchair AOL.ca",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "AOL.ca",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IeVViTERkQkhtdzVaZjRXTjFDV3F1WmhJUkFpdmxnNnhDYnhfOEg1RGY1Y2RVNERiUFpMZWphajZHakZRT0pvaFRULTFpOXZ4eEtnOC1LaXFVeXJkM3BKWjVRZ19DMUE1d2tHSThvTEJQZjdGWjlCVTFn?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Oh No, Alexander Skarsgård Forgot His Shirt in the Video for The Rolling Stones’ “Mr. Charm”: Watch",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/rolling-stones-alexander-skarsgard-mr-charm-music-video/",
+    "timestamp": "2026-10-01T17:40:09+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "What a shame. Oh No, Alexander Skarsgård Forgot His Shirt in the Video for The Rolling Stones’ “Mr. Charm”: Watch Liz Shannon Miller",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/rolling-stones-alexander-skarsgard-mr-charm-music-video/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Shady Bug – “seed”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2513188/shady-bug-seed/music/",
+    "timestamp": "2026-10-01T17:38:01+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Shady Bug, the St. Louis band that are the latest signees to Julia's War Recordings, will release their latest LP I wanted to be there at the end of this month. Holy crap, it's October. Anyway, they've already shared the lead single \" my night routine ,\" and today, they've followed it up with the new single \"seed.\" The",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2513188/shady-bug-seed/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Hudson Freeman Announces New Album Doom Country: Hear “Fell Ass Backwards”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2513258/hudson-freeman-announces-new-album-doom-country-hear-fell-ass-backwards/music/",
+    "timestamp": "2026-10-01T17:13:01+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Hudson Freeman came to my attention at the end of last year, when the Pitchfork critic-turned-music producer Nick Sylvester wrote about him in a Substack post called \" This is the song I shared most last year .\" Sylvester wrote about a \"demo\" version of Freeman's song \"If You Know Me\" that went viral on Instagram, whic",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2513258/hudson-freeman-announces-new-album-doom-country-hear-fell-ass-backwards/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Bruno Mars Reunites With Karol G for “Dance With Me” Music Video: Watch",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/bruno-mars-karol-g-dance-with-me-video/",
+    "timestamp": "2026-10-01T17:03:03+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "The video continues a big year for the pair after collaborating on “Still” and performing together at SoFi Stadium. Bruno Mars Reunites With Karol G for “Dance With Me” Music Video: Watch Pedro Camacho",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/bruno-mars-karol-g-dance-with-me-video/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "SNL Roasts Stella Leffy In Cut-For-Time Weekend Update Segment",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2513269/snl-roasts-stella-leffy-in-cut-for-time-weekend-update-segment/news/",
+    "timestamp": "2026-10-01T17:02:06+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Stella Lefty must be so happy about all the Ed Sheeran stuff. Before Sheeran submitted to billionaire demands and kicked Macklemore off of his tour, Lefty, the Groupon heiress turned flavorless country-folk-pop singer, was the easiest snark-target in the music world. Lefty's breakout smash \"Boston,\" still the #2 song i",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2513269/snl-roasts-stella-leffy-in-cut-for-time-weekend-update-segment/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "David Lynch’s Iconic Wild at Heart Returning to Theaters This Month",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/wild-at-heart-theaters-re-release/",
+    "timestamp": "2026-10-01T17:00:11+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "The Nicolas Cage and Laura Dern love story will be on the big screen starting October 30th. David Lynch’s Iconic Wild at Heart Returning to Theaters This Month Liz Shannon Miller",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/wild-at-heart-theaters-re-release/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Best October Prime Day Headphone Deals on Sony, Bose, Beats Available Now",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/best-october-prime-day-headphone-deals-2026/",
+    "timestamp": "2026-10-01T16:58:37+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "The reliable Sony WH-1000XM5, premium Bose QuietComfort Ultra, and mid-range Beats Studio Pro are all on sale. Best October Prime Day Headphone Deals on Sony, Bose, Beats Available Now Eddie Fu",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/best-october-prime-day-headphone-deals-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Watch: Bruno Mars and Karol G release music video for Dance With Me - Contactmusic.com",
+    "src": "Contactmusic.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZExXQWNqSm9FeUhvR1ZBU3FCSGpPZzJHVm55dVZUeEgyWEd6Y0VlaVBqQi1pdjUtNzBwSHZSZUw3bGZXTTZQNzFVOVpOUWJhejF1OXFTbUNLclNKclloUEpNUUd4UExIZ3lCLTBlbS1tdG8zRkMtUnR5R3UzRi01cUgweXFZRW9TeTMxWnc1MmxqeHdSNGNWb24yVkltNlg5TDhyYVN2MmU0LWxhVDZJdjU4NA?oc=5",
+    "timestamp": "2026-10-01T16:55:04+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Watch: Bruno Mars and Karol G release music video for Dance With Me Contactmusic.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Contactmusic.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZExXQWNqSm9FeUhvR1ZBU3FCSGpPZzJHVm55dVZUeEgyWEd6Y0VlaVBqQi1pdjUtNzBwSHZSZUw3bGZXTTZQNzFVOVpOUWJhejF1OXFTbUNLclNKclloUEpNUUd4UExIZ3lCLTBlbS1tdG8zRkMtUnR5R3UzRi01cUgweXFZRW9TeTMxWnc1MmxqeHdSNGNWb24yVkltNlg5TDhyYVN2MmU0LWxhVDZJdjU4NA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kelly Clarkson Loves AI, But Says AI Artists Should “Compete” on Separate Charts",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/kelly-clarkson-ai-artists-separate-chart/",
+    "timestamp": "2026-10-01T16:40:50+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "The pop star made a comparison to robots competing with humans in the Olympics. Kelly Clarkson Loves AI, But Says AI Artists Should “Compete” on Separate Charts Eddie Fu",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/kelly-clarkson-ai-artists-separate-chart/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Alexander Skarsgård Moves Like Jagger in New Rolling Stones Video",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/alexander-skarsgard-moves-like-jagger-in-new-rolling-stones-video/",
+    "timestamp": "2026-10-01T16:35:22+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/alexander-skarsgard-moves-like-jagger-in-new-rolling-stones-video/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Red Clay Strays Announce 2027 North American Tour",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/the-red-clay-strays-2027-north-american-tour/",
+    "timestamp": "2026-10-01T16:33:31+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "The extensive US and Canada run arrives in support of the band's 2026 album Grateful. The Red Clay Strays Announce 2027 North American Tour Paolo Ragusa",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/the-red-clay-strays-2027-north-american-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Conrad “Cronos” Lant, Legendary Venom Frontman, Dead at 63",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/conrad-cronos-lant-venom-dead/",
+    "timestamp": "2026-10-01T16:32:08+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "The singer-bassist was one of the most influential metal artists of all time. Conrad “Cronos” Lant, Legendary Venom Frontman, Dead at 63 Spencer Kaufman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/conrad-cronos-lant-venom-dead/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Venom’s Conrad “Cronos” Lant Dead At 63",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2513262/venoms-conrad-cronos-lant-dead-at-63/news/",
+    "timestamp": "2026-10-01T16:21:55+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Conrad \"Cronos\" Lant, longtime singer and bassist for the pioneering English underground metal band Venom, has passed away. The band announced Lant's passing in a social media post today. No cause of death has been reported. Lant was 63. The post Venom’s Conrad “Cronos” Lant Dead At 63 appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2513262/venoms-conrad-cronos-lant-dead-at-63/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Lil Nas X Returns with New Song “World’s Greatest”",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/lil-nas-x-returns-with-new-song-worlds-greatest/",
+    "timestamp": "2026-10-01T16:17:46+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/lil-nas-x-returns-with-new-song-worlds-greatest/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Lil Nas X Returns To Music With “World’s Greatest!”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2513256/lil-nas-x-returns-to-music-with-worlds-greatest/music/",
+    "timestamp": "2026-10-01T16:15:07+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Things looked bleak for a while there. Last year, while enduring a career lull and publicly struggling with his mental health , Lil Nas X was arrested on the streets of Los Angeles and faced four felony counts , including the risk of jail time. But the charges were dropped pending mental health treatment , which seems ",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2513256/lil-nas-x-returns-to-music-with-worlds-greatest/music/"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Police Reportedly Arrest Major Music Executive On Charges Of Felony Battery By Strangulation - dailycaller.com",
+    "src": "dailycaller.com",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOUhIa0htYVNiTWFoUXREWHVYRzd3QlRyd3NKMVAyQ1VLTmZEOEtNZ1FEVlZvZUkzdmpEN1NtZlBUQ1VUWTlIQk9rM1EycHlseVI4V05vb01sUXozalZNbkU1VmMtTnVZVWtHWTJ0ODRZTFRIUWNHN3JpeU5EaTl1dGpiczlZZ2N5cEh1NV9VYnNoSDUyaXE2cTNJWXpuMXRHUHphdThDN2xDS3loRl8wZXhtQjBVVDFsVk5tVXBQeGNzM20wR1BZ?oc=5",
+    "timestamp": "2026-10-01T15:10:00+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Police Reportedly Arrest Major Music Executive On Charges Of Felony Battery By Strangulation dailycaller.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "dailycaller.com",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOUhIa0htYVNiTWFoUXREWHVYRzd3QlRyd3NKMVAyQ1VLTmZEOEtNZ1FEVlZvZUkzdmpEN1NtZlBUQ1VUWTlIQk9rM1EycHlseVI4V05vb01sUXozalZNbkU1VmMtTnVZVWtHWTJ0ODRZTFRIUWNHN3JpeU5EaTl1dGpiczlZZ2N5cEh1NV9VYnNoSDUyaXE2cTNJWXpuMXRHUHphdThDN2xDS3loRl8wZXhtQjBVVDFsVk5tVXBQeGNzM20wR1BZ?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kaitlin Butts To Kick Off ‘Hello, Honky Tonk Live And In Person Tour’ This Month - MusicRow.com",
+    "src": "MusicRow.com",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSWZwMVhzXzZ2NjR1bTUyRlVKSGJNcHRYM3lhU3p6OFowYy12WnZIRnJQdi1QZWhJN1lMUU5nUkVYLUdvUnBpOC13Wjc0QVc3MWtvbG9ZYW9ZS0tnSzJMQVBVLVJvRXVCSlZzOGhlamdxVnNUczNTU09fTkVpZENDNG01bGVzNVFpWkpXZ1lFeVlVemJUd0IwMnBHZHkxc3Fzd29wRGdTNXgxTDg?oc=5",
+    "timestamp": "2026-10-01T15:08:40+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Kaitlin Butts To Kick Off ‘Hello, Honky Tonk Live And In Person Tour’ This Month MusicRow.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "MusicRow.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSWZwMVhzXzZ2NjR1bTUyRlVKSGJNcHRYM3lhU3p6OFowYy12WnZIRnJQdi1QZWhJN1lMUU5nUkVYLUdvUnBpOC13Wjc0QVc3MWtvbG9ZYW9ZS0tnSzJMQVBVLVJvRXVCSlZzOGhlamdxVnNUczNTU09fTkVpZENDNG01bGVzNVFpWkpXZ1lFeVlVemJUd0IwMnBHZHkxc3Fzd29wRGdTNXgxTDg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Following hit Netflix documentary and blockbuster Circus Tour, Take That confirm Dreamers LP release - MusicWeek.com",
+    "src": "MusicWeek.com",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSHhCUWR2ZkZ6eW1ybHJSNkpISndnZ05YZC1MeVFOYmZPUmRWdlZ3cHhhWmhkR1kzcjFpWWFtMFBqemdzempabkZYeFh4bjlaTVhQWWNZMXd2LXlfSk4zbVB0cnhCLU5XQXRfa0JxVlhEZW9HSVR1d3YxazltRVVsdUFhMEZvQVhfMy1YWXF1QVdBcW5lZlptcVg1M0FhX1lpWmUzZWxqNzR4X2FxQklzc0prYlRybkExRkppUlI1MzEzX0JYbEdscnJPblNLVm1qSFNfbVFSTldZWW42?oc=5",
+    "timestamp": "2026-10-01T10:14:00+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Following hit Netflix documentary and blockbuster Circus Tour, Take That confirm Dreamers LP release MusicWeek.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "MusicWeek.com",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSHhCUWR2ZkZ6eW1ybHJSNkpISndnZ05YZC1MeVFOYmZPUmRWdlZ3cHhhWmhkR1kzcjFpWWFtMFBqemdzempabkZYeFh4bjlaTVhQWWNZMXd2LXlfSk4zbVB0cnhCLU5XQXRfa0JxVlhEZW9HSVR1d3YxazltRVVsdUFhMEZvQVhfMy1YWXF1QVdBcW5lZlptcVg1M0FhX1lpWmUzZWxqNzR4X2FxQklzc0prYlRybkExRkppUlI1MzEzX0JYbEdscnJPblNLVm1qSFNfbVFSTldZWW42?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Morreu Helena Afonso, a artista que deixou marca na música, no teatro e na televisão - Flash.pt",
+    "src": "Flash.pt",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON2ZSMzZTbjV6R1RzbTBVSUFPdklweEdOYU8tQkNaeWpqdFV5S1JNUWlnTGtDOXRyR1RQay16QnpxUEhkaUU0ZTFMTzVXb0dfM0xPSFF2SWx3aTN1dHEzMlcwVmlDSzdFWWVtbzdwUnRXZVJjZWQzVmw5dndMTm9qcnl4RERQYzlrYS1NREE1UHF6ajUxYnczNjNTQzR3LWdBa01Ta1ZmUHBnVzdvbFg5eXByUEY1X0JQSDFJTjloSlFDRG9FZU9MUQ?oc=5",
+    "timestamp": "2026-10-01T15:48:00+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Morreu Helena Afonso, a artista que deixou marca na música, no teatro e na televisão Flash.pt",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Flash.pt",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON2ZSMzZTbjV6R1RzbTBVSUFPdklweEdOYU8tQkNaeWpqdFV5S1JNUWlnTGtDOXRyR1RQay16QnpxUEhkaUU0ZTFMTzVXb0dfM0xPSFF2SWx3aTN1dHEzMlcwVmlDSzdFWWVtbzdwUnRXZVJjZWQzVmw5dndMTm9qcnl4RERQYzlrYS1NREE1UHF6ajUxYnczNjNTQzR3LWdBa01Ta1ZmUHBnVzdvbFg5eXByUEY1X0JQSDFJTjloSlFDRG9FZU9MUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Misericórdia de Paris recebe mais pedidos de ajuda - RTP Mundo",
+    "src": "RTP Mundo",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdUExalRZSlpDM2RHTkNOdFY3bGo1TFZMX2dBd1M5dUtydXh2c3g5MllCTmxjNmtUbWlPRy1UMVhldUI0WkxXXzFNNXhma2xaandQX1p5M3F3d0t0VFFzZ3lhVTkzMThnNDJQbm9qd3o4YkJ4SVRtT05WWkpPaGR0alAxbHlGakU?oc=5",
+    "timestamp": "2026-10-01T14:26:00+00:00",
+    "isoDate": "2026-10-01",
+    "date": "1 Out",
+    "d": "Misericórdia de Paris recebe mais pedidos de ajuda RTP Mundo",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "RTP Mundo",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdUExalRZSlpDM2RHTkNOdFY3bGo1TFZMX2dBd1M5dUtydXh2c3g5MllCTmxjNmtUbWlPRy1UMVhldUI0WkxXXzFNNXhma2xaandQX1p5M3F3d0t0VFFzZ3lhVTkzMThnNDJQbm9qd3o4YkJ4SVRtT05WWkpPaGR0alAxbHlGakU?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Brymir",
+    "t": "What We Leave Behind Review",
+    "src": "Angry Metal Guy",
+    "date": "1 Out",
+    "isoDate": "2026-10-01",
+    "timestamp": "2026-10-01T16:38:36+00:00",
+    "url": "https://www.angrymetalguy.com/brymir-what-we-leave-behind-review/",
+    "d": "\"Four years after Brymir dropped fourth LP Voices in the Sky , the Finnish quartet reemerges with fifth opus, What We Leave Behind . Despite parting ways with longtime guitarist Sean Haslam last year, fans of the band will be happy to hear Brymir 's core sound",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "brymir|what we leave behind review",
+    "kind": "review",
+    "section": "rev"
   }
 ]
