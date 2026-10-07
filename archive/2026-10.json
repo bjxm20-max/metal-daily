@@ -291,10 +291,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -341,10 +341,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -641,10 +641,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -691,10 +691,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -716,10 +716,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1066,10 +1066,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1272,7 +1272,7 @@
     "title": "Hear DOWN’s crushing new song “The Myth”",
     "src": "Revolver",
     "url": "https://www.revolvermag.com/music/hear-downs-crushing-new-song-the-myth/",
-    "timestamp": "2026-10-07T15:01:13+00:00",
+    "timestamp": "2026-10-07T15:11:00+00:00",
     "isoDate": "2026-10-07",
     "date": "7 Out",
     "d": "A “Hammer-fisted” preview from their ‘Volume V’",
@@ -2172,7 +2172,7 @@
     "title": "untitled (halo) Release New Single \"sex\" - Under the Radar Magazine",
     "src": "Under the Radar Magazine",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KbkVJaTRFTjgzLTR2Rk9xenFwY25QRVJTT3pOd1cyczI1WGNUSFkwNDNjcjJJdERDdkRtRUF4VzltV2JtbzdsMWd2NU5xbC1UODlwRFZxUlgzUXVqdzJIZzJ3QzBNb3JyUXRkdnZUU0FUeGxJdUhQQ2QtdVRUZ3c?oc=5",
-    "timestamp": "2026-10-07T14:13:40+00:00",
+    "timestamp": "2026-10-07T14:16:10+00:00",
     "isoDate": "2026-10-07",
     "date": "7 Out",
     "d": "untitled (halo) Release New Single \"sex\" Under the Radar Magazine",
@@ -2680,6 +2680,1116 @@
     "score": "",
     "cat": "metal",
     "releaseKey": "eshtadur|in darkness all shadows gone review",
+    "kind": "review",
+    "section": "rev"
+  },
+  {
+    "b": "Eleine",
+    "t": "Singles",
+    "g": "symph",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "7 Out",
+    "isoDate": "2026-10-07",
+    "url": "https://alterportal.net/lossless/190487-eleine-singles-2026.html",
+    "d": "Symphonic Metal / Groove Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/lossless/190487-eleine-singles-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "Shelter & Sound Premiere Their Inspiring Single “Life on Display (Sweet Cheetah Exclusive)” - V13 Media",
+    "src": "V13 Media",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CWUVUUUxwdnRGVXk4Y21oM0NvX1RjdElTLXRLV2ZJelY2UlBVTk1RUWp6MERnc1pwSFpTWFFWcW93ZXBETEc0N1NpZzlfT2gwLVNRRTN4eE9wbzlYUnlrblU3UHJNdGF5NWtlS3RQOXkzMjV3Q2UxUVh3?oc=5",
+    "timestamp": "2026-10-07T18:11:15+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Shelter & Sound Premiere Their Inspiring Single “Life on Display (Sweet Cheetah Exclusive)” V13 Media",
+    "category": "core",
+    "sources": [
+      {
+        "name": "V13 Media",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CWUVUUUxwdnRGVXk4Y21oM0NvX1RjdElTLXRLV2ZJelY2UlBVTk1RUWp6MERnc1pwSFpTWFFWcW93ZXBETEc0N1NpZzlfT2gwLVNRRTN4eE9wbzlYUnlrblU3UHJNdGF5NWtlS3RQOXkzMjV3Q2UxUVh3?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Festival Recap: Scorching Heat, Unstoppable Energy & Massive Crowds – Inside Louder Than Life’s Biggest Year Yet",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/show-recap/festival-recap-scorching-heat-unstoppable-energy-massive-crowds-inside-louder-than-lifes-biggest-year-yet",
+    "timestamp": "2026-10-07T18:01:33+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Louder Than Life once again proved to be an unmissable event in Kentucky. The post Festival Recap: Scorching Heat, Unstoppable Energy & Massive Crowds – Inside Louder Than Life’s Biggest Year Yet appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/show-recap/festival-recap-scorching-heat-unstoppable-energy-massive-crowds-inside-louder-than-lifes-biggest-year-yet"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Metallica Mixer Says Burying the Bass on 'AJFA' Was 'Stupid'",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/metallica-mixer-bass-and-justice-for-all/",
+    "timestamp": "2026-10-07T17:57:29+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Steve Thompson, the engineer who mixed Metallica's '...And Justice for All,' said he 'thought it was stupid' to bury the bass on the album. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/metallica-mixer-bass-and-justice-for-all/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Enter Shikari Surprise Release “Lose Your Self” B-Side “Higher Ground”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/07/news/enter-shikari-surprise-release-lose-your-self-b-side-higher-ground/",
+    "timestamp": "2026-10-07T17:50:09+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Following the band's recent announcement of their upcoming indefinite hiatus. The post Enter Shikari Surprise Release “Lose Your Self” B-Side “Higher Ground” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/07/news/enter-shikari-surprise-release-lose-your-self-b-side-higher-ground/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch: Tool’s Danny Carey Sits In On An “Invincible” Cover With A Jazz Collective",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/07/news/watch-tools-danny-carey-sits-in-on-an-invincible-cover-with-a-jazz-collective/",
+    "timestamp": "2026-10-07T17:41:27+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Part of the Kinsey Sessions. The post Watch: Tool’s Danny Carey Sits In On An “Invincible” Cover With A Jazz Collective appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/07/news/watch-tools-danny-carey-sits-in-on-an-invincible-cover-with-a-jazz-collective/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "ZAKK WYLDE Introduces First-Ever WYLDE AUDIO Acoustic Guitars",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/zakk-wylde-introduces-first-ever-wylde-audio-acoustic-guitars",
+    "timestamp": "2026-10-07T17:35:37+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "More than a decade after Zakk Wylde (BLACK LABEL SOCIETY, OZZY OSBOURNE) launched his own range of guitars and amps under his new brand Wylde Audio, the company has debuted the first-ever acoustic guitar models. The two new Grand Auditorium Acoustic models bring the brand's distinctive combination o...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/zakk-wylde-introduces-first-ever-wylde-audio-acoustic-guitars"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "No Filler, No Reverb, No Mercy: 40 Years of Slayer's 'Reign in Blood'",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/anniversary/no-filler-no-reverb-no-mercy-40-years-of-slayers-reign-in-blood",
+    "timestamp": "2026-10-07T17:25:37+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Forty years later, this record remains a landmark that changed the sound, speed, and possibilities of the genre The post No Filler, No Reverb, No Mercy: 40 Years of Slayer's 'Reign in Blood' appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/anniversary/no-filler-no-reverb-no-mercy-40-years-of-slayers-reign-in-blood"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "DARKEST HOUR Releases New Single And Video 'Warrior' From Upcoming 'Suffer Divine' Album",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/darkest-hour-releases-new-single-and-video-warrior-from-upcoming-suffer-divine-album",
+    "timestamp": "2026-10-07T17:20:14+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Washington, D.C. metalcore pioneers DARKEST HOUR have released their new single and video, \"Warrior\". This is the second single from the band's forthcoming album, \"Suffer Divine\", due out on October 30. DARKEST HOUR guitarist Mike Schleibaum comments: \"This song showcases our melodic death metal ten...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/darkest-hour-releases-new-single-and-video-warrior-from-upcoming-suffer-divine-album"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "TesseracT Reveal 2027 North American Tour With Entheos & Sunborn",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/07/news/tesseract-reveal-2027-north-american-tour-with-entheos-sunborn/",
+    "timestamp": "2026-10-07T17:12:10+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Commencing in early January. The post TesseracT Reveal 2027 North American Tour With Entheos & Sunborn appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/07/news/tesseract-reveal-2027-north-american-tour-with-entheos-sunborn/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "YOB To Return To The Stage In December For A Trio Of Shows",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/07/news/yob-to-return-to-the-stage-in-december-for-a-trio-of-shows/",
+    "timestamp": "2026-10-07T17:00:20+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "The group recently had to postpone dates due to Mie Scheidt requiring surgery. The post YOB To Return To The Stage In December For A Trio Of Shows appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/07/news/yob-to-return-to-the-stage-in-december-for-a-trio-of-shows/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "BUSH Celebrates 30 Years Of 'Razorblade Suitcase' With Deluxe Edition",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/bush-celebrates-30-years-of-razorblade-suitcase-with-deluxe-edition",
+    "timestamp": "2026-10-07T16:59:09+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Thirty years after its original release, BUSH's chart-topping sophomore album, \"Razorblade Suitcase\", returns in a deluxe edition, out December 11 via Craft Recordings. Available on 2-CD and digital, the set pairs the original 13-track album with rarities from the era, including B-sides, previously...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/bush-celebrates-30-years-of-razorblade-suitcase-with-deluxe-edition"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Greta Van Fleet - Building a 'Palace for the People' (Interview)",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/greta-van-fleet-palace-for-the-people-interview/",
+    "timestamp": "2026-10-07T16:57:58+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "In Loudwire's October Digital Cover Story, Greta Van Fleet's Jake Kiszka and Danny Wagner open up about a decade together and their newest album, 'Palace for the People.' Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/greta-van-fleet-palace-for-the-people-interview/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Source Reveals Condition Of STEVEN TYLER’s Vocal Cords Ahead Of AEROSMITH Return - Metal Addicts",
+    "src": "Metal Addicts",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDN5TUllWi16cXNXQkh5OFVMZlc2SzF5anU3NWlJeExBWXpVRjdHNjY4UEhqUjIxaU5qU3U5Y2hKVUFLZVpRQ1l3UzBHb3VKU0txNHBueFJMZ2hCMHVDLS1SYmlMVHV6c2M5TVNhaUMwaTlqQUFRVjczR3luamlzR3ppVU43c1d1WE9LNVhIZHFCWUM1elY4d09QeWdHMnFFRHJ1T0tjZGM?oc=5",
+    "timestamp": "2026-10-07T16:54:34+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Source Reveals Condition Of STEVEN TYLER’s Vocal Cords Ahead Of AEROSMITH Return Metal Addicts",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Addicts",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDN5TUllWi16cXNXQkh5OFVMZlc2SzF5anU3NWlJeExBWXpVRjdHNjY4UEhqUjIxaU5qU3U5Y2hKVUFLZVpRQ1l3UzBHb3VKU0txNHBueFJMZ2hCMHVDLS1SYmlMVHV6c2M5TVNhaUMwaTlqQUFRVjczR3luamlzR3ppVU43c1d1WE9LNVhIZHFCWUM1elY4d09QeWdHMnFFRHJ1T0tjZGM?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Walls Of Jericho’s “True Til’ Death” Music Video Released",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/07/news/walls-of-jerichos-true-til-death-music-video-released/",
+    "timestamp": "2026-10-07T16:49:30+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Their first new album in a decade will be out this November. The post Walls Of Jericho’s “True Til’ Death” Music Video Released appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/07/news/walls-of-jerichos-true-til-death-music-video-released/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Cult Of Luna Explore The Human Experience On New Track “The Rift”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/07/news/cult-of-luna-explore-the-human-experience-on-new-track-the-rift/",
+    "timestamp": "2026-10-07T16:37:20+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "A sprawling look at loneliness and more. The post Cult Of Luna Explore The Human Experience On New Track “The Rift” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/07/news/cult-of-luna-explore-the-human-experience-on-new-track-the-rift/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "SLAYER Announces Limited-Edition Liquid-Filled 'Reign In Blood' Vinyl",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/slayer-announces-limited-edition-liquid-filled-reign-in-blood-vinyl",
+    "timestamp": "2026-10-07T16:32:40+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Forty years ago, SLAYER delivered one of the most uncompromising metal records of all-time, \"Reign In Blood\", on October 7, 1986. Executed with unrelenting speed, unmatched integrity, and unflinching intensity, the gold-certified album has influenced generations of bands to follow, resonated with le...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/slayer-announces-limited-edition-liquid-filled-reign-in-blood-vinyl"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Darkest Hour’s “Warrior” Music Video Arrives Online",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/07/news/darkest-hours-warrior-music-video-arrives-online/",
+    "timestamp": "2026-10-07T16:24:59+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "With a slight nod to an LL Cool J hit. The post Darkest Hour’s “Warrior” Music Video Arrives Online appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/07/news/darkest-hours-warrior-music-video-arrives-online/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Down Premiere Music Video For Their New Song “The Myth”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/07/news/down-premiere-music-video-for-their-new-song-the-myth/",
+    "timestamp": "2026-10-07T16:13:13+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Their first album in nearly two decades arrives next month. The post Down Premiere Music Video For Their New Song “The Myth” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/07/news/down-premiere-music-video-for-their-new-song-the-myth/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "DOWN Shares 'The Myth' Video/Single From Upcoming 'Volume V' Album",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/down-shares-the-myth-video-single-from-upcoming-volume-v-album",
+    "timestamp": "2026-10-07T16:09:49+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "The official MetalDave Media-directed music video for \"The Myth\", the latest single from American heavy metal icons DOWN, can be seen below. The track comes off the band's long-awaited new studio album, \"Volume V\", set for release on November 20 via Nuclear Blast Records. DOWN was never just a band....",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/down-shares-the-myth-video-single-from-upcoming-volume-v-album"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "CANNIBAL CORPSE Drummer PAUL MAZURKIEWICZ And Art Collaborator VINCE LOCKE To Take Part In Fan Q&A Panel at 'Spooky Empire' Horror Convention",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/cannibal-corpse-drummer-paul-mazurkiewicz-and-art-collaborator-vince-locke-to-take-part-in-fan-qa-panel-at-spooky-empire-horror-convention",
+    "timestamp": "2026-10-07T15:46:19+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Concept Cafes Coffee has announced its newest additions to CANNIBAL CORPSE's \"Beheading & Brewing,\" nitro cold brew line, available exclusively at the Spooky Empire horror convention, which will take place from October 30 through November 1 in Orlando, Florida. In more exciting news, CANNIBAL CO...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/cannibal-corpse-drummer-paul-mazurkiewicz-and-art-collaborator-vince-locke-to-take-part-in-fan-qa-panel-at-spooky-empire-horror-convention"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Avrak",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/reviews/avrak",
+    "timestamp": "2026-10-07T15:16:32+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "A very welcome contribution from our \"what's not to like?\" department, the first album from AVRAK is a grubby and thunderous treat. Formed by DARKTHRONE mainstay Ted \"Nocturno Culto\" Skjellum and fellow guitarist (and vocalist) Anders Hegna in 2025, and completed by the presence of former SARKE memb...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/reviews/avrak"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Underground Medicine #7: Region Rock, USA - Bandcamp Daily",
+    "src": "Bandcamp Daily",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yYTE5NGxFSlVyU3dJbERfYXhZTkl4NEhFbVhHcHNWVE8ydFJzQTRFTDIwWjdZOW1qWXdWdUVXMWwzMkRhVzFBbnpQdktONUxUQ0tOcWN6emNCa1RiLXQzNm5DSmt6MWxhT0xwUFRaQm8wak1GMUVDZFVR?oc=5",
+    "timestamp": "2026-10-07T14:32:04+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Underground Medicine #7: Region Rock, USA Bandcamp Daily",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Bandcamp Daily",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yYTE5NGxFSlVyU3dJbERfYXhZTkl4NEhFbVhHcHNWVE8ydFJzQTRFTDIwWjdZOW1qWXdWdUVXMWwzMkRhVzFBbnpQdktONUxUQ0tOcWN6emNCa1RiLXQzNm5DSmt6MWxhT0xwUFRaQm8wak1GMUVDZFVR?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Phish Announce New Year’s Eve Run, Including 100th Show at Madison Square Garden",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/phish-new-years-eve-madison-square-garden-2026/",
+    "timestamp": "2026-10-07T18:23:09+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "A ticket request period for the four-night run is currently underway. Phish Announce New Year’s Eve Run, Including 100th Show at Madison Square Garden Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/phish-new-years-eve-madison-square-garden-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Nathan Fielder’s You Can See Everything Is a Reality-Splitting Masterpiece: Review",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/you-can-see-everything-review-nathan-fielder/",
+    "timestamp": "2026-10-07T18:22:32+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Directed by Fielder and Lance Oppenheim, the surprise-filled documentary about Elizabeth Holmes is really about the impossibility of truth. Nathan Fielder’s You Can See Everything Is a Reality-Splitting Masterpiece: Review Liz Shannon Miller",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/you-can-see-everything-review-nathan-fielder/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Down release official music video for \"The Myth\" - Chaoszine",
+    "src": "Chaoszine",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CUGZRTXFLX203S2tvTE1oWFNOd1kwRHFDLTZWZ3VrU0I2S0R6aG5BMHhSRXh5eEFpOHJIYXVEM0xiMVBPSDVKdnhId2ZCSFdNRERGcFdTdXFPUmtFZE9ZcXRsRDJPd3hfS1JMZ3dFUmNGQm1ieF9DOA?oc=5",
+    "timestamp": "2026-10-07T18:16:13+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Down release official music video for \"The Myth\" Chaoszine",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Chaoszine",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CUGZRTXFLX203S2tvTE1oWFNOd1kwRHFDLTZWZ3VrU0I2S0R6aG5BMHhSRXh5eEFpOHJIYXVEM0xiMVBPSDVKdnhId2ZCSFdNRERGcFdTdXFPUmtFZE9ZcXRsRDJPd3hfS1JMZ3dFUmNGQm1ieF9DOA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Slayer Announce Liquid-Filled Reign in Blood 40th Anniversary Vinyl",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/slayer-liquid-filled-reign-in-blood-vinyl/",
+    "timestamp": "2026-10-07T18:01:39+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "The blood-filled zoetrope vinyl will be out November 20th via Sound of Vinyl. Slayer Announce Liquid-Filled Reign in Blood 40th Anniversary Vinyl Langdon Hickman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/slayer-liquid-filled-reign-in-blood-vinyl/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "An interview with Heartbreakers guitarist Mike Campbell - The Anniston Star",
+    "src": "The Anniston Star",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUmYya1NqcEREcEhtUU55bDFXR2o3WVluSFNJVFV2R0tLQnVFRFR5eFltRGNlSkp1Y1JoSHBQVmk4d0hCOG96NVBDY0VXME9vWThxWmRXV0hvVzRtRzhtS0p4RkZjYmVxckhTNjJRR01uZFQ1VVk1Q09QQnBnd28wcDIyYmdSWE0xcGVVMTVYakJybWdYS2llM3ppZkgwc19Hd0swOVNGbjB3ZlAweDZQREg1WlM2OWlBX19WelZVeGdCdnUxSWkzN2xveXByMHhkdmlDUU5FVkRrYmJJT2puTklySWJfbE9kN09yeEtYYVlOelpMRXc?oc=5",
+    "timestamp": "2026-10-07T18:00:00+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "An interview with Heartbreakers guitarist Mike Campbell The Anniston Star",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Anniston Star",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUmYya1NqcEREcEhtUU55bDFXR2o3WVluSFNJVFV2R0tLQnVFRFR5eFltRGNlSkp1Y1JoSHBQVmk4d0hCOG96NVBDY0VXME9vWThxWmRXV0hvVzRtRzhtS0p4RkZjYmVxckhTNjJRR01uZFQ1VVk1Q09QQnBnd28wcDIyYmdSWE0xcGVVMTVYakJybWdYS2llM3ppZkgwc19Hd0swOVNGbjB3ZlAweDZQREg1WlM2OWlBX19WelZVeGdCdnUxSWkzN2xveXByMHhkdmlDUU5FVkRrYmJJT2puTklySWJfbE9kN09yeEtYYVlOelpMRXc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Miley Cyrus Super Bowl LXI Halftime Rumors Explained - Baller Alert",
+    "src": "Baller Alert",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85QVp2bDNwbDZQeGNtUENtZzZfZGdidW1va1BVTm1VRWdpcGFVclNiRVFFbWJQdXkzc2M3NVBMSDhaZkZUcHkzV3pPeHJqMjlIRGJsRUFXNHRmdlVQeWpxYmd1bVdpVWxtYzJRYVNoNjl4VThKcGc?oc=5",
+    "timestamp": "2026-10-07T18:00:00+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Miley Cyrus Super Bowl LXI Halftime Rumors Explained Baller Alert",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Baller Alert",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85QVp2bDNwbDZQeGNtUENtZzZfZGdidW1va1BVTm1VRWdpcGFVclNiRVFFbWJQdXkzc2M3NVBMSDhaZkZUcHkzV3pPeHJqMjlIRGJsRUFXNHRmdlVQeWpxYmd1bVdpVWxtYzJRYVNoNjl4VThKcGc?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Mexican Artist Girl Ultra Announces 24-Date North American Tour Behind Chromeo-Produced New Album",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/girl-ultra-north-american-tour-chromeo/",
+    "timestamp": "2026-10-07T17:57:01+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "RRRomeo arrives October 9th and features Buscabulla, Empress Of, Jean Tonique, and Chromeo themselves. Mexican Artist Girl Ultra Announces 24-Date North American Tour Behind Chromeo-Produced New Album Pedro Camacho",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/girl-ultra-north-american-tour-chromeo/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Watch American Football Combine “Never Meant” and the Cure’s “Boys Don’t Cry”",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/watch-american-football-combine-never-meant-and-the-cures-boys-dont-cry/",
+    "timestamp": "2026-10-07T17:50:49+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/watch-american-football-combine-never-meant-and-the-cures-boys-dont-cry/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Man Sentenced to Prison for Bot Streams of AI Songs",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/man-sentenced-to-prison-for-bot-streams-of-ai-songs/",
+    "timestamp": "2026-10-07T17:46:36+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/man-sentenced-to-prison-for-bot-streams-of-ai-songs/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Josh Homme Open to Reunions with Them Crooked Vultures and Kyuss: “I Just Don’t Want to Mess It Up”",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/josh-homme-potential-reunions-them-crooked-vultures-kyuss/",
+    "timestamp": "2026-10-07T17:28:37+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "The Queens of the Stone Age frontman won't rule out getting his other beloved bands back together. Josh Homme Open to Reunions with Them Crooked Vultures and Kyuss: “I Just Don’t Want to Mess It Up” Spencer Kaufman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/josh-homme-potential-reunions-them-crooked-vultures-kyuss/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Undeath Sign to Relapse and Share New Song",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/undeath-sign-to-relapse-and-share-new-song/",
+    "timestamp": "2026-10-07T16:58:54+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/undeath-sign-to-relapse-and-share-new-song/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "American Football Perform Stripped-Down Cover of The Cure’s “Boys Don’t Cry” for SiriusXM: Watch",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/american-football-the-cure-boys-dont-cry-cover-siriusxm-watch/",
+    "timestamp": "2026-10-07T16:48:55+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "The band's moody, melancholic rendition is taken from the band's inaugural SiriusXMU live session. American Football Perform Stripped-Down Cover of The Cure’s “Boys Don’t Cry” for SiriusXM: Watch Paolo Ragusa",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/american-football-the-cure-boys-dont-cry-cover-siriusxm-watch/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Jess Williamson – “Hum Of The City”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2513860/jess-williamson-hum-of-the-city/music/",
+    "timestamp": "2026-10-07T16:48:15+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Jess Williamson has a voice . The Texan singer-songwriter is capable of a doing incredible things with a full-body gut wail that contains just a hint of high-lonesome yip. This isn't exactly news if you've ever spent any time listening to her, but it really comes through on her new song \"Hum Of The City.\" The post Jess",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2513860/jess-williamson-hum-of-the-city/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "untitled (halo) – “sex”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2513856/untitled-halo-sex/music/",
+    "timestamp": "2026-10-07T16:28:10+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "It's always cool when a band is willing to release a song that's just straight-up called \"sex.\" LA's untitled (halo) have a new one that doesn't even seem to be about sex, but it's called \"sex\" anyway. The band is a product of the recent shoegaze revival, but they've pushed that sound into weird and interesting places ",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2513856/untitled-halo-sex/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "School is in Session: Zeds Dead Turn Music History Into a Living, Breathing EDM Show on New Tour - EDM.com",
+    "src": "EDM.com",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTTNHTk53eUhVaW1iY3RsbjJKOWtFYThhNHk1MzZsempCd1doNWU5V2dSc2txX0VDQmxnV2hZY1NFcm9YUzZ1SjBUNTFuT1NIYXV0YnFBd2YtWXVJM29weEQ3a3NGbGVKbUxwc2JEZDhWUkdzQnk0d01TNFZHdnNzTFpSQ3FKV2tybFlFZUVYTHFrOHVGVGdJeFZEY2VZZ1Zv?oc=5",
+    "timestamp": "2026-10-07T16:12:40+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "School is in Session: Zeds Dead Turn Music History Into a Living, Breathing EDM Show on New Tour EDM.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "EDM.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTTNHTk53eUhVaW1iY3RsbjJKOWtFYThhNHk1MzZsempCd1doNWU5V2dSc2txX0VDQmxnV2hZY1NFcm9YUzZ1SjBUNTFuT1NIYXV0YnFBd2YtWXVJM29weEQ3a3NGbGVKbUxwc2JEZDhWUkdzQnk0d01TNFZHdnNzTFpSQ3FKV2tybFlFZUVYTHFrOHVGVGdJeFZEY2VZZ1Zv?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Undeath – “Arterial Bombardment”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2513853/undeath-arterial-bombardment/music/",
+    "timestamp": "2026-10-07T16:09:13+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "How much blood would constitute an arterial bombardment? Probably a lot , right? Too much. I don't want to bombard anyone arterially. It makes me think of a firehose, or maybe a Gwar show. It also makes me think that the blood must somehow be solid, and possibly also explosive? It sounds unpleasant, which means it's a ",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2513853/undeath-arterial-bombardment/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Geronimo Hard Style: Litewieght Champion’s Goliath Album Release - Columbus Underground",
+    "src": "Columbus Underground",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHlMOC14RHlyTXBBdU9SRVFadGZEenVvdG82Nmc5UE9pcHkzSzJFVEZmQTlJV1Z1N2Q3OC13Wk55di1zMGFFclFrMkNGUmlTWTh0cFJrMlN5MzRLT3lva0FVeW5vMG9ZRERNa00zVlQ3dE05T21YRWtIem1oN1dPQWJ3NGk4U3BjeWk2U0wzeVRZNDJ6VUxRZnVhMEVxQ1Bl?oc=5",
+    "timestamp": "2026-10-07T15:26:27+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Geronimo Hard Style: Litewieght Champion’s Goliath Album Release Columbus Underground",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Columbus Underground",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHlMOC14RHlyTXBBdU9SRVFadGZEenVvdG82Nmc5UE9pcHkzSzJFVEZmQTlJV1Z1N2Q3OC13Wk55di1zMGFFclFrMkNGUmlTWTh0cFJrMlN5MzRLT3lva0FVeW5vMG9ZRERNa00zVlQ3dE05T21YRWtIem1oN1dPQWJ3NGk4U3BjeWk2U0wzeVRZNDJ6VUxRZnVhMEVxQ1Bl?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Josh Kun and J.PERIOD Bring \"The Art of the Crossfade\" to New Orleans and Beyond - The Fulcrum",
+    "src": "The Fulcrum",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSkRESHlsbV9NMVhmOFc4U0k0UTJvbzJER2JJZUswbDA0d3Q0Y0ltNURhQ1dkcGZMM2dfQ3BramFLNHNUMm5MMWNpMnpJYXExZHB0S0s0T3BXQVNjdzREMDlDb1RoNHFJZWMyOVBraVk0b1NIcXlBYmMtcC1LQTJvcXQxdHBydVFpODc1SDFVcE12N2s?oc=5",
+    "timestamp": "2026-10-07T13:32:18+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Josh Kun and J.PERIOD Bring \"The Art of the Crossfade\" to New Orleans and Beyond The Fulcrum",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Fulcrum",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSkRESHlsbV9NMVhmOFc4U0k0UTJvbzJER2JJZUswbDA0d3Q0Y0ltNURhQ1dkcGZMM2dfQ3BramFLNHNUMm5MMWNpMnpJYXExZHB0S0s0T3BXQVNjdzREMDlDb1RoNHFJZWMyOVBraVk0b1NIcXlBYmMtcC1LQTJvcXQxdHBydVFpODc1SDFVcE12N2s?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Sam Sadowski: Uma Voz Perdida no Tempo",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/sam-sadowski-uma-voz-perdida-no-tempo/",
+    "timestamp": "2026-10-07T16:52:38+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "%featured_image% Em 2016, Sam Sadowski lançou \"Closet Fiends\", um EP de folk-punk com apenas cinco temas e uma história tão improvável quanto dolorosa. Descoberto nas ruas de São Francisco por Scott Sturgeon e Fat Mike, Sam teve durante breves momentos a oportunidade de mostrar um talento raro, antes de desaparecer nov",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/sam-sadowski-uma-voz-perdida-no-tempo/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Spotify chega aos audiobooks em Portugal: mais de 6.000 títulos disponíveis a partir de 12 de novembro - musicatotal.net",
+    "src": "musicatotal.net",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQclk0RzE3MGlMNnFRRVBfelFqSkZXZlpTczJYdFFYT1ZsdTN0OEFoU2hnc3FPX3VFVmQwT3Y2MC1RLVdFMGNHODYxWnZUS18wdWU3RkJyRGJMRW0yU0lCQ3lDMDhfa3JaUkNQOUxCSjJjQnNRUm9jbjlZSEdVVlVjVQ?oc=5",
+    "timestamp": "2026-10-07T16:43:41+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Spotify chega aos audiobooks em Portugal: mais de 6.000 títulos disponíveis a partir de 12 de novembro musicatotal.net",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "musicatotal.net",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQclk0RzE3MGlMNnFRRVBfelFqSkZXZlpTczJYdFFYT1ZsdTN0OEFoU2hnc3FPX3VFVmQwT3Y2MC1RLVdFMGNHODYxWnZUS18wdWU3RkJyRGJMRW0yU0lCQ3lDMDhfa3JaUkNQOUxCSjJjQnNRUm9jbjlZSEdVVlVjVQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Spotify vai levar audiolivros ao Premium em Portugal - Mundo Smart",
+    "src": "Mundo Smart",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nS0ZoU1FEWkhwdXRCcDZYQzdmOEZjV2p2MUhxanE2cnZLTmhDQ0RzajJqOFZVVU91Mjh1Y3Y3NWQwSXZNejZMejh3b0JpSjl2ZFRIRjFOVzF2c3N3T0dhWTBSUzlQTnloSWlqY2twcHhEMzRaV2treXRPekFyVjDSAX9BVV95cUxNZ0tGaFNRRFpIcHV0QnA2WEM3ZjhGY1dqdjFIcWpxNnJ2S05oQ0NEc2oyajhWVVVPdTI4dWN2NzVkMEl2TXo2THo4d29CaUo5dmRUSEYxTlcxdnNzd09HYVkwUlM5UE55aElpamNrcHB4RDM0Wldra3l0T3pBclYw?oc=5",
+    "timestamp": "2026-10-07T14:59:17+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Spotify vai levar audiolivros ao Premium em Portugal Mundo Smart",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Mundo Smart",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nS0ZoU1FEWkhwdXRCcDZYQzdmOEZjV2p2MUhxanE2cnZLTmhDQ0RzajJqOFZVVU91Mjh1Y3Y3NWQwSXZNejZMejh3b0JpSjl2ZFRIRjFOVzF2c3N3T0dhWTBSUzlQTnloSWlqY2twcHhEMzRaV2treXRPekFyVjDSAX9BVV95cUxNZ0tGaFNRRFpIcHV0QnA2WEM3ZjhGY1dqdjFIcWpxNnJ2S05oQ0NEc2oyajhWVVVPdTI4dWN2NzVkMEl2TXo2THo4d29CaUo5dmRUSEYxTlcxdnNzd09HYVkwUlM5UE55aElpamNrcHB4RDM0Wldra3l0T3pBclYw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Spirit Possession",
+    "t": "Cathedral Speech Review",
+    "src": "Angry Metal Guy",
+    "date": "7 Out",
+    "isoDate": "2026-10-07",
+    "timestamp": "2026-10-07T16:59:49+00:00",
+    "url": "https://www.angrymetalguy.com/spirit-possession-cathedral-speech-review/",
+    "d": "\"Since forming in 2019, Portland, Oregon duo Spirit Possession has peddled sinsational thrashy black metal. Released in 2020, their self-titled debut supplied a solid if one-note dose of chaotic metal madness, but it was 2023 follow-up <>Of the Sign… that nabb",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "spirit possession|cathedral speech review",
     "kind": "review",
     "section": "rev"
   },
@@ -8101,6 +9211,31 @@
     ],
     "status": "rumor",
     "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Legendary rock band returning for 2 concerts after canceled farewell tour (report) - Syracuse.com",
+    "src": "Syracuse.com",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOExMWER6WlRkeFpFZVJqams1ZGdPTUtmX2JaOWJCcDIwSzlxaU5fQWpXb1lpeFE4WXphWk1NcHJCNGxpNmRUUXZpby03bDZWTEw5bjdGM0RUcS1sZjJmRmROOTFBblQ0dmRSN3pEaFg1V3ltNXBBMTl2TXI3bG9aeDhZcFlPUlE2V0xzZ3pMWXJVbmFaenNnRHNtSnFwRFRYN3dMejhwUEc1NjZ4NEdtOGFEMmZKOXhBcW5XdHEzaEg4LXJsR0NmaV9uemI?oc=5",
+    "timestamp": "2026-10-06T12:23:00+00:00",
+    "isoDate": "2026-10-06",
+    "date": "6 Out",
+    "d": "Legendary rock band returning for 2 concerts after canceled farewell tour (report) Syracuse.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Syracuse.com",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOExMWER6WlRkeFpFZVJqams1ZGdPTUtmX2JaOWJCcDIwSzlxaU5fQWpXb1lpeFE4WXphWk1NcHJCNGxpNmRUUXZpby03bDZWTEw5bjdGM0RUcS1sZjJmRmROOTFBblQ0dmRSN3pEaFg1V3ltNXBBMTl2TXI3bG9aeDhZcFlPUlE2V0xzZ3pMWXJVbmFaenNnRHNtSnFwRFRYN3dMejhwUEc1NjZ4NEdtOGFEMmZKOXhBcW5XdHEzaEg4LXJsR0NmaV9uemI?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
     "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
@@ -25969,6 +27104,27 @@
     "star": false,
     "kind": "news",
     "section": "core"
+  },
+  {
+    "b": "Crackazat",
+    "t": "The Nervous Chill EP",
+    "g": "electro",
+    "fmt": "EP",
+    "lbl": "MusicBrainz",
+    "date": "2 Out",
+    "isoDate": "2026-10-02",
+    "url": "https://musicbrainz.org/release-group/229b0451-cffc-459b-8ae2-095f733e0c5e",
+    "d": "electronic, deep house, jazzdance, jazz house",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/229b0451-cffc-459b-8ae2-095f733e0c5e"
+      }
+    ],
+    "mbid": "229b0451-cffc-459b-8ae2-095f733e0c5e",
+    "star": false,
+    "kind": "release",
+    "section": "main"
   },
   {
     "title": "Conrad ‘Cronos’ Lant, frontman of UK heavy metal band Venom, dies aged 63 - The Guardian",
