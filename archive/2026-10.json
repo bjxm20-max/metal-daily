@@ -672,10 +672,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -697,10 +697,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -722,10 +722,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -1372,10 +1372,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1547,10 +1547,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1653,6 +1653,1548 @@
     "releaseKey": "pitchfork|bread butter",
     "kind": "review",
     "section": "rev"
+  },
+  {
+    "b": "Trivium",
+    "t": "Crown In The Grave",
+    "g": "core",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "8 Out",
+    "isoDate": "2026-10-08",
+    "url": "https://alterportal.net/core/190517-trivium-crown-in-the-grave-single-2026.html",
+    "d": "Стиль: Metalcore / Thrash Metal / NWOAHM Треклист: 01. Crown In The Grave new album \"Crown In The Grave\" out 20.11.2026",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/core/190517-trivium-crown-in-the-grave-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Smash Into Pieces",
+    "t": "The Best",
+    "g": "rock",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "8 Out",
+    "isoDate": "2026-10-08",
+    "url": "https://alterportal.net/alternative/190515-smash-into-pieces-the-best-single-2026.html",
+    "d": "Alternative Rock / Modern Rock",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190515-smash-into-pieces-the-best-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Rain City Drive",
+    "t": "Slither",
+    "g": "electro",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "8 Out",
+    "isoDate": "2026-10-08",
+    "url": "https://alterportal.net/alternative/190519-rain-city-drive-slither-single-2026.html",
+    "d": "Alternative Rock / Electronic",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190519-rain-city-drive-slither-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Greta Van Fleet",
+    "t": "Palace for the People",
+    "g": "rock",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "8 Out",
+    "isoDate": "2026-10-08",
+    "url": "https://alterportal.net/2026_albums/190514-greta-van-fleet-palace-for-the-people-2026.html",
+    "d": "Hard Rock / Blues Rock",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190514-greta-van-fleet-palace-for-the-people-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Extra Nina",
+    "t": "EXTRA NINA DELUXE ARCHIVES, PT. 2",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "8 Out",
+    "isoDate": "2026-10-08",
+    "url": "https://musicbrainz.org/release-group/f855ad76-21fc-4891-875a-b151e375f693",
+    "d": "",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/f855ad76-21fc-4891-875a-b151e375f693"
+      }
+    ],
+    "mbid": "f855ad76-21fc-4891-875a-b151e375f693",
+    "star": false,
+    "country": "PT",
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Ankor",
+    "t": "ITACHI · blood moon",
+    "g": "core",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "8 Out",
+    "isoDate": "2026-10-08",
+    "url": "https://alterportal.net/alternative/190516-ankor-itachi-blood-moon-single-2026.html",
+    "d": "Alternative Metal / Metalcore / Electronic / Female Vocal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190516-ankor-itachi-blood-moon-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Against The Current",
+    "t": "White Noise",
+    "g": "rock",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "8 Out",
+    "isoDate": "2026-10-08",
+    "url": "https://alterportal.net/alternative/190518-against-the-current-white-noise-single-2026.html",
+    "d": "Alternative Rock / Female Vocal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190518-against-the-current-white-noise-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "CHARLIE BENANTE Explains His Absence From Last Two Shows Of ANTHRAX's North American Tour With IRON MAIDEN",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/charlie-benante-explains-his-absence-from-last-two-shows-of-anthraxs-north-american-tour-with-iron-maiden",
+    "timestamp": "2026-10-08T15:42:23+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "In a new interview with Robert Cavuoto of MetalRules, ANTHRAX drummer Charlie Benante explained his absence from the final two shows of the band's North American tour as the support act for IRON MAIDEN: September 29 at the Alamodome in San Antonio, Texas, and October 2 at Estadio GNP Seguros in Mexi...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/charlie-benante-explains-his-absence-from-last-two-shows-of-anthraxs-north-american-tour-with-iron-maiden"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Turnstile Announces Free Benefit Show in Washington, D.C. For Palestine, Sudan and Lebanon",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/turnstile-announces-free-benefit-show-in-washington-d-c-for-palestine-sudan-and-lebanon",
+    "timestamp": "2026-10-08T15:22:20+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Hardcore heroes Turnstile have just announced a completely free show in Washington, D.C. on October 24–however, any money collected ahead of time and on the day is going to aid […] The post Turnstile Announces Free Benefit Show in Washington, D.C. For Palestine, Sudan and Lebanon appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/turnstile-announces-free-benefit-show-in-washington-d-c-for-palestine-sudan-and-lebanon"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "TONY IOMMI Announces Global Listening Events For His New Solo Album 'From The Dark'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/tony-iommi-announces-global-listening-events-for-his-new-solo-album-from-the-dark",
+    "timestamp": "2026-10-08T15:06:57+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Legendary BLACK SABBATH guitarist Tony Iommi will release his brand-new solo album, \"From The Dark\", on Friday, October 23. And fans will be able to exclusively hear his first solo album in 21 years at a series of listening events held at the finest rock and metal bars in major cities globally the n...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/tony-iommi-announces-global-listening-events-for-his-new-solo-album-from-the-dark"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "2 'Big 4' Thrash Stars Host Metal Radio Station in 'GTA 6'",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/grand-theft-auto-6-metal-station-slayer/",
+    "timestamp": "2026-10-08T15:00:53+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Grand Theft Auto 6 has shared previews of its in-game radio stations — and two 'Big 4' thrash stars are the hosts of the metal station. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/grand-theft-auto-6-metal-station-slayer/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "TRIVIUM Announces New Album 'Crown In The Grave', Shares Title Track",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/trivium-announces-new-album-crown-in-the-grave-shares-title-track",
+    "timestamp": "2026-10-08T14:37:10+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Grammy-nominated heavyweights TRIVIUM — vocalist/guitarist Matthew K. Heafy; guitarist Corey Beaulieu; bassist Paolo Gregoletto; and drummer Alex Rüdinger — have announced their new album \"Crown In The Grave\". It arrives November 20 through Roadrunner Records. TRIVIUM has shared the \"Crown In The Gr...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/trivium-announces-new-album-crown-in-the-grave-shares-title-track"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Grand Theft Auto VI Soundtrack Reveals Metal Radio Station Hosted by Kerry King & Tom Araya",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/grand-theft-auto-vi-soundtrack-reveals-metal-radio-station-hosted-by-kerry-king-tom-araya",
+    "timestamp": "2026-10-08T14:30:50+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Plus a bunch of pop, dirty south hip-hop and a whole lot more if you're into it. The post Grand Theft Auto VI Soundtrack Reveals Metal Radio Station Hosted by Kerry King & Tom Araya appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/grand-theft-auto-vi-soundtrack-reveals-metal-radio-station-hosted-by-kerry-king-tom-araya"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Black Sabbath Into Making a New Album on One Condition",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/andrew-watt-black-sabbath-album/",
+    "timestamp": "2026-10-08T14:27:43+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Producer Andrew Watt shares in a new interview why a potential Black Sabbath album didn't happen. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/andrew-watt-black-sabbath-album/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "DEF LEPPARD Announces Massive 2027 North American Tour With GOO GOO DOLLS And THE STRUTS",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/def-leppard-announces-massive-2027-north-american-tour-with-goo-goo-dolls-and-the-struts",
+    "timestamp": "2026-10-08T14:17:54+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Global icons and Rock And Roll Hall Of Fame inductees DEF LEPPARD have announced the most anticipated tour of 2027, with four-time Grammy-nominated band GOO GOO DOLLS and very special guests THE STRUTS. The 45-date trek kicks off on March 2 and runs through July 2, making stops in all major markets...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/def-leppard-announces-massive-2027-north-american-tour-with-goo-goo-dolls-and-the-struts"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Trivium Announce New Album 'Crown In the Grave,' Pre-Order Exclusive Vinyl Variant From Metal Injection",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/exclusive-2/trivium-crown-in-the-grave-vinyl-new-album",
+    "timestamp": "2026-10-08T14:00:10+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "The eleventh release will be out in the eleventh month of the year. The post Trivium Announce New Album 'Crown In the Grave,' Pre-Order Exclusive Vinyl Variant From Metal Injection appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/exclusive-2/trivium-crown-in-the-grave-vinyl-new-album"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "TRIVIUM announce new album ‘Crown In the Grave’ with explosive title track",
+    "src": "Revolver",
+    "url": "https://www.revolvermag.com/music/trivium-announce-new-album-crown-in-the-grave-with-explosive-title-track/",
+    "timestamp": "2026-10-08T14:00:00+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "“Facing yourself is the final quest”",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Revolver",
+        "url": "https://www.revolvermag.com/music/trivium-announce-new-album-crown-in-the-grave-with-explosive-title-track/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "JOE STRUMMER's First Known Recordings Brought Together In One Definitive Collection, 'Joe Strummer 003: The 101'ers Years (1974–1976)'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/joe-strummers-first-known-recordings-brought-together-in-one-definitive-collection-joe-strummer-003-the-101ers-years-1974-1976",
+    "timestamp": "2026-10-08T13:53:09+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Dark Horse Records has announced \"Joe Strummer 003: The 101'ers Years\", the definitive collection of studio and live recordings from Joe Strummer's pre-CLASH band THE 101'ERS. Featuring the first known recordings of Joe Strummer, the collection captures a pivotal chapter in his development as an art...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/joe-strummers-first-known-recordings-brought-together-in-one-definitive-collection-joe-strummer-003-the-101ers-years-1974-1976"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "YUNGBLUD And THE SMASHING PUMPKINS' BILLY CORGAN Release Live Recording Of 'Zombie' From Riviera Theatre",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/yungblud-and-the-smashing-pumpkins-billy-corgan-release-live-recording-of-zombie-from-riviera-theatre",
+    "timestamp": "2026-10-08T13:27:10+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Grammy Award-winning artist Yungblud has released a special live recording of his hit single \"Zombie\", performed with THE SMASHING PUMPKINS' Billy Corgan at Chicago's legendary Riviera Theatre. The intimate performance marks the only time Yungblud and Corgan have performed their reimagined version o...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/yungblud-and-the-smashing-pumpkins-billy-corgan-release-live-recording-of-zombie-from-riviera-theatre"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Brian May Clarifies His Comment About Queen Not Touring Anymore",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/brian-may-queen-touring-misinterpretation/",
+    "timestamp": "2026-10-08T13:00:31+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Guitarist clarifies what he described as a \"misinterpretation\" of what he meant. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/brian-may-queen-touring-misinterpretation/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch: MUDVAYNE's CHAD GRAY Returns To Live Stage After Canceling Two Shows Due To Vocal Injury",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/watch-mudvaynes-chad-gray-returns-to-live-stage-after-canceling-two-shows-due-to-vocal-injury",
+    "timestamp": "2026-10-08T12:59:58+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "After canceling two shows in California due to his recent vocal injury, MUDVAYNE and HELLYEAH frontman Chad Gray resumed his solo tour Wednesday night (October 7) at the Fremont Country Club in Las Vegas, Nevada. Fan-filmed video of the concert can be seen below. A few hours prior to the Las Vegas s...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/watch-mudvaynes-chad-gray-returns-to-live-stage-after-canceling-two-shows-due-to-vocal-injury"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Ex-BUTCHER BABIES Singer CARLA HARVEY's Band THE VIOLENT HOUR Shares New Single 'Already Dead'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/ex-butcher-babies-singer-carla-harveys-band-the-violent-hour-shares-new-single-already-dead",
+    "timestamp": "2026-10-08T12:29:51+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "THE VIOLENT HOUR, the heavy rock group formed by Carla Harvey (BUTCHER BABIES) and Charlie Benante (ANTHRAX, PANTERA), has released the official music video for its latest single, \"Already Dead\". Directed by Vicente Cordero with a concept by Harvey, THE VIOLENT HOUR decided to take the video for \"Al...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/ex-butcher-babies-singer-carla-harveys-band-the-violent-hour-shares-new-single-already-dead"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Lana Del Rey, Morgan Wallen, & Lana Del Rey’s Husband Will Host A GTA VI In-Game Radio Station",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2513937/lana-del-rey-morgan-wallen-lana-del-reys-husband-will-host-a-gta-vi-in-game-radio-station/news/",
+    "timestamp": "2026-10-08T15:53:02+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Lana Del Rey has been threatening to go country for several years now, and it hasn't quite happened yet. At a 2024 pre-Grammy party, Del Rey announced plans for a country album, which was going to be called Lasso . Since then, she's released a few singles, and she also sang about kissing Morgan Wallen on a still-unrele",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2513937/lana-del-rey-morgan-wallen-lana-del-reys-husband-will-host-a-gta-vi-in-game-radio-station/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Turnstile announce huge free show at Washington Monument to raise money for Palestine, Sudan, and Lebanon",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/turnstile-announce-huge-free-show-at-washington-monument-to-raise-money-for-palestine-sudan-and-lebanon-3972691?utm_source=rss&utm_medium=rss&utm_campaign=turnstile-announce-huge-free-show-at-washington-monument-to-raise-money-for-palestine-sudan-and-lebanon",
+    "timestamp": "2026-10-08T15:47:20+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "The show will be in collaboration with Human Concern International, and will mark the final show of their ongoing North American tour The post Turnstile announce huge free show at Washington Monument to raise money for Palestine, Sudan, and Lebanon appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/turnstile-announce-huge-free-show-at-washington-monument-to-raise-money-for-palestine-sudan-and-lebanon-3972691?utm_source=rss&utm_medium=rss&utm_campaign=turnstile-announce-huge-free-show-at-washington-monument-to-raise-money-for-palestine-sudan-and-lebanon"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Björk Announces New Orchestral Live Album",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/bjork-announces-new-orchestral-live-album/",
+    "timestamp": "2026-10-08T15:43:27+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/bjork-announces-new-orchestral-live-album/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "KATSEYE’s “WILDWORLD TOUR”: How to Get Last-Minute Tickets",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/katseye-2026-tour-how-to-get-last-minute-tickets/",
+    "timestamp": "2026-10-08T15:43:08+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "The group's biggest North American tour yet opens on October 13th. Learn how to get last-minute tickets for sold-out shows here. KATSEYE’s “WILDWORLD TOUR”: How to Get Last-Minute Tickets Paolo Ragusa",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/katseye-2026-tour-how-to-get-last-minute-tickets/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Roseanne Barr Made a New Sitcom in Secret",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/roseanne-barr-meemaw-sitcom-cast/",
+    "timestamp": "2026-10-08T15:41:17+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Meemaw: A Modern Day Fable features the once-cancelled comedian as the matriarch of \"a mixed-race family of preppers.\" Roseanne Barr Made a New Sitcom in Secret Liz Shannon Miller",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/roseanne-barr-meemaw-sitcom-cast/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Thom Yorke says Radiohead reunion tour caused “massive” crash in self-confidence: “It took me months”",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/thom-yorke-radiohead-reunion-tour-massive-crash-self-confidence-3972688?utm_source=rss&utm_medium=rss&utm_campaign=thom-yorke-radiohead-reunion-tour-massive-crash-self-confidence",
+    "timestamp": "2026-10-08T15:39:09+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "The frontman said he only began to feel himself again after returning to work on his forthcoming solo album The post Thom Yorke says Radiohead reunion tour caused “massive” crash in self-confidence: “It took me months” appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/thom-yorke-radiohead-reunion-tour-massive-crash-self-confidence-3972688?utm_source=rss&utm_medium=rss&utm_campaign=thom-yorke-radiohead-reunion-tour-massive-crash-self-confidence"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Colombia’s Estéreo Picnic Reveals 2027 Lineup Led by Travis Scott, Charli XCX, and David Guetta",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/estereo-picnic-2027-lineup-travis-scott-charli-xcx-david-guetta/",
+    "timestamp": "2026-10-08T15:38:47+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Avenged Sevenfold, The Neighbourhood, The Prodigy, and Rawayana are also part of the star-studded lineup. Colombia’s Estéreo Picnic Reveals 2027 Lineup Led by Travis Scott, Charli XCX, and David Guetta Pedro Camacho",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/estereo-picnic-2027-lineup-travis-scott-charli-xcx-david-guetta/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Lollapalooza Reveals 2027 South American Lineups Led by Travis Scott, Charli XCX, and The Killers",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/lollapalooza-south-america-2027-headliners-travis-scott-charli-xcx-the-killers/",
+    "timestamp": "2026-10-08T15:24:30+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "The lineups also feature Queens of the Stone Age, The Neighbourhood, The Prodigy, and Fontaines D.C. across Argentina, Brazil and Chile Lollapalooza Reveals 2027 South American Lineups Led by Travis Scott, Charli XCX, and The Killers Pedro Camacho",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/lollapalooza-south-america-2027-headliners-travis-scott-charli-xcx-the-killers/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "This Pop Star May Have Confirmed a 2027 Super Bowl Halftime Performance as the Rumor Mill Continues To Turn - VICE",
+    "src": "VICE",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ0VhUmo1VkQtUDM1d1NMeFZSQWRPYWlaNUU0ZnNVSmE5WlRlMHBLUHpFQ2FuUHFWbHN3TVJMdnFoMWtzRDdHTUJaYUowYkRrZlJVYm8tZGxjaG0tOWJMNDdEZ2JaUWR3UFR5d05RblVrQWdrUWNlX3pNaDJWMDZkRlNmdUdfYl9MeUV2S1dRTEQ4ejFuQ0prQzhpcDF1WWN5VElEN01nYms1LXJiTXhCSERkM2w0Qy0xSVUtUDBDQi1EdS1GeWZOMHpRWHFCZl81aGZMWGVwMA?oc=5",
+    "timestamp": "2026-10-08T15:23:31+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "This Pop Star May Have Confirmed a 2027 Super Bowl Halftime Performance as the Rumor Mill Continues To Turn VICE",
+    "category": "general",
+    "sources": [
+      {
+        "name": "VICE",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ0VhUmo1VkQtUDM1d1NMeFZSQWRPYWlaNUU0ZnNVSmE5WlRlMHBLUHpFQ2FuUHFWbHN3TVJMdnFoMWtzRDdHTUJaYUowYkRrZlJVYm8tZGxjaG0tOWJMNDdEZ2JaUWR3UFR5d05RblVrQWdrUWNlX3pNaDJWMDZkRlNmdUdfYl9MeUV2S1dRTEQ4ejFuQ0prQzhpcDF1WWN5VElEN01nYms1LXJiTXhCSERkM2w0Qy0xSVUtUDBDQi1EdS1GeWZOMHpRWHFCZl81aGZMWGVwMA?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Thom Yorke Tells Harry Styles He Wishes He Hadn’t Written “High And Dry”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2513933/thom-yorke-tells-harry-styles-he-wishes-he-hadnt-written-high-and-dry/news/",
+    "timestamp": "2026-10-08T15:19:44+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Hey, you know Radiohead's 1995 single \"High And Dry\"? Good song! Very pretty! Very achy! You could certainly argue that it's one of the most conventional songs that Radiohed ever recorded, but that doesn't make it bad . Thom Yorke may feel differently, though. Radiohead haven't performed \"High And Dry\" since 1998, whic",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2513933/thom-yorke-tells-harry-styles-he-wishes-he-hadnt-written-high-and-dry/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Travis Barker Explains Hospitalization: “My Arm, Hand and Fingers Have Been Numb”",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/blink-182-travis-barker-surgery/",
+    "timestamp": "2026-10-08T15:17:49+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "The blink-182 drummer disclosed that he underwent surgery to address the medical issue. Travis Barker Explains Hospitalization: “My Arm, Hand and Fingers Have Been Numb” Langdon Hickman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/blink-182-travis-barker-surgery/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Sheryl Crow Gets Emotional Talking Music Legacy: ‘I Want to Be Better for the World’ - Rolling Stone",
+    "src": "Rolling Stone",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYlBjN0EtR1lXLUdmVFplVV8yTnBRV0VWVWZsSDNBMTU0cHVxcHA0bm9zLUlTd25nWFRMXzNCNHh3eExESzZaOGlLemlGQTdiOHJXRlBDTjc5TEVvdU4xWWdReE5KRHAxU1pPdklrUlpWUWpDSUU2MFVwbkFPUHhycnZrd2IwVHp4WmZVSmNiRlJmVGZJRkRUWklJaDAtZnFhckhseXF1bFlyWTZR?oc=5",
+    "timestamp": "2026-10-08T15:14:25+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Sheryl Crow Gets Emotional Talking Music Legacy: ‘I Want to Be Better for the World’ Rolling Stone",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Rolling Stone",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYlBjN0EtR1lXLUdmVFplVV8yTnBRV0VWVWZsSDNBMTU0cHVxcHA0bm9zLUlTd25nWFRMXzNCNHh3eExESzZaOGlLemlGQTdiOHJXRlBDTjc5TEVvdU4xWWdReE5KRHAxU1pPdklrUlpWUWpDSUU2MFVwbkFPUHhycnZrd2IwVHp4WmZVSmNiRlJmVGZJRkRUWklJaDAtZnFhckhseXF1bFlyWTZR?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Man sentenced to prison and to repay $8million on slop royalties in first criminal bot streaming fraud case",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/man-sentenced-to-prison-and-to-repay-8million-on-slop-royalties-in-first-criminal-bot-streaming-fraud-case-3972676?utm_source=rss&utm_medium=rss&utm_campaign=man-sentenced-to-prison-and-to-repay-8million-on-slop-royalties-in-first-criminal-bot-streaming-fraud-case",
+    "timestamp": "2026-10-08T15:09:46+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "He uploaded thousands of AI-generated songs to streaming platforms, then had bots play them billions of times The post Man sentenced to prison and to repay $8million on slop royalties in first criminal bot streaming fraud case appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/man-sentenced-to-prison-and-to-repay-8million-on-slop-royalties-in-first-criminal-bot-streaming-fraud-case-3972676?utm_source=rss&utm_medium=rss&utm_campaign=man-sentenced-to-prison-and-to-repay-8million-on-slop-royalties-in-first-criminal-bot-streaming-fraud-case"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Blossoms on being sandwiched between The Beatles and Johnny Marr in chart battle: “We’re in good company, aren’t we?”",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/blossoms-interview-songs-wedding-cake-beatles-johnny-marr-chart-battle-ai-3972644?utm_source=rss&utm_medium=rss&utm_campaign=blossoms-interview-songs-wedding-cake-beatles-johnny-marr-chart-battle-ai",
+    "timestamp": "2026-10-08T15:03:16+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Frontman Tom Ogden talks to NME about the \"hands on\" DIY vibe of new album 'Songs From The Wedding Cake' in the age of AI, and their new pal Maya Jama's chances of winning 'Celebrity Traitors' The post Blossoms on being sandwiched between The Beatles and Johnny Marr in chart battle: “We’re in good company, aren’t we?” ",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/blossoms-interview-songs-wedding-cake-beatles-johnny-marr-chart-battle-ai-3972644?utm_source=rss&utm_medium=rss&utm_campaign=blossoms-interview-songs-wedding-cake-beatles-johnny-marr-chart-battle-ai"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘Grand Theft Auto 6’ reveals first six in-game radio station soundtracks",
+    "src": "NME",
+    "url": "https://www.nme.com/news/gaming-news/grand-theft-auto-6-soundtrack-radio-stations-playlist-3972672?utm_source=rss&utm_medium=rss&utm_campaign=grand-theft-auto-6-soundtrack-radio-stations-playlist",
+    "timestamp": "2026-10-08T14:47:22+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Featuring Latin, pop, crushing metal and renegade country music The post ‘Grand Theft Auto 6’ reveals first six in-game radio station soundtracks appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/gaming-news/grand-theft-auto-6-soundtrack-radio-stations-playlist-3972672?utm_source=rss&utm_medium=rss&utm_campaign=grand-theft-auto-6-soundtrack-radio-stations-playlist"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Rosalía shares that Bono reached out for Spanish advice on U2 song about her: “Feel free to invent your own language”",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/rosalia-bono-spanish-advice-u2-song-about-her-invent-own-language-3972665?utm_source=rss&utm_medium=rss&utm_campaign=rosalia-bono-spanish-advice-u2-song-about-her-invent-own-language",
+    "timestamp": "2026-10-08T14:44:59+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "The band have written ‘The Mirror Maker (Rosalía)’ about her for their new album ‘Carnaval De Luz’ The post Rosalía shares that Bono reached out for Spanish advice on U2 song about her: “Feel free to invent your own language” appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/rosalia-bono-spanish-advice-u2-song-about-her-invent-own-language-3972665?utm_source=rss&utm_medium=rss&utm_campaign=rosalia-bono-spanish-advice-u2-song-about-her-invent-own-language"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "David Byrne Unveils New Song “Let Me Sell You a Dream” Using Elon Musk’s Own Words: Stream",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/david-byrne-let-me-sell-you-a-dream-elon-musk-stream/",
+    "timestamp": "2026-10-08T14:40:23+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "The original song was co-written with Daniel Pemberton for the soundtrack to Alex Gibney's new documentary, Musk. David Byrne Unveils New Song “Let Me Sell You a Dream” Using Elon Musk’s Own Words: Stream Eddie Fu",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/david-byrne-let-me-sell-you-a-dream-elon-musk-stream/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Lifeloose – “07XXXXXXXXX”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2513929/lifeloose-07xxxxxxxxx/music/",
+    "timestamp": "2026-10-08T14:28:45+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Aldi Ho and Josie Silverman, the two members of the UK electroclash duo Lifeloose, met while studying opera and electronic music, respectively, at London's Guildhall Middle School. Apparently, they became a live sensation before they even released anything, and they finally dropped their debut single, which is also cal",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2513929/lifeloose-07xxxxxxxxx/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Bush Announce 30th Anniversary Razorblade Suitcase Deluxe Edition",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/bush-30th-anniversary-razorblade-suitcase/",
+    "timestamp": "2026-10-08T14:21:25+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "The upcoming release sees the album get a new color vinyl as well as a bevy of bonus tracks. Bush Announce 30th Anniversary Razorblade Suitcase Deluxe Edition Langdon Hickman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/bush-30th-anniversary-razorblade-suitcase/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Turnstile Announce Free Show to Raise Funds for Palestine, Sudan, and Lebanon",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/turnstile-announce-free-show-to-raise-funds-for-palestine-sudan-and-lebanon/",
+    "timestamp": "2026-10-08T14:12:17+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/turnstile-announce-free-show-to-raise-funds-for-palestine-sudan-and-lebanon/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Grouper’s Liz Harris Shares 21-Minute Composition",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/groupers-liz-harris-shares-21-minute-composition/",
+    "timestamp": "2026-10-08T14:09:00+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/groupers-liz-harris-shares-21-minute-composition/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "GTA VI Radio Stations to Be Hosted by Lana Del Rey, Bad Bunny, Robyn",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/gta-vi-radio-station-hosts-bad-bunny-rainao-lana-del-rey-robyn/",
+    "timestamp": "2026-10-08T14:05:05+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/gta-vi-radio-station-hosts-bad-bunny-rainao-lana-del-rey-robyn/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "“We’ve pushed the limits for ourselves”: Casper based band Pleasure People release sophomore concept album, Why Am I Still Here? - Wyoming Public Media",
+    "src": "Wyoming Public Media",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOX0x0NmhkcDJKRUFUek5XdHBabXpLaXBWMFNhOU5jaVF2aHF2a1k1V3QxV0ZsRW42TUJqb2pCTzJRTlZTR3FaMXZjN21jNkREVG1RTW03VDMxd1JobjNIRXh5blpmRG5oTlR6WmF5cW9PRUFKZC1uZWhjRXJaYVlPWTBMMkljWU0xVkttYzlUQjQ1UU5zNzU0c2Nrb2FhRFNGX2lSRHZ2UjZVUF9CM08zTGRPekFZSmgzLUpmejVpSVR2M1d1aVdTQ0ZpY3cwdlhDNk5yMnZwOF9KRmJsR3lBYnVUUkFFN1IxbVN0dk5QbURJZzJmVXljZDlEU0JZWlZ1NVl6ZHRhWEgxZV8yQ0ZkcjhkdkptUm8?oc=5",
+    "timestamp": "2026-10-08T14:02:00+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "“We’ve pushed the limits for ourselves”: Casper based band Pleasure People release sophomore concept album, Why Am I Still Here? Wyoming Public Media",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Wyoming Public Media",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOX0x0NmhkcDJKRUFUek5XdHBabXpLaXBWMFNhOU5jaVF2aHF2a1k1V3QxV0ZsRW42TUJqb2pCTzJRTlZTR3FaMXZjN21jNkREVG1RTW03VDMxd1JobjNIRXh5blpmRG5oTlR6WmF5cW9PRUFKZC1uZWhjRXJaYVlPWTBMMkljWU0xVkttYzlUQjQ1UU5zNzU0c2Nrb2FhRFNGX2lSRHZ2UjZVUF9CM08zTGRPekFZSmgzLUpmejVpSVR2M1d1aVdTQ0ZpY3cwdlhDNk5yMnZwOF9KRmJsR3lBYnVUUkFFN1IxbVN0dk5QbURJZzJmVXljZDlEU0JZWlZ1NVl6ZHRhWEgxZV8yQ0ZkcjhkdkptUm8?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Def Leppard Announce 2027 North American Tour",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/def-leppard-2027-north-american-tour/",
+    "timestamp": "2026-10-08T14:01:41+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "The 45-date outing will feature support from Goo Goo Dolls and The Struts. Def Leppard Announce 2027 North American Tour Spencer Kaufman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/def-leppard-2027-north-american-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Turnstile Announce Free Benefit Concert on National Mall",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/turnstile-benefit-concert-national-mall/",
+    "timestamp": "2026-10-08T14:01:29+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "The show will raise funds for humanitarian relief efforts in Palestine, Sudan, and Lebanon. Turnstile Announce Free Benefit Concert on National Mall Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/turnstile-benefit-concert-national-mall/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Turnstile Announce Free Benefit Show At The Washington Monument",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2513909/turnstile-announce-free-benefit-show-at-the-washington-monument/news/",
+    "timestamp": "2026-10-08T14:01:12+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "This is going to be something special. In a few weeks, Turnstile will play a free public outdoor show on the National Lawn in Washington, DC. The performance goes down at 3 p.m. on Oct. 24. While there's no admission fee, the event will still be a benefit, with Human Concern International , the charitable organization ",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2513909/turnstile-announce-free-benefit-show-at-the-washington-monument/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Is your indie catalogue losing revenue? Fixing the leak with Indie Music Rights - Music Ally",
+    "src": "Music Ally",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZDdZSzRKX1d6YnpfSWZJZllhZ2E0QWNtSjFhbmlwQ3BHVkRuM3EwSFZfZ05LaFhLd1VmdEViNG5ncV9HZTIxc3o5ckROVW9wOWlLNjdSZnJWVG5LWENyZnhTX0U3QzFLMkVVVHZWODB2eTFvR3NHMUp3YWxaVXJmRjJudWFGQlU0bk54NUVPWHZydm4tZEoxR2VERmwxZHJxUE9ySVl4MXNUeFIyd0R0Y3JR?oc=5",
+    "timestamp": "2026-10-08T13:56:55+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Is your indie catalogue losing revenue? Fixing the leak with Indie Music Rights Music Ally",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Music Ally",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZDdZSzRKX1d6YnpfSWZJZllhZ2E0QWNtSjFhbmlwQ3BHVkRuM3EwSFZfZ05LaFhLd1VmdEViNG5ncV9HZTIxc3o5ckROVW9wOWlLNjdSZnJWVG5LWENyZnhTX0U3QzFLMkVVVHZWODB2eTFvR3NHMUp3YWxaVXJmRjJudWFGQlU0bk54NUVPWHZydm4tZEoxR2VERmwxZHJxUE9ySVl4MXNUeFIyd0R0Y3JR?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘Metaphor: ReFantazio’ composer Shoji Meguro wants to keep surprising you",
+    "src": "NME",
+    "url": "https://www.nme.com/features/gaming-features/metaphor-refantazio-composer-shoji-meguro-interview-persona-concert-tour-3972651?utm_source=rss&utm_medium=rss&utm_campaign=metaphor-refantazio-composer-shoji-meguro-interview-persona-concert-tour",
+    "timestamp": "2026-10-08T13:56:52+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "The 'Persona' musician's latest creation is getting a world orchestral tour, which kicks off this week The post ‘Metaphor: ReFantazio’ composer Shoji Meguro wants to keep surprising you appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/features/gaming-features/metaphor-refantazio-composer-shoji-meguro-interview-persona-concert-tour-3972651?utm_source=rss&utm_medium=rss&utm_campaign=metaphor-refantazio-composer-shoji-meguro-interview-persona-concert-tour"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Tucker Wetmore Sings ‘Rumor’ When Asked About Ella Langley Dating Speculation - Backstage Country",
+    "src": "Backstage Country",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNFZRRnVvVXdlZzAwbkl6aHMwT2pIZnJYS0xTbml1TmQ2dUJfX1UxOE1teXJFSExxamgyOHNLTDhFd2Nudk04Wm80N0tXZ19sMURlQW56dzJ2RldDVGM5d2VFbjd6RF9DMGFidk90ME5IWTJlZE9abmcyRXIwSWRVVTNYVW0yeG5vSmVuMF91RVB4LUtIa2lmb0V5RDVCYml1OXMzd1hYVXd4RWJGTVJOTW5GaXJLWW8?oc=5",
+    "timestamp": "2026-10-08T13:49:19+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Tucker Wetmore Sings ‘Rumor’ When Asked About Ella Langley Dating Speculation Backstage Country",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Backstage Country",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNFZRRnVvVXdlZzAwbkl6aHMwT2pIZnJYS0xTbml1TmQ2dUJfX1UxOE1teXJFSExxamgyOHNLTDhFd2Nudk04Wm80N0tXZ19sMURlQW56dzJ2RldDVGM5d2VFbjd6RF9DMGFidk90ME5IWTJlZE9abmcyRXIwSWRVVTNYVW0yeG5vSmVuMF91RVB4LUtIa2lmb0V5RDVCYml1OXMzd1hYVXd4RWJGTVJOTW5GaXJLWW8?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ebbb – “Public”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2513923/ebbb-public/music/",
+    "timestamp": "2026-10-08T13:44:57+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "I love it when I hear a song that fits into absolutely no known genre rubric and I have to invent some new combination of words to describe it. For instance, if I told you that the London trio Ebbb's new single \"Public\" is dreamy chamber-rage, would that even mean anything to you? Do you think that'll catch on? Or do I",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2513923/ebbb-public/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Olivia Rodrigo shares “hard line” stance on using AI in music",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/olivia-rodrigo-shares-hard-line-stance-on-using-ai-in-music-3972650?utm_source=rss&utm_medium=rss&utm_campaign=olivia-rodrigo-shares-hard-line-stance-on-using-ai-in-music",
+    "timestamp": "2026-10-08T13:35:30+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "“I would never use AI in any of my music. Absolutely no” The post Olivia Rodrigo shares “hard line” stance on using AI in music appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/olivia-rodrigo-shares-hard-line-stance-on-using-ai-in-music-3972650?utm_source=rss&utm_medium=rss&utm_campaign=olivia-rodrigo-shares-hard-line-stance-on-using-ai-in-music"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Parquet Courts’ Andrew Savage Launches New Band Iconic Fugues With “2025 Dream/2025 Blues”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2513919/parquet-courts-andrew-savage-launches-new-band-iconic-fugues-with-2025-dream-2025-blues/music/",
+    "timestamp": "2026-10-08T13:35:10+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Andrew Savage has a new band. The Parquet Courts member, sometimes known to release solo joints under the name A. Savage, has launched Iconic Fugues today with debut single \"2025 Dream/2025 Blues.\" It's a shuffling folk-rock track that technically encompasses two songs' worth of lyrics, though it plays as one seamless ",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2513919/parquet-courts-andrew-savage-launches-new-band-iconic-fugues-with-2025-dream-2025-blues/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Interview: 33EMYBW on Amalgamate, metamorphosis, and insect philosophy - CDM Create Digital Music",
+    "src": "CDM Create Digital Music",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Gc2ljT2hDRmhxZU9Fd2RfVnVMYjN4TmRGcUI3bVlHeTJ0TTZ5VVFPZHZ3cEJ3MnNYdU5jUkVEX3RSX2xGYUZNMlRhazVycUNRVHVoakVrdW9jZw?oc=5",
+    "timestamp": "2026-10-08T13:31:28+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Interview: 33EMYBW on Amalgamate, metamorphosis, and insect philosophy CDM Create Digital Music",
+    "category": "general",
+    "sources": [
+      {
+        "name": "CDM Create Digital Music",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Gc2ljT2hDRmhxZU9Fd2RfVnVMYjN4TmRGcUI3bVlHeTJ0TTZ5VVFPZHZ3cEJ3MnNYdU5jUkVEX3RSX2xGYUZNMlRhazVycUNRVHVoakVrdW9jZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "ProjectPolly: A Villian's Masquerade : Album Release Party & Costume Contest - Detroit Free Press",
+    "src": "Detroit Free Press",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVTdUdEltUDVoMTVSWlRpMV9MeUFWbFptRWhtcTAxYnNSNExHdmEzSk1CekFfNFhmTnAteGI4ZmlLZy1HQjdFUXB6MlhxQWFoMy00NWtsZmRpbjdxVHhIdFNTaGluSTlIVTFQenlPNGhWYlBrZ3lGTk1TWmRXTG9SN2hyZ19UcUg3SVFPbHpDMVBDYW96RnNDV3pTOWhJa2VTRHBNN2pHUHRsSVplN3QtMU9KNGpYcEtYWTU2ZzZiMDhZd0NOd3N6V3lDWld4bmFGbXBTRktOMXBnQ3RweDF5ajB5OA?oc=5",
+    "timestamp": "2026-10-08T13:26:16+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "ProjectPolly: A Villian's Masquerade : Album Release Party & Costume Contest Detroit Free Press",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Detroit Free Press",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVTdUdEltUDVoMTVSWlRpMV9MeUFWbFptRWhtcTAxYnNSNExHdmEzSk1CekFfNFhmTnAteGI4ZmlLZy1HQjdFUXB6MlhxQWFoMy00NWtsZmRpbjdxVHhIdFNTaGluSTlIVTFQenlPNGhWYlBrZ3lGTk1TWmRXTG9SN2hyZ19UcUg3SVFPbHpDMVBDYW96RnNDV3pTOWhJa2VTRHBNN2pHUHRsSVplN3QtMU9KNGpYcEtYWTU2ZzZiMDhZd0NOd3N6V3lDWld4bmFGbXBTRktOMXBnQ3RweDF5ajB5OA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Grouper’s Liz Harris Announces Music For Two Films About Water, Shares 22-Minute Track",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2513917/groupers-liz-harris-announces-music-for-two-films-about-water-shares-22-minute-track/music/",
+    "timestamp": "2026-10-08T13:23:38+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Since 2005, the Portland musician Liz Harris has been making entrancing, quietly experimental music under the name Grouper. She's a mood-conjurer and a cult hero, and she sounds like nobody else. On the rare occasions that she plays live, it's a big deal. (She just did a short North American tour last month.) Harris ha",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2513917/groupers-liz-harris-announces-music-for-two-films-about-water-shares-22-minute-track/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Tate McRae Roasts Her Fans for Being Horrible at Finding Easter Eggs",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/tate-mcrae-fans-easter-eggs/",
+    "timestamp": "2026-10-08T13:22:25+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "\"We drop Easter eggs all the time, and they get none of them.\" Tate McRae Roasts Her Fans for Being Horrible at Finding Easter Eggs Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/tate-mcrae-fans-easter-eggs/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Sonus Art Fest regressa a Guimarães com concertos, showcases, uma exposição e um Independent Market",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/sonus-art-fest-regressa-a-guimaraes-com-concertos-showcases-uma-exposicao-e-um-independent-market/",
+    "timestamp": "2026-10-08T15:49:40+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "%featured_image% Sonus Art Fest regressa a Guimarães com dois dias de música e arte.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/sonus-art-fest-regressa-a-guimaraes-com-concertos-showcases-uma-exposicao-e-um-independent-market/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Lídia Carolina e Ricardo Barbosa apresentam “Portugal: Um país em Canções” - Rádio Castelo Branco",
+    "src": "Rádio Castelo Branco",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaHJsWDQyaV9QQlpWZmh0eC1TaFBrcEZ3NEpOaVVTMFVXYWlxOEdJTEVVVDRFMjNyVlR5d3RDWFFlNlFqWlpndmZxQVBWNVAwZXdJSTJjZXBuWFVzNFB5WWZRMHFXSlVGNzJEdmQwdUNoYjJwQ251d0J3T0oyWF9Kb1JtUW1KQjF3X2lOX05jOE9iUUJhRkNMaTZ6YU9fdWF5ZVEtYWp0YV9VLTA?oc=5",
+    "timestamp": "2026-10-08T14:25:00+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Lídia Carolina e Ricardo Barbosa apresentam “Portugal: Um país em Canções” Rádio Castelo Branco",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Rádio Castelo Branco",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaHJsWDQyaV9QQlpWZmh0eC1TaFBrcEZ3NEpOaVVTMFVXYWlxOEdJTEVVVDRFMjNyVlR5d3RDWFFlNlFqWlpndmZxQVBWNVAwZXdJSTJjZXBuWFVzNFB5WWZRMHFXSlVGNzJEdmQwdUNoYjJwQ251d0J3T0oyWF9Kb1JtUW1KQjF3X2lOX05jOE9iUUJhRkNMaTZ6YU9fdWF5ZVEtYWp0YV9VLTA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Spotify leva audiolivros a 180 mercados — incluindo Portugal - MaisTecnologia",
+    "src": "MaisTecnologia",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMExZS0lBTDlRWVREUWZCb1pLdzdGeVBPak4xYjFEbnRFR1VTaS1SZ2lJT3N6Zlh3TmRRdDAtWWVYc0Y2UVhxNTF5SHhoQnRyODFfNWEyOXNqOTZ4a3NaeXpXbVROZmNjSnRUb3RCMjRQZmM4VWMzREY5alBaYlgtQkM3Y3Qyc2NYUEQtZFdYUnNtTXVr?oc=5",
+    "timestamp": "2026-10-08T13:23:03+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Spotify leva audiolivros a 180 mercados — incluindo Portugal MaisTecnologia",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "MaisTecnologia",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMExZS0lBTDlRWVREUWZCb1pLdzdGeVBPak4xYjFEbnRFR1VTaS1SZ2lJT3N6Zlh3TmRRdDAtWWVYc0Y2UVhxNTF5SHhoQnRyODFfNWEyOXNqOTZ4a3NaeXpXbVROZmNjSnRUb3RCMjRQZmM4VWMzREY5alBaYlgtQkM3Y3Qyc2NYUEQtZFdYUnNtTXVr?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Mariza canta no festival Às Vezes o Amor em 2027 - Observador",
+    "src": "Observador",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONTJfUmJSUk01VWZrNGJWNDZKcnFmZHByNkZ0M1dDWkJXMld3cmkzZ3dYcVVvS0tUdlh2bHVuRzFSVThPLWdXMGRXSVdSZnFRTTNhSExvTndYeUxyLXkwOFpOV0NraC05UE9DaWtvMkJTd1dJeXlOVmtYeGc4UjhWa3Yxek81aWFPeGMzVkIxUEVVeWljQm9GcWROeGdxbzR0T3ZhSllBYzc5LTUxQzZ3?oc=5",
+    "timestamp": "2026-10-08T13:02:37+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Mariza canta no festival Às Vezes o Amor em 2027 Observador",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Observador",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONTJfUmJSUk01VWZrNGJWNDZKcnFmZHByNkZ0M1dDWkJXMld3cmkzZ3dYcVVvS0tUdlh2bHVuRzFSVThPLWdXMGRXSVdSZnFRTTNhSExvTndYeUxyLXkwOFpOV0NraC05UE9DaWtvMkJTd1dJeXlOVmtYeGc4UjhWa3Yxek81aWFPeGMzVkIxUEVVeWljQm9GcWROeGdxbzR0T3ZhSllBYzc5LTUxQzZ3?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Entre petiscos, moqueca e samba: José Avillez abre as portas para celebrar o Brasil - Público",
+    "src": "Público",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdnJuX0pGVzBJTzRramNaOW9FYzFwbnBGOFZPRTF6Q0p6ejNONEc0OFFaWFBLazlXMnNHZlU2dXpBZ3FBY2c5VXRrcG1HeGJOWTNVX080cHpKQVpoYm85ekh6TXB2WEJ0M0sxeDlnbHVyaG1ETnlrMy00NngtSS1fSEdlWXVxeU8xak1Fa0dJb3hWa0Z1VkFhWlJfQS1OUnZFQU1nbmVpRHRvR1ExWXJIdFdETkN1NmlTQnlydkpKdV9LOTdFeFBn?oc=5",
+    "timestamp": "2026-10-08T06:30:00+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Entre petiscos, moqueca e samba: José Avillez abre as portas para celebrar o Brasil Público",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Público",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdnJuX0pGVzBJTzRramNaOW9FYzFwbnBGOFZPRTF6Q0p6ejNONEc0OFFaWFBLazlXMnNHZlU2dXpBZ3FBY2c5VXRrcG1HeGJOWTNVX080cHpKQVpoYm85ekh6TXB2WEJ0M0sxeDlnbHVyaG1ETnlrMy00NngtSS1fSEdlWXVxeU8xak1Fa0dJb3hWa0Z1VkFhWlJfQS1OUnZFQU1nbmVpRHRvR1ExWXJIdFdETkN1NmlTQnlydkpKdV9LOTdFeFBn?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "title": "Kareena Kapoor Khan Reportedly Joins Shah Rukh Khan’s King for Special Song - Bollywood Mascot",
@@ -6732,7 +8274,7 @@
     "title": "The Chicks revisit their boldest chapter 23 years after fallout from political statement - Detroit Free Press",
     "src": "Detroit Free Press",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNE5CWDZKN1hWdHNpU1Jhak5JMXdCV3d0OVJLV3hkemJCRGduT1V1NEJXc1dDUzloVldkM2J4THA1d2VEUFM3NlFnanJlbnFGb1NpSnBzSnpEZEVJQ1AtSDBBM0sybFVOekFjbEpsQVZPMElxT1pubjRqbllSeE52enhRM2otbDVUUmFOSE1BbGh4VnIzU0NJSHpuTDlGSDNZRTVzOGl6WFpaZ3FfNXpncjBBY0VIT0ZRdVBFSVhFOHEzM1hsYjRYdUhn?oc=5",
-    "timestamp": "2026-10-07T19:52:00+00:00",
+    "timestamp": "2026-10-07T19:56:00+00:00",
     "isoDate": "2026-10-07",
     "date": "7 Out",
     "d": "The Chicks revisit their boldest chapter 23 years after fallout from political statement Detroit Free Press",
@@ -6741,15 +8283,19 @@
       {
         "name": "Detroit Free Press",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNE5CWDZKN1hWdHNpU1Jhak5JMXdCV3d0OVJLV3hkemJCRGduT1V1NEJXc1dDUzloVldkM2J4THA1d2VEUFM3NlFnanJlbnFGb1NpSnBzSnpEZEVJQ1AtSDBBM0sybFVOekFjbEpsQVZPMElxT1pubjRqbllSeE52enhRM2otbDVUUmFOSE1BbGh4VnIzU0NJSHpuTDlGSDNZRTVzOGl6WFpaZ3FfNXpncjBBY0VIT0ZRdVBFSVhFOHEzM1hsYjRYdUhn?oc=5"
+      },
+      {
+        "name": "USA Today",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMzJLV0YydGw3dEd2bGF1X2ZtOHhwNDU5Y3J4b0M5eXNhMWRER2Z1VWRQcE82Z0FzU2ItSXRWbXR1UjVvQTFtMjV5V0d3Q2FmT291Ymt6OHg1Z3ZaYUs5ZkxQaDQydHFXX0dubXZxa2YyRm5yOXUzWXBtRmpNRTJ3bGowUVZHcWpPc09Zb1Z6R2lyaW1sUkVxY2FDYU4zMG1iczR5NWE4eFZvYlRSc3F3Z0V1U3ZEbmdWYS13LWpBT213YlltbVRNNGVwSTI4dw?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 1,
+    "sourceCount": 2,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": false,
+    "star": true,
     "kind": "news",
     "section": "buzz"
   },
@@ -7336,6 +8882,81 @@
       {
         "name": "Eu, Rio!",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT1A3b3l0bGlRUUxrOVdLRVc2TzV4Q1Y0VVBQazA0aThoSGptalo2RGN4UFRMcHhHVkxzbzZvaGF4ckdBQk9iYXhhYU1PSHo2NzEyaEN0T2pqVkNweTltMXM4X3lRMGYzSk8xRTBYX1VjZ1RZYjRQcHVlZVhMZEdRcVJPVEFROHpDSXF2dUR4WDJMdnRnTXlNUGNwY3R6dm96QWc5b2VlTEhfTUl1dXBjR01OOW1hWHdPWmZ4Q2NMM0xyZmhvTjNlYk9QVWnSAcsBQVVfeXFMT2M1SmlnTF9HaWltYk1xVmg2WkN4QmNJbHNaOUV6d0REazlIRTl6YVpTQlVJVFdCQTVER2lTZWV6bVJXTVFNMENqZW5QOVNPaVZYa19HZ2E1azdHVURvMkM2MHlPZmtyX2lvQzlDWHFneG9BMDFRaE9lZzlkNnhfbXJyZFoxZXBJYW96S1JlamVKT2JIVVVHVXJ5T2c2cHdKMUkxaUJyN2pBLTdkNXhJOGtrd3g1dVotVFNJZjNvc0ItVzhHZkFzaTNfS0E?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "These were the 11 greatest college rock bands of the 1980s - Classical-Music.com",
+    "src": "Classical-Music.com",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6Um0yNXczd1kwN1YwTWhtZEk5N3puNGhVNlQtNTFlS1lUQ3ZCblZqNnVLOXU3dEJZQUdLanpIcGtJUGVuQzBadGRUVkpNRi1aV283LXltdktKMElhb29XY2NidjhJTldWWlRPSg?oc=5",
+    "timestamp": "2026-10-07T21:13:29+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "These were the 11 greatest college rock bands of the 1980s Classical-Music.com",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Classical-Music.com",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6Um0yNXczd1kwN1YwTWhtZEk5N3puNGhVNlQtNTFlS1lUQ3ZCblZqNnVLOXU3dEJZQUdLanpIcGtJUGVuQzBadGRUVkpNRi1aV283LXltdktKMElhb29XY2NidjhJTldWWlRPSg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Parkway Drive unveil release date for their concert movie and release live video fo \"Prey\" - Chaoszine",
+    "src": "Chaoszine",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWl5NUMxX2tuQWszRjZOcVFGd3ZBNW9BZEJZU3k5VENIQVoyS3NKa3hfeFplNjNlUTRBRTFVdGhYb213NUdVY0RZQ0dORUg5WWxENzluYXFGc2dObzlYX3Q2UFBTLTNHZFJJZGg1RThhSjRMZm1oNWdJQWh1QmRFSmxMSDhfVG9NZTVSWWZMdjFNUTh3YWRMT2xRSGU1eVdkREw3RHIzbkhyV1NkX04xWQ?oc=5",
+    "timestamp": "2026-10-07T07:45:48+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Parkway Drive unveil release date for their concert movie and release live video fo \"Prey\" Chaoszine",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Chaoszine",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMWl5NUMxX2tuQWszRjZOcVFGd3ZBNW9BZEJZU3k5VENIQVoyS3NKa3hfeFplNjNlUTRBRTFVdGhYb213NUdVY0RZQ0dORUg5WWxENzluYXFGc2dObzlYX3Q2UFBTLTNHZFJJZGg1RThhSjRMZm1oNWdJQWh1QmRFSmxMSDhfVG9NZTVSWWZMdjFNUTh3YWRMT2xRSGU1eVdkREw3RHIzbkhyV1NkX04xWQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Portugal junta-se à celebração do dia da Música Popular Brasileira - Glam Magazine",
+    "src": "Glam Magazine",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0NVOURDQ3ZHTkU3QVZJZ2N4SWZHd3JpLXFvTk5IS2o1NUFlNnVBQi01WEVMUmJIRjlZWVZmNFNSWjVKM3l3Q2VPc3lPWXhVVDJvUzJueDJrSjFaMlk1OTNlb2pQTFh3M083MVpjcF8xczV3d1VTZ0phWVJyX2tuQWNWUjQ3Umo0bHBtalRJakpXX1dXa2pN?oc=5",
+    "timestamp": "2026-10-07T07:00:00+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Portugal junta-se à celebração do dia da Música Popular Brasileira Glam Magazine",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Glam Magazine",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0NVOURDQ3ZHTkU3QVZJZ2N4SWZHd3JpLXFvTk5IS2o1NUFlNnVBQi01WEVMUmJIRjlZWVZmNFNSWjVKM3l3Q2VPc3lPWXhVVDJvUzJueDJrSjFaMlk1OTNlb2pQTFh3M083MVpjcF8xczV3d1VTZ0phWVJyX2tuQWNWUjQ3Umo0bHBtalRJakpXX1dXa2pN?oc=5"
       }
     ],
     "status": "official",
@@ -17706,6 +19327,31 @@
       {
         "name": "Folha dos Lagos",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVXhDM2pUaWpHaktQYS02Q0xqZC1ydlJjRmhfcmJ2akpBYklCcnZ6TnFnNktyVEJybi1sYnRFX0tFMWl5Y0hlUjB2VUl1STVMbm9jRVBtb21Dd1ZHZi1fVFZNaTZ2b2hJekFVd1lURkRxOHVPRVFyME1ta1JxNmhRc2NiMmdRaVBVb2p2X1NMbFNNUVVOcHFZZzQ2VkZLUmwyNUFHNEVfbjBUZmM0UDRGaGViSdIBuAFBVV95cUxNZVVfR01IN09ldHB1enVSMVFrVkpqTGlBUHIyLXhvOXZaX1d0d2NDempiSXlyTDgtdUVpRFRDWkh3QnF2a0dSY0VjOGlRQ1hFRlRGajlacVFjMkQ3Ty1VcXhlSmtvZWlfNU40TXYtUFhPOWFSbHpQU2JyLTg4bWJjbDBzNkloWkM3WkJzQ2UxM2hDMS1fQlBGcnZpZ1o5T3dGNE5BM1RCaVZEZDl4c0xsZ2FDY1FPTUVB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Os concertos em Lisboa que vai querer ver esta semana - Time Out Lisboa",
+    "src": "Time Out Lisboa",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXZvejZnWkdidFBFSUtlVVpTTXlCMGFyMEIwU1FtTG9WazBaajdRcWxKTEsyMVBzSlgwZE16ZEJBcGtOdFJnUy0taDdHV0ZjV1E2cnd5bVdha01DYnBCN0pwenFTQ0hZRjI2ZF9oOVYzN0hKQzB0UGM4R25rNFdjRGh1WVJWZHlJWS0w?oc=5",
+    "timestamp": "2026-10-05T23:00:00+00:00",
+    "isoDate": "2026-10-05",
+    "date": "5 Out",
+    "d": "Os concertos em Lisboa que vai querer ver esta semana Time Out Lisboa",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Time Out Lisboa",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXZvejZnWkdidFBFSUtlVVpTTXlCMGFyMEIwU1FtTG9WazBaajdRcWxKTEsyMVBzSlgwZE16ZEJBcGtOdFJnUy0taDdHV0ZjV1E2cnd5bVdha01DYnBCN0pwenFTQ0hZRjI2ZF9oOVYzN0hKQzB0UGM4R25rNFdjRGh1WVJWZHlJWS0w?oc=5"
       }
     ],
     "status": "official",
@@ -30634,6 +32280,49 @@
       }
     ],
     "mbid": "8acb40a2-c29a-4ec5-8b77-512832c3fc4c",
+    "star": false,
+    "kind": "release",
+    "section": "main"
+  },
+  {
+    "b": "Extra Nina",
+    "t": "EXTRA NINA DELUXE ARCHIVES, PT. 1",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "2 Out",
+    "isoDate": "2026-10-02",
+    "url": "https://musicbrainz.org/release-group/3d1d6b5f-49b5-4dfa-bc85-6eb8fa5d87af",
+    "d": "",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/3d1d6b5f-49b5-4dfa-bc85-6eb8fa5d87af"
+      }
+    ],
+    "mbid": "3d1d6b5f-49b5-4dfa-bc85-6eb8fa5d87af",
+    "star": false,
+    "country": "PT",
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Dumas",
+    "t": "Marathon 2 (Mont-Royal)",
+    "g": "electro",
+    "fmt": "EP",
+    "lbl": "MusicBrainz",
+    "date": "2 Out",
+    "isoDate": "2026-10-02",
+    "url": "https://musicbrainz.org/release-group/dd8ff6e2-0728-47e8-afd3-775236933d81",
+    "d": "electronic, electropop, indiepop, montreal, montréal",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/dd8ff6e2-0728-47e8-afd3-775236933d81"
+      }
+    ],
+    "mbid": "dd8ff6e2-0728-47e8-afd3-775236933d81",
     "star": false,
     "kind": "release",
     "section": "main"
