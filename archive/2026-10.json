@@ -647,10 +647,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -1247,10 +1247,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1322,10 +1322,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1522,10 +1522,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -3195,6 +3195,927 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "b": "The Audacity",
+    "t": "Malibu",
+    "g": "rock",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "8 Out",
+    "isoDate": "2026-10-08",
+    "url": "https://alterportal.net/alternative/190522-the-audacity-malibu-single-2026.html",
+    "d": "Alternative Rock",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190522-the-audacity-malibu-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "NORTH OF SILENCE",
+    "t": "I Do My Own Stunts",
+    "g": "prog",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "8 Out",
+    "isoDate": "2026-10-08",
+    "url": "https://musicbrainz.org/release-group/082dd0e6-5bbc-4e59-b0f0-b872be9b0c8b",
+    "d": "progressive metal, metal, orchestral, dark ambient, cinematic",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/082dd0e6-5bbc-4e59-b0f0-b872be9b0c8b"
+      }
+    ],
+    "mbid": "082dd0e6-5bbc-4e59-b0f0-b872be9b0c8b",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Fit For A King",
+    "t": "Dirt",
+    "g": "core",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "8 Out",
+    "isoDate": "2026-10-08",
+    "url": "https://alterportal.net/core/190521-fit-for-a-king-dirt-single-2026.html",
+    "d": "Metalcore",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/core/190521-fit-for-a-king-dirt-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Evans Blue",
+    "t": "Speak",
+    "g": "rock",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "8 Out",
+    "isoDate": "2026-10-08",
+    "url": "https://alterportal.net/alternative/190520-evans-blue-speak-single-2026.html",
+    "d": "Alternative Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190520-evans-blue-speak-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "Def Leppard, Goo Goo Dolls & The Struts Announce 2027 North American Arena Tour",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/08/news/def-leppard-goo-goo-dolls-the-struts-announce-2027-north-american-arena-tour/",
+    "timestamp": "2026-10-08T18:11:20+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Spanning several legs from March through to July. The post Def Leppard, Goo Goo Dolls & The Struts Announce 2027 North American Arena Tour appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/08/news/def-leppard-goo-goo-dolls-the-struts-announce-2027-north-american-arena-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "UDO DIRKSCHNEIDER And His Son SVEN Weigh In On State Of Heavy Metal In 2026: Record Companies Are 'Doing A Lot Of Things Wrong'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/udo-dirkschneider-and-his-son-sven-weigh-in-on-state-of-heavy-metal-in-2026-record-companies-are-doing-a-lot-of-things-wrong",
+    "timestamp": "2026-10-08T18:00:37+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "In a new interview with Rock Kommander, former ACCEPT frontman Udo Dirkschneider and his son Sven Dirkschneider, who plays drums for both of Udo's bands, U.D.O. and DIRKSCHNEIDER, were asked what the \"biggest difference\" is in terms of the way music is made today compared to how it was four decades...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/udo-dirkschneider-and-his-son-sven-weigh-in-on-state-of-heavy-metal-in-2026-record-companies-are-doing-a-lot-of-things-wrong"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Mental Cruelty Go Full Viking With Elaborate “Ride Of The Valkyries” Music Video",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/08/news/mental-cruelty-go-full-viking-with-elaborate-ride-of-the-valkyries-music-video/",
+    "timestamp": "2026-10-08T17:54:39+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Directed by Dariusz Szermanowicz (Behemoth, Amon Amarth). The post Mental Cruelty Go Full Viking With Elaborate “Ride Of The Valkyries” Music Video appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/08/news/mental-cruelty-go-full-viking-with-elaborate-ride-of-the-valkyries-music-video/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Orbit Culture Debut Video For New Version Of “The Path I Walk” Featuring Tina Guo",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/08/news/orbit-culture-debut-video-for-new-version-of-the-path-i-walk-featuring-tina-guo/",
+    "timestamp": "2026-10-08T17:38:38+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "From the impending deluxe edition of their latest album \"Death Above Life\". The post Orbit Culture Debut Video For New Version Of “The Path I Walk” Featuring Tina Guo appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/08/news/orbit-culture-debut-video-for-new-version-of-the-path-i-walk-featuring-tina-guo/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Inside Calva Louise’s Stupidly Intelligent Deathcore Universe",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/interviews/calva-louise-interview-new-single-le-promesa",
+    "timestamp": "2026-10-08T17:31:01+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Step over the threshold. The post Inside Calva Louise’s Stupidly Intelligent Deathcore Universe appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/interviews/calva-louise-interview-new-single-le-promesa"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "I Promised The World Release Deluxe Edition Of Their Self-Titled EP",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/08/news/i-promised-the-world-release-deluxe-edition-of-their-self-titled-ep/",
+    "timestamp": "2026-10-08T17:22:47+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Available now on vinyl and CD. The post I Promised The World Release Deluxe Edition Of Their Self-Titled EP appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/08/news/i-promised-the-world-release-deluxe-edition-of-their-self-titled-ep/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Are '90s + 2000s Alt-Rockers Powderfinger Teasing a Reunion?",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/powderfinger-teasing-reunion/",
+    "timestamp": "2026-10-08T17:22:22+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "The 18-time ARIA Award winners Powderfinger have been cryptically teasing something new over the past week while launching a mysterious Instagram account. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/powderfinger-teasing-reunion/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Trivium’s Eleventh Album “Crown In The Grave” Due In November, New Music Video Launched",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/08/news/triviums-eleventh-album-crown-in-the-grave-due-in-november-new-music-video-launched/",
+    "timestamp": "2026-10-08T17:10:19+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "A title which they hid in plain view with their past tour announcements. The post Trivium’s Eleventh Album “Crown In The Grave” Due In November, New Music Video Launched appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/08/news/triviums-eleventh-album-crown-in-the-grave-due-in-november-new-music-video-launched/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch: L7 Kicks Off Final World Tour In San Diego",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/watch-l7-kicks-off-final-world-tour-in-san-diego",
+    "timestamp": "2026-10-08T16:48:53+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Legendary feminist rockers L7 kicked off the first leg of their final world tour, dubbed \"The Last Hurrah\", with a pair of shows (Tuesday, October 6 and Wednesday, October 7) at the Casbah in San Diego, California. Fan-filmed video of the two performances can be seen below. Before tragically passing...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/watch-l7-kicks-off-final-world-tour-in-san-diego"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Turnstile Announce Free Benefit Show At The Washington Monument For Humanitarian Efforts In Palestine, Sudan & Lebanon",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/08/news/turnstile-announce-free-benefit-show-at-the-washington-monument-for-humanitarian-efforts-in-palestine-sudan-lebanon/",
+    "timestamp": "2026-10-08T16:33:58+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Taking place later this month. The post Turnstile Announce Free Benefit Show At The Washington Monument For Humanitarian Efforts In Palestine, Sudan & Lebanon appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/08/news/turnstile-announce-free-benefit-show-at-the-washington-monument-for-humanitarian-efforts-in-palestine-sudan-lebanon/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "BRIAN MAY: 'I Have Actually Never Said QUEEN Won't Ever Tour Again'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/brian-may-i-have-actually-never-said-queen-wont-ever-tour-again",
+    "timestamp": "2026-10-08T16:33:23+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Brian May says that he was misquoted as saying QUEEN will never tour again. The 79-year-old QUEEN guitarist clarified a comment he made in an interview with U.K.'s The Times in which he said he was he was done touring. He told The Times: \"I made a decision 18 months ago that I didn't want to tour a...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/brian-may-i-have-actually-never-said-queen-wont-ever-tour-again"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "‘Grand Theft Auto VI’ To Feature An In-Game Metal Radio Station Hosted By Slayer’s Tom Araya And Kerry King",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/08/news/grand-theft-auto-vi-to-feature-an-in-game-metal-radio-station-hosted-by-slayers-tom-araya-and-kerry-king/",
+    "timestamp": "2026-10-08T16:17:52+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "With Black Sabbath, Slayer and Pantera tracks newly confirmed for it. The post ‘Grand Theft Auto VI’ To Feature An In-Game Metal Radio Station Hosted By Slayer’s Tom Araya And Kerry King appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/08/news/grand-theft-auto-vi-to-feature-an-in-game-metal-radio-station-hosted-by-slayers-tom-araya-and-kerry-king/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Uncle Junior Release Debut Single “Melt Me” After Building Their Reputation Onstage - That Eric Alper",
+    "src": "That Eric Alper",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUnhIVzVhSjkwX2tLY1Y2NGdRX25GQXZCZmtXSjFPay1iQ19FY3JWOUFuOUh1UUR1c0EzUFlQT1NMSWFIWmIzMTBwb1FQc01zZ1RvZEt2ZE9zMHc2cC1mRTl0UGdCV0pjbTNOeGdMS3ltYjBEelN1Nk80aGVtckdoUUhQRm16TG85YVl5cVBiUVdKQXB1YzJLRDNyQ0VFazZtbWtndVh1eTd3Unh0bzRnbkk3emVZc2ZGWThjdnB5MlI?oc=5",
+    "timestamp": "2026-10-08T16:06:10+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Uncle Junior Release Debut Single “Melt Me” After Building Their Reputation Onstage That Eric Alper",
+    "category": "core",
+    "sources": [
+      {
+        "name": "That Eric Alper",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUnhIVzVhSjkwX2tLY1Y2NGdRX25GQXZCZmtXSjFPay1iQ19FY3JWOUFuOUh1UUR1c0EzUFlQT1NMSWFIWmIzMTBwb1FQc01zZ1RvZEt2ZE9zMHc2cC1mRTl0UGdCV0pjbTNOeGdMS3ltYjBEelN1Nk80aGVtckdoUUhQRm16TG85YVl5cVBiUVdKQXB1YzJLRDNyQ0VFazZtbWtndVh1eTd3Unh0bzRnbkk3emVZc2ZGWThjdnB5MlI?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Zanjeer زنجیر - Majboor مجبور | Lyrics Video | Urdu Hardcore Punk from Berlin - YouTube",
+    "src": "YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uRzRpY3ZzNTRiV2s0Qk9qcElwYWQ1T0RIOTBTSDVrdUd3Y2hGNEU4SVpTWVhWd0YxYnRQTXlMQjctclRXNlk4dmlZZzdNVlQtdjkyOXNFbjlRSGo4?oc=5",
+    "timestamp": "2026-10-08T09:53:10+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Zanjeer زنجیر - Majboor مجبور | Lyrics Video | Urdu Hardcore Punk from Berlin YouTube",
+    "category": "core",
+    "sources": [
+      {
+        "name": "YouTube",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uRzRpY3ZzNTRiV2s0Qk9qcElwYWQ1T0RIOTBTSDVrdUd3Y2hGNEU4SVpTWVhWd0YxYnRQTXlMQjctclRXNlk4dmlZZzdNVlQtdjkyOXNFbjlRSGo4?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "They Are Gutting A Body Of Water – “illusion hue” (Feat. Toner) & “am i wrong” (Feat. A Country Western & Dead Sullivan)",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2513962/they-are-gutting-a-body-of-water-illusion-hue-feat-toner-am-i-wrong-feat-a-country-western-dead-sullivan/music/",
+    "timestamp": "2026-10-08T17:42:15+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "They Are Gutting A Body Of Water, the prolific Philly underground heroes, are always cooking up something. Next week, they'll release KOOL FAITH / LOOSIES II , a new guest-heavy 29 track mixtape that includes collaborations with people like RXKNephew, Greg Mendez, Spirit Of The Beehive, and Hotline TNT. When they annou",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2513962/they-are-gutting-a-body-of-water-illusion-hue-feat-toner-am-i-wrong-feat-a-country-western-dead-sullivan/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Classic Traffic – “Ghost’s Host”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2513958/classic-traffic-ghosts-host/music/",
+    "timestamp": "2026-10-08T17:26:27+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "\"Ghost's Host\": That's not a song title that I ever want to try to say out loud. It would be a disaster. Those words would trip all over themselves coming out of my mouth. But New Jersey power-pop stompers Classic Traffic are brave enough to use that impossible-to-pronounce title from their latest single, a bittersweet",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2513958/classic-traffic-ghosts-host/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Loretta Lynn’s Van Lear Rose Is Returning to Streaming",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/loretta-lynns-van-lear-rose-is-returning-to-streaming/",
+    "timestamp": "2026-10-08T17:21:59+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/loretta-lynns-van-lear-rose-is-returning-to-streaming/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Grand Theft Auto VI Radio Stations to Feature Bad Bunny, Robyn, and Lana Del Rey Alongside Her Husband",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/gta-6-radio-stations-hosts-details/",
+    "timestamp": "2026-10-08T17:18:00+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Slayer's Kerry King and Tom Araya, Burna Boy, Trick Daddy, and Morgan Wallen are among the other hosts. Grand Theft Auto VI Radio Stations to Feature Bad Bunny, Robyn, and Lana Del Rey Alongside Her Husband Eddie Fu",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/gta-6-radio-stations-hosts-details/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Watch Audrey Hobert Talk to a Redwood Tree in New “Phoebe” Video",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/audrey-hobert-phoebe-video/",
+    "timestamp": "2026-10-08T17:15:07+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/audrey-hobert-phoebe-video/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Joe Strummer’s Pre-Clash Output Collected on New Box Set The 101’ers Years",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/joe-strummer-box-set-the-101ers-years/",
+    "timestamp": "2026-10-08T17:14:18+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "The box set will be out November 20th via Dark Horse Records. Joe Strummer’s Pre-Clash Output Collected on New Box Set The 101’ers Years Langdon Hickman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/joe-strummer-box-set-the-101ers-years/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Jess Kerber – “Louisiana Song”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2513949/jess-kerber-louisiana-song/music/",
+    "timestamp": "2026-10-08T17:13:38+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "The house where you lived when you were a kid: Do you still live there? Does anyone in your family still live there? Is the house still standing? Last year, my wife's parents sold the house that the family inhabited for decades, and the person who bought it demolished the building and put a McMansion there. It was pret",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2513949/jess-kerber-louisiana-song/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Leon Bridges Announces 2027 “Happiness Anytime Tour”",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/leon-bridges-2027-north-american-tour/",
+    "timestamp": "2026-10-08T17:00:33+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Bridges' 29-date tour of the US and Canada arrives in support of his new album, Happiness Anytime. Leon Bridges Announces 2027 “Happiness Anytime Tour” Paolo Ragusa",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/leon-bridges-2027-north-american-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "David Byrne and Daniel Pemberton Made a Song Using Weird Elon Musk Quotes",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/david-byrne-and-daniel-pemberton-made-a-song-using-weird-elon-musk-quotes/",
+    "timestamp": "2026-10-08T16:53:33+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/david-byrne-and-daniel-pemberton-made-a-song-using-weird-elon-musk-quotes/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kyle Gordon takes viral music parodies on tour: 'You will never see another show like it' - KGW",
+    "src": "KGW",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONUtqeXB0aEk5N1N0M1ZaNldSSmxfYlc2WHNhRk1pSEY5cjNrVk05SG9zcFNHaFByT0VlLTUxbUxra1lOSXJXci1XelAyV3BpclJsSzFVdHhHT0lSd2lPVDEyZTJrOGJiUUNGSEZMNjFNSU11YnFaaVZXdXZzUnAzZDY5aC1oU2tWZzNlYUhBTlZuRHdpbHNySWZZQnlOcVdMV1FtNENMSkZkUWV4RjRSWmplVXV5WE5aOGR6dVFpY1UwNDd5eWU3cE5Obk9lUkVKdHZEaTFVZw?oc=5",
+    "timestamp": "2026-10-08T16:49:00+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Kyle Gordon takes viral music parodies on tour: 'You will never see another show like it' KGW",
+    "category": "general",
+    "sources": [
+      {
+        "name": "KGW",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONUtqeXB0aEk5N1N0M1ZaNldSSmxfYlc2WHNhRk1pSEY5cjNrVk05SG9zcFNHaFByT0VlLTUxbUxra1lOSXJXci1XelAyV3BpclJsSzFVdHhHT0lSd2lPVDEyZTJrOGJiUUNGSEZMNjFNSU11YnFaaVZXdXZzUnAzZDY5aC1oU2tWZzNlYUhBTlZuRHdpbHNySWZZQnlOcVdMV1FtNENMSkZkUWV4RjRSWmplVXV5WE5aOGR6dVFpY1UwNDd5eWU3cE5Obk9lUkVKdHZEaTFVZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Miley Cyrus’ new album ‘Bass Persuades’ makes US chart history as biggest drop from Number One debut",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/miley-cyrus-bass-persuades-chart-history-biggest-drop-number-one-3972705?utm_source=rss&utm_medium=rss&utm_campaign=miley-cyrus-bass-persuades-chart-history-biggest-drop-number-one",
+    "timestamp": "2026-10-08T16:35:45+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "The record has fallen 156 places on the Billboard 200 just one week after topping the chart The post Miley Cyrus’ new album ‘Bass Persuades’ makes US chart history as biggest drop from Number One debut appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/miley-cyrus-bass-persuades-chart-history-biggest-drop-number-one-3972705?utm_source=rss&utm_medium=rss&utm_campaign=miley-cyrus-bass-persuades-chart-history-biggest-drop-number-one"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Rookie Mistake Release Debut Album ‘Fields of Plenty’ - NYS Music",
+    "src": "NYS Music",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON2ZXZmo5OFJYcTVhSTZHTGZpUGZFZG1NVDFUa3lCbDkzRTNkVkxsYVVJdDZJdG9uWjdsSG1jX2lqRWFpSFhiVVh2eTZnZXlpdlc5SWtXWWpGT1ktUVczekJJTmhlRDhOc0Jkc3NRSVdUeWtHMDVPdDE4STBBMGZxRnVTdlFqYkZ6cURtag?oc=5",
+    "timestamp": "2026-10-08T16:33:00+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Rookie Mistake Release Debut Album ‘Fields of Plenty’ NYS Music",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NYS Music",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON2ZXZmo5OFJYcTVhSTZHTGZpUGZFZG1NVDFUa3lCbDkzRTNkVkxsYVVJdDZJdG9uWjdsSG1jX2lqRWFpSFhiVVh2eTZnZXlpdlc5SWtXWWpGT1ktUVczekJJTmhlRDhOc0Jkc3NRSVdUeWtHMDVPdDE4STBBMGZxRnVTdlFqYkZ6cURtag?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Keisha Chanté breaks silence on shocking Drake baby rumor - Rolling Out",
+    "src": "Rolling Out",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWeXVBYXZkclpvU050aE9UUnYxNG9vbUtDeDY5YTJEdm1rVzFNTkpJdkJCT01YNk1JZ0tJcmwzYTNaRGlyOWVMQ1lCVE1MaXJHS05PT1kxei1wNWNCRmZsd3UwbmJQdmMwVG1QVk91Qmw0aVM2LW40dEJNcGVyZ2M?oc=5",
+    "timestamp": "2026-10-08T16:25:44+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Keisha Chanté breaks silence on shocking Drake baby rumor Rolling Out",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Rolling Out",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWeXVBYXZkclpvU050aE9UUnYxNG9vbUtDeDY5YTJEdm1rVzFNTkpJdkJCT01YNk1JZ0tJcmwzYTNaRGlyOWVMQ1lCVE1MaXJHS05PT1kxei1wNWNCRmZsd3UwbmJQdmMwVG1QVk91Qmw0aVM2LW40dEJNcGVyZ2M?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Nikki Nair Announces New EP Majestic Animals: Hear “Groundhogs”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2513942/nikki-nair-announces-new-ep-majestic-animals-hear-groundhogs/music/",
+    "timestamp": "2026-10-08T16:15:18+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Over the last few years, Atlanta-based dance producer Nikki Nair has collaborated with people like Hudson Mohawke and the Avalanches . A couple of months ago, he released an EP called The Sick Dimension on dh2, George Daniel's dance-focused Dirty Hit imprint. Now, he's getting ready to release another EP on a different",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2513942/nikki-nair-announces-new-ep-majestic-animals-hear-groundhogs/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Great Barrington: Pete Francis to headline album release party - Berkshire eagle",
+    "src": "Berkshire eagle",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3FoaFlxeU9OV3JfLUNsVzRVOEF4V1hreGcwclRGeEoycDZRdG9rMHZxTkxOdFFRR09YNm1LZ1ducW5qSFZ4aFRYOEpuaWpSeUkzSmlJRmY5R3U2R0VEeHF0UHVQWjIzUTRYYldvTGxHSTZvNkJLbVZVZ0M0NHAtM0RKN09rdHFPYUlOS19CcmZTemV4dzFwMkZGaDBsT1EzUjEyT2lib1ZzV3BjMm1DU0hzNlVSZw?oc=5",
+    "timestamp": "2026-10-08T15:37:00+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Great Barrington: Pete Francis to headline album release party Berkshire eagle",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Berkshire eagle",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3FoaFlxeU9OV3JfLUNsVzRVOEF4V1hreGcwclRGeEoycDZRdG9rMHZxTkxOdFFRR09YNm1LZ1ducW5qSFZ4aFRYOEpuaWpSeUkzSmlJRmY5R3U2R0VEeHF0UHVQWjIzUTRYYldvTGxHSTZvNkJLbVZVZ0M0NHAtM0RKN09rdHFPYUlOS19CcmZTemV4dzFwMkZGaDBsT1EzUjEyT2lib1ZzV3BjMm1DU0hzNlVSZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Slow Release: Why Some Bands Are Dripping Singles Over 18 Months Instead of Dropping an Album - That Eric Alper",
+    "src": "That Eric Alper",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSDE4R214RGdVLUl4S0J2eUttaDNoYzhlVjU0X24tSFp2SDhDTnVlSXd6RGxoOFhfa05DYmJCOG9YOWF4NnhwNy1RYUVzNGVzYjktWjdvQjhKY2FPbmVET29RU3NxaDhvdDgzM0JxUW5pNmpPdlJteTRoX3NKOVFKMnVzV1pVcHpuYmtkMUs3bHNWOFM1WnhQQ2dWTFpUN1pWQlpnVE03N3MxcDRkQVIxdS1oM2I0RmhtY25aOTRVam9RYzJQZ295VjRFd1pfMW5MbW1vLQ?oc=5",
+    "timestamp": "2026-10-08T14:12:19+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "The Slow Release: Why Some Bands Are Dripping Singles Over 18 Months Instead of Dropping an Album That Eric Alper",
+    "category": "general",
+    "sources": [
+      {
+        "name": "That Eric Alper",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSDE4R214RGdVLUl4S0J2eUttaDNoYzhlVjU0X24tSFp2SDhDTnVlSXd6RGxoOFhfa05DYmJCOG9YOWF4NnhwNy1RYUVzNGVzYjktWjdvQjhKY2FPbmVET29RU3NxaDhvdDgzM0JxUW5pNmpPdlJteTRoX3NKOVFKMnVzV1pVcHpuYmtkMUs3bHNWOFM1WnhQQ2dWTFpUN1pWQlpnVE03N3MxcDRkQVIxdS1oM2I0RmhtY25aOTRVam9RYzJQZ295VjRFd1pfMW5MbW1vLQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Thom Yorke and Harry Styles Come Together in Epic Conversation - Rolling Stone",
+    "src": "Rolling Stone",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZmUxcFhIb1d5cU5NaGhadVZ2WW0tRV9XMUJxa3dDR1JJang1c0Q0SG1TOE03czZ1Sk1JX3RZZDhvdkFiZENBT0E2dnBhMVE5bm51cUFjcHlaNlR3YWdob0paOER0Ulk1TUJ1T1YxRVhpZHlMUlZNU2puVFlBY0l2YlhOd0lUazgyY2tGNVY0R2NZZlVQckl5UWFCOEtwUjFmbkpGaDRDZ3I4M1J0?oc=5",
+    "timestamp": "2026-10-08T13:00:00+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Thom Yorke and Harry Styles Come Together in Epic Conversation Rolling Stone",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Rolling Stone",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZmUxcFhIb1d5cU5NaGhadVZ2WW0tRV9XMUJxa3dDR1JJang1c0Q0SG1TOE03czZ1Sk1JX3RZZDhvdkFiZENBT0E2dnBhMVE5bm51cUFjcHlaNlR3YWdob0paOER0Ulk1TUJ1T1YxRVhpZHlMUlZNU2puVFlBY0l2YlhOd0lUazgyY2tGNVY0R2NZZlVQckl5UWFCOEtwUjFmbkpGaDRDZ3I4M1J0?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "O SWR Barroselas Metalfest anuncia primeira vaga de confirmações",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/o-swr-barroselas-metalfest-anuncia-primeira-vaga-de-confirmacoes/",
+    "timestamp": "2026-10-08T18:14:33+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "%featured_image% Sabbat, Sarcófago, Bölzer, Metalucifer e Hexvessel são alguns dos primeiros vinte nomes confirmados para o SWR Barroselas Metalfest 2027, que regressa a Barroselas entre 29 de abril e 2 de maio.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/o-swr-barroselas-metalfest-anuncia-primeira-vaga-de-confirmacoes/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Iolanda é da Figueira da Foz e lançou um álbum onde cabem avós, crenças e a música portuguesa - Notícias de Coimbra",
+    "src": "Notícias de Coimbra",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVFJZYVZDcmFLcG9iS2t4RExxZjQ5WXpDdGtsSjhnWlF3blJQX0xLMlQtRHNnSVpzZHowWGhUdnJCZFQ0R1N2UXJBYXk0OWdOd0pxR1BkZWNtQWx2VUh0WElQYktFZGYySHJUQW02eEJNQ2VDQ2VEVlJ2T29aaTBsY2NHV04wMldlV1ZxNFRkVzZlcHVHOUZVN21NUzhFOTViLTdFUzVaWmllamF4Rm9vby14Z2VqVWRpbWUyeTgzeDhTVlly?oc=5",
+    "timestamp": "2026-10-08T14:32:07+00:00",
+    "isoDate": "2026-10-08",
+    "date": "8 Out",
+    "d": "Iolanda é da Figueira da Foz e lançou um álbum onde cabem avós, crenças e a música portuguesa Notícias de Coimbra",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Notícias de Coimbra",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVFJZYVZDcmFLcG9iS2t4RExxZjQ5WXpDdGtsSjhnWlF3blJQX0xLMlQtRHNnSVpzZHowWGhUdnJCZFQ0R1N2UXJBYXk0OWdOd0pxR1BkZWNtQWx2VUh0WElQYktFZGYySHJUQW02eEJNQ2VDQ2VEVlJ2T29aaTBsY2NHV04wMldlV1ZxNFRkVzZlcHVHOUZVN21NUzhFOTViLTdFUzVaWmllamF4Rm9vby14Z2VqVWRpbWUyeTgzeDhTVlly?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Villagers of Ioannina City",
+    "t": "Venceremos Review",
+    "src": "Angry Metal Guy",
+    "date": "8 Out",
+    "isoDate": "2026-10-08",
+    "timestamp": "2026-10-08T16:40:11+00:00",
+    "url": "https://www.angrymetalguy.com/villagers-of-ioannina-city-venceremos-review/",
+    "d": "\"It's been seven years since Villagers of Ioannina City released the incredible Age of Aquarius , and six since I first heard it. It hasn't left my regular rotation since, helped by an absolutely crazy live show at 229 in London in 2022. But the world is a dif",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "villagers of ioannina city|venceremos review",
+    "kind": "review",
+    "section": "rev"
   },
   {
     "title": "Kareena Kapoor Khan Reportedly Joins Shah Rukh Khan’s King for Special Song - Bollywood Mascot",
@@ -8442,10 +9363,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -8968,6 +9889,56 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Craig Morgan to release 'My Country' album in tandem with Veterans Day 5K benefiting military charities - KECO 96.5FM",
+    "src": "KECO 96.5FM",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQejJWdTdvclhFWEdGS1l6Vmg3SGQ0LTlNcEFwcm1jYmpkNU5lcFhuNC1FQnQwNlUtY25oMDBPUmszM2xZMXh0eDdNX3pmODdwUmlibnA1dm5naWwyeEh1V3hIVzZ6dnF6RHp5V0NaVThONWZOb1o1TUhqZzZ0dkZpbVZNLTFuWHVBOU5KN0hPWXZOVzhmY2g2dWx4WXlpa25lNGJnZkJ4amU2V0VPRzU3QVFnLVNmRTZQQ01wX1MwWHU5ZnJXMkJQNy1rOGU4ODB5ekIyS1ZoWQ?oc=5",
+    "timestamp": "2026-10-07T20:02:25+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "Craig Morgan to release 'My Country' album in tandem with Veterans Day 5K benefiting military charities KECO 96.5FM",
+    "category": "general",
+    "sources": [
+      {
+        "name": "KECO 96.5FM",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQejJWdTdvclhFWEdGS1l6Vmg3SGQ0LTlNcEFwcm1jYmpkNU5lcFhuNC1FQnQwNlUtY25oMDBPUmszM2xZMXh0eDdNX3pmODdwUmlibnA1dm5naWwyeEh1V3hIVzZ6dnF6RHp5V0NaVThONWZOb1o1TUhqZzZ0dkZpbVZNLTFuWHVBOU5KN0hPWXZOVzhmY2g2dWx4WXlpa25lNGJnZkJ4amU2V0VPRzU3QVFnLVNmRTZQQ01wX1MwWHU5ZnJXMkJQNy1rOGU4ODB5ekIyS1ZoWQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "DARKEST HOUR release latest single \"Suffer Divine\" along with official music video - Lambgoat",
+    "src": "Lambgoat",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0hyMzExUUx5VFlkcHo4aTNYaHZraWpOem84ZVZDdXBfOVVMQm5iWmUwUVRWcDZ3cWZGRkl3Z2hya1VaaWl5VjBvLThjT2tjZmc2anRfdmxvb1lVMlRXMjN5NUYwOHBJQ0lDNnVzaG9KYkJKWjNBS0dJRXVZSldOOHhIeDJZTEp0S25palIxSENaOUhjbEN1TllxbENXR2p4RUZHVk9VR2RUNUJfQ2x5UzVsMA?oc=5",
+    "timestamp": "2026-10-07T13:38:00+00:00",
+    "isoDate": "2026-10-07",
+    "date": "7 Out",
+    "d": "DARKEST HOUR release latest single \"Suffer Divine\" along with official music video Lambgoat",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Lambgoat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0hyMzExUUx5VFlkcHo4aTNYaHZraWpOem84ZVZDdXBfOVVMQm5iWmUwUVRWcDZ3cWZGRkl3Z2hya1VaaWl5VjBvLThjT2tjZmc2anRfdmxvb1lVMlRXMjN5NUYwOHBJQ0lDNnVzaG9KYkJKWjNBS0dJRXVZSldOOHhIeDJZTEp0S25palIxSENaOUhjbEN1TllxbENXR2p4RUZHVk9VR2RUNUJfQ2x5UzVsMA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
   },
   {
     "title": "Sia Reportedly Sells Rights to Half of Her Music Catalog for $180 Million - Complex",
@@ -14796,7 +15767,7 @@
     "title": "Staten Island’s Punk Rock Mini Golf brings music, art and a tribute to local performer Andy Mac (46 photos) - SILive.com",
     "src": "SILive.com",
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVjlTRk1fTE1QZmJnb21BY1p2MW1tLVB5QmN5aHRET1Rid0Etd1NCRlFwRU0zN2Y4UmRwN2FUWXM4cUg4RFNCTm9XRkpCWnc5QS1hYS02b2x6N25jWVd6eXVTZEMyZFo0eTQ5N0k2S3JzazJSSkRDbjZ4V1Z3X2tibjV3bEdDZERmX1l1azBIVDlRTnpNWmxCRHpKN1V0TUJMZjBWQm0xVzZwM0xRc1RiMWFOWmxVXzFsMWNzSjVTc050MzdIY0tuNUtka0c3QllrbHJvZ3AtVEZmNElNQktiUXl5RFBWR1k3?oc=5",
-    "timestamp": "2026-10-05T02:01:00+00:00",
+    "timestamp": "2026-10-05T02:08:00+00:00",
     "isoDate": "2026-10-05",
     "date": "5 Out",
     "d": "Staten Island’s Punk Rock Mini Golf brings music, art and a tribute to local performer Andy Mac (46 photos) SILive.com",
@@ -32323,6 +33294,48 @@
       }
     ],
     "mbid": "dd8ff6e2-0728-47e8-afd3-775236933d81",
+    "star": false,
+    "kind": "release",
+    "section": "main"
+  },
+  {
+    "b": "Kodaline",
+    "t": "We Were Only Young",
+    "g": "rock",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "2 Out",
+    "isoDate": "2026-10-02",
+    "url": "https://musicbrainz.org/release-group/a2767739-ccd3-43ee-95fd-c6d5985bab3e",
+    "d": "rock",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/a2767739-ccd3-43ee-95fd-c6d5985bab3e"
+      }
+    ],
+    "mbid": "a2767739-ccd3-43ee-95fd-c6d5985bab3e",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "ovxrnov",
+    "t": "Cryostasis",
+    "g": "electro",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "2 Out",
+    "isoDate": "2026-10-02",
+    "url": "https://musicbrainz.org/release-group/5bc6677f-6691-4ec8-90fd-67a2138113d0",
+    "d": "electronic, edm",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/5bc6677f-6691-4ec8-90fd-67a2138113d0"
+      }
+    ],
+    "mbid": "5bc6677f-6691-4ec8-90fd-67a2138113d0",
     "star": false,
     "kind": "release",
     "section": "main"
