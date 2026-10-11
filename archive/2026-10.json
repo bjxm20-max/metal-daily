@@ -67,10 +67,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -92,10 +92,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -267,10 +267,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -292,10 +292,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -317,10 +317,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -707,10 +707,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -957,10 +957,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1028,6 +1028,537 @@
     "releaseKey": "golgothan|offering review",
     "kind": "review",
     "section": "rev"
+  },
+  {
+    "b": "Wage War",
+    "t": "Landfall",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "11 Out",
+    "isoDate": "2026-10-11",
+    "url": "https://alterportal.net/2026_albums/190508-wage-war-landfall-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190508-wage-war-landfall-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Skillet",
+    "t": "After The Storm (ЕР)",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "11 Out",
+    "isoDate": "2026-10-11",
+    "url": "https://alterportal.net/2026_albums/190495-skillet-after-the-storm-er-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190495-skillet-after-the-storm-er-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Gore.",
+    "t": "...Then You Cannot Love Me",
+    "g": "heavy",
+    "fmt": "EP",
+    "lbl": "Alterportal",
+    "date": "11 Out",
+    "isoDate": "2026-10-11",
+    "url": "https://alterportal.net/2026_albums/190494-gore-then-you-cannot-love-me-ep-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190494-gore-then-you-cannot-love-me-ep-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "April Art",
+    "t": "Red",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "11 Out",
+    "isoDate": "2026-10-11",
+    "url": "https://alterportal.net/2026_albums/190491-april-art-red-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190491-april-art-red-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "The Number Twelve Looks Like You",
+    "t": "Howls From The Holographic Heart",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "11 Out",
+    "isoDate": "2026-10-11",
+    "url": "https://alterportal.net/2026_albums/190530-the-number-twelve-looks-like-you-howls-from-the-holographic-heart-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190530-the-number-twelve-looks-like-you-howls-from-the-holographic-heart-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Rise Among Rivals",
+    "t": "Something Chemical",
+    "g": "rock",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "11 Out",
+    "isoDate": "2026-10-11",
+    "url": "https://alterportal.net/alternative/190532-rise-among-rivals-something-chemical-single-2026.html",
+    "d": "Alternative Metal / Modern Rock",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190532-rise-among-rivals-something-chemical-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "NORTH OF SILENCE",
+    "t": "You Went First",
+    "g": "prog",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "11 Out",
+    "isoDate": "2026-10-11",
+    "url": "https://musicbrainz.org/release-group/9c46ecb3-68f2-4dd7-b021-dd3428176166",
+    "d": "progressive metal, metal, orchestral, dark ambient, cinematic",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/9c46ecb3-68f2-4dd7-b021-dd3428176166"
+      }
+    ],
+    "mbid": "9c46ecb3-68f2-4dd7-b021-dd3428176166",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Lake Malice",
+    "t": "I Wanna Know If It's Real",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "11 Out",
+    "isoDate": "2026-10-11",
+    "url": "https://alterportal.net/2026_albums/190533-lake-malice-i-wanna-know-if-its-real-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190533-lake-malice-i-wanna-know-if-its-real-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Aethoria",
+    "t": "Fool's Gold",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "11 Out",
+    "isoDate": "2026-10-11",
+    "url": "https://alterportal.net/2026_albums/190531-aethoria-fools-gold-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190531-aethoria-fools-gold-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "Dave Lombardo - 'Reign in Blood' Still 'Gives Me the Chills'",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/dave-lombardo-slayer-reign-in-blood-gives-me-chills/",
+    "timestamp": "2026-10-11T16:20:39+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "The former Slayer drummer reflects on the band's third LP (which turns 40 this year); his love of thrash metal; and the legacy of late guitarist Jeff Hanneman. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/dave-lombardo-slayer-reign-in-blood-gives-me-chills/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch: Ghost's Tobias Forge Revives His Old Death Metal Band For New Movie",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/watch-ghosts-tobias-forge-revives-his-old-death-metal-band-for-new-movie",
+    "timestamp": "2026-10-11T15:56:11+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "Long before the papal robes and arena singalongs, Ghost head-honcho Tobias Forge was a death metal kid from Stockholm. Now, for the first time in decades, that kid has come […] The post Watch: Ghost's Tobias Forge Revives His Old Death Metal Band For New Movie appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/watch-ghosts-tobias-forge-revives-his-old-death-metal-band-for-new-movie"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch: UNLEASHED Pays Tribute To Late VENOM Frontman CRONOS With 'Countess Bathory' Cover In Athens",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/watch-unleashed-pays-tribute-to-late-venom-frontman-cronos-with-countess-bathory-cover-in-athens",
+    "timestamp": "2026-10-11T15:33:07+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "Swedish death metal veterans UNLEASHED paid tribute to VENOM frontman Conrad \"Cronos\" Lant by playing a cover version of the VENOM classic \"Countess Bathory\" during UNLEASHED's October 7 concert at Gagarin 205 in Athens, Greece. Fan-filmed video of the performance can be seen below. On October 2, th...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/watch-unleashed-pays-tribute-to-late-venom-frontman-cronos-with-countess-bathory-cover-in-athens"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch Castle Rat's Entire Bloodstock Festival Set In New Pro-Shot Footage",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/watch-castle-rats-entire-bloodstock-festival-set-in-new-pro-shot-footage",
+    "timestamp": "2026-10-11T14:52:46+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "Pro-shot footage of drama club headbangers Castle Rat’s entire Bloodstock Open Air 2026 set is now online, capturing the weekend’s most unabashedly theatrical performances in all of its overwrought glory. […] The post Watch Castle Rat's Entire Bloodstock Festival Set In New Pro-Shot Footage appeared first on Metal Inje",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/watch-castle-rats-entire-bloodstock-festival-set-in-new-pro-shot-footage"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Mike Love Rejoins The Beach Boys on Stage Amid Health Issues",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/mike-love-beach-boys-live-comeback-health-issues/",
+    "timestamp": "2026-10-11T17:02:00+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "Love looked frail as he walked on the stage with assistance and remained seated throughout the performance. Mike Love Rejoins The Beach Boys on Stage Amid Health Issues Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/mike-love-beach-boys-live-comeback-health-issues/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Frank Carter Curses Out Man Who Crashed Women-Only Sex Pistols Mosh Pit",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514265/frank-carter-curses-out-man-who-crashed-female-only-sex-pistols-mosh-pit/news/",
+    "timestamp": "2026-10-11T16:59:36+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "This is the world we live in: there's always one asshole. There's always one person who's holding the world back from peace or equality or common human decency and universal respect. On Friday, that one asshole existed at the Sex Pistols gig, featuring Frank Carter, at Denver, CO's Ogden Theatre, who had a problem with",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514265/frank-carter-curses-out-man-who-crashed-female-only-sex-pistols-mosh-pit/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Charli XCX Brings Out Tinashe at Austin City Limits Festival",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/charli-xcx-brings-out-tinashe-at-austin-city-limits/",
+    "timestamp": "2026-10-11T16:30:44+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/charli-xcx-brings-out-tinashe-at-austin-city-limits/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Rosalía Brings Lux To SNL, Appears In Sketch About Jelly Roll Playing Sphere",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514249/rosalia-brings-lux-to-snl-appears-in-sketch-about-jelly-roll-playing-sphere/news/",
+    "timestamp": "2026-10-11T15:51:56+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "Last night (Oct. 10), Rosalía was the musical guest with Shane Gillis as host on SNL . It was nice to see the angelic pop star return; she last performed on the show in March 2022 and joined Bad Bunny's performance in 2021. She sang \"Reliquia\" and \"Magnolias\" from her excellent 2025 album Lux . Both were absolutely stu",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514249/rosalia-brings-lux-to-snl-appears-in-sketch-about-jelly-roll-playing-sphere/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Milwaukee's Ellie Jackson unveils new album at Cactus Club - Milwaukee Journal Sentinel",
+    "src": "Milwaukee Journal Sentinel",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVWxzZTM3ZkZyeVU0N2tHR2N0NE5iVHJkSDg3VGZMalgxUHUxOTBuUXRTS0NCYTR6cVRiVTM4LVQ2U29WaUFINWl4WTM4LWRaeVBYeEdzdHZhY3owekJsWTB3Qm9EVk9Yc0h2R0xxUG9ibnhXdzRYdDJ1YWVGb0hBVFJMUDBEdjJrd2tmSkNQNTVoOHlUOFRpVFNjUHJ4cUdiM0tRc0pDbFVfVlpOTGdMY242ZkZCd0FXUDVldWlqckowUDM3LXZVazVyQ0hBMDdjNGlCbEVoSEN5UjI5Mnc?oc=5",
+    "timestamp": "2026-10-11T13:34:00+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "Milwaukee's Ellie Jackson unveils new album at Cactus Club Milwaukee Journal Sentinel",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Milwaukee Journal Sentinel",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVWxzZTM3ZkZyeVU0N2tHR2N0NE5iVHJkSDg3VGZMalgxUHUxOTBuUXRTS0NCYTR6cVRiVTM4LVQ2U29WaUFINWl4WTM4LWRaeVBYeEdzdHZhY3owekJsWTB3Qm9EVk9Yc0h2R0xxUG9ibnhXdzRYdDJ1YWVGb0hBVFJMUDBEdjJrd2tmSkNQNTVoOHlUOFRpVFNjUHJ4cUdiM0tRc0pDbFVfVlpOTGdMY242ZkZCd0FXUDVldWlqckowUDM3LXZVazVyQ0hBMDdjNGlCbEVoSEN5UjI5Mnc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘We look like soft, made-up blokes, but we’re really tough’: Duran Duran on 80s excess, tabloid scrutiny and their Halloween glow-up - The Guardian",
+    "src": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQelpuOHVESW15a2tkdjA0ejB3ZmNxTDJ6UVBkclZEZVhmV2pPb2Z3UlkwUGtOVzQ2ODdzRVlOakpDUmNxRGg1ZFBzLXRIaUxSNE1UbDNZY2k1R0hfa1d2dmRFQTlrcGFXc0JxdFZUOWFKV3hTVnBoOGMyQzJ0MGI5MUNLSUZmb015OGM2MFdYMEhfSWNfZUtRMGtWckJqd19IRXc?oc=5",
+    "timestamp": "2026-10-11T13:23:00+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "‘We look like soft, made-up blokes, but we’re really tough’: Duran Duran on 80s excess, tabloid scrutiny and their Halloween glow-up The Guardian",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQelpuOHVESW15a2tkdjA0ejB3ZmNxTDJ6UVBkclZEZVhmV2pPb2Z3UlkwUGtOVzQ2ODdzRVlOakpDUmNxRGg1ZFBzLXRIaUxSNE1UbDNZY2k1R0hfa1d2dmRFQTlrcGFXc0JxdFZUOWFKV3hTVnBoOGMyQzJ0MGI5MUNLSUZmb015OGM2MFdYMEhfSWNfZUtRMGtWckJqd19IRXc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ringo Starr Closes Tour at Palace Theatre Albany - NYS Music",
+    "src": "NYS Music",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS1pEQzl3WTNnNWQxLXd5cXUtRXpGMW1YdWxadklTVnJiOUg5X0FNUFFoRWdETlFKWTJjZmNuenIzenBfRTlCNFJpS05RanNEMVJ2dDYwWlJUVFQ1a0hMbGlYY2trR180TXRXZTl5Q3FoUzlPT2tMOVZBMnJIdlBhVnVzeWloNzEx?oc=5",
+    "timestamp": "2026-10-11T04:11:00+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "Ringo Starr Closes Tour at Palace Theatre Albany NYS Music",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NYS Music",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS1pEQzl3WTNnNWQxLXd5cXUtRXpGMW1YdWxadklTVnJiOUg5X0FNUFFoRWdETlFKWTJjZmNuenIzenBfRTlCNFJpS05RanNEMVJ2dDYwWlJUVFQ1a0hMbGlYY2trR180TXRXZTl5Q3FoUzlPT2tMOVZBMnJIdlBhVnVzeWloNzEx?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Desolated + Soul Crusher + Peixaranha – Fotos | 01.10.2026",
+    "src": "Caminhos Metálicos",
+    "url": "https://www.caminhosmetalicos.com/reportagens-2026/desolated-soul-crusher-peixaranha-fotos-01-10-2026/",
+    "timestamp": "2026-10-11T16:16:57+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "O conteúdo Desolated + Soul Crusher + Peixaranha – Fotos | 01.10.2026 aparece primeiro em Caminhos Metálicos .",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Caminhos Metálicos",
+        "url": "https://www.caminhosmetalicos.com/reportagens-2026/desolated-soul-crusher-peixaranha-fotos-01-10-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Marina Sena: “Minha visão de quem eu sou muda muito quando estou em Portugal” - Público",
+    "src": "Público",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeUM1MHV4Z3JfYlFoRWpnQ0lFNEVHcm5yS29YSUY2SURPV2xxa2Z6d0Z6bG15ejhnOEhmWm1JRVVPV3hjYmFuZ2NndTNyeVVfZ181aHVhWlNOV3Z3V2h1dTk1VGNHV0pfaHhNQUtDLVE2Z2dYS0hBN05EaWhxelZHMzZOTnZPWXVKc1Y3Q2VxVVU4aWs4RTVzU0pldno?oc=5",
+    "timestamp": "2026-10-11T15:27:15+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "Marina Sena: “Minha visão de quem eu sou muda muito quando estou em Portugal” Público",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Público",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeUM1MHV4Z3JfYlFoRWpnQ0lFNEVHcm5yS29YSUY2SURPV2xxa2Z6d0Z6bG15ejhnOEhmWm1JRVVPV3hjYmFuZ2NndTNyeVVfZ181aHVhWlNOV3Z3V2h1dTk1VGNHV0pfaHhNQUtDLVE2Z2dYS0hBN05EaWhxelZHMzZOTnZPWXVKc1Y3Q2VxVVU4aWs4RTVzU0pldno?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "“Conheci o Caetano Veloso por acaso numa rua de Salvador. Era uma tarde de sol, típica da Bahia. Ficámos logo amigos” - Expresso",
+    "src": "Expresso",
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQOHY1b3ZIS3NtWFl4Qy1sVXlMeTZyY1ZnQkxrZ1B4cEJzX0JWcWdtNElON1lxdmRsYk5PbDdTM0FUQ1dGVGYzazhIdm5fM3h0QlZBNkFtdjk1TElNd2ZGYUNkX0diYV9FRU9nMUxpX2JfMUtCV09SWGtueS1BTTdGQ1docEY2UTd3ekFHS3pveUpqNHJ0MThXMm1vX1pWTENhNEVmQ2lGM0gwR2F5VHdHc081YTdWTGJKc0l2cWxxVEo0cEo3SF9DbnFDcndxOGNla2tYZkV1UXJHRnp6LVIzYnllRDlkUXZxTjNoQkZIVWM0V2pEZmJYYlVoalhibEdta2YxS092V0NkZnlYejNJ?oc=5",
+    "timestamp": "2026-10-11T13:00:00+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "“Conheci o Caetano Veloso por acaso numa rua de Salvador. Era uma tarde de sol, típica da Bahia. Ficámos logo amigos” Expresso",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Expresso",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQOHY1b3ZIS3NtWFl4Qy1sVXlMeTZyY1ZnQkxrZ1B4cEJzX0JWcWdtNElON1lxdmRsYk5PbDdTM0FUQ1dGVGYzazhIdm5fM3h0QlZBNkFtdjk1TElNd2ZGYUNkX0diYV9FRU9nMUxpX2JfMUtCV09SWGtueS1BTTdGQ1docEY2UTd3ekFHS3pveUpqNHJ0MThXMm1vX1pWTENhNEVmQ2lGM0gwR2F5VHdHc081YTdWTGJKc0l2cWxxVEo0cEo3SF9DbnFDcndxOGNla2tYZkV1UXJHRnp6LVIzYnllRDlkUXZxTjNoQkZIVWM0V2pEZmJYYlVoalhibEdta2YxS092V0NkZnlYejNJ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "title": "Geordie Greep Denies Rape Allegation During Vancouver Concert [Updated]",
@@ -3041,6 +3572,31 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Bigg Boss 20: Is Parul Panghal Set To Enter As Wildcard Contestant? Who Is The Haryanvi Music Video Star – Know Her Age, Career, Followers And More - The Sunday Guardian",
+    "src": "The Sunday Guardian",
+    "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQWUktRmFnQ3NyV1dlZmpaNW5tcjdsdk03RVhvMWhRLTVoZmZiWXM0bHVDOE53b1hzSGdVWktHdm5uOVNNNnQ5bWNfMWtoeUJ1SEE4TDlRdkthRVhrTV92ZGVFdm9pSlljbU5WQXVFQnRMMHNtWXJhRnRZUHViN1ZTenFjM2Frc1BRMmgwNnJHN2FTQXlBLXpUOGtqVWJ6REJWMkJ0cHFqb2loTW5Eclc4SFR6RG1HZmVmVTdacmFrRmJxQ2JlQXpEaXo3LXpIck9XdUZSVi0zbWd5VWxRU0RlbTlLNHlxa0dXTmNCV0JkNk1jbFNRRWk5LUp0cVlCbE5qNGZ0LUhpRkdhX3NEQ1RhUG04bkViMzlmektlcFg2Q1lrdmI0VGNHdWdzU21zZ05wT2FEeU1NOHZMeG_SAcACQVVfeXFMT05CcEJyay1tT21zallLcUFqOE5RcElpRkdvbXhLa3h2dk9zVkVqNHAtZ184YWQ0VkFjRV9EU1RTZlpuT0VhMC1tUFplU2wxSkpEZjdqV09wejV4NkZFd2pJelhPcVVGTmtDSVJpQU00NnhoTENUZGtyTmhkWV8wdkNRTEMwZjg4V2hnMlBJM0ZiVC0tR3ZVdHJNVUR1MzVEbjRCQXdBeUwxVVhHaEhBVmgzMWNPMUJWMUtVU01mUy1FWDRZNF92TnBackRRdXRIelB5UGQtMDB5SndHaEVISTNqZVRBcHRiRTRmZExwOGkzTHRKT2JEQzhEWHZtNEpVSkRibmlXa2RDRGxZanN3SjdDcDFkWFFkdGtXWWxURWUxQzJHX2dIWTBrRlk3MVVfZ3pGbVRZcHM4YVhPTjNqVWs?oc=5",
+    "timestamp": "2026-10-10T18:17:04+00:00",
+    "isoDate": "2026-10-10",
+    "date": "10 Out",
+    "d": "Bigg Boss 20: Is Parul Panghal Set To Enter As Wildcard Contestant? Who Is The Haryanvi Music Video Star – Know Her Age, Career, Followers And More The Sunday Guardian",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Sunday Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQWUktRmFnQ3NyV1dlZmpaNW5tcjdsdk03RVhvMWhRLTVoZmZiWXM0bHVDOE53b1hzSGdVWktHdm5uOVNNNnQ5bWNfMWtoeUJ1SEE4TDlRdkthRVhrTV92ZGVFdm9pSlljbU5WQXVFQnRMMHNtWXJhRnRZUHViN1ZTenFjM2Frc1BRMmgwNnJHN2FTQXlBLXpUOGtqVWJ6REJWMkJ0cHFqb2loTW5Eclc4SFR6RG1HZmVmVTdacmFrRmJxQ2JlQXpEaXo3LXpIck9XdUZSVi0zbWd5VWxRU0RlbTlLNHlxa0dXTmNCV0JkNk1jbFNRRWk5LUp0cVlCbE5qNGZ0LUhpRkdhX3NEQ1RhUG04bkViMzlmektlcFg2Q1lrdmI0VGNHdWdzU21zZ05wT2FEeU1NOHZMeG_SAcACQVVfeXFMT05CcEJyay1tT21zallLcUFqOE5RcElpRkdvbXhLa3h2dk9zVkVqNHAtZ184YWQ0VkFjRV9EU1RTZlpuT0VhMC1tUFplU2wxSkpEZjdqV09wejV4NkZFd2pJelhPcVVGTmtDSVJpQU00NnhoTENUZGtyTmhkWV8wdkNRTEMwZjg4V2hnMlBJM0ZiVC0tR3ZVdHJNVUR1MzVEbjRCQXdBeUwxVVhHaEhBVmgzMWNPMUJWMUtVU01mUy1FWDRZNF92TnBackRRdXRIelB5UGQtMDB5SndHaEVISTNqZVRBcHRiRTRmZExwOGkzTHRKT2JEQzhEWHZtNEpVSkRibmlXa2RDRGxZanN3SjdDcDFkWFFkdGtXWWxURWUxQzJHX2dIWTBrRlk3MVVfZ3pGbVRZcHM4YVhPTjNqVWs?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
   },
   {
     "title": "Benefit concert brings Make-A-Wish families and jam band fans together in South Burlington - WPTZ",
@@ -10728,6 +11284,56 @@
     "section": "pt"
   },
   {
+    "title": "Linkin Park | Early Years, Music, Albums, Songs, Awards and Honors, Chester Bennington Death, & Comeback - Britannica",
+    "src": "Britannica",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RWjdhc1padUIwdTVWUFdGMWliSVpKVUJXcHBWQUh5QXMySVpTX211NDRqOVZsZkQwLVlNTmZlVlFZZGZGajZvMGdWc3pKTjVJVG5TSGVtWQ?oc=5",
+    "timestamp": "2026-10-09T05:00:00+00:00",
+    "isoDate": "2026-10-09",
+    "date": "9 Out",
+    "d": "Linkin Park | Early Years, Music, Albums, Songs, Awards and Honors, Chester Bennington Death, & Comeback Britannica",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Britannica",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RWjdhc1padUIwdTVWUFdGMWliSVpKVUJXcHBWQUh5QXMySVpTX211NDRqOVZsZkQwLVlNTmZlVlFZZGZGajZvMGdWc3pKTjVJVG5TSGVtWQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Judas Priest Bassist Ian Hill Announces His Retirement - AOL.com",
+    "src": "AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05bDNya0tDSVNUUk5WY3hQYm43WVlyUnRjeFZVUzU2Q1ZnR3loZ01CaWpjVnlyZTZlelJ3NlgwTUhSc1E2bXNzaEw1VmFzdWRid01jZmhuZGd6N1RjTE1rQ3MxbzZ2RkhMRlRscUlybkJocjEyLTlDVWtEZkY1dw?oc=5",
+    "timestamp": "2026-10-09T13:36:16+00:00",
+    "isoDate": "2026-10-09",
+    "date": "9 Out",
+    "d": "Judas Priest Bassist Ian Hill Announces His Retirement AOL.com",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05bDNya0tDSVNUUk5WY3hQYm43WVlyUnRjeFZVUzU2Q1ZnR3loZ01CaWpjVnlyZTZlelJ3NlgwTUhSc1E2bXNzaEw1VmFzdWRid01jZmhuZGd6N1RjTE1rQ3MxbzZ2RkhMRlRscUlybkJocjEyLTlDVWtEZkY1dw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
     "title": "Westside Cowboy Play Brooklyn: Backstage and In the Crowd - Rolling Stone",
     "src": "Rolling Stone",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMFZEQkZ5b1F6M1ZtVDJCVHNPS0Y1OEMwZVZTRjZPLUFQb3ZuQTF0VUp1YlhTWnE4b3hLd0JuUFJ0VnhNclU1eDhpZjZhT3h3ZGQ3eHNwSmVBZXNNR0Iwdy12amFSbF95ZVJDN2ZDMkJhZXp2VW9fcF9IenNvdTR2aDAyeFR1Zjl4TWduVWhVVl8xcUFaQi1VTw?oc=5",
@@ -15922,26 +16528,6 @@
     "section": "alter"
   },
   {
-    "b": "Wage War",
-    "t": "Landfall",
-    "g": "heavy",
-    "fmt": "Album",
-    "lbl": "Alterportal",
-    "date": "8 Out",
-    "isoDate": "2026-10-08",
-    "url": "https://alterportal.net/2026_albums/190508-wage-war-landfall-2026.html",
-    "d": "Стиль:",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/2026_albums/190508-wage-war-landfall-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
     "b": "unpeople",
     "t": "we are unpeople",
     "g": "heavy",
@@ -16015,26 +16601,6 @@
       {
         "name": "Alterportal",
         "url": "https://alterportal.net/2026_albums/190509-sueco-partys-over-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
-    "b": "Skillet",
-    "t": "After The Storm (ЕР)",
-    "g": "heavy",
-    "fmt": "Album",
-    "lbl": "Alterportal",
-    "date": "8 Out",
-    "isoDate": "2026-10-08",
-    "url": "https://alterportal.net/2026_albums/190495-skillet-after-the-storm-er-2026.html",
-    "d": "Стиль:",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/2026_albums/190495-skillet-after-the-storm-er-2026.html"
       }
     ],
     "alterportal": true,
@@ -16282,26 +16848,6 @@
     "section": "alter"
   },
   {
-    "b": "Gore.",
-    "t": "...Then You Cannot Love Me",
-    "g": "heavy",
-    "fmt": "EP",
-    "lbl": "Alterportal",
-    "date": "8 Out",
-    "isoDate": "2026-10-08",
-    "url": "https://alterportal.net/2026_albums/190494-gore-then-you-cannot-love-me-ep-2026.html",
-    "d": "Стиль:",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/2026_albums/190494-gore-then-you-cannot-love-me-ep-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
     "b": "Div3r",
     "t": "Bad Cry Loud",
     "g": "heavy",
@@ -16335,26 +16881,6 @@
       {
         "name": "Alterportal",
         "url": "https://alterportal.net/2026_albums/190510-dawn-of-demise-feed-my-absurdity-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
-    "b": "April Art",
-    "t": "Red",
-    "g": "heavy",
-    "fmt": "Album",
-    "lbl": "Alterportal",
-    "date": "8 Out",
-    "isoDate": "2026-10-08",
-    "url": "https://alterportal.net/2026_albums/190491-april-art-red-2026.html",
-    "d": "Стиль:",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/2026_albums/190491-april-art-red-2026.html"
       }
     ],
     "alterportal": true,
@@ -16561,31 +17087,6 @@
     "star": false,
     "kind": "release",
     "section": "recent"
-  },
-  {
-    "title": "Linkin Park | Early Years, Music, Albums, Songs, Awards and Honors, Chester Bennington Death, & Comeback - Britannica",
-    "src": "Britannica",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RWjdhc1padUIwdTVWUFdGMWliSVpKVUJXcHBWQUh5QXMySVpTX211NDRqOVZsZkQwLVlNTmZlVlFZZGZGajZvMGdWc3pKTjVJVG5TSGVtWQ?oc=5",
-    "timestamp": "2026-10-08T05:00:00+00:00",
-    "isoDate": "2026-10-08",
-    "date": "8 Out",
-    "d": "Linkin Park | Early Years, Music, Albums, Songs, Awards and Honors, Chester Bennington Death, & Comeback Britannica",
-    "category": "metal",
-    "sources": [
-      {
-        "name": "Britannica",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RWjdhc1padUIwdTVWUFdGMWliSVpKVUJXcHBWQUh5QXMySVpTX211NDRqOVZsZkQwLVlNTmZlVlFZZGZGajZvMGdWc3pKTjVJVG5TSGVtWQ?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "news"
   },
   {
     "title": "Remi Wolf 'Mud' Album Release Party in LA: How to RSVP - Grimy Goods",
@@ -33773,6 +34274,31 @@
       {
         "name": "Público",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOczA0dWc2SVpuU1FiaENBTTJ5SG9LOTRwb0hCZDNNZ2lFTkY2QkM4UWRnMGpxUUgzeFJkRVBtT3Zwd2ZfYkd0NXk5Q3BoZC1XTE5qZkl4MmJjbnpqUVVqX1Mxd0VLcVVDWW1nNXJUTHkySlpUZy1tdDU5ZTk3UkE3dDlheU1fRjFTQkFLd1dxOTQ0d3VxVjZxSUdDSQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "O Tesouro dos últimos Reis e Rainhas de Portugal - Agenda Cultural de Lisboa",
+    "src": "Agenda Cultural de Lisboa",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTVNraDNleURLS2NLaHpEaEU1VkVoMXE1a1hzQVpUVjZzTE1hZm95cW9WLU5Gd1YzejZxcUM3LV9oaTdHRm02NGdYMFpHc2VXLUZ0TTBEMllxSmdDY0xicmkxV0xQZ1I1RUpneWtRbU5hX0FCZVpNaGlTOXpqUUw0d0Jya0tBQi1PSEJsRS1HQ0IxQQ?oc=5",
+    "timestamp": "2026-10-05T07:00:00+00:00",
+    "isoDate": "2026-10-05",
+    "date": "5 Out",
+    "d": "O Tesouro dos últimos Reis e Rainhas de Portugal Agenda Cultural de Lisboa",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Agenda Cultural de Lisboa",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTVNraDNleURLS2NLaHpEaEU1VkVoMXE1a1hzQVpUVjZzTE1hZm95cW9WLU5Gd1YzejZxcUM3LV9oaTdHRm02NGdYMFpHc2VXLUZ0TTBEMllxSmdDY0xicmkxV0xQZ1I1RUpneWtRbU5hX0FCZVpNaGlTOXpqUUw0d0Jya0tBQi1PSEJsRS1HQ0IxQQ?oc=5"
       }
     ],
     "status": "official",
