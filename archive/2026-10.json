@@ -17,10 +17,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -42,10 +42,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -192,10 +192,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -217,10 +217,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -242,10 +242,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -392,10 +392,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -417,10 +417,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1548,6 +1548,376 @@
       {
         "name": "Expresso",
         "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQOHY1b3ZIS3NtWFl4Qy1sVXlMeTZyY1ZnQkxrZ1B4cEJzX0JWcWdtNElON1lxdmRsYk5PbDdTM0FUQ1dGVGYzazhIdm5fM3h0QlZBNkFtdjk1TElNd2ZGYUNkX0diYV9FRU9nMUxpX2JfMUtCV09SWGtueS1BTTdGQ1docEY2UTd3ekFHS3pveUpqNHJ0MThXMm1vX1pWTENhNEVmQ2lGM0gwR2F5VHdHc081YTdWTGJKc0l2cWxxVEo0cEo3SF9DbnFDcndxOGNla2tYZkV1UXJHRnp6LVIzYnllRDlkUXZxTjNoQkZIVWM0V2pEZmJYYlVoalhibEdta2YxS092V0NkZnlYejNJ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Sevalynn",
+    "t": "I Wish It Didn't Have to Come to This",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "11 Out",
+    "isoDate": "2026-10-11",
+    "url": "https://alterportal.net/2026_albums/190534-sevalynn-i-wish-it-didnt-have-to-come-to-this-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190534-sevalynn-i-wish-it-didnt-have-to-come-to-this-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "Here’s This Week’s Top Ten Stories On Theprp.com (October 11th, 2026)",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/11/news/heres-this-weeks-top-ten-stories-on-theprp-com-october-11th-2026/",
+    "timestamp": "2026-10-11T18:55:10+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "AI clownery, 'Tallica, security issues and more. The post Here’s This Week’s Top Ten Stories On Theprp.com (October 11th, 2026) appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/11/news/heres-this-weeks-top-ten-stories-on-theprp-com-october-11th-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Metallica Had Another New Setlist Addition For Their Fourth Show At The Sphere",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/11/news/metallica-had-another-new-setlist-addition-for-their-fourth-show-at-the-sphere/",
+    "timestamp": "2026-10-11T18:43:41+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "They loaded up another track. The post Metallica Had Another New Setlist Addition For Their Fourth Show At The Sphere appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/11/news/metallica-had-another-new-setlist-addition-for-their-fourth-show-at-the-sphere/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Sex Pistols’ Frank Carter Doubles Down On The Band’s Women-Only Mosh Pit Section: “Incels, Homophobes, Misogynists, Racists, Fascists Not Welcome”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/11/news/sex-pistols-frank-carter-doubles-down-on-the-bands-women-only-mosh-pit-section-incels-homophobes-misogynists-racists-fascists-not-welcome/",
+    "timestamp": "2026-10-11T18:25:57+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "Carter also further went on to specify that section as being trans-inclusionary. The post Sex Pistols’ Frank Carter Doubles Down On The Band’s Women-Only Mosh Pit Section: “Incels, Homophobes, Misogynists, Racists, Fascists Not Welcome” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/11/news/sex-pistols-frank-carter-doubles-down-on-the-bands-women-only-mosh-pit-section-incels-homophobes-misogynists-racists-fascists-not-welcome/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Southpaw FLHC Returned To The Stage For The First Time Since Denying Allegations Of Nazism",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/11/news/southpaw-flhc-returned-to-the-stage-for-the-first-time-since-denying-allegations-of-nazism/",
+    "timestamp": "2026-10-11T18:01:21+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "The group played a free show at a skate park last night. The post Southpaw FLHC Returned To The Stage For The First Time Since Denying Allegations Of Nazism appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/11/news/southpaw-flhc-returned-to-the-stage-for-the-first-time-since-denying-allegations-of-nazism/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "MASTODON's BRANN DAILOR: BRENT HINDS 'Got Away With A Lot Of Things That Other People Wouldn't Be Able To'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/mastodons-brann-dailor-brent-hinds-got-away-with-a-lot-of-things-that-other-people-wouldnt-be-able-to",
+    "timestamp": "2026-10-11T17:49:04+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "In a new interview with The Downbeat Podcast, hosted by STRAY FROM THE PATH drummer Craig Reynolds, MASTODON drummer/vocalist Brann Dailor spoke about the lyrical inspiration for the band's latest album, \"Marrow Deep\", which arrived in August, roughly a year after the death of founding MASTODON guit...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/mastodons-brann-dailor-brent-hinds-got-away-with-a-lot-of-things-that-other-people-wouldnt-be-able-to"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "AMANDA SOMERVILLE Says Her Cancerous Brain Tumor Is 'Not Operable': It 'Is Only Treated To Gain Time'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/amanda-somerville-says-her-cancerous-brain-tumor-is-not-operable-it-is-only-treated-to-gain-time",
+    "timestamp": "2026-10-11T17:21:31+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "Amanda Somerville, the acclaimed American singer-songwriter and vocal coach who grew up in Michigan and moved to Germany to build her music career, has revealed that she has been diagnosed with diffuse midline glioma (DMG) is a rare type of cancerous brain tumor. The original news of Amanda's \"malig...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/amanda-somerville-says-her-cancerous-brain-tumor-is-not-operable-it-is-only-treated-to-gain-time"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Soulja Boy Announces Run for Presidency in 2028",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/soulja-boy-teases-presidential-run/",
+    "timestamp": "2026-10-11T17:35:56+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "The rapper provided his platform in a social media post with with \"#America2028.\" Soulja Boy Announces Run for Presidency in 2028 Travis Bland",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/soulja-boy-teases-presidential-run/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Sleepwalk release new music video for ‘Jan 22’ - Distorted Sound Magazine -",
+    "src": "Distorted Sound Magazine -",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVkk4a1ZLeDBDYkVqb2cwU3MyZzZzeWloa2g5dEppeDVlZTFQWnRtU0ZVXzczQldpb2FtUGh3bkh2YmQxaWI3ak4yQ045UHNIUWExZ0NrUlJ3dVZWQmQzcTVIOGZjSHNjc3VjUFJVMUpaMFFtV2U4NUZHaXp4QUhZeA?oc=5",
+    "timestamp": "2026-10-11T17:30:05+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "Sleepwalk release new music video for ‘Jan 22’ Distorted Sound Magazine -",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Distorted Sound Magazine -",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVkk4a1ZLeDBDYkVqb2cwU3MyZzZzeWloa2g5dEppeDVlZTFQWnRtU0ZVXzczQldpb2FtUGh3bkh2YmQxaWI3ak4yQ045UHNIUWExZ0NrUlJ3dVZWQmQzcTVIOGZjSHNjc3VjUFJVMUpaMFFtV2U4NUZHaXp4QUhZeA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Drake Reportedly Declined to Submit 'Iceman,' Other 2026 Albums for Grammys - Yahoo",
+    "src": "Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNmFLa3VLOVkyZENzWEt5RW9CY2JTcEtGTkpMdW92RGRSTy1QTzVHTmdWR2l5RUNDYkFBckwyZ0xVV0JuMnFXU1l0bjZRY3ZsTzlPMm9YOVNhdm1YVEV1eGxvOU9ac0dMcU03SUtPWE9heXNpejRlazdCcTM2YWxSR05IeWRodGZBYlYtTUtwQW93QmxWWnN3YndEZWo0aEJvUENLQzVjQWQ?oc=5",
+    "timestamp": "2026-10-11T12:14:03+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "Drake Reportedly Declined to Submit 'Iceman,' Other 2026 Albums for Grammys Yahoo",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNmFLa3VLOVkyZENzWEt5RW9CY2JTcEtGTkpMdW92RGRSTy1QTzVHTmdWR2l5RUNDYkFBckwyZ0xVV0JuMnFXU1l0bjZRY3ZsTzlPMm9YOVNhdm1YVEV1eGxvOU9ac0dMcU03SUtPWE9heXNpejRlazdCcTM2YWxSR05IeWRodGZBYlYtTUtwQW93QmxWWnN3YndEZWo0aEJvUENLQzVjQWQ?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "B0YG1RL release new video for \"Reality\" - Northern Transmissions",
+    "src": "Northern Transmissions",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXemFJN1Mta01DYzl3bFV4ZXJ4VGpOOG5TcGEyY3J4VnJGZVhVMk52S1I2UzVUZXE5SHZESzJRYUdjVmRNbmloSW1JNGthVmhaZFVOLTZjeUd0Z1pWbzU5blZhVEJMYjMzWWdHXzZvQ3h2ZkxlVWpINlhFV0c?oc=5",
+    "timestamp": "2026-10-11T11:09:51+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "B0YG1RL release new video for \"Reality\" Northern Transmissions",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Northern Transmissions",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXemFJN1Mta01DYzl3bFV4ZXJ4VGpOOG5TcGEyY3J4VnJGZVhVMk52S1I2UzVUZXE5SHZESzJRYUdjVmRNbmloSW1JNGthVmhaZFVOLTZjeUd0Z1pWbzU5blZhVEJMYjMzWWdHXzZvQ3h2ZkxlVWpINlhFV0c?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Barry Manilow Walks Off Stage, Cancels Vegas Shows Due to Bronchitis - Billboard",
+    "src": "Billboard",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRmhVYng1NUhWVzRfMW1WUHRESFZvR01hY1hhR3hOT29DaXBYcFBVaWpMQzNQUVpxQXZscGhnbkdRRHAwNVFHUjBUNUVUQUhYVkZyMGNKbzRjRE9EMmxyODJsSHY2ZlNlWHp2Nlpvei1DTGFCbXlkcERUcXptNXhJbUx4aGR2V0pPdHRmSzZxRFRTU21zdVFZeGVPdmJ5c2Y2WV8wRlp4OG9UelMzUVAzdA?oc=5",
+    "timestamp": "2026-10-11T03:52:45+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "Barry Manilow Walks Off Stage, Cancels Vegas Shows Due to Bronchitis Billboard",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Billboard",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRmhVYng1NUhWVzRfMW1WUHRESFZvR01hY1hhR3hOT29DaXBYcFBVaWpMQzNQUVpxQXZscGhnbkdRRHAwNVFHUjBUNUVUQUhYVkZyMGNKbzRjRE9EMmxyODJsSHY2ZlNlWHp2Nlpvei1DTGFCbXlkcERUcXptNXhJbUx4aGR2V0pPdHRmSzZxRFRTU21zdVFZeGVPdmJ5c2Y2WV8wRlp4OG9UelMzUVAzdA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Glockenwise no Theatro Circo: O rock venceu a solenidade de Buckingham Palace",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/glockenwise-no-theatro-circo-o-rock-venceu-a-solenidade-de-buckingham-palace/",
+    "timestamp": "2026-10-11T19:53:09+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "%featured_image% Os Glockenwise subiram ao palco principal do Theatro Circo, em Braga, para apresentar \"Vale Tudo Para Chegar a Algum Lado\", o sexto álbum de originais da banda de Barcelos. Num ano em que celebram vinte anos desde que começaram a fazer música juntos, o concerto serviu de encontro entre o novo capítulo ",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/glockenwise-no-theatro-circo-o-rock-venceu-a-solenidade-de-buckingham-palace/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "IST IST no Hard Club: A sombra também sabe dançar",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/ist-ist-no-hard-club-porto-a-sombra-tambem-sabe-dancar/",
+    "timestamp": "2026-10-11T17:25:45+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "%featured_image% Os IST IST passaram por Portugal para dois concertos, primeiro no Hard Club, no Porto, a 9 de outubro, e depois no RCA Club, em Lisboa, a 10 de outubro. Integrada na digressão de apresentação de \"DAGGER\", a passagem pelo país permitiu reencontrar o quarteto de Manchester, cuja sonoridade cruza pós-punk",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/ist-ist-no-hard-club-porto-a-sombra-tambem-sabe-dancar/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Marina Sena: “Minha visão de quem eu sou muda muito quando estou em Portugal” - Público",
+    "src": "Público",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUEJ5a1N5aEhHeFFYUXVTeS1WTHBtaGVHbG51VTREX1FFTWV1Vk1uR1hhQUczYWx6LUZiTC1PbEVSNTViN3I2eFRBMmRQTjNqeEhKNlIwYzVhTmRmWVFxb2ZGeU8xVzU4MnE1VXRpN01kQkVpcGw3NFFpbDRSWkFCY2RZVnEzVFBNS3NtcUttLUNxZ05fOGo4WUM2OFJPRFBHRE8zOWkwS2lHVlg5dmdkTVc3b21mUGg0amRRY2xFRDZ1QQ?oc=5",
+    "timestamp": "2026-10-11T15:27:15+00:00",
+    "isoDate": "2026-10-11",
+    "date": "11 Out",
+    "d": "Marina Sena: “Minha visão de quem eu sou muda muito quando estou em Portugal” Público",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Público",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUEJ5a1N5aEhHeFFYUXVTeS1WTHBtaGVHbG51VTREX1FFTWV1Vk1uR1hhQUczYWx6LUZiTC1PbEVSNTViN3I2eFRBMmRQTjNqeEhKNlIwYzVhTmRmWVFxb2ZGeU8xVzU4MnE1VXRpN01kQkVpcGw3NFFpbDRSWkFCY2RZVnEzVFBNS3NtcUttLUNxZ05fOGo4WUM2OFJPRFBHRE8zOWkwS2lHVlg5dmdkTVc3b21mUGg0amRRY2xFRDZ1QQ?oc=5"
       }
     ],
     "status": "official",
@@ -3586,6 +3956,56 @@
       {
         "name": "The Sunday Guardian",
         "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQWUktRmFnQ3NyV1dlZmpaNW5tcjdsdk03RVhvMWhRLTVoZmZiWXM0bHVDOE53b1hzSGdVWktHdm5uOVNNNnQ5bWNfMWtoeUJ1SEE4TDlRdkthRVhrTV92ZGVFdm9pSlljbU5WQXVFQnRMMHNtWXJhRnRZUHViN1ZTenFjM2Frc1BRMmgwNnJHN2FTQXlBLXpUOGtqVWJ6REJWMkJ0cHFqb2loTW5Eclc4SFR6RG1HZmVmVTdacmFrRmJxQ2JlQXpEaXo3LXpIck9XdUZSVi0zbWd5VWxRU0RlbTlLNHlxa0dXTmNCV0JkNk1jbFNRRWk5LUp0cVlCbE5qNGZ0LUhpRkdhX3NEQ1RhUG04bkViMzlmektlcFg2Q1lrdmI0VGNHdWdzU21zZ05wT2FEeU1NOHZMeG_SAcACQVVfeXFMT05CcEJyay1tT21zallLcUFqOE5RcElpRkdvbXhLa3h2dk9zVkVqNHAtZ184YWQ0VkFjRV9EU1RTZlpuT0VhMC1tUFplU2wxSkpEZjdqV09wejV4NkZFd2pJelhPcVVGTmtDSVJpQU00NnhoTENUZGtyTmhkWV8wdkNRTEMwZjg4V2hnMlBJM0ZiVC0tR3ZVdHJNVUR1MzVEbjRCQXdBeUwxVVhHaEhBVmgzMWNPMUJWMUtVU01mUy1FWDRZNF92TnBackRRdXRIelB5UGQtMDB5SndHaEVISTNqZVRBcHRiRTRmZExwOGkzTHRKT2JEQzhEWHZtNEpVSkRibmlXa2RDRGxZanN3SjdDcDFkWFFkdGtXWWxURWUxQzJHX2dIWTBrRlk3MVVfZ3pGbVRZcHM4YVhPTjNqVWs?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Jonah Kagen Releases ‘Do Better’ Ahead of Sophomore Album - Music Industry Weekly",
+    "src": "Music Industry Weekly",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRVd5VTUtcmdMRzI4cmZoZDVUdkJFdmhQSldCM1NmVW9IZlpnVTg2Yl8tblJSOWxJNEJmTzlEMmhaUUt0RWhualY2SEVrZjZNRFdsb2VGRkVkeEVoS0djY0ttOW8wa1JmdS1QNFVHWVhQNG5IWE5BeThZMGY2eTNZNzJtTVJVVl9VM25IQjZPMmZoZw?oc=5",
+    "timestamp": "2026-10-10T11:23:25+00:00",
+    "isoDate": "2026-10-10",
+    "date": "10 Out",
+    "d": "Jonah Kagen Releases ‘Do Better’ Ahead of Sophomore Album Music Industry Weekly",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Music Industry Weekly",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRVd5VTUtcmdMRzI4cmZoZDVUdkJFdmhQSldCM1NmVW9IZlpnVTg2Yl8tblJSOWxJNEJmTzlEMmhaUUt0RWhualY2SEVrZjZNRFdsb2VGRkVkeEVoS0djY0ttOW8wa1JmdS1QNFVHWVhQNG5IWE5BeThZMGY2eTNZNzJtTVJVVl9VM25IQjZPMmZoZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Niko Rubio announces greatly anticipated debut album, ‘late night swim,’ and accompanying California tour - MELODIC Magazine",
+    "src": "MELODIC Magazine",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQVNNNDI1WkhEME45eE9TeE1ySWJyWkRUSDl6YTVSVTZ1VlhieHJSQ2RGOXpjY0JwUHlBSFA1SkdPZElJaHBxcjFCanNnY2Z6V3otMVF1NVc0alcxbEJJai1xa210TG9iUzNUdU9MTFhmMGc0bU1PU3p1MHYzTVA4aVJFUVJweFlwV2tCM2NXZVlvLTN4SnRxSHdPcVNoUWVka2NVbVNiV3Z0cExQcEFHUkNCZWpyNm1HaTJlU0pzZXJtVkN4dS1LSkRUbk9OYThEaWFPZ0hWSHcwQlp5VFdxbW9Lb0UtLXZYeEE?oc=5",
+    "timestamp": "2026-10-10T04:41:22+00:00",
+    "isoDate": "2026-10-10",
+    "date": "10 Out",
+    "d": "Niko Rubio announces greatly anticipated debut album, ‘late night swim,’ and accompanying California tour MELODIC Magazine",
+    "category": "general",
+    "sources": [
+      {
+        "name": "MELODIC Magazine",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQVNNNDI1WkhEME45eE9TeE1ySWJyWkRUSDl6YTVSVTZ1VlhieHJSQ2RGOXpjY0JwUHlBSFA1SkdPZElJaHBxcjFCanNnY2Z6V3otMVF1NVc0alcxbEJJai1xa210TG9iUzNUdU9MTFhmMGc0bU1PU3p1MHYzTVA4aVJFUVJweFlwV2tCM2NXZVlvLTN4SnRxSHdPcVNoUWVka2NVbVNiV3Z0cExQcEFHUkNCZWpyNm1HaTJlU0pzZXJtVkN4dS1LSkRUbk9OYThEaWFPZ0hWSHcwQlp5VFdxbW9Lb0UtLXZYeEE?oc=5"
       }
     ],
     "status": "official",
@@ -7869,10 +8289,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -17314,17 +17734,17 @@
     "section": "pt"
   },
   {
-    "title": "Sons pela Cidade – Música em Festa - AgendaLX",
-    "src": "AgendaLX",
+    "title": "Sons pela Cidade – Música em Festa - Agenda Cultural de Lisboa",
+    "src": "Agenda Cultural de Lisboa",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaRkFsWWZtUVdva1RXTEw1c0ozTWhENjRoY1RrU0NTT2hINHBTdGtfdENzUFFCMlloOGc3XzJhNTJJTXNMSS1LcTI5WGdTVGN4N2x3dGtnWmZZQlFNR0xSaGRlVjBFZFJqYlRNaklzUWUyeF9tWlpWMVB3?oc=5",
     "timestamp": "2026-10-08T18:16:30+00:00",
     "isoDate": "2026-10-08",
     "date": "8 Out",
-    "d": "Sons pela Cidade – Música em Festa AgendaLX",
+    "d": "Sons pela Cidade – Música em Festa Agenda Cultural de Lisboa",
     "category": "pt",
     "sources": [
       {
-        "name": "AgendaLX",
+        "name": "Agenda Cultural de Lisboa",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaRkFsWWZtUVdva1RXTEw1c0ozTWhENjRoY1RrU0NTT2hINHBTdGtfdENzUFFCMlloOGc3XzJhNTJJTXNMSS1LcTI5WGdTVGN4N2x3dGtnWmZZQlFNR0xSaGRlVjBFZFJqYlRNaklzUWUyeF9tWlpWMVB3?oc=5"
       }
     ],
@@ -20599,17 +21019,17 @@
     "section": "news"
   },
   {
-    "title": "Underground Medicine #7: Region Rock, USA - Bandcamp",
-    "src": "Bandcamp",
+    "title": "Underground Medicine #7: Region Rock, USA - Bandcamp Daily",
+    "src": "Bandcamp Daily",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yYTE5NGxFSlVyU3dJbERfYXhZTkl4NEhFbVhHcHNWVE8ydFJzQTRFTDIwWjdZOW1qWXdWdUVXMWwzMkRhVzFBbnpQdktONUxUQ0tOcWN6emNCa1RiLXQzNm5DSmt6MWxhT0xwUFRaQm8wak1GMUVDZFVR?oc=5",
     "timestamp": "2026-10-07T14:32:04+00:00",
     "isoDate": "2026-10-07",
     "date": "7 Out",
-    "d": "Underground Medicine #7: Region Rock, USA Bandcamp",
+    "d": "Underground Medicine #7: Region Rock, USA Bandcamp Daily",
     "category": "core",
     "sources": [
       {
-        "name": "Bandcamp",
+        "name": "Bandcamp Daily",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yYTE5NGxFSlVyU3dJbERfYXhZTkl4NEhFbVhHcHNWVE8ydFJzQTRFTDIwWjdZOW1qWXdWdUVXMWwzMkRhVzFBbnpQdktONUxUQ0tOcWN6emNCa1RiLXQzNm5DSmt6MWxhT0xwUFRaQm8wak1GMUVDZFVR?oc=5"
       }
     ],
