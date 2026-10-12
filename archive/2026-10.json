@@ -46,26 +46,6 @@
     "section": "recent"
   },
   {
-    "b": "Nothing But Thieves",
-    "t": "Stray Dogs",
-    "g": "indie",
-    "fmt": "Album",
-    "lbl": "Alterportal",
-    "date": "12 Out",
-    "isoDate": "2026-10-12",
-    "url": "https://alterportal.net/2026_albums/190535-nothing-but-thieves-stray-dogs-2026.html",
-    "d": "Indie Rock / Alternative Rock",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/2026_albums/190535-nothing-but-thieves-stray-dogs-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
     "title": "W.A.S.P.'s BLACKIE LAWLESS: 'I Wouldn't Say I'm Antisocial'",
     "src": "Blabbermouth",
     "url": "https://blabbermouth.net/news/w-a-s-p-s-blackie-lawless-i-wouldnt-say-im-antisocial",
@@ -83,10 +63,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -108,10 +88,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -137,10 +117,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -162,10 +142,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -187,10 +167,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -612,10 +592,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -662,10 +642,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -687,10 +667,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -737,10 +717,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -762,10 +742,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -812,10 +792,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -837,10 +817,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1437,10 +1417,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1462,10 +1442,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1687,52 +1667,12 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
-  },
-  {
-    "b": "Hardiesse",
-    "t": "Tristesse Vespérale",
-    "g": "black",
-    "fmt": "EP",
-    "lbl": "Alterportal",
-    "date": "12 Out",
-    "isoDate": "2026-10-12",
-    "url": "https://alterportal.net/2026_albums/190537-hardiesse-tristesse-vesperale-ep-2026.html",
-    "d": "Melodic Black Metal / Medieval Black Metal",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/2026_albums/190537-hardiesse-tristesse-vesperale-ep-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
-    "b": "Fracturus",
-    "t": "The Synthetic Path",
-    "g": "core",
-    "fmt": "Album",
-    "lbl": "Alterportal",
-    "date": "12 Out",
-    "isoDate": "2026-10-12",
-    "url": "https://alterportal.net/2026_albums/190536-fracturus-the-synthetic-path-2026.html",
-    "d": "Стиль: Deathcore / Technical Death Metal Треклист: 01. The Synthetic Path 02. Obsolescence 03. The Created Divine 04. Panoptic Lividity 05. Parasitic Mind Collapse 06. Roko's Basilisk 07. Alpha Machine Directive 08. Grace To Man",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/2026_albums/190536-fracturus-the-synthetic-path-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
   },
   {
     "title": "Dropout Kings Premiere “Deadname” Music Video",
@@ -1888,7 +1828,7 @@
     "title": "The 5 Rising Welsh Metal Bands You Need To Know",
     "src": "Metal Injection",
     "url": "https://metalinjection.net/lists/the-5-rising-welsh-metal-bands-you-need-to-know",
-    "timestamp": "2026-10-12T16:41:47+00:00",
+    "timestamp": "2026-10-12T17:15:00+00:00",
     "isoDate": "2026-10-12",
     "date": "12 Out",
     "d": "Consisting of Ysbrydnos, Breichiau Hir, and more. The post The 5 Rising Welsh Metal Bands You Need To Know appeared first on Metal Injection .",
@@ -2096,7 +2036,7 @@
     "title": "James Hetfield: “Metallica Is Not Here… to Influence You With Their Bull****",
     "src": "Metal Injection",
     "url": "https://metalinjection.net/news/james-hetfield-metallica-is-not-here-to-influence-you-with-bull-politics",
-    "timestamp": "2026-10-12T15:06:30+00:00",
+    "timestamp": "2026-10-12T15:10:13+00:00",
     "isoDate": "2026-10-12",
     "date": "12 Out",
     "d": "The Metallica frontman recently addressed the Sphere audience, taking a dig at other \"entertainers.\" The post James Hetfield: “Metallica Is Not Here… to Influence You With Their Bull**** appeared first on Metal Injection .",
@@ -2105,6 +2045,10 @@
       {
         "name": "Metal Injection",
         "url": "https://metalinjection.net/news/james-hetfield-metallica-is-not-here-to-influence-you-with-bull-politics"
+      },
+      {
+        "name": "Metal Injection",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2g3TDR0SzlxcnU5R3FmTV9IeVJXeWNuU0JpZjB6SVVuM3d1Yzd0WGhYVU9XX1JnOXFBUTk5SlhQVVUwOHFBMGMyR2N1bkc2dmNCVS1feEcxRzdnR0RsbVppUkU5TUNFS09aZFRnNmpYR3JGaU4xZTlYMUM2cmVyclR0MFBwZmdZYnZZVnZwazVoclNxY0M1NHhhQXVZUlZXd1BaRW1Xaw?oc=5"
       }
     ],
     "status": "official",
@@ -2135,10 +2079,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -2760,10 +2704,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2785,10 +2729,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2810,10 +2754,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2835,10 +2779,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2968,7 +2912,7 @@
     "section": "pt"
   },
   {
-    "title": "John 5: Fender Custom Shop apresenta o novo modelo Phantom e recupera a Ghost Telecaster",
+    "title": "John 5: Fender apresenta três novas Telecaster signature, incluindo a Phantom Custom Shop e o regresso da Ghost",
     "src": "Arte Sonora",
     "url": "https://artesonora.pt/john-5-fender-custom-shop-apresenta-o-novo-modelo-phantom-e-recupera-a-ghost-telecaster/",
     "timestamp": "2026-10-12T16:55:39+00:00",
@@ -3010,10 +2954,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -3261,7 +3205,7 @@
     "title": "1986: the 23 greatest albums from the year the Eighties began to unravel - Classical-Music.com",
     "src": "Classical-Music.com",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIQ212S2NwWGx5OGw2NGotTmdsd09kQ211dWNTc1dTWmZPaTlBZ2JlWXViUi1JVmlCc05KMWJIeVJQenc1M1BuUUpRMXBpMWJUTXZRZjVuRDVCLXdf?oc=5",
-    "timestamp": "2026-10-12T18:54:35+00:00",
+    "timestamp": "2026-10-12T20:21:04+00:00",
     "isoDate": "2026-10-12",
     "date": "12 Out",
     "d": "1986: the 23 greatest albums from the year the Eighties began to unravel Classical-Music.com",
@@ -3650,10 +3594,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -3731,6 +3675,665 @@
     "star": true,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "b": "Sgàile",
+    "t": "Onwards to Embrace the Echo",
+    "g": "prog",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "12 Out",
+    "isoDate": "2026-10-12",
+    "url": "https://alterportal.net/2026_albums/190539-sgaile-onwards-to-embrace-the-echo-2026.html",
+    "d": "Progressive Metal / Post-Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190539-sgaile-onwards-to-embrace-the-echo-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "Watch: Bring Me The Horizon Gave A Live Debut To “The Fox And The Wolf” With Josh Scogin",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/12/news/watch-bring-me-the-horizon-gave-a-live-debut-to-the-fox-and-the-wolf-with-josh-scogin/",
+    "timestamp": "2026-10-12T22:35:21+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "Part of the encore to their \"Count Your Blessings\" 20th anniversary set at 'Furnace Fest'. The post Watch: Bring Me The Horizon Gave A Live Debut To “The Fox And The Wolf” With Josh Scogin appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/12/news/watch-bring-me-the-horizon-gave-a-live-debut-to-the-fox-and-the-wolf-with-josh-scogin/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Memoriam (Ex-Bolt Thrower) Debut “Nothing More To Say” From Their Upcoming Farewell Album “Endgame”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/12/news/memoriam-ex-bolt-thrower-debut-nothing-more-to-say-from-their-upcoming-farewell-album-endgame/",
+    "timestamp": "2026-10-12T22:21:17+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "That record will be out in January. The post Memoriam (Ex-Bolt Thrower) Debut “Nothing More To Say” From Their Upcoming Farewell Album “Endgame” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/12/news/memoriam-ex-bolt-thrower-debut-nothing-more-to-say-from-their-upcoming-farewell-album-endgame/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch Behemoth Welcome Dimmu Borgir’s Shagrath Onstage For The Live Debut Of Their Venom Cover",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/12/news/watch-behemoth-welcome-dimmu-borgirs-shagrath-onstage-for-the-live-debut-of-their-venom-cover/",
+    "timestamp": "2026-10-12T22:08:31+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "The pair released that cover in early September, though it has taken on a new meaning with the recent passing of Cronos. The post Watch Behemoth Welcome Dimmu Borgir’s Shagrath Onstage For The Live Debut Of Their Venom Cover appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/12/news/watch-behemoth-welcome-dimmu-borgirs-shagrath-onstage-for-the-live-debut-of-their-venom-cover/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Roman Candle & Postdrome Announce Fall West Coast Tour",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/12/news/roman-candle-postdrome-announce-fall-west-coast-tour/",
+    "timestamp": "2026-10-12T21:45:35+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "Beginning in early November. The post Roman Candle & Postdrome Announce Fall West Coast Tour appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/12/news/roman-candle-postdrome-announce-fall-west-coast-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "PeelingFlesh, Emmure & Showing Teeth Announced For 2027 ‘Sonic Temple’ Festival, Full Lineup Reveal Due Next Week",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/12/news/peelingflesh-emmure-showing-teeth-announced-for-2027-sonic-temple-festival-full-lineup-reveal-due-next-week/",
+    "timestamp": "2026-10-12T21:32:16+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "That makes four confirmed artists so far. The post PeelingFlesh, Emmure & Showing Teeth Announced For 2027 ‘Sonic Temple’ Festival, Full Lineup Reveal Due Next Week appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/12/news/peelingflesh-emmure-showing-teeth-announced-for-2027-sonic-temple-festival-full-lineup-reveal-due-next-week/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Black Map Have Called It Quits",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/12/news/black-map-have-called-it-quits/",
+    "timestamp": "2026-10-12T21:25:13+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "The trio have just announced their decision to end the band. The post Black Map Have Called It Quits appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/12/news/black-map-have-called-it-quits/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Google adds new Metal Mesh bands for the Fitbit Air in two colors - GSMArena.com news - GSMArena.com",
+    "src": "GSMArena.com",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2RXaXh6aUtkSWZGLWZqWkpSdTZWa1JTbV9NWG1iZWM3NVpodnJnRVBELTVWVUU3dm10a2RSanEyQkx3bnJhQk9mVC14QjNYUGxYSV9WcmJFeTVOZ2loVmRPNklOeG9WQWJSRURhSXBsZ2t6Tk1aRnpPVEpLWGdIVXk2UjhQTUh2OTdTSHBDdzEzR0hZM0VxUThqZ1Mtd1lnZERTRGc4dEnSAaQBQVVfeXFMTVlKS3VTYjJtLVU2NVJtd2hNcGpYM2htb0pKVE9ncjBWbUJwc0x3VjFBcmZXUmtDR2ZBU1ptRmppOTBCYnhkdGVCLUxQMU5MU1FDbmVpY1FZZTR1dGw5Ung1MWNTaDJMNEhrUHl4UE05VHk3NFRWV09OWkRSVzlaOHNlbi1LTktZUG9UUjBiYUE5Xy1LdUlQN2R3ZmhyMl9OWWtMdmc?oc=5",
+    "timestamp": "2026-10-12T21:01:02+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "Google adds new Metal Mesh bands for the Fitbit Air in two colors - GSMArena.com news GSMArena.com",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "GSMArena.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2RXaXh6aUtkSWZGLWZqWkpSdTZWa1JTbV9NWG1iZWM3NVpodnJnRVBELTVWVUU3dm10a2RSanEyQkx3bnJhQk9mVC14QjNYUGxYSV9WcmJFeTVOZ2loVmRPNklOeG9WQWJSRURhSXBsZ2t6Tk1aRnpPVEpLWGdIVXk2UjhQTUh2OTdTSHBDdzEzR0hZM0VxUThqZ1Mtd1lnZERTRGc4dEnSAaQBQVVfeXFMTVlKS3VTYjJtLVU2NVJtd2hNcGpYM2htb0pKVE9ncjBWbUJwc0x3VjFBcmZXUmtDR2ZBU1ptRmppOTBCYnhkdGVCLUxQMU5MU1FDbmVpY1FZZTR1dGw5Ung1MWNTaDJMNEhrUHl4UE05VHk3NFRWV09OWkRSVzlaOHNlbi1LTktZUG9UUjBiYUE5Xy1LdUlQN2R3ZmhyMl9OWWtMdmc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Heavy Metal Band Lovebites Suspend Live Performances for 2027 - Anime News Network",
+    "src": "Anime News Network",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN1NWalc0SjF1cmVJM1Vic2dBLXFNSnJDVjdSRXVFUHVuVDFmOTZtWU9lZ0NsZnVfbUY4T3FSd080TTlzemxrdjdXcnlMeDhFaGdOVGlVNWJ4eUJOei1SMjA5aVlIRTFKMGxMMjJ3bHFqMEVtbXVKbm00UFBfeG55anF1dlo1dzU0UGVid0RVSHI0OHBKcXZ5RFoxWVQyZnVkNzA3XzZwYTJNcnJSWER1aWw5NHJ5UkR1QUE?oc=5",
+    "timestamp": "2026-10-12T20:00:00+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "Heavy Metal Band Lovebites Suspend Live Performances for 2027 Anime News Network",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Anime News Network",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN1NWalc0SjF1cmVJM1Vic2dBLXFNSnJDVjdSRXVFUHVuVDFmOTZtWU9lZ0NsZnVfbUY4T3FSd080TTlzemxrdjdXcnlMeDhFaGdOVGlVNWJ4eUJOei1SMjA5aVlIRTFKMGxMMjJ3bHFqMEVtbXVKbm00UFBfeG55anF1dlo1dzU0UGVid0RVSHI0OHBKcXZ5RFoxWVQyZnVkNzA3XzZwYTJNcnJSWER1aWw5NHJ5UkR1QUE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Story Of The Year and Silverstein Team Up For Australia Tour - Rolling Stone Australia",
+    "src": "Rolling Stone Australia",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNclRabVU1VmE2UE95dEhoeVZUV2I3c2l4SmxkUVY5eE9fOXJLRXdMT001dHZ6NGs4VzNtUlJNTlNfY1kwdEItYWlza0owREQwb1dGRXU5aUdwbG03UUl0MnJiaW12QkpTeUl4TVJLZUZ0dHFOR1BqeGw2aUdKSHJocmxIYlRNQ3EtSkVRbXdfbXVicmczekhBc0VxWlc1N05EY0dpenRtSXR2M1p1?oc=5",
+    "timestamp": "2026-10-12T22:11:03+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "Story Of The Year and Silverstein Team Up For Australia Tour Rolling Stone Australia",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Rolling Stone Australia",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNclRabVU1VmE2UE95dEhoeVZUV2I3c2l4SmxkUVY5eE9fOXJLRXdMT001dHZ6NGs4VzNtUlJNTlNfY1kwdEItYWlza0owREQwb1dGRXU5aUdwbG03UUl0MnJiaW12QkpTeUl4TVJLZUZ0dHFOR1BqeGw2aUdKSHJocmxIYlRNQ3EtSkVRbXdfbXVicmczekhBc0VxWlc1N05EY0dpenRtSXR2M1p1?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kacey Musgraves Bodies Kristi Noem",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/kacey-musgraves-kristi-noem-murdered/",
+    "timestamp": "2026-10-12T22:07:57+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "After Noem mocked Musgraves over her support for James Talarico, the country star fired back with a brutal putdown on X. Kacey Musgraves Bodies Kristi Noem Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/kacey-musgraves-kristi-noem-murdered/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Diddy Reportedly Rushed to Hospital After Head Injury in Prison - Crave Online",
+    "src": "Crave Online",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcTFPOGd1RnRwNUM2aVFxaHhuS21qeUpLT1dGa2ZtLWZRMjdlSGNWRGpSLTg0bUZvVDJFUEVBNzhEcDlFU1NJemxfYlJ5bUtWTUMwNldRaDl4d3JlUkJRWk9Ielh4bDlNVUhZOXphVVJyVFY5b25VRG01UFZjSTYzVGRjMkZiQQ?oc=5",
+    "timestamp": "2026-10-12T21:07:08+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "Diddy Reportedly Rushed to Hospital After Head Injury in Prison Crave Online",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Crave Online",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcTFPOGd1RnRwNUM2aVFxaHhuS21qeUpLT1dGa2ZtLWZRMjdlSGNWRGpSLTg0bUZvVDJFUEVBNzhEcDlFU1NJemxfYlJ5bUtWTUMwNldRaDl4d3JlUkJRWk9Ielh4bDlNVUhZOXphVVJyVFY5b25VRG01UFZjSTYzVGRjMkZiQQ?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "'I'm proud of my skin': Ohio worker plays a song at the office that his coworkers call racist. Then he gets suspended - Operation Sports",
+    "src": "Operation Sports",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMlY4RmFScTZXZmhzcDROTVJfV0VVdUM2SGJHdnIxSk5SX1N1SjVBekVNMG9sX2J3cVNvM2htbi1Mc2J0TUU5bkN5NkZHdnNqYXJ3cVhnd3ZxWThVWFprMjM3dEVSM04za1JoLUljZ0RibGdrMC16SkotOXdBcXh3STVGbGRrVWQtOTNNY05NZmx5UHVKWGtJeWlVMkJEbDJkREhyTkhjUkkxbVMyV3VlVlZ0NVJBRkdqaldCUGRLWkNTblRNaHpIZHQ3clRJb2VSckNmTWtIQnVCeHBhYkE?oc=5",
+    "timestamp": "2026-10-12T20:45:00+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "'I'm proud of my skin': Ohio worker plays a song at the office that his coworkers call racist. Then he gets suspended Operation Sports",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Operation Sports",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMlY4RmFScTZXZmhzcDROTVJfV0VVdUM2SGJHdnIxSk5SX1N1SjVBekVNMG9sX2J3cVNvM2htbi1Mc2J0TUU5bkN5NkZHdnNqYXJ3cVhnd3ZxWThVWFprMjM3dEVSM04za1JoLUljZ0RibGdrMC16SkotOXdBcXh3STVGbGRrVWQtOTNNY05NZmx5UHVKWGtJeWlVMkJEbDJkREhyTkhjUkkxbVMyV3VlVlZ0NVJBRkdqaldCUGRLWkNTblRNaHpIZHQ3clRJb2VSckNmTWtIQnVCeHBhYkE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Diddy Reportedly Taken to Hospital After Head Injury in Prison - foxy99.com",
+    "src": "foxy99.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWnJQUUtCVmgyU2RhbXNCaUltOW5wR2pjdE5WdGlKM19aQl95UDNBaVFsbU1HZG92OTBWM2lYaF85Z0hVZEh6TENGeVk1V3ZRVFdFUFhwZ05GcTFmei1ZdG4zVDI2QUFiMFRpLXRYZGRQZ3VXeGZMYXlodS16cEwtMHh0RmZtUUNUVDd3SjUySzlWaEMyOVRldA?oc=5",
+    "timestamp": "2026-10-12T19:30:32+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "Diddy Reportedly Taken to Hospital After Head Injury in Prison foxy99.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "foxy99.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWnJQUUtCVmgyU2RhbXNCaUltOW5wR2pjdE5WdGlKM19aQl95UDNBaVFsbU1HZG92OTBWM2lYaF85Z0hVZEh6TENGeVk1V3ZRVFdFUFhwZ05GcTFmei1ZdG4zVDI2QUFiMFRpLXRYZGRQZ3VXeGZMYXlodS16cEwtMHh0RmZtUUNUVDd3SjUySzlWaEMyOVRldA?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Sean ‘Diddy’ Combs reportedly rushed from prison to hospital - Stuff",
+    "src": "Stuff",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaVNBVS1JVXZvSGtBZEZiN0R4TEdOV0dJeUY0Z0NTb0laVWJqdVFhdVRLUE5pUG15QXpSbFliSmhMejZjR0ZKeklMRGVBMmJucTRXbnFqQzQ5SjVVOVN0YUtRbVNzWUNkM053SDBXdnYtbzRfV2FSazgwQWNWcm5GcDVZc2Z0S1NBMEZfWS0tRFd4clQtRWpj?oc=5",
+    "timestamp": "2026-10-12T19:12:47+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "Sean ‘Diddy’ Combs reportedly rushed from prison to hospital Stuff",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stuff",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaVNBVS1JVXZvSGtBZEZiN0R4TEdOV0dJeUY0Z0NTb0laVWJqdVFhdVRLUE5pUG15QXpSbFliSmhMejZjR0ZKeklMRGVBMmJucTRXbnFqQzQ5SjVVOVN0YUtRbVNzWUNkM053SDBXdnYtbzRfV2FSazgwQWNWcm5GcDVZc2Z0S1NBMEZfWS0tRFd4clQtRWpj?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Music Bank World Tour attracts 37,500 in first Barcelona concert - Korea.net",
+    "src": "Korea.net",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQakd5SS14dmN3MW1CMDhpODZwdXdEajVIN3J4RHRKT1ljcTZWZm1pN1ZCeEwyeVlFdjN1VXBqd3FTaUl6SkRMVTNSMWVyemt3SHBQWUVHZ3NENmZVQTVQWGhucUduWEdZT1M3anRqelo5bXAwdm5DOFU2NVBKc1NGVy1kSXhhbWgzT3Zv?oc=5",
+    "timestamp": "2026-10-12T17:31:50+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "Music Bank World Tour attracts 37,500 in first Barcelona concert Korea.net",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Korea.net",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQakd5SS14dmN3MW1CMDhpODZwdXdEajVIN3J4RHRKT1ljcTZWZm1pN1ZCeEwyeVlFdjN1VXBqd3FTaUl6SkRMVTNSMWVyemt3SHBQWUVHZ3NENmZVQTVQWGhucUduWEdZT1M3anRqelo5bXAwdm5DOFU2NVBKc1NGVy1kSXhhbWgzT3Zv?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Diddy Reportedly Suffers Medical Emergency In Prison - REAL 92.3",
+    "src": "REAL 92.3",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYTMtNHJiekdZV0VHbS1FOXRPc0E3TzlzMEJHbkp3bVhObG1Uei1RZ2xzQVpKX0xya2FuaGJrcDgyTVNneVBEZ1dqNTZzMVdFQWROZTY3UmR0WXY5V0dEX1RHYzVLelNoMU9KUzJOVlVHV2I1Q0xCaDB6eUp5SDRoc0RkQVBIRklPN0l2cDdsbWRIVnIxLUxIOU11dHR5YnBsOUNr?oc=5",
+    "timestamp": "2026-10-12T17:19:36+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "Diddy Reportedly Suffers Medical Emergency In Prison REAL 92.3",
+    "category": "general",
+    "sources": [
+      {
+        "name": "REAL 92.3",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYTMtNHJiekdZV0VHbS1FOXRPc0E3TzlzMEJHbkp3bVhObG1Uei1RZ2xzQVpKX0xya2FuaGJrcDgyTVNneVBEZ1dqNTZzMVdFQWROZTY3UmR0WXY5V0dEX1RHYzVLelNoMU9KUzJOVlVHV2I1Q0xCaDB6eUp5SDRoc0RkQVBIRklPN0l2cDdsbWRIVnIxLUxIOU11dHR5YnBsOUNr?oc=5"
+      },
+      {
+        "name": "JAM'N 107.5",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONXBYZHM3eDJPdTBfNjJVbzR5SUt4andNRzZjY1hfTGxxM0VHN25rWGdSXzBwWDlrLVlZaVF0N2V6R1N4U29ZSm93YWhLOUh2ejVOMEoySnloRmxNZ0R0cUJHRF9kZ0gtRkdCSVN0cWx2WVlvVEphOXk5WFZuZnBXRFBfWGRsQWRuOTBLQjdUZFd6R1ZWZU9TOTFwYXJOQTYyS1E?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "medium",
+    "sourceCount": 2,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Loretta Lynn’s ‘Van Lear Rose’ Returns With Fresh Remaster and Bonus Track - Backstage Country",
+    "src": "Backstage Country",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRUZycGlSUG56THVnOE5KMnlxNTNGZ3VNYVZDZTVZTUhzbUJoNnQ2OXFEeXBEb1NNX0w3LXdVVTNvc2ZUemxITWZFR2pyWDRqeUJJaG4zUDJTUnVHeGtOWlZwZHJ3MWRNSklVN1Btc0JOUmk1YmM4dzM1eDRBenJKaDJxMDgtSGVKdXg3TmhLdWJmNkk1X3dUb3ZmSXhTYUJqRGNxODk5N2VFX05NN2VSalR3?oc=5",
+    "timestamp": "2026-10-12T17:05:53+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "Loretta Lynn’s ‘Van Lear Rose’ Returns With Fresh Remaster and Bonus Track Backstage Country",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Backstage Country",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRUZycGlSUG56THVnOE5KMnlxNTNGZ3VNYVZDZTVZTUhzbUJoNnQ2OXFEeXBEb1NNX0w3LXdVVTNvc2ZUemxITWZFR2pyWDRqeUJJaG4zUDJTUnVHeGtOWlZwZHJ3MWRNSklVN1Btc0JOUmk1YmM4dzM1eDRBenJKaDJxMDgtSGVKdXg3TmhLdWJmNkk1X3dUb3ZmSXhTYUJqRGNxODk5N2VFX05NN2VSalR3?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "TROY Professor begins tour in Europe with ensemble - Troy University",
+    "src": "Troy University",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNEQ4MENLWE9IOGNCcVZ1VThGUDFwZThCazNMd1oycUwtT0RoY0tQekhtVkZvTTlaeTNKYUpTcmxKcm82RUdhQWdJNlV1UU44Yk81a1ptMWJIcWJPZk9uNWxuLTNHRXA0V0ZYbTJGeGIxY2RZN2gtLVRyX2IydzFuZ0pDTUNSUQ?oc=5",
+    "timestamp": "2026-10-12T16:33:22+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "TROY Professor begins tour in Europe with ensemble Troy University",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Troy University",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNEQ4MENLWE9IOGNCcVZ1VThGUDFwZThCazNMd1oycUwtT0RoY0tQekhtVkZvTTlaeTNKYUpTcmxKcm82RUdhQWdJNlV1UU44Yk81a1ptMWJIcWJPZk9uNWxuLTNHRXA0V0ZYbTJGeGIxY2RZN2gtLVRyX2IydzFuZ0pDTUNSUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Diddy Reportedly Rushed to Hospital From Prison Following Head Injury - HOT 97",
+    "src": "HOT 97",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQnF2ejR5R1dQVHlCY09HQUhKQzRJOXZmUTF4SktxSkI3MTU0M0xESDltLVp1cTVkZ3dSYjBUb00tZDB3aDZ3OHF4MU1ITkFYMFhMYXA3ZWkxR0dtVUtUcWg0QWM4MFBRYm4yXzJBLURLZmpPNTUyZjkzUGNGeFJxZElDdXI4NUJwNmVrQUU1aTNXQjAtVmNXbHp3?oc=5",
+    "timestamp": "2026-10-12T16:31:35+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "Diddy Reportedly Rushed to Hospital From Prison Following Head Injury HOT 97",
+    "category": "general",
+    "sources": [
+      {
+        "name": "HOT 97",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQnF2ejR5R1dQVHlCY09HQUhKQzRJOXZmUTF4SktxSkI3MTU0M0xESDltLVp1cTVkZ3dSYjBUb00tZDB3aDZ3OHF4MU1ITkFYMFhMYXA3ZWkxR0dtVUtUcWg0QWM4MFBRYm4yXzJBLURLZmpPNTUyZjkzUGNGeFJxZElDdXI4NUJwNmVrQUU1aTNXQjAtVmNXbHp3?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Dolly Parton’s Family Reportedly Plotting Major Hollywood Biopic - Backstage Country",
+    "src": "Backstage Country",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUHlKcVVkVEdmbHFfSVN4ekp3VnZVZ09qdGQwbl9EVUVuekt5TjZFT0lQODdBU3gwbi1sbTdCYnVVeUJMN1pNOW4wSEJuaW1WNUpuV1NNNC1aM2lpSXd1cmxSYTQteVlGNzNPV2ZJUUVUczFXd1pndERuekE2ZGRsWEV6WjljV3AwOHpndGNfbmd4eFcxNm5qVXQwckFEbUhYWjhsU3d6QQ?oc=5",
+    "timestamp": "2026-10-12T16:18:37+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "Dolly Parton’s Family Reportedly Plotting Major Hollywood Biopic Backstage Country",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Backstage Country",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUHlKcVVkVEdmbHFfSVN4ekp3VnZVZ09qdGQwbl9EVUVuekt5TjZFT0lQODdBU3gwbi1sbTdCYnVVeUJMN1pNOW4wSEJuaW1WNUpuV1NNNC1aM2lpSXd1cmxSYTQteVlGNzNPV2ZJUUVUczFXd1pndERuekE2ZGRsWEV6WjljV3AwOHpndGNfbmd4eFcxNm5qVXQwckFEbUhYWjhsU3d6QQ?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Serralves: Foco Stephen O’Malley decorre até dezembro com Hampus Lindwall, ONCEIM e Cylene",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/serralves-foco-stephen-omalley-decorre-ate-dezembro-com-hampus-lindwall-onceim-e-cylene/",
+    "timestamp": "2026-10-12T21:47:04+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "%featured_image% O Museu de Serralves tem dedicado 2026 a Stephen O’Malley, guitarrista, compositor e produtor norte-americano dos SUNN O))), muito ligado à música experimental e ao drone.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/serralves-foco-stephen-omalley-decorre-ate-dezembro-com-hampus-lindwall-onceim-e-cylene/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Jovem da Mealhada impressiona no The Voice Portugal e consegue virar as quatro cadeiras dos mentores - SAPO",
+    "src": "SAPO",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUGlVQmdoNjRra3EwSFdLU1lsSVlxVUFBZl9GWjBKMDVSSzI0dUd6SktZZ01PNzYxZGJRN2w1aC10Q0lMRktpZTg4Yk1lbXR3MFhpamw1bzZwVm41OWJxa3BaVzhKcEVac21lcDMwTUNqeGtoODlxU2lNTVFLUXdJQUl4SGZGUEtmbU9UWnI4U0lZNUhMSTZiT1N5UGhhMDBSd1BVTUV6QmgtSk5PMXVBOVVkVEdCWTFXdkFZNlJxVDk2bk1MYXBCYUNKcnkycldLYXZKQUdfSG5HS1pfVlVMVDl3?oc=5",
+    "timestamp": "2026-10-12T21:29:08+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "Jovem da Mealhada impressiona no The Voice Portugal e consegue virar as quatro cadeiras dos mentores SAPO",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "SAPO",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUGlVQmdoNjRra3EwSFdLU1lsSVlxVUFBZl9GWjBKMDVSSzI0dUd6SktZZ01PNzYxZGJRN2w1aC10Q0lMRktpZTg4Yk1lbXR3MFhpamw1bzZwVm41OWJxa3BaVzhKcEVac21lcDMwTUNqeGtoODlxU2lNTVFLUXdJQUl4SGZGUEtmbU9UWnI4U0lZNUhMSTZiT1N5UGhhMDBSd1BVTUV6QmgtSk5PMXVBOVVkVEdCWTFXdkFZNlJxVDk2bk1MYXBCYUNKcnkycldLYXZKQUdfSG5HS1pfVlVMVDl3?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Myles Smith estreia-se em Portugal e é a mais recente confirmação do NOS Alive’27 - musicfest.pt",
+    "src": "musicfest.pt",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTjFkYnc0UzNpY2xNTy1YcXRQeGI2dFJQdHNTVjZubkY1WHI3YklRbkVSc3RGalpuMEJ3VFQxSUVtaVJIR3c2cm14dkNtVWxBME1CdW83U2syYXhxaVhJdm1jcXZkSnRMUHlrYmlxb0s2UUNtTnJpZzRXWWhscExoOGNyUWlvRmVyeXBYbTU5NWx1eE1Rb1R1aWlYYWZuOEwwZUtYZVdFbTE1R1p3QVE?oc=5",
+    "timestamp": "2026-10-12T16:22:58+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "Myles Smith estreia-se em Portugal e é a mais recente confirmação do NOS Alive’27 musicfest.pt",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "musicfest.pt",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTjFkYnc0UzNpY2xNTy1YcXRQeGI2dFJQdHNTVjZubkY1WHI3YklRbkVSc3RGalpuMEJ3VFQxSUVtaVJIR3c2cm14dkNtVWxBME1CdW83U2syYXhxaVhJdm1jcXZkSnRMUHlrYmlxb0s2UUNtTnJpZzRXWWhscExoOGNyUWlvRmVyeXBYbTU5NWx1eE1Rb1R1aWlYYWZuOEwwZUtYZVdFbTE1R1p3QVE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Nothing But Thieves",
+    "t": "Stray Dogs",
+    "g": "indie",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "11 Out",
+    "isoDate": "2026-10-11",
+    "url": "https://alterportal.net/2026_albums/190535-nothing-but-thieves-stray-dogs-2026.html",
+    "d": "Indie Rock / Alternative Rock",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190535-nothing-but-thieves-stray-dogs-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Hardiesse",
+    "t": "Tristesse Vespérale",
+    "g": "black",
+    "fmt": "EP",
+    "lbl": "Alterportal",
+    "date": "11 Out",
+    "isoDate": "2026-10-11",
+    "url": "https://alterportal.net/2026_albums/190537-hardiesse-tristesse-vesperale-ep-2026.html",
+    "d": "Melodic Black Metal / Medieval Black Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190537-hardiesse-tristesse-vesperale-ep-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Fracturus",
+    "t": "The Synthetic Path",
+    "g": "core",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "11 Out",
+    "isoDate": "2026-10-11",
+    "url": "https://alterportal.net/2026_albums/190536-fracturus-the-synthetic-path-2026.html",
+    "d": "Стиль: Deathcore / Technical Death Metal Треклист: 01. The Synthetic Path 02. Obsolescence 03. The Created Divine 04. Panoptic Lividity 05. Parasitic Mind Collapse 06. Roko's Basilisk 07. Alpha Machine Directive 08. Grace To Man",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190536-fracturus-the-synthetic-path-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
   },
   {
     "title": "Watch: DEEN CASTRONOVO Plays Full Concert With JOURNEY In San Antonio, Two Days After Suffering Medical Emergency",
@@ -16440,7 +17043,7 @@
     "title": "Josh Homme on Steering Away From Stoner Rock: 'I Don't Want to Be the 15th Best Sabbath Cover Band' - Ultimate Guitar",
     "src": "Ultimate Guitar",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOGNVbVFkc2Jvd3YzWml6Y1dJSDlJQnRlRWtFaklTYUF6ZG1aeEc0RmFGN2tLZkhuRVNrUFk0S0RVUU9LUWVIMTM0WUkyWnJaX19IV0RVaVc1enNnd2RWT3doM2ZfNy1Rb0FUNFJ0d1duaWFZbDY3ZUFYOFhwMHk5RTRoN1VLZzFjT1FsLVZTVmJfTEY2UmxQb09tRnNjQVlqQkp3VlNxQS1fNUJhWjc0RmtkQmpZT2xLNjRWb3hHaktIU3JDX0d5bU1PWHRzd3AxeVdlY0RSMm5jMklfOGV0al9wQ3U5dw?oc=5",
-    "timestamp": "2026-10-09T17:28:34+00:00",
+    "timestamp": "2026-10-09T19:33:16+00:00",
     "isoDate": "2026-10-09",
     "date": "9 Out",
     "d": "Josh Homme on Steering Away From Stoner Rock: 'I Don't Want to Be the 15th Best Sabbath Cover Band' Ultimate Guitar",
@@ -16510,6 +17113,27 @@
     "star": false,
     "kind": "news",
     "section": "news"
+  },
+  {
+    "b": "Miedo al Cambio",
+    "t": "La Historia me Absolverá",
+    "g": "electro",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "9 Out",
+    "isoDate": "2026-10-09",
+    "url": "https://musicbrainz.org/release-group/b4860faf-83e0-4179-a9a4-a5c0ba607378",
+    "d": "electronic, vaporwave",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/b4860faf-83e0-4179-a9a4-a5c0ba607378"
+      }
+    ],
+    "mbid": "b4860faf-83e0-4179-a9a4-a5c0ba607378",
+    "star": false,
+    "kind": "release",
+    "section": "main"
   },
   {
     "title": "Westside Cowboy Play Brooklyn: Backstage and In the Crowd - Rolling Stone",
@@ -34558,6 +35182,31 @@
       {
         "name": "New in Porto",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNenNBT2twYlo0TVhTUlJQRGs5TDZ2c1QweG1KeEpUaG0xRVAwOGJXTHNtV3RRdGpLeDJDb0dJdkoxYjJWWTk0Qi1CSXJCclo0MmNQYlhucmg5cmwzRXBqNGRMVW91NE9Pd2ROaXFCNVhYOFh3eEt5RHVhanlDYlh4QndydjRkc1o3VElZeThxN0RzdDNzdkJxd2NaQy1hdW5MTy0tQ3dwOEJSRERrajR1dGExM2pOOXln?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Sofia Ribeiro leva música e solidariedade à Venezuela - BOM DIA - Portugal no Mundo",
+    "src": "BOM DIA - Portugal no Mundo",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHWUFMaEg3cW5wT0QtS0NyaUowRG83VTV1bE94ZTVoVUhaNjYtZ1RnV002NFBpeXVFdWpKZU5TdGZqeTBnZ0w0Rkx5UFJxMFpjaGtPeVZJU3U2Q0JvLWNqU0FRbXRNTkU3UGVfa1J3cVdHMzJBS3M2WUpjRHE?oc=5",
+    "timestamp": "2026-10-06T09:25:00+00:00",
+    "isoDate": "2026-10-06",
+    "date": "6 Out",
+    "d": "Sofia Ribeiro leva música e solidariedade à Venezuela BOM DIA - Portugal no Mundo",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "BOM DIA - Portugal no Mundo",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHWUFMaEg3cW5wT0QtS0NyaUowRG83VTV1bE94ZTVoVUhaNjYtZ1RnV002NFBpeXVFdWpKZU5TdGZqeTBnZ0w0Rkx5UFJxMFpjaGtPeVZJU3U2Q0JvLWNqU0FRbXRNTkU3UGVfa1J3cVdHMzJBS3M2WUpjRHE?oc=5"
       }
     ],
     "status": "official",
