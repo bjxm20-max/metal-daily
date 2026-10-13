@@ -42,7 +42,7 @@
   },
   {
     "b": "heavenscoldhands",
-    "t": "Bound By Time",
+    "t": "Bound by Time",
     "g": "core",
     "fmt": "EP",
     "lbl": "MusicBrainz",
@@ -70,7 +70,7 @@
     "date": "13 Out",
     "isoDate": "2026-10-13",
     "url": "https://musicbrainz.org/release-group/b6d5a40f-72cf-46a5-a67f-586e05f30a73",
-    "d": "beatdown hardcore",
+    "d": "metalcore, beatdown hardcore",
     "sources": [
       {
         "name": "MusicBrainz",
@@ -370,10 +370,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -756,7 +756,7 @@
     "title": "Toosii returns with ‘Nights Prayed’ ahead of ‘Platinum Heart 2’ release - Big Country News |",
     "src": "Big Country News |",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXZKYl9jWC1xeHFMTzEyeTJyeF84MUo5NDg4bDBJVFV4b2ZLRGVqbGNYbnV0bWl6Q25QZlpBSS02ZHI3OExnb1M3bS16NWRBSFdHOGFaaERVdERKZTdfSkxhbzFHR3lKSE9sUTItOEVlNjNzQ0pXX2VnOGhNczRDQXVVaU5UMzExSjA4WG10Y1A3T3ZRZUNtRDRmZWN3alE2Rm96dDNYb3JjS01jcmc?oc=5",
-    "timestamp": "2026-10-13T09:47:23+00:00",
+    "timestamp": "2026-10-13T09:51:53+00:00",
     "isoDate": "2026-10-13",
     "date": "13 Out",
     "d": "Toosii returns with ‘Nights Prayed’ ahead of ‘Platinum Heart 2’ release Big Country News |",
@@ -895,10 +895,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -920,10 +920,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -945,10 +945,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1149,6 +1149,1398 @@
     "score": "",
     "cat": "general",
     "releaseKey": "pitchfork|at least you know what youre laughing at",
+    "kind": "review",
+    "section": "rev"
+  },
+  {
+    "b": "xDERISIONx",
+    "t": "American Straight Edge",
+    "g": "core",
+    "fmt": "EP",
+    "lbl": "MusicBrainz",
+    "date": "13 Out",
+    "isoDate": "2026-10-13",
+    "url": "https://musicbrainz.org/release-group/38e78119-6ee9-450b-b938-056c88af4c63",
+    "d": "metalcore, hardcore punk",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/38e78119-6ee9-450b-b938-056c88af4c63"
+      }
+    ],
+    "mbid": "38e78119-6ee9-450b-b938-056c88af4c63",
+    "star": true,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Staind",
+    "t": "Ghosts",
+    "g": "rock",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "13 Out",
+    "isoDate": "2026-10-13",
+    "url": "https://alterportal.net/alternative/190542-staind-ghosts-single-2026.html",
+    "d": "Alternative Metal / Post-Grunge",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190542-staind-ghosts-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "NORTH OF SILENCE",
+    "t": "Say It Again",
+    "g": "prog",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "13 Out",
+    "isoDate": "2026-10-13",
+    "url": "https://musicbrainz.org/release-group/df9d66ba-7bf3-462f-8cd2-b65d3c4f12dc",
+    "d": "progressive metal, metal, orchestral, dark ambient, cinematic",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/df9d66ba-7bf3-462f-8cd2-b65d3c4f12dc"
+      }
+    ],
+    "mbid": "df9d66ba-7bf3-462f-8cd2-b65d3c4f12dc",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Kingdom Of Giants",
+    "t": "Reign // 10 Cent Martyr",
+    "g": "core",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "13 Out",
+    "isoDate": "2026-10-13",
+    "url": "https://alterportal.net/alternative/190287-kingdom-of-giants-reign-single-2026.html",
+    "d": "Стиль: Metalcore / Electronic Треклист: 01. Reign + 02. 10 Cent Martyr new album \"Usurper\" out 13.11.2026",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190287-kingdom-of-giants-reign-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Hopes Avenue",
+    "t": "For The Broken",
+    "g": "electro",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "13 Out",
+    "isoDate": "2026-10-13",
+    "url": "https://alterportal.net/alternative/190543-hopes-avenue-for-the-broken-single-2026.html",
+    "d": "Alternative Metal / Electronic",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190543-hopes-avenue-for-the-broken-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "Ameonna (Ex-Chelsea Grin) Debut New Song “Of Sin & Secrecy” Ahead Of Their Live Debut",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/13/news/ameonna-ex-chelsea-grin-debut-new-song-of-sin-secrecy-ahead-of-their-live-debut/",
+    "timestamp": "2026-10-13T16:30:44+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "That outfit feature a trio of former Chelsea Grin members. The post Ameonna (Ex-Chelsea Grin) Debut New Song “Of Sin & Secrecy” Ahead Of Their Live Debut appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/13/news/ameonna-ex-chelsea-grin-debut-new-song-of-sin-secrecy-ahead-of-their-live-debut/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "A Perfect Circle Launch “Starless” Music Video",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/13/news/a-perfect-circle-launch-starless-music-video/",
+    "timestamp": "2026-10-13T16:21:04+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "Featuring footage from the song's live debut in London this past June. The post A Perfect Circle Launch “Starless” Music Video appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/13/news/a-perfect-circle-launch-starless-music-video/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Sammy Hagar Names Favorite AC/DC Album",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/sammy-hagar-favorite-acdc-album/",
+    "timestamp": "2026-10-13T16:09:17+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "Sammy Hagar calls this 1979 AC/DC album 'a masterpiece of rock and roll.' Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/sammy-hagar-favorite-acdc-album/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "BUSH's GAVIN ROSSDALE Explains Why He Still Likes Making Full-Length Albums",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/bushs-gavin-rossdale-explains-why-he-still-likes-making-full-length-albums",
+    "timestamp": "2026-10-13T15:42:22+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "In a new interview with Sarah Grynberg, host of \"A Life of Greatness\", one of Australia's leading lifestyle podcasts, Gavin Rossdale, frontman of iconic rock band BUSH, spoke about how the advent of digital platforms and music streaming services has changed the way artists produce and distribute the...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/bushs-gavin-rossdale-explains-why-he-still-likes-making-full-length-albums"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Sonic Temple Announces First Round of Bands For 2027 Festival",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/tour-dates/festivals/sonic-temple-announces-first-round-of-bands-for-2027-festival",
+    "timestamp": "2026-10-13T15:39:10+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "Four bands have been announced for the 2027 lineup. The post Sonic Temple Announces First Round of Bands For 2027 Festival appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/tour-dates/festivals/sonic-temple-announces-first-round-of-bands-for-2027-festival"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "See TETRARCH’s DIAMOND ROWE cover METALLICA for NFL’s ‘Sunday Night Football’",
+    "src": "Revolver",
+    "url": "https://www.revolvermag.com/music/see-tetrarchs-diamond-rowe-cover-metallica-for-nfls-sunday-night-football/",
+    "timestamp": "2026-10-13T15:13:20+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "Riffed hard for Atlanta Falcons fans",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Revolver",
+        "url": "https://www.revolvermag.com/music/see-tetrarchs-diamond-rowe-cover-metallica-for-nfls-sunday-night-football/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "HEATHEN Announces New Album 'Lifetime In Hell', Shares 'Escapegoat' Single",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/heathen-announces-new-album-lifetime-in-hell-shares-escapegoat-single",
+    "timestamp": "2026-10-13T14:42:05+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "San Francisco Bay Area thrash metal veterans HEATHEN will release their new album, \"Lifetime In Hell\", on February 19, 2027 via Napalm Records. The official music video for the LP's first single, \"Escapegoat\", can be seen below. Opening with a classic \"Let's go!\" rallying cry, the track storms forwa...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/heathen-announces-new-album-lifetime-in-hell-shares-escapegoat-single"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "The Forbidden Guitar Tom Morello Was Finally Able to Hold",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/tom-morello-forbidden-guitar-randy-rhoads/",
+    "timestamp": "2026-10-13T14:20:46+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "The Rage Against the Machine guitarist had long championed Randy Rhoads and was finally allowed by the Rhoads' family to hold his iconic guitar. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/tom-morello-forbidden-guitar-randy-rhoads/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "SLASH on Upcoming SLASH FEATURING MYLES KENNEDY & THE CONSPIRATORS Album 'Flying Blind': Most Of It 'Was Written Pretty Much On The Spot In Pre-Production'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/slash-on-upcoming-slash-featuring-myles-kennedy-the-conspirators-album-flying-blind-most-of-it-was-written-pretty-much-on-the-spot-in-pre-production",
+    "timestamp": "2026-10-13T14:14:50+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "During an appearance on the October 12 episode of SiriusXM's \"Trunk Nation With Eddie Trunk\", GUNS N' ROSES guitarist Slash spoke about the upcoming fifth album from SLASH FEATURING MYLES KENNEDY & THE CONSPIRATORS, \"Flying Blind\", which will arrive worldwide on February 26, 2027 via Gibson Reco...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/slash-on-upcoming-slash-featuring-myles-kennedy-the-conspirators-album-flying-blind-most-of-it-was-written-pretty-much-on-the-spot-in-pre-production"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch: Bring Me the Horizon Joined By Josh Scogin For \"The Fox and the Wolf\" Live Debut",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/watch-bring-me-the-horizon-joined-by-josh-scogin-for-the-fox-and-the-wolf-live-debut",
+    "timestamp": "2026-10-13T13:43:21+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "Norma Jean original singer/Chariot frontman/Mr. '68/all around great guy Josh Scogin killed it. The post Watch: Bring Me the Horizon Joined By Josh Scogin For \"The Fox and the Wolf\" Live Debut appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/watch-bring-me-the-horizon-joined-by-josh-scogin-for-the-fox-and-the-wolf-live-debut"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "STEVE HACKETT Announces 2027 North American Tour Dates",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/steve-hackett-announces-2027-north-american-tour-dates",
+    "timestamp": "2026-10-13T13:23:55+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "After 13 years, Steve Hackett is bringing his classic GENESIS material back to North American stages with a brand-new show celebrating the very best of GENESIS alongside highlights from his extensive solo career. In 2013, Hackett's North American and U.K. tours culminated in an acclaimed performance...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/steve-hackett-announces-2027-north-american-tour-dates"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Michael Stipe’s Debut Solo Album Almost Has a Release Date",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/michael-stipe-reveals-debut-solo-album-release-date/",
+    "timestamp": "2026-10-13T16:42:26+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/michael-stipe-reveals-debut-solo-album-release-date/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Indigo de Souza Launches GoFundMe To Buy Back Unreleased Album From Label",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514446/indigo-de-souza-launches-gofundme-to-buy-back-unreleased-album-from-label/news/",
+    "timestamp": "2026-10-13T16:35:11+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "The post Indigo de Souza Launches GoFundMe To Buy Back Unreleased Album From Label appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514446/indigo-de-souza-launches-gofundme-to-buy-back-unreleased-album-from-label/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Olivia Rodrigo Announces “expectations” Remix with Chappell Roan",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/olivia-rodrigo-expectations-remix-with-chappell-roan/",
+    "timestamp": "2026-10-13T16:28:21+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "Arriving October 15th at 5:00 p.m. PST. Olivia Rodrigo Announces “expectations” Remix with Chappell Roan Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/olivia-rodrigo-expectations-remix-with-chappell-roan/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The X-Files Is Officially Back: Hulu Picks Up Ryan Coogler Reboot to Series",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/the-x-files-reboot-ryan-coogler-confirmed/",
+    "timestamp": "2026-10-13T16:22:34+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "The pilot's score, it's been revealed, was created by Oscar-winning composer Ludwig Göransson. The X-Files Is Officially Back: Hulu Picks Up Ryan Coogler Reboot to Series Liz Shannon Miller",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/the-x-files-reboot-ryan-coogler-confirmed/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Hello Operator!, Connect Me To Eraser’s “DVD” Video",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514439/hello-operator-connect-me-to-erasers-dvd-video/music/",
+    "timestamp": "2026-10-13T16:03:47+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "The post Hello <em>Operator!</em>, Connect Me To Eraser’s “DVD” Video appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514439/hello-operator-connect-me-to-erasers-dvd-video/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Aesop Rock & Blockhead – “Coyote Summer” (Feat. Hanni El Khatib)",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514441/aesop-rock-blockhead-coyote-summer-feat-hanni-el-khatib/music/",
+    "timestamp": "2026-10-13T16:02:42+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "The post Aesop Rock & Blockhead – “Coyote Summer” (Feat. Hanni El Khatib) appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514441/aesop-rock-blockhead-coyote-summer-feat-hanni-el-khatib/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ben Barnes Reportedly Marries Aubrey Cleland — Meet the Singer and Actress - Enstarz",
+    "src": "Enstarz",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRDVJeDVsRVd1ZkEyOU5Fa19QNFNRNlZjLVhydzNvTll5VWtTay1vUS1KWjdLWUFobUNBeU1DRDdRNlJlSDkwTFhBUTlzdFlRY0R3cU81VWFrZWxiMS1QUVRyTDQwT2xiNmZlOHNzVmt5N20zV2dLTGFvcl81U1ZmRmhaN3JCSzFfLUp6ZWtzeWpXc3VOZmIza18zeUJKeWswVEZTYkRkMzVkaXdjR2FzY29tX00tSllJ?oc=5",
+    "timestamp": "2026-10-13T15:57:12+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "Ben Barnes Reportedly Marries Aubrey Cleland — Meet the Singer and Actress Enstarz",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Enstarz",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRDVJeDVsRVd1ZkEyOU5Fa19QNFNRNlZjLVhydzNvTll5VWtTay1vUS1KWjdLWUFobUNBeU1DRDdRNlJlSDkwTFhBUTlzdFlRY0R3cU81VWFrZWxiMS1QUVRyTDQwT2xiNmZlOHNzVmt5N20zV2dLTGFvcl81U1ZmRmhaN3JCSzFfLUp6ZWtzeWpXc3VOZmIza18zeUJKeWswVEZTYkRkMzVkaXdjR2FzY29tX00tSllJ?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Spanish Indie Is Having a Moment. Just Ask Niña Polaca.",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/spanish-indie-moment-nina-polaca/",
+    "timestamp": "2026-10-13T15:55:48+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "Beyond Rosalía and C. Tangana’s global success, Spain’s homegrown music scene keeps getting bigger, with indie bands now reaching arenas. Spanish Indie Is Having a Moment. Just Ask Niña Polaca. Pedro Camacho",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/spanish-indie-moment-nina-polaca/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "RUSH Mourn Passing of Neil Peart’s Head of Security and Motorcycle Riding Partner Michael Mosbach",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/rush-mourn-neil-peart-michael-mosbach/",
+    "timestamp": "2026-10-13T15:50:50+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "Mosbach passed from glioblastoma, the same aggressive brain cancer that took Peart's life. RUSH Mourn Passing of Neil Peart’s Head of Security and Motorcycle Riding Partner Michael Mosbach Langdon Hickman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/rush-mourn-neil-peart-michael-mosbach/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Shakira Reflects on Personal Struggles During Final Show of Historic 13-Date Madrid Residency",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/shakira-personal-struggles-madrid-residency-final-show/",
+    "timestamp": "2026-10-13T15:49:51+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "The Colombian superstar credited fans with helping her through a difficult month and welcomed Maluma, Bizarrap, Laura Pausini, and more. Shakira Reflects on Personal Struggles During Final Show of Historic 13-Date Madrid Residency Pedro Camacho",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/shakira-personal-struggles-madrid-residency-final-show/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kacey Musgraves brutally hits back at Kristi Noem’s criticism",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/kacey-musgraves-brutally-hits-back-at-kristi-noems-criticism-3973060?utm_source=rss&utm_medium=rss&utm_campaign=kacey-musgraves-brutally-hits-back-at-kristi-noems-criticism",
+    "timestamp": "2026-10-13T15:47:39+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "The former Secretary of Homeland Security shared a tweet, pitting her against Ella Langley The post Kacey Musgraves brutally hits back at Kristi Noem’s criticism appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/kacey-musgraves-brutally-hits-back-at-kristi-noems-criticism-3973060?utm_source=rss&utm_medium=rss&utm_campaign=kacey-musgraves-brutally-hits-back-at-kristi-noems-criticism"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Christopher Meloni’s a Badass Football Coach in First Trailer for New Hulu Series The Land: Watch",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/the-land-trailer-hulu-christopher-meloni/",
+    "timestamp": "2026-10-13T15:33:47+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "William H. Macy and Mandy Moore also star in the new show from Paradise creator Dan Fogelman. Christopher Meloni’s a Badass Football Coach in First Trailer for New Hulu Series The Land: Watch Liz Shannon Miller",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/the-land-trailer-hulu-christopher-meloni/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "fish narc – “Emma”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514433/fish-narc-emma/music/",
+    "timestamp": "2026-10-13T15:29:55+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "The post fish narc – “Emma” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514433/fish-narc-emma/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Listen to Robyn and Mechatok Remix Each Other",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/listen-to-robyn-and-mechatok-remix-each-other/",
+    "timestamp": "2026-10-13T15:27:50+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/listen-to-robyn-and-mechatok-remix-each-other/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Purple Pilgrims – “Outside”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514430/purple-pilgrims-outside/music/",
+    "timestamp": "2026-10-13T15:23:57+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "The post Purple Pilgrims – “Outside” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514430/purple-pilgrims-outside/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Demonstration Of Power Announce Debut Album In The Name Of…: Hear Two Songs",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514424/demonstration-of-power-announce-debut-album-in-the-name-of-hear-two-songs/music/",
+    "timestamp": "2026-10-13T15:09:22+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "The post Demonstration Of Power Announce Debut Album <em>In The Name Of…</em>: Hear Two Songs appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514424/demonstration-of-power-announce-debut-album-in-the-name-of-hear-two-songs/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Puerto Rican Icon Draco Rosa Brings Jazz and Psychedelia to Career-Spanning Tiny Desk: Watch",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/draco-rosa-jazz-pshychedelia-tiny-desk/",
+    "timestamp": "2026-10-13T15:08:28+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "The singer-songwriter revisited his 1996 classic Vagabundo, which turns 30 this year. Puerto Rican Icon Draco Rosa Brings Jazz and Psychedelia to Career-Spanning Tiny Desk: Watch Pedro Camacho",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/draco-rosa-jazz-pshychedelia-tiny-desk/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "World News – “Vinegar Swimming Pool”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514418/world-news-vinegar-swimming-pool/music/",
+    "timestamp": "2026-10-13T15:03:22+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "The post World News – “Vinegar Swimming Pool” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514418/world-news-vinegar-swimming-pool/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Slayyyter to Headline Madison Square Garden in June 2027",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/slayyyter-madison-square-garden-headlining-show-2027/",
+    "timestamp": "2026-10-13T14:58:36+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "The pop star's biggest show yet will take place at the New York City arena on June 21st, 2027. Slayyyter to Headline Madison Square Garden in June 2027 Paolo Ragusa",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/slayyyter-madison-square-garden-headlining-show-2027/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Lost Amy Winehouse interview resurfaces: “The thought of dying without ever making my mark, that was my biggest fear”",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/lost-amy-winehouse-interview-resurfaces-the-thought-of-dying-without-ever-making-my-mark-that-was-my-biggest-fear-3973054?utm_source=rss&utm_medium=rss&utm_campaign=lost-amy-winehouse-interview-resurfaces-the-thought-of-dying-without-ever-making-my-mark-that-was-my-biggest-fear",
+    "timestamp": "2026-10-13T14:57:28+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "The interview was held nearly 20 years ago, and saw the singer discuss her marriage to Blake Fielder-Civil, the huge response to 'Back To Black' and more The post Lost Amy Winehouse interview resurfaces: “The thought of dying without ever making my mark, that was my biggest fear” appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/lost-amy-winehouse-interview-resurfaces-the-thought-of-dying-without-ever-making-my-mark-that-was-my-biggest-fear-3973054?utm_source=rss&utm_medium=rss&utm_campaign=lost-amy-winehouse-interview-resurfaces-the-thought-of-dying-without-ever-making-my-mark-that-was-my-biggest-fear"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Dropkick Murphys Announce Boston Homestand of 2027 St. Patrick’s Day Tour",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/dropkick-murphys-boston-homestand-2027-st-patricks-day-tour/",
+    "timestamp": "2026-10-13T14:51:41+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "The Massachusetts punk band will play five concerts in Boston, including a matinee show for kids. Dropkick Murphys Announce Boston Homestand of 2027 St. Patrick’s Day Tour Spencer Kaufman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/dropkick-murphys-boston-homestand-2027-st-patricks-day-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "@ – “I Know You Are (But What Am I Thinking)”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514327/i-know-you-are-but-what-am-i-thinking/music/",
+    "timestamp": "2026-10-13T14:44:50+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "The post @ – “I Know You Are (But What Am I Thinking)” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514327/i-know-you-are-but-what-am-i-thinking/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Album Of The Week: Sophia Stel the greatest album of all time",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514364/album-of-the-week-sophia-stel-the-greatest-album-of-all-time/reviews/album-of-the-week/",
+    "timestamp": "2026-10-13T14:38:41+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "The post Album Of The Week: Sophia Stel <em>the greatest album of all time</em> appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514364/album-of-the-week-sophia-stel-the-greatest-album-of-all-time/reviews/album-of-the-week/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "JAŸ-Z Reportedly Racks Up Over $42 Million From Yankee Stadium Shows - REAL 92.3",
+    "src": "REAL 92.3",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTFJhQmFDLWxNVmdjLXphQ3BLRjUxWEl5aFZ4X1JoTnM1UWxxVGRTb0c3bXBSNEI0ZUo3YnB0dmhNQTRiTnp0b3dhY3dUMEZlT0w4alhSaTZ0aUdqcU5TNHZyUHlzaTlTcEo0MHc2RkNfd185VTd0UVJ3Rk5VVU5jQU1OUEVCN3I3VkRodDVDMWM0czNSZjVabUNValkzelRudFNHMENXdTgwaWRNT1VrWnROY0U3eXM?oc=5",
+    "timestamp": "2026-10-13T14:32:00+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "JAŸ-Z Reportedly Racks Up Over $42 Million From Yankee Stadium Shows REAL 92.3",
+    "category": "general",
+    "sources": [
+      {
+        "name": "REAL 92.3",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTFJhQmFDLWxNVmdjLXphQ3BLRjUxWEl5aFZ4X1JoTnM1UWxxVGRTb0c3bXBSNEI0ZUo3YnB0dmhNQTRiTnp0b3dhY3dUMEZlT0w4alhSaTZ0aUdqcU5TNHZyUHlzaTlTcEo0MHc2RkNfd185VTd0UVJ3Rk5VVU5jQU1OUEVCN3I3VkRodDVDMWM0czNSZjVabUNValkzelRudFNHMENXdTgwaWRNT1VrWnROY0U3eXM?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kacey Musgraves Had A Perfect Response To Kristi Noem’s Diss",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514405/kacey-musgraves-had-a-perfect-response-to-kristi-noems-diss/news/",
+    "timestamp": "2026-10-13T14:28:20+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "The post Kacey Musgraves Had A Perfect Response To Kristi Noem’s Diss appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514405/kacey-musgraves-had-a-perfect-response-to-kristi-noems-diss/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Dummy – “N Of 1”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514410/dummy-n-of-1/music/",
+    "timestamp": "2026-10-13T14:22:40+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "The post Dummy – “N Of 1” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514410/dummy-n-of-1/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Phoebe Bridgers Joins Bright Eyes for “Lua” in Nashville: Watch",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/phoebe-bridgers-bright-eyes-lua-nashville-watch/",
+    "timestamp": "2026-10-13T14:19:28+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "Both Bridgers and Bright Eyes happened to be playing headlining shows in Nashville this week. Phoebe Bridgers Joins Bright Eyes for “Lua” in Nashville: Watch Paolo Ragusa",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/phoebe-bridgers-bright-eyes-lua-nashville-watch/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Robyn & Mechatok Remix Each Other",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514352/robyn-mechatok-remix-each-other/music/",
+    "timestamp": "2026-10-13T14:08:12+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "The post Robyn & Mechatok Remix Each Other appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514352/robyn-mechatok-remix-each-other/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "How Jennie and Kevin Parker’s Chance Encounter Led to One of the Year’s Biggest Hits - Rolling Stone",
+    "src": "Rolling Stone",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTloMDNycVcxZDlQX1BwY25XLUtMRFh2RmdVWWNrQktITHQzd2VsY2Z0RkR5dWJwZU02VjV3dmpqM3VGNjBMQVNuOVNXckc1VlYyb0dtaUJySVV4NTJPT2VXekpxQkdyQTA2bl94Vmh6M1dnX1lyblhnSzlLTzJCRjBYVW5uaUJ5aExPSHlVUWxPaFdNbmFwMnI2VElrc2Utb2VQY0dJa3RiVmlaeEZpNkpUaFY?oc=5",
+    "timestamp": "2026-10-13T13:18:58+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "How Jennie and Kevin Parker’s Chance Encounter Led to One of the Year’s Biggest Hits Rolling Stone",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Rolling Stone",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTloMDNycVcxZDlQX1BwY25XLUtMRFh2RmdVWWNrQktITHQzd2VsY2Z0RkR5dWJwZU02VjV3dmpqM3VGNjBMQVNuOVNXckc1VlYyb0dtaUJySVV4NTJPT2VXekpxQkdyQTA2bl94Vmh6M1dnX1lyblhnSzlLTzJCRjBYVW5uaUJ5aExPSHlVUWxPaFdNbmFwMnI2VElrc2Utb2VQY0dJa3RiVmlaeEZpNkpUaFY?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Baby On The ‘Ready To Die’ Album Was Not Notorious B.I.G., Was Only Paid $150 For 2-Hour Photo Shoot - The Source Magazine",
+    "src": "The Source Magazine",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcjd3MnFLRHMxcW1wUW4xSGw5Ym9udXR0c3dXeV95dTVWRzlmQ0VOSWM4amM5WUlXd0JYWGE2T25DSm5ha2tTUDBWYS1kZ21MRTZhNmhFWG0wc1UxVTJpQ3ZXRVA2TFE3LWw3a094XzdUTG9MVEFqRXNSVFJuMUt1bE5HU3MzWEQ4RW9hS0RubkxiNXhxdExmMWdWcFBQXzc4OWxra1NtQk1SLXptRnpZODF6N1hWOWhPU2l2RDZYRUdHRmRsSVJCYWVJNlMwZw?oc=5",
+    "timestamp": "2026-10-13T13:11:34+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "The Baby On The ‘Ready To Die’ Album Was Not Notorious B.I.G., Was Only Paid $150 For 2-Hour Photo Shoot The Source Magazine",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Source Magazine",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcjd3MnFLRHMxcW1wUW4xSGw5Ym9udXR0c3dXeV95dTVWRzlmQ0VOSWM4amM5WUlXd0JYWGE2T25DSm5ha2tTUDBWYS1kZ21MRTZhNmhFWG0wc1UxVTJpQ3ZXRVA2TFE3LWw3a094XzdUTG9MVEFqRXNSVFJuMUt1bE5HU3MzWEQ4RW9hS0RubkxiNXhxdExmMWdWcFBQXzc4OWxra1NtQk1SLXptRnpZODF6N1hWOWhPU2l2RDZYRUdHRmRsSVJCYWVJNlMwZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Farah Siraj to Perform Album Release Concert at Drom - BroadwayWorld",
+    "src": "BroadwayWorld",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNndPanoyREc3eDNGUTh3ckg3RmM4ckRUcldWTkN2WWRSRVB4LVV0Vzd1MjVCUE9mdmZfSVA5d1ZIbnhsUjJyb3Y0SlZvTVQ1djFsTFhsb1hyUjYxOVpBLVVzZU9aYnh5QzdKZW5nUE1LYmJxX1VHbThCNkJscV9SWnZfR0xQalAxc1pEREctNHdhZ05pRUQ3UDkxQjY5QUx1?oc=5",
+    "timestamp": "2026-10-13T13:08:44+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "Farah Siraj to Perform Album Release Concert at Drom BroadwayWorld",
+    "category": "general",
+    "sources": [
+      {
+        "name": "BroadwayWorld",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNndPanoyREc3eDNGUTh3ckg3RmM4ckRUcldWTkN2WWRSRVB4LVV0Vzd1MjVCUE9mdmZfSVA5d1ZIbnhsUjJyb3Y0SlZvTVQ1djFsTFhsb1hyUjYxOVpBLVVzZU9aYnh5QzdKZW5nUE1LYmJxX1VHbThCNkJscV9SWnZfR0xQalAxc1pEREctNHdhZ05pRUQ3UDkxQjY5QUx1?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Fotoreportagem Under The Doom 2026, Dia 1: Process of Guilt, Schammasch, Ereb Altor, ANZV, Thragedium e Thrownness",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/fotoreportagem-under-the-doom-2026-dia-1-process-of-guilt-schammasch-ereb-altor-anzv-thragedium-e-thrownness/",
+    "timestamp": "2026-10-13T16:29:58+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "%featured_image% Entre ambientes sombrios, riffs pesados e momentos de forte carga ritual, o público acompanhou uma primeira jornada do Under The Doom 2026 marcada pela diversidade sonora do cartaz.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/fotoreportagem-under-the-doom-2026-dia-1-process-of-guilt-schammasch-ereb-altor-anzv-thragedium-e-thrownness/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Bárbara Bandeira inicia digressão acústica \"Maresia\" em dezembro - Notícias ao Minuto",
+    "src": "Notícias ao Minuto",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUEpGektrYUVtWTRKb0tGYmZXSngxMGlkeF9TcjFVVnZTcG5UdHVRd08wMklHOXFiRHFLQU1KT2JyOTVTVkVEaWcyTEpVakxGcFFsa0dZaVZwd1VLbnNvVVk3eHZwVnNYYVBUTnp3YXp4bFdrXy01dm9NN2tZZEItcE1tc0NQY3B5WUlld1lvUnZnTHdyQ3pVOWxVdVN0V1A5UDBNbXJPRVl6ZHFK?oc=5",
+    "timestamp": "2026-10-13T16:02:56+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "Bárbara Bandeira inicia digressão acústica \"Maresia\" em dezembro Notícias ao Minuto",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Notícias ao Minuto",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUEpGektrYUVtWTRKb0tGYmZXSngxMGlkeF9TcjFVVnZTcG5UdHVRd08wMklHOXFiRHFLQU1KT2JyOTVTVkVEaWcyTEpVakxGcFFsa0dZaVZwd1VLbnNvVVk3eHZwVnNYYVBUTnp3YXp4bFdrXy01dm9NN2tZZEItcE1tc0NQY3B5WUlld1lvUnZnTHdyQ3pVOWxVdVN0V1A5UDBNbXJPRVl6ZHFK?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Pierre Aderne traz em show intercâmbio entre culturas de língua portuguesa - Folha de S.Paulo",
+    "src": "Folha de S.Paulo",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOGlEVHdHVVlrWUM5UXZoanpZbXFhcFYzQ0JTaTB0UVpULWY2THZDUEprMUlJLUxGMEtnWEh2ZFZmVjMwMVIwSDk2VS1WdU5LSFpyam1McGtLWElJV2ljaXZoMGZ0Q01iMUQwSDRocU9CZ05SVmdLUWpKOTQ4bE9hUTBnVk5SVmQ5dlpvdWhQcWo5XzktOW5BWlYzdVpIMnlpUTdxb1pDbW1CVW1zU1hGZ2J0T0UxcHJwbFhnZUpISHRSTHM5SXQ4?oc=5",
+    "timestamp": "2026-10-13T16:00:00+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "Pierre Aderne traz em show intercâmbio entre culturas de língua portuguesa Folha de S.Paulo",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Folha de S.Paulo",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOGlEVHdHVVlrWUM5UXZoanpZbXFhcFYzQ0JTaTB0UVpULWY2THZDUEprMUlJLUxGMEtnWEh2ZFZmVjMwMVIwSDk2VS1WdU5LSFpyam1McGtLWElJV2ljaXZoMGZ0Q01iMUQwSDRocU9CZ05SVmdLUWpKOTQ4bE9hUTBnVk5SVmQ5dlpvdWhQcWo5XzktOW5BWlYzdVpIMnlpUTdxb1pDbW1CVW1zU1hGZ2J0T0UxcHJwbFhnZUpISHRSTHM5SXQ4?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Morre Netinho, cantor de “Milla”, aos 60 anos. Relembre a relação do músico com Portugal - SAPO",
+    "src": "SAPO",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ2pza01XT2wxRDRQR2lONmk3dzZtUTVZYjF5UmpnalcydWlUQXc0RmFWNTQtM3g1NWR4R2lMSkNQT3ZMT3M1MG9mS3V6ZkZyOEk1T1Mtb3ZQeWVEdDFKdjg5OHQ3SlBfc1FZSlEwQV9SbXpCdm44aTN0SkpGQURDVmNvd0kyNF9ISlZDNWFzQ0JtSnlDNUs2ZlpzdzVnaHpGcWxEYjJLMU1ER3NaY05pSHJCaVRrZ2I1YjgzeTFtNW96c051cjBaTGg2cw?oc=5",
+    "timestamp": "2026-10-13T15:50:23+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "Morre Netinho, cantor de “Milla”, aos 60 anos. Relembre a relação do músico com Portugal SAPO",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "SAPO",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ2pza01XT2wxRDRQR2lONmk3dzZtUTVZYjF5UmpnalcydWlUQXc0RmFWNTQtM3g1NWR4R2lMSkNQT3ZMT3M1MG9mS3V6ZkZyOEk1T1Mtb3ZQeWVEdDFKdjg5OHQ3SlBfc1FZSlEwQV9SbXpCdm44aTN0SkpGQURDVmNvd0kyNF9ISlZDNWFzQ0JtSnlDNUs2ZlpzdzVnaHpGcWxEYjJLMU1ER3NaY05pSHJCaVRrZ2I1YjgzeTFtNW96c051cjBaTGg2cw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Parallel Minds lança o Atavism, um efeito espectral (VST3/AU)",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/parallel-minds-lanca-o-atavism-um-efeito-espectral-vst3-au/",
+    "timestamp": "2026-10-13T15:12:07+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "%featured_image% Atavism, da Parallel Minds, é um efeito espectral que transforma uma faixa no seu próprio pad.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/parallel-minds-lanca-o-atavism-um-efeito-espectral-vst3-au/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Faleceu Netinho, cantor brasileiro que conquistou o público com “Milla”, aos 60 anos",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/faleceu-netinho-cantor-brasileiro-que-conquistou-o-publico-com-milla-aos-60-anos/",
+    "timestamp": "2026-10-13T14:46:44+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "%featured_image% O músico baiano Netinho foi uma das vozes marcantes da axé music, género que levou a música e a energia do Carnaval de Salvador a todo o Brasil.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/faleceu-netinho-cantor-brasileiro-que-conquistou-o-publico-com-milla-aos-60-anos/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Milhares conhecem a sua música, mas poucos esperavam esta notícia: morreu aos 60 anos um dos artistas mais acarinhados em Portugal - TVI",
+    "src": "TVI",
+    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQOUQxbzhMOWJBSS0weXlaTVRyd0pOc3BYdG5qdzZKN0E4dlhHMmN2YS1kYVR3NlRMbGdaS3FvOXZqaUNmRDhiU01XQ0dCMHZab1ZtUDJvZVU1N2w5Qk9CTXBWN25ZcG1BeUttNWRWTDlubTBzN2pDSlp6UnZaU25PN21PWVVaYnp2SjBNSWVVSDVhZlZPdDNlQm5VaWlnUzA4UDlYWnpfTU1fcWJEUEVpWGtQXy0wWWNUcE9ydmRFUjAta3lyblBSSGhyWTJLcEZyZXhkejBKX0N3NWdVSnl2NXdwNEk0MnUtODFtdmFzT0FRX2d5cWl0aWhxM3NFckxzcDJiYjljY2xSNjlIYldyR3NrVlQ5blNnNzRUcw?oc=5",
+    "timestamp": "2026-10-13T14:42:45+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "Milhares conhecem a sua música, mas poucos esperavam esta notícia: morreu aos 60 anos um dos artistas mais acarinhados em Portugal TVI",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "TVI",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQOUQxbzhMOWJBSS0weXlaTVRyd0pOc3BYdG5qdzZKN0E4dlhHMmN2YS1kYVR3NlRMbGdaS3FvOXZqaUNmRDhiU01XQ0dCMHZab1ZtUDJvZVU1N2w5Qk9CTXBWN25ZcG1BeUttNWRWTDlubTBzN2pDSlp6UnZaU25PN21PWVVaYnp2SjBNSWVVSDVhZlZPdDNlQm5VaWlnUzA4UDlYWnpfTU1fcWJEUEVpWGtQXy0wWWNUcE9ydmRFUjAta3lyblBSSGhyWTJLcEZyZXhkejBKX0N3NWdVSnl2NXdwNEk0MnUtODFtdmFzT0FRX2d5cWl0aWhxM3NFckxzcDJiYjljY2xSNjlIYldyR3NrVlQ5blNnNzRUcw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Morreu Netinho, a voz de «Milla» que conquistou Portugal nos anos 90 - Infocul",
+    "src": "Infocul",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTklQQWhHSlZUSDJxUElCRmFZbFBacGRiSWI0UmR1YkZlbmlJazAyanVwdDJhM045SEhRNFlKckdDYTZqZXNmT0IwS2R1aVlPc0gyMkV2UVZFcDcwa3NOSmpIWngtX0VPS0haMlpCVEZRc1VidWc4Z2p5cWZHTEVWQlBnLWZ3SUU2aXNjd1J3?oc=5",
+    "timestamp": "2026-10-13T14:09:52+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "Morreu Netinho, a voz de «Milla» que conquistou Portugal nos anos 90 Infocul",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Infocul",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTklQQWhHSlZUSDJxUElCRmFZbFBacGRiSWI0UmR1YkZlbmlJazAyanVwdDJhM045SEhRNFlKckdDYTZqZXNmT0IwS2R1aVlPc0gyMkV2UVZFcDcwa3NOSmpIWngtX0VPS0haMlpCVEZRc1VidWc4Z2p5cWZHTEVWQlBnLWZ3SUU2aXNjd1J3?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Tudo novo no HomePod mini 2. Menos a ausência em Portugal... - ifeed.pt",
+    "src": "ifeed.pt",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9odnlORkFQQnFOTHBPWFhvZGxYRmVSNVhlUURGMlYxVmM5RzIyRS1sRmJFU21KXzRJQVI0UjF4ZGx6VzhPMzdFWmMxenk?oc=5",
+    "timestamp": "2026-10-13T14:04:49+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "Tudo novo no HomePod mini 2. Menos a ausência em Portugal... ifeed.pt",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "ifeed.pt",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9odnlORkFQQnFOTHBPWFhvZGxYRmVSNVhlUURGMlYxVmM5RzIyRS1sRmJFU21KXzRJQVI0UjF4ZGx6VzhPMzdFWmMxenk?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Blood and Sun",
+    "t": "Aion’s Light Review",
+    "src": "Angry Metal Guy",
+    "date": "13 Out",
+    "isoDate": "2026-10-13",
+    "timestamp": "2026-10-13T16:41:33+00:00",
+    "url": "https://www.angrymetalguy.com/blood-and-sun-aions-light-review/",
+    "d": "\"Few bands are as kvlt as Blood and Sun , and they play folk. Luke Tromiczak has toiled away at his dark Americana neofolk project since the mid-2010s, mixing 70s-style folk and black metal atmosphere with the purpose of delving \"into the borderlands between s",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "blood and sun|aions light review",
     "kind": "review",
     "section": "rev"
   },
@@ -6008,8 +7400,8 @@
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU25VWUExdDJrRFF5WnBRblVjVWZKNjhUcWo1NzNsNVFhbUpmSW9JMGp5S1ZmaDNHeFVmU0twaEJTT0lfNTJ3Z044WF9zdDMwRmsxZXJ1M1FkOEs5V00xRk1ibG5ObzBqRlp3TjJQU0tnOEoyUjVkak1jTWh3bHFmUTlVUXNaZ1ZXOXlJbmV4R3phT1NvNTZDZjBYSk5rRVBSanpudQ?oc=5"
       },
       {
-        "name": "95.9 The RAT",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMnViVTJEU2pycUlLbGdZOTI2LVZzeDNfdHdDUmxFQVluWjUtLXdmX1g5SmJtejdNQW00eE5EcW9PQWk1OTVnM0o5TWJ3YkJKTld4QVVjYUdZUzlHbkg5UGVyVmxacVBUeWtzVnI5empOSlN1Sl9rUUtYcGNsNHdtT2lUb0dnV0lGQ2tRNURFRUtMV0hZczQ1aC1IV0xCeks5LThXRw?oc=5"
+        "name": "WDHA FM",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYmVXeVZCbFB5NGsxa1pJZ25hUFc3MW53UGJlVzN5VXRZX3ZtYWZKbXpRN2pPeUE4c2ptc3NZZXZZTjg2Q1ZaYjE2a2RKXzgzaTZDTUM0MXMtZTd4T2xYd2p3T0M1djBkWDM2Y3JmaXhNU0duNDNLQnhhZUFEcS01ZEhrMmZGZU5fbE93Rm54VTJOX1d1QkNoU3BlUVlYaUtFbWVhdzdzcw?oc=5"
       }
     ],
     "status": "official",
@@ -6121,6 +7513,56 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Here’s how to secure Remi Wolf presale tickets today for 2027 ‘Mud Tour’ - Syracuse.com",
+    "src": "Syracuse.com",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd1hUV3BJTUpZRTBpdkJPMEozbTNMUTRrNnJsU2JnQVJZTlIzWWpMQ2Y4UHYtVnJzYXJjNDJqWHJKZWhNSmN5WEVnYWN1blMwODJMQTh0ZVlPdE9fY3ZtbEFLTDZRMldBMzZ0Qm5vd0FQQTAtaWZCUkphZGkwVk02bElkdDFQUDZRUGZndUdZZ0pWVGVhT1hKbVJ2bWcyaEx0N3lHX2d2V2NraUJiTkd3ek15Xzc4VTU2N01Ed2lhMNIB0wFBVV95cUxNRTBDbUR5amlMV09kV29keE5OQkRlQU8tZGpURkZDYVdpak1zeXlmNWNMX1cwZjlJejFSdEhmWlJLRm13Zm1pYnNESGo5TlcydjlwNkIyeUsyTkZmRnRLaTQyZVNlVFJGY25nX3IzbFQxNFhIVV9VenVsclltMjRVT0lLMFV2MnQ4Z3hBeDd4YjlVWmpqdnNSNW9oX2JCM2F5aUJDMGpqVDh1eloxNFRlaDdzRkprVUdoUEdsd3FxekhVNkM5U3NicjI1VGVNUURSVnFJ?oc=5",
+    "timestamp": "2026-10-12T17:31:00+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "Here’s how to secure Remi Wolf presale tickets today for 2027 ‘Mud Tour’ Syracuse.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Syracuse.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd1hUV3BJTUpZRTBpdkJPMEozbTNMUTRrNnJsU2JnQVJZTlIzWWpMQ2Y4UHYtVnJzYXJjNDJqWHJKZWhNSmN5WEVnYWN1blMwODJMQTh0ZVlPdE9fY3ZtbEFLTDZRMldBMzZ0Qm5vd0FQQTAtaWZCUkphZGkwVk02bElkdDFQUDZRUGZndUdZZ0pWVGVhT1hKbVJ2bWcyaEx0N3lHX2d2V2NraUJiTkd3ek15Xzc4VTU2N01Ed2lhMNIB0wFBVV95cUxNRTBDbUR5amlMV09kV29keE5OQkRlQU8tZGpURkZDYVdpak1zeXlmNWNMX1cwZjlJejFSdEhmWlJLRm13Zm1pYnNESGo5TlcydjlwNkIyeUsyTkZmRnRLaTQyZVNlVFJGY25nX3IzbFQxNFhIVV9VenVsclltMjRVT0lLMFV2MnQ4Z3hBeDd4YjlVWmpqdnNSNW9oX2JCM2F5aUJDMGpqVDh1eloxNFRlaDdzRkprVUdoUEdsd3FxekhVNkM5U3NicjI1VGVNUURSVnFJ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Super Bowl Halftime Show Odds 2027: JAY-Z Back on Top - Covers.com",
+    "src": "Covers.com",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JN2dIdUlBbGxpaGQ4WWVSbm5ITWJvTzM0R3h4S1RwY0tialZ4Ti1DRHprcVNsNmlOUmpuWUM3YjA2aTlYTTd0RWlrdVlaSTdNZVloWGxsamFkTENBOG1iUlR4ZlpFWTd6eXc?oc=5",
+    "timestamp": "2026-10-12T07:30:00+00:00",
+    "isoDate": "2026-10-12",
+    "date": "12 Out",
+    "d": "Super Bowl Halftime Show Odds 2027: JAY-Z Back on Top Covers.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Covers.com",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JN2dIdUlBbGxpaGQ4WWVSbm5ITWJvTzM0R3h4S1RwY0tialZ4Ti1DRHprcVNsNmlOUmpuWUM3YjA2aTlYTTd0RWlrdVlaSTdNZVloWGxsamFkTENBOG1iUlR4ZlpFWTd6eXc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
   },
   {
     "title": "1972 was rock's wildest, strangest year. Here are its 25 greatest albums - Classical-Music.com",
@@ -6576,7 +8018,7 @@
     "title": "Coral Divo Canto leva retrato musical e literário de Portugal a Berlim - BOM DIA - Portugal no Mundo",
     "src": "BOM DIA - Portugal no Mundo",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYVpyaENHQWRkZXAwRUdQNzlsbldtdUdBNWpkZmxUSVJyeVJBdVNRbDl0VnJYVUZoTGs1a0l0UHE1MlRWeU9pZU5HaFJXbWZLOWM5dk9iVmlQVGZfVlhueWxXc2w3Zm5WTmlVVGdIU3l0OHJFbkM2WVFfSkw3bGlVblNuaFNIV3AtRnlJSTIya0MwWEE?oc=5",
-    "timestamp": "2026-10-11T06:09:20+00:00",
+    "timestamp": "2026-10-11T06:05:00+00:00",
     "isoDate": "2026-10-11",
     "date": "11 Out",
     "d": "Coral Divo Canto leva retrato musical e literário de Portugal a Berlim BOM DIA - Portugal no Mundo",
@@ -10879,6 +12321,56 @@
       {
         "name": "https://theriffreport.co.uk/",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWGt0amtVNDFiYUptYmZZS1dFVDZvc2dUWkEwRFNoa1pMN3NmbWRDMmFZVDlkMzNjY1A0OVNqZ0JLblVyNmxUNGdZSXN0WUxIUU5uUUNPcUJDM1Jlc25KeGZZTmNPRkZDamtFbFlXQmxySndxbWNXWm10ektaN0djSmhvZUloSEhCaGRzSXBLaElGRjJhcFppdk11NWplVzdjc29uc1R6YXFTdHpjY19mUFFPdzFDSWEzVjBnZzhqOV9JVjhKbno5TVRnQmNGS3BKRnhFRzBvRjFWWDFFM3FUWlZqeVptZVpqSHVaM1E5cElVdw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Band Spotlight: The New Room Talk Post-Punk, Family, and Getting the Cops Called - Disarray Magazine",
+    "src": "Disarray Magazine",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHhDUHBHdndGUFlQaEV5YWJzbXBwVTMwVDBBOUkxbFl3SDJhMWtlX3RSNXJKV0NqZFp3d2diNVM3aHI4eEd5WlBWelRJNjN4eTNYRFV4aUZ2djh6X0w5dnh2SHpTQk5pMzZwQnBDV0RPand0bGd0TnUwV1lUT2w3SVJmcWliTW55YTlRdWpFQkJMeWhDbnFRazlIQjBvT05iLTk5YUFnOG9YVU90Z241eA?oc=5",
+    "timestamp": "2026-10-10T15:00:00+00:00",
+    "isoDate": "2026-10-10",
+    "date": "10 Out",
+    "d": "Band Spotlight: The New Room Talk Post-Punk, Family, and Getting the Cops Called Disarray Magazine",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Disarray Magazine",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHhDUHBHdndGUFlQaEV5YWJzbXBwVTMwVDBBOUkxbFl3SDJhMWtlX3RSNXJKV0NqZFp3d2diNVM3aHI4eEd5WlBWelRJNjN4eTNYRFV4aUZ2djh6X0w5dnh2SHpTQk5pMzZwQnBDV0RPand0bGd0TnUwV1lUT2w3SVJmcWliTW55YTlRdWpFQkJMeWhDbnFRazlIQjBvT05iLTk5YUFnOG9YVU90Z241eA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "‘Star Trek’ legend William Shatner, 95, reveals surprising details about his heavy metal album - Page Six",
+    "src": "Page Six",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOXzhtdWtOUmg1RUtMTjd2LWpxQ29GVGthLW5mekd5d0d6Ykh4U1RSZV9xRDY3SnlOeVI4S3phc1hDa2hncDFaQXlGc0pVakkwZmw1SmNobFJWaTdhaFdRTE5pUXF3YlJwYVhTQmFnbzVpN3lGQU5SU3Z6RGlzaEZBb0tONVdBRlEtN2VjZXk3TXlJSjBDVE5uVkYxdVpKS09QN0ppdUFPSDFOX29VaExTSmFlQ1FUYkZLckljLU1JWFUxbHZKaXZzWnh5T21FRjZaZnc?oc=5",
+    "timestamp": "2026-10-10T14:00:00+00:00",
+    "isoDate": "2026-10-10",
+    "date": "10 Out",
+    "d": "‘Star Trek’ legend William Shatner, 95, reveals surprising details about his heavy metal album Page Six",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Page Six",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOXzhtdWtOUmg1RUtMTjd2LWpxQ29GVGthLW5mekd5d0d6Ykh4U1RSZV9xRDY3SnlOeVI4S3phc1hDa2hncDFaQXlGc0pVakkwZmw1SmNobFJWaTdhaFdRTE5pUXF3YlJwYVhTQmFnbzVpN3lGQU5SU3Z6RGlzaEZBb0tONVdBRlEtN2VjZXk3TXlJSjBDVE5uVkYxdVpKS09QN0ppdUFPSDFOX29VaExTSmFlQ1FUYkZLckljLU1JWFUxbHZKaXZzWnh5T21FRjZaZnc?oc=5"
       }
     ],
     "status": "official",
@@ -18805,7 +20297,7 @@
     "title": "Josh Homme on Steering Away From Stoner Rock: 'I Don't Want to Be the 15th Best Sabbath Cover Band' - Ultimate Guitar",
     "src": "Ultimate Guitar",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOGNVbVFkc2Jvd3YzWml6Y1dJSDlJQnRlRWtFaklTYUF6ZG1aeEc0RmFGN2tLZkhuRVNrUFk0S0RVUU9LUWVIMTM0WUkyWnJaX19IV0RVaVc1enNnd2RWT3doM2ZfNy1Rb0FUNFJ0d1duaWFZbDY3ZUFYOFhwMHk5RTRoN1VLZzFjT1FsLVZTVmJfTEY2UmxQb09tRnNjQVlqQkp3VlNxQS1fNUJhWjc0RmtkQmpZT2xLNjRWb3hHaktIU3JDX0d5bU1PWHRzd3AxeVdlY0RSMm5jMklfOGV0al9wQ3U5dw?oc=5",
-    "timestamp": "2026-10-09T09:58:58+00:00",
+    "timestamp": "2026-10-09T13:02:42+00:00",
     "isoDate": "2026-10-09",
     "date": "9 Out",
     "d": "Josh Homme on Steering Away From Stoner Rock: 'I Don't Want to Be the 15th Best Sabbath Cover Band' Ultimate Guitar",
@@ -18946,6 +20438,52 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "b": "Last",
+    "t": "Potent Desperation",
+    "g": "doom",
+    "fmt": "EP",
+    "lbl": "MusicBrainz",
+    "date": "9 Out",
+    "isoDate": "2026-10-09",
+    "url": "https://musicbrainz.org/release-group/60d5e630-da60-42a6-930b-62b7457a1779",
+    "d": "sludge metal",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/60d5e630-da60-42a6-930b-62b7457a1779"
+      }
+    ],
+    "mbid": "60d5e630-da60-42a6-930b-62b7457a1779",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "title": "Judas Priest’s Complete Lineup History: From Jug Blues Band to Metal Icons - AOL.ca",
+    "src": "AOL.ca",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaENUWm1MVG9qM1JsOXFnS0wxMTZWaWQ2eUpRX1AybDhQVXIwcjE0VHhOc0NkVDVWR2t0ai1kVkVOSUFKdFZFYW9Ub1JBTUk1eUVNbzg1OG04WFd4emwydW8tMXpFa1hTYnlsWlBjalR0OW51clJaeDBLNEdKOFdIbkk3bVpTdw?oc=5",
+    "timestamp": "2026-10-09T19:36:13+00:00",
+    "isoDate": "2026-10-09",
+    "date": "9 Out",
+    "d": "Judas Priest’s Complete Lineup History: From Jug Blues Band to Metal Icons AOL.ca",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "AOL.ca",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaENUWm1MVG9qM1JsOXFnS0wxMTZWaWQ2eUpRX1AybDhQVXIwcjE0VHhOc0NkVDVWR2t0ai1kVkVOSUFKdFZFYW9Ub1JBTUk1eUVNbzg1OG04WFd4emwydW8tMXpFa1hTYnlsWlBjalR0OW51clJaeDBLNEdKOFdIbkk3bVpTdw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
   },
   {
     "title": "Westside Cowboy Play Brooklyn: Backstage and In the Crowd - Rolling Stone",
