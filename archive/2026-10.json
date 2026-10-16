@@ -441,10 +441,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -466,10 +466,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -491,10 +491,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -516,10 +516,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -541,10 +541,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -781,7 +781,7 @@
     "title": "Eivør celebrates album release with new video ‘Og Mánin Græt / And The Moon Cried’ - Chaoszine",
     "src": "Chaoszine",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMi12MTdzdkRic01nUUxreGtseFp4a1Zkak42UVJobDhWX2VNUzVfUll6Z3VkdlU1T0FCUzdTbUphNmtxLWJvalk1eUhHQ0lfZXVYMF9CMUlFWWVCZzFraFFHVzVtUkl1aEFMZHZnSmhpcWJKU3RqVTBsZlVuTmJ5aFl5OVFTZkxSaUdMZURpdUlIUGFyUklqU0RjV3NuanZBZXQ4Zg?oc=5",
-    "timestamp": "2026-10-16T08:48:45+00:00",
+    "timestamp": "2026-10-16T13:03:10+00:00",
     "isoDate": "2026-10-16",
     "date": "16 Out",
     "d": "Eivør celebrates album release with new video ‘Og Mánin Græt / And The Moon Cried’ Chaoszine",
@@ -881,7 +881,7 @@
     "title": "Carnifex premiere “Licking Love From A Knife” music video ahead of new album - Chaoszine",
     "src": "Chaoszine",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ3JKMmhERjJHdGNoTnRtX0VvLWV2dWw4end1T3poS0lwNlBkeFgzTTl1dFRTaHRjSzZuNVByZEVNRnl2MXZORU1kM0pNaTNmUl9MSV9tQWZ0bXdrN2VqRHlKZmJ4S0F2UGhTLWJNNnZHQzRyeElrbUhhejh0VENzeU0wekgwam5Bc3p0NXE0dlJnV3pfQWxRRVlwQ1NKQQ?oc=5",
-    "timestamp": "2026-10-16T07:59:39+00:00",
+    "timestamp": "2026-10-16T08:35:42+00:00",
     "isoDate": "2026-10-16",
     "date": "16 Out",
     "d": "Carnifex premiere “Licking Love From A Knife” music video ahead of new album Chaoszine",
@@ -1270,10 +1270,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1739,11 +1739,15 @@
       {
         "name": "Loudwire",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YRE1GazBzRjJreDQwWkZXRzhEb3JGVUlQMFg1QkQ3TUEwMzI1M3l3V0N5Z1dtSGhtME5KZnhBQ2Yzb0pXSUIwT084TTU4a0tjcEdWcFhfcVRYY3oyRjBuZXBLRlh0SkJWRHhmVktYSG1RVU02?oc=5"
+      },
+      {
+        "name": "106.3 The Buzz",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2diWndQLTJxR3JYaGR2VHM0ZjlRMXhYNmNnYU9OQUZXZHNySVluQjFKamxsMDVER29WcXRHdGZrVEZnTmExd2NwWGhWaGJERVZmeU5MVUZ2dUNaZFpsN052aEpWT1IyX3BQSTdxZ1RsWk80M3J0c2l1S1M2UTVDWmhIalRzQQ?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 1,
+    "sourceCount": 2,
     "isBreaking": true,
     "isPT": false,
     "isCore": false,
@@ -2294,10 +2298,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2365,6 +2369,1048 @@
     "releaseKey": "antania|the unholy 33 review",
     "kind": "review",
     "section": "rev"
+  },
+  {
+    "title": "Slayyyter Sells Out Madison Square Garden Show [Updated]",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/slayyyter-madison-square-garden-headlining-show-2027/",
+    "timestamp": "2026-10-16T15:31:36+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "The pop star's biggest show yet will take place at the New York City arena on June 21st, 2027. Slayyyter Sells Out Madison Square Garden Show [Updated] Paolo Ragusa",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/slayyyter-madison-square-garden-headlining-show-2027/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "b": "Neon Beat",
+    "t": "Thank You For Your Love",
+    "g": "pop",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "16 Out",
+    "isoDate": "2026-10-16",
+    "url": "https://musicbrainz.org/release-group/150e4815-b483-4ebc-91d4-e1be70358a16",
+    "d": "pop",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/150e4815-b483-4ebc-91d4-e1be70358a16"
+      }
+    ],
+    "mbid": "150e4815-b483-4ebc-91d4-e1be70358a16",
+    "star": false,
+    "kind": "release",
+    "section": "main"
+  },
+  {
+    "b": "Ugress",
+    "t": "The Lost World",
+    "g": "electro",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "16 Out",
+    "isoDate": "2026-10-16",
+    "url": "https://musicbrainz.org/release-group/34adabbc-dec0-48a5-b165-501096b99eb5",
+    "d": "electronic, soundtrack, classical, big beat, instrumental",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/34adabbc-dec0-48a5-b165-501096b99eb5"
+      }
+    ],
+    "mbid": "34adabbc-dec0-48a5-b165-501096b99eb5",
+    "star": false,
+    "kind": "release",
+    "section": "main"
+  },
+  {
+    "title": "DORO Shares 'You R Not Alone' Single/Video From Upcoming 'Wild At Heart' Special Release",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/doro-shares-you-r-not-alone-single-video-from-upcoming-wild-at-heart-special-release",
+    "timestamp": "2026-10-16T15:22:56+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "Just in time for the start of her \"Winter Magic\" tour on December 11, 2026, German metal queen Doro Pesch brings the rock world a red-hot work full of new killer tracks with her special release \"Wild At Heart\". The first perfect foretaste was provided by \"Rock You 2 Death\", the first new single, whi...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/doro-shares-you-r-not-alone-single-video-from-upcoming-wild-at-heart-special-release"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "BAD COMPANY Shares 'Bad Company' Music Video From Upcoming 'Live In London' Album",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/bad-company-shares-bad-company-music-video-from-upcoming-live-in-london-album",
+    "timestamp": "2026-10-16T15:06:13+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "Iconic rock band BAD COMPANY will release \"Live In London\" on November 13, 2026, on blue-colored vinyl, CD, and digital formats. Arriving in celebration of the tenth anniversary of the band's October 29, 2016 performance at London's O2 Arena, the previously unreleased album captures a remarkable nig...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/bad-company-shares-bad-company-music-video-from-upcoming-live-in-london-album"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "The 14 Artists Announced for Sonic Temple 2027 So Far",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/iron-maiden-a-perfect-circle-sonic-temple-2027-lineup/",
+    "timestamp": "2026-10-16T14:57:13+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "Iron Maiden, A Perfect Circle and 12 other rock and metal bands have been announced for the 2027 Sonic Temple lineup so far. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/iron-maiden-a-perfect-circle-sonic-temple-2027-lineup/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "ZEBRA Releases New Single 'Walk With You', Co-Written With PAUL STANLEY Of KISS",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/zebra-releases-new-single-walk-with-you-co-written-with-paul-stanley-of-kiss",
+    "timestamp": "2026-10-16T14:41:25+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "After a 23-year wait, legendary rock band ZEBRA returns with its highly anticipated fifth studio album, \"Zebra V\". The longtime trio of Randy Jackson (guitar, vocals), Felix Hanemann (bass, keyboards, vocals) and Guy Gelso (drums, vocals) will release 11 new tracks on November 13, marking the band's...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/zebra-releases-new-single-walk-with-you-co-written-with-paul-stanley-of-kiss"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Iron Maiden Announce Final 'Run for Your Lives' Tour Dates",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/iron-maiden-2027-north-american-tour/",
+    "timestamp": "2026-10-16T14:40:12+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "Iron Maiden's Run for Your Lives tour is coming to an end with a batch of 2027 North American tour dates with Bullet for My Valentine and The Raven Age. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/iron-maiden-2027-north-american-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "IRON MAIDEN Announces 2027 North American Tour - Metal Addicts",
+    "src": "Metal Addicts",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jMXo4MXdHbFg2MXZvdzQxX2hneFlaXzRMdkFwaUs0ZkZ5WXFXbldRZ0l5MGlPTWpqMDRLalZlMFd5TXh1RVJGb3VHR0QtaWQyenBlSnFfczJZanduVlBLQXpvdGpSOXFUMS1PYjgyVHVtVUQzbU9LVnB0b0U?oc=5",
+    "timestamp": "2026-10-16T14:35:58+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "IRON MAIDEN Announces 2027 North American Tour Metal Addicts",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Addicts",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jMXo4MXdHbFg2MXZvdzQxX2hneFlaXzRMdkFwaUs0ZkZ5WXFXbldRZ0l5MGlPTWpqMDRLalZlMFd5TXh1RVJGb3VHR0QtaWQyenBlSnFfczJZanduVlBLQXpvdGpSOXFUMS1PYjgyVHVtVUQzbU9LVnB0b0U?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "IRON MAIDEN announce “Run For Your Lives” 2027 tour dates",
+    "src": "Revolver",
+    "url": "https://www.revolvermag.com/events/iron-maiden-announce-run-for-your-lives-2027-tour-dates/",
+    "timestamp": "2026-10-16T14:23:26+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "Bullet for My Valentine and the Raven Age to join",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Revolver",
+        "url": "https://www.revolvermag.com/events/iron-maiden-announce-run-for-your-lives-2027-tour-dates/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "IRON MAIDEN Announces Surprise Return To North America In 2027",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/iron-maiden-announces-surprise-return-to-north-america-in-2027",
+    "timestamp": "2026-10-16T14:18:18+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "Live Nation has announced the surprise return to North America of IRON MAIDEN and its spectacular \"Run For Your Lives\" show in the spring of 2027 for a very special third and final leg of the tour. Following the packed shows and rave reactions across Canada and the USA for the recently concluded Nor...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/iron-maiden-announces-surprise-return-to-north-america-in-2027"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Iron Maiden Announces 2027 North American Tour, Headlining Sonic Temple",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/iron-maiden-announces-2027-tour-dates-including-sonic-temple-appearance",
+    "timestamp": "2026-10-16T14:11:19+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "The legends continue their Run For Your Lives tour into next year. The post Iron Maiden Announces 2027 North American Tour, Headlining Sonic Temple appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/iron-maiden-announces-2027-tour-dates-including-sonic-temple-appearance"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Enter to Win an Epiphone Guitar + Signed Poster by Tony Iommi",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/tony-iommi-epiphone-guitar-signed-poster-contest/",
+    "timestamp": "2026-10-16T14:01:00+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "Here's your chance to enter to win an Epiphone guitar and a signed poster featuring artwork from Iommi's 'From the Dark' album. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/tony-iommi-epiphone-guitar-signed-poster-contest/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "DIETH Releases New Single 'Pound Of Flesh'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/dieth-releases-new-single-pound-of-flesh",
+    "timestamp": "2026-10-16T13:53:50+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "DIETH has released a new single \"Pound Of Flesh\", available now alongside a brand-new official music video. Marking the first release from the band's new chapter, \"Pound Of Flesh\" introduces the new DIETH lineup featuring Swedish bassist Tobias Cristiansson (GRAVE, NECROPHOBIC, ex-DISMEMBER) and off...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/dieth-releases-new-single-pound-of-flesh"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "The 35 Songs Aerosmith Have Never Played Live",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/songs-aerosmith-never-played-live/",
+    "timestamp": "2026-10-16T13:51:04+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "Aerosmith have released 15 studio albums between 1973 and 2012 and out of those albums, there are only 35 songs they never played live. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/songs-aerosmith-never-played-live/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Swedish Musician NICKE ANDERSSON, Best Known For His Work With THE HELLACOPTERS And ENTOMBED, To Release Solo Album",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/swedish-musician-nicke-andersson-best-known-for-his-work-with-the-hellacopters-and-entombed-to-release-solo-album",
+    "timestamp": "2026-10-16T13:18:38+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "What can be said about Nicke Andersson that his back catalog doesn't already tell us? With a career spanning nearly four decades, Nicke Andersson has helped shape the sound of Swedish and international rock and metal, from his early days with NIHILIST and ENTOMBED to his work as co-founder, guitaris...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/swedish-musician-nicke-andersson-best-known-for-his-work-with-the-hellacopters-and-entombed-to-release-solo-album"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch Bruce Dickinson Singing Offstage to Avoid Flare Smoke",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/iron-maiden-bruce-dickinson-flare-smoke/",
+    "timestamp": "2026-10-16T12:17:13+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "Throat cancer survivor is seen performing backstage in Ecuador after smoke engulfed the venue. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/iron-maiden-bruce-dickinson-flare-smoke/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Gig Review : W.A.S.P. and K.K.’s Priest Turn the Arcada Into a Heavy Metal Time Machine St. Charles, Illinois - Metal Planet Music",
+    "src": "Metal Planet Music",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdUxTSlFZQ01mWkd1N3lqcG1KNk1UYkdNSU10QjZtZlRjNGRBa1l3Q3V2bXkwNjk0QzFJYWJTMTZxckFJUHNBUVU3Tzd1aVNyZUJfTHRrck5kd1Y3ZmlVeTJtX1JkeUdsZnc0eVQwV25YTjg3R0VxMVdqQVVsbF9ZLTZCaFcyYW1CZURKZmlfSjZ6THJQS2tmLVlKX2RzRTFmdGljN2Y0ZkF5bF9sRjdiZXIweElTeGl5Y0V3WEZNYmFJTkZPQW1sV0lhZDJ0aFRad0xJU0RqTFE?oc=5",
+    "timestamp": "2026-10-16T11:09:43+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "Gig Review : W.A.S.P. and K.K.’s Priest Turn the Arcada Into a Heavy Metal Time Machine St. Charles, Illinois Metal Planet Music",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Planet Music",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdUxTSlFZQ01mWkd1N3lqcG1KNk1UYkdNSU10QjZtZlRjNGRBa1l3Q3V2bXkwNjk0QzFJYWJTMTZxckFJUHNBUVU3Tzd1aVNyZUJfTHRrck5kd1Y3ZmlVeTJtX1JkeUdsZnc0eVQwV25YTjg3R0VxMVdqQVVsbF9ZLTZCaFcyYW1CZURKZmlfSjZ6THJQS2tmLVlKX2RzRTFmdGljN2Y0ZkF5bF9sRjdiZXIweElTeGl5Y0V3WEZNYmFJTkZPQW1sV0lhZDJ0aFRad0xJU0RqTFE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "My Chemical Romance share fiery unreleased song ‘Someone Out There Loves You’ ahead of ‘The Black Parade’ 20th anniversary reissue",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/my-chemical-romance-share-unreleased-song-someone-out-there-loves-you-black-parade-reissue-3973392?utm_source=rss&utm_medium=rss&utm_campaign=my-chemical-romance-share-unreleased-song-someone-out-there-loves-you-black-parade-reissue",
+    "timestamp": "2026-10-16T15:53:46+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "The track was recorded at an intimate Hoboken show back in 2007, and comes ahead of the emo icons playing a record breaking five nights at The Hollywood Bowl The post My Chemical Romance share fiery unreleased song ‘Someone Out There Loves You’ ahead of ‘The Black Parade’ 20th anniversary reissue appeared first on NME ",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/my-chemical-romance-share-unreleased-song-someone-out-there-loves-you-black-parade-reissue-3973392?utm_source=rss&utm_medium=rss&utm_campaign=my-chemical-romance-share-unreleased-song-someone-out-there-loves-you-black-parade-reissue"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Zebra Announce First New Album in 23 Years, Unveil “Walk With You” Co-Written with Paul Stanley: Stream",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/zebra-new-album-walk-with-you-paul-stanley/",
+    "timestamp": "2026-10-16T15:52:13+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "Zebra V will be released on November 13th. Zebra Announce First New Album in 23 Years, Unveil “Walk With You” Co-Written with Paul Stanley: Stream Langdon Hickman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/zebra-new-album-walk-with-you-paul-stanley/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "fakemink & Skepta – “Chiltern Firehouse .”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514784/fakemink-skepta-chiltern-firehouse/music/",
+    "timestamp": "2026-10-16T15:35:54+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "The post fakemink & Skepta – “Chiltern Firehouse .” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514784/fakemink-skepta-chiltern-firehouse/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Garbage Was Forced to Announce Free Mexico City Concert Early After Leak from City Government",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/garbage-announce-mexico-city-concert-after-government-leak/",
+    "timestamp": "2026-10-16T15:24:22+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "The band was left “a little off balance and rushing to catch up” after its planned announcement was spoiled. Garbage Was Forced to Announce Free Mexico City Concert Early After Leak from City Government Pedro Camacho",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/garbage-announce-mexico-city-concert-after-government-leak/"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "medium",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Tierra Whack Unveils Deluxe Edition of WHACK’S MUSEUM with Seven New Songs: Stream",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/tierra-whack-whacks-museum-deluxe-stream/",
+    "timestamp": "2026-10-16T15:18:47+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "The new deluxe edition includes new tracks “LIAR LIAR,” \"STRAWBERRY,\" \"RECOGNITION,\" and more. Tierra Whack Unveils Deluxe Edition of WHACK’S MUSEUM with Seven New Songs: Stream Paolo Ragusa",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/tierra-whack-whacks-museum-deluxe-stream/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Chance The Rapper Wins Another Legal Battle Against Pat The Ex-Manager",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514776/chance-the-rapper-wins-another-legal-battle-against-pat-the-ex-manager/news/",
+    "timestamp": "2026-10-16T15:11:47+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "The post Chance The Rapper Wins Another Legal Battle Against Pat The Ex-Manager appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514776/chance-the-rapper-wins-another-legal-battle-against-pat-the-ex-manager/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Pan’s Labyrinth, Guillermo del Toro’s Masterpiece, Receives 4K UHD Collector’s Edition",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/pans-labyrinth-4k-uhd-steelbook-release/",
+    "timestamp": "2026-10-16T15:00:47+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "The Oscar-winning 2006 film is celebrating its 20th anniversary in style. Pan’s Labyrinth, Guillermo del Toro’s Masterpiece, Receives 4K UHD Collector’s Edition Liz Shannon Miller",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/pans-labyrinth-4k-uhd-steelbook-release/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "News: Tomgirls Announce Debut Album, Release ‘Run’ - New Noise Magazine",
+    "src": "New Noise Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLWJIN0ZvZ093Tk92R2ZWUk1kUXVSdW95b0hBVGE3LXdyMkl0NGIxMmhTcDVXSGJfRDExZHd6b09EMTBfMWJXMU90ejdYSGdUeEdKNFhYdWc1UUxfNGkyeEpYaG4zQ21NRmJCU3FPajBpSVVmQUdYR2k2TzZBMnc4NXZR?oc=5",
+    "timestamp": "2026-10-16T14:54:25+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "News: Tomgirls Announce Debut Album, Release ‘Run’ New Noise Magazine",
+    "category": "general",
+    "sources": [
+      {
+        "name": "New Noise Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLWJIN0ZvZ093Tk92R2ZWUk1kUXVSdW95b0hBVGE3LXdyMkl0NGIxMmhTcDVXSGJfRDExZHd6b09EMTBfMWJXMU90ejdYSGdUeEdKNFhYdWc1UUxfNGkyeEpYaG4zQ21NRmJCU3FPajBpSVVmQUdYR2k2TzZBMnc4NXZR?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Altar: new London venue opening in Leytonstone with Simian Mobile Disco, Louis Theroux, Girl In The Year Above and more",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/altar-venue-opening-in-london-with-simian-mobile-disco-louis-theroux-girl-in-the-year-above-3973374?utm_source=rss&utm_medium=rss&utm_campaign=altar-venue-opening-in-london-with-simian-mobile-disco-louis-theroux-girl-in-the-year-above",
+    "timestamp": "2026-10-16T14:53:20+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "Suggs, Ed Harcourt and more are also on the bill, and the venue is also helping create opportunities for emerging talent The post Altar: new London venue opening in Leytonstone with Simian Mobile Disco, Louis Theroux, Girl In The Year Above and more appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/altar-venue-opening-in-london-with-simian-mobile-disco-louis-theroux-girl-in-the-year-above-3973374?utm_source=rss&utm_medium=rss&utm_campaign=altar-venue-opening-in-london-with-simian-mobile-disco-louis-theroux-girl-in-the-year-above"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "DOJ Sues Scalper For Illegally Buying 18.5M Tickets — Including 7,624 To One Beyoncé Show",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514759/doj-sues-scalper-for-illegally-buying-18-5m-tickets-including-7624-to-one-beyonce-show/news/",
+    "timestamp": "2026-10-16T14:49:50+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "The post DOJ Sues Scalper For Illegally Buying 18.5M Tickets — Including 7,624 To One Beyoncé Show appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514759/doj-sues-scalper-for-illegally-buying-18-5m-tickets-including-7624-to-one-beyonce-show/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Matchbox Twenty Take It Back to “3AM” on Kimmel: Watch",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/matchbox-twenty-3am-kimmel/",
+    "timestamp": "2026-10-16T14:48:19+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "They revisited the hit to celebrate the 30th anniversary of their blockbuster debut, Yourself or Someone Like You. Matchbox Twenty Take It Back to “3AM” on Kimmel: Watch Eddie Fu",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/matchbox-twenty-3am-kimmel/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Role Model’s Next Move? He’ll Figure It Out Onstage - The Hollywood Reporter",
+    "src": "The Hollywood Reporter",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeFV0elNXY1pmcGJub1F1YmVxb0ptNldJd3N6blZiME9lOHdaU0xma3YyVzJfQXoxckNRTEF4MGNCdnY5TzE0SjJWaHVoQ3RvZkxSLUZBeUpvTGVia01nWEx4aXd6ZS1jUHRyeTVfcWVpUGZHckdrOER5NUw2bHdBTW04SUdFcE83TDVCMDFZa0hIRlkyR3FIeWExRXlaTEZ0LW4xN1IxOVQ4TDQzV0ZsMjNxX2FkTlBMMHc0dw?oc=5",
+    "timestamp": "2026-10-16T14:46:52+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "Role Model’s Next Move? He’ll Figure It Out Onstage The Hollywood Reporter",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Hollywood Reporter",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeFV0elNXY1pmcGJub1F1YmVxb0ptNldJd3N6blZiME9lOHdaU0xma3YyVzJfQXoxckNRTEF4MGNCdnY5TzE0SjJWaHVoQ3RvZkxSLUZBeUpvTGVia01nWEx4aXd6ZS1jUHRyeTVfcWVpUGZHckdrOER5NUw2bHdBTW04SUdFcE83TDVCMDFZa0hIRlkyR3FIeWExRXlaTEZ0LW4xN1IxOVQ4TDQzV0ZsMjNxX2FkTlBMMHc0dw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Smashing Pumpkins – “Black Stars”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514771/smashing-pumpkins-black-stars/music/",
+    "timestamp": "2026-10-16T14:41:25+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "The post Smashing Pumpkins – “Black Stars” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514771/smashing-pumpkins-black-stars/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Smashing Pumpkins Share New Butch Vig-Produced Song “Black Stars” for Hunger Games: Sunrise on the Reaping: Stream",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/smashing-pumpkins-black-stars-hunger-games-soundtrack-butch-vig-stream/",
+    "timestamp": "2026-10-16T14:31:14+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "The Pumpkins teamed up with Vig for the first time in 33 years to record a moody song for the new Hunger Games prequel soundtrack. Smashing Pumpkins Share New Butch Vig-Produced Song “Black Stars” for Hunger Games: Sunrise on the Reaping: Stream Paolo Ragusa",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/smashing-pumpkins-black-stars-hunger-games-soundtrack-butch-vig-stream/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Iron Maiden Announce 2027 North American Tour",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/iron-maiden-2027-north-american-tour/",
+    "timestamp": "2026-10-16T14:24:21+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "Bullet for My Valentine and The Raven Age will provide support on the spring outing. Iron Maiden Announce 2027 North American Tour Spencer Kaufman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/iron-maiden-2027-north-american-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Nino Paid And Warhol.SS Charged With Murder",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514765/nino-paid-and-warhol-ss-charged-with-murder/news/",
+    "timestamp": "2026-10-16T14:10:55+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "The post Nino Paid And Warhol.SS Charged With Murder appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514765/nino-paid-and-warhol-ss-charged-with-murder/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Iron Maiden Announces 2027 North American Tour Dates - Variety",
+    "src": "Variety",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbXRyTHVYUFFsWlFkZVVGRHh3YlNHZ29jZllQU3VjWkxuQ2EyZEx0UGdHN0RaODNJTW10aHJwRGJIaUtTUlJ2NEM1b19JVE40LXVnRXZvcXJ4Z3FBdmdlWV9Vdm5HMzliWmlyZVIzQUtWamRYTWpHd3Y2UjZIalVXQkhTM20xLTZGSnJsRXdVMUYtZWpW?oc=5",
+    "timestamp": "2026-10-16T14:10:00+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "Iron Maiden Announces 2027 North American Tour Dates Variety",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Variety",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbXRyTHVYUFFsWlFkZVVGRHh3YlNHZ29jZllQU3VjWkxuQ2EyZEx0UGdHN0RaODNJTW10aHJwRGJIaUtTUlJ2NEM1b19JVE40LXVnRXZvcXJ4Z3FBdmdlWV9Vdm5HMzliWmlyZVIzQUtWamRYTWpHd3Y2UjZIalVXQkhTM20xLTZGSnJsRXdVMUYtZWpW?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "11 New Albums You Should Listen to Now: Fontaines D.C., the Avalanches, and More",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/11-new-albums-you-should-listen-to-now-fontaines-dc-the-avalanches-and-more/",
+    "timestamp": "2026-10-16T14:04:10+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/11-new-albums-you-should-listen-to-now-fontaines-dc-the-avalanches-and-more/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Story Behind Every Song On @’s New Album Autosmile",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514471/the-story-behind-every-song-on-s-new-album-autosmile/interviews/footnotes-interview/",
+    "timestamp": "2026-10-16T14:01:20+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "The post The Story Behind Every Song On @’s New Album <em>Autosmile</em> appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514471/the-story-behind-every-song-on-s-new-album-autosmile/interviews/footnotes-interview/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Midnight dazzles Baltimore on the Time Machines Tour - Pittsburgh Music Magazine",
+    "src": "Pittsburgh Music Magazine",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYmJIRlBFY3VieXFqcUVOenluQXR1Nm51cXBJQXZNTnR1NHZNaEpnSXU4cDIzS3pRUW9mdFJUMUVuQUM4NC1lQ1QtaW9SOUpzR2lod0VSdFF2dmJIdHR2Y3d6bWFrd0ZmeHZLdzR4V1ZPbDdkOVVjbUNYUWUyWG5YS1ZtRUd5cWNCOGlxOWhDZ3AybURTYUZHTlNrVGF0d2F2TkROMV9MYw?oc=5",
+    "timestamp": "2026-10-16T13:44:35+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "The Midnight dazzles Baltimore on the Time Machines Tour Pittsburgh Music Magazine",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pittsburgh Music Magazine",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYmJIRlBFY3VieXFqcUVOenluQXR1Nm51cXBJQXZNTnR1NHZNaEpnSXU4cDIzS3pRUW9mdFJUMUVuQUM4NC1lQ1QtaW9SOUpzR2lod0VSdFF2dmJIdHR2Y3d6bWFrd0ZmeHZLdzR4V1ZPbDdkOVVjbUNYUWUyWG5YS1ZtRUd5cWNCOGlxOWhDZ3AybURTYUZHTlNrVGF0d2F2TkROMV9MYw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "“She’s Actually Shameless”: After Years Of Being Accused Of Chart-Blocking Other Female Artists, Taylor Swift Surprise-Dropped New Music Just Hours After Olivia Rodrigo’s Latest Release - BuzzFeed",
+    "src": "BuzzFeed",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQalBkelY2TGNvdEp5aTNmYUZHSktzVGxqTVRHakRKR3kwcmgzUUlqWkRpUjlsRjVOSzlybXJlemt2ZTZDU1lMWWxISXZhVERhUlltem1vdVhRd2FtSThnNHdWX1BkQzN2VTlsM0xnLXBzd0NXRF95R0poTWV1bzNfTFN6Mm1sMTJnXzNGbng4SVoxZlFlcU8tcWRlQng?oc=5",
+    "timestamp": "2026-10-16T08:44:18+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "“She’s Actually Shameless”: After Years Of Being Accused Of Chart-Blocking Other Female Artists, Taylor Swift Surprise-Dropped New Music Just Hours After Olivia Rodrigo’s Latest Release BuzzFeed",
+    "category": "general",
+    "sources": [
+      {
+        "name": "BuzzFeed",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQalBkelY2TGNvdEp5aTNmYUZHSktzVGxqTVRHakRKR3kwcmgzUUlqWkRpUjlsRjVOSzlybXJlemt2ZTZDU1lMWWxISXZhVERhUlltem1vdVhRd2FtSThnNHdWX1BkQzN2VTlsM0xnLXBzd0NXRF95R0poTWV1bzNfTFN6Mm1sMTJnXzNGbng4SVoxZlFlcU8tcWRlQng?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "20VINTEXX regressa ao Porto com edição especial no aniversário do Plano B",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/20vintexx-regressa-ao-porto-com-edicao-especial-no-aniversario-do-plano-b/",
+    "timestamp": "2026-10-16T15:36:42+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "%featured_image% O 20VINTEXX regressa ao Porto no próximo 17 de outubro, numa edição especial integrada nas comemorações do 20º aniversário do Plano B.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/20vintexx-regressa-ao-porto-com-edicao-especial-no-aniversario-do-plano-b/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "SL7 Soloist: Jackson e Chris Rörland, dos Sabaton, apresentam a sua primeira guitarra de assinatura",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/sl7-soloist-jackson-e-chris-rorland-dos-sabaton-apresentam-a-sua-primeira-guitarra-de-assinatura/",
+    "timestamp": "2026-10-16T14:55:46+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "%featured_image% A Pro Series Signature Chris Rörland SL7 Soloist é o primeiro modelo de assinatura do guitarrista dos Sabaton com a Jackson. Com sete cordas, pickups EMG e ponte Floyd Rose, foi desenvolvida para responder às exigências do metal moderno e das afinações mais graves.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/sl7-soloist-jackson-e-chris-rorland-dos-sabaton-apresentam-a-sua-primeira-guitarra-de-assinatura/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "NAPA apresentam \"Semitrópico\", onde o imaginário madeirense casa com o tropicalismo brasileiro - SIC Notícias",
+    "src": "SIC Notícias",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUlFRRUVMUjFqcmZ6VE9lNHBabnNpLXVUa3dsTThvalBicUE3aUYwX0w1ak5pSExrRHdscXVSNUVNaHFSeEdfdUZfNTFYV3V6RGtDUmJtcTYyalVUUmFFWFRfN2pIZzlpSF9FQksxVTlkX2VPeG00RGdlTnNSX2p6RTg0NXdoRnVWMFhRREFxWElCT0ZrVXpGWXlYb09lSkRjWXZqaE9weWprcnd2Y18tRF9PWHZpb3pJWHlXaDh2c2NicWEyNmdyR2ZaX1V4SnY2cHQ1cENaT19lb0JLNWc?oc=5",
+    "timestamp": "2026-10-16T07:37:54+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "NAPA apresentam \"Semitrópico\", onde o imaginário madeirense casa com o tropicalismo brasileiro SIC Notícias",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "SIC Notícias",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUlFRRUVMUjFqcmZ6VE9lNHBabnNpLXVUa3dsTThvalBicUE3aUYwX0w1ak5pSExrRHdscXVSNUVNaHFSeEdfdUZfNTFYV3V6RGtDUmJtcTYyalVUUmFFWFRfN2pIZzlpSF9FQksxVTlkX2VPeG00RGdlTnNSX2p6RTg0NXdoRnVWMFhRREFxWElCT0ZrVXpGWXlYb09lSkRjWXZqaE9weWprcnd2Y18tRF9PWHZpb3pJWHlXaDh2c2NicWEyNmdyR2ZaX1V4SnY2cHQ1cENaT19lb0JLNWc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "title": "Kid Rock Reportedly Releasing Songs With Lil Wayne and Eminem on October 17 - Ratings Game Music",
@@ -5558,10 +6604,6 @@
       {
         "name": "Stereogum",
         "url": "https://stereogum.com/2514697/u2-share-the-greatest-show-on-earth-announce-first-2027-tour-dates/music/"
-      },
-      {
-        "name": "Stereogum",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc0pDSTlBc1l0MklLZ042c21uenl3MXBaN1dtMllROU9ETFl3aWFQaTN1b1BRYW5ZemhQQWwtci0xRzdQWVI5MzBXU0l1Q2JDYmc3bUZIOXFLT0h6Y1BhQzBQRkhCWGdYR1M0WV9sMGt6a0lTTEU0UGdQNjlOdXYxYWJuNjdBelZOR2ZLcFdIVl9ZQjBsNVlzbEJ6MW1XRzJjVElUeg?oc=5"
       }
     ],
     "status": "official",
@@ -5825,17 +6867,17 @@
     "section": "buzz"
   },
   {
-    "title": "Grammy-nominated rock band coming to Mass. on 30th anniversary tour - MassLive.com",
-    "src": "MassLive.com",
+    "title": "Grammy-nominated rock band coming to Mass. on 30th anniversary tour - MassLive",
+    "src": "MassLive",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQy1hUHAzb1BhX1djbDBsUHRmUzJ3SWxtSHN6S0RyUUlUUmtjdS05NFNmYmJIVC1FTGszNEpIVE92THNYLVRydUVVd3dTV0p3ckl0TW5TVlpYWDVVWDktRnl1ZFZlUzlCeVVlZ0J1MHlzNVlJaFcwQ0NWVFp3RV9xa3ZSMW1tNnVqaWEzNXJrU3dpR2NsQ3lrRmlZYlVCUHFRMXF4Z0VITG1OZ2VDUi1LbzUxNURfZVZ3YmfSAc4BQVVfeXFMTkNzNkxRWVp3ZTkzazBnUGpMR21ibEZPZjJaRTViVG9WTEFoYUNZSGgxNXU3eDJMaXkwRHBGcEhrTnFsQklBcWtkc2xPbXZmWTZ0NjQ5MHNSNFQ3Mlhoc0sydlgzS3hEcTBzaF96S2tURzRlRGVJQzFHWGZYRG1WTWpiMlljbENMOEpTa1dwbHEtSk51WDlpTllYNk83a1Y1REY5T3JtT3llZ0tOTTB2dF9acXo0cVFGYVBDeVFVNWRzbExjTVBOdlRndVNMYkE?oc=5",
     "timestamp": "2026-10-15T13:19:00+00:00",
     "isoDate": "2026-10-15",
     "date": "15 Out",
-    "d": "Grammy-nominated rock band coming to Mass. on 30th anniversary tour MassLive.com",
+    "d": "Grammy-nominated rock band coming to Mass. on 30th anniversary tour MassLive",
     "category": "general",
     "sources": [
       {
-        "name": "MassLive.com",
+        "name": "MassLive",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQy1hUHAzb1BhX1djbDBsUHRmUzJ3SWxtSHN6S0RyUUlUUmtjdS05NFNmYmJIVC1FTGszNEpIVE92THNYLVRydUVVd3dTV0p3ckl0TW5TVlpYWDVVWDktRnl1ZFZlUzlCeVVlZ0J1MHlzNVlJaFcwQ0NWVFp3RV9xa3ZSMW1tNnVqaWEzNXJrU3dpR2NsQ3lrRmlZYlVCUHFRMXF4Z0VITG1OZ2VDUi1LbzUxNURfZVZ3YmfSAc4BQVVfeXFMTkNzNkxRWVp3ZTkzazBnUGpMR21ibEZPZjJaRTViVG9WTEFoYUNZSGgxNXU3eDJMaXkwRHBGcEhrTnFsQklBcWtkc2xPbXZmWTZ0NjQ5MHNSNFQ3Mlhoc0sydlgzS3hEcTBzaF96S2tURzRlRGVJQzFHWGZYRG1WTWpiMlljbENMOEpTa1dwbHEtSk51WDlpTllYNk83a1Y1REY5T3JtT3llZ0tOTTB2dF9acXo0cVFGYVBDeVFVNWRzbExjTVBOdlRndVNMYkE?oc=5"
       }
     ],
@@ -5942,10 +6984,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -8072,6 +9114,81 @@
     ],
     "status": "official",
     "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "ON THIS DAY IN MUSIC: The Greatest Pop, Rock, and Metal Albums Released on October 15th - Fakti.bg",
+    "src": "Fakti.bg",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVlNlRi0zOG1rSkw5dGZVM1lFbWtDYWdoNWFPcVA2bTgyc0RSV0w4b1VHRG5kVm9ObnF4YW5kN2NFUEtDYkY5R1NDU3ZiM18wczFJQ1dHUVllLUgtdlBYUHQxb0xnWmt1U1Y5R3lxNHBfRGhGa2RNdDlETHdUTkdtdEppb1U4RFREeF9UbmZLQ0FSaExTWjI5MU5seUZTS3FDbWhFYkdKRDNUVmFTSElnUmtkTVpVN0Y3RG5JVW12TWlxYkoyeTB3?oc=5",
+    "timestamp": "2026-10-15T12:15:00+00:00",
+    "isoDate": "2026-10-15",
+    "date": "15 Out",
+    "d": "ON THIS DAY IN MUSIC: The Greatest Pop, Rock, and Metal Albums Released on October 15th Fakti.bg",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Fakti.bg",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVlNlRi0zOG1rSkw5dGZVM1lFbWtDYWdoNWFPcVA2bTgyc0RSV0w4b1VHRG5kVm9ObnF4YW5kN2NFUEtDYkY5R1NDU3ZiM18wczFJQ1dHUVllLUgtdlBYUHQxb0xnWmt1U1Y5R3lxNHBfRGhGa2RNdDlETHdUTkdtdEppb1U4RFREeF9UbmZLQ0FSaExTWjI5MU5seUZTS3FDbWhFYkdKRDNUVmFTSElnUmtkTVpVN0Y3RG5JVW12TWlxYkoyeTB3?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Kid Rock doubles down on Islam comments, political controversy - Detroit Free Press",
+    "src": "Detroit Free Press",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQXF4RTVJblFaOGxwcVdXSk42OWpWSEw4OFc0Uk9rNGJjUXFHUmJYYzRpMmYwaVYtYUpnTkF0bUJCX21YZjdRUHBnQmtRNFRvNWlHODZiN2N4WWtsUFdXcWtKQWxUNllFVkN5b2ZGczduTHBkdUQ2SHdSaVFzTHBFUWJuaTVVZkRMS0xxMlRMUnZWSVYxZ3o1QWp3Z2FXQ0tZLW5sNHY5dm1vc0pQNEpvVWpDTDA3Q0NTZFpXT0FmNEluNEJwanNTcVNMSVRGTzJoNTlnNmEyWHE?oc=5",
+    "timestamp": "2026-10-15T10:03:34+00:00",
+    "isoDate": "2026-10-15",
+    "date": "15 Out",
+    "d": "Kid Rock doubles down on Islam comments, political controversy Detroit Free Press",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Detroit Free Press",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQXF4RTVJblFaOGxwcVdXSk42OWpWSEw4OFc0Uk9rNGJjUXFHUmJYYzRpMmYwaVYtYUpnTkF0bUJCX21YZjdRUHBnQmtRNFRvNWlHODZiN2N4WWtsUFdXcWtKQWxUNllFVkN5b2ZGczduTHBkdUQ2SHdSaVFzTHBFUWJuaTVVZkRMS0xxMlRMUnZWSVYxZ3o1QWp3Z2FXQ0tZLW5sNHY5dm1vc0pQNEpvVWpDTDA3Q0NTZFpXT0FmNEluNEJwanNTcVNMSVRGTzJoNTlnNmEyWHE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Rumor: Nothing’s Smart Glasses Could Take On Meta’s Ray-Bans - Phandroid",
+    "src": "Phandroid",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcl80R1RKblkyT05YcXctQ3pJbERGRDVpYjBON1c3VzZEZU9UUURMb3pxcVdGWnlkcC1hZXdaOC1tTF9ndXFuMldKbzJnenNFRTRzdFRMd2lMREhDOTNZTy1ZZ3VHVEhRaUh3dXFib3Joa1JQRzU2em1IZnY1SDUzcFJGcGFVX2VKbTJOcVBlcGo4UmYyS2fSAZsBQVVfeXFMT1lxRmVzTE5URFJLYmREbnFocVZ5MEppWUFxMGpCVnV5TlVqM3VtOTgwZXNfTmNJQlRvcmY3ckdpSnVPMXYtcUV4cmd2bmVxOE1MZVZDVEVvZHJnRWhmSnNQUDRySmpMVF8xV3Riak5QWFVMbEplbU02aFIyZWRTT1QyZjVib0xNYWhMbVdMVWplYm9VNS1nbUVISjA?oc=5",
+    "timestamp": "2026-10-15T07:45:26+00:00",
+    "isoDate": "2026-10-15",
+    "date": "15 Out",
+    "d": "Rumor: Nothing’s Smart Glasses Could Take On Meta’s Ray-Bans Phandroid",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Phandroid",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcl80R1RKblkyT05YcXctQ3pJbERGRDVpYjBON1c3VzZEZU9UUURMb3pxcVdGWnlkcC1hZXdaOC1tTF9ndXFuMldKbzJnenNFRTRzdFRMd2lMREhDOTNZTy1ZZ3VHVEhRaUh3dXFib3Joa1JQRzU2em1IZnY1SDUzcFJGcGFVX2VKbTJOcVBlcGo4UmYyS2fSAZsBQVVfeXFMT1lxRmVzTE5URFJLYmREbnFocVZ5MEppWUFxMGpCVnV5TlVqM3VtOTgwZXNfTmNJQlRvcmY3ckdpSnVPMXYtcUV4cmd2bmVxOE1MZVZDVEVvZHJnRWhmSnNQUDRySmpMVF8xV3Riak5QWFVMbEplbU02aFIyZWRTT1QyZjVib0xNYWhMbVdMVWplYm9VNS1nbUVISjA?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
     "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
@@ -15811,31 +16928,6 @@
     "isPT": false,
     "isCore": false,
     "star": false,
-    "kind": "news",
-    "section": "buzz"
-  },
-  {
-    "title": "Slayyyter to Headline Madison Square Garden in June 2027",
-    "src": "Consequence",
-    "url": "https://consequence.net/2026/10/slayyyter-madison-square-garden-headlining-show-2027/",
-    "timestamp": "2026-10-13T14:58:36+00:00",
-    "isoDate": "2026-10-13",
-    "date": "13 Out",
-    "d": "The pop star's biggest show yet will take place at the New York City arena on June 21st, 2027. Slayyyter to Headline Madison Square Garden in June 2027 Paolo Ragusa",
-    "category": "general",
-    "sources": [
-      {
-        "name": "Consequence",
-        "url": "https://consequence.net/2026/10/slayyyter-madison-square-garden-headlining-show-2027/"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": true,
-    "isPT": false,
-    "isCore": false,
-    "star": true,
     "kind": "news",
     "section": "buzz"
   },
