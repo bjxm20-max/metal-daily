@@ -328,10 +328,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -353,10 +353,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -378,10 +378,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -514,7 +514,7 @@
     "title": "ΞIIIIIIΞ - PEDRO MELO ALVES - Fundação de Serralves",
     "src": "Fundação de Serralves",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Xd2VMeHpfY0VhZU5JR0JLT1FmREc4V28wQmhwZ2NUbkY4ZmpOelJ3ZTlQUTB2NEdnZEJZVG9XM3FzRXl6c0pjVldfT0hsX25MdzR3RUxST2RSU2Nkd2EzX09TczV1bmhxQms4SnV2MDltWjVrRFRZ?oc=5",
-    "timestamp": "2026-10-17T03:42:33+00:00",
+    "timestamp": "2026-10-17T11:40:58+00:00",
     "isoDate": "2026-10-17",
     "date": "17 Out",
     "d": "ΞIIIIIIΞ - PEDRO MELO ALVES Fundação de Serralves",
@@ -528,10 +528,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": false,
+    "isBreaking": true,
     "isPT": true,
     "isCore": false,
-    "star": false,
+    "star": true,
     "kind": "news",
     "section": "pt"
   },
@@ -568,10 +568,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -676,6 +676,320 @@
     "section": "pt"
   },
   {
+    "b": "Wraithstorm",
+    "t": "Revenant",
+    "g": "death",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "17 Out",
+    "isoDate": "2026-10-17",
+    "url": "https://alterportal.net/2026_albums/190587-wraithstorm-revenant-2026.html",
+    "d": "Melodic Death Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190587-wraithstorm-revenant-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "Listen: HEALTH Drops Two New Songs Written For 'Street Fighter' Movie",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/listen-health-drops-two-new-songs-written-for-street-fighter-movie",
+    "timestamp": "2026-10-17T14:56:10+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "Following in the footsteps of Men in Black, Wild Wild West in their words. The post Listen: HEALTH Drops Two New Songs Written For 'Street Fighter' Movie appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/listen-health-drops-two-new-songs-written-for-street-fighter-movie"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Tony Iommi Reflects on Life, Roger Waters Blasts James Hetfield + More Top Stories of the Week",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/injection-reflection/tony-iommi-reflects-on-life-roger-waters-blasts-james-hetfield-more-top-stories-of-the-week",
+    "timestamp": "2026-10-17T14:23:28+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "Plus Ghost goes death metal again, heavy metal meets SNF and more. The post Tony Iommi Reflects on Life, Roger Waters Blasts James Hetfield + More Top Stories of the Week appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/injection-reflection/tony-iommi-reflects-on-life-roger-waters-blasts-james-hetfield-more-top-stories-of-the-week"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Rockers We've Lost in 2026",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/rockers-weve-lost-2026/",
+    "timestamp": "2026-10-17T14:20:02+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "The Grateful Dead's Bob Weir and 3 Doors Down's Brad Arnold lead our list of rock star deaths so far in 2026. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/rockers-weve-lost-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "IRON MAIDEN's ADRIAN SMITH: 'I Think We're Enjoying Playing Live As Much, If Not More Than Ever'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/iron-maidens-adrian-smith-i-think-were-enjoying-playing-live-as-much-if-not-more-than-ever",
+    "timestamp": "2026-10-17T13:44:08+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "In a new interview with Peru's Radio Oxigeno, IRON MAIDEN guitarist Adrian Smith was asked how he and his bandmates are doing nowadays, more than 50 years since bassist Steve Harris founded MAIDEN in late 1975. He said (as transcribed by BLABBERMOUTH.NET): \"How's anyone doing after 50 years? It's a...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/iron-maidens-adrian-smith-i-think-were-enjoying-playing-live-as-much-if-not-more-than-ever"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "ELOY CASAGRANDE Says SLIPKNOT Is Recording 'A Lot Of Songs' For Upcoming Album: 'We Are Making Real Music'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/eloy-casagrande-says-slipknot-is-recording-a-lot-of-songs-for-upcoming-album-we-are-making-real-music",
+    "timestamp": "2026-10-17T12:48:35+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "In a new interview with Camilo Guzmán of Colombia's Radiónica, SLIPKNOT drummer Eloy Casagrande confirmed that the band is working on new music following the release of the \"Arsenal\" single, which came out in September. The 35-year-old Brazilian-born musician said (as transcribed by BLABBERMOUTH.NET...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/eloy-casagrande-says-slipknot-is-recording-a-lot-of-songs-for-upcoming-album-we-are-making-real-music"
+      },
+      {
+        "name": "BLABBERMOUTH.NET",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdmxRS0M5RUN0Q2Y5S1BDdTRIVVdfb2cwZHlqNE1PQU52NFlhNW9FejNVN1dNdFhLdmZQMUM1UVZpM2tmcHBuV01TMDZGZ3hsR1I5cWxPNFc4NVowSXhxWEx6QlB2UjNCdmJ1dTcyWlZfckxaVGo4cFpJVTJUY0EtREhkY2pxWkY0UkFRQWpQakpFblc1dE5ZUVBOYUZkVW4tV1plSFB1cHRrQUozVE96VU5vRnp0cWZlUEt5dVI0S19NTmFYVWhsSkg2RQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 2,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Liam Gallagher Is Still Marding With Fontaines D.C.",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514869/liam-gallagher-is-still-marding-with-fontaines-d-c/news/",
+    "timestamp": "2026-10-17T14:49:35+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "The post Liam Gallagher Is Still Marding With Fontaines D.C. appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514869/liam-gallagher-is-still-marding-with-fontaines-d-c/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Miley Cyrus Pays Tribute to Dolly Parton at Hollywood Bowl Comeback Concert",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/miley-cyrus-pays-tribute-to-dolly-parton-at-hollywood-bowl-comeback-concert/",
+    "timestamp": "2026-10-17T14:25:58+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "The Hollywood Bowl show marked Cyrus' full public concert in four years. Miley Cyrus Pays Tribute to Dolly Parton at Hollywood Bowl Comeback Concert Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/miley-cyrus-pays-tribute-to-dolly-parton-at-hollywood-bowl-comeback-concert/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Diamond Platnumz fuels marriage trouble rumours with cryptic social media post - Legit.ng",
+    "src": "Legit.ng",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0FCR0xrekdVc000R3BuM203VXdpcnpMRUxrU1F1RnBVS0s4VmxBd0Z3cXNNbnJ4aUJpNGl5QXdJekJtazlzOVdsdVpiN3NkbDZ2YTlfMlYycXZMZ08xMEhXUkVSU2tKMDl5c25FZWZoU0FvSEtTTGNfVU1QY2YtTXBDdHRyTWxoMEVEMTZiWDU5cURKaDVPVXVJSmFUVTVva2FLVm5ackYyWmgyVUZubzdGaUE2VDJheVdfWGtoSXp4X0V1dUE?oc=5",
+    "timestamp": "2026-10-17T14:12:56+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "Diamond Platnumz fuels marriage trouble rumours with cryptic social media post Legit.ng",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Legit.ng",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0FCR0xrekdVc000R3BuM203VXdpcnpMRUxrU1F1RnBVS0s4VmxBd0Z3cXNNbnJ4aUJpNGl5QXdJekJtazlzOVdsdVpiN3NkbDZ2YTlfMlYycXZMZ08xMEhXUkVSU2tKMDl5c25FZWZoU0FvSEtTTGNfVU1QY2YtTXBDdHRyTWxoMEVEMTZiWDU5cURKaDVPVXVJSmFUVTVva2FLVm5ackYyWmgyVUZubzdGaUE2VDJheVdfWGtoSXp4X0V1dUE?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kid Rock Drops Christian Music Album with Eminem Collaboration “Heal My Faith”",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/kid-rock-christian-album-eminem/",
+    "timestamp": "2026-10-17T13:28:30+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "Eminem says of their track: \"Not about choosing sides, just choosing to make music with my old friend. Praying for all of us.\" Kid Rock Drops Christian Music Album with Eminem Collaboration “Heal My Faith” Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/kid-rock-christian-album-eminem/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "EIVØR Celebrates Album Release With New Video For \"Og mánin græt / And The Moon Cried\" - Sonic Perspectives",
+    "src": "Sonic Perspectives",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRjRINkp2NUhZWk8wN2pDMWY2Z3prSEN2bXk3TGZHUkFRYWFDQVoyaUlpR3FrMmhBWTBEd1FQaE1TRktFblMtX2kySGFXNUZPQ2g3c2taNG9hNzVGNGlrZ2p6RGprbGUzNThlcmxUbmsySllQbUxTTE9md3BoTFd6TjFCZjVQNnRBVU80ZWNNb3VuZGx2ZnRwT2tTX2RmTWNiVnlKWEFzdGR6MWppaFJTSGU0ZnZ0U1pJNE5TR21JTG8?oc=5",
+    "timestamp": "2026-10-17T12:00:00+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "EIVØR Celebrates Album Release With New Video For \"Og mánin græt / And The Moon Cried\" Sonic Perspectives",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Sonic Perspectives",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRjRINkp2NUhZWk8wN2pDMWY2Z3prSEN2bXk3TGZHUkFRYWFDQVoyaUlpR3FrMmhBWTBEd1FQaE1TRktFblMtX2kySGFXNUZPQ2g3c2taNG9hNzVGNGlrZ2p6RGprbGUzNThlcmxUbmsySllQbUxTTE9md3BoTFd6TjFCZjVQNnRBVU80ZWNNb3VuZGx2ZnRwT2tTX2RmTWNiVnlKWEFzdGR6MWppaFJTSGU0ZnZ0U1pJNE5TR21JTG8?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "“Virgin Killer” | O Som Além da Capa: 50 Anos do Disco Mais Perigoso dos Scorpions",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/virgin-killer-o-som-alem-da-capa-50-anos-do-disco-mais-perigoso-dos-scorpions/",
+    "timestamp": "2026-10-17T14:48:43+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "%featured_image% Lançado no final de 1976, \"Virgin Killer\", dos Scorpions, assinala 50 anos em 2026. O álbum ficou marcado por uma das capas mais controversas da história do rock, censurada em vários países e responsável, em 2008, por um caso insólito que levou ao bloqueio de acessos à Wikipédia no Reino Unido. Mas a p",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/virgin-killer-o-som-alem-da-capa-50-anos-do-disco-mais-perigoso-dos-scorpions/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Yer Metal Is Olde",
+    "t": "Morbid Angel – Gateways to Annihilation",
+    "src": "Angry Metal Guy",
+    "date": "17 Out",
+    "isoDate": "2026-10-17",
+    "timestamp": "2026-10-17T13:47:40+00:00",
+    "url": "https://www.angrymetalguy.com/yer-metal-is-olde-morbid-angel-gateways-to-annihilation/",
+    "d": "\"Of all the elder statesmen of death metal, Morbid Angel was a band I never really understood. Sure, I'd heard Altars of Madness , but my fresh ears were put off by its thin production when more thickly bludgeoning was to be had. The more immediate violence of",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "yer metal is olde|morbid angel gateways to annihilation",
+    "kind": "review",
+    "section": "rev"
+  },
+  {
     "title": "Super Bowl Halftime Show Odds 2027: Miley Cyrus Back on Top - Covers.com",
     "src": "Covers.com",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JN2dIdUlBbGxpaGQ4WWVSbm5ITWJvTzM0R3h4S1RwY0tialZ4Ti1DRHprcVNsNmlOUmpuWUM3YjA2aTlYTTd0RWlrdVlaSTdNZVloWGxsamFkTENBOG1iUlR4ZlpFWTd6eXc?oc=5",
@@ -767,6 +1081,10 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/2026-hard-rock-metal-album-release-calendar/"
+      },
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nTUp5MUNLYUxYdTdBNzBoMmt3ajZFcjhxSXl3MGJsWU1ra1U0UEoxa2pacEE4bGp1NHJtMkZmUFVUa2xteHZEbDlqZWpsTkx6bXhtLVVSTENISkZULWFrZnpzYS0zLUZXbXZqMy1RVVE3VlE?oc=5"
       }
     ],
     "status": "official",
@@ -1817,7 +2135,7 @@
     "title": "Salvador Sobral edita novo álbum que tem na base \"a música mais genuína do mundo\" - Correio da Manhã",
     "src": "Correio da Manhã",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeC1fZjlTYUZueWpxV3lwZlBZeE1tVUdKazQ3bE9IRWZkR004YVN5Nkc5SmxhMTVHYlh0enZEUG9ZblZjS3B2TC1kRmFzOXg1SnVtaGVESEZpa2VtTWkzNXQ5Y2h5Y2o0WEc0RDVPajhiS0dFNFdkV2NmV1lyY3hPdXlBRWNsZ0dlNE1MRnZfSlFWcFNGbFcxUk96dXNrQlFxVnBVUnR0UjlQamhSdEtvYllyMmxUSFVJRW9z0gG2AUFVX3lxTE5mUUxKY3B3bF9kNjhLcm5fZkUtTUlpZ3NSZWhEMmxSUTlMV2gtMTg2UjAxTTg2RTJ2dTY5ZHY5eFFpMkRtNktDd2pZRXNxeTdvdDZhX21hblllTjFfbWpXX1VLTE55UV9vY2FMU1dpNjlvRlRFWWJzM0p4YkVieDdBMVpNNDQ5b3kyY2xVT3ZnQlUyNTZIN3JjX3JoUWhfSnVHOEkyZnIwaUlFYkMwU1FicHRudjN3?oc=5",
-    "timestamp": "2026-10-16T05:29:42+00:00",
+    "timestamp": "2026-10-16T05:27:15+00:00",
     "isoDate": "2026-10-16",
     "date": "16 Out",
     "d": "Salvador Sobral edita novo álbum que tem na base \"a música mais genuína do mundo\" Correio da Manhã",
@@ -1831,10 +2149,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -6865,6 +7183,52 @@
     ],
     "status": "rumor",
     "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "b": "dilukha",
+    "t": "Ceguera",
+    "g": "pop",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "16 Out",
+    "isoDate": "2026-10-16",
+    "url": "https://musicbrainz.org/release-group/c41a56c7-c8b5-489c-afe5-aeaa06b2485d",
+    "d": "pop",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/c41a56c7-c8b5-489c-afe5-aeaa06b2485d"
+      }
+    ],
+    "mbid": "c41a56c7-c8b5-489c-afe5-aeaa06b2485d",
+    "star": false,
+    "kind": "release",
+    "section": "main"
+  },
+  {
+    "title": "Infant Annihilator's New Album Set For December Release - Theprp.com",
+    "src": "Theprp.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQjk1bkZYTWZLSjFOTDZfdXJIM1hjVXhFR2t1RDVKSHV0U2xoamNqeElUbTJ5YWlQNzBUSVFFaElidTlxZkl1X0RJT1hpWEhHRVB4ZjNqN3lXelhsZVd5MUZDbWZwcGo4SjgtREZlclFra1RYSmVqQnhaeUowWGV0cGZoTk5vM0VZRkUzc3BSdC1Xd3E3X0pyeElB?oc=5",
+    "timestamp": "2026-10-16T19:17:07+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "Infant Annihilator's New Album Set For December Release Theprp.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Theprp.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQjk1bkZYTWZLSjFOTDZfdXJIM1hjVXhFR2t1RDVKSHV0U2xoamNqeElUbTJ5YWlQNzBUSVFFaElidTlxZkl1X0RJT1hpWEhHRVB4ZjNqN3lXelhsZVd5MUZDbWZwcGo4SjgtREZlclFra1RYSmVqQnhaeUowWGV0cGZoTk5vM0VZRkUzc3BSdC1Xd3E3X0pyeElB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
     "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
@@ -12636,6 +13000,56 @@
     "star": false,
     "kind": "news",
     "section": "buzz"
+  },
+  {
+    "title": "Staind Premiere New Single & Music Video \"Ghosts\" - Metal Underground.com",
+    "src": "Metal Underground.com",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42ZmJJMzVYOENnSlFabThYTnA5VXh2UTV2ZnlKSTlIalVtc3pmaTVpU1pzYnVPS29mQmx6TmlKbUY1UXVXN1RzcFcwMDhNUkpmcEZIZ1JJOXI2bDBmc00tZE5jYnNkbmtKeU4xWlFxZDY?oc=5",
+    "timestamp": "2026-10-15T06:17:00+00:00",
+    "isoDate": "2026-10-15",
+    "date": "15 Out",
+    "d": "Staind Premiere New Single & Music Video \"Ghosts\" Metal Underground.com",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Underground.com",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42ZmJJMzVYOENnSlFabThYTnA5VXh2UTV2ZnlKSTlIalVtc3pmaTVpU1pzYnVPS29mQmx6TmlKbUY1UXVXN1RzcFcwMDhNUkpmcEZIZ1JJOXI2bDBmc00tZE5jYnNkbmtKeU4xWlFxZDY?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Um sucesso sem rival: \"Isaltino\", canção de Plutonio com Isaltino Morais, continua a bater recordes - Correio da Manhã",
+    "src": "Correio da Manhã",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZGZWRXBTaGxoZUs1ZWsyTWhOODlTUVJjT3ViYjFzaGhQQ1N6MlBzc0xVR3d3T1VvQW5xOUd5UUZsQk1uZVlLeHItajg3MFNLQ2pzZ1ZYUU9QekVnS2tRRk1wcjAteHBoeF9RV2VYQUtCVHhwbXhrd015QzVxOG02VkxjdzREMzhVZHVUckJWWFFLYVE3RzhlT0lILXJPTUJEbm9NNVpnQmdMTHE0Q2VKbzdjbVYyaE52dnVJYWdtSDZsWS1iT3lB?oc=5",
+    "timestamp": "2026-10-15T20:02:00+00:00",
+    "isoDate": "2026-10-15",
+    "date": "15 Out",
+    "d": "Um sucesso sem rival: \"Isaltino\", canção de Plutonio com Isaltino Morais, continua a bater recordes Correio da Manhã",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Correio da Manhã",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZGZWRXBTaGxoZUs1ZWsyTWhOODlTUVJjT3ViYjFzaGhQQ1N6MlBzc0xVR3d3T1VvQW5xOUd5UUZsQk1uZVlLeHItajg3MFNLQ2pzZ1ZYUU9QekVnS2tRRk1wcjAteHBoeF9RV2VYQUtCVHhwbXhrd015QzVxOG02VkxjdzREMzhVZHVUckJWWFFLYVE3RzhlT0lILXJPTUJEbm9NNVpnQmdMTHE0Q2VKbzdjbVYyaE52dnVJYWdtSDZsWS1iT3lB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "title": "IRON MAIDEN Sells Half Of Catalogue, Rights To Eddie + More - Metal Injection",
