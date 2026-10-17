@@ -153,10 +153,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -178,10 +178,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -253,10 +253,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -278,10 +278,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -303,10 +303,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -990,10 +990,591 @@
     "section": "rev"
   },
   {
+    "title": "Dim Mak on 30 Years and Staying True To Their Roots – PLAYY. Magazine - PLAYY. Magazine",
+    "src": "PLAYY. Magazine",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0RlZHc2N2hvSHQ0RFQ1ek1KUWZaYV9MVEc0al9qaW1yTlFKbHdGakFJbXJ6TGZ0VXUwSVllMlFVT3BmM3pScTNqbjdLM25BRFFXNGsyN2ptTTV6QmREVzZvbmNpNFRxWDJmeTAtZGF0WjYyQndBSTJsQWthUXlwaWVLbFkyZHc?oc=5",
+    "timestamp": "2026-10-17T15:07:06+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "Dim Mak on 30 Years and Staying True To Their Roots – PLAYY. Magazine PLAYY. Magazine",
+    "category": "core",
+    "sources": [
+      {
+        "name": "PLAYY. Magazine",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0RlZHc2N2hvSHQ0RFQ1ek1KUWZaYV9MVEc0al9qaW1yTlFKbHdGakFJbXJ6TGZ0VXUwSVllMlFVT3BmM3pScTNqbjdLM25BRFFXNGsyN2ptTTV6QmREVzZvbmNpNFRxWDJmeTAtZGF0WjYyQndBSTJsQWthUXlwaWVLbFkyZHc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "b": "Wendy's",
+    "t": "Songs to Listen to in a Wendy’s Parking Lot",
+    "g": "punk",
+    "fmt": "EP",
+    "lbl": "Alterportal",
+    "date": "17 Out",
+    "isoDate": "2026-10-17",
+    "url": "https://alterportal.net/2026_albums/190590-wendys-songs-to-listen-to-in-a-wendys-parking-lot-ep-2026.html",
+    "d": "Pop Punk",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190590-wendys-songs-to-listen-to-in-a-wendys-parking-lot-ep-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Scrapin’ By",
+    "t": "Demo",
+    "g": "core",
+    "fmt": "EP",
+    "lbl": "MusicBrainz",
+    "date": "17 Out",
+    "isoDate": "2026-10-17",
+    "url": "https://musicbrainz.org/release-group/8e490ecf-159a-4293-9c54-1767e4ac8760",
+    "d": "hardcore punk",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/8e490ecf-159a-4293-9c54-1767e4ac8760"
+      }
+    ],
+    "mbid": "8e490ecf-159a-4293-9c54-1767e4ac8760",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "CODE ØNE",
+    "t": "does that day exist?",
+    "g": "heavy",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "17 Out",
+    "isoDate": "2026-10-17",
+    "url": "https://alterportal.net/alternative/190588-code-one-does-that-day-exist-single-2026.html",
+    "d": "",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190588-code-one-does-that-day-exist-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Callejon",
+    "t": "Smashburger",
+    "g": "core",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "17 Out",
+    "isoDate": "2026-10-17",
+    "url": "https://alterportal.net/core/190589-callejon-smashburger-single-2026.html",
+    "d": "Metalcore",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/core/190589-callejon-smashburger-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "Stick To Your Guns/Eighteen Visions Members Launch New Straight Edge Group ALIVE",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/17/news/stick-to-your-guns-eighteen-visions-members-launch-new-straight-edge-group-alive/",
+    "timestamp": "2026-10-17T18:01:14+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "Through a new straight edge label venture helmed by HardLore. The post Stick To Your Guns/Eighteen Visions Members Launch New Straight Edge Group ALIVE appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/17/news/stick-to-your-guns-eighteen-visions-members-launch-new-straight-edge-group-alive/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Cro-Mags Revisit “It’s The Limit” With Turnstile’s Meg Mills Ahead Of ‘The Age Of Quarrel’ 40th Anniversary Edition - The Mosh Network",
+    "src": "The Mosh Network",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ2pjTFRSRWoyOUpYUkw5VExVSDNUWUtpaEtrWk00T1J2cDhSY3doUmp0N0xsZkpBOGdONldlNDJXM01ITGRhTzNoWnlKR1E0TkpGdmsxelVVU2NMM3lvSTZZZ1RPVkh4THFOSmYzU1JvT0F5VXd5MFRiNzVZV2NNMVRKYWZTVlE?oc=5",
+    "timestamp": "2026-10-17T17:51:07+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "Cro-Mags Revisit “It’s The Limit” With Turnstile’s Meg Mills Ahead Of ‘The Age Of Quarrel’ 40th Anniversary Edition The Mosh Network",
+    "category": "core",
+    "sources": [
+      {
+        "name": "The Mosh Network",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ2pjTFRSRWoyOUpYUkw5VExVSDNUWUtpaEtrWk00T1J2cDhSY3doUmp0N0xsZkpBOGdONldlNDJXM01ITGRhTzNoWnlKR1E0TkpGdmsxelVVU2NMM3lvSTZZZ1RPVkh4THFOSmYzU1JvT0F5VXd5MFRiNzVZV2NNMVRKYWZTVlE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "No Cure Share Cover Of Brotherhood’s “Till Death” For 2026 ‘Edge Day’",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/17/news/no-cure-share-cover-of-brotherhoods-till-death-for-2026-edge-day/",
+    "timestamp": "2026-10-17T17:35:59+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "They've also rolled out a merch capsule. The post No Cure Share Cover Of Brotherhood’s “Till Death” For 2026 ‘Edge Day’ appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/17/news/no-cure-share-cover-of-brotherhoods-till-death-for-2026-edge-day/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "William Shatner says heavy metal ‘enlivens’ his life as he fronts band at 95 - Yahoo",
+    "src": "Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdTJ0Mk1NQktkTUpYV24tRlFJUVJzbnR1TUxCTk9KZE5GTmZNYTl5TXBoTEhfcUFjNTJmbkp2a1oySHhuMHVxVExQMGdpQlV3YXFFcTFNS3dRV3N5TEVwaHAyS0VKODBxREZyLXo3c2k4YzhpcllpYlJBeWZJcVZjUmFXWDhTNk5J?oc=5",
+    "timestamp": "2026-10-17T17:34:25+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "William Shatner says heavy metal ‘enlivens’ his life as he fronts band at 95 Yahoo",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdTJ0Mk1NQktkTUpYV24tRlFJUVJzbnR1TUxCTk9KZE5GTmZNYTl5TXBoTEhfcUFjNTJmbkp2a1oySHhuMHVxVExQMGdpQlV3YXFFcTFNS3dRV3N5TEVwaHAyS0VKODBxREZyLXo3c2k4YzhpcllpYlJBeWZJcVZjUmFXWDhTNk5J?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "AL JOURGENSEN: 'I Think That MINISTRY Has Run Its Course'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/al-jourgensen-i-think-that-ministry-has-run-its-course",
+    "timestamp": "2026-10-17T17:26:13+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "In a new interview with Hit Parader, MINISTRY leader Al Jourgensen spoke about his decision to call it quits after the touring cycle in support of the band's final album, \"Hate To Go (Take Out Or Delivery)\", which will arrive on October 30 via Cleopatra Records. Asked why now is the right time for h...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/al-jourgensen-i-think-that-ministry-has-run-its-course"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "ANDREW WATT Believes TONY IOMMI's Comment About Potential Final BLACK SABBATH Album Was 'Taken Out Of Context'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/andrew-watt-believes-tony-iommis-comment-about-potential-final-black-sabbath-album-was-taken-out-of-context",
+    "timestamp": "2026-10-17T16:27:49+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "In a new interview with Brian Hiatt of The Rolling Stone Studio podcast, producer Andrew Watt claims that Ozzy Osbourne, Tony Iommi and Geezer Butler all wanted to make one more BLACK SABBATH album with the group's original lineup as a follow-up to 2013's \"13\" LP, but that the LP never materialized...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/andrew-watt-believes-tony-iommis-comment-about-potential-final-black-sabbath-album-was-taken-out-of-context"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Listen: The Pretty Reckless Enlists Dave Grohl and Pat Smear on New \"About You\"",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/listen-the-pretty-reckless-enlists-dave-grohl-and-pat-smear-on-new-about-you",
+    "timestamp": "2026-10-17T15:46:43+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "\"I called Dave and Pat and asked them if they’d lend their magic to it. It was an amazing time in the studio making music, there’s nothing better than jamming with friends. I couldn’t be happier with the result.” The post Listen: The Pretty Reckless Enlists Dave Grohl and Pat Smear on New \"About You\" appeared first on ",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/listen-the-pretty-reckless-enlists-dave-grohl-and-pat-smear-on-new-about-you"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "STEEL PANTHER's New Album To Arrive In Spring 2027: 'It Is Mastered' And 'All The Songs Are Done'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/steel-panthers-new-album-to-arrive-in-spring-2027-it-is-mastered-and-all-the-songs-are-done",
+    "timestamp": "2026-10-17T15:35:53+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "In a new interview with Tommy London and Tor of The Mighty VH podcast, vocalist Michael Starr of California glam metal jokesters STEEL PANTHER confirmed that fresh music from him and his bandmates is on the way. He said (as transcribed by BLABBERMOUTH.NET): \"STEEL PANTHER's got a brand new record co...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/steel-panthers-new-album-to-arrive-in-spring-2027-it-is-mastered-and-all-the-songs-are-done"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "EYES Unleash Their Ferocious Live Sound at London’s Black Heart [Show Review] - V13 Media",
+    "src": "V13 Media",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mUXB0YkVubGJDVUx4WWJ3bzllOGxxOVo1UDRQNUlNT2lOSEFubFc4Y1RlQnZneFRLSjhJaEhFcVExR19SNVN1RkJEUjFlczFyajBXVUZSNV9USG10WmVmTTF3SmtURWgybnFfOTR1QXJJcGJGNTdzczZPUHQ?oc=5",
+    "timestamp": "2026-10-17T15:16:55+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "EYES Unleash Their Ferocious Live Sound at London’s Black Heart [Show Review] V13 Media",
+    "category": "core",
+    "sources": [
+      {
+        "name": "V13 Media",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mUXB0YkVubGJDVUx4WWJ3bzllOGxxOVo1UDRQNUlNT2lOSEFubFc4Y1RlQnZneFRLSjhJaEhFcVExR19SNVN1RkJEUjFlczFyajBXVUZSNV9USG10WmVmTTF3SmtURWgybnFfOTR1QXJJcGJGNTdzczZPUHQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "SHAVO ODADJIAN On Playing Stadiums With SYSTEM OF A DOWN: 'We're Having Fun Again'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/shavo-odadjian-on-playing-stadiums-with-system-of-a-down-were-having-fun-again",
+    "timestamp": "2026-10-17T15:08:07+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "In a new interview with the Essential Watches podcast, SYSTEM OF A DOWN bassist Shavo Odadjian addressed the fact that his band remains one of the most commercially significant heavy acts of its era despite not having released a studio album since 2005. The quartet consistently sells out stadiums ac...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/shavo-odadjian-on-playing-stadiums-with-system-of-a-down-were-having-fun-again"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Eminem Defends New Kid Rock Collaboration",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514883/eminem-defends-new-kid-rock-collaboration/news/",
+    "timestamp": "2026-10-17T18:06:41+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "The post Eminem Defends New Kid Rock Collaboration appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514883/eminem-defends-new-kid-rock-collaboration/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Geese’s “100 Horses” Is Terrorizing MLB The Show 26 Players",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/geeses-100-horses-is-terrorizing-mlb-the-show-26-players/",
+    "timestamp": "2026-10-17T15:49:21+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "The Brooklyn indie rock band are huge Mets fans, but their latest crossover with baseball has not gone quite as smoothly as planned. Geese’s “100 Horses” Is Terrorizing MLB The Show 26 Players Alex Krinsky",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/geeses-100-horses-is-terrorizing-mlb-the-show-26-players/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Eminem Defends Kid Rock Collab: “Just Choosing to Make Music with My Old Friend”",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/emimen-defends-kid-rock-collab/",
+    "timestamp": "2026-10-17T15:34:06+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "Eminem is standing by his decision to appear on Kid Rock's new Christian music album, Halfway 2 Jesus. Eminem Defends Kid Rock Collab: “Just Choosing to Make Music with My Old Friend” Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/emimen-defends-kid-rock-collab/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Nice As Fuck Reunite For First Show In A Decade",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514878/nice-as-fuck-reunite-for-first-show-in-a-decade/news/",
+    "timestamp": "2026-10-17T15:31:17+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "The post Nice As Fuck Reunite For First Show In A Decade appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514878/nice-as-fuck-reunite-for-first-show-in-a-decade/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Harry Styles Debuts New Liam Payne Tribute Song “What Is Enough” At MSG",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514874/harry-styles-debuts-new-liam-payne-tribute-song-what-is-enough-at-msg/news/",
+    "timestamp": "2026-10-17T15:11:03+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "The post Harry Styles Debuts New Liam Payne Tribute Song “What Is Enough” At MSG appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514874/harry-styles-debuts-new-liam-payne-tribute-song-what-is-enough-at-msg/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Harry Styles Debuts New Song Written for Liam Payne on Second Anniversary of His Death",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/harry-styles-debuts-new-song-written-for-liam-payne-on-second-anniversary-of-his-death/",
+    "timestamp": "2026-10-17T15:04:21+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "Styles introduced “What Is Enough” with a moving tribute to Payne before performing the song at Madison Square Garden. Harry Styles Debuts New Song Written for Liam Payne on Second Anniversary of His Death Alex Krinsky",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/harry-styles-debuts-new-song-written-for-liam-payne-on-second-anniversary-of-his-death/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Roosevelt Diggs proves there’s ‘No Place Like Home’ with jam-packed release show - Local Spins",
+    "src": "Local Spins",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdVJBcF9nMGJGeV9xQlVtQ0ctV3h0QkU4NVlwMm1DMjJJamlrRE1QaFlGaERfMDFWY1p1eWFlZGZCNXh0LW5fXzlRQ3NnLXdHeFNhUy05dFZaaFZEZ1RlQ2FqWE9KM2JIX29RVWltNjhvcEpHbTNraUJpNm83aFZnQjMwN1JSZUh2SEVhbWc0aEhrQjdE?oc=5",
+    "timestamp": "2026-10-17T14:52:18+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "Roosevelt Diggs proves there’s ‘No Place Like Home’ with jam-packed release show Local Spins",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Local Spins",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdVJBcF9nMGJGeV9xQlVtQ0ctV3h0QkU4NVlwMm1DMjJJamlrRE1QaFlGaERfMDFWY1p1eWFlZGZCNXh0LW5fXzlRQ3NnLXdHeFNhUy05dFZaaFZEZ1RlQ2FqWE9KM2JIX29RVWltNjhvcEpHbTNraUJpNm83aFZnQjMwN1JSZUh2SEVhbWc0aEhrQjdE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Music Composer Deva Dies at 75: Tamil Cinema Loses 'Thenisai Thendral' - LiveChennai",
+    "src": "LiveChennai",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EeVZZUEVZa1JLNDF3Zjh5ajVjMmp6YTFrMmY3ajd5ejVkZzVDdDRZQ29PQUd2WjVkYVZmTkttaVhjNFpYbkFIaFN2emFtN3RnOUY1WTE5djBDdWQ4RUV6WHZONnpXdw?oc=5",
+    "timestamp": "2026-10-17T06:23:34+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "Music Composer Deva Dies at 75: Tamil Cinema Loses 'Thenisai Thendral' LiveChennai",
+    "category": "general",
+    "sources": [
+      {
+        "name": "LiveChennai",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EeVZZUEVZa1JLNDF3Zjh5ajVjMmp6YTFrMmY3ajd5ejVkZzVDdDRZQ29PQUd2WjVkYVZmTkttaVhjNFpYbkFIaFN2emFtN3RnOUY1WTE5djBDdWQ4RUV6WHZONnpXdw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "A MÚSICA VIRAL 'ORDINARY' VAI SER OUVIDA AO VIVO EM PORTUGAL (VÍDEO) - 24Horas.pt",
+    "src": "24Horas.pt",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZnhQcWpyMXlSaV9HeE9JaklWS0liaXpDSWw3b3ByVWFCRF9lZEJOSEc4Z1RGd1ltUTRmYzNCNGpOM1psODJ5dXF4OXBrOTNlZHVzck5LLTc4djBNVlFvQVFsRDdtbWctM3ZxbmVMU0tTUG45Vjd1cGF1d0g3d3piSmYxTGMtc2UtZVdXektXRnFfcFlxV2c?oc=5",
+    "timestamp": "2026-10-17T15:00:00+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "A MÚSICA VIRAL 'ORDINARY' VAI SER OUVIDA AO VIVO EM PORTUGAL (VÍDEO) 24Horas.pt",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "24Horas.pt",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZnhQcWpyMXlSaV9HeE9JaklWS0liaXpDSWw3b3ByVWFCRF9lZEJOSEc4Z1RGd1ltUTRmYzNCNGpOM1psODJ5dXF4OXBrOTNlZHVzck5LLTc4djBNVlFvQVFsRDdtbWctM3ZxbmVMU0tTUG45Vjd1cGF1d0g3d3piSmYxTGMtc2UtZVdXektXRnFfcFlxV2c?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
     "title": "Super Bowl Halftime Show Odds 2027: Miley Cyrus Back on Top - Covers.com",
     "src": "Covers.com",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JN2dIdUlBbGxpaGQ4WWVSbm5ITWJvTzM0R3h4S1RwY0tialZ4Ti1DRHprcVNsNmlOUmpuWUM3YjA2aTlYTTd0RWlrdVlaSTdNZVloWGxsamFkTENBOG1iUlR4ZlpFWTd6eXc?oc=5",
-    "timestamp": "2026-10-16T18:56:15+00:00",
+    "timestamp": "2026-10-16T08:00:00+00:00",
     "isoDate": "2026-10-16",
     "date": "16 Out",
     "d": "Super Bowl Halftime Show Odds 2027: Miley Cyrus Back on Top Covers.com",
@@ -2301,15 +2882,10 @@
       {
         "name": "MusicBrainz",
         "url": "https://musicbrainz.org/release-group/a16da401-fad6-4bc9-b936-7ba2eefbe724"
-      },
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/2026_albums/190530-the-number-twelve-looks-like-you-howls-from-the-holographic-heart-2026.html"
       }
     ],
     "mbid": "a16da401-fad6-4bc9-b936-7ba2eefbe724",
     "star": false,
-    "alterportal": true,
     "kind": "release",
     "section": "recent"
   },
@@ -7236,6 +7812,52 @@
     "star": false,
     "kind": "news",
     "section": "buzz"
+  },
+  {
+    "title": "Chalk Come into their own on new album Crystalpunk - Northern Transmissions",
+    "src": "Northern Transmissions",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPek95YThuVFVKYzJrX093aEtPXzBfdDVKaTNTd29OU3I0ajI1VGhBSTczdlhYODJXWlZQc2V1TkdyTFdXVzJQdFNHajQ1emFDY1VYcHhHN2lkZmk2QjN0T0d4d1RkVkNEbkNaZk1xSkd6UWpTT2l3QkRCdzRqZlM4NnN0WTBLTXNUOHpfSnVB?oc=5",
+    "timestamp": "2026-10-16T11:44:46+00:00",
+    "isoDate": "2026-10-16",
+    "date": "16 Out",
+    "d": "Chalk Come into their own on new album Crystalpunk Northern Transmissions",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Northern Transmissions",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPek95YThuVFVKYzJrX093aEtPXzBfdDVKaTNTd29OU3I0ajI1VGhBSTczdlhYODJXWlZQc2V1TkdyTFdXVzJQdFNHajQ1emFDY1VYcHhHN2lkZmk2QjN0T0d4d1RkVkNEbkNaZk1xSkd6UWpTT2l3QkRCdzRqZlM4NnN0WTBLTXNUOHpfSnVB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "b": "Rachel Chinouriri",
+    "t": "I think I spoke too soon",
+    "g": "pop",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "16 Out",
+    "isoDate": "2026-10-16",
+    "url": "https://musicbrainz.org/release-group/729f8fa6-839d-47eb-83ba-7860a79e3013",
+    "d": "pop, alternative pop",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/729f8fa6-839d-47eb-83ba-7860a79e3013"
+      }
+    ],
+    "mbid": "729f8fa6-839d-47eb-83ba-7860a79e3013",
+    "star": false,
+    "kind": "release",
+    "section": "main"
   },
   {
     "title": "Every musician and band touring Australia in 2027 - RUSSH",
@@ -35393,31 +36015,6 @@
     "section": "buzz"
   },
   {
-    "title": "Chalk Come into their own on new album Crystalpunk - Northern Transmissions",
-    "src": "Northern Transmissions",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPek95YThuVFVKYzJrX093aEtPXzBfdDVKaTNTd29OU3I0ajI1VGhBSTczdlhYODJXWlZQc2V1TkdyTFdXVzJQdFNHajQ1emFDY1VYcHhHN2lkZmk2QjN0T0d4d1RkVkNEbkNaZk1xSkd6UWpTT2l3QkRCdzRqZlM4NnN0WTBLTXNUOHpfSnVB?oc=5",
-    "timestamp": "2026-10-10T18:10:56+00:00",
-    "isoDate": "2026-10-10",
-    "date": "10 Out",
-    "d": "Chalk Come into their own on new album Crystalpunk Northern Transmissions",
-    "category": "core",
-    "sources": [
-      {
-        "name": "Northern Transmissions",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPek95YThuVFVKYzJrX093aEtPXzBfdDVKaTNTd29OU3I0ajI1VGhBSTczdlhYODJXWlZQc2V1TkdyTFdXVzJQdFNHajQ1emFDY1VYcHhHN2lkZmk2QjN0T0d4d1RkVkNEbkNaZk1xSkd6UWpTT2l3QkRCdzRqZlM4NnN0WTBLTXNUOHpfSnVB?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": true,
-    "star": false,
-    "kind": "news",
-    "section": "core"
-  },
-  {
     "title": "How Judas Priest made the iconic album that saved their career - Louder",
     "src": "Louder",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeVFQbXJHWlNSQk1nbS03Zk9uSjd0SFlOWDZwX3hlQ1IwbWtOSkZyekRaUU53RUtJXzg4QUQtYWgxTUZVUUlyekJUM1NETGJXdFE4SUc1akpFRGdhekw5MXphM0dGdFdORnBWUEY0Nm14Q3NxS2s4ZlRqMkh5ODRRaDVZU2xfV0UyNXFfVTYxYVpRWXV6ay1YN01hckxWUQ?oc=5",
@@ -50556,31 +51153,6 @@
     "star": false,
     "kind": "news",
     "section": "news"
-  },
-  {
-    "title": "Dim Mak on 30 Years and Staying True To Their Roots – PLAYY. Magazine - PLAYY. Magazine",
-    "src": "PLAYY. Magazine",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0RlZHc2N2hvSHQ0RFQ1ek1KUWZaYV9MVEc0al9qaW1yTlFKbHdGakFJbXJ6TGZ0VXUwSVllMlFVT3BmM3pScTNqbjdLM25BRFFXNGsyN2ptTTV6QmREVzZvbmNpNFRxWDJmeTAtZGF0WjYyQndBSTJsQWthUXlwaWVLbFkyZHc?oc=5",
-    "timestamp": "2026-10-07T09:55:27+00:00",
-    "isoDate": "2026-10-07",
-    "date": "7 Out",
-    "d": "Dim Mak on 30 Years and Staying True To Their Roots – PLAYY. Magazine PLAYY. Magazine",
-    "category": "core",
-    "sources": [
-      {
-        "name": "PLAYY. Magazine",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0RlZHc2N2hvSHQ0RFQ1ek1KUWZaYV9MVEc0al9qaW1yTlFKbHdGakFJbXJ6TGZ0VXUwSVllMlFVT3BmM3pScTNqbjdLM25BRFFXNGsyN2ptTTV6QmREVzZvbmNpNFRxWDJmeTAtZGF0WjYyQndBSTJsQWthUXlwaWVLbFkyZHc?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": true,
-    "isPT": false,
-    "isCore": true,
-    "star": true,
-    "kind": "news",
-    "section": "core"
   },
   {
     "title": "Bokassa Announce Anomalies, Release ‘Cop Out’ And Reveal 2027 UK/EU Tour - MetalTalk",
