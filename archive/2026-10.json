@@ -17,10 +17,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -42,10 +42,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -67,10 +67,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -148,7 +148,7 @@
     "isoDate": "2026-10-20",
     "date": "20 Out",
     "d": "Popular ‘90s rock band to release first new album in 27 years: ‘It’s amazing’ Syracuse.com",
-    "category": "metal",
+    "category": "general",
     "sources": [
       {
         "name": "Syracuse.com",
@@ -163,7 +163,7 @@
     "isCore": false,
     "star": true,
     "kind": "news",
-    "section": "news"
+    "section": "buzz"
   },
   {
     "title": "SUCK - Gimme Gabba Gabba 10\" EP (La Pochete Surprise Records) - Thoughts Words Action - Thoughts Words Action",
@@ -208,10 +208,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -566,13 +566,13 @@
     "section": "buzz"
   },
   {
-    "title": "New Rumor Claims Daft Punk Were Rockstar's First Choice for GTA 6 - GTA BOOM",
+    "title": "A Rumor Says Daft Punk Were Rockstar Games' First Choice to Score GTA 6 - GTA BOOM",
     "src": "GTA BOOM",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUzVpUFdaMkpMYU5DWUt6UzhGZGxTTDZfNkFOaFZJaFdTRVl2Zkw5ZFc3b0w0elBMWTNSTU1zbmJNSHlmQnBDRld3SEowWXN5ekxzOWkxNmxCVGlCZ3llRFpNajR4OEtkWk9zcjZtNmV0SFI2UE80YkhxODVUOWY3OE5OSm03VElrdkxwVkJIWnF4SFFtWlVMTmlQemdsMUcw?oc=5",
     "timestamp": "2026-10-20T06:58:38+00:00",
     "isoDate": "2026-10-20",
     "date": "20 Out",
-    "d": "New Rumor Claims Daft Punk Were Rockstar's First Choice for GTA 6 GTA BOOM",
+    "d": "A Rumor Says Daft Punk Were Rockstar Games' First Choice to Score GTA 6 GTA BOOM",
     "category": "general",
     "sources": [
       {
@@ -708,10 +708,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -733,10 +733,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -758,10 +758,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -983,10 +983,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1047,6 +1047,671 @@
     "score": "",
     "cat": "general",
     "releaseKey": "pitchfork|split second",
+    "kind": "review",
+    "section": "rev"
+  },
+  {
+    "title": "Chaosbay Drop Their Single and Video “Egosystem” - Band Signs with Metal Blade Records - Ghost Cult Magazine",
+    "src": "Ghost Cult Magazine",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZlc1LVNXU1gySnc5a2FvSnFpZXAwNlV5aVpPNDBsRzEyTXJYSGlXT0lHVFBkbG5XRVdINmtlVXZibjhCT0MyMkd5REFpdzNwSFlPM3dQcGw2ZW1RZ3NyZHBWbHVsM0N3NVpDS1Y0a01aMkY2SWpxVnR5djF3S1dZNTFvVlVkT25wQXhVdFgtTXFtTzU2cG9ic3VfdTZCR1V1by1ySmJFSWE0RjEz?oc=5",
+    "timestamp": "2026-10-20T13:53:43+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "Chaosbay Drop Their Single and Video “Egosystem” - Band Signs with Metal Blade Records Ghost Cult Magazine",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Ghost Cult Magazine",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZlc1LVNXU1gySnc5a2FvSnFpZXAwNlV5aVpPNDBsRzEyTXJYSGlXT0lHVFBkbG5XRVdINmtlVXZibjhCT0MyMkd5REFpdzNwSFlPM3dQcGw2ZW1RZ3NyZHBWbHVsM0N3NVpDS1Y0a01aMkY2SWpxVnR5djF3S1dZNTFvVlVkT25wQXhVdFgtTXFtTzU2cG9ic3VfdTZCR1V1by1ySmJFSWE0RjEz?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Machine Head Returns With Melodic New Singles \"Sutures\"",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/new-music/machine-head-returns-with-melodic-new-singles-sutures",
+    "timestamp": "2026-10-20T13:14:40+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "Something a little more melodic from the groovy thrashers. The post Machine Head Returns With Melodic New Singles \"Sutures\" appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/new-music/machine-head-returns-with-melodic-new-singles-sutures"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "UGLY KID JOE's New Album To Arrive In Early 2027 Via BLKIIBLK",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/ugly-kid-joes-new-album-to-arrive-in-early-2027-via-blkiiblk",
+    "timestamp": "2026-10-20T12:58:41+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "In a new interview with \"Reckless\" Rexx Ruger of Pod Scum, UGLY KID JOE guitarist and producer Dave Fortman revealed that the band's upcoming studio album will be released through BLKIIBLK, the heavy metal imprint of Frontiers Label Group. Dave said (as transcribed by BLABBERMOUTH.NET): \"We're gonna...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/ugly-kid-joes-new-album-to-arrive-in-early-2027-via-blkiiblk"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "DELAIN Enters New Chapter With 'We Are Fire' Single And 'Extraordinary Cast' Of Guest Vocalists",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/delain-enters-new-chapter-with-we-are-fire-single-and-extraordinary-cast-of-guest-vocalists",
+    "timestamp": "2026-10-20T12:29:28+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "DELAIN — the long-running Dutch rock/metal project founded by ex-WITHIN TEMPTATION keyboardist Martijn Westerholt (brother of WITHIN TEMPTATION's Robert Westerholt) — has announced an exciting new creative transformation with an extraordinary cast of musicians and vocalists joining its new setup, on...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/delain-enters-new-chapter-with-we-are-fire-single-and-extraordinary-cast-of-guest-vocalists"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "How Punk and Rick Rubin Shaped Slayer's 'Reign in Blood' - Ultimate Guitar",
+    "src": "Ultimate Guitar",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSlBiNTZOd2hCejFkNUQtclN0QWpPT3lCRXdaaTd1anRFM2hLejhmRHBuVUVHM2dEeWJ1S2swVmpnaW1fS0RxQWxtNHBDdzVrSTM1LVh0MGNucTJLZTNWeTduclNWX2VrZW1oemlhV1gtdlVWSjRrZkl1OUE2UnplNTJxZ28tOGVOY2hTWjVSaDVnUGVzLTg4UXBEQXB0dHRSSlhBNlBsSkRFeGdScFhxaWdydnFJVDUwbURabTBUa3A3R0R1ckFHV0NlU1NPaDkxR1NLWnZiT1NuOGtBLWc3ekY2a0dTczFYSzNsYnVpTWRvcVVxemFoRzJoZzVFSGNuajZNYTdMaw?oc=5",
+    "timestamp": "2026-10-20T11:33:52+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "How Punk and Rick Rubin Shaped Slayer's 'Reign in Blood' Ultimate Guitar",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Ultimate Guitar",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSlBiNTZOd2hCejFkNUQtclN0QWpPT3lCRXdaaTd1anRFM2hLejhmRHBuVUVHM2dEeWJ1S2swVmpnaW1fS0RxQWxtNHBDdzVrSTM1LVh0MGNucTJLZTNWeTduclNWX2VrZW1oemlhV1gtdlVWSjRrZkl1OUE2UnplNTJxZ28tOGVOY2hTWjVSaDVnUGVzLTg4UXBEQXB0dHRSSlhBNlBsSkRFeGdScFhxaWdydnFJVDUwbURabTBUa3A3R0R1ckFHV0NlU1NPaDkxR1NLWnZiT1NuOGtBLWc3ekY2a0dTczFYSzNsYnVpTWRvcVVxemFoRzJoZzVFSGNuajZNYTdMaw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Veteran Guitarist IRA BLACK Sets His Sights On World Domination With APOCÆLYPSE",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/features/veteran-guitarist-ira-black-sets-his-sights-on-world-domination-with-apocaelypse",
+    "timestamp": "2026-10-20T11:26:10+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "By David E. Gehlke It's not uncommon for guitarist Ira Black to play MORBID ANGEL's \"Maze Of Torment\" one night in I AM MORBID, then throw down DOKKEN's \"In My Dreams\" another. In an era when utility and reliability are of paramount importance, Black ranks among the most called-upon guitarists in me...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/features/veteran-guitarist-ira-black-sets-his-sights-on-world-domination-with-apocaelypse"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "sadie – “Little Things”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2515049/sadie-little-things/music/",
+    "timestamp": "2026-10-20T13:59:31+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "The post sadie – “Little Things” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2515049/sadie-little-things/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "claire rousay & zander raymond Announce New Album something good: Hear “can’t we have both”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2515100/claire-rousay-zander-raymond-announce-new-album-something-good-hear-cant-we-have-both/music/",
+    "timestamp": "2026-10-20T13:54:10+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "The post claire rousay & zander raymond Announce New Album <em>something good</em>: Hear “can’t we have both” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2515100/claire-rousay-zander-raymond-announce-new-album-something-good-hear-cant-we-have-both/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Christina Applegate Says She Was Misdiagnosed with MS",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/christina-applegate-misdiagnosed-with-ms/",
+    "timestamp": "2026-10-20T13:51:35+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "\"This may come as great news, but to me, I'm back at square one.\" Christina Applegate Says She Was Misdiagnosed with MS Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/christina-applegate-misdiagnosed-with-ms/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Jay-Z Reportedly Picks Himself For Super Bowl Halftime Show, U2 To Play Thanksgiving Eve Game",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2515098/jay-z-reportedly-picks-himself-for-super-bowl-halftime-show-u2-to-play-thanksgiving-eve-game/news/",
+    "timestamp": "2026-10-20T13:48:01+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "The post Jay-Z Reportedly Picks Himself For Super Bowl Halftime Show, U2 To Play Thanksgiving Eve Game appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2515098/jay-z-reportedly-picks-himself-for-super-bowl-halftime-show-u2-to-play-thanksgiving-eve-game/news/"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "JAY-Z Reportedly Picks Himself to Headline Super Bowl LXI Halftime Show - Ratings Game Music",
+    "src": "Ratings Game Music",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV1E3R2ptWWg1aGs1RW5HSGo1MEs1ZmI2LXV0aDQzWWMwVmI3WTd2YXVtOXJkc0FyM1k5V0E0V1FwOUlIeW1ySE9jbjNNMW1ybHRGWFpleXUxTWVLT0VmX0FfSnFTbC1pNENVeVZUcXhDc3RlWjJma3p1VDA3enRoOU9KQVBqR1hXZHp1T0Y3TXk?oc=5",
+    "timestamp": "2026-10-20T13:31:38+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "JAY-Z Reportedly Picks Himself to Headline Super Bowl LXI Halftime Show Ratings Game Music",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Ratings Game Music",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV1E3R2ptWWg1aGs1RW5HSGo1MEs1ZmI2LXV0aDQzWWMwVmI3WTd2YXVtOXJkc0FyM1k5V0E0V1FwOUlIeW1ySE9jbjNNMW1ybHRGWFpleXUxTWVLT0VmX0FfSnFTbC1pNENVeVZUcXhDc3RlWjJma3p1VDA3enRoOU9KQVBqR1hXZHp1T0Y3TXk?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "An iPhone Is Their Acoustic Guitar",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514649/an-iphone-is-their-acoustic-guitar/columns/sounding-board/",
+    "timestamp": "2026-10-20T13:09:23+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "The post An iPhone Is Their Acoustic Guitar appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514649/an-iphone-is-their-acoustic-guitar/columns/sounding-board/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Rosalía to Perform at Latin Grammys 2026",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/rosalia-to-perform-at-latin-grammys-2026/",
+    "timestamp": "2026-10-20T13:05:16+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/rosalia-to-perform-at-latin-grammys-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "This indie singer is asking S.F. fans to put their phones away during arena tour stop - San Francisco Chronicle",
+    "src": "San Francisco Chronicle",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMlJtcEVkZHh1OHJnNEZDc1VmZUVXYTlFX0g2S2d4THY0NzdjYTcwMFZId0NLYTlENE9jTHZNQjdZb0VUZjNEUmItbVpiTFhiLW9aRzFhamN0YWotUkI0M3ZLQVR1Z1BmNnEtLXJiX0JOMmF6aXB2LU9HLV9uZUJkUlNxSzkzaElUQ0N3TE5pemFzSDRpbTgzZUVIc3pvdlU?oc=5",
+    "timestamp": "2026-10-20T13:03:13+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "This indie singer is asking S.F. fans to put their phones away during arena tour stop San Francisco Chronicle",
+    "category": "general",
+    "sources": [
+      {
+        "name": "San Francisco Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMlJtcEVkZHh1OHJnNEZDc1VmZUVXYTlFX0g2S2d4THY0NzdjYTcwMFZId0NLYTlENE9jTHZNQjdZb0VUZjNEUmItbVpiTFhiLW9aRzFhamN0YWotUkI0M3ZLQVR1Z1BmNnEtLXJiX0JOMmF6aXB2LU9HLV9uZUJkUlNxSzkzaElUQ0N3TE5pemFzSDRpbTgzZUVIc3pvdlU?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Lambrini Girls Announce Spring 2027 North American Tour, Unveil Two New Singles: Stream",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/lambrini-girls-2027-north-american-tour/",
+    "timestamp": "2026-10-20T13:01:26+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "The English punk duo preview their new album No Refunds with \"The Basement” and \"Split.\" Lambrini Girls Announce Spring 2027 North American Tour, Unveil Two New Singles: Stream Travis Bland",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/lambrini-girls-2027-north-american-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Jay-Z Reportedly Set to Perform at 2027 Super Bowl Halftime Show - Complex",
+    "src": "Complex",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZTAzWngtajZOalJZZjctb28teEdxdzdYU2FJVUhkdVdTdHlTZG5BcFZsVDhQTlVGeDhLUEhjUjBfVllCdWpnYVNOY3M2YUhETDFXQVRBU1BHck9pSHFrQ3hCSjlUbW1oSTBkSHRpcWliSEFJVlFDUzN2a1ZwSEJ5eEc2SGthOUJoVEYwN1RlUQ?oc=5",
+    "timestamp": "2026-10-20T12:48:10+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "Jay-Z Reportedly Set to Perform at 2027 Super Bowl Halftime Show Complex",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Complex",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZTAzWngtajZOalJZZjctb28teEdxdzdYU2FJVUhkdVdTdHlTZG5BcFZsVDhQTlVGeDhLUEhjUjBfVllCdWpnYVNOY3M2YUhETDFXQVRBU1BHck9pSHFrQ3hCSjlUbW1oSTBkSHRpcWliSEFJVlFDUzN2a1ZwSEJ5eEc2SGthOUJoVEYwN1RlUQ?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "U2 to Headline Halftime of NFL’s Thanksgiving Eve Game",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/u2-to-headline-halftime-of-nfls-thanksgiving-eve-game/",
+    "timestamp": "2026-10-20T12:42:00+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "Taking place Wednesday, November 25th, between the Green Bay Packers and Los Angeles Rams at SoFi Stadium in Los Angeles and streaming live on Netflix. U2 to Headline Halftime of NFL’s Thanksgiving Eve Game Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/u2-to-headline-halftime-of-nfls-thanksgiving-eve-game/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘League Of Legends’ K-pop virtual group K/DA returns without Madison Beer",
+    "src": "NME",
+    "url": "https://www.nme.com/news/gaming-news/league-of-legends-k-pop-virtual-group-k-da-members-madison-beer-3973607?utm_source=rss&utm_medium=rss&utm_campaign=league-of-legends-k-pop-virtual-group-k-da-members-madison-beer",
+    "timestamp": "2026-10-20T11:44:11+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "Listen to comeback single ‘Firestarter’ here The post ‘League Of Legends’ K-pop virtual group K/DA returns without Madison Beer appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/gaming-news/league-of-legends-k-pop-virtual-group-k-da-members-madison-beer-3973607?utm_source=rss&utm_medium=rss&utm_campaign=league-of-legends-k-pop-virtual-group-k-da-members-madison-beer"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Linda Cardellini on musical ‘Crystal Lake’ murderer Pamela Voorhees and her favourite Prince and Madonna albums",
+    "src": "NME",
+    "url": "https://www.nme.com/news/tv/linda-cardellini-crystal-lake-favourite-albums-madonna-prince-3973545?utm_source=rss&utm_medium=rss&utm_campaign=linda-cardellini-crystal-lake-favourite-albums-madonna-prince",
+    "timestamp": "2026-10-20T11:32:37+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "In the new prequel series, the original 'Friday The 13th' killer is a grieving ex-lounge singer The post Linda Cardellini on musical ‘Crystal Lake’ murderer Pamela Voorhees and her favourite Prince and Madonna albums appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/tv/linda-cardellini-crystal-lake-favourite-albums-madonna-prince-3973545?utm_source=rss&utm_medium=rss&utm_campaign=linda-cardellini-crystal-lake-favourite-albums-madonna-prince"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Jay-Z faces backlash after reportedly choosing himself as headliner for Super Bowl 2027, fans question his 'ego' and 'lack of fresh hits' - Indiatimes",
+    "src": "Indiatimes",
+    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNS1FlbFpidVZMZm9QdlNiU0tOZHlBTi13OFdqRU9hMVBNbU54V05zOVQ4UHowR3VTUFBURTMtRHVNOUVzRFc0emQwdm5MVlZVOEU2V0F3MGVTb2kwa2hndU1FcElrd3NlTlNOWW5MMkxjT1d1U3F1Qm9HS25CS1RpcWJRRk0yc3J2bVdPbmhJUm11MDYxQkRabC1Wbk1pcm5NTXBPa2pEMjdZcW0zMzAxc1d1Q1lZQ0Z3VnZLdkh6eEhPZ1ZEcGpDalk0ekZ0dF9YMDBsczlQUDhRUm12VEVGZXYzajR2OVBZeHZyMlAtazJ5WGxtUnVWbzB4WHNNSXFQVXhBRmUxeWVCT29OUEVXSTNFOHFiZHd3NkpMRHdfbXjSAaYCQVVfeXFMT2xQUFJLZ2c5X0k1S3daV3NhSUdvT3ZDM3FFcmVOV1pudUkwVWdOQlhmVmtvaHJyUGlyRFQ1eGxqRXNKSWc0TDdPNXJuRV90TmFMaHVFY2piRHIzZ2VmLXZIZVRHV0ZFMmtjcGZfbHJWVm5LcGFhejNjSlU4cHBHRWNMR2EtMU9NY05rcFc1QnplU0paM2tvMURFMDNoWjNtaDZfVTVZS1hmeE9pWXFsUHJnZkdSVml0V1VGcmp2WFdVSkNsemtJN25hOF9taW9ESDZBaGdaLVpXZnJ6Nm90Q0RYa2lhU3REeW9JQjhfUjgwRWRfSEtYLTEydUtnbmJ3azFLa196dGcxbnA2aHFHVFZJeGpTSnp3bTBKaXJ1bzI2RDF5YUp3?oc=5",
+    "timestamp": "2026-10-20T11:21:19+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "Jay-Z faces backlash after reportedly choosing himself as headliner for Super Bowl 2027, fans question his 'ego' and 'lack of fresh hits' Indiatimes",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Indiatimes",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNS1FlbFpidVZMZm9QdlNiU0tOZHlBTi13OFdqRU9hMVBNbU54V05zOVQ4UHowR3VTUFBURTMtRHVNOUVzRFc0emQwdm5MVlZVOEU2V0F3MGVTb2kwa2hndU1FcElrd3NlTlNOWW5MMkxjT1d1U3F1Qm9HS25CS1RpcWJRRk0yc3J2bVdPbmhJUm11MDYxQkRabC1Wbk1pcm5NTXBPa2pEMjdZcW0zMzAxc1d1Q1lZQ0Z3VnZLdkh6eEhPZ1ZEcGpDalk0ekZ0dF9YMDBsczlQUDhRUm12VEVGZXYzajR2OVBZeHZyMlAtazJ5WGxtUnVWbzB4WHNNSXFQVXhBRmUxeWVCT29OUEVXSTNFOHFiZHd3NkpMRHdfbXjSAaYCQVVfeXFMT2xQUFJLZ2c5X0k1S3daV3NhSUdvT3ZDM3FFcmVOV1pudUkwVWdOQlhmVmtvaHJyUGlyRFQ1eGxqRXNKSWc0TDdPNXJuRV90TmFMaHVFY2piRHIzZ2VmLXZIZVRHV0ZFMmtjcGZfbHJWVm5LcGFhejNjSlU4cHBHRWNMR2EtMU9NY05rcFc1QnplU0paM2tvMURFMDNoWjNtaDZfVTVZS1hmeE9pWXFsUHJnZkdSVml0V1VGcmp2WFdVSkNsemtJN25hOF9taW9ESDZBaGdaLVpXZnJ6Nm90Q0RYa2lhU3REeW9JQjhfUjgwRWRfSEtYLTEydUtnbmJ3azFLa196dGcxbnA2aHFHVFZJeGpTSnp3bTBKaXJ1bzI2RDF5YUp3?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "JAY-Z to Headline 2027 Super Bowl Halftime Show: Report",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/jay-z-super-bowl-halftime-show/",
+    "timestamp": "2026-10-20T11:19:37+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "The rap mogul reportedly considered Justin Bieber and Miley Cyrus before ultimately selecting himself to play Super Bowl LXI. JAY-Z to Headline 2027 Super Bowl Halftime Show: Report Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/jay-z-super-bowl-halftime-show/"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "medium",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Super Bowl Halftime Show Headliner Reportedly Revealed - PopCulture.com",
+    "src": "PopCulture.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRlpUNFF4R2NWWnltVmVCX05YS3JCVEg1S2J2UE43dUdLVXJKY0lfa2EtMjVWcUhiRi1TcWFVb1d3V2p3R1pleDZJVGNTNVFETUQtRExMVm1VVmJwTmtlLXFXRU9DMlNvdmdLWURXUGp6TU14QUhSb3lpaGJhYm5GRzdZaXZBVzYxSjRnVXlkd1lNRHI3aVZ5dmViUndmdw?oc=5",
+    "timestamp": "2026-10-20T11:09:33+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "Super Bowl Halftime Show Headliner Reportedly Revealed PopCulture.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "PopCulture.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRlpUNFF4R2NWWnltVmVCX05YS3JCVEg1S2J2UE43dUdLVXJKY0lfa2EtMjVWcUhiRi1TcWFVb1d3V2p3R1pleDZJVGNTNVFETUQtRExMVm1VVmJwTmtlLXFXRU9DMlNvdmdLWURXUGp6TU14QUhSb3lpaGJhYm5GRzdZaXZBVzYxSjRnVXlkd1lNRHI3aVZ5dmViUndmdw?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Chicago band's new album takes aim at the ultra-wealthy - Cleveland.com",
+    "src": "Cleveland.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUozbkxiZy1oenRlVllTaHB1SHhGUW05T3JsWkx2SUR1RFNPeTU2ckR1Ylo1OFZzbmlxeHVBNWlHZXhPQzl6YVJscWxOaE5RM3Q1QmZHYkF3bDNqWHZEdkF4OFBPZ0JqZEJKMGdMVXpzTEVKZzllcVhvTXBNbXVsVXJJcENhMlFkbkFYTk1zUC1BXzZKT2MtUDFJaXZfNmY4YU4wcGQxdGJseDdqT2NEWUxQRWZqYm1XeWc?oc=5",
+    "timestamp": "2026-10-20T11:07:00+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "Chicago band's new album takes aim at the ultra-wealthy Cleveland.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Cleveland.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUozbkxiZy1oenRlVllTaHB1SHhGUW05T3JsWkx2SUR1RFNPeTU2ckR1Ylo1OFZzbmlxeHVBNWlHZXhPQzl6YVJscWxOaE5RM3Q1QmZHYkF3bDNqWHZEdkF4OFBPZ0JqZEJKMGdMVXpzTEVKZzllcVhvTXBNbXVsVXJJcENhMlFkbkFYTk1zUC1BXzZKT2MtUDFJaXZfNmY4YU4wcGQxdGJseDdqT2NEWUxQRWZqYm1XeWc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Heilung Announce 2027 Australian and New Zealand Tour, Including Sydney Opera House Shows - Rolling Stone Australia",
+    "src": "Rolling Stone Australia",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcGVKYW9rOXpiYUcwUnJUelQ3aHBSWDZ5ME93Y2FFNWEzRTBnZjNvQ19lQUlsazdWVkxibG40Rjg0ajJFOGYzVkJmNU83Sm5yZ2h6TWdBMzJneHA3bUtzQzNZQ3hRbmZjbGxnc1NIc2J3MDF5TXhnTlVlNHVSNWZteXUzYVpYUG0zUVRTUnhFSmlDWVEwb3Zr?oc=5",
+    "timestamp": "2026-10-20T08:01:28+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "Heilung Announce 2027 Australian and New Zealand Tour, Including Sydney Opera House Shows Rolling Stone Australia",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Rolling Stone Australia",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcGVKYW9rOXpiYUcwUnJUelQ3aHBSWDZ5ME93Y2FFNWEzRTBnZjNvQ19lQUlsazdWVkxibG40Rjg0ajJFOGYzVkJmNU83Sm5yZ2h6TWdBMzJneHA3bUtzQzNZQ3hRbmZjbGxnc1NIc2J3MDF5TXhnTlVlNHVSNWZteXUzYVpYUG0zUVRTUnhFSmlDWVEwb3Zr?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Jack Johnson regressa a Portugal em 2027: última atuação foi em 2008 - SAPO",
+    "src": "SAPO",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlVNQm5LYTd4dTd1ejN4WjQ4RW1uaUR1NTVjbmFPMXlmYnhRMWJYUjctMVBZeUlXck1XOW43OGtvdTNvQ05MdVBOT1BkUldaRWZ0cDZoc1lOZVdpd0RaYW4xMGZPaVJWdkt4WWdqTVc0NC1nN0J6U1JGUW5DTC11SWV1eDFoLUZzdUJFN3RrR0Z2VTRfaVZEZVFjWnJDWW9MYjYtMHBreTlfZHR0MjA0X3ZzQjFnUQ?oc=5",
+    "timestamp": "2026-10-20T12:08:20+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "Jack Johnson regressa a Portugal em 2027: última atuação foi em 2008 SAPO",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "SAPO",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlVNQm5LYTd4dTd1ejN4WjQ4RW1uaUR1NTVjbmFPMXlmYnhRMWJYUjctMVBZeUlXck1XOW43OGtvdTNvQ05MdVBOT1BkUldaRWZ0cDZoc1lOZVdpd0RaYW4xMGZPaVJWdkt4WWdqTVc0NC1nN0J6U1JGUW5DTC11SWV1eDFoLUZzdUJFN3RrR0Z2VTRfaVZEZVFjWnJDWW9MYjYtMHBreTlfZHR0MjA0X3ZzQjFnUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Festival Eurovisão Júnior da Canção muda de canal e chega com Salvador Rio e Diogo Piçarra em direto na TV portuguesa - Magazine.HD",
+    "src": "Magazine.HD",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOGM5OEZ3WE5KbnNNTjAxMWZCeDBLT0ZNUHZjOEJHU0pjOXhSWnJrbUs0dUtfU1ZmOFAxa2pUaVBhSEcyQ0d2N21EVXgzTXczV0d1bTN0ZjVWQUw5cTVVLVdPOVZqeUNyMTN6aEplRHZ1TGxNNVp0RjUxdWRpMEo3RkNjZndnVGFMZlpnRzFGQkNhMTUtazdNQWIxOUxQbHhQRE5qWlVVakFnTnNTN2tCVXVrT1JBNGZIdUwxb0ZwWlV0UzluemhnZ0hjVk8wZDg?oc=5",
+    "timestamp": "2026-10-20T11:45:26+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "Festival Eurovisão Júnior da Canção muda de canal e chega com Salvador Rio e Diogo Piçarra em direto na TV portuguesa Magazine.HD",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Magazine.HD",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOGM5OEZ3WE5KbnNNTjAxMWZCeDBLT0ZNUHZjOEJHU0pjOXhSWnJrbUs0dUtfU1ZmOFAxa2pUaVBhSEcyQ0d2N21EVXgzTXczV0d1bTN0ZjVWQUw5cTVVLVdPOVZqeUNyMTN6aEplRHZ1TGxNNVp0RjUxdWRpMEo3RkNjZndnVGFMZlpnRzFGQkNhMTUtazdNQWIxOUxQbHhQRE5qWlVVakFnTnNTN2tCVXVrT1JBNGZIdUwxb0ZwWlV0UzluemhnZ0hjVk8wZDg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Mannveira",
+    "t": "Vesöld Review",
+    "src": "Angry Metal Guy",
+    "date": "20 Out",
+    "isoDate": "2026-10-20",
+    "timestamp": "2026-10-20T11:22:52+00:00",
+    "url": "https://www.angrymetalguy.com/mannveira-vesold-review/",
+    "d": "\"If any genre is oversaturated, black metal is at the top of the list. Despite being stuffed with shit for the most part, the low barrier to entry makes for endless new bands, and way too many good ones to listen to in one lifetime. To stand out in black metal",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "mannveira|vesold review",
     "kind": "review",
     "section": "rev"
   },
@@ -4254,7 +4919,7 @@
     "title": "Sleep Token Issue Rare Statement After New Band Promoted as From Their “Co-Creator”",
     "src": "Metal Injection",
     "url": "https://metalinjection.net/news/sleep-token-issue-rare-statement-after-new-band-promoted-as-from-their-co-creator",
-    "timestamp": "2026-10-19T16:43:30+00:00",
+    "timestamp": "2026-10-19T17:19:08+00:00",
     "isoDate": "2026-10-19",
     "date": "19 Out",
     "d": "\"What is ours is here, and here alone.\" The post Sleep Token Issue Rare Statement After New Band Promoted as From Their “Co-Creator” appeared first on Metal Injection .",
@@ -4276,31 +4941,6 @@
     "isPT": false,
     "isCore": false,
     "star": false,
-    "kind": "news",
-    "section": "news"
-  },
-  {
-    "title": "Nightwish Singer Floor Jansen Exits Band, \"There Is a Bright Musical Journey Ahead of Me\" - Metal Injection",
-    "src": "Metal Injection",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcHFHbm5qTUtyY1NkQkNmS01TOE1qY0VXeVFwaElieV9Bci1pVzI4MDFPZ3BxT1BZcWxRNGFpYVBZVE9HVmozbGVQbXpSb0ZqVUhleFBrVWg5MWROUlZxcFJvX1EtVGRhN0tMTlRVZWxjdWkzZzN4OWRWZjFiT3hzbzhGM09VOGZMNUthbDl1LW41dXRXWFEwV21oWTNzUzRET1hHS0NMVEo3SjhpTEt1YzA1bXl5U2lhTEE?oc=5",
-    "timestamp": "2026-10-19T16:40:20+00:00",
-    "isoDate": "2026-10-19",
-    "date": "19 Out",
-    "d": "Nightwish Singer Floor Jansen Exits Band, \"There Is a Bright Musical Journey Ahead of Me\" Metal Injection",
-    "category": "metal",
-    "sources": [
-      {
-        "name": "Metal Injection",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcHFHbm5qTUtyY1NkQkNmS01TOE1qY0VXeVFwaElieV9Bci1pVzI4MDFPZ3BxT1BZcWxRNGFpYVBZVE9HVmozbGVQbXpSb0ZqVUhleFBrVWg5MWROUlZxcFJvX1EtVGRhN0tMTlRVZWxjdWkzZzN4OWRWZjFiT3hzbzhGM09VOGZMNUthbDl1LW41dXRXWFEwV21oWTNzUzRET1hHS0NMVEo3SjhpTEt1YzA1bXl5U2lhTEE?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": true,
-    "isPT": false,
-    "isCore": false,
-    "star": true,
     "kind": "news",
     "section": "news"
   },
@@ -6174,27 +6814,27 @@
     "section": "buzz"
   },
   {
-    "title": "The Music Week Interview: Sulinna Ong - Music Wee",
-    "src": "Music Wee",
+    "title": "The Music Week Interview: Sulinna Ong - MusicWeek.com",
+    "src": "MusicWeek.com",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVFNUdEx6NHhNbFdlWnd3aHpJUnZKX3ptc1Vhb3FCbnY5VTNKNUUtdm5IVU1tODdDUGF0cmVGM2pUdjdOZVRmM0Z1dnFiRmpIcUFKRzhUMV9uY2lXSFprM0llYmRiNDVFOC1EaGktTUVRS29lOTRZU0hUcFNMbnZBdEYyOGYyYTh5VkcwcEtB?oc=5",
     "timestamp": "2026-10-19T16:54:00+00:00",
     "isoDate": "2026-10-19",
     "date": "19 Out",
-    "d": "The Music Week Interview: Sulinna Ong Music Wee",
+    "d": "The Music Week Interview: Sulinna Ong MusicWeek.com",
     "category": "general",
     "sources": [
       {
-        "name": "Music Wee",
+        "name": "MusicWeek.com",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVFNUdEx6NHhNbFdlWnd3aHpJUnZKX3ptc1Vhb3FCbnY5VTNKNUUtdm5IVU1tODdDUGF0cmVGM2pUdjdOZVRmM0Z1dnFiRmpIcUFKRzhUMV9uY2lXSFprM0llYmRiNDVFOC1EaGktTUVRS29lOTRZU0hUcFNMbnZBdEYyOGYyYTh5VkcwcEtB?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -6595,17 +7235,17 @@
     "section": "buzz"
   },
   {
-    "title": "Fontaines D.C. Release Fifth Album ‘Dopamine Chamber’ Built on Electronic Sounds - 95.9 The Rat",
-    "src": "95.9 The Rat",
+    "title": "Fontaines D.C. Release Fifth Album ‘Dopamine Chamber’ Built on Electronic Sounds - 95.9 The RAT",
+    "src": "95.9 The RAT",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2kxUUpEUVNzcXBQSXQyZjViNEZqbFZ0NVZlbmpsVng2TmhxT3hIdVkzOTJaWXR3Y0JhaVZPTkkwdmliYVZTSzV2YThIRE1EbGJJR0szdkRtSHZrdHU5M1dkT2I1Q21DWVVVaENxam00OGZZWndmb2Z5b2xRbVdrenVDRmFrNXJRNTFoS3JiQkJhcDRaSXJ4ekVEalJHdFhDOFdIS0tVT0d4UQ?oc=5",
     "timestamp": "2026-10-19T20:20:15+00:00",
     "isoDate": "2026-10-19",
     "date": "19 Out",
-    "d": "Fontaines D.C. Release Fifth Album ‘Dopamine Chamber’ Built on Electronic Sounds 95.9 The Rat",
+    "d": "Fontaines D.C. Release Fifth Album ‘Dopamine Chamber’ Built on Electronic Sounds 95.9 The RAT",
     "category": "general",
     "sources": [
       {
-        "name": "95.9 The Rat",
+        "name": "95.9 The RAT",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2kxUUpEUVNzcXBQSXQyZjViNEZqbFZ0NVZlbmpsVng2TmhxT3hIdVkzOTJaWXR3Y0JhaVZPTkkwdmliYVZTSzV2YThIRE1EbGJJR0szdkRtSHZrdHU5M1dkT2I1Q21DWVVVaENxam00OGZZWndmb2Z5b2xRbVdrenVDRmFrNXJRNTFoS3JiQkJhcDRaSXJ4ekVEalJHdFhDOFdIS0tVT0d4UQ?oc=5"
       }
     ],
@@ -6782,6 +7422,81 @@
       {
         "name": "Correio Braziliense",
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYlBqb1N4ejhJZ3FLb0c1SlhhMHFjanNrREp3WndvMTNCTmFXWUVvTi12S1IxN0h5NWpkWXFKRkswbDNZOUoxSTJNbXYxUGxxdWhUSk91UHlzcDdIM3oyNy1MUWlhRzYzbkY1VHNpblFhSGUzSThkMWxVa0kyMXJOTndOX2F4aEdMd1VtLWJJczQ0TUVjNmNLOUlyeG5BWkNVMmJNN1FGZFBDNGx5X2dtSll6bERscnJWY1pfWFhteWpiZTBLTENvYXpQMXdmaGNGRDhzZExUQkM3eU1fLWtValFvSVdaTnpXa3A2UXpJN0pxYjFUYzZjOTFEV0thN2tfOVNNa0xJYknSAY4CQVVfeXFMTVZTWlJLSmNoTWwyQUtRdU1sMHhmUERqcmtqSkk5NXB3SVBPMExJT09KbEs2OTVoUDQxOVhxLUxodHVTd2RrdHZSZFBaQmdPWmd0ZndTU3lQcmRMdEx5OTFTVVR1RU1oQTlMcS1TNmRqVzB3TnoyT1VFeDlqRUpySUlkcGdJV01nY2tzdEtCN1BtWFY2Qnp1dlJZUnZqVkxsbnBmNHhfd1E2WURnZUEwc1R4Qk9UaW1KVnpZeEI0azkyZS1URVlhalphU3ZPSkZJSjBFcmRHNnJiS3I5QjBQQThEMnFCR2R5QUhRYXFXX05lNVFDc1UwcF9LbWNvX0FBQk52UXlmZHczY0Z5TjFn?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Jeff Rosenstock is still worried - Paste Magazine",
+    "src": "Paste Magazine",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObkU2RUFGNXAtVGtMMHNYV3dHSDJuS01sQW1CMTlYWjJZOTgtVXZudF9vOGtSMTRhcldoakNWVGtpMUVGTEUydnhyaHJEN3RnZlN2M19JNUhtTHJLQkZ2S044LW9CSVByRV9OU1Q4elFFeVc0eUh4SjRtNEpHQ0hPNXFaU1Y1NlN5VE13UWNzRkN5bC1T?oc=5",
+    "timestamp": "2026-10-19T17:00:00+00:00",
+    "isoDate": "2026-10-19",
+    "date": "19 Out",
+    "d": "Jeff Rosenstock is still worried Paste Magazine",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Paste Magazine",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObkU2RUFGNXAtVGtMMHNYV3dHSDJuS01sQW1CMTlYWjJZOTgtVXZudF9vOGtSMTRhcldoakNWVGtpMUVGTEUydnhyaHJEN3RnZlN2M19JNUhtTHJLQkZ2S044LW9CSVByRV9OU1Q4elFFeVc0eUh4SjRtNEpHQ0hPNXFaU1Y1NlN5VE13UWNzRkN5bC1T?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Neurosis Launch Fall Reunion Tour in San Francisco: Photos, Video + Setlist - Consequence of Sound",
+    "src": "Consequence of Sound",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT0U0d19UUVlzZGkxbXF2Z093WU1sWXBXazRTdjRNR08zWmdsTU93OFVXdnBFUWM1YTUzcHBHdWpXNHpzWk9sbkhXcTlvUWNtTXR5R1VxS1ZuTHpCRkNXbVIyQldUZG4yZVFzX0lvNUtiMEthNFB5YjRYU3R0c0pWTUFLYWp5LTVwdVhJaG9vcC13S0dCZmdnT1dmbmRmQQ?oc=5",
+    "timestamp": "2026-10-19T14:01:44+00:00",
+    "isoDate": "2026-10-19",
+    "date": "19 Out",
+    "d": "Neurosis Launch Fall Reunion Tour in San Francisco: Photos, Video + Setlist Consequence of Sound",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence of Sound",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT0U0d19UUVlzZGkxbXF2Z093WU1sWXBXazRTdjRNR08zWmdsTU93OFVXdnBFUWM1YTUzcHBHdWpXNHpzWk9sbkhXcTlvUWNtTXR5R1VxS1ZuTHpCRkNXbVIyQldUZG4yZVFzX0lvNUtiMEthNFB5YjRYU3R0c0pWTUFLYWp5LTVwdVhJaG9vcC13S0dCZmdnT1dmbmRmQQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Cinco amigos, um posto de gasolina e muita resenha: Cê Tá Doido chega a Portugal - Público",
+    "src": "Público",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkNLOTY1V1dmZHJHMlJ6VEl5b0ozUzFZNWFYbXVHVDlSRXdHMmtKM0FpcHJoeDdwWV9ScEVKM1FCM0JfR1BMZDVhUjFXVEFDMEJGREVEUEpsdmMxV2hDdlltVnhrQnBjSHhtQTlsUjdOaXNzZWc4SWYzaGYwR1doUHpGbnV3M0xZSEdCTUppSDRzODBSWGtFbnUwRklPUnFlZWwwcW0yWVU1VDc1S3oxekljN1lEMVZaa1NhRHNxQllVLVFsZWc?oc=5",
+    "timestamp": "2026-10-19T06:30:00+00:00",
+    "isoDate": "2026-10-19",
+    "date": "19 Out",
+    "d": "Cinco amigos, um posto de gasolina e muita resenha: Cê Tá Doido chega a Portugal Público",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Público",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQkNLOTY1V1dmZHJHMlJ6VEl5b0ozUzFZNWFYbXVHVDlSRXdHMmtKM0FpcHJoeDdwWV9ScEVKM1FCM0JfR1BMZDVhUjFXVEFDMEJGREVEUEpsdmMxV2hDdlltVnhrQnBjSHhtQTlsUjdOaXNzZWc4SWYzaGYwR1doUHpGbnV3M0xZSEdCTUppSDRzODBSWGtFbnUwRklPUnFlZWwwcW0yWVU1VDc1S3oxekljN1lEMVZaa1NhRHNxQllVLVFsZWc?oc=5"
       }
     ],
     "status": "official",
@@ -8809,6 +9524,31 @@
     "star": true,
     "kind": "news",
     "section": "news"
+  },
+  {
+    "title": "Young Miko Gets Flirty With L.A. During Her Late Checkout Tour - The Hollywood Reporter",
+    "src": "The Hollywood Reporter",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTHkyaFVlTmJOc1lMV3lJSG1mcHk0RVRDNVdJcFo3ZGRyaHNncW1YNGVDSnFiLUVHTHVtT3pSWGdSX2xRR2ZuNVQ1MzJIS244OUw5bnUtTmlWTHF1bHRiV2M1cVVKeExkZFp6em5zWkoyRk9WT0FGZDMzYS1Ed1FsOEY0NE4xZ0o2ZUVEZmc3MTQ2Q0JjNDNVa3RJdmN3TU5ZenNFZVRyS2RjUldiN1BQLXhKQnE?oc=5",
+    "timestamp": "2026-10-18T19:34:41+00:00",
+    "isoDate": "2026-10-18",
+    "date": "18 Out",
+    "d": "Young Miko Gets Flirty With L.A. During Her Late Checkout Tour The Hollywood Reporter",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Hollywood Reporter",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTHkyaFVlTmJOc1lMV3lJSG1mcHk0RVRDNVdJcFo3ZGRyaHNncW1YNGVDSnFiLUVHTHVtT3pSWGdSX2xRR2ZuNVQ1MzJIS244OUw5bnUtTmlWTHF1bHRiV2M1cVVKeExkZFp6em5zWkoyRk9WT0FGZDMzYS1Ed1FsOEY0NE4xZ0o2ZUVEZmc3MTQ2Q0JjNDNVa3RJdmN3TU5ZenNFZVRyS2RjUldiN1BQLXhKQnE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
   },
   {
     "title": "Exclusive Videos: Watch the new video by MONK! - Punknews.org",
@@ -11471,6 +12211,31 @@
     "star": false,
     "kind": "news",
     "section": "buzz"
+  },
+  {
+    "title": "Metal Hammer's tracks of the week: October 16 2026 - Louder",
+    "src": "Louder",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaGI4ZDlRZWJBTEhNUmF5NEtINndydE00M2ZEY09Wc3RINDdDZXZVdzFXTUZWbVhjQThFZzNPUjhiQ0Iya0l5N0pFZ2wwZ1JNYjBxQ3Q4SGZiTGNLSEw4eXVnWmc0UDNSSlRhUkFwT0JBZFNtSEdaa2xZM3NJNm9rOXBUOE1RaGdabThQNkJkY3ZZOGdLMm11NHMxdnN3NWFVVDJj?oc=5",
+    "timestamp": "2026-10-17T08:00:00+00:00",
+    "isoDate": "2026-10-17",
+    "date": "17 Out",
+    "d": "Metal Hammer's tracks of the week: October 16 2026 Louder",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Louder",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaGI4ZDlRZWJBTEhNUmF5NEtINndydE00M2ZEY09Wc3RINDdDZXZVdzFXTUZWbVhjQThFZzNPUjhiQ0Iya0l5N0pFZ2wwZ1JNYjBxQ3Q4SGZiTGNLSEw4eXVnWmc0UDNSSlRhUkFwT0JBZFNtSEdaa2xZM3NJNm9rOXBUOE1RaGdabThQNkJkY3ZZOGdLMm11NHMxdnN3NWFVVDJj?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
   },
   {
     "title": "Super Bowl Halftime Show Odds 2027: Miley Cyrus Back on Top - Covers.com",
@@ -18251,6 +19016,31 @@
     "section": "buzz"
   },
   {
+    "title": "Nightwish Singer Floor Jansen Exits Band, \"There Is a Bright Musical Journey Ahead of Me\" - Metal Injection",
+    "src": "Metal Injection",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcHFHbm5qTUtyY1NkQkNmS01TOE1qY0VXeVFwaElieV9Bci1pVzI4MDFPZ3BxT1BZcWxRNGFpYVBZVE9HVmozbGVQbXpSb0ZqVUhleFBrVWg5MWROUlZxcFJvX1EtVGRhN0tMTlRVZWxjdWkzZzN4OWRWZjFiT3hzbzhGM09VOGZMNUthbDl1LW41dXRXWFEwV21oWTNzUzRET1hHS0NMVEo3SjhpTEt1YzA1bXl5U2lhTEE?oc=5",
+    "timestamp": "2026-10-15T15:26:22+00:00",
+    "isoDate": "2026-10-15",
+    "date": "15 Out",
+    "d": "Nightwish Singer Floor Jansen Exits Band, \"There Is a Bright Musical Journey Ahead of Me\" Metal Injection",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcHFHbm5qTUtyY1NkQkNmS01TOE1qY0VXeVFwaElieV9Bci1pVzI4MDFPZ3BxT1BZcWxRNGFpYVBZVE9HVmozbGVQbXpSb0ZqVUhleFBrVWg5MWROUlZxcFJvX1EtVGRhN0tMTlRVZWxjdWkzZzN4OWRWZjFiT3hzbzhGM09VOGZMNUthbDl1LW41dXRXWFEwV21oWTNzUzRET1hHS0NMVEo3SjhpTEt1YzA1bXl5U2lhTEE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
     "title": "Every musician and band touring Australia in 2027 - RUSSH",
     "src": "RUSSH",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvS1dIXy1ydGsycUx2THhtbGtGbGdaMzVFV3NsOS00RlJyM1RRSi15X3JWWkZPTmdvVXFSbDlZSExaRnFKbG5zb0VVamhReUYwSjY4MGNCU18wYTN0bFU3cDhFbHdiQQ?oc=5",
@@ -24210,6 +25000,31 @@
     "star": false,
     "kind": "news",
     "section": "news"
+  },
+  {
+    "title": "Alex Warren estreia-se em Portugal com concerto na Figueira da Foz - SIC Notícias",
+    "src": "SIC Notícias",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdllKSVk0RDY4aUlxN3E1bjNWd3RraVlVTU9LS1UycUdWNnM0dHh5R2w4RDRidkd1SnRXOVM2b2hRYVBUSVJkSzlzVTg1NWw4TDdKNVFJS2psUGM5WFd2Y1hFRHMzTzFUa2p6WEtScmladDktUTB3aXg3UXJXaXNCY21PdlFTXzlKXzRhY042dkJ1cklaV3hyVkNYTDlYcVVueHBpZkpXU0ZreURtaGRfbGdTbWphTDZlNWdkUmdwTl82UQ?oc=5",
+    "timestamp": "2026-10-15T08:46:10+00:00",
+    "isoDate": "2026-10-15",
+    "date": "15 Out",
+    "d": "Alex Warren estreia-se em Portugal com concerto na Figueira da Foz SIC Notícias",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "SIC Notícias",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdllKSVk0RDY4aUlxN3E1bjNWd3RraVlVTU9LS1UycUdWNnM0dHh5R2w4RDRidkd1SnRXOVM2b2hRYVBUSVJkSzlzVTg1NWw4TDdKNVFJS2psUGM5WFd2Y1hFRHMzTzFUa2p6WEtScmladDktUTB3aXg3UXJXaXNCY21PdlFTXzlKXzRhY042dkJ1cklaV3hyVkNYTDlYcVVueHBpZkpXU0ZreURtaGRfbGdTbWphTDZlNWdkUmdwTl82UQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "title": "How Soundgarden Influenced Alice in Chains' Darker Musical Direction, Author Explains: 'They Just Took Their Songs In a Heavier Direction' - Ultimate Guitar",
@@ -36713,6 +37528,31 @@
       {
         "name": "diariOnline Região Sul",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWXN4N3FjeUJtbEN4UFdLYmNJaExRYWJYd3lqS2RiWUdPZkNoSHpZNEZ3R2duZVZrUElwUzdoVTJ6NUNLNUNKaDV3X3NSbmtvVVR4eHUwX05waEphNnFraEJZTzdtYnlpUUVHa2VKYXA2ckhUVlV2dU5tVjA3MmFYa2ZYcC1JQlZXYzI0eFRjN0ltYWlGTDBpUHotZkpJVnlldW5QOWFYdTB6eHJwTmpTdm5yM0x0ZnNBNXItQnNudw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Bárbara Bandeira inicia em dezembro nova digressão acústica \"Maresia\" - Observador",
+    "src": "Observador",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN1FDSTBPNEhqSFBJUnZVX1R2blFlbjhhOWJDSkZxZmJNNzJQY0Z5U0hMaENDZnN4YXVQakxnV0M3WDBtdlA2a3NFVHB1VEk0amxOSjRlNF9scGl1V3VleW8tQUsyWV9YdDd0UktzT2FsSzFrc0p0UENTbUpKUGE1X1p0ajNFVkk4UGNibUtFQ3kwbk9VXzZ1elVsQkJqNDIxNTNz?oc=5",
+    "timestamp": "2026-10-13T18:09:33+00:00",
+    "isoDate": "2026-10-13",
+    "date": "13 Out",
+    "d": "Bárbara Bandeira inicia em dezembro nova digressão acústica \"Maresia\" Observador",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Observador",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN1FDSTBPNEhqSFBJUnZVX1R2blFlbjhhOWJDSkZxZmJNNzJQY0Z5U0hMaENDZnN4YXVQakxnV0M3WDBtdlA2a3NFVHB1VEk0amxOSjRlNF9scGl1V3VleW8tQUsyWV9YdDd0UktzT2FsSzFrc0p0UENTbUpKUGE1X1p0ajNFVkk4UGNibUtFQ3kwbk9VXzZ1elVsQkJqNDIxNTNz?oc=5"
       }
     ],
     "status": "official",
