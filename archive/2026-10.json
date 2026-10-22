@@ -516,10 +516,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -541,10 +541,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -777,7 +777,7 @@
     "title": "CHVRCHES return with new album All The King’s Men and major 2027 tour - Contactmusic.com",
     "src": "Contactmusic.com",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMS1VSkJ0YzlZWVJCZ3FPWU5FTnZnRE5FWUo1Zll1X0xGUUR1UlBQWWYyYlFjdXU2UjFrVUdpdjZfWkMzRVhHX2ZJV0wyQTlFR3k0MFJzQzRuU0psSkxsWE1yQTlocEdCY1pfSW1WTDh4MWpnWlJ4akE4Wm9WenFVY1NpN1Nyel92c0FPRURmMHk5VkdGYi1HeWZfRnpjQjNSQ2xBazNMdFFINWtPU2VFMWYxYjgyWnc?oc=5",
-    "timestamp": "2026-10-22T10:21:03+00:00",
+    "timestamp": "2026-10-22T10:38:02+00:00",
     "isoDate": "2026-10-22",
     "date": "22 Out",
     "d": "CHVRCHES return with new album All The King’s Men and major 2027 tour Contactmusic.com",
@@ -941,10 +941,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1166,10 +1166,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1191,10 +1191,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1590,7 +1590,7 @@
     "timestamp": "2026-10-22T14:12:34+00:00",
     "isoDate": "2026-10-22",
     "date": "22 Out",
-    "d": "\"I love this song!,\" Aguilera told a bashful Roan as they finished the duet. Christina Aguilera Joins Chappell Roan for “Coffee” at Super Graphic Spectacular in LA: Watch Paolo Ragusa",
+    "d": "\"From the moment I heard Chappell's voice, I knew she was a force to be reckoned with, and I became an immediate fan,\" Aguilera told the crowd. Christina Aguilera Joins Chappell Roan for “Coffee” at Super Graphic Spectacular in LA: Watch Paolo Ragusa",
     "category": "general",
     "sources": [
       {
@@ -1709,13 +1709,13 @@
     "section": "buzz"
   },
   {
-    "title": "Sonic Temple 2027 Lineup Features Iron Maiden, blink-182, Korn, Falling Reverse, Faith No More, and Turnstile",
+    "title": "Sonic Temple 2027 Lineup Features Iron Maiden, blink-182, Korn, Falling in Reverse, Faith No More, and Turnstile",
     "src": "Consequence",
     "url": "https://consequence.net/2026/10/sonic-temple-2027-lineup/",
     "timestamp": "2026-10-22T13:43:39+00:00",
     "isoDate": "2026-10-22",
     "date": "22 Out",
-    "d": "The four-day gathering in Columbus, Ohio, also boasts Alice in Chains, A Perfect Circle, GWAR, Ministry, and more. Sonic Temple 2027 Lineup Features Iron Maiden, blink-182, Korn, Falling Reverse, Faith No More, and Turnstile Spencer Kaufman",
+    "d": "The four-day gathering in Columbus, Ohio, also boasts Alice in Chains, A Perfect Circle, GWAR, Ministry, and more. Sonic Temple 2027 Lineup Features Iron Maiden, blink-182, Korn, Falling in Reverse, Faith No More, and Turnstile Spencer Kaufman",
     "category": "general",
     "sources": [
       {
@@ -2001,10 +2001,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2026,10 +2026,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2051,10 +2051,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2220,6 +2220,1221 @@
     "score": "",
     "cat": "metal",
     "releaseKey": "armory|echoes of the astrolith review",
+    "kind": "review",
+    "section": "rev"
+  },
+  {
+    "b": "Vemød",
+    "t": "Sublime",
+    "g": "electro",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "22 Out",
+    "isoDate": "2026-10-22",
+    "url": "https://alterportal.net/alternative/190626-vemod-sublime-single-2026.html",
+    "d": "Alternative Metal / Electronic",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190626-vemod-sublime-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Starr Adara",
+    "t": "000",
+    "g": "rock",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "22 Out",
+    "isoDate": "2026-10-22",
+    "url": "https://alterportal.net/alternative/190623-starr-adara-000-single-2026.html",
+    "d": "Alternative Rock / Female Vocal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190623-starr-adara-000-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Priest",
+    "t": "Altered State Police",
+    "g": "pop",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "22 Out",
+    "isoDate": "2026-10-22",
+    "url": "https://alterportal.net/2026_albums/190625-priest-altered-state-police-2026.html",
+    "d": "EBM / Synthpop",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190625-priest-altered-state-police-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Normandie",
+    "t": "Mr America",
+    "g": "electro",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "22 Out",
+    "isoDate": "2026-10-22",
+    "url": "https://alterportal.net/alternative/190624-normandie-mr-america-single-2026.html",
+    "d": "Alternative Metal / Electronic",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190624-normandie-mr-america-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Eva Under Fire",
+    "t": "Starshine",
+    "g": "electro",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "22 Out",
+    "isoDate": "2026-10-22",
+    "url": "https://alterportal.net/alternative/190622-eva-under-fire-starshine-single-2026.html",
+    "d": "Alternative Metal / Electronic / Female Vocal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190622-eva-under-fire-starshine-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "Ex-Slipknot Percussionist Chris Fehn Showed Up On ‘Pawn Stars’ This Week",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/22/news/ex-slipknot-percussionist-chris-fehn-showed-up-on-pawn-stars-this-week/",
+    "timestamp": "2026-10-22T16:27:17+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "He was called in to authenticate a mask and more. The post Ex-Slipknot Percussionist Chris Fehn Showed Up On ‘Pawn Stars’ This Week appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/22/news/ex-slipknot-percussionist-chris-fehn-showed-up-on-pawn-stars-this-week/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "The Last Song 15 Big Rock + Metal Played at Their Final Show",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/final-song-rock-metal-bands/",
+    "timestamp": "2026-10-22T16:11:13+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "Looking back at the last song 15 rock and metal bands played before they disbanded or stopped touring forever. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/final-song-rock-metal-bands/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "The Last Song 15 Big Rock + Metal Bands Played Before They Went Away for Good - Loudwire",
+    "src": "Loudwire",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11VXR0WTJMRmVrd3NzQVMxa1Rva0tHSU1wY0VDYWxvTzJteUdpSnpzVUxFZjJ3d3NnZjJJamlrUHl1T29SYXduNHZDZnlueG43dWhYXzVUTTduSTVGaHc?oc=5",
+    "timestamp": "2026-10-22T16:11:13+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "The Last Song 15 Big Rock + Metal Bands Played Before They Went Away for Good Loudwire",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11VXR0WTJMRmVrd3NzQVMxa1Rva0tHSU1wY0VDYWxvTzJteUdpSnpzVUxFZjJ3d3NnZjJJamlrUHl1T29SYXduNHZDZnlueG43dWhYXzVUTTduSTVGaHc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Queens Of The Stone Age Perform On ‘The Tonight Show’, Announce U.S. Tour With Pixies & Wheelchair Sports Camp",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/22/news/queens-of-the-stone-age-perform-on-the-tonight-show-announce-u-s-tour-with-pixies-wheelchair-sports-camp/",
+    "timestamp": "2026-10-22T15:51:34+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "They played \"Where The Goth Girls At?\" on late night TV last night. The post Queens Of The Stone Age Perform On ‘The Tonight Show’, Announce U.S. Tour With Pixies & Wheelchair Sports Camp appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/22/news/queens-of-the-stone-age-perform-on-the-tonight-show-announce-u-s-tour-with-pixies-wheelchair-sports-camp/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Reece Scruggs Speaks On His Exit From Machine Head, Launches New Band Burning Hammer",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/22/news/reece-scruggs-speaks-on-his-exit-from-machine-head-launches-new-band-burning-hammer/",
+    "timestamp": "2026-10-22T15:39:12+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "The latter finds him joined by members of Arsis and Monolith. The post Reece Scruggs Speaks On His Exit From Machine Head, Launches New Band Burning Hammer appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/22/news/reece-scruggs-speaks-on-his-exit-from-machine-head-launches-new-band-burning-hammer/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Reece Scruggs Exits Machine Head: “A Badge of Honor I Will Carry With Me Forever”",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/reece-scruggs-exits-machine-head-a-badge-of-honor-i-will-carry-with-me-forever",
+    "timestamp": "2026-10-22T15:32:56+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "\"I had Robb's support and understanding before I could get the words out.\" The post Reece Scruggs Exits Machine Head: “A Badge of Honor I Will Carry With Me Forever” appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/reece-scruggs-exits-machine-head-a-badge-of-honor-i-will-carry-with-me-forever"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Iron Maiden, Korn, Falling In Reverse, Blink-182, Faith No More, Etc. Booked For 2027 ‘Sonic Temple’ Festival",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/22/news/iron-maiden-korn-falling-in-reverse-blink-182-faith-no-more-etc-booked-for-2027-sonic-temple-festival/",
+    "timestamp": "2026-10-22T15:18:38+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "The full lineup has been revealed. The post Iron Maiden, Korn, Falling In Reverse, Blink-182, Faith No More, Etc. Booked For 2027 ‘Sonic Temple’ Festival appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/22/news/iron-maiden-korn-falling-in-reverse-blink-182-faith-no-more-etc-booked-for-2027-sonic-temple-festival/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "NILE's KARL SANDERS Undergoes 'Multilevel Spinal Fusion Surgery'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/niles-karl-sanders-undergoes-multilevel-spinal-fusion-surgery",
+    "timestamp": "2026-10-22T15:15:48+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "NILE guitarist/vocalist Karl Sanders is recovering after undergoing a \"multilevel spinal fusion surgery\" in his neck. He is expected to be well enough to join his bandmates on their \"Underworld Europe 2026 Tour\", which is scheduled to kick off on November 29 in Athens, Greece. Earlier today (Thursda...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/niles-karl-sanders-undergoes-multilevel-spinal-fusion-surgery"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "QUEENS OF THE STONE AGE announce ‘Perfecth’ U.S. arena tour",
+    "src": "Revolver",
+    "url": "https://www.revolvermag.com/events/queens-of-the-stone-age-announce-perfecth-u-s-arena-tour/",
+    "timestamp": "2026-10-22T15:14:26+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "With Pixies and Wheelchair Sports Camp",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Revolver",
+        "url": "https://www.revolvermag.com/events/queens-of-the-stone-age-announce-perfecth-u-s-arena-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "TONY IOMMI Reflects On 'Awkward' Experience Making BLACK SABBATH's 13' Album With Producer RICK RUBIN",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/tony-iommi-reflects-on-awkward-experience-making-black-sabbaths-13-album-with-producer-rick-rubin",
+    "timestamp": "2026-10-22T14:58:36+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "In a new interview with Planet Rock's Ian Danter, BLACK SABBATH guitarist Tony Iommi reflected on the making of the band's final album, \"13\". Released in 2013, it was SABBATH's first LP in 35 years to feature Iommi, bassist Geezer Butler and singer Ozzy Osbourne. Tony said: \"On our last album, SABBA...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/tony-iommi-reflects-on-awkward-experience-making-black-sabbaths-13-album-with-producer-rick-rubin"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Queens of the Stone Age Announce 2027 Tour With The Pixies",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/tour-dates/queens-of-the-stone-age-announce-2027-tour-with-the-pixies",
+    "timestamp": "2026-10-22T14:42:23+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "Hear some very loud guitar music in a very big venue. The post Queens of the Stone Age Announce 2027 Tour With The Pixies appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/tour-dates/queens-of-the-stone-age-announce-2027-tour-with-the-pixies"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "IRON MAIDEN, KORN, BLINK-182 and FALLING IN REVERSE headline SONIC TEMPLE 2027",
+    "src": "Revolver",
+    "url": "https://www.revolvermag.com/events/iron-maiden-korn-blink-182-and-falling-in-reverse-headline-sonic-temple-2027/",
+    "timestamp": "2026-10-22T14:39:15+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "with Faith No More, Turnstile, Mastodon and more",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Revolver",
+        "url": "https://www.revolvermag.com/events/iron-maiden-korn-blink-182-and-falling-in-reverse-headline-sonic-temple-2027/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Queens of the Stone Age Announce 2027 Tour With Pixies",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/queens-of-the-stone-age-2027-tour-dates-pixies/",
+    "timestamp": "2026-10-22T14:26:12+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "Get all the tour dates and ticketing info for Queens of the Stone Age's 2027 North American tour. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/queens-of-the-stone-age-2027-tour-dates-pixies/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "QUEENS OF THE STONE AGE Announce May 2027 U.S. Tour",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/queens-of-the-stone-age-announce-may-2027-u-s-tour",
+    "timestamp": "2026-10-22T14:22:21+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "QUEENS OF THE STONE AGE will support their soon-to-be-released album \"Perfecth\" on a 2027 tour. Beginning May 1 at San Diego's Viejas Arena, they will bring their unforgettable live set to venues such as Kia Forum in Los Angeles and TD Garden in Boston, and will also stage outdoor shows at Red Rocks...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/queens-of-the-stone-age-announce-may-2027-u-s-tour"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "THE 69 EYES Drummer JUSSI 69 To Sit Out Upcoming Shows After Being Diagnosed With Viral Meningitis",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/the-69-eyes-drummer-jussi-69-to-sit-out-upcoming-shows-after-being-diagnosed-with-viral-meningitis",
+    "timestamp": "2026-10-22T13:53:25+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "Drummer Jussi 69 of Finnish goth rock veterans THE 69 EYES will sit out the band's upcoming shows after being diagnosed with viral meningitis. He will be temporarily replaced by his drum tech Vilho Rajala. Earlier today (Thursday, October 22), Jussi 69 released the following message via social media...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/the-69-eyes-drummer-jussi-69-to-sit-out-upcoming-shows-after-being-diagnosed-with-viral-meningitis"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Sonic Temple Announces 2027 Lineup Featuring Falling In Reverse, Iron Maiden, Korn + More",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/tour-dates/festivals/sonic-temple-announces-2027-lineup-featuring-falling-in-reverse-iron-maiden-korn-more",
+    "timestamp": "2026-10-22T13:47:38+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "Your favorite band is probably playing. The post Sonic Temple Announces 2027 Lineup Featuring Falling In Reverse, Iron Maiden, Korn + More appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/tour-dates/festivals/sonic-temple-announces-2027-lineup-featuring-falling-in-reverse-iron-maiden-korn-more"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "3 Alternative Artists From the 90s Who Were in Entirely Different Bands in the 80s - VICE",
+    "src": "VICE",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0diTFJRZjBKeUI2WGQ2SU9JSkVvdVNqLUlvOXpOek4tN1pGcnQtUGJPTl82ZTdLcEJiaUtvcnRudnZuWXhuUDJERjJYR29RU0t5ekN4cnpwMUFDY0RXc01CUHF3NHlUSEhOdWJGaWQ5Ql9hWFpxalNmbjctQXJHLURrNmNsNjdYdHNMYVNfZGVraTlBUEZ2Y3hTa004ajVGdDliY2tXQUNtYnlHeE5tUnZwd1ZTUQ?oc=5",
+    "timestamp": "2026-10-22T13:11:15+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "3 Alternative Artists From the 90s Who Were in Entirely Different Bands in the 80s VICE",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "VICE",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0diTFJRZjBKeUI2WGQ2SU9JSkVvdVNqLUlvOXpOek4tN1pGcnQtUGJPTl82ZTdLcEJiaUtvcnRudnZuWXhuUDJERjJYR29RU0t5ekN4cnpwMUFDY0RXc01CUHF3NHlUSEhOdWJGaWQ5Ql9hWFpxalNmbjctQXJHLURrNmNsNjdYdHNMYVNfZGVraTlBUEZ2Y3hTa004ajVGdDliY2tXQUNtYnlHeE5tUnZwd1ZTUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Anuel AA Announces Corridos Album, Maluma Reveals Plans to Explore Música Mexicana",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/anuel-aa-maluma-corridos-musica-mexicana/",
+    "timestamp": "2026-10-22T16:29:05+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "The two urbano stars discussed their interest in Mexican music during separate appearances at Billboard Latin Music Week. Anuel AA Announces Corridos Album, Maluma Reveals Plans to Explore Música Mexicana Pedro Camacho",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/anuel-aa-maluma-corridos-musica-mexicana/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "2hollis Announces 2027 “Pirouette” Tour",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/2hollis-2027-pirouette-north-american-tour/",
+    "timestamp": "2026-10-22T16:27:44+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "2hollis' biggest tour yet kicks off in February 2027 and includes a hometown arena show at the Kia Forum. 2hollis Announces 2027 “Pirouette” Tour Paolo Ragusa",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/2hollis-2027-pirouette-north-american-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Westside Gunn Announces New Album Heelmatic: Hear “Zilla”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2515336/westside-gunn-announces-new-album-heelmatic-hear-zilla/music/",
+    "timestamp": "2026-10-22T16:16:49+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "The post Westside Gunn Announces New Album <em>Heelmatic</em>: Hear “Zilla” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2515336/westside-gunn-announces-new-album-heelmatic-hear-zilla/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Daft Punk’s Iconic Pyramid Stage Is Becoming A LEGO Set",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2515329/daft-punks-iconic-pyramid-stage-is-becoming-a-lego-set/news/",
+    "timestamp": "2026-10-22T16:01:41+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "The post Daft Punk’s Iconic Pyramid Stage Is Becoming A LEGO Set appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2515329/daft-punks-iconic-pyramid-stage-is-becoming-a-lego-set/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Giant Drag – “Song For My Funeral”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2515331/giant-drag-song-for-my-funeral/music/",
+    "timestamp": "2026-10-22T15:49:50+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "The post Giant Drag – “Song For My Funeral” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2515331/giant-drag-song-for-my-funeral/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Cliff Richard says he’s “learning reggae” for new version of ‘The Lord Is My Shepherd’ for Christmas single",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/cliff-richard-says-hes-learning-reggae-for-new-version-of-the-lord-is-my-shepherd-for-christmas-single-3973872?utm_source=rss&utm_medium=rss&utm_campaign=cliff-richard-says-hes-learning-reggae-for-new-version-of-the-lord-is-my-shepherd-for-christmas-single",
+    "timestamp": "2026-10-22T15:46:39+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "One music fan said the idea \"sounds so wrong\", while another dubbed the singer \"Spliff Richard\" The post Cliff Richard says he’s “learning reggae” for new version of ‘The Lord Is My Shepherd’ for Christmas single appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/cliff-richard-says-hes-learning-reggae-for-new-version-of-the-lord-is-my-shepherd-for-christmas-single-3973872?utm_source=rss&utm_medium=rss&utm_campaign=cliff-richard-says-hes-learning-reggae-for-new-version-of-the-lord-is-my-shepherd-for-christmas-single"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Fleetwood Mac Announce Fleetwood Mac Documentary",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/fleetwood-mac-announces-fleetwood-mac-documentary/",
+    "timestamp": "2026-10-22T15:40:56+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/fleetwood-mac-announces-fleetwood-mac-documentary/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kacey Musgraves Reveals Middle of Nowhere Companion Album",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/kacey-musgraves-reveals-middle-of-nowhere-companion-album/",
+    "timestamp": "2026-10-22T15:40:06+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/kacey-musgraves-reveals-middle-of-nowhere-companion-album/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Spanish Pop Star Aitana Joins Martin Garrix for His First Spanish-Language Song on Upcoming Album",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/aitana-joins-martin-garrix-new-album-marty/",
+    "timestamp": "2026-10-22T15:31:22+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "The long-rumored collaboration was recently previewed in Mexico City, ahead of the album’s March 2027 release. Spanish Pop Star Aitana Joins Martin Garrix for His First Spanish-Language Song on Upcoming Album Pedro Camacho",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/aitana-joins-martin-garrix-new-album-marty/"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "medium",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kacey Musgraves to Release New 16-Song Album, ‘Middle of Nowhere Vol. 2: Tex Mex Tapes’ - Variety",
+    "src": "Variety",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOejNQNllvSzFHNnRCeTFVVkU3RjItR19XNWZzYlZ2NTlEQVNmVEZ0UE1kOXU5N1hGY0d5RGdCVlF6MWlqSnBZM1NjbHJnOGJ1cFlkY29RcHItejR2dUNSV25hMzJQdmJkQ3FIMjFPMlRQZzdNYmlFdjV0MTF4VVBVUDluVnJ4eXQ4S0RpRWFadVZiNWxXdkNIcThfVHBsVDZFNnEw?oc=5",
+    "timestamp": "2026-10-22T15:29:00+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "Kacey Musgraves to Release New 16-Song Album, ‘Middle of Nowhere Vol. 2: Tex Mex Tapes’ Variety",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Variety",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOejNQNllvSzFHNnRCeTFVVkU3RjItR19XNWZzYlZ2NTlEQVNmVEZ0UE1kOXU5N1hGY0d5RGdCVlF6MWlqSnBZM1NjbHJnOGJ1cFlkY29RcHItejR2dUNSV25hMzJQdmJkQ3FIMjFPMlRQZzdNYmlFdjV0MTF4VVBVUDluVnJ4eXQ4S0RpRWFadVZiNWxXdkNIcThfVHBsVDZFNnEw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Queens Of The Stone Age Play “Where The Goth Girls At?” On Fallon, Announce 2027 Tour",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2515323/queens-of-the-stone-age-play-where-the-goth-girls-at-on-fallon-announce-2027-tour/news/",
+    "timestamp": "2026-10-22T15:17:31+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "The post Queens Of The Stone Age Play “Where The Goth Girls At?” On <em>Fallon</em>, Announce 2027 Tour appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2515323/queens-of-the-stone-age-play-where-the-goth-girls-at-on-fallon-announce-2027-tour/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "My Chemical Romance Bring Out “Dallas Cowboys Cheerleaders” at Hollywood Bowl: Watch",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/my-chemical-romance-dallas-cowboys-cheerleaders-hollywood-bowl/",
+    "timestamp": "2026-10-22T15:10:32+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "The unexpected moment went down during their performance of The Black Parade cut \"Teenagers.\" My Chemical Romance Bring Out “Dallas Cowboys Cheerleaders” at Hollywood Bowl: Watch Eddie Fu",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/my-chemical-romance-dallas-cowboys-cheerleaders-hollywood-bowl/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Daft Punk GTA 6 Soundtrack Report: 34-Track Album [2026] - shattered.io",
+    "src": "shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mOGJSb2RZalJQSG1hWVNRM1hXeml0Q19YQlZHMlUzSjM5aTJieEl2QXA0bDlaUEZfUmgwQjBzVzZzdGozc0ZvRG5EQVRnZUxLekNiQjZwSmlabnhDZWVlNC05SDVUT2hUbV96bjZTYXZ5bVpyR3lucGpB?oc=5",
+    "timestamp": "2026-10-22T15:07:50+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "Daft Punk GTA 6 Soundtrack Report: 34-Track Album [2026] shattered.io",
+    "category": "general",
+    "sources": [
+      {
+        "name": "shattered.io",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mOGJSb2RZalJQSG1hWVNRM1hXeml0Q19YQlZHMlUzSjM5aTJieEl2QXA0bDlaUEZfUmgwQjBzVzZzdGozc0ZvRG5EQVRnZUxLekNiQjZwSmlabnhDZWVlNC05SDVUT2hUbV96bjZTYXZ5bVpyR3lucGpB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ali G: Who Iz I? Is So Unfunny It’s a Little Evil: Review",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/ali-g-who-iz-i-review-sacha-baron-cohen/",
+    "timestamp": "2026-10-22T15:00:07+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "The mockumentary starring and directed by Sacha Baron Cohen fails on multiple levels. Ali G: Who Iz I? Is So Unfunny It’s a Little Evil: Review Liz Shannon Miller",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/ali-g-who-iz-i-review-sacha-baron-cohen/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Fontaines D.C. kick off ‘Dopamine Chamber’ arena tour in Lisbon",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/fontaines-dc-kick-off-dopamine-chamber-arena-tour-in-lisbon-watch-footage-full-setlist-3973857?utm_source=rss&utm_medium=rss&utm_campaign=fontaines-dc-kick-off-dopamine-chamber-arena-tour-in-lisbon-watch-footage-full-setlist",
+    "timestamp": "2026-10-22T14:54:43+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "They aired numerous cuts from their acclaimed new album, as well as some fan favourites and classics The post Fontaines D.C. kick off ‘Dopamine Chamber’ arena tour in Lisbon appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/fontaines-dc-kick-off-dopamine-chamber-arena-tour-in-lisbon-watch-footage-full-setlist-3973857?utm_source=rss&utm_medium=rss&utm_campaign=fontaines-dc-kick-off-dopamine-chamber-arena-tour-in-lisbon-watch-footage-full-setlist"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Westerman Announces New EP Reception: Hear “L/C”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2515320/westerman-announces-new-ep-reception-hear-l-c/music/",
+    "timestamp": "2026-10-22T14:52:01+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "The post Westerman Announces New EP <em>Reception</em>: Hear “L/C” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2515320/westerman-announces-new-ep-reception-hear-l-c/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Daft Punk and LEGO Join Forces for New Partnership, “Alive 2007” Set Confirmed",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/daft-punk-alive-2007-lego-set/",
+    "timestamp": "2026-10-22T14:41:52+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "The French electronic duo and the brick building model company's partnership will include the \"Alive 2007\" set. Daft Punk and LEGO Join Forces for New Partnership, “Alive 2007” Set Confirmed Karan Singh",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/daft-punk-alive-2007-lego-set/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Queens of the Stone Age Plot 2027 U.S. Tour",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/queens-of-the-stone-age-plot-2027-us-tour/",
+    "timestamp": "2026-10-22T14:34:54+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/queens-of-the-stone-age-plot-2027-us-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Cate Le Bon, L’Rain, Starcleaner Reunion, & More Share New Songs On Everybody’s Got A Song To Sing Comp",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2515271/cate-le-bon-lrain-starcleaner-reunion-more-share-new-songs-on-everybodys-got-a-song-to-sing-comp/music/",
+    "timestamp": "2026-10-22T14:32:36+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "The post Cate Le Bon, L’Rain, Starcleaner Reunion, & More Share New Songs On <em>Everybody’s Got A Song To Sing</em> Comp appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2515271/cate-le-bon-lrain-starcleaner-reunion-more-share-new-songs-on-everybodys-got-a-song-to-sing-comp/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Being Dead – “Man Or Myth” & Aquarium”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2515293/being-dead-man-or-myth-aquarium/music/",
+    "timestamp": "2026-10-22T14:14:21+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "The post Being Dead – “Man Or Myth” & Aquarium” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2515293/being-dead-man-or-myth-aquarium/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Taylor Swift Turns 20",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2514834/taylor-swift-turns-20/reviews/the-anniversary/",
+    "timestamp": "2026-10-22T14:14:06+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "The post <em>Taylor Swift</em> Turns 20 appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2514834/taylor-swift-turns-20/reviews/the-anniversary/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Lego Unveils Daft Punk Set Based on 2007 ‘Alive’ Tour, Short Film Collab Set to ‘Human After All’ - Variety",
+    "src": "Variety",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWW1qckJwX0JEb1RCWWhVZ2FjTkJ1MlVVbElRcDdLMlNTeVhiYnFqSGRrVG1KMXVkWWtwc21VTTdMUTR3UUU4TFJoYW1oSkJGbVhzZGlfQmdQdEdfTzVmUjk1UWxqRXhRYkpoVEtVRm93R2ZXalF1dUV2QkxCdUNuT2pGUUxIUQ?oc=5",
+    "timestamp": "2026-10-22T14:00:00+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "Lego Unveils Daft Punk Set Based on 2007 ‘Alive’ Tour, Short Film Collab Set to ‘Human After All’ Variety",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Variety",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWW1qckJwX0JEb1RCWWhVZ2FjTkJ1MlVVbElRcDdLMlNTeVhiYnFqSGRrVG1KMXVkWWtwc21VTTdMUTR3UUU4TFJoYW1oSkJGbVhzZGlfQmdQdEdfTzVmUjk1UWxqRXhRYkpoVEtVRm93R2ZXalF1dUV2QkxCdUNuT2pGUUxIUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Taylor Swift Has ‘Something to Prove’ With New Single — Source - Reality Tea",
+    "src": "Reality Tea",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ19ub2RXcW1DdnRlNFpDYXpzbDBHcS0wTl9MNm5ucnktLUFhajVCVkhhcktJUjN5Z0FXNzJUNzJiekgyX3h1ekgzWHlKeXlBRHM2MUxuRjBTa2JvZFJGNWUxd0Z0anNaQkdvUGQ3bTZYb3BMR2RnOVdQYVhIdGhBZjNJdXpmbkUyaVZNb1YxZVLSAZABQVVfeXFMTmdfbm9kV3FtQ3Z0ZTRaQ2F6c2wwR3EtME5fTDZubnJ5LS1BYWo1QlZIYXJLSVIzeWdBVzcyVDcyYnpIMl94dXpIM1h5Snl5QURzNjFMbkYwU2tib2RSRjVlMXdGdGpzWkJHb1BkN202WG9wTEdkZzlXUGFYSHRoQWYzSXV6Zm5FMmlWTW9WMWVS?oc=5",
+    "timestamp": "2026-10-22T13:40:30+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "Taylor Swift Has ‘Something to Prove’ With New Single — Source Reality Tea",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Reality Tea",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ19ub2RXcW1DdnRlNFpDYXpzbDBHcS0wTl9MNm5ucnktLUFhajVCVkhhcktJUjN5Z0FXNzJUNzJiekgyX3h1ekgzWHlKeXlBRHM2MUxuRjBTa2JvZFJGNWUxd0Z0anNaQkdvUGQ3bTZYb3BMR2RnOVdQYVhIdGhBZjNJdXpmbkUyaVZNb1YxZVLSAZABQVVfeXFMTmdfbm9kV3FtQ3Z0ZTRaQ2F6c2wwR3EtME5fTDZubnJ5LS1BYWo1QlZIYXJLSVIzeWdBVzcyVDcyYnpIMl94dXpIM1h5Snl5QURzNjFMbkYwU2tib2RSRjVlMXdGdGpzWkJHb1BkN202WG9wTEdkZzlXUGFYSHRoQWYzSXV6Zm5FMmlWTW9WMWVS?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Eminem Reportedly Risks 'Irreparable Reputational Damage' After Kid Rock Collaboration Draws Fan Disappointment - inkl",
+    "src": "inkl",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPenpmdUFjaWRuMzFZTV9IRWZvRWMxZDlURk1oZGRPLXJkd0ZtSHBTbDZuVnhZTHd3SThCRjZWOE03aFdiNlZ6UlZWRkg1dE1RUVFULXRySVBlUC0tT2J0WDg3LVBoMkw3cm5tS2NzQjUyalBtSHhCaVZ4S3VocHhmR3pyYnZaVUJZb0YwUTI4U0dnM0x4SXo3YWVHNl8wMkg2cmI0OWMyT2ppTWdUVFItdy12T2N2aTBTakl1YlNtTEx0TjJQV1M0d2x6LURZMDBZ?oc=5",
+    "timestamp": "2026-10-22T12:44:58+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "Eminem Reportedly Risks 'Irreparable Reputational Damage' After Kid Rock Collaboration Draws Fan Disappointment inkl",
+    "category": "general",
+    "sources": [
+      {
+        "name": "inkl",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPenpmdUFjaWRuMzFZTV9IRWZvRWMxZDlURk1oZGRPLXJkd0ZtSHBTbDZuVnhZTHd3SThCRjZWOE03aFdiNlZ6UlZWRkg1dE1RUVFULXRySVBlUC0tT2J0WDg3LVBoMkw3cm5tS2NzQjUyalBtSHhCaVZ4S3VocHhmR3pyYnZaVUJZb0YwUTI4U0dnM0x4SXo3YWVHNl8wMkg2cmI0OWMyT2ppTWdUVFItdy12T2N2aTBTakl1YlNtTEx0TjJQV1M0d2x6LURZMDBZ?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Tony Danza Tapdance Extravaganza will release a new single next week - Chaoszine",
+    "src": "Chaoszine",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY0dfdVltblNGZ1pnczlLY2Nsa212bzlNQ0gwRFktTGtYcEtFT3RFUzNyajFpTnhmUWFKTFo1N2NpbzNqNFNobFBvdGdDU0YtMmYxd3o1Y2dadVZvWUVhekxfalpUZEJYcHpBb1BVTzJkWDVmV1g2YnVQQm9YODZ3RXJxejZGV0VhX29xcnFHZHZxbWd5SjBxZjhQcw?oc=5",
+    "timestamp": "2026-10-22T08:07:47+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "The Tony Danza Tapdance Extravaganza will release a new single next week Chaoszine",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Chaoszine",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY0dfdVltblNGZ1pnczlLY2Nsa212bzlNQ0gwRFktTGtYcEtFT3RFUzNyajFpTnhmUWFKTFo1N2NpbzNqNFNobFBvdGdDU0YtMmYxd3o1Y2dadVZvWUVhekxfalpUZEJYcHpBb1BVTzJkWDVmV1g2YnVQQm9YODZ3RXJxejZGV0VhX29xcnFHZHZxbWd5SjBxZjhQcw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Purgatory Metal Fest Dia 1 – Fotos | 16.10.2026",
+    "src": "Caminhos Metálicos",
+    "url": "https://www.caminhosmetalicos.com/reportagens-2026/purgatory-metal-fest-dia-1-fotos-16-10-2026/",
+    "timestamp": "2026-10-22T11:56:01+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "O conteúdo Purgatory Metal Fest Dia 1 – Fotos | 16.10.2026 aparece primeiro em Caminhos Metálicos .",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Caminhos Metálicos",
+        "url": "https://www.caminhosmetalicos.com/reportagens-2026/purgatory-metal-fest-dia-1-fotos-16-10-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Um dos maiores nomes da música portuguesa sentou-se à mesa deste restaurante em Coimbra - Notícias de Coimbra",
+    "src": "Notícias de Coimbra",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdmx2ZXI5MTNsRDh4TDVpTjZvY3otQl9TLWp4cGZ1bDdqc0hDdDVXTFQyWEJGcGhqeU9CTEw2alJWd0ttNU5XV05JZzNja3lMT1lmWWE1elgxa1Nac2xtR0daZng4OGduQVJPX2h5dDhnMzRrQVJKX2E3amEtQWxiQzIxMzB2T19RUmJjMTBZTkNQMGxHUHNiVG9lLUhITXVrTG05aEtWWU1CNXhWNFFteDZXQ3JXX2pOclE4eGtB?oc=5",
+    "timestamp": "2026-10-22T07:26:34+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "Um dos maiores nomes da música portuguesa sentou-se à mesa deste restaurante em Coimbra Notícias de Coimbra",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Notícias de Coimbra",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdmx2ZXI5MTNsRDh4TDVpTjZvY3otQl9TLWp4cGZ1bDdqc0hDdDVXTFQyWEJGcGhqeU9CTEw2alJWd0ttNU5XV05JZzNja3lMT1lmWWE1elgxa1Nac2xtR0daZng4OGduQVJPX2h5dDhnMzRrQVJKX2E3amEtQWxiQzIxMzB2T19RUmJjMTBZTkNQMGxHUHNiVG9lLUhITXVrTG05aEtWWU1CNXhWNFFteDZXQ3JXX2pOclE4eGtB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Forbidden",
+    "t": "Forbidden Review",
+    "src": "Angry Metal Guy",
+    "date": "22 Out",
+    "isoDate": "2026-10-22",
+    "timestamp": "2026-10-22T16:15:43+00:00",
+    "url": "https://www.angrymetalguy.com/forbidden-forbidden-review/",
+    "d": "\"A band releasing a self-titled album can signify many things. Dropping a self-styled debut is a classic move, and has been utilized by legendary acts like Black Sabbath and Iron Maiden . Similarly, reserving your namesake for a swan song can be a poignant end",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "forbidden|forbidden review",
     "kind": "review",
     "section": "rev"
   },
@@ -8196,17 +9411,17 @@
     "section": "buzz"
   },
   {
-    "title": "Classic rock band celebrating 50th anniversary with 2027 tour - Lehighvalleylive.com",
-    "src": "Lehighvalleylive.com",
+    "title": "Classic rock band celebrating 50th anniversary with 2027 tour - LehighValleyLive.com",
+    "src": "LehighValleyLive.com",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT3FiaGQ4S1ZRYWU1Zi0tXzUxOUxkWVRmcnc2ZlR2Wnc4MlkyWUMzLUZIR3Jvb0ROMDF1SFNvaWZTX01zUUhYeVVFclhCVUpMbVFDTEtrX3JjVDZMZVV1d1lqOHVlZi13QjdXYllWczRVSVZpSGlWX2tHM19WQXhYUDVJaTRmSE8tdU5oOVdONzVqdHNNWnRsX3Fua05oendrdHFXU0YtRWRIdzlLTTV1Tnh2YWlkOGlsa0NfU2dn?oc=5",
     "timestamp": "2026-10-21T20:51:00+00:00",
     "isoDate": "2026-10-21",
     "date": "21 Out",
-    "d": "Classic rock band celebrating 50th anniversary with 2027 tour Lehighvalleylive.com",
+    "d": "Classic rock band celebrating 50th anniversary with 2027 tour LehighValleyLive.com",
     "category": "general",
     "sources": [
       {
-        "name": "Lehighvalleylive.com",
+        "name": "LehighValleyLive.com",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT3FiaGQ4S1ZRYWU1Zi0tXzUxOUxkWVRmcnc2ZlR2Wnc4MlkyWUMzLUZIR3Jvb0ROMDF1SFNvaWZTX01zUUhYeVVFclhCVUpMbVFDTEtrX3JjVDZMZVV1d1lqOHVlZi13QjdXYllWczRVSVZpSGlWX2tHM19WQXhYUDVJaTRmSE8tdU5oOVdONzVqdHNNWnRsX3Fua05oendrdHFXU0YtRWRIdzlLTTV1Tnh2YWlkOGlsa0NfU2dn?oc=5"
       }
     ],
@@ -8583,6 +9798,81 @@
     ],
     "status": "rumor",
     "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "William Shatner to play heavy metal concert at a St. Petersburg bar - Tampa Bay Times",
+    "src": "Tampa Bay Times",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM1VvZGVXVWU3N1FMX0ZBOWJ4aHFSSHA1TmZ6ZzdRbTkwaVpiTy1xbHZvN1kzQ0U4Qm5XanBteG1Rak1lSndUM2tyQ3ZkQ21oWkkzN181dVpCdjZCOERIQWR6bjdaVDJieDhwQi1aVlV4cDVVaVotTlBEZjBOcHVsaHRnRzNWY2tYdVUzcjlKanVkOURoTDlKZnpjNEdYMjhFa1RNT2pDZWJRT0ZfdGZ0RWVhUVpncTM1YzdRS29PWHJsaGMwbVBOc3NFTQ?oc=5",
+    "timestamp": "2026-10-21T15:29:41+00:00",
+    "isoDate": "2026-10-21",
+    "date": "21 Out",
+    "d": "William Shatner to play heavy metal concert at a St. Petersburg bar Tampa Bay Times",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Tampa Bay Times",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM1VvZGVXVWU3N1FMX0ZBOWJ4aHFSSHA1TmZ6ZzdRbTkwaVpiTy1xbHZvN1kzQ0U4Qm5XanBteG1Rak1lSndUM2tyQ3ZkQ21oWkkzN181dVpCdjZCOERIQWR6bjdaVDJieDhwQi1aVlV4cDVVaVotTlBEZjBOcHVsaHRnRzNWY2tYdVUzcjlKanVkOURoTDlKZnpjNEdYMjhFa1RNT2pDZWJRT0ZfdGZ0RWVhUVpncTM1YzdRS29PWHJsaGMwbVBOc3NFTQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "CHVRCHES Announce 2027 Tour Dates Around 1st Album In Over 5 Years ‘All The King’s Men’ - JamBase",
+    "src": "JamBase",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMkROVF83VGxnN0FKLTdlQlktS3Jid2NsQUhfTnJmbFB1MGNvWXl6NDBiR2NsRlRpTzhyMkFGUmtzekRaN0xlTnNnUGh1THV3Zk9jS3cyNWFrdWpLU0lfNGNaemxUcEFMVDIwRU1oU1k5UndnNlRvNmt6ZzFpeTVTOS1EMkVfdkMx?oc=5",
+    "timestamp": "2026-10-21T18:21:00+00:00",
+    "isoDate": "2026-10-21",
+    "date": "21 Out",
+    "d": "CHVRCHES Announce 2027 Tour Dates Around 1st Album In Over 5 Years ‘All The King’s Men’ JamBase",
+    "category": "general",
+    "sources": [
+      {
+        "name": "JamBase",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMkROVF83VGxnN0FKLTdlQlktS3Jid2NsQUhfTnJmbFB1MGNvWXl6NDBiR2NsRlRpTzhyMkFGUmtzekRaN0xlTnNnUGh1THV3Zk9jS3cyNWFrdWpLU0lfNGNaemxUcEFMVDIwRU1oU1k5UndnNlRvNmt6ZzFpeTVTOS1EMkVfdkMx?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Daft Punk reportedly turned down ‘GTA 6’ soundtrack offer before Justice said yes - NME",
+    "src": "NME",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZHVua2xvYVdtMWRWbWY4Umoyd2ItOVh0RDBHNFM3T1AzbTVtWGJ5aFlNQnZ1ZTlSWXZaY2pHR3lNR3BzTDhWZld5RlZqYmRZWVhVN2NTOEFmTnZ5allGNGVtN0NCb21XV3RUUGxZcE1XaVAyeEkyb2dkeGpOQUZEYnZjRkN0ZmRtdndKdjZlck9IaTJxUkFzeEl0TFlvSm92YUE?oc=5",
+    "timestamp": "2026-10-21T16:03:19+00:00",
+    "isoDate": "2026-10-21",
+    "date": "21 Out",
+    "d": "Daft Punk reportedly turned down ‘GTA 6’ soundtrack offer before Justice said yes NME",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZHVua2xvYVdtMWRWbWY4Umoyd2ItOVh0RDBHNFM3T1AzbTVtWGJ5aFlNQnZ1ZTlSWXZaY2pHR3lNR3BzTDhWZld5RlZqYmRZWVhVN2NTOEFmTnZ5allGNGVtN0NCb21XV3RUUGxZcE1XaVAyeEkyb2dkeGpOQUZEYnZjRkN0ZmRtdndKdjZlck9IaTJxUkFzeEl0TFlvSm92YUE?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "medium",
     "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
@@ -14717,31 +16007,6 @@
     "section": "pt"
   },
   {
-    "title": "William Shatner to play heavy metal concert at a St. Petersburg bar - Tampa Bay Times",
-    "src": "Tampa Bay Times",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM1VvZGVXVWU3N1FMX0ZBOWJ4aHFSSHA1TmZ6ZzdRbTkwaVpiTy1xbHZvN1kzQ0U4Qm5XanBteG1Rak1lSndUM2tyQ3ZkQ21oWkkzN181dVpCdjZCOERIQWR6bjdaVDJieDhwQi1aVlV4cDVVaVotTlBEZjBOcHVsaHRnRzNWY2tYdVUzcjlKanVkOURoTDlKZnpjNEdYMjhFa1RNT2pDZWJRT0ZfdGZ0RWVhUVpncTM1YzdRS29PWHJsaGMwbVBOc3NFTQ?oc=5",
-    "timestamp": "2026-10-20T19:33:42+00:00",
-    "isoDate": "2026-10-20",
-    "date": "20 Out",
-    "d": "William Shatner to play heavy metal concert at a St. Petersburg bar Tampa Bay Times",
-    "category": "metal",
-    "sources": [
-      {
-        "name": "Tampa Bay Times",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM1VvZGVXVWU3N1FMX0ZBOWJ4aHFSSHA1TmZ6ZzdRbTkwaVpiTy1xbHZvN1kzQ0U4Qm5XanBteG1Rak1lSndUM2tyQ3ZkQ21oWkkzN181dVpCdjZCOERIQWR6bjdaVDJieDhwQi1aVlV4cDVVaVotTlBEZjBOcHVsaHRnRzNWY2tYdVUzcjlKanVkOURoTDlKZnpjNEdYMjhFa1RNT2pDZWJRT0ZfdGZ0RWVhUVpncTM1YzdRS29PWHJsaGMwbVBOc3NFTQ?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "news"
-  },
-  {
     "title": "Four Year Strong Announce 25th Anniversary Tour for Spring 2027 - Consequence of Sound",
     "src": "Consequence of Sound",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoNmd6bEVrRFNFQmVDSUY1NnZtNllOYnFpdHMxUkl1ZnBLdDRZXzJkd3VidjdxemNtSllJbGwtSmphYVZ6WW03cHdnQnJ0emdHZ0ZJVGd2S1l3UzFiVTVvOHc3T2xBWVpsVGtaWC1kTjdRWDV6MVpUbnF5aw?oc=5",
@@ -14811,6 +16076,31 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Public Acid Release Deranged New EP 'Pay No More': Stream - Stereogum",
+    "src": "Stereogum",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNklnbXdJdUJyLVZQaGFNVnVmRi1xa2l3WGY5bzFDUFJtWEF6VUNVMW1JSWVRYzJDNEI0S0lIUWVpLUxCZHc2b0pwM2Jva3NpWjY1bXhYdTRYTFpmeDJ0Y09LM1lKVHp1Ync3b3dxQ2Flb0RyWHFSenpMQTF3ZUhoM3dEYS1rNFZlSlh0eA?oc=5",
+    "timestamp": "2026-10-20T15:34:00+00:00",
+    "isoDate": "2026-10-20",
+    "date": "20 Out",
+    "d": "Public Acid Release Deranged New EP 'Pay No More': Stream Stereogum",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNklnbXdJdUJyLVZQaGFNVnVmRi1xa2l3WGY5bzFDUFJtWEF6VUNVMW1JSWVRYzJDNEI0S0lIUWVpLUxCZHc2b0pwM2Jva3NpWjY1bXhYdTRYTFpmeDJ0Y09LM1lKVHp1Ync3b3dxQ2Flb0RyWHFSenpMQTF3ZUhoM3dEYS1rNFZlSlh0eA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
   },
   {
     "title": "Ministry's Al Jourgensen Shares Concern Over the Future of A.I.",
@@ -32595,6 +33885,27 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "b": "Alex Viegas",
+    "t": "Worth the climb",
+    "g": "pop",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "16 Out",
+    "isoDate": "2026-10-16",
+    "url": "https://musicbrainz.org/release-group/1a07da0b-b08f-4913-aaeb-ce53e0b205c2",
+    "d": "pop, melodic techno, melodic house",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/1a07da0b-b08f-4913-aaeb-ce53e0b205c2"
+      }
+    ],
+    "mbid": "1a07da0b-b08f-4913-aaeb-ce53e0b205c2",
+    "star": false,
+    "kind": "release",
+    "section": "main"
   },
   {
     "title": "Nightwish Singer Floor Jansen Exits Band, \"There Is a Bright Musical Journey Ahead of Me\" - Metal Injection",
