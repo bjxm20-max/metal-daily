@@ -92,10 +92,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -317,10 +317,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -463,6 +463,197 @@
     "releaseKey": "pitchfork|back to black 20th anniversary edition",
     "kind": "review",
     "section": "rev"
+  },
+  {
+    "b": "Rafolino",
+    "t": "You Are Mine And I'm Yours",
+    "g": "folk",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "24 Out",
+    "isoDate": "2026-10-24",
+    "url": "https://musicbrainz.org/release-group/2b6ace47-df1b-4e2f-833a-2d1dd213904f",
+    "d": "folk, acoustic guitar, folk rock, acoustic, indie folk",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/2b6ace47-df1b-4e2f-833a-2d1dd213904f"
+      }
+    ],
+    "mbid": "2b6ace47-df1b-4e2f-833a-2d1dd213904f",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Outlier",
+    "t": "Through The Trees",
+    "g": "rock",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "24 Out",
+    "isoDate": "2026-10-24",
+    "url": "https://alterportal.net/alternative/190640-outlier-through-the-trees-single-2026.html",
+    "d": "Alternative Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190640-outlier-through-the-trees-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "CARNIVORE A.D. Announces 2027 European Tour, Shares Music Video For 'I Stand Alone'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/carnivore-a-d-announces-2027-european-tour-shares-music-video-for-i-stand-alone",
+    "timestamp": "2026-10-24T12:09:42+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "CARNIVORE A.D., featuring bassist/vocalist Baron Misuraca (SHEER TERROR, DARKSIDE NYC),guitarist Chuck Lenihan (CRUMBSUCKERS, CHRISTIAN DEATH) and drummer Joe Cangelosi (KREATOR, MASSACRE, WHIPLASH), has announced the \"Transmutation European Tour 2027\". The band will return to Europe for eight shows...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/carnivore-a-d-announces-2027-european-tour-shares-music-video-for-i-stand-alone"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "See Official Video Of MEGADETH's Conversation With MATT PINFIELD At Los Angeles's Grammy Museum",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/see-official-video-of-megadeths-conversation-with-matt-pinfield-at-los-angeless-grammy-museum",
+    "timestamp": "2026-10-24T11:53:22+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "On September 24, the Grammy Award-winning band MEGADETH took part in a discussion and special performance at the Grammy Museum's Ray Charles Rooftop Terrace in Los Angeles. MEGADETH members Dave Mustaine, James LoMenzo, Dirk Verbeuren and Teemu Mäntysaari talked to former MTV VJ Matt Pinfield about...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/see-official-video-of-megadeths-conversation-with-matt-pinfield-at-los-angeless-grammy-museum"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Sam Fender says he’s “not happy” with prices for 2027 stadium tour and they’re “getting changed”",
+    "src": "NME",
+    "url": "https://www.nme.com/news/music/sam-fender-not-happy-with-prices-for-2027-stadium-tour-getting-changed-3974129?utm_source=rss&utm_medium=rss&utm_campaign=sam-fender-not-happy-with-prices-for-2027-stadium-tour-getting-changed",
+    "timestamp": "2026-10-24T11:16:40+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "He also criticised split standing sections at big shows: \"It’s bollocks and it won’t be happening on this tour\" The post Sam Fender says he’s “not happy” with prices for 2027 stadium tour and they’re “getting changed” appeared first on NME .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://www.nme.com/news/music/sam-fender-not-happy-with-prices-for-2027-stadium-tour-getting-changed-3974129?utm_source=rss&utm_medium=rss&utm_campaign=sam-fender-not-happy-with-prices-for-2027-stadium-tour-getting-changed"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Blasted Mechanism apresentam nova geração no Sagres Campo Pequeno",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/blasted-mechanism-apresentam-nova-geracao-no-sagres-campo-pequeno-bilhetes/",
+    "timestamp": "2026-10-24T12:34:19+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "%featured_image% Os Blasted Mechanism preparam um novo capítulo da sua história com “OMNESIA”, a décima geração da banda, que será apresentada num concerto especial no Sagres Campo Pequeno. A pré-venda exclusiva de bilhetes abre a 28 de outubro, mediante inscrição prévia.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/blasted-mechanism-apresentam-nova-geracao-no-sagres-campo-pequeno-bilhetes/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Música portuguesa está de luto: morreu o compositor e maestro Álvaro Salazar - Notícias de Coimbra",
+    "src": "Notícias de Coimbra",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPblNYWVBLLXR0U3FhVG5UUVpEaElDUUhRajRWS2NvX1FZWThQYkl1c2pRWnZtUllmYTh1bU9lYUk4NzNnSmx6bXhGNlFJbVY5R2Ftc2I0ck45RVpmdGpPWkZmV2ZvUEc5Zll1bFFNN1JzZlBrTE1pTDhtU0xGLTQ4aGlOTDJiOUgwaWlZQ3lnanZiWE5RSExrM2d3dG10eEUwTjFxc09xZmlIaXg4MUE?oc=5",
+    "timestamp": "2026-10-24T11:54:22+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "Música portuguesa está de luto: morreu o compositor e maestro Álvaro Salazar Notícias de Coimbra",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Notícias de Coimbra",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPblNYWVBLLXR0U3FhVG5UUVpEaElDUUhRajRWS2NvX1FZWThQYkl1c2pRWnZtUllmYTh1bU9lYUk4NzNnSmx6bXhGNlFJbVY5R2Ftc2I0ck45RVpmdGpPWkZmV2ZvUEc5Zll1bFFNN1JzZlBrTE1pTDhtU0xGLTQ4aGlOTDJiOUgwaWlZQ3lnanZiWE5RSExrM2d3dG10eEUwTjFxc09xZmlIaXg4MUE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Morreu o compositor e maestro Álvaro Salazar - TVI",
+    "src": "TVI",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmdNQTJkbVBpQ0FGaUZZNVJ3cEJUWkl5NDhPWkJWWHVSenVZQmZZNWo0RnFFUDJIY2xjcTBpNjVUVjBTWUdSWmh1NDlMSWpMM2cxSl9EMUljVzd3d1RoZHVMbTg1RUg1ZE1EZDl4WTdJd2xOdnI1Vjd5MXdySjFpeGtwU3ladE92Z2FmWkRiNG4wMzQtOHo2bWhmLTNQWUUtZXpWaWNJdEpZQ1Q1OUNLUDRjb2lBd0I4ZUQzQ0hSbC1CdGdseWc?oc=5",
+    "timestamp": "2026-10-24T11:33:00+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "Morreu o compositor e maestro Álvaro Salazar TVI",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "TVI",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMmdNQTJkbVBpQ0FGaUZZNVJ3cEJUWkl5NDhPWkJWWHVSenVZQmZZNWo0RnFFUDJIY2xjcTBpNjVUVjBTWUdSWmh1NDlMSWpMM2cxSl9EMUljVzd3d1RoZHVMbTg1RUg1ZE1EZDl4WTdJd2xOdnI1Vjd5MXdySjFpeGtwU3ladE92Z2FmWkRiNG4wMzQtOHo2bWhmLTNQWUUtZXpWaWNJdEpZQ1Q1OUNLUDRjb2lBd0I4ZUQzQ0hSbC1CdGdseWc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "title": "The New Rock + Metal Albums Out This Week",
@@ -1896,19 +2087,15 @@
       {
         "name": "Loudwire",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JTGNVQ05ZTGY0VlU5cWZENWVRanNycmJhVi1RYU5TV1RJS1JjZFV3Nmt5RV9pWE9PbWVpaUVkc0JtVFBOVVhxSk9vVFBHcjdUTjdDd0ozTkotdDRvVy1ua0JCU2hXLTJn?oc=5"
-      },
-      {
-        "name": "106.3 The Buzz",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84ajRPRVdlbWdyVk45cGhJOVdCbG9UZno5RFRpRGpKbUxuZ1RjakxZYWdkRzl6WEk5aFMyQWo4M2Nham5IZjcyVUlBejZ6WmRwb181cXZDaldTVnlPTExXUmI0RGNFTTJwT3JwMmFGUFR3el9OQmNBVUhR?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -3350,6 +3537,10 @@
       {
         "name": "Pitchfork",
         "url": "https://pitchfork.com/story/haywire-set-jam-packed-2027-tour/"
+      },
+      {
+        "name": "Pitchfork",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWYVhVUGtaS1Y4T1EyRFpIZXYyNU1KMmo1aEc0bzdnWWNhT2x3VkJiMkNJMHIzZDNBUlEyRWNuNlEyQ1ZabWtvVXFWUTdQaC1laHBzVkk3Qm9DU3FvOFNxN085YzBxYzdYWjNON3l3?oc=5"
       }
     ],
     "status": "official",
@@ -4720,10 +4911,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -5502,10 +5693,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -5556,21 +5747,21 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
   {
-    "title": "Taylor Swift Quietly Changed Her Website Ahead of Her Debut Album’s 20th Anniversary - ELLE",
+    "title": "Taylor Swift Made a Subtle Change to Her Website Ahead of Her Debut Album’s 20th Anniversary - ELLE",
     "src": "ELLE",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTGN4QVR2QWZJcmhsN1pQM3llODM2UUkxMERvczFpaHN3cTdGZjQxbS1uODM5QkNQbGVJYzdIMnkxZ1lNMTZLTWtnSUMzejFSS3hLcTR2ZlBJOW8wdEt3eTZJd01FekNMR1RLMW5RZFJmSGtLMW9QbUNnZFdMZFZtNE1ZWVlycl9YUXc?oc=5",
     "timestamp": "2026-10-23T16:25:49+00:00",
     "isoDate": "2026-10-23",
     "date": "23 Out",
-    "d": "Taylor Swift Quietly Changed Her Website Ahead of Her Debut Album’s 20th Anniversary ELLE",
+    "d": "Taylor Swift Made a Subtle Change to Her Website Ahead of Her Debut Album’s 20th Anniversary ELLE",
     "category": "general",
     "sources": [
       {
@@ -6234,6 +6425,52 @@
     "section": "buzz"
   },
   {
+    "b": "FAKES",
+    "t": "Help Me",
+    "g": "punk",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "23 Out",
+    "isoDate": "2026-10-23",
+    "url": "https://musicbrainz.org/release-group/a2842567-1cc9-4fa3-b04a-7f4b9f975930",
+    "d": "rock, electronic, pop, punk, experimental",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/a2842567-1cc9-4fa3-b04a-7f4b9f975930"
+      }
+    ],
+    "mbid": "a2842567-1cc9-4fa3-b04a-7f4b9f975930",
+    "star": false,
+    "kind": "release",
+    "section": "main"
+  },
+  {
+    "title": "Ben Labat strikes a personal chord with new album release - The Times of Houma/Thibodaux",
+    "src": "The Times of Houma/Thibodaux",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNHpsT1NhSEd0bHZ6S01xdTJ4dm56OVNOcVM1d1Yxb3BxSnpXcmRiQzZlN3UwOUdXN3haenE4UHZEc0Q4X0FpQ0xmMHJJZXYwckVYeDF5bWMySVBtS1owdnJMdl9BVFEyTWNSelZKQlZfTkZzOFJqN3U2WlFBdXRSTVlBQkIxMVZ0YTNBdE9mQ0NuYUNTcDBZ?oc=5",
+    "timestamp": "2026-10-23T22:15:00+00:00",
+    "isoDate": "2026-10-23",
+    "date": "23 Out",
+    "d": "Ben Labat strikes a personal chord with new album release The Times of Houma/Thibodaux",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Times of Houma/Thibodaux",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNHpsT1NhSEd0bHZ6S01xdTJ4dm56OVNOcVM1d1Yxb3BxSnpXcmRiQzZlN3UwOUdXN3haenE4UHZEc0Q4X0FpQ0xmMHJJZXYwckVYeDF5bWMySVBtS1owdnJMdl9BVFEyTWNSelZKQlZfTkZzOFJqN3U2WlFBdXRSTVlBQkIxMVZ0YTNBdE9mQ0NuYUNTcDBZ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
     "title": "A moment that changed me: I was devastated by a breakup – and saved by a sweaty moshpit - The Guardian",
     "src": "The Guardian",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZFlGVE9UM3FHUDR2eFd2cE1VYzRuMWJyTmdFNWJhX0FWc0QwS01HZnA3VmM1ZW11TFFaR2pfVl9xTFBxMWFGVF9KQ1FzVVVSdjBobFFKNWM5eXcxdXNkMFZfQzZDdFd3YlpDZGsxTFRQWVVraGZCVjZ1THd0OHVWd0VmWk5DcnZudklWTVhXY0ZqVW41bXQ3Tl9aUDFTaG9WTDNEYTN0MUF6QnY0M2VMSGNkVmg4U2E2cEhYQmNyXzJPajVsQUdZeWJIVlN6akFJYUI4?oc=5",
@@ -6246,35 +6483,6 @@
       {
         "name": "The Guardian",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZFlGVE9UM3FHUDR2eFd2cE1VYzRuMWJyTmdFNWJhX0FWc0QwS01HZnA3VmM1ZW11TFFaR2pfVl9xTFBxMWFGVF9KQ1FzVVVSdjBobFFKNWM5eXcxdXNkMFZfQzZDdFd3YlpDZGsxTFRQWVVraGZCVjZ1THd0OHVWd0VmWk5DcnZudklWTVhXY0ZqVW41bXQ3Tl9aUDFTaG9WTDNEYTN0MUF6QnY0M2VMSGNkVmg4U2E2cEhYQmNyXzJPajVsQUdZeWJIVlN6akFJYUI4?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": true,
-    "star": false,
-    "kind": "news",
-    "section": "core"
-  },
-  {
-    "title": "Listen: French Hardcore Band Headbussa Drops “Manhunt”",
-    "src": "Metal Injection",
-    "url": "https://metalinjection.net/new-music/listen-french-hardcore-band-headbussa-drops-manhunt",
-    "timestamp": "2026-10-22T03:27:50+00:00",
-    "isoDate": "2026-10-22",
-    "date": "22 Out",
-    "d": "Their debut full-length 'Survival Measures' comes out November 13 on Daze. The post Listen: French Hardcore Band Headbussa Drops “Manhunt” appeared first on Metal Injection .",
-    "category": "metal",
-    "sources": [
-      {
-        "name": "Metal Injection",
-        "url": "https://metalinjection.net/new-music/listen-french-hardcore-band-headbussa-drops-manhunt"
-      },
-      {
-        "name": "Metal Injection",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSDV5TUcxcVQ1S2FzZ3M2dFUzN0hjU1JpWmZKTnppemt0U2JDNEFFS1Y4c0xrSnM2U0lqR2RjME9VUFpyeHdhY2wtZlUyX1k0Y0ZQQklMWFVyMElDTTJrcG1IajZ2X1ZXZEwwRWVTUlBWRFplSjkyT3hFZ2ZUUmxNNHNoN19DSURDSXU1bmJvR19Ldw?oc=5"
       }
     ],
     "status": "official",
@@ -12833,6 +13041,56 @@
     "section": "buzz"
   },
   {
+    "title": "🎻🔥 THE ROCK ORCHESTRA – Where Classical Music Meets Heavy Metal Mayhem! - https://theriffreport.co.uk/",
+    "src": "https://theriffreport.co.uk/",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1RIdXhPcHNVREdfb1FPeEtJckMzSjQ4Z0ZoenRPZ0VGcm9LczFhYjJWUnl3c081OE9JM3FDNkhfRElyRFMzTzVmNmZKZFE2ZEdhcDlXNGVuXzQzOUkxSXVJWXhka3BPMVotYzBKckxsSGxQVmlxdGQzUlV6YS1vYmVDZy12QlNWN1RHTnhuZV9VeTJwV29FbjVLLWlwYnlTTWJVSmJXaElONFRfejdIN3cybHA4QWhGS19F?oc=5",
+    "timestamp": "2026-10-22T15:03:59+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "🎻🔥 THE ROCK ORCHESTRA – Where Classical Music Meets Heavy Metal Mayhem! https://theriffreport.co.uk/",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "https://theriffreport.co.uk/",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1RIdXhPcHNVREdfb1FPeEtJckMzSjQ4Z0ZoenRPZ0VGcm9LczFhYjJWUnl3c081OE9JM3FDNkhfRElyRFMzTzVmNmZKZFE2ZEdhcDlXNGVuXzQzOUkxSXVJWXhka3BPMVotYzBKckxsSGxQVmlxdGQzUlV6YS1vYmVDZy12QlNWN1RHTnhuZV9VeTJwV29FbjVLLWlwYnlTTWJVSmJXaElONFRfejdIN3cybHA4QWhGS19F?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Listen: French Hardcore Band Headbussa Drops “Manhunt”",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/new-music/listen-french-hardcore-band-headbussa-drops-manhunt",
+    "timestamp": "2026-10-21T21:01:51+00:00",
+    "isoDate": "2026-10-21",
+    "date": "21 Out",
+    "d": "Their debut full-length 'Survival Measures' comes out November 13 on Daze. The post Listen: French Hardcore Band Headbussa Drops “Manhunt” appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/new-music/listen-french-hardcore-band-headbussa-drops-manhunt"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
     "title": "After losing his son, Lil Jon found a new purpose - USA Today",
     "src": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblIxcFVlYndXT2NjbmNMQkpYRjZhNy1tOVVuYUhualU0THJaMkxCVFhHUVdlLTRNTnlMT3VhSkxyYWlVTHVkaTRDMmdhVWw2UTNPbDU5anE0ZVBiOWZVOXU2eTRHX1FLLUZQZkNnNkhFU0JGNFdwNy1jdDZjdWV0ZldNNVFuQVdzLTU4R3VxbTROQ2FsMWJlLUhwY1E0TEc4YlJVOHhYcWRycWdGaW1VU01JMDktcC1Q?oc=5",
@@ -14027,10 +14285,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -43662,6 +43920,27 @@
     "section": "recent"
   },
   {
+    "b": "Fontaines D.C.",
+    "t": "Dopamine Chamber",
+    "g": "rock",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "16 Out",
+    "isoDate": "2026-10-16",
+    "url": "https://musicbrainz.org/release-group/8897af6d-f344-4ad4-af70-83cb425d8397",
+    "d": "rock",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/8897af6d-f344-4ad4-af70-83cb425d8397"
+      }
+    ],
+    "mbid": "8897af6d-f344-4ad4-af70-83cb425d8397",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
     "title": "Nightwish Singer Floor Jansen Exits Band, \"There Is a Bright Musical Journey Ahead of Me\" - Metal Injection",
     "src": "Metal Injection",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcHFHbm5qTUtyY1NkQkNmS01TOE1qY0VXeVFwaElieV9Bci1pVzI4MDFPZ3BxT1BZcWxRNGFpYVBZVE9HVmozbGVQbXpSb0ZqVUhleFBrVWg5MWROUlZxcFJvX1EtVGRhN0tMTlRVZWxjdWkzZzN4OWRWZjFiT3hzbzhGM09VOGZMNUthbDl1LW41dXRXWFEwV21oWTNzUzRET1hHS0NMVEo3SjhpTEt1YzA1bXl5U2lhTEE?oc=5",
@@ -49100,27 +49379,6 @@
     "star": false,
     "kind": "news",
     "section": "pt"
-  },
-  {
-    "b": "Fontaines D.C.",
-    "t": "Dopamine Chamber",
-    "g": "rock",
-    "fmt": "Album",
-    "lbl": "MusicBrainz",
-    "date": "15 Out",
-    "isoDate": "2026-10-15",
-    "url": "https://musicbrainz.org/release-group/8897af6d-f344-4ad4-af70-83cb425d8397",
-    "d": "rock",
-    "sources": [
-      {
-        "name": "MusicBrainz",
-        "url": "https://musicbrainz.org/release-group/8897af6d-f344-4ad4-af70-83cb425d8397"
-      }
-    ],
-    "mbid": "8897af6d-f344-4ad4-af70-83cb425d8397",
-    "star": false,
-    "kind": "release",
-    "section": "recent"
   },
   {
     "title": "‘Getting Lost in the Rabbit Hole Where We’re Making Cola’: Inside The Avalanches’ New Album - Rolling Stone Australia",
