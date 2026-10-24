@@ -67,10 +67,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -153,7 +153,7 @@
     "title": "5 Anarcho-Punk Songs That Influenced Us, by Jensen Ward (Iron Lung) - No Echo",
     "src": "No Echo",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03SGo0aHlzV0puQngyX3Rfam5LTFptSVVlUEpzMzh5RTRyb2tFcWRYV2dzdnZYcXV2SVloZ2VBS1ROVXRCYWtwU3dWSll2QWozbWx0dVhYUGU1RHRJaC1NcWJodTZKbVpYNUhRU25R?oc=5",
-    "timestamp": "2026-10-24T01:15:49+00:00",
+    "timestamp": "2026-10-24T01:16:23+00:00",
     "isoDate": "2026-10-24",
     "date": "24 Out",
     "d": "5 Anarcho-Punk Songs That Influenced Us, by Jensen Ward (Iron Lung) No Echo",
@@ -292,10 +292,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -654,6 +654,166 @@
     "star": true,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Southern New England punk and metal scene in mourning after fatal highway crash - Fall River Reporter",
+    "src": "Fall River Reporter",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPblVpbTQ2dUdjcFdpRHprSmhKcTdTOFMzRm1oNHUxcTk0cXRMT2xKX1J5T1JvR3RPOVpWQzNjNnByRWh4bjhJc1d4RHg5ajNxdnZUcVp3WEgzYVFlY19LNVVrWDF6YldRSnM4emplYU90SzVIdVByNGFBTGdoOE5rR3pZbEp0bDRUakphM0VWZmY2eWd4YTFMcU53NU1vUmpOUG9sWVp6WTZCUThaUGh3?oc=5",
+    "timestamp": "2026-10-24T11:48:21+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "Southern New England punk and metal scene in mourning after fatal highway crash Fall River Reporter",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Fall River Reporter",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPblVpbTQ2dUdjcFdpRHprSmhKcTdTOFMzRm1oNHUxcTk0cXRMT2xKX1J5T1JvR3RPOVpWQzNjNnByRWh4bjhJc1d4RHg5ajNxdnZUcVp3WEgzYVFlY19LNVVrWDF6YldRSnM4emplYU90SzVIdVByNGFBTGdoOE5rR3pZbEp0bDRUakphM0VWZmY2eWd4YTFMcU53NU1vUmpOUG9sWVp6WTZCUThaUGh3?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "b": "The Defect",
+    "t": "Stay Away",
+    "g": "electro",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "24 Out",
+    "isoDate": "2026-10-24",
+    "url": "https://alterportal.net/alternative/190641-the-defect-stay-away-single-2026.html",
+    "d": "Alternative Metal / Electronic",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190641-the-defect-stay-away-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "Sleep Token Denounce Copycats, Megan Thee Stallion Breaks Stuff + More Top Stories of the Week",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/sleep-token-denounce-copycats-megan-thee-stallion-breaks-stuff-more-top-stories-of-the-week",
+    "timestamp": "2026-10-24T14:03:44+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "Sleep Token speaks (sorta)! Sonic Temple announces their 2027 Lineup! Megan! Whole lot of news for you this week. First up, Sleep Token issued a statement to social media denouncing […] The post Sleep Token Denounce Copycats, Megan Thee Stallion Breaks Stuff + More Top Stories of the Week appeared first on Metal Inject",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/sleep-token-denounce-copycats-megan-thee-stallion-breaks-stuff-more-top-stories-of-the-week"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "JACK OSBOURNE On OZZY OSBOURNE A.I. Avatar: 'The Backlash, It Was My Own Fault'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/jack-osbourne-on-ozzy-osbourne-a-i-avatar-the-backlash-it-was-my-own-fault",
+    "timestamp": "2026-10-24T13:43:18+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "During an appearance on the Great Company With Jamie Laing podcast, Jack Osbourne once again addressed the controversy surrounding the recently announced Ozzy Osbourne A.I. avatar, which is coming to life through a partnership between the Osbourne family, Hyperreal, the digital human technology comp...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/jack-osbourne-on-ozzy-osbourne-a-i-avatar-the-backlash-it-was-my-own-fault"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "DAVID ELLEFSON On Watching MEGADETH Play Without Him At This Year's LOUDER THAN LIFE: It Was 'DAVE MUSTAINE And Three Other Guys Playing Our Songs'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/david-ellefson-on-watching-megadeth-play-without-him-at-this-years-louder-than-life-it-was-dave-mustaine-and-three-other-guys-playing-our-songs",
+    "timestamp": "2026-10-24T13:12:59+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "During the latest episode of \"The David Ellefson Show\", former MEGADETH bassist David Ellefson, who is currently playing with METAL CHURCH, confirmed that he stuck around to watch MEGADETH play when the two bands shared the main stage — approximately five hours apart — on September 17 at the Louder...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/david-ellefson-on-watching-megadeth-play-without-him-at-this-years-louder-than-life-it-was-dave-mustaine-and-three-other-guys-playing-our-songs"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Dallas Cowboys Cheerleaders Sue My Chemical Romance",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/dallas-cowboys-cheerleaders-sue-my-chemical-romance/",
+    "timestamp": "2026-10-24T14:05:37+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "The band performed with dancers spoofing the Dallas Cowboys Cheerleaders' outfits. Dallas Cowboys Cheerleaders Sue My Chemical Romance Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/dallas-cowboys-cheerleaders-sue-my-chemical-romance/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "b": "Cursebinder",
+    "t": "Psychohazard Review",
+    "src": "Angry Metal Guy",
+    "date": "24 Out",
+    "isoDate": "2026-10-24",
+    "timestamp": "2026-10-24T14:31:30+00:00",
+    "url": "https://www.angrymetalguy.com/cursebinder-psychohazard-review/",
+    "d": "\"In the Rush documentary Beyond the Lighted Stage , Jack Black describes musicians' wells of creative juices as 'rocket sauce.' He notes that some musicians and bands only muster enough for one BIG album, while others seem to run on an endless supply. This des",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "cursebinder|psychohazard review",
+    "kind": "review",
+    "section": "rev"
   },
   {
     "title": "The New Rock + Metal Albums Out This Week",
@@ -1525,10 +1685,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2087,15 +2247,19 @@
       {
         "name": "Loudwire",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JTGNVQ05ZTGY0VlU5cWZENWVRanNycmJhVi1RYU5TV1RJS1JjZFV3Nmt5RV9pWE9PbWVpaUVkc0JtVFBOVVhxSk9vVFBHcjdUTjdDd0ozTkotdDRvVy1ua0JCU2hXLTJn?oc=5"
+      },
+      {
+        "name": "106.3 The Buzz",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84ajRPRVdlbWdyVk45cGhJOVdCbG9UZno5RFRpRGpKbUxuZ1RjakxZYWdkRzl6WEk5aFMyQWo4M2Nham5IZjcyVUlBejZ6WmRwb181cXZDaldTVnlPTExXUmI0RGNFTTJwT3JwMmFGUFR3el9OQmNBVUhR?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 1,
+    "sourceCount": 2,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": false,
+    "star": true,
     "kind": "news",
     "section": "news"
   },
@@ -5755,13 +5919,13 @@
     "section": "buzz"
   },
   {
-    "title": "Taylor Swift Made a Subtle Change to Her Website Ahead of Her Debut Album’s 20th Anniversary - ELLE",
+    "title": "Taylor Swift Quietly Changed Her Website Ahead of Her Debut Album’s 20th Anniversary - ELLE",
     "src": "ELLE",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTGN4QVR2QWZJcmhsN1pQM3llODM2UUkxMERvczFpaHN3cTdGZjQxbS1uODM5QkNQbGVJYzdIMnkxZ1lNMTZLTWtnSUMzejFSS3hLcTR2ZlBJOW8wdEt3eTZJd01FekNMR1RLMW5RZFJmSGtLMW9QbUNnZFdMZFZtNE1ZWVlycl9YUXc?oc=5",
     "timestamp": "2026-10-23T16:25:49+00:00",
     "isoDate": "2026-10-23",
     "date": "23 Out",
-    "d": "Taylor Swift Made a Subtle Change to Her Website Ahead of Her Debut Album’s 20th Anniversary ELLE",
+    "d": "Taylor Swift Quietly Changed Her Website Ahead of Her Debut Album’s 20th Anniversary ELLE",
     "category": "general",
     "sources": [
       {
@@ -6078,31 +6242,6 @@
     "alterportal": true,
     "kind": "release",
     "section": "alter"
-  },
-  {
-    "title": "Southern New England punk and metal scene in mourning after fatal highway crash - Fall River Reporter",
-    "src": "Fall River Reporter",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPblVpbTQ2dUdjcFdpRHprSmhKcTdTOFMzRm1oNHUxcTk0cXRMT2xKX1J5T1JvR3RPOVpWQzNjNnByRWh4bjhJc1d4RHg5ajNxdnZUcVp3WEgzYVFlY19LNVVrWDF6YldRSnM4emplYU90SzVIdVByNGFBTGdoOE5rR3pZbEp0bDRUakphM0VWZmY2eWd4YTFMcU53NU1vUmpOUG9sWVp6WTZCUThaUGh3?oc=5",
-    "timestamp": "2026-10-23T22:35:27+00:00",
-    "isoDate": "2026-10-23",
-    "date": "23 Out",
-    "d": "Southern New England punk and metal scene in mourning after fatal highway crash Fall River Reporter",
-    "category": "core",
-    "sources": [
-      {
-        "name": "Fall River Reporter",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPblVpbTQ2dUdjcFdpRHprSmhKcTdTOFMzRm1oNHUxcTk0cXRMT2xKX1J5T1JvR3RPOVpWQzNjNnByRWh4bjhJc1d4RHg5ajNxdnZUcVp3WEgzYVFlY19LNVVrWDF6YldRSnM4emplYU90SzVIdVByNGFBTGdoOE5rR3pZbEp0bDRUakphM0VWZmY2eWd4YTFMcU53NU1vUmpOUG9sWVp6WTZCUThaUGh3?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": true,
-    "star": false,
-    "kind": "news",
-    "section": "core"
   },
   {
     "b": "Manntra",
@@ -6458,6 +6597,31 @@
       {
         "name": "The Times of Houma/Thibodaux",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNHpsT1NhSEd0bHZ6S01xdTJ4dm56OVNOcVM1d1Yxb3BxSnpXcmRiQzZlN3UwOUdXN3haenE4UHZEc0Q4X0FpQ0xmMHJJZXYwckVYeDF5bWMySVBtS1owdnJMdl9BVFEyTWNSelZKQlZfTkZzOFJqN3U2WlFBdXRSTVlBQkIxMVZ0YTNBdE9mQ0NuYUNTcDBZ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "What Lies Below sign w/ Solid State Records, release music video for new single \"Return To Nothing\" - Lambgoat",
+    "src": "Lambgoat",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOXZmazVKWHcwSmNnT2owV3MtanBsS05nY0NNUVlKb0pEYjA3YmExSnBINjFieUVLc1B1YzR2YXFnOW1fR0tZcjZ1eXJueFJPOWdaZm1WeU82VG9WajhLbkczNDlLaWFqX2NjNGRfZUp6SmRFLXUwVlgyVE1uLVF1dHRHcmtZWXNDZmRwWUsyVVgzeXBYYm0xVUJCM2dTdUVSMDVDWTdVQzQ4QjdJV05V?oc=5",
+    "timestamp": "2026-10-23T05:20:00+00:00",
+    "isoDate": "2026-10-23",
+    "date": "23 Out",
+    "d": "What Lies Below sign w/ Solid State Records, release music video for new single \"Return To Nothing\" Lambgoat",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Lambgoat",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOXZmazVKWHcwSmNnT2owV3MtanBsS05nY0NNUVlKb0pEYjA3YmExSnBINjFieUVLc1B1YzR2YXFnOW1fR0tZcjZ1eXJueFJPOWdaZm1WeU82VG9WajhLbkczNDlLaWFqX2NjNGRfZUp6SmRFLXUwVlgyVE1uLVF1dHRHcmtZWXNDZmRwWUsyVVgzeXBYYm0xVUJCM2dTdUVSMDVDWTdVQzQ4QjdJV05V?oc=5"
       }
     ],
     "status": "official",
@@ -13069,15 +13233,94 @@
     "title": "Listen: French Hardcore Band Headbussa Drops “Manhunt”",
     "src": "Metal Injection",
     "url": "https://metalinjection.net/new-music/listen-french-hardcore-band-headbussa-drops-manhunt",
-    "timestamp": "2026-10-21T21:01:51+00:00",
-    "isoDate": "2026-10-21",
-    "date": "21 Out",
+    "timestamp": "2026-10-22T03:27:50+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
     "d": "Their debut full-length 'Survival Measures' comes out November 13 on Daze. The post Listen: French Hardcore Band Headbussa Drops “Manhunt” appeared first on Metal Injection .",
     "category": "metal",
     "sources": [
       {
         "name": "Metal Injection",
         "url": "https://metalinjection.net/new-music/listen-french-hardcore-band-headbussa-drops-manhunt"
+      },
+      {
+        "name": "Metal Injection",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSDV5TUcxcVQ1S2FzZ3M2dFUzN0hjU1JpWmZKTnppemt0U2JDNEFFS1Y4c0xrSnM2U0lqR2RjME9VUFpyeHdhY2wtZlUyX1k0Y0ZQQklMWFVyMElDTTJrcG1IajZ2X1ZXZEwwRWVTUlBWRFplSjkyT3hFZ2ZUUmxNNHNoN19DSURDSXU1bmJvR19Ldw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Ozzy Osbourne | Death, Children, Songs, Last Show, Wife, Music, Black Sabbath, & Facts - Britannica",
+    "src": "Britannica",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12Wm1Xa0VrY0RmdEJPX3ZpOHpKTWxiLXExdUtadnV5cUxpc1AwUl9lMFRQUlFLcFJJbFhFNlN1WWc0NFh1SVN4T2dLRU5iSFpLLWxCemdjSU9DLVNCSzJJ?oc=5",
+    "timestamp": "2026-10-22T05:00:00+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "Ozzy Osbourne | Death, Children, Songs, Last Show, Wife, Music, Black Sabbath, & Facts Britannica",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Britannica",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12Wm1Xa0VrY0RmdEJPX3ZpOHpKTWxiLXExdUtadnV5cUxpc1AwUl9lMFRQUlFLcFJJbFhFNlN1WWc0NFh1SVN4T2dLRU5iSFpLLWxCemdjSU9DLVNCSzJJ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "THE RIFF REPORT Is Heading To Cardiff To Experience THE ROCK ORCHESTRA – Where Classical Music Meets Heavy Metal Mayhem! - https://theriffreport.co.uk/",
+    "src": "https://theriffreport.co.uk/",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbWctY1pjd08zSmlvRzVibERzeVluUHZvR0FyVjRpUjdOY1l5VkJQQkIwR2F2NXNuanBGcmFrTi1uMW5CMzc5SVFqVklrOEVCVVRZRnlqV3Bqb3lENlBEb1Awd2NGeWtPbzVsb2tmRi0wMTdwLVNjb1UwdG56ek9qeTJibDVwYWF2ZUxXQkQ4WHhFeDFwYURKRFpoUmYyRi1UUFdXc3REMFlxcXQzOTY1NXgxV3ZiaWRZaXJoNW02bkpOcFZrRGhQZE5hdjFGdzA4Z3lIQXhaaXN2UzFyemFwdzhQTnRScTFGS1VSWnNvUzlxWmpaaGdFRmJyS2ozUVJ6?oc=5",
+    "timestamp": "2026-10-22T15:09:06+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "THE RIFF REPORT Is Heading To Cardiff To Experience THE ROCK ORCHESTRA – Where Classical Music Meets Heavy Metal Mayhem! https://theriffreport.co.uk/",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "https://theriffreport.co.uk/",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbWctY1pjd08zSmlvRzVibERzeVluUHZvR0FyVjRpUjdOY1l5VkJQQkIwR2F2NXNuanBGcmFrTi1uMW5CMzc5SVFqVklrOEVCVVRZRnlqV3Bqb3lENlBEb1Awd2NGeWtPbzVsb2tmRi0wMTdwLVNjb1UwdG56ek9qeTJibDVwYWF2ZUxXQkQ4WHhFeDFwYURKRFpoUmYyRi1UUFdXc3REMFlxcXQzOTY1NXgxV3ZiaWRZaXJoNW02bkpOcFZrRGhQZE5hdjFGdzA4Z3lIQXhaaXN2UzFyemFwdzhQTnRScTFGS1VSWnNvUzlxWmpaaGdFRmJyS2ozUVJ6?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Blondie - Britannica",
+    "src": "Britannica",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4Um5OUVNIMWVJTEx5UE1FbHpxM0s2eWRpYjRwc0xqX3QtaVdRb25STmc5Z01uWVhrTTFiVEo2dG1BN1NNbVV6eVFyeklnOWhwSElXbTB6V1A5M0pCX2FacTB0dWxUYXFva0tpeg?oc=5",
+    "timestamp": "2026-10-22T05:00:00+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "Blondie Britannica",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Britannica",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4Um5OUVNIMWVJTEx5UE1FbHpxM0s2eWRpYjRwc0xqX3QtaVdRb25STmc5Z01uWVhrTTFiVEo2dG1BN1NNbVV6eVFyeklnOWhwSElXbTB6V1A5M0pCX2FacTB0dWxUYXFva0tpeg?oc=5"
       }
     ],
     "status": "official",
@@ -15386,7 +15629,7 @@
     "isoDate": "2026-10-21",
     "date": "21 Out",
     "d": "Rock am Ring and Rock im Park reveal second wave of bands Chaoszine",
-    "category": "core",
+    "category": "metal",
     "sources": [
       {
         "name": "Chaoszine",
@@ -15398,10 +15641,10 @@
     "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
-    "isCore": true,
+    "isCore": false,
     "star": false,
     "kind": "news",
-    "section": "core"
+    "section": "news"
   },
   {
     "title": "SHARON DEN ADEL On WITHIN TEMPTATION's Upcoming Album: 'It's Gonna Be Heavy In A Different Way'",
@@ -19779,7 +20022,7 @@
     "title": "Popular ‘90s rock band to release first new album in 27 years: ‘It’s amazing’ - Syracuse.com",
     "src": "Syracuse.com",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTUhvWklyZ1Mxc2MyUlV0eEhkVWRfLXhaUFdGMXpVa1RuQWtoRW83RFd6TE9uVWdRZ3EtV2N6Qi0zZ3hLZ0x4RjFya3E3Y3BpeVZSVHE0SXRlaFNZNlYzcGRvN3VHVVFUaDQ1QlVEOUNDOU9yVUwwdVpQNWdaeDRobURIUzlXcEZuRjdLVWx0YWxtc3VuNjNaelhnVlBNR0ZIRTlWZ3ItLXB5SFJ2Ni1IMUtmdlJEMENsM3BrQkNjX2FmUdIB1gFBVV95cUxPZTdwSGJSS0RlRlBTOUZRMzBvTFRPTWF2SW9JbWRBa0JvdUttNHlnMDRVYkN3MndrSHNXdkVxSlJTRWlsdWFKSndtZGZhSTVtOXhwSGZIM2xWcWZYTzhMRmFRZGtyN2pVdHF6clh6WDdCbm1weldUZEdCb0tVYVJnT1ltNWRja1BxajhDcmxINEUzSEpfSkZfYkp1WGEwNVpkZjVBVGt1emtfanlPLWQtMG5CaFBkOGNpOHFQOUREOXRrWTlqbW45RDRmajhweGh5Smk5U3NR?oc=5",
-    "timestamp": "2026-10-20T10:56:28+00:00",
+    "timestamp": "2026-10-20T10:55:00+00:00",
     "isoDate": "2026-10-20",
     "date": "20 Out",
     "d": "Popular ‘90s rock band to release first new album in 27 years: ‘It’s amazing’ Syracuse.com",
@@ -19788,19 +20031,15 @@
       {
         "name": "Syracuse.com",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTUhvWklyZ1Mxc2MyUlV0eEhkVWRfLXhaUFdGMXpVa1RuQWtoRW83RFd6TE9uVWdRZ3EtV2N6Qi0zZ3hLZ0x4RjFya3E3Y3BpeVZSVHE0SXRlaFNZNlYzcGRvN3VHVVFUaDQ1QlVEOUNDOU9yVUwwdVpQNWdaeDRobURIUzlXcEZuRjdLVWx0YWxtc3VuNjNaelhnVlBNR0ZIRTlWZ3ItLXB5SFJ2Ni1IMUtmdlJEMENsM3BrQkNjX2FmUdIB1gFBVV95cUxPZTdwSGJSS0RlRlBTOUZRMzBvTFRPTWF2SW9JbWRBa0JvdUttNHlnMDRVYkN3MndrSHNXdkVxSlJTRWlsdWFKSndtZGZhSTVtOXhwSGZIM2xWcWZYTzhMRmFRZGtyN2pVdHF6clh6WDdCbm1weldUZEdCb0tVYVJnT1ltNWRja1BxajhDcmxINEUzSEpfSkZfYkp1WGEwNVpkZjVBVGt1emtfanlPLWQtMG5CaFBkOGNpOHFQOUREOXRrWTlqbW45RDRmajhweGh5Smk5U3NR?oc=5"
-      },
-      {
-        "name": "Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcVhoSV81TFhvR09qTmp5b29aODcwSDF1U3lFZVY2VEJWRXVkbC1wSHFaX2lxV1p1dWxMeU8xWWZvTS1qYjBFRVl0ZUF5aHEzVVUybE02YWhQSnlyYmotT2JtT0pYSlJXenBnYUFMdzF0SE1oajJjS2xLU2NaY19OWjB5TkxlVWxUZk0wNDA5X1hoVTR5YzNiZjdUaw?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -31803,31 +32042,6 @@
       {
         "name": "Business Today",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lYmo4RkdjNk9OQlE4eXp0NWFTMm5qTHp6aVFtdGxKZnEwLTI2Q1hkZEpYX1VBRlZVbGpWLThxWjdRQ0MzREVMaEFOQkREb2RxQ3E3NE1Ba3l1eXBTX3c?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "news"
-  },
-  {
-    "title": "Ozzy Osbourne | Death, Children, Songs, Last Show, Wife, Music, Black Sabbath, & Facts - Britannica",
-    "src": "Britannica",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12Wm1Xa0VrY0RmdEJPX3ZpOHpKTWxiLXExdUtadnV5cUxpc1AwUl9lMFRQUlFLcFJJbFhFNlN1WWc0NFh1SVN4T2dLRU5iSFpLLWxCemdjSU9DLVNCSzJJ?oc=5",
-    "timestamp": "2026-10-19T05:00:00+00:00",
-    "isoDate": "2026-10-19",
-    "date": "19 Out",
-    "d": "Ozzy Osbourne | Death, Children, Songs, Last Show, Wife, Music, Black Sabbath, & Facts Britannica",
-    "category": "metal",
-    "sources": [
-      {
-        "name": "Britannica",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12Wm1Xa0VrY0RmdEJPX3ZpOHpKTWxiLXExdUtadnV5cUxpc1AwUl9lMFRQUlFLcFJJbFhFNlN1WWc0NFh1SVN4T2dLRU5iSFpLLWxCemdjSU9DLVNCSzJJ?oc=5"
       }
     ],
     "status": "official",
