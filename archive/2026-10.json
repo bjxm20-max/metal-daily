@@ -486,26 +486,6 @@
     "section": "recent"
   },
   {
-    "b": "Outlier",
-    "t": "Through The Trees",
-    "g": "rock",
-    "fmt": "Single",
-    "lbl": "Alterportal",
-    "date": "24 Out",
-    "isoDate": "2026-10-24",
-    "url": "https://alterportal.net/alternative/190640-outlier-through-the-trees-single-2026.html",
-    "d": "Alternative Metal",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/alternative/190640-outlier-through-the-trees-single-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
     "title": "CARNIVORE A.D. Announces 2027 European Tour, Shares Music Video For 'I Stand Alone'",
     "src": "Blabbermouth",
     "url": "https://blabbermouth.net/news/carnivore-a-d-announces-2027-european-tour-shares-music-video-for-i-stand-alone",
@@ -523,10 +503,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -548,10 +528,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -573,10 +553,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -598,10 +578,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -623,10 +603,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -673,32 +653,12 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
-  },
-  {
-    "b": "The Defect",
-    "t": "Stay Away",
-    "g": "electro",
-    "fmt": "Single",
-    "lbl": "Alterportal",
-    "date": "24 Out",
-    "isoDate": "2026-10-24",
-    "url": "https://alterportal.net/alternative/190641-the-defect-stay-away-single-2026.html",
-    "d": "Alternative Metal / Electronic",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/alternative/190641-the-defect-stay-away-single-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
   },
   {
     "title": "Sleep Token Denounce Copycats, Megan Thee Stallion Breaks Stuff + More Top Stories of the Week",
@@ -743,10 +703,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -768,10 +728,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -1208,10 +1168,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1233,10 +1193,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1264,6 +1224,471 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "KING'S X's DOUG 'DUG' PINNICK To Release New Solo Album, 'Abracadabra', In November",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/kings-xs-doug-dug-pinnick-to-release-new-solo-album-abracadabra-in-november",
+    "timestamp": "2026-10-24T21:39:12+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "Doug \"Dug\" Pinnick, legendary bassist, vocalist, songwriter and founding member of KING'S X, will release his new solo album, \"Abracadabra\", on November 27, 2026 via Rat Pak Records. Known for his unmistakable voice, thunderous bass work, and deeply personal songwriting, Pinnick continues to push cr...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/kings-xs-doug-dug-pinnick-to-release-new-solo-album-abracadabra-in-november"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "MARTY FRIEDMAN: NICK MENZA's Drumming Was 'A Big Reason Why MEGADETH Became As Popular In The Mainstream As We Did'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/marty-friedman-nick-menzas-drumming-was-a-big-reason-why-megadeth-became-as-popular-in-the-mainstream-as-we-did",
+    "timestamp": "2026-10-24T20:47:59+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "In a new interview with Tomás Leiva of Chile's La Pajarera podcast, former MEGADETH guitarist Marty Friedman was asked if there is something about late MEGADETH drummer Nick Menza as a musician that he wishes people knew more. He responded (as transcribed by BLABBERMOUTH.NET): \"Yes. I think a lot of...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/marty-friedman-nick-menzas-drumming-was-a-big-reason-why-megadeth-became-as-popular-in-the-mainstream-as-we-did"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "The Tribbett Brothers’ New Band Dead Wyte (Mudvayne, Ex-Twisted Method, Etc.) Launch Their First Single “Mother Trucker”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/24/news/the-tribbett-brothers-new-band-dead-wyte-mudvayne-ex-twisted-method-etc-launch-their-first-single-mother-trucker/",
+    "timestamp": "2026-10-24T20:23:01+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "That's a lot of diggys. The post The Tribbett Brothers’ New Band Dead Wyte (Mudvayne, Ex-Twisted Method, Etc.) Launch Their First Single “Mother Trucker” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/24/news/the-tribbett-brothers-new-band-dead-wyte-mudvayne-ex-twisted-method-etc-launch-their-first-single-mother-trucker/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "TWISTED SISTER's JAY JAY FRENCH On DEE SNIDER's 'Health Challenges': 'He's Not End-Of-Life Ill; He's Just End-Of-Career Ill'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/twisted-sisters-jay-jay-french-on-dee-sniders-health-challenges-hes-not-end-of-life-ill-hes-just-end-of-career-ill",
+    "timestamp": "2026-10-24T20:14:35+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "In a new interview with longtime Detroit radio personality Screamin' Scott Randall of the 94.7 WCSX radio station, TWISTED SISTER guitarist Jay Jay French addressed Dee Snider's \"health challenges\" that forced the singer to back out of taking part in the band's 50th-anniversary reunion tour in 2026....",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/twisted-sisters-jay-jay-french-on-dee-sniders-health-challenges-hes-not-end-of-life-ill-hes-just-end-of-career-ill"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Pro-Shot Footage Of Danzig’s Entire 1995 ‘Pinkpop’ Festival Set Newly Released",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/24/news/pro-shot-footage-of-danzigs-entire-1995-pinkpop-festival-set-newly-released/",
+    "timestamp": "2026-10-24T20:04:53+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "Filmed in Landgraaf, Net back in June of 1995. The post Pro-Shot Footage Of Danzig’s Entire 1995 ‘Pinkpop’ Festival Set Newly Released appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/24/news/pro-shot-footage-of-danzigs-entire-1995-pinkpop-festival-set-newly-released/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Testament, The Prodigy, The Amity Affliction, Etc. Added To 2027 ‘Welcome To Rockville’ Festival",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/24/news/testament-the-prodigy-the-amity-affliction-etc-added-to-2027-welcome-to-rockville-festival/",
+    "timestamp": "2026-10-24T19:58:35+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "The full lineup reveal will be made next week. The post Testament, The Prodigy, The Amity Affliction, Etc. Added To 2027 ‘Welcome To Rockville’ Festival appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/24/news/testament-the-prodigy-the-amity-affliction-etc-added-to-2027-welcome-to-rockville-festival/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "The Dillinger Escape Plan’s Self-Titled 1997 EP Set For Remastered Cassette/Digital Release",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/24/news/the-dillinger-escape-plans-self-titled-1997-ep-set-for-remastered-cassette-digital-release/",
+    "timestamp": "2026-10-24T19:49:43+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "You can get your hands on it next week at their final \"Calculating Infinity\" shows. The post The Dillinger Escape Plan’s Self-Titled 1997 EP Set For Remastered Cassette/Digital Release appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/24/news/the-dillinger-escape-plans-self-titled-1997-ep-set-for-remastered-cassette-digital-release/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Three Days Grace Tap Fill-In Drummer As Neil Sanderson Suffers Ruptured Bicep",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/24/news/three-days-grace-tap-fill-in-drummer-as-neil-sanderson-suffers-ruptured-bicep/",
+    "timestamp": "2026-10-24T19:40:23+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "Sanderson will be providing backing vocals and keys at the majority of the shows though. The post Three Days Grace Tap Fill-In Drummer As Neil Sanderson Suffers Ruptured Bicep appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/24/news/three-days-grace-tap-fill-in-drummer-as-neil-sanderson-suffers-ruptured-bicep/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "SOiL Set To Debut Their First New Single In Over A Decade This Month",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/24/news/soil-set-to-debut-their-first-new-single-in-over-a-decade-this-month/",
+    "timestamp": "2026-10-24T19:26:10+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "An enemy awaits. The post SOiL Set To Debut Their First New Single In Over A Decade This Month appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/24/news/soil-set-to-debut-their-first-new-single-in-over-a-decade-this-month/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Infant Annihilator Reveal The Title For Their New Comeback Album",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/24/news/infant-annihilator-reveal-the-title-for-their-new-comeback-album/",
+    "timestamp": "2026-10-24T19:13:04+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "The annihilation must flow. The post Infant Annihilator Reveal The Title For Their New Comeback Album appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/24/news/infant-annihilator-reveal-the-title-for-their-new-comeback-album/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "TONY IOMMI Confirms He Will Appear On WILLIAM SHATNER's Upcoming Heavy Metal Album: 'It's Really Good What He's Doing'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/tony-iommi-confirms-he-will-appear-on-william-shatners-upcoming-heavy-metal-album-its-really-good-what-hes-doing",
+    "timestamp": "2026-10-24T19:07:51+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "In a new interview with BBC Breakfast presenters Naga Munchetty and Charlie Stayt, BLACK SABBATH guitarist Tony Iommi confirmed that he will appear as a special guest on 95-year-old \"Star Trek\" legend William Shatner's surprise metal album. Speaking about how he ended up collaborating with Shatner —...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/tony-iommi-confirms-he-will-appear-on-william-shatners-upcoming-heavy-metal-album-its-really-good-what-hes-doing"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "My Chemical Romance Hit With Legal Action Over Recent Onstage Depictions Of Dallas Cowboys Cheerleaders",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/24/news/my-chemical-romance-hit-with-legal-action-over-recent-onstage-depictions-of-dallas-cowboys-cheerleaders/",
+    "timestamp": "2026-10-24T19:05:24+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "There's been staged 'shootouts' dance routines and more. The post My Chemical Romance Hit With Legal Action Over Recent Onstage Depictions Of Dallas Cowboys Cheerleaders appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/24/news/my-chemical-romance-hit-with-legal-action-over-recent-onstage-depictions-of-dallas-cowboys-cheerleaders/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Shot at the Speed of Sound: Naomi Petersen(Sumerian Publishing/Punk Life Naomi) - The Big Takeover",
+    "src": "The Big Takeover",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNzBiOFB2bGh0ZGUwbC00M3EyS2lUMXAtNlJnUEstUjJOQWNQdHVpdjNVeEEtOGxPOGdqQlBHQzdXaGY5MUhwbFVFeHJqcHF6Ri1Zb2hkaVhmY3FlV0NqQ3lOVGgyNFBlSzZKZ3VRcU5aeFJGTHQ4UjVMT194S2hDWkY1TXczQTk5VnF1VTdsQ1BBTmJSTXB3VWVBS2JJeFVKZGNRSjdoaElvdw?oc=5",
+    "timestamp": "2026-10-24T17:22:12+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "Shot at the Speed of Sound: Naomi Petersen(Sumerian Publishing/Punk Life Naomi) The Big Takeover",
+    "category": "core",
+    "sources": [
+      {
+        "name": "The Big Takeover",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNzBiOFB2bGh0ZGUwbC00M3EyS2lUMXAtNlJnUEstUjJOQWNQdHVpdjNVeEEtOGxPOGdqQlBHQzdXaGY5MUhwbFVFeHJqcHF6Ri1Zb2hkaVhmY3FlV0NqQ3lOVGgyNFBlSzZKZ3VRcU5aeFJGTHQ4UjVMT194S2hDWkY1TXczQTk5VnF1VTdsQ1BBTmJSTXB3VWVBS2JJeFVKZGNRSjdoaElvdw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Arcus Release “Rebirth” Music Video Amid Sleep Token Controversy - The Mosh Network",
+    "src": "The Mosh Network",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WX0kyaUxzcUtnZjdfdmhvSUdVY3BkWnRLQVAyN2t0NDJHZEYzaGVNZl8tNWhVdmtYazBfSWFpZU9UOUU3Yk5rc0RuMmxTSEs5Mml6VWs1bXlPbk1zRG5mbTdPVDZjWGRjbF9zVnJwVkFOaWgwMlk5dVNR?oc=5",
+    "timestamp": "2026-10-24T15:44:24+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "Arcus Release “Rebirth” Music Video Amid Sleep Token Controversy The Mosh Network",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "The Mosh Network",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WX0kyaUxzcUtnZjdfdmhvSUdVY3BkWnRLQVAyN2t0NDJHZEYzaGVNZl8tNWhVdmtYazBfSWFpZU9UOUU3Yk5rc0RuMmxTSEs5Mml6VWs1bXlPbk1zRG5mbTdPVDZjWGRjbF9zVnJwVkFOaWgwMlk5dVNR?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Stevie Wonder Sues to Evict Ex-Fiancée Who Has Been Living At His Property Rent-Free for 38 Years",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/stevie-wonder-sues-fiancee-living-rent-free/",
+    "timestamp": "2026-10-24T19:22:31+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "Carmen Efferson allegedly refused to allow Wonder's representatives to enter the property and sent his lawyer a contentious email. Stevie Wonder Sues to Evict Ex-Fiancée Who Has Been Living At His Property Rent-Free for 38 Years Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/stevie-wonder-sues-fiancee-living-rent-free/"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "medium",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Popular ’90s rock band’s guitars stolen while on tour: ‘We got robbed!’ - PennLive.com",
+    "src": "PennLive.com",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUWJsOFo0azZKLXZCTlpicVk3ZVRtdWE3Q0thaUVxZk91WXkxWXVRSndxMENqOFo0bXI4UGpBZndKdUZnZjhkUmRReDF2aDlDT2JCeEk3M1BqMzFSREtwUVA2NUZGcWEtSGdGV2syZUdoOHRtQmVqQldHVGdja2ZaRnFRNDViRk53c1g3YVQ3R0hvQnE4WTV3OVBoTms1dzg5bEJZMmVZTmtKV1piQzlaRTd0c1hfYUJ5?oc=5",
+    "timestamp": "2026-10-24T11:00:00+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "Popular ’90s rock band’s guitars stolen while on tour: ‘We got robbed!’ PennLive.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "PennLive.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUWJsOFo0azZKLXZCTlpicVk3ZVRtdWE3Q0thaUVxZk91WXkxWXVRSndxMENqOFo0bXI4UGpBZndKdUZnZjhkUmRReDF2aDlDT2JCeEk3M1BqMzFSREtwUVA2NUZGcWEtSGdGV2syZUdoOHRtQmVqQldHVGdja2ZaRnFRNDViRk53c1g3YVQ3R0hvQnE4WTV3OVBoTms1dzg5bEJZMmVZTmtKV1piQzlaRTd0c1hfYUJ5?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "[VÍDEO] JESC2026: Recorda a atuação de Portugal no Festival Eurovisão Júnior 2026 - ESC PORTUGAL",
+    "src": "ESC PORTUGAL",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VTkhnaVRJY1lMU3B5Q1p5RThhUmYwOGVrb0dndjIxcnhYa05wMlQzcmY2eC0yWFQ2LV9WNkpwektTTGlhNk5YUUkyRGVrVHhqdFA5TFNmNnVnanItX0FteEtvOWFKWDc4UXk4ZV9JOFdGSlpsbm9mU0wwZHJEUQ?oc=5",
+    "timestamp": "2026-10-24T19:53:00+00:00",
+    "isoDate": "2026-10-24",
+    "date": "24 Out",
+    "d": "[VÍDEO] JESC2026: Recorda a atuação de Portugal no Festival Eurovisão Júnior 2026 ESC PORTUGAL",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "ESC PORTUGAL",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VTkhnaVRJY1lMU3B5Q1p5RThhUmYwOGVrb0dndjIxcnhYa05wMlQzcmY2eC0yWFQ2LV9WNkpwektTTGlhNk5YUUkyRGVrVHhqdFA5TFNmNnVnanItX0FteEtvOWFKWDc4UXk4ZV9JOFdGSlpsbm9mU0wwZHJEUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Outlier",
+    "t": "Through The Trees",
+    "g": "rock",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "23 Out",
+    "isoDate": "2026-10-23",
+    "url": "https://alterportal.net/alternative/190640-outlier-through-the-trees-single-2026.html",
+    "d": "Alternative Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190640-outlier-through-the-trees-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "The Defect",
+    "t": "Stay Away",
+    "g": "electro",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "23 Out",
+    "isoDate": "2026-10-23",
+    "url": "https://alterportal.net/alternative/190641-the-defect-stay-away-single-2026.html",
+    "d": "Alternative Metal / Electronic",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190641-the-defect-stay-away-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
   },
   {
     "title": "The New Rock + Metal Albums Out This Week",
@@ -7125,6 +7550,295 @@
     "star": false,
     "kind": "news",
     "section": "buzz"
+  },
+  {
+    "b": "Sasha Alex Sloan",
+    "t": "And The Crowd Goes Mild",
+    "g": "indie",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "23 Out",
+    "isoDate": "2026-10-23",
+    "url": "https://musicbrainz.org/release-group/b2f88ace-3668-4011-ae4a-45b049be82b5",
+    "d": "rock, pop, alternative rock, indie pop",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/b2f88ace-3668-4011-ae4a-45b049be82b5"
+      }
+    ],
+    "mbid": "b2f88ace-3668-4011-ae4a-45b049be82b5",
+    "star": false,
+    "kind": "release",
+    "section": "main"
+  },
+  {
+    "b": "Lennon Stella",
+    "t": "Sleeping Lion",
+    "g": "indie",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "23 Out",
+    "isoDate": "2026-10-23",
+    "url": "https://musicbrainz.org/release-group/cc26c33a-3a0f-457d-96ae-e43dcb6ed2ba",
+    "d": "rock, alternative rock, indie rock, indie pop",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/cc26c33a-3a0f-457d-96ae-e43dcb6ed2ba"
+      }
+    ],
+    "mbid": "cc26c33a-3a0f-457d-96ae-e43dcb6ed2ba",
+    "star": false,
+    "kind": "release",
+    "section": "main"
+  },
+  {
+    "b": "girl in red",
+    "t": "Blue",
+    "g": "prog",
+    "fmt": "EP",
+    "lbl": "MusicBrainz",
+    "date": "23 Out",
+    "isoDate": "2026-10-23",
+    "url": "https://musicbrainz.org/release-group/ce554917-5213-4deb-b0c9-2a1786107cbf",
+    "d": "rock, alternative rock, lo-fi, indie pop, dream pop",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/ce554917-5213-4deb-b0c9-2a1786107cbf"
+      }
+    ],
+    "mbid": "ce554917-5213-4deb-b0c9-2a1786107cbf",
+    "star": false,
+    "kind": "release",
+    "section": "main"
+  },
+  {
+    "b": "Fenne Lily",
+    "t": "Win Win",
+    "g": "folk",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "23 Out",
+    "isoDate": "2026-10-23",
+    "url": "https://musicbrainz.org/release-group/9c9aa1d2-d537-41af-9530-d0c0831337cd",
+    "d": "indie rock, folk rock",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/9c9aa1d2-d537-41af-9530-d0c0831337cd"
+      }
+    ],
+    "mbid": "9c9aa1d2-d537-41af-9530-d0c0831337cd",
+    "star": false,
+    "kind": "release",
+    "section": "main"
+  },
+  {
+    "b": "Brothers Osborne",
+    "t": "Watertown",
+    "g": "rock",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "23 Out",
+    "isoDate": "2026-10-23",
+    "url": "https://musicbrainz.org/release-group/54dc12a7-c1db-47bf-80b2-e7e3953113a5",
+    "d": "country, country rock",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/54dc12a7-c1db-47bf-80b2-e7e3953113a5"
+      }
+    ],
+    "mbid": "54dc12a7-c1db-47bf-80b2-e7e3953113a5",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Lil Gotit",
+    "t": "B4EON",
+    "g": "hiphop",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "23 Out",
+    "isoDate": "2026-10-23",
+    "url": "https://musicbrainz.org/release-group/760a682b-c214-424a-981a-cc4c8be48332",
+    "d": "electronic, hip hop, uk garage",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/760a682b-c214-424a-981a-cc4c8be48332"
+      }
+    ],
+    "mbid": "760a682b-c214-424a-981a-cc4c8be48332",
+    "star": false,
+    "kind": "release",
+    "section": "main"
+  },
+  {
+    "b": "Dean Lewis",
+    "t": "Naked",
+    "g": "pop",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "23 Out",
+    "isoDate": "2026-10-23",
+    "url": "https://musicbrainz.org/release-group/c2354c24-f883-4e50-9e01-68d6d99b744c",
+    "d": "pop",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/c2354c24-f883-4e50-9e01-68d6d99b744c"
+      }
+    ],
+    "mbid": "c2354c24-f883-4e50-9e01-68d6d99b744c",
+    "star": false,
+    "kind": "release",
+    "section": "main"
+  },
+  {
+    "b": "David Kushner",
+    "t": "I Walk Away",
+    "g": "pop",
+    "fmt": "EP",
+    "lbl": "MusicBrainz",
+    "date": "23 Out",
+    "isoDate": "2026-10-23",
+    "url": "https://musicbrainz.org/release-group/e78c860c-1cfa-4a68-bf35-0a4562c6e9a9",
+    "d": "pop",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/e78c860c-1cfa-4a68-bf35-0a4562c6e9a9"
+      }
+    ],
+    "mbid": "e78c860c-1cfa-4a68-bf35-0a4562c6e9a9",
+    "star": false,
+    "kind": "release",
+    "section": "main"
+  },
+  {
+    "b": "Kacey Musgraves",
+    "t": "Weekend in Texas",
+    "g": "pop",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "23 Out",
+    "isoDate": "2026-10-23",
+    "url": "https://musicbrainz.org/release-group/7ace26be-8a21-48a5-9df4-0a8e76eec507",
+    "d": "pop, country",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/7ace26be-8a21-48a5-9df4-0a8e76eec507"
+      }
+    ],
+    "mbid": "7ace26be-8a21-48a5-9df4-0a8e76eec507",
+    "star": false,
+    "kind": "release",
+    "section": "main"
+  },
+  {
+    "title": "The Commoners release “Lost in the Highlights” single and music video ahead of UK tour - https://rocknloadmag.com/",
+    "src": "https://rocknloadmag.com/",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWVKclAtd2cwWkUzdnhuTExBWEoxOWM0RHpMeEExRmQ3TWRjcGVSWDQ1VmZ5cGtGZFdYVDZVajQ3bGl2WlQ1UnBQdVo0OHBjUTlKMjR6T2lpSng4UlpQME9YamotV1ZQMTNaQWlYUDVqUHR3QnlWeU5UaHNSTGtseHpXT21TZV9OSERXWEZGQ0pVYzY4bHI4WmNYSWIxc1dvMXRCOGVLTmlfU3VvOHRN?oc=5",
+    "timestamp": "2026-10-23T20:12:46+00:00",
+    "isoDate": "2026-10-23",
+    "date": "23 Out",
+    "d": "The Commoners release “Lost in the Highlights” single and music video ahead of UK tour https://rocknloadmag.com/",
+    "category": "general",
+    "sources": [
+      {
+        "name": "https://rocknloadmag.com/",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWVKclAtd2cwWkUzdnhuTExBWEoxOWM0RHpMeEExRmQ3TWRjcGVSWDQ1VmZ5cGtGZFdYVDZVajQ3bGl2WlQ1UnBQdVo0OHBjUTlKMjR6T2lpSng4UlpQME9YamotV1ZQMTNaQWlYUDVqUHR3QnlWeU5UaHNSTGtseHpXT21TZV9OSERXWEZGQ0pVYzY4bHI4WmNYSWIxc1dvMXRCOGVLTmlfU3VvOHRN?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "SPILL NEW MUSIC: DAPTONE RECORDS TO RELEASE 45RPM OF THE WOMACK SISTERS \"IF I LET YOU\" ON NOVEMBER 20 - The Spill Magazine",
+    "src": "The Spill Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZXp4NWtGYUtZNmxQSDZsNE9kYXJ2NGR5TEIxSDk1ZlpYZUgyU3BhWDRUWEF2ZFV4NExoN3dfT09HWUpvbjhSZ0l4dm5TWHJCR05qcllrcEUyQThXRHc0TmtVcHRodVF3alNIbGpoYm10UGFoUm1LVHVvWEMxX3BHSklPOUc5eXZYeWxQMTVuWWNudnNVa2xweDdTUS05U0x5RERUNWwtMlpwM081Zk82RlM2V3R4alpCOGlBaXRtUXEzOG8?oc=5",
+    "timestamp": "2026-10-23T16:35:21+00:00",
+    "isoDate": "2026-10-23",
+    "date": "23 Out",
+    "d": "SPILL NEW MUSIC: DAPTONE RECORDS TO RELEASE 45RPM OF THE WOMACK SISTERS \"IF I LET YOU\" ON NOVEMBER 20 The Spill Magazine",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Spill Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZXp4NWtGYUtZNmxQSDZsNE9kYXJ2NGR5TEIxSDk1ZlpYZUgyU3BhWDRUWEF2ZFV4NExoN3dfT09HWUpvbjhSZ0l4dm5TWHJCR05qcllrcEUyQThXRHc0TmtVcHRodVF3alNIbGpoYm10UGFoUm1LVHVvWEMxX3BHSklPOUc5eXZYeWxQMTVuWWNudnNVa2xweDdTUS05U0x5RERUNWwtMlpwM081Zk82RlM2V3R4alpCOGlBaXRtUXEzOG8?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "K.Flay release new music video for ‘Blood Cells’ - Distorted Sound Magazine -",
+    "src": "Distorted Sound Magazine -",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWUlZUzBPVHFsTHp0Z29QTFZfWHMyR1NfWU5CRU85SjlxY2VmYjFob3FSbjNmTlgtMERWLUE1eFRpWnJCbVBqOGhXRmpMcnp1dV95djRGako5MFFyYmpJd2R4Q2tmZlo5cXVKUHMxUDVKX1Ryb1J1aE80RlI3bWZKcUFtWQ?oc=5",
+    "timestamp": "2026-10-23T15:28:02+00:00",
+    "isoDate": "2026-10-23",
+    "date": "23 Out",
+    "d": "K.Flay release new music video for ‘Blood Cells’ Distorted Sound Magazine -",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Distorted Sound Magazine -",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWUlZUzBPVHFsTHp0Z29QTFZfWHMyR1NfWU5CRU85SjlxY2VmYjFob3FSbjNmTlgtMERWLUE1eFRpWnJCbVBqOGhXRmpMcnp1dV95djRGako5MFFyYmpJd2R4Q2tmZlo5cXVKUHMxUDVKX1Ryb1J1aE80RlI3bWZKcUFtWQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Eurovision 2026 Portugal: Bandidos do Cante - \"Rosa\" - Eurovisionworld",
+    "src": "Eurovisionworld",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KVjI1N2xsNkNaUmtQR1FYdzVNUGlfZGNrdEZ2Nlh4eV9IUHFOb24xY1JNcmEwdHdlVjl4SHdDeXA5cWpsOElDdHEybWdzTjNIQTRyeTc5T3hJY014czhSQm93?oc=5",
+    "timestamp": "2026-10-23T06:57:43+00:00",
+    "isoDate": "2026-10-23",
+    "date": "23 Out",
+    "d": "Eurovision 2026 Portugal: Bandidos do Cante - \"Rosa\" Eurovisionworld",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Eurovisionworld",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KVjI1N2xsNkNaUmtQR1FYdzVNUGlfZGNrdEZ2Nlh4eV9IUHFOb24xY1JNcmEwdHdlVjl4SHdDeXA5cWpsOElDdHEybWdzTjNIQTRyeTc5T3hJY014czhSQm93?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "title": "A moment that changed me: I was devastated by a breakup – and saved by a sweaty moshpit - The Guardian",
@@ -13851,6 +14565,27 @@
     "section": "news"
   },
   {
+    "b": "Westside Gunn",
+    "t": "ZILLA",
+    "g": "core",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "22 Out",
+    "isoDate": "2026-10-22",
+    "url": "https://musicbrainz.org/release-group/c6154228-cb3d-47ac-a8aa-1f6dd6c6fc89",
+    "d": "hip hop, gangsta rap, east coast hip hop, hardcore hip hop",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/c6154228-cb3d-47ac-a8aa-1f6dd6c6fc89"
+      }
+    ],
+    "mbid": "c6154228-cb3d-47ac-a8aa-1f6dd6c6fc89",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
     "title": "After losing his son, Lil Jon found a new purpose - USA Today",
     "src": "USA Today",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblIxcFVlYndXT2NjbmNMQkpYRjZhNy1tOVVuYUhualU0THJaMkxCVFhHUVdlLTRNTnlMT3VhSkxyYWlVTHVkaTRDMmdhVWw2UTNPbDU5anE0ZVBiOWZVOXU2eTRHX1FLLUZQZkNnNkhFU0JGNFdwNy1jdDZjdWV0ZldNNVFuQVdzLTU4R3VxbTROQ2FsMWJlLUhwY1E0TEc4YlJVOHhYcWRycWdGaW1VU01JMDktcC1Q?oc=5",
@@ -20413,6 +21148,31 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "'90s Band Rejected 44 Times Beats the Beatles, Rolling Stones, and Metallica to Become the Most-Streamed Rock and Metal Artists of All Time on Spotify - AOL.com",
+    "src": "AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qcnY5U3JuRUp4WFZydUNmVHNmQmdJNTJzNTM4Ql9yOG4tMzYzeEFGRGZhRHd5X0xNVHB3UUhOblF0WkRYOFVELWpsNDk0Mm5ZeVBtWWFRVmVvX0ZyTFExRzJlMkhMdy1ETHA5dEF6OE91NEdWR0JzSEpn?oc=5",
+    "timestamp": "2026-10-21T11:40:00+00:00",
+    "isoDate": "2026-10-21",
+    "date": "21 Out",
+    "d": "'90s Band Rejected 44 Times Beats the Beatles, Rolling Stones, and Metallica to Become the Most-Streamed Rock and Metal Artists of All Time on Spotify AOL.com",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qcnY5U3JuRUp4WFZydUNmVHNmQmdJNTJzNTM4Ql9yOG4tMzYzeEFGRGZhRHd5X0xNVHB3UUhOblF0WkRYOFVELWpsNDk0Mm5ZeVBtWWFRVmVvX0ZyTFExRzJlMkhMdy1ETHA5dEF6OE91NEdWR0JzSEpn?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
   },
   {
     "title": "13 Best New Female Fronted Metal Bands Right Now, Ranked (2026) - Loaded Radio",
@@ -44688,6 +45448,27 @@
       }
     ],
     "mbid": "8897af6d-f344-4ad4-af70-83cb425d8397",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Kings of Leon",
+    "t": "KOYSAR",
+    "g": "indie",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "16 Out",
+    "isoDate": "2026-10-16",
+    "url": "https://musicbrainz.org/release-group/98b2553a-de97-4963-adc6-c71bf075cebf",
+    "d": "rock, alternative rock, indie rock, southern rock",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/98b2553a-de97-4963-adc6-c71bf075cebf"
+      }
+    ],
+    "mbid": "98b2553a-de97-4963-adc6-c71bf075cebf",
     "star": false,
     "kind": "release",
     "section": "recent"
