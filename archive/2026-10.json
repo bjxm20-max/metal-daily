@@ -17,10 +17,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -67,10 +67,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -92,10 +92,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -117,10 +117,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -192,10 +192,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -217,10 +217,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -242,10 +242,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -267,10 +267,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -382,10 +382,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -727,10 +727,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -848,6 +848,526 @@
     "releaseKey": "neolith|inbir review",
     "kind": "review",
     "section": "rev"
+  },
+  {
+    "title": "Documentário sobre digressão de Carminho pelo Japão chega aos cinemas em novembro",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/carminho-documentario-neste-quarto-sobre-a-digressao-no-japao-estreia-nos-cinemas-portugueses/",
+    "timestamp": "2026-10-25T15:12:48+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "%featured_image% \"Neste Quarto\", o documentário da realizadora Ana Rocha de Sousa que acompanha a digressão da fadista Carminho pelo Japão, chega aos cinemas portugueses a 19 de novembro.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/carminho-documentario-neste-quarto-sobre-a-digressao-no-japao-estreia-nos-cinemas-portugueses/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "“Casa Pequena”: Entre documentário e ficção, Capitão Fausto chegam às salas de cinema em 2026",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/capitao-fausto-estreiam-casa-pequena-nos-cinemas-e-apresentam-novo-single-quando-vais-dormir/",
+    "timestamp": "2026-10-25T12:18:00+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "%featured_image% Os Capitão Fausto estreiam-se no cinema de ficção com “Casa Pequena”, filme de Ricardo Oliveira que chega às salas a 5 de novembro. A banda apresenta também “Quando Vais Dormir”, segundo tema da banda sonora original.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/capitao-fausto-estreiam-casa-pequena-nos-cinemas-e-apresentam-novo-single-quando-vais-dormir/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Dyya",
+    "t": "Too Tired To Be Dead",
+    "g": "electro",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "25 Out",
+    "isoDate": "2026-10-25",
+    "url": "https://alterportal.net/alternative/190642-dyya-too-tired-to-be-dead-single-2026.html",
+    "d": "Alternative Metal / Electronic / Female Vocal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190642-dyya-too-tired-to-be-dead-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "Orgy Suffered A Click Track Mishap During Their Texas ‘Sick New World’ Set",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/25/news/orgy-suffered-a-click-track-mishap-during-their-texas-sick-new-world-set/",
+    "timestamp": "2026-10-25T18:33:02+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "For a moment, the audience got the in-ear experience. The post Orgy Suffered A Click Track Mishap During Their Texas ‘Sick New World’ Set appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/25/news/orgy-suffered-a-click-track-mishap-during-their-texas-sick-new-world-set/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "ZEBRA's RANDY JACKSON Says Second TRUMP Presidency Has Been 'A Nightmare': 'I'm Voting Blue, Straight Up And Down', In The Midterm Election",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/zebras-randy-jackson-says-second-trump-presidency-has-been-a-nightmare-im-voting-blue-straight-up-and-down-in-the-midterm-election",
+    "timestamp": "2026-10-25T18:14:46+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "During an appearance on the October 25 episode of \"The Card King Sports And Variety Show\", which airs on the ABC news affiliate KMET 1490 AM, ZEBRA guitarist/vocalist Randy Jackson was asked what has kept the band's original lineup — consisting of Jackson, bassist/keyboardist Felix Hanemann and drum...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/zebras-randy-jackson-says-second-trump-presidency-has-been-a-nightmare-im-voting-blue-straight-up-and-down-in-the-midterm-election"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Quicksand Mix Post-Punk With A 1960s Batman Fight Scene On \"Crystallize\" From 'Bring On The Psychics' - That Eric Alper",
+    "src": "That Eric Alper",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS1lsRUtadDBOb0dtb0xXcF92ckpzVjRCbDVHRWVKT2puaXBQTTJpcDFGcDN0djhvRUFISUh4VUhHOU9neEVkal9hOE1sMnRXOGlWRWM3NnZocjV1TXAyTlUwM1M1U0lUNVZFdHY2TXVLRjVtUmZYTTE3RlNxSzNScXhDSl8yREhvMHdwT2F2VEtTQVQ1VWcwVjNDZW5XMDBKMGozdkR2aWV6MmRGUVNSLUZhT05GcGM1UDdqVWxpeHFvT1Q4VUFLalJXZ1UzV3ZLUllCblR3?oc=5",
+    "timestamp": "2026-10-25T18:07:21+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "Quicksand Mix Post-Punk With A 1960s Batman Fight Scene On \"Crystallize\" From 'Bring On The Psychics' That Eric Alper",
+    "category": "core",
+    "sources": [
+      {
+        "name": "That Eric Alper",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS1lsRUtadDBOb0dtb0xXcF92ckpzVjRCbDVHRWVKT2puaXBQTTJpcDFGcDN0djhvRUFISUh4VUhHOU9neEVkal9hOE1sMnRXOGlWRWM3NnZocjV1TXAyTlUwM1M1U0lUNVZFdHY2TXVLRjVtUmZYTTE3RlNxSzNScXhDSl8yREhvMHdwT2F2VEtTQVQ1VWcwVjNDZW5XMDBKMGozdkR2aWV6MmRGUVNSLUZhT05GcGM1UDdqVWxpeHFvT1Q4VUFLalJXZ1UzV3ZLUllCblR3?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "RIVAL SONS Bassist DAVE BESTE To Sit Out Fall 2026 U.S. Tour",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/rival-sons-bassist-dave-beste-to-sit-out-fall-2026-u-s-tour",
+    "timestamp": "2026-10-25T17:08:49+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "RIVAL SONS bassist Dave Beste will sit out the band's upcoming \"Domestic Bliss\" U.S. tour in order to \"handle some important matters at home\". He will be temporarily replaced on the trek by BEN HARPER AND THE INNOCENT CRIMINALS bassist Darwin Johnson. On Friday, October 23, RIVAL SONS released the f...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/rival-sons-bassist-dave-beste-to-sit-out-fall-2026-u-s-tour"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "How David Ellefson Felt Seeing Megadeth at Louder Than Life 2026",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/david-ellefson-megadeth-louder-than-life-rearview-mirror-moment/",
+    "timestamp": "2026-10-25T16:49:11+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "Metal Church bassist David Ellefson explains why sharing the stage with his former band at Louder Than Life 2026 was a \"rearview mirror moment.\" Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/david-ellefson-megadeth-louder-than-life-rearview-mirror-moment/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "My Chemical Romance Is Being Taken to Court By the Dallas Cowboys Cheerleaders",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/my-chemical-romance-is-being-sued-by-the-dallas-cowboys-cheerleaders",
+    "timestamp": "2026-10-25T16:18:45+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "The fictional dictatorship that emo legends My Chemical Romance have built around The Black Parade is turning into a very real legal problem. Pro Silver Star Ltd., the owner of […] The post My Chemical Romance Is Being Taken to Court By the Dallas Cowboys Cheerleaders appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/my-chemical-romance-is-being-sued-by-the-dallas-cowboys-cheerleaders"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "THREE DAYS GRACE Drummer NEIL SANDERSON To Undergo Emergency Surgery For Ruptured Bicep Tendon",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/three-days-grace-drummer-neil-sanderson-to-undergo-emergency-surgery-for-ruptured-bicep-tendon",
+    "timestamp": "2026-10-25T16:07:11+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "THREE DAYS GRACE drummer Neil Sanderson will be unable to sit behind the kit during the just-launched fall 2026 leg of the band's \"Alienation\" tour after rupturing the bicep tendon off the bone in his left arm. He will be temporarily replaced by ex-BREAKING BENJAMIN drummer Shaun Foist. On Friday, O...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/three-days-grace-drummer-neil-sanderson-to-undergo-emergency-surgery-for-ruptured-bicep-tendon"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch: Turnstile Play to Over 60,000 People in Washington DC, Raise $200,000+ For Palestine",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/watch-turnstile-play-to-over-60000-people-in-washington-dc-raise-200000-for-palestine",
+    "timestamp": "2026-10-25T15:40:19+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "Turnstile wanted to turn up loud enough for those in the White House to hear their message. By all accounts, they managed. On Saturday, October 24th, Turnstile closed out the […] The post Watch: Turnstile Play to Over 60,000 People in Washington DC, Raise $200,000+ For Palestine appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/watch-turnstile-play-to-over-60000-people-in-washington-dc-raise-200000-for-palestine"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "MUDVAYNE Guitarist GREG TRIBBETT Releases Debut Single From DEAD WYTE Project",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/mudvayne-guitarist-greg-tribbett-releases-debut-single-from-dead-wyte-project",
+    "timestamp": "2026-10-25T15:39:04+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "DEAD WYTE, the new project featuring guitarist Greg Tribbett (MUDVAYNE, ex-HELLYEAH) and his brother, vocalist Derrick \"Tripp\" Tribbett (ex-DOPE, TWISTED METHOD), has released its debut single, \"Mother Trucker\". The official Dusten Boles-directed video for the track can be seen below. Greg Tribbett...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/mudvayne-guitarist-greg-tribbett-releases-debut-single-from-dead-wyte-project"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Former SAXON Drummer NIGEL DURHAM Dead At 61",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/former-saxon-drummer-nigel-durham-dead-at-61",
+    "timestamp": "2026-10-25T15:14:57+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "Former SAXON drummer Nigel Durham, who played on the band’s 1988 album \"Destiny\", has died at the age of 61. On Saturday, October 24, SAXON took to social media to write: \"We are very sad to hear of the passing of a member of the SAXON family, former drummer Nigel Durham. \"We send our love and thoug...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/former-saxon-drummer-nigel-durham-dead-at-61"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Former Saxon Drummer Nigel Durham Dies at 61 as Heavy Metal Band Pays Tribute - International Business Times, Singapore Edition",
+    "src": "International Business Times, Singapore Edition",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMjZHYVhaRE1ZTzFfR25EeWpEeGthQ1hRbGNuZUlVSjR4THJFM1FDWjVvaVFZbnY4SHZsMnE5cTBqVnNlaVdMemcwbFBZcWtGMWQtMlpQdThSS05JTTJHbjRFaGhxbTh5clZDeEZSVmFxNkxyOUhkOUVQRVVhMXRrc0k2OGMwWVFQTzQ4MUhKSzFXT3U1TWM0cUFKX3RHZGtHWGc?oc=5",
+    "timestamp": "2026-10-25T10:40:01+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "Former Saxon Drummer Nigel Durham Dies at 61 as Heavy Metal Band Pays Tribute International Business Times, Singapore Edition",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "International Business Times, Singapore Edition",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMjZHYVhaRE1ZTzFfR25EeWpEeGthQ1hRbGNuZUlVSjR4THJFM1FDWjVvaVFZbnY4SHZsMnE5cTBqVnNlaVdMemcwbFBZcWtGMWQtMlpQdThSS05JTTJHbjRFaGhxbTh5clZDeEZSVmFxNkxyOUhkOUVQRVVhMXRrc0k2OGMwWVFQTzQ4MUhKSzFXT3U1TWM0cUFKX3RHZGtHWGc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Elvis Presley Catalog Owners Sue AI Company Anthropic for Copyright Infringement",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/elvis-presley-catalog-owners-sue-ai-company-anthropic-for-copyright-infringement/",
+    "timestamp": "2026-10-25T18:06:26+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/elvis-presley-catalog-owners-sue-ai-company-anthropic-for-copyright-infringement/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Turnstile Draw 60,000 Fans to Washington Monument, Raise Over $220,000 for Humanitarian Aid",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/turnstile-draw-60000-fans-to-washington-monument-raise-over-220000-for-humanitarian-aid/",
+    "timestamp": "2026-10-25T17:02:56+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "The Baltimore band’s massive hometown-area show raised money for relief efforts in Palestine, Sudan, and Lebanon. Turnstile Draw 60,000 Fans to Washington Monument, Raise Over $220,000 for Humanitarian Aid Alex Krinsky",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/turnstile-draw-60000-fans-to-washington-monument-raise-over-220000-for-humanitarian-aid/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Watch Jay-Z Bring Out Dr. Dre and Snoop Dogg at LA Tour Closer",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/watch-jay-z-bring-out-dr-dre-and-snoop-dogg-at-la-tour-closer/",
+    "timestamp": "2026-10-25T16:57:49+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/watch-jay-z-bring-out-dr-dre-and-snoop-dogg-at-la-tour-closer/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "JAY-Z Brings Out Dr. Dre, Snoop Dogg, and Too $hort at Final JAŸ-Z30 Show",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/jay-z-brings-out-dr-dre-snoop-dogg-and-too-hort-at-final-jay-z30-show/",
+    "timestamp": "2026-10-25T15:53:14+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "The sold-out Los Angeles finale featured a run of West Coast classics and brought JAY-Z’s anniversary celebration to a close. JAY-Z Brings Out Dr. Dre, Snoop Dogg, and Too $hort at Final JAŸ-Z30 Show Alex Krinsky",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/jay-z-brings-out-dr-dre-snoop-dogg-and-too-hort-at-final-jay-z30-show/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "IN PHOTOS: An Englishman in Music City: Sting’s 3.0 tour comes to Nashville - The Vanderbilt Hustler",
+    "src": "The Vanderbilt Hustler",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN2otaURRX3d0Zjh5UFVJUUN3eHlhdTZZb0xvOFZnak9NM0puS1NDZGh3V0c2TE0xOHNFTmd5UnZha09BS1RVaXVfMkN4VVVBX3o2V3VNY2xCXy1NbW5EUUplM1Ffc1RhamxIVkZtT2g4azl0cE5pV3JVYmFLMmQ3c3h0ZjFneEdfZG5tYnhsSFNUUURuT0ZEVlpZdGc4M0VXVVRITXJ0aXREcmFrbUdnTHBjMXo?oc=5",
+    "timestamp": "2026-10-25T15:43:49+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "IN PHOTOS: An Englishman in Music City: Sting’s 3.0 tour comes to Nashville The Vanderbilt Hustler",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Vanderbilt Hustler",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN2otaURRX3d0Zjh5UFVJUUN3eHlhdTZZb0xvOFZnak9NM0puS1NDZGh3V0c2TE0xOHNFTmd5UnZha09BS1RVaXVfMkN4VVVBX3o2V3VNY2xCXy1NbW5EUUplM1Ffc1RhamxIVkZtT2g4azl0cE5pV3JVYmFLMmQ3c3h0ZjFneEdfZG5tYnhsSFNUUURuT0ZEVlpZdGc4M0VXVVRITXJ0aXREcmFrbUdnTHBjMXo?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Eva Under Fire release new music video ‘Starshine’ - Distorted Sound Magazine -",
+    "src": "Distorted Sound Magazine -",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVzhPRkJZTHg2dU13SkNMVEpJdGw1cUZ6SXpTZEwtbkx6YTIzVGVER3I1cUJ4ekVmTzc3UWlxblNXTW9TaGZrWkhBWUxkdWRwMERSaXItZV9iUFAyNEMwdUp0TTJ0akFKMk44LVNvWFl3blRfZHNEeHZ3RHdRa3VZaEk3OVJMUQ?oc=5",
+    "timestamp": "2026-10-25T10:46:56+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "Eva Under Fire release new music video ‘Starshine’ Distorted Sound Magazine -",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Distorted Sound Magazine -",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVzhPRkJZTHg2dU13SkNMVEpJdGw1cUZ6SXpTZEwtbkx6YTIzVGVER3I1cUJ4ekVmTzc3UWlxblNXTW9TaGZrWkhBWUxkdWRwMERSaXItZV9iUFAyNEMwdUp0TTJ0akFKMk44LVNvWFl3blRfZHNEeHZ3RHdRa3VZaEk3OVJMUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Belém acolhe primeira edição do 'Dinner of the Year numa mistura de alta gastronomia e música - SIC Notícias",
+    "src": "SIC Notícias",
+    "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxPRmJWQWpmWVQ1dHRYT1FOdzktR1hNODlXQzVUOXJmTm00WXdsUmdQTGkzZ19mTHBjTXR4ZVBvVGJ0djdHRkpRd3VmdWM5VUhsb1ZaRzQwM2dCbXJwMDR6X1ZBLUk4WXFLNG14VDd6RF9sMjl3alJsM2ROa1JqZElfRnZoV3hUMGVsOFllVm9WVTNGVlQyUzlMQzE2MXBnZU0xY0pkMl9zcWpZUlRtNXZUZUJSazZvdUVDX1pjZmhVNFFYQVdSWjRQdmtEUDJTeU92cEpId3I4eENIQ1NZMnBDSmJrOENkZkZZUHNDOUJEMEladU9SS2hfbWYyek1TWnFmRERFR09vMmNNRGR4TnloWXpFLXRZTnU4c1RLOURINHBFVGJaY3JEMGRObmoxM1otaUdPTHlEOS0ybklROXN4Rkx3MnRLeER3SWpzVzlVaVFPODkyTDRoc2MycG9hWTd0TXRNQWJjU2hHeC1YTnZRVDJCRENRa19qSTVCM1lXdG43azZYX1JpLWo4dWp0LXlSZzFzaHZSQmRwTUVCUlBIc002dmczTUZiVW16OVBIcDJtQjh3dUw5WVFqTjJjSVlDNFY3OXZVbVpSa3lncXFRLXpXQUd2aG5ZTUE?oc=5",
+    "timestamp": "2026-10-25T17:57:37+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "Belém acolhe primeira edição do 'Dinner of the Year numa mistura de alta gastronomia e música SIC Notícias",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "SIC Notícias",
+        "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxPRmJWQWpmWVQ1dHRYT1FOdzktR1hNODlXQzVUOXJmTm00WXdsUmdQTGkzZ19mTHBjTXR4ZVBvVGJ0djdHRkpRd3VmdWM5VUhsb1ZaRzQwM2dCbXJwMDR6X1ZBLUk4WXFLNG14VDd6RF9sMjl3alJsM2ROa1JqZElfRnZoV3hUMGVsOFllVm9WVTNGVlQyUzlMQzE2MXBnZU0xY0pkMl9zcWpZUlRtNXZUZUJSazZvdUVDX1pjZmhVNFFYQVdSWjRQdmtEUDJTeU92cEpId3I4eENIQ1NZMnBDSmJrOENkZkZZUHNDOUJEMEladU9SS2hfbWYyek1TWnFmRERFR09vMmNNRGR4TnloWXpFLXRZTnU4c1RLOURINHBFVGJaY3JEMGRObmoxM1otaUdPTHlEOS0ybklROXN4Rkx3MnRLeER3SWpzVzlVaVFPODkyTDRoc2MycG9hWTd0TXRNQWJjU2hHeC1YTnZRVDJCRENRa19qSTVCM1lXdG43azZYX1JpLWo4dWp0LXlSZzFzaHZSQmRwTUVCUlBIc002dmczTUZiVW16OVBIcDJtQjh3dUw5WVFqTjJjSVlDNFY3OXZVbVpSa3lncXFRLXpXQUd2aG5ZTUE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "title": "‘Heelmatic’: Westside Gunn has announced His New Album Release - Daily Music Roll",
@@ -4447,15 +4967,19 @@
       {
         "name": "Loudwire",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JTGNVQ05ZTGY0VlU5cWZENWVRanNycmJhVi1RYU5TV1RJS1JjZFV3Nmt5RV9pWE9PbWVpaUVkc0JtVFBOVVhxSk9vVFBHcjdUTjdDd0ozTkotdDRvVy1ua0JCU2hXLTJn?oc=5"
+      },
+      {
+        "name": "106.3 The Buzz",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84ajRPRVdlbWdyVk45cGhJOVdCbG9UZno5RFRpRGpKbUxuZ1RjakxZYWdkRzl6WEk5aFMyQWo4M2Nham5IZjcyVUlBejZ6WmRwb181cXZDaldTVnlPTExXUmI0RGNFTTJwT3JwMmFGUFR3el9OQmNBVUhR?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 1,
+    "sourceCount": 2,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": false,
+    "star": true,
     "kind": "news",
     "section": "news"
   },
@@ -9116,17 +9640,17 @@
     "section": "news"
   },
   {
-    "title": "Priest release fifth album ‘Altered State Police’ - Side-Line",
-    "src": "Side-Line",
+    "title": "Priest release fifth album ‘Altered State Police’ - SIDE-LINE",
+    "src": "SIDE-LINE",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jR2NRWXZGQ0xKWFZaZmxNTFU2VkZKWklNcVFkaFJnMUg4YmQzbmJUYzNKbmhGM3BjbkpncVVORGpfWVBOZFppNFZsQ0dUa2M1V3RiSzJBeVBMMHRZOFRjQzU5MWI1Rm9MaHZZM0pyaw?oc=5",
     "timestamp": "2026-10-23T09:47:12+00:00",
     "isoDate": "2026-10-23",
     "date": "23 Out",
-    "d": "Priest release fifth album ‘Altered State Police’ Side-Line",
+    "d": "Priest release fifth album ‘Altered State Police’ SIDE-LINE",
     "category": "general",
     "sources": [
       {
-        "name": "Side-Line",
+        "name": "SIDE-LINE",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jR2NRWXZGQ0xKWFZaZmxNTFU2VkZKWklNcVFkaFJnMUg4YmQzbmJUYzNKbmhGM3BjbkpncVVORGpfWVBOZFppNFZsQ0dUa2M1V3RiSzJBeVBMMHRZOFRjQzU5MWI1Rm9MaHZZM0pyaw?oc=5"
       }
     ],
@@ -9178,6 +9702,102 @@
       {
         "name": "Live For Live Music",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeGVNVmpyUGE5d1hYX3hlSDVIcFFJZTVuVnI2S2V1SGlLMC1PeC10dllSVDZ0X09mNnl5dzhDR1NPTU9YUUs3MElGejZMVlVtS21FY3ZYdUJEcHNqTW5RVEpualE0OUNTeGo3X2tXWk8tM2s1YUJoRDlGZ2lmLXpwYlRSbUM3U1lGd2FmNG03Nkl6S01FQlhjQzVOZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "b": "Barricade",
+    "t": "Brain Damaged Mind",
+    "g": "core",
+    "fmt": "EP",
+    "lbl": "MusicBrainz",
+    "date": "23 Out",
+    "isoDate": "2026-10-23",
+    "url": "https://musicbrainz.org/release-group/fd32bcc6-b0f8-4a9b-a12d-3812705fc511",
+    "d": "punk, hardcore punk, d-beat",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/fd32bcc6-b0f8-4a9b-a12d-3812705fc511"
+      }
+    ],
+    "mbid": "fd32bcc6-b0f8-4a9b-a12d-3812705fc511",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "title": "Alternative metal band Daze marks first milestone with ‘Chances’ - MorungExpress",
+    "src": "MorungExpress",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGJfSzdxcmktRmc0MFFTeDA4d0c1clJ5THNJVWNxR2FhVUN2OGFDeGxKWEJXN2VROC15OVF3djA4UUtIdlRTTmtBS1hVU1M0YzJKbEw0RDVYSjZrRkYwRllWYnpjS0dXMjB3VnFxNzRXNlU5TnF0OWNMNFlNUEFmdmZKa0JyMk8yWVRNY01NbDViQQ?oc=5",
+    "timestamp": "2026-10-23T15:50:40+00:00",
+    "isoDate": "2026-10-23",
+    "date": "23 Out",
+    "d": "Alternative metal band Daze marks first milestone with ‘Chances’ MorungExpress",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "MorungExpress",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGJfSzdxcmktRmc0MFFTeDA4d0c1clJ5THNJVWNxR2FhVUN2OGFDeGxKWEJXN2VROC15OVF3djA4UUtIdlRTTmtBS1hVU1M0YzJKbEw0RDVYSjZrRkYwRllWYnpjS0dXMjB3VnFxNzRXNlU5TnF0OWNMNFlNUEFmdmZKa0JyMk8yWVRNY01NbDViQQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Lake Street Dive Announce 2027 Tour - Pollstar News",
+    "src": "Pollstar News",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRMDRWam82LUdlVG91LXdVcThBYTNOZGZRYmJic0o4TUFaOXUyVjY4VDE3MFJGVDNia0lxQ3Z4bXJhdXFWeU5qS0VHbEZ6VmVkeUt1Y1ZiRk5nN0FSYnU5RWlhZDFWS0tZYktSWHkxRENjQVNERVIzTy15cWVpQQ?oc=5",
+    "timestamp": "2026-10-23T19:09:18+00:00",
+    "isoDate": "2026-10-23",
+    "date": "23 Out",
+    "d": "Lake Street Dive Announce 2027 Tour Pollstar News",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pollstar News",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRMDRWam82LUdlVG91LXdVcThBYTNOZGZRYmJic0o4TUFaOXUyVjY4VDE3MFJGVDNia0lxQ3Z4bXJhdXFWeU5qS0VHbEZ6VmVkeUt1Y1ZiRk5nN0FSYnU5RWlhZDFWS0tZYktSWHkxRENjQVNERVIzTy15cWVpQQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Haywire Announce Extensive 2027 World Tour - Consequence of Sound",
+    "src": "Consequence of Sound",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zN3k5T2p6bWZVRW43elhOUUJFTzNqMXVjZmowbFpTT2NrcVZzMjNrbFlwWFN4Vnc1S0FkUW5YeUVyalBTNzFTZ3hpU1ZrZ3RGWEw2TEZrcUxpSnhQQ2Y5eHkxZ09fb28?oc=5",
+    "timestamp": "2026-10-23T15:22:19+00:00",
+    "isoDate": "2026-10-23",
+    "date": "23 Out",
+    "d": "Haywire Announce Extensive 2027 World Tour Consequence of Sound",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence of Sound",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zN3k5T2p6bWZVRW43elhOUUJFTzNqMXVjZmowbFpTT2NrcVZzMjNrbFlwWFN4Vnc1S0FkUW5YeUVyalBTNzFTZ3hpU1ZrZ3RGWEw2TEZrcUxpSnhQQ2Y5eHkxZ09fb28?oc=5"
       }
     ],
     "status": "official",
@@ -11198,7 +11818,7 @@
     "title": "Queens of the Stone Age Announce 2027 Tour With The Pixies",
     "src": "Metal Injection",
     "url": "https://metalinjection.net/tour-dates/queens-of-the-stone-age-announce-2027-tour-with-the-pixies",
-    "timestamp": "2026-10-22T14:42:23+00:00",
+    "timestamp": "2026-10-22T15:39:46+00:00",
     "isoDate": "2026-10-22",
     "date": "22 Out",
     "d": "Hear some very loud guitar music in a very big venue. The post Queens of the Stone Age Announce 2027 Tour With The Pixies appeared first on Metal Injection .",
@@ -11207,6 +11827,10 @@
       {
         "name": "Metal Injection",
         "url": "https://metalinjection.net/tour-dates/queens-of-the-stone-age-announce-2027-tour-with-the-pixies"
+      },
+      {
+        "name": "Metal Injection",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWszV05rZTZHbmFpRVUxdjdSZHdoTW1peHEtd2hBVGVRQ25kajV4dXlhdUlsNF9mWU93VDVXVEY4LXdoZ3JhMlFuRlRGWVE4R0V2clZ2YXc2ZUxvTmFBdXA1ajJKRlYzNXF5VkxxTDNGY0hvLUEtT3haVkw0QmpjalhfdkdhX3FYbDFHS1QyUTR1Y3kwUmtJdVdrVzM?oc=5"
       }
     ],
     "status": "official",
@@ -16012,6 +16636,56 @@
     "section": "buzz"
   },
   {
+    "title": "Metal Legend Plans To Quit Music and Become a Farmer Raising Fainting Goats, Al Jourgensen Says - International Business Times UK",
+    "src": "International Business Times UK",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNEc2cHloQzNKUkdQUzJ5ek1jdHRUZ3NBdXlIT0RMNVkzSTg3OW5qNnNLMHUtUUE4TW9ZZWtnUHlDLTNXWEg5NHhGSkhTSFRzbjE0eUJKbElicVhYOWUtMC0wUEpzU1B3VlFpSHZhOHVwRDRTWmlzSEhTMnNGdUR5WnFRUjJsRnVNa0ZHSV9rTzVFQQ?oc=5",
+    "timestamp": "2026-10-22T13:50:06+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "Metal Legend Plans To Quit Music and Become a Farmer Raising Fainting Goats, Al Jourgensen Says International Business Times UK",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "International Business Times UK",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNEc2cHloQzNKUkdQUzJ5ek1jdHRUZ3NBdXlIT0RMNVkzSTg3OW5qNnNLMHUtUUE4TW9ZZWtnUHlDLTNXWEg5NHhGSkhTSFRzbjE0eUJKbElicVhYOWUtMC0wUEpzU1B3VlFpSHZhOHVwRDRTWmlzSEhTMnNGdUR5WnFRUjJsRnVNa0ZHSV9rTzVFQQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Listen: French Hardcore Band Headbussa Drops “Manhunt” - Metal Injection",
+    "src": "Metal Injection",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSDV5TUcxcVQ1S2FzZ3M2dFUzN0hjU1JpWmZKTnppemt0U2JDNEFFS1Y4c0xrSnM2U0lqR2RjME9VUFpyeHdhY2wtZlUyX1k0Y0ZQQklMWFVyMElDTTJrcG1IajZ2X1ZXZEwwRWVTUlBWRFplSjkyT3hFZ2ZUUmxNNHNoN19DSURDSXU1bmJvR19Ldw?oc=5",
+    "timestamp": "2026-10-22T03:27:50+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "Listen: French Hardcore Band Headbussa Drops “Manhunt” Metal Injection",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSDV5TUcxcVQ1S2FzZ3M2dFUzN0hjU1JpWmZKTnppemt0U2JDNEFFS1Y4c0xrSnM2U0lqR2RjME9VUFpyeHdhY2wtZlUyX1k0Y0ZQQklMWFVyMElDTTJrcG1IajZ2X1ZXZEwwRWVTUlBWRFplSjkyT3hFZ2ZUUmxNNHNoN19DSURDSXU1bmJvR19Ldw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
     "title": "Listen: French Hardcore Band Headbussa Drops “Manhunt”",
     "src": "Metal Injection",
     "url": "https://metalinjection.net/new-music/listen-french-hardcore-band-headbussa-drops-manhunt",
@@ -18332,7 +19006,7 @@
     "isoDate": "2026-10-21",
     "date": "21 Out",
     "d": "Rock am Ring and Rock im Park reveal second wave of bands Chaoszine",
-    "category": "core",
+    "category": "metal",
     "sources": [
       {
         "name": "Chaoszine",
@@ -18344,10 +19018,10 @@
     "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
-    "isCore": true,
+    "isCore": false,
     "star": false,
     "kind": "news",
-    "section": "core"
+    "section": "news"
   },
   {
     "title": "SHARON DEN ADEL On WITHIN TEMPTATION's Upcoming Album: 'It's Gonna Be Heavy In A Different Way'",
@@ -46975,6 +47649,27 @@
     "section": "recent"
   },
   {
+    "b": "Jimi Hendrix",
+    "t": "Magic Boy: The Jimi Hendrix Experience Live At Berkeley [First Show]",
+    "g": "rnb",
+    "fmt": "Live",
+    "lbl": "MusicBrainz",
+    "date": "16 Out",
+    "isoDate": "2026-10-16",
+    "url": "https://musicbrainz.org/release-group/ab0491f1-a48f-4d30-81bd-01d35d80be8f",
+    "d": "acid rock, psychedelic soul",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/ab0491f1-a48f-4d30-81bd-01d35d80be8f"
+      }
+    ],
+    "mbid": "ab0491f1-a48f-4d30-81bd-01d35d80be8f",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
     "title": "Nightwish Singer Floor Jansen Exits Band, \"There Is a Bright Musical Journey Ahead of Me\" - Metal Injection",
     "src": "Metal Injection",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcHFHbm5qTUtyY1NkQkNmS01TOE1qY0VXeVFwaElieV9Bci1pVzI4MDFPZ3BxT1BZcWxRNGFpYVBZVE9HVmozbGVQbXpSb0ZqVUhleFBrVWg5MWROUlZxcFJvX1EtVGRhN0tMTlRVZWxjdWkzZzN4OWRWZjFiT3hzbzhGM09VOGZMNUthbDl1LW41dXRXWFEwV21oWTNzUzRET1hHS0NMVEo3SjhpTEt1YzA1bXl5U2lhTEE?oc=5",
@@ -58986,6 +59681,27 @@
     "section": "recent"
   },
   {
+    "b": "Rex Orange County",
+    "t": "Hannah Montana",
+    "g": "rnb",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "14 Out",
+    "isoDate": "2026-10-14",
+    "url": "https://musicbrainz.org/release-group/fbbacdab-13a6-4ef7-bcc0-00588b228f2b",
+    "d": "rock, pop, alternative rock, jazz, soul",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/fbbacdab-13a6-4ef7-bcc0-00588b228f2b"
+      }
+    ],
+    "mbid": "fbbacdab-13a6-4ef7-bcc0-00588b228f2b",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
     "title": "Betty Buckley performs at The Smith Center ahead of NEW Album release - FOX5 Vegas",
     "src": "FOX5 Vegas",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS0d6VU45NDBLUkpNZm01Z09yR0ExREN3Vnk4Qkt3OElSZWQ4SExLVF96Nmo3ZENoSk1wQzRsREZ4OE5IQXBKRlZOT19JUzFEcVAzT1lXMUpURW5FVG1jWmF5UkRjdThRR09VMU5EcnRpR3U3TmFCamlyRGM2UnBTdE5hSEo3clgtaFQxbjlsY2txXzNadE4zaGg1RE5ObWk0VzM1WXVR?oc=5",
@@ -66943,31 +67659,6 @@
     "star": false,
     "kind": "news",
     "section": "buzz"
-  },
-  {
-    "title": "Carminho: Documentário “Neste Quarto” sobre a digressão no Japão estreia nos cinemas portugueses",
-    "src": "Arte Sonora",
-    "url": "https://artesonora.pt/carminho-documentario-neste-quarto-sobre-a-digressao-no-japao-estreia-nos-cinemas-portugueses/",
-    "timestamp": "2026-10-12T14:12:48+00:00",
-    "isoDate": "2026-10-12",
-    "date": "12 Out",
-    "d": "%featured_image% \"Neste Quarto\", o documentário da realizadora Ana Rocha de Sousa que acompanha a digressão da fadista Carminho pelo Japão, chega aos cinemas portugueses a 19 de novembro.",
-    "category": "pt",
-    "sources": [
-      {
-        "name": "Arte Sonora",
-        "url": "https://artesonora.pt/carminho-documentario-neste-quarto-sobre-a-digressao-no-japao-estreia-nos-cinemas-portugueses/"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": true,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "pt"
   },
   {
     "title": "SOTAM traz o Bloco dos Apaixonados a Portugal: “No final do dia, o ideal mais importante é o amor ao próximo” - Rimas e Batidas",
@@ -113561,31 +114252,6 @@
       {
         "name": "MaisBeiras Informação",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEpsankxbWo4ZjYtcjZVcmlNbGZFMGt5TFhiVFdVZ3NWTW9TQVFmYlB5by1PLUtMRWdkNTVmTFh3SzlrSndSUnFUWkRpY0REYlBqd0s3ekw4UlRPaTdNU3dtWDdGWjVoeFZSUEJ5NWh2TEtQQ3RvLXVRNUZmMXdPVU15M2xMYjlENWNTWmdBR0NuUzZ3TkhMMkRLQmphazRnOGgzb0ltbw?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": true,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "pt"
-  },
-  {
-    "title": "Capitão Fausto estreiam “Casa Pequena” nos cinemas e apresentam novo single “Quando Vais Dormir”",
-    "src": "Arte Sonora",
-    "url": "https://artesonora.pt/capitao-fausto-estreiam-casa-pequena-nos-cinemas-e-apresentam-novo-single-quando-vais-dormir/",
-    "timestamp": "2026-10-02T11:18:00+00:00",
-    "isoDate": "2026-10-02",
-    "date": "2 Out",
-    "d": "%featured_image% Os Capitão Fausto estreiam-se no cinema de ficção com “Casa Pequena”, filme de Ricardo Oliveira que chega às salas a 5 de novembro. A banda apresenta também “Quando Vais Dormir”, segundo tema da banda sonora original.",
-    "category": "pt",
-    "sources": [
-      {
-        "name": "Arte Sonora",
-        "url": "https://artesonora.pt/capitao-fausto-estreiam-casa-pequena-nos-cinemas-e-apresentam-novo-single-quando-vais-dormir/"
       }
     ],
     "status": "official",
