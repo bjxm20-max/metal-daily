@@ -407,10 +407,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -432,10 +432,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -457,10 +457,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -507,10 +507,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -532,10 +532,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -557,32 +557,12 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
-  },
-  {
-    "b": "Mental Cruelty",
-    "t": "Echoes Of A Forlorn Land",
-    "g": "core",
-    "fmt": "Album",
-    "lbl": "Alterportal",
-    "date": "25 Out",
-    "isoDate": "2026-10-25",
-    "url": "https://alterportal.net/2026_albums/190611-mental-cruelty-echoes-of-a-forlorn-land-2026.html",
-    "d": "Symphonic Blackened Deathcore / Melodic Death Metal / Folk",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/2026_albums/190611-mental-cruelty-echoes-of-a-forlorn-land-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
   },
   {
     "title": "'It Was My Own Fault' - Jack Osbourne on 'Digital Ozzy' Backlash",
@@ -652,10 +632,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -677,10 +657,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -702,10 +682,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -802,10 +782,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -827,10 +807,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -892,32 +872,12 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
-  },
-  {
-    "b": "Dyya",
-    "t": "Too Tired To Be Dead",
-    "g": "electro",
-    "fmt": "Single",
-    "lbl": "Alterportal",
-    "date": "25 Out",
-    "isoDate": "2026-10-25",
-    "url": "https://alterportal.net/alternative/190642-dyya-too-tired-to-be-dead-single-2026.html",
-    "d": "Alternative Metal / Electronic / Female Vocal",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/alternative/190642-dyya-too-tired-to-be-dead-single-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
   },
   {
     "title": "Orgy Suffered A Click Track Mishap During Their Texas ‘Sick New World’ Set",
@@ -1298,7 +1258,7 @@
     "title": "IN PHOTOS: An Englishman in Music City: Sting’s 3.0 tour comes to Nashville - The Vanderbilt Hustler",
     "src": "The Vanderbilt Hustler",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN2otaURRX3d0Zjh5UFVJUUN3eHlhdTZZb0xvOFZnak9NM0puS1NDZGh3V0c2TE0xOHNFTmd5UnZha09BS1RVaXVfMkN4VVVBX3o2V3VNY2xCXy1NbW5EUUplM1Ffc1RhamxIVkZtT2g4azl0cE5pV3JVYmFLMmQ3c3h0ZjFneEdfZG5tYnhsSFNUUURuT0ZEVlpZdGc4M0VXVVRITXJ0aXREcmFrbUdnTHBjMXo?oc=5",
-    "timestamp": "2026-10-25T15:43:49+00:00",
+    "timestamp": "2026-10-25T15:45:49+00:00",
     "isoDate": "2026-10-25",
     "date": "25 Out",
     "d": "IN PHOTOS: An Englishman in Music City: Sting’s 3.0 tour comes to Nashville The Vanderbilt Hustler",
@@ -1368,6 +1328,321 @@
     "star": true,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Cancer Bats are surviving the music industry on their own terms - Louder",
+    "src": "Louder",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WNHZ0di04alJWNTBRNlN4Nk1PWG1nbV8wQzJtQ2s2LVg4V2ZTTmFJLUVNRE9BOXJhdDhmcm0xQUp0M0JVVmhNb1VPVlFYdEdXaV9iUzVyU0U0S05FTV9sNjB5aw?oc=5",
+    "timestamp": "2026-10-25T22:00:00+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "Cancer Bats are surviving the music industry on their own terms Louder",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Louder",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WNHZ0di04alJWNTBRNlN4Nk1PWG1nbV8wQzJtQ2s2LVg4V2ZTTmFJLUVNRE9BOXJhdDhmcm0xQUp0M0JVVmhNb1VPVlFYdEdXaV9iUzVyU0U0S05FTV9sNjB5aw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch: ANGRA Joined by KIKO LOUREIRO, EDU FALASCHI And LOUDNESS's AKIRA TAKASAKI For Cover Of DEEP PURPLE's 'Burn' At FULL METAL JAPAN",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/watch-angra-joined-by-kiko-loureiro-edu-falaschi-and-loudnesss-akira-takasaki-for-cover-of-deep-purples-burn-at-full-metal-japan",
+    "timestamp": "2026-10-25T19:32:44+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "Brazilian metallers ANGRA welcomed former members Kiko Loureiro (guitar) and Eduardo \"Edu\" Falaschi (vocals), along with Akira Takasaki, guitarist for legendary Japanese band LOUDNESS, for a performance of the DEEP PURPLE classic \"Burn\" during their set at the Full Metal Japan 2026 festival on Octob...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/watch-angra-joined-by-kiko-loureiro-edu-falaschi-and-loudnesss-akira-takasaki-for-cover-of-deep-purples-burn-at-full-metal-japan"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "NJ/Baltimore hardcore band Wall Breaker finish their second LP, with Poison Idea in the mix and GO! back on the bill - IDIOTEQ.com",
+    "src": "IDIOTEQ.com",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yODZuNElNNDBKcXRkeEdIQzFrYm9qRU5icVA0d01wSGc0cl9GZlZkeDFxVnJ6djJDSmFiN2RpQktYT19qX216QkpEalkzRk00NzNqYWZmbzFpbkd5YkNFNmZhdjJzcno2NHZiZA?oc=5",
+    "timestamp": "2026-10-25T19:12:52+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "NJ/Baltimore hardcore band Wall Breaker finish their second LP, with Poison Idea in the mix and GO! back on the bill IDIOTEQ.com",
+    "category": "core",
+    "sources": [
+      {
+        "name": "IDIOTEQ.com",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yODZuNElNNDBKcXRkeEdIQzFrYm9qRU5icVA0d01wSGc0cl9GZlZkeDFxVnJ6djJDSmFiN2RpQktYT19qX216QkpEalkzRk00NzNqYWZmbzFpbkd5YkNFNmZhdjJzcno2NHZiZA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "STEVEN WILSON Confirms Second STORM CORROSION Album Is In The Works: 'It's Almost Entirely Played On Acoustic Instruments'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/steven-wilson-confirms-second-storm-corrosion-album-is-in-the-works-its-almost-entirely-played-on-acoustic-instruments",
+    "timestamp": "2026-10-25T19:04:28+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "In a new interview with Anil Prasad, the creator of Innerviews, the first and longest-running online music magazine, British progressive rock icon Steven Wilson confirmed that he has \"started work\" on the second album from STORM CORROSION, his collaborative project with OPETH's Mikael Åkerfeldt. Reg...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/steven-wilson-confirms-second-storm-corrosion-album-is-in-the-works-its-almost-entirely-played-on-acoustic-instruments"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Here’s This Week’s Top Ten Stories On Theprp.com (October 25th, 2026)",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/25/news/heres-this-weeks-top-ten-stories-on-theprp-com-october-25th-2026/",
+    "timestamp": "2026-10-25T18:53:18+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "Kid Rock, Boardwalk, Sonic Temple, Megadeth & more. The post Here’s This Week’s Top Ten Stories On Theprp.com (October 25th, 2026) appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/25/news/heres-this-weeks-top-ten-stories-on-theprp-com-october-25th-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Slam Dunk Festival announce second wave of bands for 2027 - Distorted Sound Magazine -",
+    "src": "Distorted Sound Magazine -",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONF9DU0Q0MHNxdXF1dlZubEI5ajROYjdRSHdHamwzcmd4dzZTZmdHY0NhWm4wWVM3bXJheTg1N2FmWnhhM2tDdWVPTlQ5Ui10dDdkTUNORlQ0UmtVbFIyYURIWXJ6SXVacDZLaXNZWkpTNGVJZDlFTDdtN2dNQzZJMHRBTFlvcERhc3hlZlM3S0g3UQ?oc=5",
+    "timestamp": "2026-10-25T18:48:59+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "Slam Dunk Festival announce second wave of bands for 2027 Distorted Sound Magazine -",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Distorted Sound Magazine -",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONF9DU0Q0MHNxdXF1dlZubEI5ajROYjdRSHdHamwzcmd4dzZTZmdHY0NhWm4wWVM3bXJheTg1N2FmWnhhM2tDdWVPTlQ5Ui10dDdkTUNORlQ0UmtVbFIyYURIWXJ6SXVacDZLaXNZWkpTNGVJZDlFTDdtN2dNQzZJMHRBTFlvcERhc3hlZlM3S0g3UQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "HEAVY MUSIC HISTORY: Outbreak Fest - Distorted Sound Magazine -",
+    "src": "Distorted Sound Magazine -",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nQTZnSGVGQmczTnc0UWhYWl9lalVNX1VJUUxva3lENEE2NGstSnBPOXVUeUhwUkJWNjY0Tmh6d3diaUhkQTdlejdnbnZQLUg2YkZIbFZTSjlhS0lwd0w1Tjd2SlRyNHdXMW1FQWZpNE4wZw?oc=5",
+    "timestamp": "2026-10-25T14:03:49+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "HEAVY MUSIC HISTORY: Outbreak Fest Distorted Sound Magazine -",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Distorted Sound Magazine -",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nQTZnSGVGQmczTnc0UWhYWl9lalVNX1VJUUxva3lENEE2NGstSnBPOXVUeUhwUkJWNjY0Tmh6d3diaUhkQTdlejdnbnZQLUg2YkZIbFZTSjlhS0lwd0w1Tjd2SlRyNHdXMW1FQWZpNE4wZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Shilpa Rao’s mic reportedly switched off at Bollywood Music Project, fans slam organisers - www.hungamaexpress.com",
+    "src": "www.hungamaexpress.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa2c1M0RmLW1BajIySzRVNDRmZFpqS2gyMlpIT2txb1E1N0FmRWM4bktjNGZIY3QxRG43RmdrVVVSV2tCWVRxbkJ3b2RtdWFEeXA0YWs5SUZCU0VlRndVcTJNRnd0enRxRS1odmhtNjAtcjZNc0ZyMmE4U3RJYnZCSWJQS0xKMm8zUlduS243U2puMG9qdUhuanktd3Jubk52bUVlYmRGTjhGZXpia283MEkzeUVZUjVJVmFxSzdPekdXTlEtUFFidw?oc=5",
+    "timestamp": "2026-10-25T20:14:50+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "Shilpa Rao’s mic reportedly switched off at Bollywood Music Project, fans slam organisers www.hungamaexpress.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "www.hungamaexpress.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa2c1M0RmLW1BajIySzRVNDRmZFpqS2gyMlpIT2txb1E1N0FmRWM4bktjNGZIY3QxRG43RmdrVVVSV2tCWVRxbkJ3b2RtdWFEeXA0YWs5SUZCU0VlRndVcTJNRnd0enRxRS1odmhtNjAtcjZNc0ZyMmE4U3RJYnZCSWJQS0xKMm8zUlduS243U2puMG9qdUhuanktd3Jubk52bUVlYmRGTjhGZXpia283MEkzeUVZUjVJVmFxSzdPekdXTlEtUFFidw?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kesha Announces Surprise Release of Music Video For 16-Year-Old Song ‘Backstabber’ - TODAY.com",
+    "src": "TODAY.com",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWjB1NnZkYi1TNzVGSDYtanZQZWVXUEVZV3hJckRTZnBYNFhiOUFpRHI0V1p5RjVBQTR0al9MQ1ZMQlMzZTd6WVIxbTV3N3VTTHVEOTBRT0xlRTNrRjhSLVRXNTVaMzlTYWwtWC1aUzRfMzJMVjk4X2FyQUZjWmpxTWp1SzZKOXFtMmZDOHItdHNGNUtzVkMtdVo2N3FJOXJCRHV1b1dpUGJNUQ?oc=5",
+    "timestamp": "2026-10-25T19:13:50+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "Kesha Announces Surprise Release of Music Video For 16-Year-Old Song ‘Backstabber’ TODAY.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "TODAY.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWjB1NnZkYi1TNzVGSDYtanZQZWVXUEVZV3hJckRTZnBYNFhiOUFpRHI0V1p5RjVBQTR0al9MQ1ZMQlMzZTd6WVIxbTV3N3VTTHVEOTBRT0xlRTNrRjhSLVRXNTVaMzlTYWwtWC1aUzRfMzJMVjk4X2FyQUZjWmpxTWp1SzZKOXFtMmZDOHItdHNGNUtzVkMtdVo2N3FJOXJCRHV1b1dpUGJNUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Elvis Costello on Getting His Stage Name and Writing ‘Alison’ - Rolling Stone",
+    "src": "Rolling Stone",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajRHLXV2SU4zVTEtRWZHd3RQU0NxMWN1aUtCaGUyUzllZXFlV2JJSWFDU0pGWUM5eVYzTklVVGgxdjRmRU8zQ1pSM0Q0OExueTJYQ1Y0RG5qNzVUbTh0ekF3ZDVrZXBlMkExNjR3YU1ZU2IwYmh0YmNweGFOcEZmNTZ3ZERMOXdqVUpYYjdwMmswVThMQzFucVJfNjdLM3NB?oc=5",
+    "timestamp": "2026-10-25T13:14:45+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "Elvis Costello on Getting His Stage Name and Writing ‘Alison’ Rolling Stone",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Rolling Stone",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajRHLXV2SU4zVTEtRWZHd3RQU0NxMWN1aUtCaGUyUzllZXFlV2JJSWFDU0pGWUM5eVYzTklVVGgxdjRmRU8zQ1pSM0Q0OExueTJYQ1Y0RG5qNzVUbTh0ekF3ZDVrZXBlMkExNjR3YU1ZU2IwYmh0YmNweGFOcEZmNTZ3ZERMOXdqVUpYYjdwMmswVThMQzFucVJfNjdLM3NB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Belém acolhe primeira edição do 'Dinner of the Year numa mistura de alta gastronomia e música - SIC Notícias",
+    "src": "SIC Notícias",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaV9SODZwakgxRnJsTDN4ZTUxNVBqSmlFN0ppX2tydGpwVTlPTk0wcFJwNnA0RjVMUDNlejI1alBhUGUxQVV3ZFVLNEF2RW4tRS1ndEsyTWN2QW1EOWxNcEdTNVpQZjB6cVA2OEZYR3lCVjkwYWpIdldITnI0Z0VPOW9Zb0V1NkhwSVBwal9JSlVQZHdjbDlfRXlwS1ItM2pCTjVOeGN2SzlKQl9wVVRfOHNvbkhtTjdhQ29SV2pVenNNcjVwVHpDN0RmQ05TYmpqTnkwZEQ2VUl0dGlvM2xR?oc=5",
+    "timestamp": "2026-10-25T17:57:37+00:00",
+    "isoDate": "2026-10-25",
+    "date": "25 Out",
+    "d": "Belém acolhe primeira edição do 'Dinner of the Year numa mistura de alta gastronomia e música SIC Notícias",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "SIC Notícias",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaV9SODZwakgxRnJsTDN4ZTUxNVBqSmlFN0ppX2tydGpwVTlPTk0wcFJwNnA0RjVMUDNlejI1alBhUGUxQVV3ZFVLNEF2RW4tRS1ndEsyTWN2QW1EOWxNcEdTNVpQZjB6cVA2OEZYR3lCVjkwYWpIdldITnI0Z0VPOW9Zb0V1NkhwSVBwal9JSlVQZHdjbDlfRXlwS1ItM2pCTjVOeGN2SzlKQl9wVVRfOHNvbkhtTjdhQ29SV2pVenNNcjVwVHpDN0RmQ05TYmpqTnkwZEQ2VUl0dGlvM2xR?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Mental Cruelty",
+    "t": "Echoes Of A Forlorn Land",
+    "g": "core",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "24 Out",
+    "isoDate": "2026-10-24",
+    "url": "https://alterportal.net/2026_albums/190611-mental-cruelty-echoes-of-a-forlorn-land-2026.html",
+    "d": "Symphonic Blackened Deathcore / Melodic Death Metal / Folk",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190611-mental-cruelty-echoes-of-a-forlorn-land-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Dyya",
+    "t": "Too Tired To Be Dead",
+    "g": "electro",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "24 Out",
+    "isoDate": "2026-10-24",
+    "url": "https://alterportal.net/alternative/190642-dyya-too-tired-to-be-dead-single-2026.html",
+    "d": "Alternative Metal / Electronic / Female Vocal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190642-dyya-too-tired-to-be-dead-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
   },
   {
     "title": "‘Heelmatic’: Westside Gunn has announced His New Album Release - Daily Music Roll",
@@ -3161,17 +3436,17 @@
     "section": "core"
   },
   {
-    "title": "The disgusting truth behind Gibby Haynes 1985 Jimmy Carter encounter - dangerousminds.net",
-    "src": "dangerousminds.net",
+    "title": "The disgusting truth behind Gibby Haynes 1985 Jimmy Carter encounter - Dangerous Minds",
+    "src": "Dangerous Minds",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQak5paUZzOW5tXzVaWXdBemhEbFB3V3RKMHNxM215Z2loVFY2YWNRN05lbW1lQkMwOFo2RnQyMWNzNTNveXdSNk10dkhwLXlwVXcwd1BsM0ZsSGI1UTYtZkdtNXRTZGN4bzZtaUdpbHZzNHFIR2VaSWZkNzNKRFVnc0NMMkQ0cU85Q0lOblp3ZGxjU21BNjdtcjI5dVhjYVlUX3pqUVlYMA?oc=5",
     "timestamp": "2026-10-24T20:00:00+00:00",
     "isoDate": "2026-10-24",
     "date": "24 Out",
-    "d": "The disgusting truth behind Gibby Haynes 1985 Jimmy Carter encounter dangerousminds.net",
+    "d": "The disgusting truth behind Gibby Haynes 1985 Jimmy Carter encounter Dangerous Minds",
     "category": "core",
     "sources": [
       {
-        "name": "dangerousminds.net",
+        "name": "Dangerous Minds",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQak5paUZzOW5tXzVaWXdBemhEbFB3V3RKMHNxM215Z2loVFY2YWNRN05lbW1lQkMwOFo2RnQyMWNzNTNveXdSNk10dkhwLXlwVXcwd1BsM0ZsSGI1UTYtZkdtNXRTZGN4bzZtaUdpbHZzNHFIR2VaSWZkNzNKRFVnc0NMMkQ0cU85Q0lOblp3ZGxjU21BNjdtcjI5dVhjYVlUX3pqUVlYMA?oc=5"
       }
     ],
@@ -4813,7 +5088,7 @@
     "section": "buzz"
   },
   {
-    "b": "Tony Iommi",
+    "b": "Iommi",
     "t": "From the Dark",
     "g": "doom",
     "fmt": "Album",
@@ -9811,6 +10086,81 @@
     "section": "buzz"
   },
   {
+    "title": "GTA 6 Fans Left Devastated After Rockstar's Original Soundtrack Plans Leak Online - SVG",
+    "src": "SVG",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHdXUVloY3Q1UGdxUWRRS3B3eTRKZU54dFVpMkFCcTFRUXRfWk52bTJiZ0pKY3lwUGRocFlETUo1SVdPRXBqMWs5WmJLQlRudDBMbzVmSGtJSkZtYW80ZHZiTGo5S01od0FGVEVhNUw1Ullxb2FDS0lyRGJObFY2cTF4Wjhnb1FmRU9EeXM1SjBwLUd1LVdvLVR6VjJlVFdTeXc?oc=5",
+    "timestamp": "2026-10-23T15:41:26+00:00",
+    "isoDate": "2026-10-23",
+    "date": "23 Out",
+    "d": "GTA 6 Fans Left Devastated After Rockstar's Original Soundtrack Plans Leak Online SVG",
+    "category": "general",
+    "sources": [
+      {
+        "name": "SVG",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHdXUVloY3Q1UGdxUWRRS3B3eTRKZU54dFVpMkFCcTFRUXRfWk52bTJiZ0pKY3lwUGRocFlETUo1SVdPRXBqMWs5WmJLQlRudDBMbzVmSGtJSkZtYW80ZHZiTGo5S01od0FGVEVhNUw1Ullxb2FDS0lyRGJObFY2cTF4Wjhnb1FmRU9EeXM1SjBwLUd1LVdvLVR6VjJlVFdTeXc?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "After losing his son, Lil Jon found a new purpose - USA Today",
+    "src": "USA Today",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblIxcFVlYndXT2NjbmNMQkpYRjZhNy1tOVVuYUhualU0THJaMkxCVFhHUVdlLTRNTnlMT3VhSkxyYWlVTHVkaTRDMmdhVWw2UTNPbDU5anE0ZVBiOWZVOXU2eTRHX1FLLUZQZkNnNkhFU0JGNFdwNy1jdDZjdWV0ZldNNVFuQVdzLTU4R3VxbTROQ2FsMWJlLUhwY1E0TEc4YlJVOHhYcWRycWdGaW1VU01JMDktcC1Q?oc=5",
+    "timestamp": "2026-10-23T12:35:00+00:00",
+    "isoDate": "2026-10-23",
+    "date": "23 Out",
+    "d": "After losing his son, Lil Jon found a new purpose USA Today",
+    "category": "general",
+    "sources": [
+      {
+        "name": "USA Today",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblIxcFVlYndXT2NjbmNMQkpYRjZhNy1tOVVuYUhualU0THJaMkxCVFhHUVdlLTRNTnlMT3VhSkxyYWlVTHVkaTRDMmdhVWw2UTNPbDU5anE0ZVBiOWZVOXU2eTRHX1FLLUZQZkNnNkhFU0JGNFdwNy1jdDZjdWV0ZldNNVFuQVdzLTU4R3VxbTROQ2FsMWJlLUhwY1E0TEc4YlJVOHhYcWRycWdGaW1VU01JMDktcC1Q?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Temple Of Void Premiere New Single & Music Video \"Godless Cynic\" - Metal Underground.com",
+    "src": "Metal Underground.com",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyM24zbTJ2bDdTWFlWazRRTGZBdW44TjBkRWhhSUQ4QVJaSkVmUkZFNVVYU0VXa1poNTR1N2pHdFExVzZYYW4zWWFYaE9kcmZnR2F6V0Y2WTkyUEl5Vm5yZkRvRFpqMUV5X0o4UHM2YlQ?oc=5",
+    "timestamp": "2026-10-23T06:54:00+00:00",
+    "isoDate": "2026-10-23",
+    "date": "23 Out",
+    "d": "Temple Of Void Premiere New Single & Music Video \"Godless Cynic\" Metal Underground.com",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Underground.com",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyM24zbTJ2bDdTWFlWazRRTGZBdW44TjBkRWhhSUQ4QVJaSkVmUkZFNVVYU0VXa1poNTR1N2pHdFExVzZYYW4zWWFYaE9kcmZnR2F6V0Y2WTkyUEl5Vm5yZkRvRFpqMUV5X0o4UHM2YlQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
     "title": "A moment that changed me: I was devastated by a breakup – and saved by a sweaty moshpit - The Guardian",
     "src": "The Guardian",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZFlGVE9UM3FHUDR2eFd2cE1VYzRuMWJyTmdFNWJhX0FWc0QwS01HZnA3VmM1ZW11TFFaR2pfVl9xTFBxMWFGVF9KQ1FzVVVSdjBobFFKNWM5eXcxdXNkMFZfQzZDdFd3YlpDZGsxTFRQWVVraGZCVjZ1THd0OHVWd0VmWk5DcnZudklWTVhXY0ZqVW41bXQ3Tl9aUDFTaG9WTDNEYTN0MUF6QnY0M2VMSGNkVmg4U2E2cEhYQmNyXzJPajVsQUdZeWJIVlN6akFJYUI4?oc=5",
@@ -11818,7 +12168,7 @@
     "title": "Queens of the Stone Age Announce 2027 Tour With The Pixies",
     "src": "Metal Injection",
     "url": "https://metalinjection.net/tour-dates/queens-of-the-stone-age-announce-2027-tour-with-the-pixies",
-    "timestamp": "2026-10-22T15:39:46+00:00",
+    "timestamp": "2026-10-22T14:42:23+00:00",
     "isoDate": "2026-10-22",
     "date": "22 Out",
     "d": "Hear some very loud guitar music in a very big venue. The post Queens of the Stone Age Announce 2027 Tour With The Pixies appeared first on Metal Injection .",
@@ -11827,10 +12177,6 @@
       {
         "name": "Metal Injection",
         "url": "https://metalinjection.net/tour-dates/queens-of-the-stone-age-announce-2027-tour-with-the-pixies"
-      },
-      {
-        "name": "Metal Injection",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWszV05rZTZHbmFpRVUxdjdSZHdoTW1peHEtd2hBVGVRQ25kajV4dXlhdUlsNF9mWU93VDVXVEY4LXdoZ3JhMlFuRlRGWVE4R0V2clZ2YXc2ZUxvTmFBdXA1ajJKRlYzNXF5VkxxTDNGY0hvLUEtT3haVkw0QmpjalhfdkdhX3FYbDFHS1QyUTR1Y3kwUmtJdVdrVzM?oc=5"
       }
     ],
     "status": "official",
@@ -13237,7 +13583,7 @@
     "isoDate": "2026-10-22",
     "date": "22 Out",
     "d": "Beast In Black release official music video for \"Lost Children\" Chaoszine",
-    "category": "general",
+    "category": "metal",
     "sources": [
       {
         "name": "Chaoszine",
@@ -13252,7 +13598,7 @@
     "isCore": false,
     "star": false,
     "kind": "news",
-    "section": "buzz"
+    "section": "news"
   },
   {
     "title": "Tom Skerritt, Alien and Picket Fences Star, Dead at 93",
@@ -14515,31 +14861,6 @@
     "star": false,
     "kind": "news",
     "section": "news"
-  },
-  {
-    "title": "GTA 6 Fans Left Devastated After Rockstar's Original Soundtrack Plans Leak Online - SVG",
-    "src": "SVG",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHdXUVloY3Q1UGdxUWRRS3B3eTRKZU54dFVpMkFCcTFRUXRfWk52bTJiZ0pKY3lwUGRocFlETUo1SVdPRXBqMWs5WmJLQlRudDBMbzVmSGtJSkZtYW80ZHZiTGo5S01od0FGVEVhNUw1Ullxb2FDS0lyRGJObFY2cTF4Wjhnb1FmRU9EeXM1SjBwLUd1LVdvLVR6VjJlVFdTeXc?oc=5",
-    "timestamp": "2026-10-22T22:00:00+00:00",
-    "isoDate": "2026-10-22",
-    "date": "22 Out",
-    "d": "GTA 6 Fans Left Devastated After Rockstar's Original Soundtrack Plans Leak Online SVG",
-    "category": "general",
-    "sources": [
-      {
-        "name": "SVG",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHdXUVloY3Q1UGdxUWRRS3B3eTRKZU54dFVpMkFCcTFRUXRfWk52bTJiZ0pKY3lwUGRocFlETUo1SVdPRXBqMWs5WmJLQlRudDBMbzVmSGtJSkZtYW80ZHZiTGo5S01od0FGVEVhNUw1Ullxb2FDS0lyRGJObFY2cTF4Wjhnb1FmRU9EeXM1SjBwLUd1LVdvLVR6VjJlVFdTeXc?oc=5"
-      }
-    ],
-    "status": "rumor",
-    "confidence": "low",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "buzz"
   },
   {
     "title": "Charli XCX Will Appear in a Martin Scorsese Film",
@@ -16686,6 +17007,31 @@
     "section": "core"
   },
   {
+    "title": "CARNAVAL DE LUZ PRESENTS: THE GREATEST SHOW ON EARTH - U2.com",
+    "src": "U2.com",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSncxWTRBMjZhZWdqYU45Rjd0MU9YS3JDRWd0ZmVFOXlMbGk5RDdXVFRJY2d3Wi1NMVNlMzV4alJ3RlBtTGh2RHY5dGZmakxvV1FmVGJkeDI3alpacFkxMVdRVEp0X2VWY3JxQWczNlNBQnNfa3FMejZCdUEwYVowdHpPS2tEUzky?oc=5",
+    "timestamp": "2026-10-22T19:40:21+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "CARNAVAL DE LUZ PRESENTS: THE GREATEST SHOW ON EARTH U2.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "U2.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSncxWTRBMjZhZWdqYU45Rjd0MU9YS3JDRWd0ZmVFOXlMbGk5RDdXVFRJY2d3Wi1NMVNlMzV4alJ3RlBtTGh2RHY5dGZmakxvV1FmVGJkeDI3alpacFkxMVdRVEp0X2VWY3JxQWczNlNBQnNfa3FMejZCdUEwYVowdHpPS2tEUzky?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
     "title": "Listen: French Hardcore Band Headbussa Drops “Manhunt”",
     "src": "Metal Injection",
     "url": "https://metalinjection.net/new-music/listen-french-hardcore-band-headbussa-drops-manhunt",
@@ -16709,31 +17055,6 @@
     "star": false,
     "kind": "news",
     "section": "core"
-  },
-  {
-    "title": "After losing his son, Lil Jon found a new purpose - USA Today",
-    "src": "USA Today",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblIxcFVlYndXT2NjbmNMQkpYRjZhNy1tOVVuYUhualU0THJaMkxCVFhHUVdlLTRNTnlMT3VhSkxyYWlVTHVkaTRDMmdhVWw2UTNPbDU5anE0ZVBiOWZVOXU2eTRHX1FLLUZQZkNnNkhFU0JGNFdwNy1jdDZjdWV0ZldNNVFuQVdzLTU4R3VxbTROQ2FsMWJlLUhwY1E0TEc4YlJVOHhYcWRycWdGaW1VU01JMDktcC1Q?oc=5",
-    "timestamp": "2026-10-21T20:25:10+00:00",
-    "isoDate": "2026-10-21",
-    "date": "21 Out",
-    "d": "After losing his son, Lil Jon found a new purpose USA Today",
-    "category": "general",
-    "sources": [
-      {
-        "name": "USA Today",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQblIxcFVlYndXT2NjbmNMQkpYRjZhNy1tOVVuYUhualU0THJaMkxCVFhHUVdlLTRNTnlMT3VhSkxyYWlVTHVkaTRDMmdhVWw2UTNPbDU5anE0ZVBiOWZVOXU2eTRHX1FLLUZQZkNnNkhFU0JGNFdwNy1jdDZjdWV0ZldNNVFuQVdzLTU4R3VxbTROQ2FsMWJlLUhwY1E0TEc4YlJVOHhYcWRycWdGaW1VU01JMDktcC1Q?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "buzz"
   },
   {
     "title": "NICKELBACK ANNOUNCES THE EVERYTHING UNDER THE SUN TOUR - Metal Planet Music",
@@ -19006,7 +19327,7 @@
     "isoDate": "2026-10-21",
     "date": "21 Out",
     "d": "Rock am Ring and Rock im Park reveal second wave of bands Chaoszine",
-    "category": "metal",
+    "category": "core",
     "sources": [
       {
         "name": "Chaoszine",
@@ -19018,10 +19339,10 @@
     "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
-    "isCore": false,
+    "isCore": true,
     "star": false,
     "kind": "news",
-    "section": "news"
+    "section": "core"
   },
   {
     "title": "SHARON DEN ADEL On WITHIN TEMPTATION's Upcoming Album: 'It's Gonna Be Heavy In A Different Way'",
@@ -27460,6 +27781,10 @@
       {
         "name": "DN Brasil",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMGx1UVBiNjFOLTZzUG54akZmOWdwa19MN19YRVNWZmp1Ulllbk9uVzhMUnNGV3dDZ3VOY0JMVlpqT2JKdWFPSlozSlM1Z29ZOEphSzFOdEhxMm8wX1h1YUtjZnZ6cVozdHlQYU5kM1plVTAzVzJ5Xzhwekt1c3dKcWdxb2wzeDRaZ1R3MmMwc3lJN0d0VV9hSHd2eVAtb2pxbi1JNzB1M3ZDQXg5NDZEa0ZyS3V1RUo2T0RlMjZ6RWRCbzRJNmgwRQ?oc=5"
+      },
+      {
+        "name": "DN Brasil",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMkpteVg3emswck5IN1BDQlJ3YTl0QmM1c2lQNGhPYnVMdlhpclRpYU1wT29YXzNGckkzMkdkSWtCUndnSkFXRmRWaVV4RWktSFo2c0RaM3g2cDdGbEFSb1kzam1WNGM3bmNkazh1Q0ZMRWVrckFCc2k3c1ViOGNhT3cxeHdxXzhIYUp1ZzRteHFyQUFZVWFuX05QVlZCSS1YOTdOd2Qza3B0UQ?oc=5"
       }
     ],
     "status": "official",
@@ -35853,6 +36178,31 @@
     "section": "core"
   },
   {
+    "title": "Étienne Jarrier, o jovem maestro francês que quer fazer a revolução pela música - Público",
+    "src": "Público",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZlQ4d0hWUGpxeS1rem9LanlqSXQ3U3ZaM250dWk5bjlMSFYyLUhUTGtSMWxlU2dUYnhPb3hmN1RrN09qVUNEc1RpcGRnajBGVVhjRzNyV2NSWmZPRjI3QzRiRUlxdUhFa1Z2cWNwSEpLbGo0N3JBYmFyWlFqc09VS0ppRzB1SmluWFQ2X1dqODBfM01pbk9xWEgtVUlCRGVxM1VoQXgtT3NEMmtLVGh6SzhjREhqQQ?oc=5",
+    "timestamp": "2026-10-19T20:26:25+00:00",
+    "isoDate": "2026-10-19",
+    "date": "19 Out",
+    "d": "Étienne Jarrier, o jovem maestro francês que quer fazer a revolução pela música Público",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Público",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZlQ4d0hWUGpxeS1rem9LanlqSXQ3U3ZaM250dWk5bjlMSFYyLUhUTGtSMWxlU2dUYnhPb3hmN1RrN09qVUNEc1RpcGRnajBGVVhjRzNyV2NSWmZPRjI3QzRiRUlxdUhFa1Z2cWNwSEpLbGo0N3JBYmFyWlFqc09VS0ppRzB1SmluWFQ2X1dqODBfM01pbk9xWEgtVUlCRGVxM1VoQXgtT3NEMmtLVGh6SzhjREhqQQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
     "title": "Heavy metal turned folklore into modern hits, from Led Zeppelin to Black Sabbath - Daily Mirror",
     "src": "Daily Mirror",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY3RPVVl6NlkxUlZQOGNiZFVHd0dDYmpadUd6b2hKb3RMUDRFeFMtRGFDcVdUNGxVMmZjRFNYbEM0MEQ0cEEyd2hLV1Z5TGRJYzNvQUd1THUtVGtWNUFibTZwVzBDYmNoSXVtMUZDSUV1LTl6QzZCQTE2dGRONF9jRllWeGUwdw?oc=5",
@@ -40179,31 +40529,6 @@
     "star": false,
     "kind": "news",
     "section": "pt"
-  },
-  {
-    "title": "CARNAVAL DE LUZ PRESENTS: THE GREATEST SHOW ON EARTH - U2.com",
-    "src": "U2.com",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSncxWTRBMjZhZWdqYU45Rjd0MU9YS3JDRWd0ZmVFOXlMbGk5RDdXVFRJY2d3Wi1NMVNlMzV4alJ3RlBtTGh2RHY5dGZmakxvV1FmVGJkeDI3alpacFkxMVdRVEp0X2VWY3JxQWczNlNBQnNfa3FMejZCdUEwYVowdHpPS2tEUzky?oc=5",
-    "timestamp": "2026-10-17T16:44:21+00:00",
-    "isoDate": "2026-10-17",
-    "date": "17 Out",
-    "d": "CARNAVAL DE LUZ PRESENTS: THE GREATEST SHOW ON EARTH U2.com",
-    "category": "general",
-    "sources": [
-      {
-        "name": "U2.com",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSncxWTRBMjZhZWdqYU45Rjd0MU9YS3JDRWd0ZmVFOXlMbGk5RDdXVFRJY2d3Wi1NMVNlMzV4alJ3RlBtTGh2RHY5dGZmakxvV1FmVGJkeDI3alpacFkxMVdRVEp0X2VWY3JxQWczNlNBQnNfa3FMejZCdUEwYVowdHpPS2tEUzky?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "buzz"
   },
   {
     "title": "大関 (Ōzeki) - 大関 | Self-released 2026 | Full 7\" - YouTube",
