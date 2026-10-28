@@ -71,10 +71,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -154,66 +154,6 @@
     "section": "core"
   },
   {
-    "b": "Supreme Court",
-    "t": "Full of Unsaid Words",
-    "g": "heavy",
-    "fmt": "Album",
-    "lbl": "Alterportal",
-    "date": "28 Out",
-    "isoDate": "2026-10-28",
-    "url": "https://alterportal.net/2026_albums/190653-supreme-court-full-of-unsaid-words-2026.html",
-    "d": "EBM / Dark Electro",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/2026_albums/190653-supreme-court-full-of-unsaid-words-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
-    "b": "Stabbing Westward",
-    "t": "Wither ReWired",
-    "g": "indus",
-    "fmt": "Album",
-    "lbl": "Alterportal",
-    "date": "28 Out",
-    "isoDate": "2026-10-28",
-    "url": "https://alterportal.net/2026_albums/190654-stabbing-westward-wither-rewired-2026.html",
-    "d": "Industrial Rock / Alternative Rock",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/2026_albums/190654-stabbing-westward-wither-rewired-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
-    "b": "Quand",
-    "t": "Weit Von Hier",
-    "g": "indus",
-    "fmt": "Album",
-    "lbl": "Alterportal",
-    "date": "28 Out",
-    "isoDate": "2026-10-28",
-    "url": "https://alterportal.net/2026_albums/190652-quand-weit-von-hier-2026.html",
-    "d": "Synthpop / Darkwave",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/2026_albums/190652-quand-weit-von-hier-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
     "b": "One Dimensional Creatures",
     "t": "Please Bleed in Silence",
     "g": "core",
@@ -233,66 +173,6 @@
     "star": false,
     "kind": "release",
     "section": "recent"
-  },
-  {
-    "b": "Octolab",
-    "t": "Waiting For A Better Ending",
-    "g": "indus",
-    "fmt": "Album",
-    "lbl": "Alterportal",
-    "date": "28 Out",
-    "isoDate": "2026-10-28",
-    "url": "https://alterportal.net/2026_albums/190651-octolab-waiting-for-a-better-ending-2026.html",
-    "d": "Synthpop / Industrial Pop",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/2026_albums/190651-octolab-waiting-for-a-better-ending-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
-    "b": "Ghostemane",
-    "t": "AM:FM",
-    "g": "core",
-    "fmt": "Album",
-    "lbl": "Alterportal",
-    "date": "28 Out",
-    "isoDate": "2026-10-28",
-    "url": "https://alterportal.net/2026_albums/190650-ghostemane-amfm-2026.html",
-    "d": "Rapcore / Trap / Metalcore / Industrial Hip-Hop",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/2026_albums/190650-ghostemane-amfm-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
-    "b": "Frontierer",
-    "t": "Ultraviolet Parasite",
-    "g": "core",
-    "fmt": "Album",
-    "lbl": "Alterportal",
-    "date": "28 Out",
-    "isoDate": "2026-10-28",
-    "url": "https://alterportal.net/2026_albums/190656-frontierer-ultraviolet-parasite-2026.html",
-    "d": "Mathcore",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/2026_albums/190656-frontierer-ultraviolet-parasite-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
   },
   {
     "title": "Interview - Aaron Lewis Opens Up About Staind's Success",
@@ -812,10 +692,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1187,10 +1067,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1212,10 +1092,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1345,86 +1225,6 @@
     "section": "rev"
   },
   {
-    "b": "The Hardkiss",
-    "t": "Not This Time (feat. Jennifer Haben of Beyond The Black)",
-    "g": "electro",
-    "fmt": "Single",
-    "lbl": "Alterportal",
-    "date": "28 Out",
-    "isoDate": "2026-10-28",
-    "url": "https://alterportal.net/alternative/190658-the-hardkiss-not-this-time-feat-jennifer-haben-of-beyond-the-black-single-2026.html",
-    "d": "Alternative Metal / Electronic / Female Vocal",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/alternative/190658-the-hardkiss-not-this-time-feat-jennifer-haben-of-beyond-the-black-single-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
-    "b": "Night Rider",
-    "t": "Catalyst",
-    "g": "core",
-    "fmt": "Single",
-    "lbl": "Alterportal",
-    "date": "28 Out",
-    "isoDate": "2026-10-28",
-    "url": "https://alterportal.net/alternative/190659-night-rider-catalyst-single-2026.html",
-    "d": "Alternative Metal / Progressive Metalcore / Synthwave",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/alternative/190659-night-rider-catalyst-single-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
-    "b": "Kingdom Collapse",
-    "t": "Survivor",
-    "g": "heavy",
-    "fmt": "Album",
-    "lbl": "Alterportal",
-    "date": "28 Out",
-    "isoDate": "2026-10-28",
-    "url": "https://alterportal.net/2026_albums/190660-kingdom-collapse-survivor-2026.html",
-    "d": "Стиль:",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/2026_albums/190660-kingdom-collapse-survivor-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
-    "b": "Enter Shikari",
-    "t": "Lightyears",
-    "g": "rock",
-    "fmt": "Single",
-    "lbl": "Alterportal",
-    "date": "28 Out",
-    "isoDate": "2026-10-28",
-    "url": "https://alterportal.net/alternative/190657-enter-shikari-lightyears-single-2026.html",
-    "d": "Alternative Rock / Experimental",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/alternative/190657-enter-shikari-lightyears-single-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
     "title": "Metal Band's Ugly Breakup Turns Public as Fired Musicians Accuse Founder of Toxic Behavior - VICE",
     "src": "VICE",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVGdkdXF6MXBwVzNTNTB0RWNtd20zUGVKLTdscUpmQ3laaUlQUmwyVTlIY05tZUdtZW1DMmY0SjdOUUZsZkRneXBFOWJac01nanlsd1k1NFYyQ3NhWjJueG1USlRZM2VJNURKb3c2Z3BPbDR1b1V6cXFrT3ZSZ1lrLW5oazZCOFZfTUFXQm84VXJINmRfVmVWQzJhZ1ZqOFZZUHFDT1o1VzFadjNmSnc5V3lGbVRsX21lUzNDSVhxbw?oc=5",
@@ -1442,10 +1242,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -1492,10 +1292,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -1517,10 +1317,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -1542,10 +1342,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -1567,10 +1367,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -1592,10 +1392,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -1642,10 +1442,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -1667,10 +1467,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -1692,10 +1492,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -1817,10 +1617,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1842,10 +1642,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1917,10 +1717,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2017,10 +1817,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2042,10 +1842,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2067,10 +1867,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2117,10 +1917,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2167,10 +1967,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2192,10 +1992,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2217,10 +2017,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2242,10 +2042,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2267,10 +2067,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2292,10 +2092,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2342,10 +2142,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2367,10 +2167,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2417,10 +2217,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2442,10 +2242,10 @@
     "status": "rumor",
     "confidence": "medium",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2467,21 +2267,21 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
   {
-    "title": "Jennifer Lopez to Release New Single ‘Proof of Love’: ‘It’s a Happy Dance Song’ That Also Addresses ‘Pain and Grief When Someone’s Gone’ (EXCLUSIVE) - Variety",
+    "title": "Jennifer Lopez Releasing New Song 'Proof of Love' - Variety",
     "src": "Variety",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVJXU3dGRXRjTzVhUVFNWUM3RW8xLS14TzFXSXNNY2Z5WmRwTFVDT3NwVFlGNTFYZ3c0S21yWXk1SjNxelNWbVAtM1IwZURoY3lZQ2VRWWpNellhSDgwRHNhNVlLVUVMaVd3eFI0RDl1NEswYnk2Vk1pNUlaTnRxTzF3cUYtUnYyQXQtMzVrUlRzU0JJMTNWNkpZbw?oc=5",
     "timestamp": "2026-10-28T13:00:00+00:00",
     "isoDate": "2026-10-28",
     "date": "28 Out",
-    "d": "Jennifer Lopez to Release New Single ‘Proof of Love’: ‘It’s a Happy Dance Song’ That Also Addresses ‘Pain and Grief When Someone’s Gone’ (EXCLUSIVE) Variety",
+    "d": "Jennifer Lopez Releasing New Song 'Proof of Love' Variety",
     "category": "general",
     "sources": [
       {
@@ -2492,10 +2292,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2628,7 +2428,7 @@
     "title": "Conheces esta aldeia portuguesa \"saída de um conto de Natal”? O que os habitantes fazem nestas ruas é fascinante - versa - lifestyle",
     "src": "versa - lifestyle",
     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNVVR6c0x0Q3R2SFQxLUxzcW1fVzRFXzJVeDhEWWEtbHJWN2JueEVSV3ZyMW5Rb3p3RUlPRFoxY0E0RWhPWVlBZ3JsQ0l2U3FUbnVieVFVSUduNkE0eXV6S0FMMHJUNWEydm9Rd2g1S1E2NlZBOHdQTzRnLW9NejFlYmhGTm5jcW15cklBLTRCSjR1LW9sNnN4cFYzTEZEZFdBRi02RVFIY3oyZ0wtNVJuQVFZcUNzNEtTaEdFYWJiRkI5dVZBUkpyM2s4ZWpESEhQT2dGT2djMTVaMWM3UG9wVlBnOXJyTmlvSnNfQmVWQVN4SVhYdDQzTXRqbWc1d3FRT0hFT2VSdw?oc=5",
-    "timestamp": "2026-10-28T15:28:26+00:00",
+    "timestamp": "2026-10-28T15:30:57+00:00",
     "isoDate": "2026-10-28",
     "date": "28 Out",
     "d": "Conheces esta aldeia portuguesa \"saída de um conto de Natal”? O que os habitantes fazem nestas ruas é fascinante versa - lifestyle",
@@ -2642,10 +2442,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -2692,10 +2492,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -2717,10 +2517,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -2792,10 +2592,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -2838,26 +2638,6 @@
     "releaseKey": "great falls|the bite that grows up review",
     "kind": "review",
     "section": "rev"
-  },
-  {
-    "b": "Peyton Marie",
-    "t": "Pulp Horror (ЕР)",
-    "g": "indus",
-    "fmt": "Album",
-    "lbl": "Alterportal",
-    "date": "28 Out",
-    "isoDate": "2026-10-28",
-    "url": "https://alterportal.net/2026_albums/190661-peyton-marie-pulp-horror-er-2026.html",
-    "d": "Alternative Rock / Industrial Rock / Female Vocal",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/2026_albums/190661-peyton-marie-pulp-horror-er-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
   },
   {
     "b": "Black Sheep Wall",
@@ -3373,10 +3153,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -3398,10 +3178,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -3423,10 +3203,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -3977,10 +3757,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -4002,10 +3782,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -4027,10 +3807,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -4835,13 +4615,13 @@
     "section": "buzz"
   },
   {
-    "title": "Jorja Smith Asks ‘What Are The Odds’ With Album, Tour, And Evolution - Forbes",
+    "title": "Jorja Smith Asks ‘What Are The Odds’ With Album, Tour And Evolution - Forbes",
     "src": "Forbes",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMlQwOG41YmJDSmdfc1E5b1BvVXJTLTVsdVRyYzg2ZUFaZ1FjYmkxZEJqVDlkLUE2UDZBbEYxZ0hRNFotd0FobEIxRjVQeW81RjRKZ1ctdDVDSmFFbW5yLWNoZ2JISEhBclF3YmhseTdwYkVXMkh1NTlRVGRmTFhOc2lURTJLWUtBMkVPZmxfRmczSjhlR3ZFekhjN0YxR2pteW9wUm9qV3lZX0RzSHhlb3h3Y1pGd0MwZXc?oc=5",
-    "timestamp": "2026-10-28T19:21:25+00:00",
+    "timestamp": "2026-10-28T18:14:14+00:00",
     "isoDate": "2026-10-28",
     "date": "28 Out",
-    "d": "Jorja Smith Asks ‘What Are The Odds’ With Album, Tour, And Evolution Forbes",
+    "d": "Jorja Smith Asks ‘What Are The Odds’ With Album, Tour And Evolution Forbes",
     "category": "general",
     "sources": [
       {
@@ -4922,6 +4702,10 @@
       {
         "name": "Pitchfork",
         "url": "https://pitchfork.com/story/diiv-announce-2027-world-tour/"
+      },
+      {
+        "name": "Pitchfork",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YMWNsbll2dTJKWnp6dGV6eWZ4U0U2ajVjY3pnZGU1akVHNHJPdjhOaFNGaXRNdlA4cnJDVDRkc19nS29BNDJJOGFtSTlFUmFHTThMRXYzMUlOQ2cweVhrUEJSakZnMWhqdVE?oc=5"
       }
     ],
     "status": "official",
@@ -5287,6 +5071,1147 @@
     "star": true,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "b": "Ideation",
+    "t": "Hatred for Your Kind",
+    "g": "core",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "28 Out",
+    "isoDate": "2026-10-28",
+    "url": "https://musicbrainz.org/release-group/1e4236ca-8ba4-4caf-948e-427d5cf47b96",
+    "d": "hardcore punk",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/1e4236ca-8ba4-4caf-948e-427d5cf47b96"
+      }
+    ],
+    "mbid": "1e4236ca-8ba4-4caf-948e-427d5cf47b96",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "title": "Poison The Well Announce January Shows With Rosasharin & xSERAPHx",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/28/news/poison-the-well-announce-january-shows-with-rosasharin-xseraphx/",
+    "timestamp": "2026-10-28T23:12:36+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "Two dates just ahead of their 'FYA Fest' set. The post Poison The Well Announce January Shows With Rosasharin & xSERAPHx appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/28/news/poison-the-well-announce-january-shows-with-rosasharin-xseraphx/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Al Jourgensen Confirms The Venue And Date For Ministry’s Final Live Show",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/28/news/al-jourgensen-confirms-the-venue-and-date-for-ministrys-final-live-show/",
+    "timestamp": "2026-10-28T23:06:42+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "As it so happens, a multi-year farewell tour ala Megadeth or Sepultura is not planned. The post Al Jourgensen Confirms The Venue And Date For Ministry’s Final Live Show appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/28/news/al-jourgensen-confirms-the-venue-and-date-for-ministrys-final-live-show/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Crowquill’s Debut Album “Slept With Cannula” Due In November Via DAZE & HardLore",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/28/news/crowquills-debut-album-slept-with-cannula-due-in-november-via-daze-hardlore/",
+    "timestamp": "2026-10-28T22:44:40+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "You can stream the crushing \"Cannula\" from it now. The post Crowquill’s Debut Album “Slept With Cannula” Due In November Via DAZE & HardLore appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/28/news/crowquills-debut-album-slept-with-cannula-due-in-november-via-daze-hardlore/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "System Of A Down, Metallica, Deftones, Tool, Nine Inch Nails, Etc. Rank On Rolling Stone’s ‘The 200 Greatest Rock Songs Of The 21st Century So Far’",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/28/news/system-of-a-down-metallica-deftones-tool-nine-inch-nails-etc-rank-on-rolling-stones-the-200-greatest-rock-songs-of-the-21st-century-so-far/",
+    "timestamp": "2026-10-28T22:27:31+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "Incubus, Baroness, Slipknot, Black Sabbath, Gojira, Linkin Park, Converge and more also made the list. The post System Of A Down, Metallica, Deftones, Tool, Nine Inch Nails, Etc. Rank On Rolling Stone’s ‘The 200 Greatest Rock Songs Of The 21st Century So Far’ appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/28/news/system-of-a-down-metallica-deftones-tool-nine-inch-nails-etc-rank-on-rolling-stones-the-200-greatest-rock-songs-of-the-21st-century-so-far/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "punk rock films - 白鲸出海",
+    "src": "白鲸出海",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvUXBkeWhfVVMyUE5mRnFISWlQWWRGSFNvYVRCTHNGNVEwa3o5S25ncXpRXzB2Y2hvS1pjcF9YdlpHbUZEWVY4aDQ1ZnVkRWpJYi1iS2ZFSG4xcnpZbnc0?oc=5",
+    "timestamp": "2026-10-28T22:20:32+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "punk rock films 白鲸出海",
+    "category": "core",
+    "sources": [
+      {
+        "name": "白鲸出海",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvUXBkeWhfVVMyUE5mRnFISWlQWWRGSFNvYVRCTHNGNVEwa3o5S25ncXpRXzB2Y2hvS1pjcF9YdlpHbUZEWVY4aDQ1ZnVkRWpJYi1iS2ZFSG4xcnpZbnc0?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "John Bush To Celebrate His Anthrax Era Live In Europe & The UK Next Year",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/28/news/john-bush-to-celebrate-his-anthrax-era-live-in-europe-the-uk-next-year/",
+    "timestamp": "2026-10-28T21:46:52+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "It will be the first time he will bring that show out that way. The post John Bush To Celebrate His Anthrax Era Live In Europe & The UK Next Year appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/28/news/john-bush-to-celebrate-his-anthrax-era-live-in-europe-the-uk-next-year/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "> Skid Row will be announcing their new Lead Singer soon, the band teased followers today on social media with a short audio / video clip… are you ready? - Metal Sludge",
+    "src": "Metal Sludge",
+    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPZXRZQTViNlZseTJPUnNPQmxDNC1Pc1ZpSWpPQVZ1Rkg5SFV1SXRJS1VFWHh1UlFqcXF3RFdnMmxrMm0xay01U0hUTzdrb2s2cVJvZk1Qd3VpRFNCa01YYjNwU0RxYjVFX0Jpb25ybVdpbWxtd3hjV21jQzlZNWNOcmlsTE5HTTFmbHdJekhpWXN6RFRLR2RMeFo1aHgzbTVOalZ5b05oOTdhd0h5U2xUM0dvTTBRRlI5WFBqV0dUOVhPOTJhRmFveHZvR3dOcWtBN2tBODVxUzNHM1o3LUpTWTNYMEdpOUktc3h3MkR2YXFBelpyRGV0TFR2Zkp0MFZ1UnFXVFRIZEpXREo5Z2l1bGpKMFBZbjBfRjQ0?oc=5",
+    "timestamp": "2026-10-28T21:33:45+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "> Skid Row will be announcing their new Lead Singer soon, the band teased followers today on social media with a short audio / video clip… are you ready? Metal Sludge",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Sludge",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPZXRZQTViNlZseTJPUnNPQmxDNC1Pc1ZpSWpPQVZ1Rkg5SFV1SXRJS1VFWHh1UlFqcXF3RFdnMmxrMm0xay01U0hUTzdrb2s2cVJvZk1Qd3VpRFNCa01YYjNwU0RxYjVFX0Jpb25ybVdpbWxtd3hjV21jQzlZNWNOcmlsTE5HTTFmbHdJekhpWXN6RFRLR2RMeFo1aHgzbTVOalZ5b05oOTdhd0h5U2xUM0dvTTBRRlI5WFBqV0dUOVhPOTJhRmFveHZvR3dOcWtBN2tBODVxUzNHM1o3LUpTWTNYMEdpOUktc3h3MkR2YXFBelpyRGV0TFR2Zkp0MFZ1UnFXVFRIZEpXREo5Z2l1bGpKMFBZbjBfRjQ0?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Face Yourself To Record Their Debut Album In November",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/28/news/face-yourself-to-record-their-debut-album-in-november/",
+    "timestamp": "2026-10-28T21:30:52+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "They've also tapped a noted metalcore producer. The post Face Yourself To Record Their Debut Album In November appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/28/news/face-yourself-to-record-their-debut-album-in-november/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "AL JOURGENSEN Reveals Date And Venue For MINISTRY's Final Concert",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/al-jourgensen-reveals-date-and-venue-for-ministrys-final-concert",
+    "timestamp": "2026-10-28T21:24:28+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "Industrial-metal pioneer Al Jourgensen recently sat down with Lyndsey Parker and a bottle of wine at Licorice Pizza Records for a deep dive into MINISTRY's full-circle journey: from \"With Sympathy\", the 1982 synthpop album he disavowed for years, to \"Hate To Go (Take Out Or Delivery)\", MINISTRY's up...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/al-jourgensen-reveals-date-and-venue-for-ministrys-final-concert"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "August Burns Red Issue “Behemoth” Live Video From May 2026 Philadelphia Show",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/28/news/august-burns-red-issue-behemoth-live-video-from-may-2026-philadelphia-show/",
+    "timestamp": "2026-10-28T21:14:10+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "As they prepare for their annual seasonal show. The post August Burns Red Issue “Behemoth” Live Video From May 2026 Philadelphia Show appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/28/news/august-burns-red-issue-behemoth-live-video-from-may-2026-philadelphia-show/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Mirrors Release “Home” Music Video",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/28/news/mirrors-release-home-music-video/",
+    "timestamp": "2026-10-28T21:00:08+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "The Aussie melodic metalcore band recently signed with Greyscale Records. The post Mirrors Release “Home” Music Video appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/28/news/mirrors-release-home-music-video/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Tom Morello’s “Everyone Gets Everything They Want” Music Video Premieres",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/28/news/tom-morellos-everyone-gets-everything-they-want-music-video-premieres/",
+    "timestamp": "2026-10-28T20:54:44+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "The title track to his new rock album. The post Tom Morello’s “Everyone Gets Everything They Want” Music Video Premieres appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/28/news/tom-morellos-everyone-gets-everything-they-want-music-video-premieres/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "My Chemical Romance Fans Find Rare Art in 'Black Parade' Albums",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/my-chemical-romance-black-parade-art-variant/",
+    "timestamp": "2026-10-28T20:47:39+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "Some My Chemical Romance fans have reportedly received 1-of-1 art variants from one of the band members upon opening the albums. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/my-chemical-romance-black-parade-art-variant/"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "medium",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "TOM MORELLO Releases Music Video For Title Track Of 'Everyone Gets Everything They Want' Album",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/tom-morello-releases-music-video-for-title-track-of-everyone-gets-everything-they-want-album",
+    "timestamp": "2026-10-28T20:40:02+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "Legendary musician, guitarist and songwriter Tom Morello has unveiled the official Isabella Margolis-directed music video for the title track of his latest full-length project, and first solo rock album, \"Everyone Gets Everything They Want\". The LP, which arrived on September 25 via Mom + Pop Music,...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/tom-morello-releases-music-video-for-title-track-of-everyone-gets-everything-they-want-album"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch: Entheos Release New Fiery Video for \"Hell Is A Part Of Me\"",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/new-music/watch-entheos-release-new-fiery-video-for-hell-is-a-part-of-me",
+    "timestamp": "2026-10-28T19:26:43+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "Coming off 'Empty On The Inside,' out now on Metal Blade Records. The post Watch: Entheos Release New Fiery Video for \"Hell Is A Part Of Me\" appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/new-music/watch-entheos-release-new-fiery-video-for-hell-is-a-part-of-me"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "I saw Turnstile on the Mall and I have thoughts - Greater Greater Washington",
+    "src": "Greater Greater Washington",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1pkZWtuZUtHQnREelo5QUtBLWthdW51aFhJU3FId2NRdTYwb3NidVZWUXlHVWg3bXB4aENOb0tDb0lydjY4S0c0QTdZVHJWZzc2VGd2QUJKMS0xQlJOMlEwQS1yR3pydllOUEc0OGlXWnJqeGZWTmN1ek83cjFGVzNwSjTSAUpBVV95cUxQVHE0U0pIai1UQ2x2ZFBQOEhMeWp0TzBMUXFUNXkyeFN3REZZbEM1MXhqYTRLbHF3VHN3N0d2VEFRWlNNSEhTemdmQQ?oc=5",
+    "timestamp": "2026-10-28T19:23:37+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "I saw Turnstile on the Mall and I have thoughts Greater Greater Washington",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Greater Greater Washington",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1pkZWtuZUtHQnREelo5QUtBLWthdW51aFhJU3FId2NRdTYwb3NidVZWUXlHVWg3bXB4aENOb0tDb0lydjY4S0c0QTdZVHJWZzc2VGd2QUJKMS0xQlJOMlEwQS1yR3pydllOUEc0OGlXWnJqeGZWTmN1ek83cjFGVzNwSjTSAUpBVV95cUxQVHE0U0pIai1UQ2x2ZFBQOEhMeWp0TzBMUXFUNXkyeFN3REZZbEM1MXhqYTRLbHF3VHN3N0d2VEFRWlNNSEhTemdmQQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Finnish alternative metallers Stråle announce new studio album “Ephemera” - Chaoszine",
+    "src": "Chaoszine",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdGRHLTlXem80aHNRNW5zc0w3RDNnbFhCYWE3c2s5eE9VbHhuRXVwdWE4VGZyeGc1NVN2cmJHRGFtV1BoYlktTmVHd3VRa3QzSGJYYTR0OXBHYVdtellUOEJ1WHk1YmJJOHMyOXpqLU0yaG95NU9maUpvYjJwNWF2U24tZGFVT0ZFVHRlYVNQNGh2SUZ3VnY3TjdR?oc=5",
+    "timestamp": "2026-10-28T15:53:16+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "Finnish alternative metallers Stråle announce new studio album “Ephemera” Chaoszine",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Chaoszine",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdGRHLTlXem80aHNRNW5zc0w3RDNnbFhCYWE3c2s5eE9VbHhuRXVwdWE4VGZyeGc1NVN2cmJHRGFtV1BoYlktTmVHd3VRa3QzSGJYYTR0OXBHYVdtellUOEJ1WHk1YmJJOHMyOXpqLU0yaG95NU9maUpvYjJwNWF2U24tZGFVT0ZFVHRlYVNQNGh2SUZ3VnY3TjdR?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Do I Suck For…Lying To My Dad About Liking Pantera For The Sake Of Bonding?",
+    "src": "MetalSucks",
+    "url": "https://www.metalsucks.net/2026/10/28/do-i-suck-for-lying-to-my-dad-about-liking-pantera-for-the-sake-of-bonding/",
+    "timestamp": "2026-10-28T14:00:00+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "\"Do I Suck?\" is MetalSucks' new Wednesday column, reporting on the scene's burning AITA questions. The post Do I Suck For…Lying To My Dad About Liking Pantera For The Sake Of Bonding? appeared first on MetalSucks .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "MetalSucks",
+        "url": "https://www.metalsucks.net/2026/10/28/do-i-suck-for-lying-to-my-dad-about-liking-pantera-for-the-sake-of-bonding/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Iron Maiden’s Bruce Dickinson Announces Massive 2027 Solo Tour - 1077 WRKR",
+    "src": "1077 WRKR",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHaEltWE9fSjBXWHp1dGl0Z0hsd1F4NDdmckhMNEN3d242Y0FpcmhkQ3M4UF9qS0pRRzA4eXA0QU4yWUwwek1hVUJuNWZQVm9oV2JmS3doVWY0U1RDT3pEeTM0RQ?oc=5",
+    "timestamp": "2026-10-28T12:26:26+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "Iron Maiden’s Bruce Dickinson Announces Massive 2027 Solo Tour 1077 WRKR",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "1077 WRKR",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHaEltWE9fSjBXWHp1dGl0Z0hsd1F4NDdmckhMNEN3d242Y0FpcmhkQ3M4UF9qS0pRRzA4eXA0QU4yWUwwek1hVUJuNWZQVm9oV2JmS3doVWY0U1RDT3pEeTM0RQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "LITA FORD releases new single ‘Dracula’ - Arrow Lords of Metal",
+    "src": "Arrow Lords of Metal",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VWllvUUJzblo1cEVJWUZXajYyQ1NVQUg3TmFEVkhQXzVSZ1VpUUVlQ1lKYzd1OXYzTTZLMG9tcHdZU0I5NDRNUHdOb1k1TXdqMUk3RDRQY3ltMWF2aUp1NHg4TEw?oc=5",
+    "timestamp": "2026-10-28T07:10:52+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "LITA FORD releases new single ‘Dracula’ Arrow Lords of Metal",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Arrow Lords of Metal",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VWllvUUJzblo1cEVJWUZXajYyQ1NVQUg3TmFEVkhQXzVSZ1VpUUVlQ1lKYzd1OXYzTTZLMG9tcHdZU0I5NDRNUHdOb1k1TXdqMUk3RDRQY3ltMWF2aUp1NHg4TEw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Forrest Frank Sets Release Date for New Album ‘The Jesus Generation’ - Billboard",
+    "src": "Billboard",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWEIwN0NFeEZtN2twNmlmaE12RFFQcWk4T2FQSkxsVEEwbmtSX0Z6TmVoT0RFWjlYZTJXTjdPRFZxVFBMU1I1RFdRd3U4Vk9jZWx1bHF2UXpLOEVqa1V6cU1LZ3YxQ1NSSzkxbHJrOXZhQ3JrMGtCMEJiQVdGNnZuLWcxNHRXaUZIc1VpblUtZHJFbVFkTFZrczdoSHZ6RWhPSGpfYmJFeDctTmJf?oc=5",
+    "timestamp": "2026-10-28T23:38:33+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "Forrest Frank Sets Release Date for New Album ‘The Jesus Generation’ Billboard",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Billboard",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWEIwN0NFeEZtN2twNmlmaE12RFFQcWk4T2FQSkxsVEEwbmtSX0Z6TmVoT0RFWjlYZTJXTjdPRFZxVFBMU1I1RFdRd3U4Vk9jZWx1bHF2UXpLOEVqa1V6cU1LZ3YxQ1NSSzkxbHJrOXZhQ3JrMGtCMEJiQVdGNnZuLWcxNHRXaUZIc1VpblUtZHJFbVFkTFZrczdoSHZ6RWhPSGpfYmJFeDctTmJf?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Noblesville’s Front Porch Records makes it easier for artists to release music - Current Publishing",
+    "src": "Current Publishing",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPclM0d0RsSV9jUG5ERUVmVVVscW00ek1zWk1KMkpEN1h3Vjg5dlFLMDVCUkFJYzlrSUtSLXZYMVBvbFA1YzBiRS0tckMzZ3JxOVJzZlM0bHV0THdpNWVNdlNsX2JudnlKcm9OZ0EyZTE1VE1DUm1PM25WOWNwYVFhZXNXVVVrOVVfWlYxWGEtaEE0Q0hkeHZIUUc3UW50RnZWZE5KRXFxQ3FmLWQwMlBVQTRxcE5Edw?oc=5",
+    "timestamp": "2026-10-28T23:34:06+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "Noblesville’s Front Porch Records makes it easier for artists to release music Current Publishing",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Current Publishing",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPclM0d0RsSV9jUG5ERUVmVVVscW00ek1zWk1KMkpEN1h3Vjg5dlFLMDVCUkFJYzlrSUtSLXZYMVBvbFA1YzBiRS0tckMzZ3JxOVJzZlM0bHV0THdpNWVNdlNsX2JudnlKcm9OZ0EyZTE1VE1DUm1PM25WOWNwYVFhZXNXVVVrOVVfWlYxWGEtaEE0Q0hkeHZIUUc3UW50RnZWZE5KRXFxQ3FmLWQwMlBVQTRxcE5Edw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "5 Seconds of Summer Brisbane Review: Australian Tour Opener - Rolling Stone Australia",
+    "src": "Rolling Stone Australia",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMEZvcXdGMGJ5NTZlSUhpMGxMN3E1cm1CWjg3Q3NOUnNTWXJ1YWJnNzRMV0JfT0o0TGNaNXRKRHlVeURKbWJtODFxdHJVMjR1aUYzTU4wSFMzTjJ3cm5DSzdxNjB2S3hhclNpa2dhYm93cHZlNU9SNmlWSS11VWt6d08xUGFmN2JCSHhwVjdtR2ktVEF2S1FxRk5rc25TaVlTYlc1QW5R?oc=5",
+    "timestamp": "2026-10-28T22:53:15+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "5 Seconds of Summer Brisbane Review: Australian Tour Opener Rolling Stone Australia",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Rolling Stone Australia",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMEZvcXdGMGJ5NTZlSUhpMGxMN3E1cm1CWjg3Q3NOUnNTWXJ1YWJnNzRMV0JfT0o0TGNaNXRKRHlVeURKbWJtODFxdHJVMjR1aUYzTU4wSFMzTjJ3cm5DSzdxNjB2S3hhclNpa2dhYm93cHZlNU9SNmlWSS11VWt6d08xUGFmN2JCSHhwVjdtR2ktVEF2S1FxRk5rc25TaVlTYlc1QW5R?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Maryland Is Getting Its Own (Mini) Sphere",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/maryland-is-getting-its-own-mini-sphere/",
+    "timestamp": "2026-10-28T22:41:52+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/maryland-is-getting-its-own-mini-sphere/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "DIIV – “Dare Me”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2515877/diiv-dare-me-zirp-song/music/",
+    "timestamp": "2026-10-28T21:58:35+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "The post DIIV – “Dare Me” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2515877/diiv-dare-me-zirp-song/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Queens Of The Stone Age – “Run Away From The Mob”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2515884/queens-of-the-stone-age-run-away-from-the-mob-perfecth-song/music/",
+    "timestamp": "2026-10-28T21:56:18+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "The post Queens Of The Stone Age – “Run Away From The Mob” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2515884/queens-of-the-stone-age-run-away-from-the-mob-perfecth-song/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Joe Satriani and Brian Tarquin share new music video - NextMosh",
+    "src": "NextMosh",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdmQ5bDZUb2hiclFDV2dpV0NwczR1UVp1dnZtQUw1b21HZ3lKaXRXbUN5UjAwNUhIREtySzNEYUIwOWNBMkFfZTVlaEhhYzRPLVREZnRkNkJBdFlhVlc5QUVxVkU1VlVSSjNIR2JRS0Q4bEpDbnJvbDlURGpkQjdlS18xeXRwb1Y3bGtvWUlVbGxKZw?oc=5",
+    "timestamp": "2026-10-28T21:17:48+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "Joe Satriani and Brian Tarquin share new music video NextMosh",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NextMosh",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdmQ5bDZUb2hiclFDV2dpV0NwczR1UVp1dnZtQUw1b21HZ3lKaXRXbUN5UjAwNUhIREtySzNEYUIwOWNBMkFfZTVlaEhhYzRPLVREZnRkNkJBdFlhVlc5QUVxVkU1VlVSSjNIR2JRS0Q4bEpDbnJvbDlURGpkQjdlS18xeXRwb1Y3bGtvWUlVbGxKZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Watch Robyn Cover Tinashe’s “Popstar”",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/watch-robyn-cover-tinashes-popstar/",
+    "timestamp": "2026-10-28T21:12:08+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/watch-robyn-cover-tinashes-popstar/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘90s rock song hits No. 1 on the charts nearly 30 years after its debut - BNN Bloomberg",
+    "src": "BNN Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pZajRoWC00dGZwMXNJOUI4UjFHMk1jdG5EeGdYX1BBdHFOTU92cFY3S1FLaXRNRllSTFAyaWFEQ3hYa2dWSmMwN05QYUtfS3cyS0VLczk3TGM4Yk1kb1k1cVJHNUJKN0x4LXJLZ0R6RThlOXlvTTk0UFdlRDFwNlppMjhYclgxOW5Wd1k1cGtJZi0xcHh4dU1YTU9ibk1XOEUtLWJpM0FUTnY4LW8wSDM5OUhYMy1FLTh1Z3Aza040bjhRNk1n?oc=5",
+    "timestamp": "2026-10-28T21:07:58+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "‘90s rock song hits No. 1 on the charts nearly 30 years after its debut BNN Bloomberg",
+    "category": "general",
+    "sources": [
+      {
+        "name": "BNN Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb0pZajRoWC00dGZwMXNJOUI4UjFHMk1jdG5EeGdYX1BBdHFOTU92cFY3S1FLaXRNRllSTFAyaWFEQ3hYa2dWSmMwN05QYUtfS3cyS0VLczk3TGM4Yk1kb1k1cVJHNUJKN0x4LXJLZ0R6RThlOXlvTTk0UFdlRDFwNlppMjhYclgxOW5Wd1k1cGtJZi0xcHh4dU1YTU9ibk1XOEUtLWJpM0FUTnY4LW8wSDM5OUhYMy1FLTh1Z3Aza040bjhRNk1n?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Mirrors Release \"Home\" Music Video - Theprp.com",
+    "src": "Theprp.com",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pUmFmSEE5QkE1NGFYUzc4TEgyQlNvYVo3UEhFUC1KMzZSUkd3U0ZqT056X2U5a0V0WVFhbk5rNE9iemU3WVB5T1B3YUZuc3QtYlIyekM0X2xESm1wTnJjWU1aeUNYSExzRy12ZGtHSEc4RndMSkd3Q2J1Qmo?oc=5",
+    "timestamp": "2026-10-28T21:00:08+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "Mirrors Release \"Home\" Music Video Theprp.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Theprp.com",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pUmFmSEE5QkE1NGFYUzc4TEgyQlNvYVo3UEhFUC1KMzZSUkd3U0ZqT056X2U5a0V0WVFhbk5rNE9iemU3WVB5T1B3YUZuc3QtYlIyekM0X2xESm1wTnJjWU1aeUNYSExzRy12ZGtHSEc4RndMSkd3Q2J1Qmo?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Noah Kahan appears to be teasing a Las Vegas tour date in ’27 - Las Vegas Review-Journal",
+    "src": "Las Vegas Review-Journal",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYVI5QmRlODdIaVZld2pkSlZPX3g0ZDFZMmVHM1RCaWhQa01weFBWZVQyVmhUUnBTaktMMGwyeWw0UjN6bU1neHVEeUhLQ2tnaVgwd1h0YWxIUThTWko5ZGlhajl5V2luNEdZWG5ueXA3NjhKbTBqOWJlSFlVY0g1Q2ZxMVAtTmV2bmNMUFRrT0hTNEYwQlk2Z3lYX0YxdzRrRkFxTEpjTDN1Zw?oc=5",
+    "timestamp": "2026-10-28T20:33:25+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "Noah Kahan appears to be teasing a Las Vegas tour date in ’27 Las Vegas Review-Journal",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Las Vegas Review-Journal",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYVI5QmRlODdIaVZld2pkSlZPX3g0ZDFZMmVHM1RCaWhQa01weFBWZVQyVmhUUnBTaktMMGwyeWw0UjN6bU1neHVEeUhLQ2tnaVgwd1h0YWxIUThTWko5ZGlhajl5V2luNEdZWG5ueXA3NjhKbTBqOWJlSFlVY0g1Q2ZxMVAtTmV2bmNMUFRrT0hTNEYwQlk2Z3lYX0YxdzRrRkFxTEpjTDN1Zw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Alan Jackson’s Farewell Concert Sets December Release on NBC - Variety",
+    "src": "Variety",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYWlzYXFDSkVfbHBGNFdheFlGXzFxQVRpa0RsOUpHTlhkZ2ZjdE5kb3lUenNLc2Jyb0hWcWk1X0RYVUQ0T1c3M29ic0R6MjN0VG1Da293aGRTZ25haS1GS3lhakNzYTk5THZyelY3OXNmekRZRXYwdE8wWExKeVJ0REJKTkhBYjQwNmllSmEyLUVYS1NoTVE?oc=5",
+    "timestamp": "2026-10-28T13:00:00+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "Alan Jackson’s Farewell Concert Sets December Release on NBC Variety",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Variety",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYWlzYXFDSkVfbHBGNFdheFlGXzFxQVRpa0RsOUpHTlhkZ2ZjdE5kb3lUenNLc2Jyb0hWcWk1X0RYVUQ0T1c3M29ic0R6MjN0VG1Da293aGRTZ25haS1GS3lhakNzYTk5THZyelY3OXNmekRZRXYwdE8wWExKeVJ0REJKTkhBYjQwNmllSmEyLUVYS1NoTVE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "'I'm Feeling Nothing But Blessed' — Aaron Lewis Looks Back on Career While Prepping New Staind Album - Loudwire",
+    "src": "Loudwire",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDU01YMVBpVml4eHc3aTZXS0c1Q2VVZGhqZkRlMHBDOGFtN19ESGJOM09DTWdPREltZlJFSEN1alJXS3RIOWFtY1VaLTBhMXQ1VEtlRHBwclFIN2dhY19tUThwWkhNQm1yelI0SA?oc=5",
+    "timestamp": "2026-10-28T12:06:21+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "'I'm Feeling Nothing But Blessed' — Aaron Lewis Looks Back on Career While Prepping New Staind Album Loudwire",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDU01YMVBpVml4eHc3aTZXS0c1Q2VVZGhqZkRlMHBDOGFtN19ESGJOM09DTWdPREltZlJFSEN1alJXS3RIOWFtY1VaLTBhMXQ1VEtlRHBwclFIN2dhY19tUThwWkhNQm1yelI0SA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "A Festa da Burra: Sebastião Antunes & Amigos fizeram a teimosa da burra dançar no Coliseu de Lisboa",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/a-festa-da-burra-sebastiao-antunes-amigos-fizeram-a-teimosa-da-burra-dancar-no-coliseu-de-lisboa/",
+    "timestamp": "2026-10-28T21:45:57+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "%featured_image% Sebastião Antunes e Quadrilha celebraram os 15 anos da \"Cantiga da Burra\" com uma festa que juntou diferentes gerações de músicos e mostrou a vitalidade da folk portuguesa. Entre instrumentos tradicionais, sonoridades celtas, eletrónica e canções que passam de boca em boca, o Coliseu dos Recreios celeb",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/a-festa-da-burra-sebastiao-antunes-amigos-fizeram-a-teimosa-da-burra-dancar-no-coliseu-de-lisboa/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Pueri Cantores: III Congresso Nacional com Mons. Marco Frisina - Arquidiocese de Braga",
+    "src": "Arquidiocese de Braga",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNekQ4TVR2Y0lwVmNWdkE3ZDJJcTRXb1lPWVVpemNTYlhUVGpsbDFjZElCaU1nOVJFNlg0V3dpSlExNENjS19JdWdoa1N3ZUJIMWlrVHYtWUdfQWUyNnpKalBUUGVKMEZJdjVEMVpvTTdzcXJ0c2J1Nkh4cWdkb2NCckJBdmp6MlpHS1E5b0ozZlctaEEtX2NEbmlTWExfMzVSSEY0RjBjY2wtdlU0VmdVYnFKSW40cFduQVRoSGh6akx5ck5TblE?oc=5",
+    "timestamp": "2026-10-28T17:50:35+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "Pueri Cantores: III Congresso Nacional com Mons. Marco Frisina Arquidiocese de Braga",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arquidiocese de Braga",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNekQ4TVR2Y0lwVmNWdkE3ZDJJcTRXb1lPWVVpemNTYlhUVGpsbDFjZElCaU1nOVJFNlg0V3dpSlExNENjS19JdWdoa1N3ZUJIMWlrVHYtWUdfQWUyNnpKalBUUGVKMEZJdjVEMVpvTTdzcXJ0c2J1Nkh4cWdkb2NCckJBdmp6MlpHS1E5b0ozZlctaEEtX2NEbmlTWExfMzVSSEY0RjBjY2wtdlU0VmdVYnFKSW40cFduQVRoSGh6akx5ck5TblE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "FESTA DO JAZZ | 24.ª edição Abertura com concertos internacionais e homenagem a John Coltrane - Cardápio",
+    "src": "Cardápio",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRVZoM3pIT29zQ0ZfeENCd2lmRjNpamhyTHZHTjhrM1RmUER0VVJla1c4eUxHVWxob3lvMmhnNkxvUnVfdUJDUkwyRGt4YTl0bmw2RmhvelJEVVhZMHp1elNvTzRpd1NUMHdyeE43NW9HNHMxYVRBWjRyMlRVUTd5Zk5JWEFaSDJUeGNUS2tDa3dxeDVtMnQ3ZVhsWU1rNm9Ld0NGUnpQZjJ1TGQxZmZJSFRwMEQ2QlJNUXc?oc=5",
+    "timestamp": "2026-10-28T16:11:51+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "FESTA DO JAZZ | 24.ª edição Abertura com concertos internacionais e homenagem a John Coltrane Cardápio",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Cardápio",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRVZoM3pIT29zQ0ZfeENCd2lmRjNpamhyTHZHTjhrM1RmUER0VVJla1c4eUxHVWxob3lvMmhnNkxvUnVfdUJDUkwyRGt4YTl0bmw2RmhvelJEVVhZMHp1elNvTzRpd1NUMHdyeE43NW9HNHMxYVRBWjRyMlRVUTd5Zk5JWEFaSDJUeGNUS2tDa3dxeDVtMnQ3ZVhsWU1rNm9Ld0NGUnpQZjJ1TGQxZmZJSFRwMEQ2QlJNUXc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Supreme Court",
+    "t": "Full of Unsaid Words",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "27 Out",
+    "isoDate": "2026-10-27",
+    "url": "https://alterportal.net/2026_albums/190653-supreme-court-full-of-unsaid-words-2026.html",
+    "d": "EBM / Dark Electro",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190653-supreme-court-full-of-unsaid-words-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Stabbing Westward",
+    "t": "Wither ReWired",
+    "g": "indus",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "27 Out",
+    "isoDate": "2026-10-27",
+    "url": "https://alterportal.net/2026_albums/190654-stabbing-westward-wither-rewired-2026.html",
+    "d": "Industrial Rock / Alternative Rock",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190654-stabbing-westward-wither-rewired-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Quand",
+    "t": "Weit Von Hier",
+    "g": "indus",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "27 Out",
+    "isoDate": "2026-10-27",
+    "url": "https://alterportal.net/2026_albums/190652-quand-weit-von-hier-2026.html",
+    "d": "Synthpop / Darkwave",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190652-quand-weit-von-hier-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Octolab",
+    "t": "Waiting For A Better Ending",
+    "g": "indus",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "27 Out",
+    "isoDate": "2026-10-27",
+    "url": "https://alterportal.net/2026_albums/190651-octolab-waiting-for-a-better-ending-2026.html",
+    "d": "Synthpop / Industrial Pop",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190651-octolab-waiting-for-a-better-ending-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Ghostemane",
+    "t": "AM:FM",
+    "g": "core",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "27 Out",
+    "isoDate": "2026-10-27",
+    "url": "https://alterportal.net/2026_albums/190650-ghostemane-amfm-2026.html",
+    "d": "Rapcore / Trap / Metalcore / Industrial Hip-Hop",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190650-ghostemane-amfm-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Frontierer",
+    "t": "Ultraviolet Parasite",
+    "g": "core",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "27 Out",
+    "isoDate": "2026-10-27",
+    "url": "https://alterportal.net/2026_albums/190656-frontierer-ultraviolet-parasite-2026.html",
+    "d": "Mathcore",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190656-frontierer-ultraviolet-parasite-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "The Hardkiss",
+    "t": "Not This Time (feat. Jennifer Haben of Beyond The Black)",
+    "g": "electro",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "27 Out",
+    "isoDate": "2026-10-27",
+    "url": "https://alterportal.net/alternative/190658-the-hardkiss-not-this-time-feat-jennifer-haben-of-beyond-the-black-single-2026.html",
+    "d": "Alternative Metal / Electronic / Female Vocal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190658-the-hardkiss-not-this-time-feat-jennifer-haben-of-beyond-the-black-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Night Rider",
+    "t": "Catalyst",
+    "g": "core",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "27 Out",
+    "isoDate": "2026-10-27",
+    "url": "https://alterportal.net/alternative/190659-night-rider-catalyst-single-2026.html",
+    "d": "Alternative Metal / Progressive Metalcore / Synthwave",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190659-night-rider-catalyst-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Kingdom Collapse",
+    "t": "Survivor",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "27 Out",
+    "isoDate": "2026-10-27",
+    "url": "https://alterportal.net/2026_albums/190660-kingdom-collapse-survivor-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190660-kingdom-collapse-survivor-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Enter Shikari",
+    "t": "Lightyears",
+    "g": "rock",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "27 Out",
+    "isoDate": "2026-10-27",
+    "url": "https://alterportal.net/alternative/190657-enter-shikari-lightyears-single-2026.html",
+    "d": "Alternative Rock / Experimental",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190657-enter-shikari-lightyears-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Peyton Marie",
+    "t": "Pulp Horror (ЕР)",
+    "g": "indus",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "27 Out",
+    "isoDate": "2026-10-27",
+    "url": "https://alterportal.net/2026_albums/190661-peyton-marie-pulp-horror-er-2026.html",
+    "d": "Alternative Rock / Industrial Rock / Female Vocal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190661-peyton-marie-pulp-horror-er-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
   },
   {
     "title": "A Full List of Current 2026 K-Pop Concerts (Updating) - Billboard",
@@ -10209,10 +11134,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -11847,6 +12772,106 @@
     "section": "buzz"
   },
   {
+    "title": "DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: TONY IOMMI – FROM THE DARK",
+    "src": "MetalSucks",
+    "url": "https://www.metalsucks.net/2026/10/27/disgruntled-dad-reviews-with-dave-mustcomplain-tony-iommi-from-the-dark/",
+    "timestamp": "2026-10-27T14:00:00+00:00",
+    "isoDate": "2026-10-27",
+    "date": "27 Out",
+    "d": "Aha! Dave Mustcomplain is capable of not complaining... well, maybe only just a little bit. The post DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: TONY IOMMI – FROM THE DARK appeared first on MetalSucks .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "MetalSucks",
+        "url": "https://www.metalsucks.net/2026/10/27/disgruntled-dad-reviews-with-dave-mustcomplain-tony-iommi-from-the-dark/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Heavy metal band Disturbed to hold Manila concert in 2027 - ABS-CBN",
+    "src": "ABS-CBN",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRlhYeV9vUURJanF0VEdQRFBJQ3BNUUJrMnFqSng3UFhnY0NZazRPQjBBN2ZlRENTUmVwaVRPRU83SDhvMmdHQnBhMVpLSmI0eEJVSFZDUFB3TmZyMVhsbkVKS1d5YmRsTmlVU20zOXBNN0U4aVNIdlVjWklmdHRHQkFpa1h0WWlNclo0ZVVyMG03NkJIck12dUoxdUVSaGUtX0xSN3pqLWlvUzY4NkZHTElYNU1vOUZrYjdpcnN4ME1NM1E?oc=5",
+    "timestamp": "2026-10-27T09:32:57+00:00",
+    "isoDate": "2026-10-27",
+    "date": "27 Out",
+    "d": "Heavy metal band Disturbed to hold Manila concert in 2027 ABS-CBN",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ABS-CBN",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRlhYeV9vUURJanF0VEdQRFBJQ3BNUUJrMnFqSng3UFhnY0NZazRPQjBBN2ZlRENTUmVwaVRPRU83SDhvMmdHQnBhMVpLSmI0eEJVSFZDUFB3TmZyMVhsbkVKS1d5YmRsTmlVU20zOXBNN0U4aVNIdlVjWklmdHRHQkFpa1h0WWlNclo0ZVVyMG03NkJIck12dUoxdUVSaGUtX0xSN3pqLWlvUzY4NkZHTElYNU1vOUZrYjdpcnN4ME1NM1E?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Alceu Valença: “Para mim o tempo não tem tempo. O palco para mim é alegria” - Rimas e Batidas",
+    "src": "Rimas e Batidas",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3N4dEpoUXJMTlA4WFp1YkZpMkdyX3hpM2p4WHg0bEh5c0hNeHNacmRObXNPbjZEWkM1QVo3Y1ktYnhrLWxpLVFZRUtUQll1R0tBcVpMLWhuYmhLa25JTE4wRHhLblRPQkRmN0taR1Rqa0l4bGp4ZFBPaVRXUFNfaWljUUdpQ3pLcUp3blY1RHo0elNaNjFqdklrQ1FnTG5qc3Zv?oc=5",
+    "timestamp": "2026-10-27T16:54:26+00:00",
+    "isoDate": "2026-10-27",
+    "date": "27 Out",
+    "d": "Alceu Valença: “Para mim o tempo não tem tempo. O palco para mim é alegria” Rimas e Batidas",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Rimas e Batidas",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3N4dEpoUXJMTlA4WFp1YkZpMkdyX3hpM2p4WHg0bEh5c0hNeHNacmRObXNPbjZEWkM1QVo3Y1ktYnhrLWxpLVFZRUtUQll1R0tBcVpMLWhuYmhLa25JTE4wRHhLblRPQkRmN0taR1Rqa0l4bGp4ZFBPaVRXUFNfaWljUUdpQ3pLcUp3blY1RHo0elNaNjFqdklrQ1FnTG5qc3Zv?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Suno – Gerador de música com IA, criação de canções a partir de texto e edição multipista - quasa.io",
+    "src": "quasa.io",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTy1WZnJVTmlLQy16bXlOSWxsRUhoZTVoaFYxaWp5dmJ4OWdMQ1o2TDVhQ21JYk1LMXVfRTFhbnNiTXRWMC05cEhLZmV0S18xU0ZpVFJkRUdOck5HaVJxSGQxQXZaWldTcTVsdm5TUktDMDBYV0F0VzJiem9vcXJrbzFhNDUtb3RpZWlnQV9VUjBWbmZ4WmFQOFVsbTR4UXpncDNab2FxUC1HMFNkUk8tbUNtOVhHdw?oc=5",
+    "timestamp": "2026-10-27T15:48:25+00:00",
+    "isoDate": "2026-10-27",
+    "date": "27 Out",
+    "d": "Suno – Gerador de música com IA, criação de canções a partir de texto e edição multipista quasa.io",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "quasa.io",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTy1WZnJVTmlLQy16bXlOSWxsRUhoZTVoaFYxaWp5dmJ4OWdMQ1o2TDVhQ21JYk1LMXVfRTFhbnNiTXRWMC05cEhLZmV0S18xU0ZpVFJkRUdOck5HaVJxSGQxQXZaWldTcTVsdm5TUktDMDBYV0F0VzJiem9vcXJrbzFhNDUtb3RpZWlnQV9VUjBWbmZ4WmFQOFVsbTR4UXpncDNab2FxUC1HMFNkUk8tbUNtOVhHdw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
     "title": "Eurovision 2026 Portugal: Bandidos do Cante - \"Rosa\" - Eurovisionworld",
     "src": "Eurovisionworld",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KVjI1N2xsNkNaUmtQR1FYdzVNUGlfZGNrdEZ2Nlh4eV9IUHFOb24xY1JNcmEwdHdlVjl4SHdDeXA5cWpsOElDdHEybWdzTjNIQTRyeTc5T3hJY014czhSQm93?oc=5",
@@ -12936,8 +13961,8 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbURTbUVSN2gyb1BraWZmTmlRNUNZQXFCemhQLXI3S2lYc3UtSVJnbDdRQjVqemxwa3JjakFYalNGd09iQzVHREQ5Mk9hNy1SOTZ5c3VocGFNVmgxeWw0dW13MWUwNWhMT0dMaDF3QTU3UXVpdmxKQ0l4OHljX01HT05aNXRDNDJfZkVHVG4yc2JoSVRINzNlbmY2TWVPdw?oc=5"
       },
       {
-        "name": "AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11aHlwRXdseEpUMktHVkZINjJwd1MyOGVraER2VC1RS3ZQVnpYcldEbmRvUmFWRVFnMWkyTUVSZ1hZX0ZYUkxGbWczUV94aEo1TkZOaXE5OGZNdi04bVJBLU5IMFlkajJQcFFLWjRyNXA4czQ?oc=5"
+        "name": "AOL.co.uk",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yMHJ2ek5uS1EtUnZiVnZKWmlqd0NHZGItN0VNY1ZfOGljNi1LMFAtMHJtMnNwOHJlWWNKa1NvcFN5MXJPaHVRcTFrbi1SRm9TRWg2alBsdDF5NEFLSHU5UDFiRkhwRWhrRWJVT3BaZzFOTlRjeHc?oc=5"
       }
     ],
     "status": "official",
@@ -29289,6 +30314,27 @@
     "section": "news"
   },
   {
+    "b": "Aversive Control",
+    "t": "From The Ground Up",
+    "g": "core",
+    "fmt": "EP",
+    "lbl": "MusicBrainz",
+    "date": "23 Out",
+    "isoDate": "2026-10-23",
+    "url": "https://musicbrainz.org/release-group/2f119dcf-b86d-4143-826d-7e5267560822",
+    "d": "beatdown hardcore",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/2f119dcf-b86d-4143-826d-7e5267560822"
+      }
+    ],
+    "mbid": "2f119dcf-b86d-4143-826d-7e5267560822",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
     "title": "A moment that changed me: I was devastated by a breakup – and saved by a sweaty moshpit - The Guardian",
     "src": "The Guardian",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZFlGVE9UM3FHUDR2eFd2cE1VYzRuMWJyTmdFNWJhX0FWc0QwS01HZnA3VmM1ZW11TFFaR2pfVl9xTFBxMWFGVF9KQ1FzVVVSdjBobFFKNWM5eXcxdXNkMFZfQzZDdFd3YlpDZGsxTFRQWVVraGZCVjZ1THd0OHVWd0VmWk5DcnZudklWTVhXY0ZqVW41bXQ3Tl9aUDFTaG9WTDNEYTN0MUF6QnY0M2VMSGNkVmg4U2E2cEhYQmNyXzJPajVsQUdZeWJIVlN6akFJYUI4?oc=5",
@@ -33415,7 +34461,7 @@
     "title": "Pianista português Pedro Emanuel Pereira encanta o público em concertos na Palestina - Diplomacia Business",
     "src": "Diplomacia Business",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMEhjbXU0cFBnZ3FYNUkwODRaVDQ5Z3VjaFNra3JQLXlwSnZmcEwwZWJQbnJkeHdLTldLRG43aHpadng0YmZqTXphTGx3d1VwbHJ3SEMxNzlkUmxOWGk4WE9vTjFzbzlrbXRQV1VZS0ZpclJ0VTFuLV9lZ0hLek9JaVF0VUlqS09JQzN0cFRsTzZMbUR3UHlsdnZDSGRObVA2dGt0SGFhX0UxbTF3R3RpNFdjdG9tcUw5dW5BOXplMjZEVlBpRjNsUA?oc=5",
-    "timestamp": "2026-10-22T18:17:27+00:00",
+    "timestamp": "2026-10-22T09:53:33+00:00",
     "isoDate": "2026-10-22",
     "date": "22 Out",
     "d": "Pianista português Pedro Emanuel Pereira encanta o público em concertos na Palestina Diplomacia Business",
@@ -36333,6 +37379,31 @@
     "star": false,
     "kind": "news",
     "section": "news"
+  },
+  {
+    "title": "Aquarela do Brasil Episódio 7 - de 22 out 2026 - RTP",
+    "src": "RTP",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qMWdkYWpVdjIyY0I1dzMzWlVJVnc0TExCa1dlbjhlb21EQUtOQmNqcERxMVpTVHM5R0trNlA4bEZzMjlwbzVKYzJYUEpqSXNRUnFfMjVueHZhQnhYYVllSm5YaTBvYkNG?oc=5",
+    "timestamp": "2026-10-22T11:19:13+00:00",
+    "isoDate": "2026-10-22",
+    "date": "22 Out",
+    "d": "Aquarela do Brasil Episódio 7 - de 22 out 2026 RTP",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "RTP",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qMWdkYWpVdjIyY0I1dzMzWlVJVnc0TExCa1dlbjhlb21EQUtOQmNqcERxMVpTVHM5R0trNlA4bEZzMjlwbzVKYzJYUEpqSXNRUnFfMjVueHZhQnhYYVllSm5YaTBvYkNG?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "title": "Listen: French Hardcore Band Headbussa Drops “Manhunt”",
