@@ -25,146 +25,6 @@
     "section": "buzz"
   },
   {
-    "b": "When Waves Collide",
-    "t": "Carnyx",
-    "g": "rock",
-    "fmt": "Single",
-    "lbl": "Alterportal",
-    "date": "30 Out",
-    "isoDate": "2026-10-30",
-    "url": "https://alterportal.net/lossless/190703-when-waves-collide-carnyx-single-2026.html",
-    "d": "Instrumental Post-Rock",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/lossless/190703-when-waves-collide-carnyx-single-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
-    "b": "Rattlesnakes (UK)",
-    "t": "Shadows in the Night",
-    "g": "thrash",
-    "fmt": "Album",
-    "lbl": "Alterportal",
-    "date": "30 Out",
-    "isoDate": "2026-10-30",
-    "url": "https://alterportal.net/2026_albums/190704-rattlesnakes-uk-shadows-in-the-night-2026.html",
-    "d": "Heavy Metal / Speed Metal",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/2026_albums/190704-rattlesnakes-uk-shadows-in-the-night-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
-    "b": "Master Boot Record",
-    "t": "Computer Metal",
-    "g": "indus",
-    "fmt": "Album",
-    "lbl": "Alterportal",
-    "date": "30 Out",
-    "isoDate": "2026-10-30",
-    "url": "https://alterportal.net/2026_albums/190700-master-boot-record-computer-metal-2026.html",
-    "d": "Industrial Metal / Synth-Metal / Synthwave / Chiptune / Instrumental",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/2026_albums/190700-master-boot-record-computer-metal-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
-    "b": "Hollow Front",
-    "t": "Death To My Name",
-    "g": "core",
-    "fmt": "Single",
-    "lbl": "Alterportal",
-    "date": "30 Out",
-    "isoDate": "2026-10-30",
-    "url": "https://alterportal.net/core/190702-hollow-front-death-to-my-name-single-2026.html",
-    "d": "Metalcore",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/core/190702-hollow-front-death-to-my-name-single-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
-    "b": "Gaerea",
-    "t": "Shallow",
-    "g": "black",
-    "fmt": "Single",
-    "lbl": "Alterportal",
-    "date": "30 Out",
-    "isoDate": "2026-10-30",
-    "url": "https://alterportal.net/newsongs/190701-gaerea-shallow-single-2026.html",
-    "d": "Modern Metal / Post-Black Metal",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/newsongs/190701-gaerea-shallow-single-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
-    "b": "Currents",
-    "t": "Retributioner",
-    "g": "core",
-    "fmt": "Single",
-    "lbl": "Alterportal",
-    "date": "30 Out",
-    "isoDate": "2026-10-30",
-    "url": "https://alterportal.net/core/190699-currents-retributioner-single-2026.html",
-    "d": "Metalcore",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/core/190699-currents-retributioner-single-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
-    "b": "[AMATORY]",
-    "t": "Одержимость",
-    "g": "core",
-    "fmt": "Album",
-    "lbl": "Alterportal",
-    "date": "30 Out",
-    "isoDate": "2026-10-30",
-    "url": "https://alterportal.net/2026_albums/190698-amatory-oderzhimost-2026.html",
-    "d": "Стиль: Metalcore / Modern Metal Треклист: 01. Амнезия (feat. YAMZY) 02. Антидот 03. .ртуть 04. Астрал 05. Пепел (feat. ATL) 06. Юность 07. Отражение 08. 5.45 09. Бензин 10. Глубина 11. Спрут 12. Тишина",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/2026_albums/190698-amatory-oderzhimost-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
     "title": "Patrick Stewart Remembered as “That Rare Actor” in Tributes from Ian McKellen, William Shatner, Seth MacFarlane, and More",
     "src": "Consequence",
     "url": "https://consequence.net/2026/10/patrick-stewart-tributes/",
@@ -613,10 +473,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -2010,10 +1870,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -2035,10 +1895,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -2060,10 +1920,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -2085,10 +1945,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -2110,10 +1970,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -2135,10 +1995,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -2160,10 +2020,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -2185,10 +2045,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -2210,10 +2070,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -2235,10 +2095,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -2260,10 +2120,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -2285,10 +2145,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -2310,10 +2170,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -2335,10 +2195,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -2360,10 +2220,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -2560,10 +2420,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2585,10 +2445,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2610,10 +2470,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2660,10 +2520,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2685,10 +2545,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2710,10 +2570,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2735,10 +2595,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2760,10 +2620,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2785,10 +2645,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2810,10 +2670,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2835,10 +2695,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2860,10 +2720,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2885,10 +2745,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2910,10 +2770,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2935,10 +2795,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2985,10 +2845,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -3010,10 +2870,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -3060,10 +2920,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -3085,10 +2945,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -3110,10 +2970,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -3135,10 +2995,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -3185,10 +3045,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -3210,10 +3070,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -3285,10 +3145,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -3385,10 +3245,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -3541,26 +3401,6 @@
     "star": true,
     "kind": "news",
     "section": "core"
-  },
-  {
-    "b": "Izzy Reign",
-    "t": "Blah blah blah",
-    "g": "indus",
-    "fmt": "Single",
-    "lbl": "Alterportal",
-    "date": "30 Out",
-    "isoDate": "2026-10-30",
-    "url": "https://alterportal.net/alternative/190706-izzy-reign-blah-blah-blah-single-2026.html",
-    "d": "Alternative Metal / Industrial Metal / Female Vocal",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/alternative/190706-izzy-reign-blah-blah-blah-single-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
   },
   {
     "b": "Act One",
@@ -3812,7 +3652,7 @@
     "title": "200 Stab Wounds, Rev3rent, Darkest Hour & More Added to Metal Injection's Top Tracks of the Week",
     "src": "Metal Injection",
     "url": "https://metalinjection.net/playlist/top-tracks-of-the-week-playlist/200-stab-wounds-rev3rent-darkest-hour-more-added-to-metal-injections-top-tracks-of-the-week",
-    "timestamp": "2026-10-30T16:17:08+00:00",
+    "timestamp": "2026-10-30T16:15:42+00:00",
     "isoDate": "2026-10-30",
     "date": "30 Out",
     "d": "As well as picks from Native James, Enslaved, Gaera, and more. The post 200 Stab Wounds, Rev3rent, Darkest Hour & More Added to Metal Injection's Top Tracks of the Week appeared first on Metal Injection .",
@@ -3821,10 +3661,6 @@
       {
         "name": "Metal Injection",
         "url": "https://metalinjection.net/playlist/top-tracks-of-the-week-playlist/200-stab-wounds-rev3rent-darkest-hour-more-added-to-metal-injections-top-tracks-of-the-week"
-      },
-      {
-        "name": "Metal Injection",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYm1kWEd0dTZ3WER5MWtMOV9fdDRhbFFjdlFjanVaZG5OSmNCb0tPaDF2RE15RTB6aWFFVlU3dmRpU1NRbnNfMXhyalozTGhoenBlZkpMMnd5YlBWNGpPc0Nnam5KUUR3X2tXVGV0VlJ0T2ZqMC1EaDd0bzVrdlg2cDQxbm1WaUkwazNxUVkwOXItN04wM0F3NW5XQ05XbVUtN1l5VGRXR1hXSjYteVVSZ2s2czRIVEtsWEFzOUFockw0NXBQXzJ4Uk5BRl8zYXBac3JGNnV1VmpEcTZiSm5Bajd3X1VMZHdZcnFmdldseng?oc=5"
       }
     ],
     "status": "official",
@@ -3875,10 +3711,6 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/most-streamed-metal-artists-spotify/"
-      },
-      {
-        "name": "Loudwire",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80bmQtR3dJaFNJNjdhdU1UYklsaEMwRHVOVVVZaEpiZnpsMEROMmFvSmFVNVgtR3d2b1gzR19kcElrVXBnb0lTVDdvcHBaT2U0SHdHSFhtWW13U0t6OHhOSjA3cVdDZzF1?oc=5"
       }
     ],
     "status": "official",
@@ -4542,10 +4374,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -4567,10 +4399,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -4961,6 +4793,10 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/scariest-metal-album-covers/"
+      },
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPZnA0Z3FmNTFsWWZtWnR6NEF0R2lLSUpxUjVzTS1VZk9KU1JRbVl4dmJQcnpsLV9rSnpNYXM0a05xQVJrSzBIcU41UUttMWZrSGhhSHJ6RTY3MjJDeGc?oc=5"
       }
     ],
     "status": "official",
@@ -5486,11 +5322,15 @@
       {
         "name": "Consequence",
         "url": "https://consequence.net/2026/10/ministry-hate-to-go-take-out-or-delivery-stream/"
+      },
+      {
+        "name": "Consequence of Sound",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN0ZkcTNvVGFhTDNxVnVvWlZLWF8yZTNIYmlOVnpWS3dRSjAydXlqVEV1bnRySklRNlJhUno3eE9HMl9uNGQ5ekxoVGplSzgtSV9ZcVh5Wk9EbnJNV3ZYYUs0VW0yX3p0UVI2dm85c05nVUVVY1EzVi1jUkpEWWpNNTdmVmpSZUU?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 1,
+    "sourceCount": 2,
     "isBreaking": true,
     "isPT": false,
     "isCore": false,
@@ -5577,7 +5417,7 @@
     "title": "David Archuleta brings holiday cheer with new album, \"Warm Me Up\" - ABC7 Los Angeles",
     "src": "ABC7 Los Angeles",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkV4Qlh2UDM1cllVcTBucVJOQllKbndMZVVfZl9PQkZ2RlFmSVAxWXRxeGFqQkQ1RkRyc3dIUjY1Um1NTHdXQzctQndkd3lYQWVleGNRT3pnREhHOTJlNzlEMVJPaExheThYRjV6eFpvLTB0SmZiVGhGMVdwMzQzcWJqVVgzM1Z4UVVRd0Q5NU5MZzdjSmxPRURGQVdJelppY3lMRnFB?oc=5",
-    "timestamp": "2026-10-30T18:51:52+00:00",
+    "timestamp": "2026-10-30T20:48:16+00:00",
     "isoDate": "2026-10-30",
     "date": "30 Out",
     "d": "David Archuleta brings holiday cheer with new album, \"Warm Me Up\" ABC7 Los Angeles",
@@ -6045,10 +5885,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -6066,6 +5906,645 @@
     "releaseKey": "cryptorium|through the bowels of ceaseless dissonance review",
     "kind": "review",
     "section": "rev"
+  },
+  {
+    "title": "Finger Eleven’s “Them Vs. You Vs. Me” Set For First Vinyl Release",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/30/news/finger-elevens-them-vs-you-vs-me-set-for-first-vinyl-release/",
+    "timestamp": "2026-10-30T22:13:25+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Including their monster hit \"Paralyzer\" The post Finger Eleven’s “Them Vs. You Vs. Me” Set For First Vinyl Release appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/30/news/finger-elevens-them-vs-you-vs-me-set-for-first-vinyl-release/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Prince George’s zombie metal band Infectious performs acoustic version of ‘Surrender’ - CKPG Today",
+    "src": "CKPG Today",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmNubXdvdUt6YU94WEk2RWFxWWxDcTZucWhTWm9HSzI4YWRoOUFkcnUzS05ZX213ZXU4c3M1blBIaXJpMkFpckF0NlpLa1l2YTE1YnBkZTBELXNZdFJybkZCMjNYUnVGQUh4U0g3YTU3U2JDYjNaRlY3WnJDR2FlOEsyVS1QM0NkTWdFYWZSLXpmNkFmZFAyb2FMRk1pMFNvbVZyUmZTaUZHeXpXTk1SZGljNlQ2UQ?oc=5",
+    "timestamp": "2026-10-30T21:43:00+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Prince George’s zombie metal band Infectious performs acoustic version of ‘Surrender’ CKPG Today",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "CKPG Today",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmNubXdvdUt6YU94WEk2RWFxWWxDcTZucWhTWm9HSzI4YWRoOUFkcnUzS05ZX213ZXU4c3M1blBIaXJpMkFpckF0NlpLa1l2YTE1YnBkZTBELXNZdFJybkZCMjNYUnVGQUh4U0g3YTU3U2JDYjNaRlY3WnJDR2FlOEsyVS1QM0NkTWdFYWZSLXpmNkFmZFAyb2FMRk1pMFNvbVZyUmZTaUZHeXpXTk1SZGljNlQ2UQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Holy Wars Premiere “I.F.O.Y.G.” Music Video",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/30/news/holy-wars-premiere-i-f-o-y-g-music-video/",
+    "timestamp": "2026-10-30T21:37:33+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "The alternative metal band will be touring with Kingdom Of Giants and more this fall. The post Holy Wars Premiere “I.F.O.Y.G.” Music Video appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/30/news/holy-wars-premiere-i-f-o-y-g-music-video/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Power Trip Invite Fans To Attend Dallas, TX Music Video Shoot/Live Show",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/30/news/power-trip-invite-fans-to-attend-dallas-tx-music-video-shoot-live-show/",
+    "timestamp": "2026-10-30T21:20:08+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "A donation to a local mental health, etc. counseling non-profit will get you an RSVP. The post Power Trip Invite Fans To Attend Dallas, TX Music Video Shoot/Live Show appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/30/news/power-trip-invite-fans-to-attend-dallas-tx-music-video-shoot-live-show/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "TEETH Seek Fans For Their Upcoming Music Video Shoot In Hamilton, ON",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/30/news/teeth-seek-fans-for-their-upcoming-music-video-shoot-in-hamilton-on/",
+    "timestamp": "2026-10-30T21:08:21+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "They intend to lens a clip for the lead single for their upcoming new album. The post TEETH Seek Fans For Their Upcoming Music Video Shoot In Hamilton, ON appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/30/news/teeth-seek-fans-for-their-upcoming-music-video-shoot-in-hamilton-on/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Hollow Front’s New Track “Death To My Name” Debuts Online",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/30/news/hollow-fronts-new-track-death-to-my-name-debuts-online/",
+    "timestamp": "2026-10-30T21:02:19+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "The third single from \"No Love Without Despair\". The post Hollow Front’s New Track “Death To My Name” Debuts Online appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/30/news/hollow-fronts-new-track-death-to-my-name-debuts-online/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "TONY IOMMI Says It's 'Unfair' To Compare JORN LANDE To RONNIE JAMES DIO: 'That's The Sort Of Voice I Wanted' For 'From The Dark' Album",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/tony-iommi-says-its-unfair-to-compare-jorn-lande-to-ronnie-james-dio-thats-the-sort-of-voice-i-wanted-for-from-the-dark-album",
+    "timestamp": "2026-10-30T21:01:57+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "In a new interview with Berlin, Germany's Star FM radio station, BLACK SABBATH guitarist Tony Iommi spoke about his decision to enlist veteran Norwegian singer Jorn Lande to perform vocals on \"From The Dark\", his new solo album. Lande is cut from the same cloth as his hero, late BLACK SABBATH and HE...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/tony-iommi-says-its-unfair-to-compare-jorn-lande-to-ronnie-james-dio-thats-the-sort-of-voice-i-wanted-for-from-the-dark-album"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Lockslip’s “I’m The Same” Music Video Emerges Online",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/30/news/lockslips-im-the-same-music-video-emerges-online/",
+    "timestamp": "2026-10-30T20:54:55+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "A vampiric take on mental health. The post Lockslip’s “I’m The Same” Music Video Emerges Online appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/30/news/lockslips-im-the-same-music-video-emerges-online/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "TRIUMPH Cancels Leg Two Of 2026 'Rock & Roll Machine Reloaded' U.S. Tour 'Due To Sudden And Unexpected Medical Circumstances'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/triumph-cancels-leg-two-of-2026-rock-roll-machine-reloaded-u-s-tour-due-to-sudden-and-unexpected-medical-circumstances",
+    "timestamp": "2026-10-30T20:51:55+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Canadian rock legends TRIUMPH have canceled the previously announced leg two of the \"Rock & Roll Machine Reloaded\" tour \"due to sudden and unexpected medical circumstances affecting the band.\" The second leg of the tour was scheduled to take TRIUMPH through major markets across the Midwest, Nort...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/triumph-cancels-leg-two-of-2026-rock-roll-machine-reloaded-u-s-tour-due-to-sudden-and-unexpected-medical-circumstances"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Triumph Cancel Upcoming 2026 Tour Dates",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/triumph-cancels-2026-tour-dates/",
+    "timestamp": "2026-10-30T20:45:55+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "The second leg of the Canadian band's 50th anniversary reunion concerts was set to begin in November. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/triumph-cancels-2026-tour-dates/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Zao’s 2025 ‘Furnace Fest’ Performance Of “Liberate Te Ex Inferis” Released",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/30/news/zaos-2025-furnace-fest-performance-of-liberate-te-ex-inferis-released/",
+    "timestamp": "2026-10-30T20:44:35+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Their fourth studio album played in full. The post Zao’s 2025 ‘Furnace Fest’ Performance Of “Liberate Te Ex Inferis” Released appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/30/news/zaos-2025-furnace-fest-performance-of-liberate-te-ex-inferis-released/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "The Offspring, Pennywise and more to unite for T.S.O.L.’s Mike Roche benefit performance - Dailyfly News",
+    "src": "Dailyfly News",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeHUxR3pYenlJUmdWUEloVVZFbFZUWkpocGJsZ3FFTmlvVHdYMnRtRGRaNVNteGxYSndBckZ5clkzTW1kYVRBeldXQy1sajd3M3BFSVlzYTFoaUtqdnF5ZHFHX01ISnY0OUFvbXEtZ3F2WEZEVHRQX1YwZ3owNm1GcHNfRndfU296d1NVcjVlWXdXRWs2cEhYUGsyNDBKYThhNl9qY2ZaVVdGTEo4NjZEbFNLTk5NSEU2NXpjMDJfLXk?oc=5",
+    "timestamp": "2026-10-30T15:40:08+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "The Offspring, Pennywise and more to unite for T.S.O.L.’s Mike Roche benefit performance Dailyfly News",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Dailyfly News",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeHUxR3pYenlJUmdWUEloVVZFbFZUWkpocGJsZ3FFTmlvVHdYMnRtRGRaNVNteGxYSndBckZ5clkzTW1kYVRBeldXQy1sajd3M3BFSVlzYTFoaUtqdnF5ZHFHX01ISnY0OUFvbXEtZ3F2WEZEVHRQX1YwZ3owNm1GcHNfRndfU296d1NVcjVlWXdXRWs2cEhYUGsyNDBKYThhNl9qY2ZaVVdGTEo4NjZEbFNLTk5NSEU2NXpjMDJfLXk?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Bradford Cox Releases New Atlas Sound Song “Octoberland”: Steam",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/bradford-cox-atlas-sound-octoberland/",
+    "timestamp": "2026-10-30T21:17:56+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Marking the project's first new music in 15 years. Bradford Cox Releases New Atlas Sound Song “Octoberland”: Steam Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/bradford-cox-atlas-sound-octoberland/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Triumph Cancel Fall Leg of 50th Anniversary Tour “Due to Sudden and Unexpected Medical Circumstances”",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/triumph-cancel-fall-tour/",
+    "timestamp": "2026-10-30T21:12:19+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "The veteran Canadian rock band were set to embark on the second leg of their first tour in 30 years. Triumph Cancel Fall Leg of 50th Anniversary Tour “Due to Sudden and Unexpected Medical Circumstances” Spencer Kaufman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/triumph-cancel-fall-tour/"
+      },
+      {
+        "name": "Consequence of Sound",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWc3dxR0pqcmZqdXZYS3VFVXdNZXpBUGFBQ2x1a1dYX3NobU9GLUVtRjJaSXFMdWxhTXRYcnNKXzc3RXJnTzRBWlZrXzNjS1VENzhOUm52dTcydXpWVFJMNHZJYnowdkdD?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 2,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Atlas Sound – “Octoberland”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2516185/atlas-sound-octoberland/music/",
+    "timestamp": "2026-10-30T21:05:06+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "The post Atlas Sound – “Octoberland” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2516185/atlas-sound-octoberland/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Listen to the First Atlas Sound Song in 15 Years",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/listen-to-the-first-atlas-sound-song-in-15-years/",
+    "timestamp": "2026-10-30T21:03:48+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/listen-to-the-first-atlas-sound-song-in-15-years/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Mariah Carey Shares ‘Hint’ on When Her Shelved Grunge Album Is Coming: ‘I Get Asked This About Once a Week’ - Billboard",
+    "src": "Billboard",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjhMTTB6RXBZa0FGekJWRnE5Z0RmTUxoZEdLeDdnRFhuUjFpQjNndGNiWVVVYVNaQmhMVVU3bkFER21wX3A2M1lvY2o3eDlwUkEzNFBQZ0lnX0NBdENJMGVpWk44YnBFVEFEa0FFbUZGWEdpSUJUcTVEUExTN1lPRVVNNU9pQW14bVJ6MHd3?oc=5",
+    "timestamp": "2026-10-30T21:00:12+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Mariah Carey Shares ‘Hint’ on When Her Shelved Grunge Album Is Coming: ‘I Get Asked This About Once a Week’ Billboard",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Billboard",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjhMTTB6RXBZa0FGekJWRnE5Z0RmTUxoZEdLeDdnRFhuUjFpQjNndGNiWVVVYVNaQmhMVVU3bkFER21wX3A2M1lvY2o3eDlwUkEzNFBQZ0lnX0NBdENJMGVpWk44YnBFVEFEa0FFbUZGWEdpSUJUcTVEUExTN1lPRVVNNU9pQW14bVJ6MHd3?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "ENSLAVED Celebrates Album Release Day With Focus Track Visualizer \"I Am Ice\" - Sonic Perspectives",
+    "src": "Sonic Perspectives",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWVJJQWt1czk5aEQwZ2w2dU83cFcxenlTVUZha2IxQVZocm1ueEtSNFZHU3IxZXg5OEdmcG5kZEkySVlJaWRxTGxXZmQzSHNrWC02QjBOV3o1bk1ZekV0QmxicXNETUlfSkZTT0JhWjRFRktvVVkxaS15Vl9hY3FoVWwzd2tVTC1Ba2JJYlBBWFZ1WFdFNWt0R1duN1JoTHg1QVFRTVNBY3VkZW0zSHU0VUJYUHk?oc=5",
+    "timestamp": "2026-10-30T19:32:19+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "ENSLAVED Celebrates Album Release Day With Focus Track Visualizer \"I Am Ice\" Sonic Perspectives",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Sonic Perspectives",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWVJJQWt1czk5aEQwZ2w2dU83cFcxenlTVUZha2IxQVZocm1ueEtSNFZHU3IxZXg5OEdmcG5kZEkySVlJaWRxTGxXZmQzSHNrWC02QjBOV3o1bk1ZekV0QmxicXNETUlfSkZTT0JhWjRFRktvVVkxaS15Vl9hY3FoVWwzd2tVTC1Ba2JJYlBBWFZ1WFdFNWt0R1duN1JoTHg1QVFRTVNBY3VkZW0zSHU0VUJYUHk?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "ENSLAVED Celebrate Album Release Day With Visualizer For \"I Am Ice\" Feat. JOHAN SARA JR. - BraveWords",
+    "src": "BraveWords",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUUlYUG5lMmVUTTFsY0pGZzJhRjVHY2QxWm8wZTNzRDNRWktnQTRSdy10bkg5alFpUDl2QXBkOHRnMVdkMExJWlJkWkI3ZU9oMFBzcC1GLUdicGlGa1BTd0dFMWY5N2JRVE55Q2NQc2g2VlpQTjE0d2lGTU80cFN2b3FEcnRNaGp2RWM5QlhrWTBZeTI1TFlxcnNIRk1td3QxX003TVVaTHdzVDR1RXV4RWFscw?oc=5",
+    "timestamp": "2026-10-30T15:36:36+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "ENSLAVED Celebrate Album Release Day With Visualizer For \"I Am Ice\" Feat. JOHAN SARA JR. BraveWords",
+    "category": "general",
+    "sources": [
+      {
+        "name": "BraveWords",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUUlYUG5lMmVUTTFsY0pGZzJhRjVHY2QxWm8wZTNzRDNRWktnQTRSdy10bkg5alFpUDl2QXBkOHRnMVdkMExJWlJkWkI3ZU9oMFBzcC1GLUdicGlGa1BTd0dFMWY5N2JRVE55Q2NQc2g2VlpQTjE0d2lGTU80cFN2b3FEcnRNaGp2RWM5QlhrWTBZeTI1TFlxcnNIRk1td3QxX003TVVaTHdzVDR1RXV4RWFscw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "b": "When Waves Collide",
+    "t": "Carnyx",
+    "g": "rock",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "29 Out",
+    "isoDate": "2026-10-29",
+    "url": "https://alterportal.net/lossless/190703-when-waves-collide-carnyx-single-2026.html",
+    "d": "Instrumental Post-Rock",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/lossless/190703-when-waves-collide-carnyx-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Rattlesnakes (UK)",
+    "t": "Shadows in the Night",
+    "g": "thrash",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "29 Out",
+    "isoDate": "2026-10-29",
+    "url": "https://alterportal.net/2026_albums/190704-rattlesnakes-uk-shadows-in-the-night-2026.html",
+    "d": "Heavy Metal / Speed Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190704-rattlesnakes-uk-shadows-in-the-night-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Master Boot Record",
+    "t": "Computer Metal",
+    "g": "indus",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "29 Out",
+    "isoDate": "2026-10-29",
+    "url": "https://alterportal.net/2026_albums/190700-master-boot-record-computer-metal-2026.html",
+    "d": "Industrial Metal / Synth-Metal / Synthwave / Chiptune / Instrumental",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190700-master-boot-record-computer-metal-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Hollow Front",
+    "t": "Death To My Name",
+    "g": "core",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "29 Out",
+    "isoDate": "2026-10-29",
+    "url": "https://alterportal.net/core/190702-hollow-front-death-to-my-name-single-2026.html",
+    "d": "Metalcore",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/core/190702-hollow-front-death-to-my-name-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Gaerea",
+    "t": "Shallow",
+    "g": "black",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "29 Out",
+    "isoDate": "2026-10-29",
+    "url": "https://alterportal.net/newsongs/190701-gaerea-shallow-single-2026.html",
+    "d": "Modern Metal / Post-Black Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/newsongs/190701-gaerea-shallow-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Currents",
+    "t": "Retributioner",
+    "g": "core",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "29 Out",
+    "isoDate": "2026-10-29",
+    "url": "https://alterportal.net/core/190699-currents-retributioner-single-2026.html",
+    "d": "Metalcore",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/core/190699-currents-retributioner-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "[AMATORY]",
+    "t": "Одержимость",
+    "g": "core",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "29 Out",
+    "isoDate": "2026-10-29",
+    "url": "https://alterportal.net/2026_albums/190698-amatory-oderzhimost-2026.html",
+    "d": "Стиль: Metalcore / Modern Metal Треклист: 01. Амнезия (feat. YAMZY) 02. Антидот 03. .ртуть 04. Астрал 05. Пепел (feat. ATL) 06. Юность 07. Отражение 08. 5.45 09. Бензин 10. Глубина 11. Спрут 12. Тишина",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190698-amatory-oderzhimost-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Izzy Reign",
+    "t": "Blah blah blah",
+    "g": "indus",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "29 Out",
+    "isoDate": "2026-10-29",
+    "url": "https://alterportal.net/alternative/190706-izzy-reign-blah-blah-blah-single-2026.html",
+    "d": "Alternative Metal / Industrial Metal / Female Vocal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190706-izzy-reign-blah-blah-blah-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
   },
   {
     "b": "Demonstration of Power",
@@ -10095,6 +10574,10 @@
       {
         "name": "Stereogum",
         "url": "https://stereogum.com/2515916/band-to-watch-piss/interviews/band-to-watch/"
+      },
+      {
+        "name": "Stereogum",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JUzJoQXpBZy02dHlLOU1XelA0eG54SU1ONm5ITThHTWZmUkFSc3YtbUdFZFBxcVZtNG1QbHd5QjVpTllyX3JPNzRWSmViTHJhYWk1dm4tV1RwZHY1d1VIVlp2TGZCVHQ2OHFLSUp2Wm1xaTBXamZ0Q1NBcFBwdw?oc=5"
       }
     ],
     "status": "official",
@@ -10520,6 +11003,10 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/bands-that-are-dad-rock-now/"
+      },
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ncWlfbGI5WllHenZ4QkhnbTM3WUU1U0FjbGdpWlNBS2JkUFFZNl9xZEg4aDA1VTZtaEVOQW1pN1hSQm40Mm02V0p0YnVVZVMyT2pNWEtLZkJTZUZ1aXc?oc=5"
       }
     ],
     "status": "official",
@@ -10601,16 +11088,16 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQS15VG9zTnJycXhvWFM3aXdIQnpqX0ZIQXFWOXNzbldqZHg3SC1jZkdHUHFMMUZJaWc4M3U2YXBJajRzOGNJanZtSDk2LTdTajNfR2xMUWdrRjk3RjNPMDJrREZLS3J2UVRIN014SmwyRlJWX2ZCRS1oX09RZkVucWdXOXdHNjllU284cEhxcGVBZFMxMjFTSDJUZw?oc=5"
       },
       {
+        "name": "KSNB",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONzBnUllIRE9JdDRfVllmT21RczduQ3JoTlRoQmMzLW1fTGo1MXRxajl3cGkxR3poUVpKZmp1S1E1Yzk3TzMzR3lMNUM4LVJ5ZnRQbTY4QnNKLWFnaldmdDlmclUwZWE3UTIyQ0RUa2JtNVJuUFNzZmVwa1plTURud3doV0FDdzhXX05wR1JyUUVfSFZLWDcwX2lPRUg?oc=5"
+      },
+      {
         "name": "WKYT",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWlIwZzFWWFVsMDA5TUFXR3p6WGh1U2FWMjJfSlVTanBNMzZqUHRhRGFnYlU4cXNkNkp5aUtyaTV3eVFyTmt4X3V1YUEzUlpnbXhROERleFA5V1BENDYwVEdJMFE5NXpQR3A0bXNwS3JGd1NtQ3gzMmhTd2Izd1c1UkwxZTZuZzkxdVV3ZlpWWUZtVUdE?oc=5"
       },
       {
         "name": "KATC.com",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPclkxZDhjQ3ZNY0FwVTFOYXlVbkJDNjdfQnkwclZLQnFlRm9iNjg2TkdpWVFvVGVnVTNGX2JKNFNWTnhCSlZ4c3ZsaWFjMDRyRFBDYmMzT19DNUs3MzhJNFRReFJPZ21hbVkyOE5uNTctc1lBNkJmZ0VMSEQ0LXlNTGtFQlNBY0tTejd2MkdJWXdvai1tdW5EbUcxS1ZoU1FxUWZBWFhB?oc=5"
-      },
-      {
-        "name": "fox10tv.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHJGWGQ2OVkxaDhPY0ppaUJEaWFQMF9DZS1QX1F5MkNOOGRNTF8zQ01sVEMzeGRCS2xZempDTzl6d19Gc1gwYVkzUlFvb1NhcHo0eDg4MW5ab3p6QS1qQWEwZlEtS1FKWlZCQ19UelF3QnlNYkNiYjVMMXIxWTczRnFuTGwzWnFKZWplSGx1VlZJV0p1cGlJUEdGMmVCS0dBZ1gwZ0F2VG8wQ3ZJ?oc=5"
       }
     ],
     "status": "official",
@@ -12359,6 +12846,56 @@
       {
         "name": "Loudwire",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55LXpySmptZnlpM3A1aG1IdmZPTnZBbFp4Qm9tYjZ4QUt3Mk9DVVUxRTE0RlJBTFlnZmdNV3FPOExtMHBCTWRGNzFBY2luN2FQS1FF?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Frontiers Rock Festival reveals first wave of bands for the 2027 edition - Chaoszine",
+    "src": "Chaoszine",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWkhhM2tGMkI1eE9QTUdoTVNxR1duUUhKeGhyZFhKNUJkNkltcFVmNXJOZ2NSendkcE9VX0lyQ3g0b0tWRDh3XzZFdWpBajlTX3R1aXFhMEhKdjJZOVFPYjN4bmc4SlRWZmRreUNmZlNJeUo1WDNfemRwS3JGd2JLS0VQbUZUdXhmU3NKRDY2Y1E0YnlRc0NyUWRNaw?oc=5",
+    "timestamp": "2026-10-29T13:24:14+00:00",
+    "isoDate": "2026-10-29",
+    "date": "29 Out",
+    "d": "Frontiers Rock Festival reveals first wave of bands for the 2027 edition Chaoszine",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Chaoszine",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWkhhM2tGMkI1eE9QTUdoTVNxR1duUUhKeGhyZFhKNUJkNkltcFVmNXJOZ2NSendkcE9VX0lyQ3g0b0tWRDh3XzZFdWpBajlTX3R1aXFhMEhKdjJZOVFPYjN4bmc4SlRWZmRreUNmZlNJeUo1WDNfemRwS3JGd2JLS0VQbUZUdXhmU3NKRDY2Y1E0YnlRc0NyUWRNaw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "INTERVIEW: Benefit concert to fund music therapy grants - FOX19 | Cincinnati",
+    "src": "FOX19 | Cincinnati",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObmh2aE9MbFpFSlF1a2Jyc2h0M19uR0REbUVmWnRBSEYxMlcycGRiaFlfdXhSbmZMU3pSRXBsM0VHYXZwbGFUMXJWbUI0RmJ6OHhTLU1xVjRMQnJNSXpmQ0V5Z2dmeTBxcmgwc3UtU1VOX2Q3b0tVazBfQmVib1VyTkdaUlFhLVhBVWJjTUgzQzBBekFyb2c?oc=5",
+    "timestamp": "2026-10-29T23:22:00+00:00",
+    "isoDate": "2026-10-29",
+    "date": "29 Out",
+    "d": "INTERVIEW: Benefit concert to fund music therapy grants FOX19 | Cincinnati",
+    "category": "general",
+    "sources": [
+      {
+        "name": "FOX19 | Cincinnati",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObmh2aE9MbFpFSlF1a2Jyc2h0M19uR0REbUVmWnRBSEYxMlcycGRiaFlfdXhSbmZMU3pSRXBsM0VHYXZwbGFUMXJWbUI0RmJ6OHhTLU1xVjRMQnJNSXpmQ0V5Z2dmeTBxcmgwc3UtU1VOX2Q3b0tVazBfQmVib1VyTkdaUlFhLVhBVWJjTUgzQzBBekFyb2c?oc=5"
       }
     ],
     "status": "official",
@@ -20953,10 +21490,6 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/best-album-college-rock-bands/"
-      },
-      {
-        "name": "Loudwire",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CbEVzaEEwRlVKV0J1V0lWNFhfeTFlQ0RERHhtMFVHX1hnTGFLV3RKTm12R25XRnBxTDNvaUV6YkM1OVVOMVZIdmNuUWMwdUMtZjQ4LW9yVV90T3RUSHE1Uw?oc=5"
       }
     ],
     "status": "official",
@@ -26405,7 +26938,7 @@
       },
       {
         "name": "Rolling Stone",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVG9rNHB0YzFXcjFYNUR2bGhQQ1haM0piRHRYNmd1Vmg2Vy1DWGJaUUpGT0FHQU4tYlpwRHgtVGU3eFItX1VJZ2pNbEs5dTg0aDhZTUVpYlFVNWhaRmV6ZEE3bnpkaTZzWDNjb2NnbTN2eVNveGw0c3BLWjdlNFkzdm1CS1ZPTGQ5dk52eU03enFCeWFGYVNxZGFrYVdXd0tjcWY3T1Q5dE02aDZ2YUxTXzZzVWxNbmhFVFpyNlV2QWJjOGo4TkZRaDVUUW5Kdw?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORkJfU1pQbV95eVhIU0dxYVNHYU9hQzc0empEUkNwTnZfTEJpN1AtRWRFQTRhLTl1MUJ5bGthRm9HZ2dxSXRheWxBZTd2WmpQdmE1Wm8yM1NiYkRXbFc0cEs0dTMzN1JhYi1JaEw5THY0U20tRWhxS2Q0RHVDZzQta3ItUFBXWXNhTDQ1QlNsTVpQVUNrVURCV3pKdWp5UlpWUzRwZ0dpZUxpSmFSdUtfZ195WXhmaU9RbEJtVkZsY1BfdjQxZUxybzNiUQ?oc=5"
       }
     ],
     "status": "official",
@@ -26472,9 +27005,9 @@
     "title": "The 20 greatest hair metal bands of all time - Yardbarker",
     "src": "Yardbarker",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGFlMlZ0dHZ4SVdvaWVmeWlpRU9OU1V1X09NNGgtUU5HV3VPV29yQzg1S2ZjWGpqZWdFWlpRdUdwdGFNbEwwaVBFdEYxUlItOE54VExJRWFmaUo0S2tnZlcyOEdURTNmY2N0QmxocmQ0ODZfbjgwak1XUTRvY3lmckRVdjlrbFdVY0E3LXBQMjVDdzFEci0tcnROYXk3NVEzQlBvTjR3ZGtJOWM?oc=5",
-    "timestamp": "2026-10-26T16:06:10+00:00",
-    "isoDate": "2026-10-26",
-    "date": "26 Out",
+    "timestamp": "2026-10-27T17:44:14+00:00",
+    "isoDate": "2026-10-27",
+    "date": "27 Out",
     "d": "The 20 greatest hair metal bands of all time Yardbarker",
     "category": "metal",
     "sources": [
