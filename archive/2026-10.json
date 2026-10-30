@@ -563,10 +563,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -588,10 +588,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -638,10 +638,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -1088,10 +1088,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1163,10 +1163,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1713,10 +1713,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1738,10 +1738,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1763,10 +1763,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -2385,10 +2385,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -2410,10 +2410,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -2443,13 +2443,13 @@
     "section": "buzz"
   },
   {
-    "title": "Fire-Toolz – “Cluster Around My Opening!”",
+    "title": "Fire-Toolz – “Clustered Around My Opening!”",
     "src": "Stereogum",
     "url": "https://stereogum.com/2516134/fire-toolz-cluster-around-my-opening/music/",
     "timestamp": "2026-10-30T15:34:26+00:00",
     "isoDate": "2026-10-30",
     "date": "30 Out",
-    "d": "The post Fire-Toolz – “Cluster Around My Opening!” appeared first on Stereogum .",
+    "d": "The post Fire-Toolz – “Clustered Around My Opening!” appeared first on Stereogum .",
     "category": "general",
     "sources": [
       {
@@ -3360,10 +3360,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -3410,10 +3410,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -3812,7 +3812,7 @@
     "title": "200 Stab Wounds, Rev3rent, Darkest Hour & More Added to Metal Injection's Top Tracks of the Week",
     "src": "Metal Injection",
     "url": "https://metalinjection.net/playlist/top-tracks-of-the-week-playlist/200-stab-wounds-rev3rent-darkest-hour-more-added-to-metal-injections-top-tracks-of-the-week",
-    "timestamp": "2026-10-30T16:15:42+00:00",
+    "timestamp": "2026-10-30T16:17:08+00:00",
     "isoDate": "2026-10-30",
     "date": "30 Out",
     "d": "As well as picks from Native James, Enslaved, Gaera, and more. The post 200 Stab Wounds, Rev3rent, Darkest Hour & More Added to Metal Injection's Top Tracks of the Week appeared first on Metal Injection .",
@@ -3821,6 +3821,10 @@
       {
         "name": "Metal Injection",
         "url": "https://metalinjection.net/playlist/top-tracks-of-the-week-playlist/200-stab-wounds-rev3rent-darkest-hour-more-added-to-metal-injections-top-tracks-of-the-week"
+      },
+      {
+        "name": "Metal Injection",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYm1kWEd0dTZ3WER5MWtMOV9fdDRhbFFjdlFjanVaZG5OSmNCb0tPaDF2RE15RTB6aWFFVlU3dmRpU1NRbnNfMXhyalozTGhoenBlZkpMMnd5YlBWNGpPc0Nnam5KUUR3X2tXVGV0VlJ0T2ZqMC1EaDd0bzVrdlg2cDQxbm1WaUkwazNxUVkwOXItN04wM0F3NW5XQ05XbVUtN1l5VGRXR1hXSjYteVVSZ2s2czRIVEtsWEFzOUFockw0NXBQXzJ4Uk5BRl8zYXBac3JGNnV1VmpEcTZiSm5Bajd3X1VMZHdZcnFmdldseng?oc=5"
       }
     ],
     "status": "official",
@@ -3871,6 +3875,10 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/most-streamed-metal-artists-spotify/"
+      },
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80bmQtR3dJaFNJNjdhdU1UYklsaEMwRHVOVVVZaEpiZnpsMEROMmFvSmFVNVgtR3d2b1gzR19kcElrVXBnb0lTVDdvcHBaT2U0SHdHSFhtWW13U0t6OHhOSjA3cVdDZzF1?oc=5"
       }
     ],
     "status": "official",
@@ -3962,7 +3970,7 @@
     "title": "Debut album by Canadian punk quartet Piss is an expression of molten rage — review - Financial Times",
     "src": "Financial Times",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjBFYnpfVTEtTm1ZTnVQTGp1MXNtMUZzalh6cV94TXJqNGFXSUxkWWRJU2VnaXRtRXRnMHhnb2hmZlFDdEF3S210ZnlqU2twME4yOWlJMllQVG5EbzB2cTJSU280VFdGajN1c0thbWVVaks5ZkN3dGdwZEo0MnNYei1vMlY?oc=5",
-    "timestamp": "2026-10-30T05:00:13+00:00",
+    "timestamp": "2026-10-30T05:01:57+00:00",
     "isoDate": "2026-10-30",
     "date": "30 Out",
     "d": "Debut album by Canadian punk quartet Piss is an expression of molten rage — review Financial Times",
@@ -4096,6 +4104,10 @@
       {
         "name": "Pitchfork",
         "url": "https://pitchfork.com/story/florence-and-the-machine-announce-everybody-scream-tour-live-album/"
+      },
+      {
+        "name": "Pitchfork",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNl9MSlp1eFVSQUc4R2RUYnZOR2RIdW80Nk5mMWg5WnJwZ29yamc2b0x4VkdKMDYzRU83dTVfcE1INUpDa1g2b2hXUDJQQ1pGcVQ5cWg2c2U1bzNBeDZZbFlLZGpFS0xPSGw5NmF0VnpiUE85Nk1kTTdiZUpoYUZsUHZ5QWpQQ0xrRnRQWXpWYTJYd1Q2OUVnZk5wNA?oc=5"
       }
     ],
     "status": "official",
@@ -4580,10 +4592,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -4605,10 +4617,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -4706,9 +4718,9 @@
     "title": "NICKELBACK ANNOUNCES THE EVERYTHING UNDER THE SUN TOUR - Metal Planet Music",
     "src": "Metal Planet Music",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQTlFSzBxNkU3MHg2RC11ODVoR01XVjVreEEyMW1pWlZNdGMxNzhxd2paekwzTnlOTFVoMjRYVy1XYTVDNThQOWpBZVRVLXU5UE1jcVI2dnVoUGZCVm03SGh6dUpDRUs4VGpGbXVXRWZsMy1CWm5xdjE3LXNNaDZQX1JtTXR2cktfMDNxc2paZEZkUS1QXzBF?oc=5",
-    "timestamp": "2026-10-29T08:26:24+00:00",
-    "isoDate": "2026-10-29",
-    "date": "29 Out",
+    "timestamp": "2026-10-30T13:53:19+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
     "d": "NICKELBACK ANNOUNCES THE EVERYTHING UNDER THE SUN TOUR Metal Planet Music",
     "category": "metal",
     "sources": [
@@ -4720,12 +4732,1340 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "b": "Various Artists",
+    "t": "Nordic Power Rock and Roll Vol.4.",
+    "g": "core",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "30 Out",
+    "isoDate": "2026-10-30",
+    "url": "https://musicbrainz.org/release-group/26f8f3c7-eb4f-459c-931e-9f2c8d594b99",
+    "d": "rock, hardcore, metal, country",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/26f8f3c7-eb4f-459c-931e-9f2c8d594b99"
+      }
+    ],
+    "mbid": "26f8f3c7-eb4f-459c-931e-9f2c8d594b99",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Lopsha",
+    "t": "For Akira I",
+    "g": "indus",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "30 Out",
+    "isoDate": "2026-10-30",
+    "url": "https://musicbrainz.org/release-group/8471d490-2267-422e-841d-eafdda6f9346",
+    "d": "industrial, post-punk, darkwave, gothic rock",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/8471d490-2267-422e-841d-eafdda6f9346"
+      }
+    ],
+    "mbid": "8471d490-2267-422e-841d-eafdda6f9346",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Kendo",
+    "t": "Proof Of Concept",
+    "g": "core",
+    "fmt": "EP",
+    "lbl": "MusicBrainz",
+    "date": "30 Out",
+    "isoDate": "2026-10-30",
+    "url": "https://musicbrainz.org/release-group/085a493b-cd63-4427-95a8-b1dde6b81ac7",
+    "d": "post-hardcore",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/085a493b-cd63-4427-95a8-b1dde6b81ac7"
+      }
+    ],
+    "mbid": "085a493b-cd63-4427-95a8-b1dde6b81ac7",
+    "star": true,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Jean Michael Paul",
+    "t": "Neon Nights & Electric Hearts",
+    "g": "electro",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "30 Out",
+    "isoDate": "2026-10-30",
+    "url": "https://musicbrainz.org/release-group/daa1b3af-35cf-4e1a-ba5f-e97d4808872a",
+    "d": "80s, 90s, synth-pop, dance-pop, synthwave",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/daa1b3af-35cf-4e1a-ba5f-e97d4808872a"
+      }
+    ],
+    "mbid": "daa1b3af-35cf-4e1a-ba5f-e97d4808872a",
+    "star": false,
+    "kind": "release",
+    "section": "main"
+  },
+  {
+    "title": "From First To Last Premiere “Picking Clothes To Die In” Music Video",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/30/news/from-first-to-last-premiere-picking-clothes-to-die-in-music-video/",
+    "timestamp": "2026-10-30T20:25:46+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Filmed in Anaheim earlier this month. The post From First To Last Premiere “Picking Clothes To Die In” Music Video appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/30/news/from-first-to-last-premiere-picking-clothes-to-die-in-music-video/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Rage Against The Machine’s Zack De La Rocha Hopes Turnstile’s Rise Will Inspire Fans To Dig Deeper Into Hardcore’s Roots",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/30/news/rage-against-the-machines-zack-de-la-rocha-hopes-turnstiles-rise-will-inspire-fans-to-dig-deeper-into-hardcores-roots/",
+    "timestamp": "2026-10-30T20:08:12+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "\"Personally, I don't think a band like Turnstile could exist without something like Bad Brains.\" The post Rage Against The Machine’s Zack De La Rocha Hopes Turnstile’s Rise Will Inspire Fans To Dig Deeper Into Hardcore’s Roots appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/30/news/rage-against-the-machines-zack-de-la-rocha-hopes-turnstiles-rise-will-inspire-fans-to-dig-deeper-into-hardcores-roots/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Alice in Chains’ Jerry Cantrell Posts Photo of New Haircut",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/alice-in-chains-jerry-cantrell-haircut-2026/",
+    "timestamp": "2026-10-30T19:59:56+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "The Alice in Chains leader is back to sporting a closely-cropped look similar to 'The Devil Put Dinosaurs Here' era. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/alice-in-chains-jerry-cantrell-haircut-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch: Smash Mouth Covered Slipknot’s “Duality” In The Studio",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/30/news/watch-smash-mouth-covered-slipknots-duality-in-the-studio/",
+    "timestamp": "2026-10-30T19:31:24+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "The pop rock band were tasked by Musora to cover the track during a single three-hour studio session. The post Watch: Smash Mouth Covered Slipknot’s “Duality” In The Studio appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/30/news/watch-smash-mouth-covered-slipknots-duality-in-the-studio/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "KILLSWITCH ENGAGE's JESSE LEACH Is Open To Releasing A New 'EP Or A Couple Of Songs' Instead Of Focusing On Making A Full-Length Album",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/killswitch-engages-jesse-leach-is-open-to-releasing-a-new-ep-or-a-couple-of-songs-instead-of-focusing-on-making-a-full-length-album",
+    "timestamp": "2026-10-30T19:26:17+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "In a new interview with Australia's Heavy, KILLSWITCH ENGAGE singer Jesse Leach spoke about the possibility of the band releasing an EP or standalone singles as opposed to focusing on making a full-length album. Asked if he finds the prospect of issuing more frequent singles \"more liberating or chal...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/killswitch-engages-jesse-leach-is-open-to-releasing-a-new-ep-or-a-couple-of-songs-instead-of-focusing-on-making-a-full-length-album"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "The 31 Scariest Metal Album Covers of All Time",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/scariest-metal-album-covers/",
+    "timestamp": "2026-10-30T19:20:18+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Take a look at some of the scariest, most frightening album covers in metal. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/scariest-metal-album-covers/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Islander’s New Single “Pineapple Frankenstein (Strange)” Lands Online",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/30/news/islanders-new-single-pineapple-frankenstein-strange-lands-online/",
+    "timestamp": "2026-10-30T19:06:08+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "First came \"Coconut Dracula\"... The post Islander’s New Single “Pineapple Frankenstein (Strange)” Lands Online appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/30/news/islanders-new-single-pineapple-frankenstein-strange-lands-online/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Discover the crazy purchase by System Of A Down drummer John Dolmayan - Chaoszine",
+    "src": "Chaoszine",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSlU5NkxaOTU4dWtyb2RjSHNLbkN6cmo0emxLTUZHTWJidlNRdHNOdGhTWl9CN2doWXNQWGFWbDRBNnZScmZxNUZkSnBhR1RsWmRzT1lraHlOdnZrS1ZHYW0xWjIxZDVqQjFQbkZOV0hPTTI5a1NXSEp1b0JqVW13UQ?oc=5",
+    "timestamp": "2026-10-30T18:54:44+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Discover the crazy purchase by System Of A Down drummer John Dolmayan Chaoszine",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Chaoszine",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSlU5NkxaOTU4dWtyb2RjSHNLbkN6cmo0emxLTUZHTWJidlNRdHNOdGhTWl9CN2doWXNQWGFWbDRBNnZScmZxNUZkSnBhR1RsWmRzT1lraHlOdnZrS1ZHYW0xWjIxZDVqQjFQbkZOV0hPTTI5a1NXSEp1b0JqVW13UQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Russian Circles’ New In-Studio Session For KEXP Released",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/30/news/russian-circles-new-in-studio-session-for-kexp-released/",
+    "timestamp": "2026-10-30T18:51:53+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "You can watch them perform a four-song set that was filmed this past August. The post Russian Circles’ New In-Studio Session For KEXP Released appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/30/news/russian-circles-new-in-studio-session-for-kexp-released/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "NICKELBACK's MIKE KROEGER On His Three-Decade Working Relationship With Half Brother CHAD: 'We're Just Incredibly Stubborn'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/nickelbacks-mike-kroeger-on-his-three-decade-working-relationship-with-half-brother-chad-were-just-incredibly-stubborn",
+    "timestamp": "2026-10-30T18:49:15+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "During an appearance on the October 29 episode of SiriusXM's \"Trunk Nation With Eddie Trunk\", NICKELBACK bassist Mike Kroeger, half brother of singer Chad Kroeger, was asked how he and Chad have managed to work together so well for over 30 years. Mike responded (as transcribed by BLABBERMOUTH.NET):...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/nickelbacks-mike-kroeger-on-his-three-decade-working-relationship-with-half-brother-chad-were-just-incredibly-stubborn"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Native James’ “DUMB BRUDDAH” Music Video Sports A Nod To Korn’s “Freak On A Leash”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/30/news/native-james-dumb-bruddah-music-video-sports-a-nod-to-korns-freak-on-a-leash/",
+    "timestamp": "2026-10-30T18:43:01+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "The British rap metaller's latest single is full of nü-metal hallmarks. The post Native James’ “DUMB BRUDDAH” Music Video Sports A Nod To Korn’s “Freak On A Leash” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/30/news/native-james-dumb-bruddah-music-video-sports-a-nod-to-korns-freak-on-a-leash/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Currents Drop \"Retributioner,\" Announce New Record 'Our Fates Lie In Tandem'",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/new-music/currents-drop-retributioner-announce-new-record-our-fates-lie-in-tandem",
+    "timestamp": "2026-10-30T18:41:31+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "'Our Fates Lie in Tandem' comes out February 12 on Rise Records. The post Currents Drop \"Retributioner,\" Announce New Record 'Our Fates Lie In Tandem' appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/new-music/currents-drop-retributioner-announce-new-record-our-fates-lie-in-tandem"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Foo Fighters Closed Out Their ‘Jimmy Kimmel Live!’ Residency With Their Cover Of “Baker Street”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/30/news/foo-fighters-closed-out-their-jimmy-kimmel-live-residency-with-their-cover-of-baker-street/",
+    "timestamp": "2026-10-30T18:31:05+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Their mid 90s cover of that track has also newly returned to streaming services. The post Foo Fighters Closed Out Their ‘Jimmy Kimmel Live!’ Residency With Their Cover Of “Baker Street” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/30/news/foo-fighters-closed-out-their-jimmy-kimmel-live-residency-with-their-cover-of-baker-street/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "6 best new songs right now: 10/30/26",
+    "src": "Revolver",
+    "url": "https://www.revolvermag.com/feature/6-best-new-songs-right-now-10-30-26/",
+    "timestamp": "2026-10-30T18:30:39+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Amira Elfeky, Ministry, 200 Stab Wounds and more",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Revolver",
+        "url": "https://www.revolvermag.com/feature/6-best-new-songs-right-now-10-30-26/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "What Fans Think My Chemical Romance's New Short Film Really Means",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/my-chemical-romances-animated-short-film-theories/",
+    "timestamp": "2026-10-30T18:22:28+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Like everything about the band, My Chemical Romance fans have theories about what is really going on in the new animated short film. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/my-chemical-romances-animated-short-film-theories/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Zardonic Debuts “Godhead Interface” Featuring Fear Factory’s Dino Cazares & More",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/30/news/zardonic-debuts-godhead-interface-featuring-fear-factorys-dino-cazares-more/",
+    "timestamp": "2026-10-30T18:13:26+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Members of Mayhem also guest on Zardonic's newly announced album \"DIGICIDE\". The post Zardonic Debuts “Godhead Interface” Featuring Fear Factory’s Dino Cazares & More appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/30/news/zardonic-debuts-godhead-interface-featuring-fear-factorys-dino-cazares-more/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Are These Actually Aerosmith's Last 2 Shows Ever?",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/aerosmith-retirement-rumors/",
+    "timestamp": "2026-10-30T18:02:22+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Serving as the MC, comedian Bill Burr declared that this weekend would mark the “final two shows in Aerosmith’s history.” Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/aerosmith-retirement-rumors/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "What (+ Who) We'd Like to See at Next Aerosmith & Friends Show",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/what-who-like-see-second-aerosmith-friends-show/",
+    "timestamp": "2026-10-30T17:50:19+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "There's still a wealth of talent that didn't play the opening night of the 'Aerosmith + Friends' shows. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/what-who-like-see-second-aerosmith-friends-show/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Ministry’s “Crickets” Music Video Launched Alongside The Arrival Of Their Final Studio Album",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/30/news/ministrys-crickets-music-video-launched-alongside-the-arrival-of-their-final-studio-album/",
+    "timestamp": "2026-10-30T17:47:20+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "\"Hate To Go - Take Out Or Delivery\" has officially been served. The post Ministry’s “Crickets” Music Video Launched Alongside The Arrival Of Their Final Studio Album appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/30/news/ministrys-crickets-music-video-launched-alongside-the-arrival-of-their-final-studio-album/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Aim award-winning artist Native James releases new single, \"Dumb Bruddah\" via Sharptone Records - Chaoszine",
+    "src": "Chaoszine",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29YMnUzdHJaTU5iNGlNRWUyeHM4RDBLVE5QN2RBWkJfLTgwTTF6ZmZYTS1Nc2NJakFRS1F1bG1nM3hDMmVZZ0RHeFlaMUlYY2lGQkhBTkoyUXFzSEYzNzdaYll1S1dZWGxISjMyQ0JFV0xMWGN0ekZFbU1hM3hydUJ0MFRWbk1YTXlkXy1DQjh3YUhzTnBPdFBqRGtHc1o2aWdTY2xrZ0dleDlDUVhZbzlBa0tjZw?oc=5",
+    "timestamp": "2026-10-30T16:54:43+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Aim award-winning artist Native James releases new single, \"Dumb Bruddah\" via Sharptone Records Chaoszine",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Chaoszine",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb29YMnUzdHJaTU5iNGlNRWUyeHM4RDBLVE5QN2RBWkJfLTgwTTF6ZmZYTS1Nc2NJakFRS1F1bG1nM3hDMmVZZ0RHeFlaMUlYY2lGQkhBTkoyUXFzSEYzNzdaYll1S1dZWGxISjMyQ0JFV0xMWGN0ekZFbU1hM3hydUJ0MFRWbk1YTXlkXy1DQjh3YUhzTnBPdFBqRGtHc1o2aWdTY2xrZ0dleDlDUVhZbzlBa0tjZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Cheap Trick confirm their first touring break in 50 years and rule out health concerns - Chaoszine",
+    "src": "Chaoszine",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuVkNaY2hhMDFKTGZMYnk0SFFsTVVLc2NqLVFzSkUwaU9TVzA1SE5nUUFxU0p0Tkk3bGtBbnk1ekJJNkR5RWFScllBRGt4eXNaUllSTkpqczJRMXdwNmhod3lzNmtvOElnMTJ0cXU0ZzB6bHFGdGdVUDd4MA?oc=5",
+    "timestamp": "2026-10-30T07:04:33+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Cheap Trick confirm their first touring break in 50 years and rule out health concerns Chaoszine",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Chaoszine",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuVkNaY2hhMDFKTGZMYnk0SFFsTVVLc2NqLVFzSkUwaU9TVzA1SE5nUUFxU0p0Tkk3bGtBbnk1ekJJNkR5RWFScllBRGt4eXNaUllSTkpqczJRMXdwNmhod3lzNmtvOElnMTJ0cXU0ZzB6bHFGdGdVUDd4MA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
     "star": false,
     "kind": "news",
     "section": "news"
+  },
+  {
+    "title": "Rose Heaven explore heavier, progressive sounds on new single “Tales For Us” - Chaoszine",
+    "src": "Chaoszine",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRm14Y0MzU2JaUHBFU2QwY29ySGpFU1dnb3JDbHBKT1hFTk94ZTRhWVc4ZVF6dm1ldHZIUERwRURId0hoZjBHa2V0Q3VNVE9kSDl5UzlEZ1I3QVNBRW42Z2Q5OUVaWlZVN1pnOEludEN4cHpDVFRJUmZhanJLV2twc2paVXUzSkdGeW5QTngzeUJvTV9JWmtwbWNJNFY?oc=5",
+    "timestamp": "2026-10-30T06:19:31+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Rose Heaven explore heavier, progressive sounds on new single “Tales For Us” Chaoszine",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Chaoszine",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRm14Y0MzU2JaUHBFU2QwY29ySGpFU1dnb3JDbHBKT1hFTk94ZTRhWVc4ZVF6dm1ldHZIUERwRURId0hoZjBHa2V0Q3VNVE9kSDl5UzlEZ1I3QVNBRW42Z2Q5OUVaWlZVN1pnOEludEN4cHpDVFRJUmZhanJLV2twc2paVXUzSkdGeW5QTngzeUJvTV9JWmtwbWNJNFY?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Pain premiere new single with live video from Mallorca festival - On Your Markus",
+    "src": "On Your Markus",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IUFVKWGQ0RElwdldaMXBYZEtmOXZ0U3FUVW9tYW5wdmU5ZlF6UnhJaXNOZzF3dWhZQnZYd1VDeVVnLU5MbGctN0VNX2gtU2Zyc0dtYTRiclpqMFJFZWV6REllSHhoTW4zT282dUs1WnVYSnQ3RWc?oc=5",
+    "timestamp": "2026-10-30T06:07:44+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Pain premiere new single with live video from Mallorca festival On Your Markus",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "On Your Markus",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IUFVKWGQ0RElwdldaMXBYZEtmOXZ0U3FUVW9tYW5wdmU5ZlF6UnhJaXNOZzF3dWhZQnZYd1VDeVVnLU5MbGctN0VNX2gtU2Zyc0dtYTRiclpqMFJFZWV6REllSHhoTW4zT282dUs1WnVYSnQ3RWc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "You Can Now Share Your Pitchfork Reviews",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/you-can-now-share-your-pitchfork-reviews/",
+    "timestamp": "2026-10-30T19:45:33+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/you-can-now-share-your-pitchfork-reviews/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "DIIV Releases New Album, Announces World Tour - Pollstar News",
+    "src": "Pollstar News",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYjl4QUFHMkNLTk1vUUx0SngwZXF5MzhIMldtclB5MzR4bFlhWWZodG9FNWEwaUFGRV9YaWIxdjlMWnhpcEtSdUM0UVRLNi1nVi1nRFR0MEZOM0l1VHY0T2lZcFRvRG9LYUtzOVVYSHNpM2R1ekVKVHZXSm1ENzJvRlRGNHhoSG1kMXc?oc=5",
+    "timestamp": "2026-10-30T19:20:23+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "DIIV Releases New Album, Announces World Tour Pollstar News",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pollstar News",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYjl4QUFHMkNLTk1vUUx0SngwZXF5MzhIMldtclB5MzR4bFlhWWZodG9FNWEwaUFGRV9YaWIxdjlMWnhpcEtSdUM0UVRLNi1nVi1nRFR0MEZOM0l1VHY0T2lZcFRvRG9LYUtzOVVYSHNpM2R1ekVKVHZXSm1ENzJvRlRGNHhoSG1kMXc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The 5 Best Songs Of The Week",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2516038/the-5-best-songs-of-the-week-650/lists/the-5-best-songs-of-the-week/",
+    "timestamp": "2026-10-30T19:15:12+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "The post The 5 Best Songs Of The Week appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2516038/the-5-best-songs-of-the-week-650/lists/the-5-best-songs-of-the-week/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ministry Release Hate to Go (Take Out or Delivery), Their 17th and Final Album: Stream",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/ministry-hate-to-go-take-out-or-delivery-stream/",
+    "timestamp": "2026-10-30T19:07:45+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "The legendary industrial band's final studio album is another politically charged effort. Ministry Release Hate to Go (Take Out or Delivery), Their 17th and Final Album: Stream Langdon Hickman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/ministry-hate-to-go-take-out-or-delivery-stream/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ministry release \"Crickets\" music video as final studio album \"Hate To Go\" arrives - Chaoszine",
+    "src": "Chaoszine",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6V0d0S2NJRXFzenpSV2d1M0RIeVNMS28zUjVaWEF2ZnAwcnB3d0hlaDlzbWV3ZmJHQzgyZUlqRXlFaER3NWdyMTVvQjZlalNQNlB2X1VIRUJUMGh1X2pWSGxFMDIyM0djQTdEaVpvTmxiWG9vdjJSVA?oc=5",
+    "timestamp": "2026-10-30T19:04:44+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Ministry release \"Crickets\" music video as final studio album \"Hate To Go\" arrives Chaoszine",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Chaoszine",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6V0d0S2NJRXFzenpSV2d1M0RIeVNMS28zUjVaWEF2ZnAwcnB3d0hlaDlzbWV3ZmJHQzgyZUlqRXlFaER3NWdyMTVvQjZlalNQNlB2X1VIRUJUMGh1X2pWSGxFMDIyM0djQTdEaVpvTmxiWG9vdjJSVA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Where Has All The Folk-Rock Gone?",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2516172/where-has-all-the-folk-rock-gone/columns/chained-to-the-rhythm/",
+    "timestamp": "2026-10-30T19:00:08+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Following pop music — especially at the stratum just below the A-list — sometimes feels like following a neverending dance of musicians' pivots. Artists, looking for a breakthrough and having less insight than ever into how to get one, don't develop linearly so much as trade sounds with one another. They shift toward o",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2516172/where-has-all-the-folk-rock-gone/columns/chained-to-the-rhythm/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Heavy Song of the Week: Ministry Go Out with a Bang on “Crickets”",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/heavy-song-of-the-week-ministry-crickets/",
+    "timestamp": "2026-10-30T18:59:49+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Ministry revisit their classic sound on \"Crickets\" from their final album, Hate to Go. Heavy Song of the Week: Ministry Go Out with a Bang on “Crickets” Langdon Hickman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/heavy-song-of-the-week-ministry-crickets/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "David Archuleta brings holiday cheer with new album, \"Warm Me Up\" - ABC7 Los Angeles",
+    "src": "ABC7 Los Angeles",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkV4Qlh2UDM1cllVcTBucVJOQllKbndMZVVfZl9PQkZ2RlFmSVAxWXRxeGFqQkQ1RkRyc3dIUjY1Um1NTHdXQzctQndkd3lYQWVleGNRT3pnREhHOTJlNzlEMVJPaExheThYRjV6eFpvLTB0SmZiVGhGMVdwMzQzcWJqVVgzM1Z4UVVRd0Q5NU5MZzdjSmxPRURGQVdJelppY3lMRnFB?oc=5",
+    "timestamp": "2026-10-30T18:51:52+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "David Archuleta brings holiday cheer with new album, \"Warm Me Up\" ABC7 Los Angeles",
+    "category": "general",
+    "sources": [
+      {
+        "name": "ABC7 Los Angeles",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkV4Qlh2UDM1cllVcTBucVJOQllKbndMZVVfZl9PQkZ2RlFmSVAxWXRxeGFqQkQ1RkRyc3dIUjY1Um1NTHdXQzctQndkd3lYQWVleGNRT3pnREhHOTJlNzlEMVJPaExheThYRjV6eFpvLTB0SmZiVGhGMVdwMzQzcWJqVVgzM1Z4UVVRd0Q5NU5MZzdjSmxPRURGQVdJelppY3lMRnFB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Bose’s QuietComfort Headphones Are $160 Off for a Limited Time",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/bose-quietcomfort-headphones-are-160-off/",
+    "timestamp": "2026-10-30T18:44:48+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "That's a 45% off discount from their normal price. Bose’s QuietComfort Headphones Are $160 Off for a Limited Time Scoop Harrison",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/bose-quietcomfort-headphones-are-160-off/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Kanye West reportedly offered Kirk Franklin beats anonymously to avoid upsetting Christian community - Yahoo",
+    "src": "Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWjQ1Q0FlTVpRWEZwbEJXYUVhWkFwTmJ3YTY3YlNMQ1hhdmFWcmRMeFZST0VmWkEyTEpvdUo2MEt1Y19MQ08wX1lJb2FTeEVudmxaU0d4LVN2NjZBMGdyMzFRRGxKOXdYanpsOFczN2ttNXlkTV9SMk01R2RCSzBaWklGdVVxZG1XQk1VbWlzTGRMVGd6dGJ1VHlDbThkYTdjbVE?oc=5",
+    "timestamp": "2026-10-30T18:37:57+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Kanye West reportedly offered Kirk Franklin beats anonymously to avoid upsetting Christian community Yahoo",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWjQ1Q0FlTVpRWEZwbEJXYUVhWkFwTmJ3YTY3YlNMQ1hhdmFWcmRMeFZST0VmWkEyTEpvdUo2MEt1Y19MQ08wX1lJb2FTeEVudmxaU0d4LVN2NjZBMGdyMzFRRGxKOXdYanpsOFczN2ttNXlkTV9SMk01R2RCSzBaWklGdVVxZG1XQk1VbWlzTGRMVGd6dGJ1VHlDbThkYTdjbVE?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Zack de la Rocha: Turnstile Are a “Bridge” to Bad Brains, Minor Threat, and The Clash",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/zack-de-la-rocha-turnstile/",
+    "timestamp": "2026-10-30T18:29:46+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "The Rage Against the Machine vocalists weighs in on the impact of Turnstile. Zack de la Rocha: Turnstile Are a “Bridge” to Bad Brains, Minor Threat, and The Clash Spencer Kaufman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/zack-de-la-rocha-turnstile/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "bloodsports – “Ten Thousand Feet”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2516011/bloodsports-ten-thousand-feet/music/",
+    "timestamp": "2026-10-30T18:27:25+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "The post bloodsports – “Ten Thousand Feet” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2516011/bloodsports-ten-thousand-feet/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Doechii – “Lock Jaw”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2516176/doechii-lock-jaw/music/",
+    "timestamp": "2026-10-30T18:22:48+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "The post Doechii – “Lock Jaw” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2516176/doechii-lock-jaw/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Paul Smith – “Lay Your Head Down”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2516170/paul-smith-lay-your-head-down/music/",
+    "timestamp": "2026-10-30T18:15:01+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "The post Paul Smith – “Lay Your Head Down” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2516170/paul-smith-lay-your-head-down/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Belly Gang Kushington Is The New Old Atlanta",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2516155/belly-gang-kushington-is-the-new-old-atlanta/columns/say-whats-real-the-month-in-rap/",
+    "timestamp": "2026-10-30T18:00:21+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Even speaking to him through a Zoom call, and actually being from the area myself, it’s hard to say I’ve ever met someone more Atlanta than Belly Gang Kushington. Meshed with a husky baritone, his thick Adamsville drawl sounds like he’s got molasses and tobacco slathered through his jaw. If you ask him about his family",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2516155/belly-gang-kushington-is-the-new-old-atlanta/columns/say-whats-real-the-month-in-rap/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Esmerelda Road – “Here Honey”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2516160/esmerelda-road-here-honey/music/",
+    "timestamp": "2026-10-30T17:58:46+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "The post Esmerelda Road – “Here Honey” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2516160/esmerelda-road-here-honey/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Queens of the Stone Age Release Ninth Album ‘Perfecth’ Friday - WDHA FM",
+    "src": "WDHA FM",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN1VIRjMxR1BJSEdwQ2NPalRJQXVLNmNKUFJNZlNsenlaU29sWkZicnJHSlVvYzhTaFgtR2hTakFoRkhqWjQtNmJnLUlVX2FvZV9udGV2QmRTYzhwUTlfZHJva2xlQlk3S3NmTDNsTjhFNjROQnQtODViYUxnakNXaXB3c0pBNXd4SHZScDhsWlhXRFN0?oc=5",
+    "timestamp": "2026-10-30T17:54:04+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Queens of the Stone Age Release Ninth Album ‘Perfecth’ Friday WDHA FM",
+    "category": "general",
+    "sources": [
+      {
+        "name": "WDHA FM",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN1VIRjMxR1BJSEdwQ2NPalRJQXVLNmNKUFJNZlNsenlaU29sWkZicnJHSlVvYzhTaFgtR2hTakFoRkhqWjQtNmJnLUlVX2FvZV9udGV2QmRTYzhwUTlfZHJva2xlQlk3S3NmTDNsTjhFNjROQnQtODViYUxnakNXaXB3c0pBNXd4SHZScDhsWlhXRFN0?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Queens of the Stone Age Release New Album Perfecth: Stream",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/queens-of-the-stone-age-perfecth-album-stream/",
+    "timestamp": "2026-10-30T17:44:32+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Josh Homme and company are back with a new nine-song effort. Queens of the Stone Age Release New Album Perfecth: Stream Langdon Hickman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/queens-of-the-stone-age-perfecth-album-stream/"
+      },
+      {
+        "name": "Consequence of Sound",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWUlCbWczT01uTUhITGMtdEFTcFRmU2tOcU44ZVhRU2ZRTjFKVHFRMXc3ZXM1TzBBMXJKd3Bpd0hIRDJKeV9hRzhaTkdxaE9Rd0ktLXZ3UGp5OTFDbWUySkhEdXFOajdsd0QxenVwQi1sR1BBYXFrMFN1QXdFYmxLRm4xU3U?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 2,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "King Gnu 2027 US Tour Announced with Dates in LA, NY - Crunchyroll",
+    "src": "Crunchyroll",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNXB6Qjd4dDhoVlR1LVhMS2VQdzVMVVktMnA0U1E3TmM5RktCOFB0b2JSaFc2aUZOMjRGYW5aeDhFdlFwUDZrZXNLQzM4Nk9GeUd1S3dHTmJGRWducVJEcEVJZmxINjdabzFmSmFpdVdrSEtpdzB2bFJVU19fRnBnTXYtY0lIRW9hVmxMcHlxeHA2Q3FMYXN5NQ?oc=5",
+    "timestamp": "2026-10-30T16:55:00+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "King Gnu 2027 US Tour Announced with Dates in LA, NY Crunchyroll",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Crunchyroll",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNXB6Qjd4dDhoVlR1LVhMS2VQdzVMVVktMnA0U1E3TmM5RktCOFB0b2JSaFc2aUZOMjRGYW5aeDhFdlFwUDZrZXNLQzM4Nk9GeUd1S3dHTmJGRWducVJEcEVJZmxINjdabzFmSmFpdVdrSEtpdzB2bFJVU19fRnBnTXYtY0lIRW9hVmxMcHlxeHA2Q3FMYXN5NQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "‘Inner Need to Engage With Heritage’ – Ukrainian Singer Khrystyna Soloviy on Stories Through Music - Kyiv Post",
+    "src": "Kyiv Post",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UTnhuTVNDM3UtMVlDVEpzM1VuZlpSYlRpVjRTZV9sb2FjdGw4QmpyNmJGVVFrOHJZclVWTWxZeEF0b3FBRWlDOEZmbEpNNnhzd3BF?oc=5",
+    "timestamp": "2026-10-30T11:56:12+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "‘Inner Need to Engage With Heritage’ – Ukrainian Singer Khrystyna Soloviy on Stories Through Music Kyiv Post",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Kyiv Post",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UTnhuTVNDM3UtMVlDVEpzM1VuZlpSYlRpVjRTZV9sb2FjdGw4QmpyNmJGVVFrOHJZclVWTWxZeEF0b3FBRWlDOEZmbEpNNnhzd3BF?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Bruce Springsteen and The E Street Band Release Complete Philadelphia Concert Finale With \"Born to Run,\" \"Dancing in the Dark\" and Bob Dylan's \"Chimes of Freedom\" - That Eric Alper",
+    "src": "That Eric Alper",
+    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQZEg2ZklxMy1MMVZNS0tHZ0hYNkxtSlN0Z29JX0l3LU9WT3FRRWpIUi1iNE9wYTZ5OXNhRjBkd0NROExNNjZtaXRuTFZya0tiSEU5SFpJY1d6WjF5NDNaTjd2d3YtQlZGNXhaQ3plSEZkeG90RVF2VHBIV0s4aUJVYUZTR29Xc1dON29CMUdRV3FnU2R5VWlVR3dnVW1UZmlUenA2V3Nra2VkOEtWZl91VjRMcVlFczB0OE5ZM3NJbmdwTEtmVkNlYThyNDZ3WE80dkEyd05yOEhpbDlRV1NhS0I3S3p1bHRWUTBrRTFQUjdqU2o1SmVKcFZTcFgzZzlVSG9uTl94c2ZyUTJHQkczOUJxZEFDMnV3V2J2M213Zy1rUQ?oc=5",
+    "timestamp": "2026-10-30T01:02:05+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Bruce Springsteen and The E Street Band Release Complete Philadelphia Concert Finale With \"Born to Run,\" \"Dancing in the Dark\" and Bob Dylan's \"Chimes of Freedom\" That Eric Alper",
+    "category": "general",
+    "sources": [
+      {
+        "name": "That Eric Alper",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQZEg2ZklxMy1MMVZNS0tHZ0hYNkxtSlN0Z29JX0l3LU9WT3FRRWpIUi1iNE9wYTZ5OXNhRjBkd0NROExNNjZtaXRuTFZya0tiSEU5SFpJY1d6WjF5NDNaTjd2d3YtQlZGNXhaQ3plSEZkeG90RVF2VHBIV0s4aUJVYUZTR29Xc1dON29CMUdRV3FnU2R5VWlVR3dnVW1UZmlUenA2V3Nra2VkOEtWZl91VjRMcVlFczB0OE5ZM3NJbmdwTEtmVkNlYThyNDZ3WE80dkEyd05yOEhpbDlRV1NhS0I3S3p1bHRWUTBrRTFQUjdqU2o1SmVKcFZTcFgzZzlVSG9uTl94c2ZyUTJHQkczOUJxZEFDMnV3V2J2M213Zy1rUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Luxemburgo: RTL recebe 821 canções para o 'Luxembourg Song Contest 2027' - ESC PORTUGAL",
+    "src": "ESC PORTUGAL",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYWh4WmdRMnIxcFhBdWlPZExTdkZQVjNsNmVrYUNJVFZvMkdPM0h0d054OUs5ak5JNDlmTXBwUWFRdzlsZ0ZKbnQ3X3NwWmdSVjBTZVdEQVFPdFg1TTZ0R3FKN0RQSm1LZk10dUZEaUhkRGRydjRKSnNpVlZSd0pCSHlGYXU?oc=5",
+    "timestamp": "2026-10-30T19:06:00+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Luxemburgo: RTL recebe 821 canções para o 'Luxembourg Song Contest 2027' ESC PORTUGAL",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "ESC PORTUGAL",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYWh4WmdRMnIxcFhBdWlPZExTdkZQVjNsNmVrYUNJVFZvMkdPM0h0d054OUs5ak5JNDlmTXBwUWFRdzlsZ0ZKbnQ3X3NwWmdSVjBTZVdEQVFPdFg1TTZ0R3FKN0RQSm1LZk10dUZEaUhkRGRydjRKSnNpVlZSd0pCSHlGYXU?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Rev3rent unleash \"Eyes Wide Shut\" music video alongside debut album \"She Let The World Run Rampant\" - Chaoszine",
+    "src": "Chaoszine",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uYVFOUTZjUW8zbG9HVWI1VV9tTDhqNW42MGxlR3lJeE1wSk5KOU5qOVdtTkdGeHNLRVhMaHR1X2F5a0JWbk5OZkRKMXRaSlZnS182TExZdkVaS1BIeHdaR0dZMnZCbEJDMzZ2VXFXRFkwQQ?oc=5",
+    "timestamp": "2026-10-30T18:49:44+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Rev3rent unleash \"Eyes Wide Shut\" music video alongside debut album \"She Let The World Run Rampant\" Chaoszine",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Chaoszine",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uYVFOUTZjUW8zbG9HVWI1VV9tTDhqNW42MGxlR3lJeE1wSk5KOU5qOVdtTkdGeHNLRVhMaHR1X2F5a0JWbk5OZkRKMXRaSlZnS182TExZdkVaS1BIeHdaR0dZMnZCbEJDMzZ2VXFXRFkwQQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Madu: a cantora brasileira que transforma a experiência de viver longe de casa em música - SAPO",
+    "src": "SAPO",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWk9DQjJMUWFralcxRmhKQ1BkV0xOdW5nVTk3ZVpKRVp4NjVaWE9Ea1cyUF9PcjhsWUdLX016SThFUHFnWkhPcmhHeE8wTGJteTRHTkU5aHQwbWVNNnRfc2NRNVBBQXJFMVJEU1BWNGh6c1Ezem43cHQ4b3hCSXlnWWh1VVozWDJfNlgyVndYRUV5UTVCZDZkckJ6eWRKQXNYUlY2cnMtNl9xbE90eG1KS08wQVMwMmRtWXlfX2owYXBZc21Wd0lxZlZKdXZPTmVj?oc=5",
+    "timestamp": "2026-10-30T18:16:00+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Madu: a cantora brasileira que transforma a experiência de viver longe de casa em música SAPO",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "SAPO",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWk9DQjJMUWFralcxRmhKQ1BkV0xOdW5nVTk3ZVpKRVp4NjVaWE9Ea1cyUF9PcjhsWUdLX016SThFUHFnWkhPcmhHeE8wTGJteTRHTkU5aHQwbWVNNnRfc2NRNVBBQXJFMVJEU1BWNGh6c1Ezem43cHQ4b3hCSXlnWWh1VVozWDJfNlgyVndYRUV5UTVCZDZkckJ6eWRKQXNYUlY2cnMtNl9xbE90eG1KS08wQVMwMmRtWXlfX2owYXBZc21Wd0lxZlZKdXZPTmVj?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "《Official Website |watchflick.net》E Depois do Adeus: a canção que abriu as portas da liberdade em Portugal - 白鲸出海",
+    "src": "白鲸出海",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByVlhHdUxJX3hMdEpRTVV5MTFPVExjUm1Dc2h6RVVsSDBoa3hZbHd2cktONWV0elNra2VKbUl5OWFfa0l2WHVHR3hNZS1FR0t6NGVfNExYb1hQMTFFQ2VCZ2VLSnByYmpSRWc?oc=5",
+    "timestamp": "2026-10-30T13:46:24+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "《Official Website |watchflick.net》E Depois do Adeus: a canção que abriu as portas da liberdade em Portugal 白鲸出海",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "白鲸出海",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByVlhHdUxJX3hMdEpRTVV5MTFPVExjUm1Dc2h6RVVsSDBoa3hZbHd2cktONWV0elNra2VKbUl5OWFfa0l2WHVHR3hNZS1FR0t6NGVfNExYb1hQMTFFQ2VCZ2VLSnByYmpSRWc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Bárbara Bandeira lança coleção de joias inspirada na água e nas tradições portuguesas - New in Seixal",
+    "src": "New in Seixal",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0RvR0NqODVnZFFYUVEwdTVVMjNTQ1o4dWVSb1BEWHF4X0kxYlFZRUozYW1KZmJNLWtRSEVnNTZ0QjEyQVNHbm9INV9KYlNvOHBGRU1GVFdMQTAyXy1KWU9YNDNnRDJlMGh6OHcwekt1OHA3TWRaOHhxa3czT2hRU2lkR3VqbVpuM1M0eTBSWmd4UTl1ekNmMmhfS21PUGJVUlE2dWFPcWF3SFJ3VzFTR00tNEtweEtCZGJDSw?oc=5",
+    "timestamp": "2026-10-30T13:01:00+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Bárbara Bandeira lança coleção de joias inspirada na água e nas tradições portuguesas New in Seixal",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "New in Seixal",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM0RvR0NqODVnZFFYUVEwdTVVMjNTQ1o4dWVSb1BEWHF4X0kxYlFZRUozYW1KZmJNLWtRSEVnNTZ0QjEyQVNHbm9INV9KYlNvOHBGRU1GVFdMQTAyXy1KWU9YNDNnRDJlMGh6OHcwekt1OHA3TWRaOHhxa3czT2hRU2lkR3VqbVpuM1M0eTBSWmd4UTl1ekNmMmhfS21PUGJVUlE2dWFPcWF3SFJ3VzFTR00tNEtweEtCZGJDSw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Cryptorium",
+    "t": "Through the Bowels of Ceaseless Dissonance Review",
+    "src": "Angry Metal Guy",
+    "date": "30 Out",
+    "isoDate": "2026-10-30",
+    "timestamp": "2026-10-30T19:53:12+00:00",
+    "url": "https://www.angrymetalguy.com/cryptorium-through-the-bowels-of-ceaseless-dissonance-review/",
+    "d": "\"I never heard of Cryptorium before, but the promo spiel for sophomore album Through the Bowels of Ceaseless Dissonance ( Bowels for short from here on) was intriguing enough to get me on board. Promising rough-n-ready Swedeath in the vein of Entombed and Dism",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "cryptorium|through the bowels of ceaseless dissonance review",
+    "kind": "review",
+    "section": "rev"
   },
   {
     "b": "Demonstration of Power",
@@ -8242,7 +9582,7 @@
     "title": "William Shatner's heavy metal band is playing at Ferg's in February - wtsp.com",
     "src": "wtsp.com",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTnZqM3V1T1Fzcms1d2ZBczJna2ZLZ0xvM004Z0tJRTVLV2NWeEtBSk1TZ0FPc0hITUxRcDVvUWFKQ3NiQnZaSTlGU0dzZDdNRXQ1THA3YmRvQkVFM1dnd0RjUkRHRFg4RjhET3gxYVNxb2QzS0NEZElVZ1lFdS1NY1FvQTk2eW1SMGJvN1c0ZlJoM3hGdVVvTlk2NXdVVklDbFE0OWJobUQyOEJ0NzR5NndfRGFlY3NNeEhoQnVINWIwME9wT2VLRWlURHA5aTRSVnhxQ2RiZjNIX3E1Ymc?oc=5",
-    "timestamp": "2026-10-29T18:59:00+00:00",
+    "timestamp": "2026-10-29T18:59:54+00:00",
     "isoDate": "2026-10-29",
     "date": "29 Out",
     "d": "William Shatner's heavy metal band is playing at Ferg's in February wtsp.com",
@@ -8251,15 +9591,19 @@
       {
         "name": "wtsp.com",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTnZqM3V1T1Fzcms1d2ZBczJna2ZLZ0xvM004Z0tJRTVLV2NWeEtBSk1TZ0FPc0hITUxRcDVvUWFKQ3NiQnZaSTlGU0dzZDdNRXQ1THA3YmRvQkVFM1dnd0RjUkRHRFg4RjhET3gxYVNxb2QzS0NEZElVZ1lFdS1NY1FvQTk2eW1SMGJvN1c0ZlJoM3hGdVVvTlk2NXdVVklDbFE0OWJobUQyOEJ0NzR5NndfRGFlY3NNeEhoQnVINWIwME9wT2VLRWlURHA5aTRSVnhxQ2RiZjNIX3E1Ymc?oc=5"
+      },
+      {
+        "name": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWFuVnhuczc1bFdUMnF2TGpuQWthdVFYclhDeEZMZlN0U1BaRVpweXVHU1BYMTlMakdNaTdxMkZrTVA2bUFDelE2dlN6eFlIcGdUazd2andEVGdEVVZPbnVVSGxvUEd0ZFZOYUk4bmJjZGI3bVByM2NiZHJRTVA1YkkzelB5MlNqRHRtakRKRGRlT1hQVS1IR242QVoxQjJ2?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 1,
+    "sourceCount": 2,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": false,
+    "star": true,
     "kind": "news",
     "section": "news"
   },
@@ -9176,10 +10520,6 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/bands-that-are-dad-rock-now/"
-      },
-      {
-        "name": "Loudwire",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ncWlfbGI5WllHenZ4QkhnbTM3WUU1U0FjbGdpWlNBS2JkUFFZNl9xZEg4aDA1VTZtaEVOQW1pN1hSQm40Mm02V0p0YnVVZVMyT2pNWEtLZkJTZUZ1aXc?oc=5"
       }
     ],
     "status": "official",
@@ -9261,10 +10601,6 @@
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQS15VG9zTnJycXhvWFM3aXdIQnpqX0ZIQXFWOXNzbldqZHg3SC1jZkdHUHFMMUZJaWc4M3U2YXBJajRzOGNJanZtSDk2LTdTajNfR2xMUWdrRjk3RjNPMDJrREZLS3J2UVRIN014SmwyRlJWX2ZCRS1oX09RZkVucWdXOXdHNjllU284cEhxcGVBZFMxMjFTSDJUZw?oc=5"
       },
       {
-        "name": "KSNB",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONzBnUllIRE9JdDRfVllmT21RczduQ3JoTlRoQmMzLW1fTGo1MXRxajl3cGkxR3poUVpKZmp1S1E1Yzk3TzMzR3lMNUM4LVJ5ZnRQbTY4QnNKLWFnaldmdDlmclUwZWE3UTIyQ0RUa2JtNVJuUFNzZmVwa1plTURud3doV0FDdzhXX05wR1JyUUVfSFZLWDcwX2lPRUg?oc=5"
-      },
-      {
         "name": "WKYT",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWlIwZzFWWFVsMDA5TUFXR3p6WGh1U2FWMjJfSlVTanBNMzZqUHRhRGFnYlU4cXNkNkp5aUtyaTV3eVFyTmt4X3V1YUEzUlpnbXhROERleFA5V1BENDYwVEdJMFE5NXpQR3A0bXNwS3JGd1NtQ3gzMmhTd2Izd1c1UkwxZTZuZzkxdVV3ZlpWWUZtVUdE?oc=5"
       },
@@ -9279,7 +10615,7 @@
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 6,
+    "sourceCount": 5,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
@@ -11009,6 +12345,31 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Ministry's Final Show Has a 2027 Date + Location - 'Bill Burr Will Helicopter Me Home' - Loudwire",
+    "src": "Loudwire",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55LXpySmptZnlpM3A1aG1IdmZPTnZBbFp4Qm9tYjZ4QUt3Mk9DVVUxRTE0RlJBTFlnZmdNV3FPOExtMHBCTWRGNzFBY2luN2FQS1FF?oc=5",
+    "timestamp": "2026-10-29T13:41:05+00:00",
+    "isoDate": "2026-10-29",
+    "date": "29 Out",
+    "d": "Ministry's Final Show Has a 2027 Date + Location - 'Bill Burr Will Helicopter Me Home' Loudwire",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55LXpySmptZnlpM3A1aG1IdmZPTnZBbFp4Qm9tYjZ4QUt3Mk9DVVUxRTE0RlJBTFlnZmdNV3FPOExtMHBCTWRGNzFBY2luN2FQS1FF?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
   },
   {
     "title": "LITA FORD Releases New Single 'Dracula'",
@@ -18123,6 +19484,31 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Metal Hammer's tracks of the week: October 23 2026 - Louder",
+    "src": "Louder",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGgtSGs0Y0p0dzdDTU5zZGhtSVlkWldna2FJSl9CR3FTSkUwUFJZQ0dNQTNYX0dCOUVDZ1p2UG9KcmNhZFB2VXAxRC10S1d0WGpqR0h2ZGhScVZCUXR1dFgyU1RPcTZsYWp0WFVvTGR6UUprbExuRlpQaTd2ZG5rQ0FHSGdEREpEYkd1XzZRcUFCNWRLSXdVWktPbTJOYWhwOWtsVQ?oc=5",
+    "timestamp": "2026-10-28T16:28:03+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "Metal Hammer's tracks of the week: October 23 2026 Louder",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Louder",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGgtSGs0Y0p0dzdDTU5zZGhtSVlkWldna2FJSl9CR3FTSkUwUFJZQ0dNQTNYX0dCOUVDZ1p2UG9KcmNhZFB2VXAxRC10S1d0WGpqR0h2ZGhScVZCUXR1dFgyU1RPcTZsYWp0WFVvTGR6UUprbExuRlpQaTd2ZG5rQ0FHSGdEREpEYkd1XzZRcUFCNWRLSXdVWktPbTJOYWhwOWtsVQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
   },
   {
     "title": "A Full List of Current 2026 K-Pop Concerts (Updating) - Billboard",
