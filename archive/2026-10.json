@@ -117,10 +117,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -317,10 +317,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -342,10 +342,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -936,10 +936,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -961,10 +961,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -1111,10 +1111,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1142,6 +1142,379 @@
     "star": false,
     "kind": "news",
     "section": "buzz"
+  },
+  {
+    "title": "Staind – Release New Single “Ghosts - Metal Planet Music",
+    "src": "Metal Planet Music",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlME41azNOM3kwbk9XZkE3SG5hSTVZMlFaZVg3d082VVo2cGxnMTR3SENnTlM1SFg4b3U4T3JwTHI2YTYyeXRuQXB0d3JUVE52WG9RakRVTWZzaUFYWkxqaWMwS0xTN1l0OHNkS19HX1NQc1pxcWxHTEFR?oc=5",
+    "timestamp": "2026-10-31T07:14:32+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Staind – Release New Single “Ghosts Metal Planet Music",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Planet Music",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlME41azNOM3kwbk9XZkE3SG5hSTVZMlFaZVg3d082VVo2cGxnMTR3SENnTlM1SFg4b3U4T3JwTHI2YTYyeXRuQXB0d3JUVE52WG9RakRVTWZzaUFYWkxqaWMwS0xTN1l0OHNkS19HX1NQc1pxcWxHTEFR?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "b": "Teenage Cremation",
+    "t": "test subject",
+    "g": "core",
+    "fmt": "EP",
+    "lbl": "MusicBrainz",
+    "date": "31 Out",
+    "isoDate": "2026-10-31",
+    "url": "https://musicbrainz.org/release-group/76464ae2-14eb-40f5-b151-4b07d326ee47",
+    "d": "metalcore, nu metal",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/76464ae2-14eb-40f5-b151-4b07d326ee47"
+      }
+    ],
+    "mbid": "76464ae2-14eb-40f5-b151-4b07d326ee47",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Nitroverts",
+    "t": "True Nature of Antimatter",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "31 Out",
+    "isoDate": "2026-10-31",
+    "url": "https://alterportal.net/2026_albums/190707-nitroverts-true-nature-of-antimatter-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190707-nitroverts-true-nature-of-antimatter-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Disfigurement",
+    "t": "Demented Psychosis",
+    "g": "death",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "31 Out",
+    "isoDate": "2026-10-31",
+    "url": "https://musicbrainz.org/release-group/f8d12196-0bb9-4a07-be47-f55000695cb5",
+    "d": "death metal, brutal death metal",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/f8d12196-0bb9-4a07-be47-f55000695cb5"
+      }
+    ],
+    "mbid": "f8d12196-0bb9-4a07-be47-f55000695cb5",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Casket Breath",
+    "t": "Comprehension Denied",
+    "g": "death",
+    "fmt": "EP",
+    "lbl": "MusicBrainz",
+    "date": "31 Out",
+    "isoDate": "2026-10-31",
+    "url": "https://musicbrainz.org/release-group/94707220-4b19-437a-8be2-220a0bf7caa9",
+    "d": "death metal",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/94707220-4b19-437a-8be2-220a0bf7caa9"
+      }
+    ],
+    "mbid": "94707220-4b19-437a-8be2-220a0bf7caa9",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "title": "James Hetfield: Turnstile Turned Down Touring With Metallica",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/james-hetfield-turnstile-turned-down-touring-with-metallica",
+    "timestamp": "2026-10-31T16:13:07+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "There's a lot of bands that would probably kill to play with heavy metal legends Metallica. Turnstile apparently isn't one of them. Recently, Metallica frontman James Hetfield talked about his […] The post James Hetfield: Turnstile Turned Down Touring With Metallica appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/james-hetfield-turnstile-turned-down-touring-with-metallica"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "NONPOINT's ELIAS SORIANO Says 'The Last Word' Album Was In The Works 'For About Two Years'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/nonpoints-elias-soriano-says-the-last-word-album-was-in-the-works-for-about-two-years",
+    "timestamp": "2026-10-31T16:03:40+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "In a new interview with the JJO Discover New Music Podcast, NONPOINT vocalist Elias Soriano spoke about the band's eleventh studio album, \"The Last Word\", which came out on September 18, 2026, through 361 Degrees Records. Asked when he and his bandmates decided that it was finally time to make a ful...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/nonpoints-elias-soriano-says-the-last-word-album-was-in-the-works-for-about-two-years"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "See Pro-Shot Video Of FORBIDDEN's Entire Chicago Concert During Fall 2026 'Chaos By Design' U.S. Tour",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/see-pro-shot-video-of-forbiddens-entire-chicago-concert-during-fall-2026-chaos-by-design-u-s-tour",
+    "timestamp": "2026-10-31T15:31:59+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Professionally filmed video of FORBIDDEN's October 30 concert at Reggies rock club in Chicago, Illinois can be seen below. According to Setlist.fm, the setlist for the show was as follows: 01. Infinite 02. Single Point Failure 03. March Into Fire 04. Psyclops 05. Step By Step 06. Burning The Lungs O...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/see-pro-shot-video-of-forbiddens-entire-chicago-concert-during-fall-2026-chaos-by-design-u-s-tour"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "When Ozzy Osbourne Played an Anti-Heavy Metal Preacher in 'Trick or Treat'",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/when-ozzy-osbourne-played-an-anti-heavy-metal-preacher-in-trick-or-treat",
+    "timestamp": "2026-10-31T15:11:39+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "\"These evil people have just got to be stopped!\" The post When Ozzy Osbourne Played an Anti-Heavy Metal Preacher in 'Trick or Treat' appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/when-ozzy-osbourne-played-an-anti-heavy-metal-preacher-in-trick-or-treat"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Christian Musician Kid Rock Compares Abdul El-Sayed to 9/11 Hijackers",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/kid-rock-abdul-el-sayed-9-11-hijackers-maher/",
+    "timestamp": "2026-10-31T16:25:31+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "During an appearance on Real Time with Bill Maher, Kid Rock argued that the Michigan Senate candidate had assimilated into American society... much like the 9/11 hijackers. Christian Musician Kid Rock Compares Abdul El-Sayed to 9/11 Hijackers Alex Krinsky",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/kid-rock-abdul-el-sayed-9-11-hijackers-maher/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "SZA Seemingly Confirms Coachella 2027 Headlining Appearance, Work on New Album",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/sza-coachella-2027-new-album/",
+    "timestamp": "2026-10-31T16:14:27+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "In a post to her alternate Instagram account, SZA shared a screenshot of TMZ's recent report on Coachella's 2027 headliners. SZA Seemingly Confirms Coachella 2027 Headlining Appearance, Work on New Album Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/sza-coachella-2027-new-album/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "KING Music Update: Anirudh Reportedly Exits, Sachin-Jigar Step In - Dadasaheb Phalke International Film Festival | DPIFF",
+    "src": "Dadasaheb Phalke International Film Festival | DPIFF",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lZGNHejFwZE5EVmdJTUxCSlBpRVAzcjJCaU01VjZ4cEZVODg1VDFTUTcxUWtHYXRkXzUwUU5DejBZRVhHa1Q4WXQ1bnpMaDd2SnpXS3V0OXVjaEJaR0c0Wm5QT1Q?oc=5",
+    "timestamp": "2026-10-31T14:09:26+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "KING Music Update: Anirudh Reportedly Exits, Sachin-Jigar Step In Dadasaheb Phalke International Film Festival | DPIFF",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Dadasaheb Phalke International Film Festival | DPIFF",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lZGNHejFwZE5EVmdJTUxCSlBpRVAzcjJCaU01VjZ4cEZVODg1VDFTUTcxUWtHYXRkXzUwUU5DejBZRVhHa1Q4WXQ1bnpMaDd2SnpXS3V0OXVjaEJaR0c0Wm5QT1Q?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Crown The Empire release new music video for ‘violet’ - Distorted Sound Magazine -",
+    "src": "Distorted Sound Magazine -",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTkdtLW5VTWxOQ1MtcnItYnl5ZGhyZHE5WklvSHJNbFpMSFZsc3FtVllSVTZRUW81bGZHQXFVRkZVd1lvMHNYVi1IR2ZSeHR2dm9YTHNsZkp1bndKc0tENWNhVldyaEVMeXRtYmlGYl9GajFzdHN1c242OWZXMkdwcFVFcTlOZzFyZWc?oc=5",
+    "timestamp": "2026-10-31T12:20:00+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Crown The Empire release new music video for ‘violet’ Distorted Sound Magazine -",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Distorted Sound Magazine -",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTkdtLW5VTWxOQ1MtcnItYnl5ZGhyZHE5WklvSHJNbFpMSFZsc3FtVllSVTZRUW81bGZHQXFVRkZVd1lvMHNYVi1IR2ZSeHR2dm9YTHNsZkp1bndKc0tENWNhVldyaEVMeXRtYmlGYl9GajFzdHN1c242OWZXMkdwcFVFcTlOZzFyZWc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "THE DEAD DAISIES ANNOUNCE NEW SINGER, SINGLE, VIDEO, ALBUM, & TOUR - Metal Planet Music",
+    "src": "Metal Planet Music",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQlRJTTFRdHVuaWZ6VlJrUlFsTXd0M3cwaWl0b3NKRnlicjVXNmF2d3Y1SjRRc2dwM1dmZWVHMHEwM2dWazRrNFdaWVlSTmFyVnBSaF9vWXQzc2U0WmV1VU5XQ3Z5d1BVb3cxQkZfQlZZRWt0c2RtZG1fb3FkdENVR1NENnlnUDQxV1FrR1FuZFdpTEE4VGlGZml5SHdQRkk?oc=5",
+    "timestamp": "2026-10-31T11:35:37+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "THE DEAD DAISIES ANNOUNCE NEW SINGER, SINGLE, VIDEO, ALBUM, & TOUR Metal Planet Music",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Metal Planet Music",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQlRJTTFRdHVuaWZ6VlJrUlFsTXd0M3cwaWl0b3NKRnlicjVXNmF2d3Y1SjRRc2dwM1dmZWVHMHEwM2dWazRrNFdaWVlSTmFyVnBSaF9vWXQzc2U0WmV1VU5XQ3Z5d1BVb3cxQkZfQlZZRWt0c2RtZG1fb3FkdENVR1NENnlnUDQxV1FrR1FuZFdpTEE4VGlGZml5SHdQRkk?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Legendary rock band cancels tour due to ‘sudden and unexpected medical circumstances' - Yahoo",
+    "src": "Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMTBxUmlIM2xoVjd0MHlySnVYLTRFSm5ldGNlakEtQWpRZGotM3p2eU45eU9zeUdEaVkwbVRKQ18tQWFrQWNETl9GVXA0QmxsazFNQjBDd1lncFg1S0pZNHExV3lfdGlyNTdTbTFYTGNTVWtBYklnSjBmNnY2aTd3TTM2S3Q0WWgyNnBMNEF2QXdSY3VTdmtyd3BBS1UteDA?oc=5",
+    "timestamp": "2026-10-31T04:00:00+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Legendary rock band cancels tour due to ‘sudden and unexpected medical circumstances' Yahoo",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMTBxUmlIM2xoVjd0MHlySnVYLTRFSm5ldGNlakEtQWpRZGotM3p2eU45eU9zeUdEaVkwbVRKQ18tQWFrQWNETl9GVXA0QmxsazFNQjBDd1lncFg1S0pZNHExV3lfdGlyNTdTbTFYTGNTVWtBYklnSjBmNnY2aTd3TTM2S3Q0WWgyNnBMNEF2QXdSY3VTdmtyd3BBS1UteDA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "b": "Record(s) o’ the Month",
+    "t": "July 2026",
+    "src": "Angry Metal Guy",
+    "date": "31 Out",
+    "isoDate": "2026-10-31",
+    "timestamp": "2026-10-31T15:32:20+00:00",
+    "url": "https://www.angrymetalguy.com/records-o-the-month-july-2026/",
+    "d": "July is long gone, but the Record(s) o' the Month for July live forever. The post Record(s) o’ the Month – July 2026 appeared first on Angry Metal Guy .",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "record s o the month|july 2026",
+    "kind": "review",
+    "section": "rev"
   },
   {
     "title": "Patrick Stewart Remembered as “That Rare Actor” in Tributes from Ian McKellen, William Shatner, Seth MacFarlane, and More",
@@ -4725,7 +5098,7 @@
     "title": "200 Stab Wounds, Rev3rent, Darkest Hour & More Added to Metal Injection's Top Tracks of the Week",
     "src": "Metal Injection",
     "url": "https://metalinjection.net/playlist/top-tracks-of-the-week-playlist/200-stab-wounds-rev3rent-darkest-hour-more-added-to-metal-injections-top-tracks-of-the-week",
-    "timestamp": "2026-10-30T16:15:42+00:00",
+    "timestamp": "2026-10-30T22:57:58+00:00",
     "isoDate": "2026-10-30",
     "date": "30 Out",
     "d": "As well as picks from Native James, Enslaved, Gaera, and more. The post 200 Stab Wounds, Rev3rent, Darkest Hour & More Added to Metal Injection's Top Tracks of the Week appeared first on Metal Injection .",
@@ -4734,6 +5107,10 @@
       {
         "name": "Metal Injection",
         "url": "https://metalinjection.net/playlist/top-tracks-of-the-week-playlist/200-stab-wounds-rev3rent-darkest-hour-more-added-to-metal-injections-top-tracks-of-the-week"
+      },
+      {
+        "name": "Metal Injection",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYm1kWEd0dTZ3WER5MWtMOV9fdDRhbFFjdlFjanVaZG5OSmNCb0tPaDF2RE15RTB6aWFFVlU3dmRpU1NRbnNfMXhyalozTGhoenBlZkpMMnd5YlBWNGpPc0Nnam5KUUR3X2tXVGV0VlJ0T2ZqMC1EaDd0bzVrdlg2cDQxbm1WaUkwazNxUVkwOXItN04wM0F3NW5XQ05XbVUtN1l5VGRXR1hXSjYteVVSZ2s2czRIVEtsWEFzOUFockw0NXBQXzJ4Uk5BRl8zYXBac3JGNnV1VmpEcTZiSm5Bajd3X1VMZHdZcnFmdldseng?oc=5"
       }
     ],
     "status": "official",
@@ -4879,7 +5256,7 @@
     "title": "Debut album by Canadian punk quartet Piss is an expression of molten rage — review - Financial Times",
     "src": "Financial Times",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjBFYnpfVTEtTm1ZTnVQTGp1MXNtMUZzalh6cV94TXJqNGFXSUxkWWRJU2VnaXRtRXRnMHhnb2hmZlFDdEF3S210ZnlqU2twME4yOWlJMllQVG5EbzB2cTJSU280VFdGajN1c0thbWVVaks5ZkN3dGdwZEo0MnNYei1vMlY?oc=5",
-    "timestamp": "2026-10-30T05:00:13+00:00",
+    "timestamp": "2026-10-30T05:01:57+00:00",
     "isoDate": "2026-10-30",
     "date": "30 Out",
     "d": "Debut album by Canadian punk quartet Piss is an expression of molten rage — review Financial Times",
@@ -7612,31 +7989,6 @@
     "section": "alter"
   },
   {
-    "title": "Staind – Release New Single “Ghosts - Metal Planet Music",
-    "src": "Metal Planet Music",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlME41azNOM3kwbk9XZkE3SG5hSTVZMlFaZVg3d082VVo2cGxnMTR3SENnTlM1SFg4b3U4T3JwTHI2YTYyeXRuQXB0d3JUVE52WG9RakRVTWZzaUFYWkxqaWMwS0xTN1l0OHNkS19HX1NQc1pxcWxHTEFR?oc=5",
-    "timestamp": "2026-10-30T13:01:46+00:00",
-    "isoDate": "2026-10-30",
-    "date": "30 Out",
-    "d": "Staind – Release New Single “Ghosts Metal Planet Music",
-    "category": "metal",
-    "sources": [
-      {
-        "name": "Metal Planet Music",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlME41azNOM3kwbk9XZkE3SG5hSTVZMlFaZVg3d082VVo2cGxnMTR3SENnTlM1SFg4b3U4T3JwTHI2YTYyeXRuQXB0d3JUVE52WG9RakRVTWZzaUFYWkxqaWMwS0xTN1l0OHNkS19HX1NQc1pxcWxHTEFR?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "news"
-  },
-  {
     "b": "sixwing",
     "t": "WOLFGIRL PRINCESS ANGEL",
     "g": "core",
@@ -8516,11 +8868,15 @@
       {
         "name": "AOL.com",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTzlMNF9zbUpFTGVGX2ViOHV0cnU4TkptNTY0c1Z6REF5NXE0RXNzeE9NLXROMm1pcHVJSWVRMUt1VmJ5OWNKOHZzRk9sRk9wOHZfb2YyYXBiUXkxcVhyV0RMX3Y4V3VTc3ZHc3AwTDVob29SREVpT2NyRXNoUlR6X1YtRQ?oc=5"
+      },
+      {
+        "name": "AOL.ca",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10c2lnS3R5UjRHejVZWWdreGoxeWxldEdVb3FMempXX2dLQk1UazBfUzhOY0lCUGo0bHFKTWY1b0dfelZ1OVdmdFJpblFJZ0d3SEdSb21wN0tfVUpxUGNXUzlHOFIwTHJTdU9jUkQyWXBuMU1TdWpndS01b3dFMFk?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 2,
+    "sourceCount": 3,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
@@ -14743,7 +15099,7 @@
     "title": "Todos os concertos marcados para 2026 e 2027 em Portugal - Expresso",
     "src": "Expresso",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbzNZVnA1ZU1reTUwWXhYZG9Uc0RNcENxQW1LTTFCQlNvUWR5STlDVXVLRDdVY3pzUlg0ZHpqT2IwZkNVaEViMkdLMEJkV1JXMU8wcE5EeDJNUlM2X3lFdUZERTZ2eVNFQkRUdTlGYTNLZTV6Vlkwa2pPekdxV3ljbEdBNE5lQmtTV0x1cmt2ZDFkNXdRQnhiOU5YRXE2TDk5TWxRMUxLVTlVbEt5blE?oc=5",
-    "timestamp": "2026-10-29T07:00:00+00:00",
+    "timestamp": "2026-10-29T09:38:00+00:00",
     "isoDate": "2026-10-29",
     "date": "29 Out",
     "d": "Todos os concertos marcados para 2026 e 2027 em Portugal Expresso",
@@ -28987,6 +29343,81 @@
     "section": "news"
   },
   {
+    "title": "Aether Realm drop music video for explosive new album single “Broken Fist” featuring Taj Jewett - Chaoszine",
+    "src": "Chaoszine",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX3dodTM4aE5LaE9xLU1VSG10UWlYYkhmR1NoVU9iNGduNmJodlRxNHprcWt4ei0xMk12ZzdzaXZoZW9jRGF6UDBHeGJCX05sMm11QVhIYzZXdkpkZjQ1aTNhVXpuT2pfRXZUY2VHSWl2MTlaN1NFVmR3dEhhSnVKdDRvaVJDUGkzbnJwSmI5UjRyOUxYdFRVOTNod1NRTjY5YnB2N0ZzNl9uRFgtV08wS1pBaVVYQ1E?oc=5",
+    "timestamp": "2026-10-27T15:33:48+00:00",
+    "isoDate": "2026-10-27",
+    "date": "27 Out",
+    "d": "Aether Realm drop music video for explosive new album single “Broken Fist” featuring Taj Jewett Chaoszine",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Chaoszine",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX3dodTM4aE5LaE9xLU1VSG10UWlYYkhmR1NoVU9iNGduNmJodlRxNHprcWt4ei0xMk12ZzdzaXZoZW9jRGF6UDBHeGJCX05sMm11QVhIYzZXdkpkZjQ1aTNhVXpuT2pfRXZUY2VHSWl2MTlaN1NFVmR3dEhhSnVKdDRvaVJDUGkzbnJwSmI5UjRyOUxYdFRVOTNod1NRTjY5YnB2N0ZzNl9uRFgtV08wS1pBaVVYQ1E?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Yoth Iria launches video for \"Dare to Rebel\" and announces European tour for March 2027 - Chaoszine",
+    "src": "Chaoszine",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY2pjVWJSVzJIV2k2OXpFbnVfUnp4b0piT2xWQ3lEMEgyTE5JLWo5UWQ0UjdGdTMzQUlzUVgwamx0aTVyYkNGcV92Xy1oTS0wS3FsRlROd2pHMEVPWmx4NTNwRlR5UHdTcHZ1akFfZHV5MU9GZU1YdEV6djNKekZuZlRSZDBrZTU3aGM4eWRaUUlQaWp0cGswRFpCa1FnMUQ4bU0xdndoOFluTEFw?oc=5",
+    "timestamp": "2026-10-27T14:35:02+00:00",
+    "isoDate": "2026-10-27",
+    "date": "27 Out",
+    "d": "Yoth Iria launches video for \"Dare to Rebel\" and announces European tour for March 2027 Chaoszine",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Chaoszine",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY2pjVWJSVzJIV2k2OXpFbnVfUnp4b0piT2xWQ3lEMEgyTE5JLWo5UWQ0UjdGdTMzQUlzUVgwamx0aTVyYkNGcV92Xy1oTS0wS3FsRlROd2pHMEVPWmx4NTNwRlR5UHdTcHZ1akFfZHV5MU9GZU1YdEV6djNKekZuZlRSZDBrZTU3aGM4eWRaUUlQaWp0cGswRFpCa1FnMUQ4bU0xdndoOFluTEFw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "The Best Album by 20 Legendary College Rock Bands - Loudwire",
+    "src": "Loudwire",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CbEVzaEEwRlVKV0J1V0lWNFhfeTFlQ0RERHhtMFVHX1hnTGFLV3RKTm12R25XRnBxTDNvaUV6YkM1OVVOMVZIdmNuUWMwdUMtZjQ4LW9yVV90T3RUSHE1Uw?oc=5",
+    "timestamp": "2026-10-27T13:25:36+00:00",
+    "isoDate": "2026-10-27",
+    "date": "27 Out",
+    "d": "The Best Album by 20 Legendary College Rock Bands Loudwire",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CbEVzaEEwRlVKV0J1V0lWNFhfeTFlQ0RERHhtMFVHX1hnTGFLV3RKTm12R25XRnBxTDNvaUV6YkM1OVVOMVZIdmNuUWMwdUMtZjQ4LW9yVV90T3RUSHE1Uw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
     "title": "Eurovision 2026 Portugal: Bandidos do Cante - \"Rosa\" - Eurovisionworld",
     "src": "Eurovisionworld",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KVjI1N2xsNkNaUmtQR1FYdzVNUGlfZGNrdEZ2Nlh4eV9IUHFOb24xY1JNcmEwdHdlVjl4SHdDeXA5cWpsOElDdHEybWdzTjNIQTRyeTc5T3hJY014czhSQm93?oc=5",
@@ -30047,8 +30478,8 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbURTbUVSN2gyb1BraWZmTmlRNUNZQXFCemhQLXI3S2lYc3UtSVJnbDdRQjVqemxwa3JjakFYalNGd09iQzVHREQ5Mk9hNy1SOTZ5c3VocGFNVmgxeWw0dW13MWUwNWhMT0dMaDF3QTU3UXVpdmxKQ0l4OHljX01HT05aNXRDNDJfZkVHVG4yc2JoSVRINzNlbmY2TWVPdw?oc=5"
       },
       {
-        "name": "AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11aHlwRXdseEpUMktHVkZINjJwd1MyOGVraER2VC1RS3ZQVnpYcldEbmRvUmFWRVFnMWkyTUVSZ1hZX0ZYUkxGbWczUV94aEo1TkZOaXE5OGZNdi04bVJBLU5IMFlkajJQcFFLWjRyNXA4czQ?oc=5"
+        "name": "AOL.co.uk",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yMHJ2ek5uS1EtUnZiVnZKWmlqd0NHZGItN0VNY1ZfOGljNi1LMFAtMHJtMnNwOHJlWWNKa1NvcFN5MXJPaHVRcTFrbi1SRm9TRWg2alBsdDF5NEFLSHU5UDFiRkhwRWhrRWJVT3BaZzFOTlRjeHc?oc=5"
       }
     ],
     "status": "official",
