@@ -242,10 +242,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -267,10 +267,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -292,10 +292,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -353,7 +353,7 @@
     "title": "Photos: Zach Top shines at sold-out Bridgestone Arena - The Tennessean",
     "src": "The Tennessean",
     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQXhzNmhfVk9rXzdzWEFpcTJndTh4MUFndms1dW5WRUcyQWdnTVJBZF9oV0xiazBWYVBuelVXRkxJV1NKZjNtVVNNbmVqU25Xd2VDM1BydTZTNmphU3hVcWJvR2RsaGZVRVVkM25xcW04Wi11VlVVbmhWR3JfQUxhUk9MMHpkWEtURUtSbzladWxzaUFaNEFIbUlWYlQ4UHFubW53bk1Sck9OVWZRWFo1bTRQVkFzby02OTZqakJRbFdmNjM3eEQtbURNZTQyNFFDdUpyTFV5NVlvdFNLSTkwVjV1QVc?oc=5",
-    "timestamp": "2026-10-31T07:37:04+00:00",
+    "timestamp": "2026-10-31T08:31:00+00:00",
     "isoDate": "2026-10-31",
     "date": "31 Out",
     "d": "Photos: Zach Top shines at sold-out Bridgestone Arena The Tennessean",
@@ -367,10 +367,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -492,10 +492,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -657,10 +657,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -901,7 +901,7 @@
     "isoDate": "2026-10-31",
     "date": "31 Out",
     "d": "Rock band cancels all remaining concerts on first reunion tour in 33 years Syracuse.com",
-    "category": "metal",
+    "category": "general",
     "sources": [
       {
         "name": "Syracuse.com",
@@ -911,12 +911,12 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
-    "section": "news"
+    "section": "buzz"
   },
   {
     "title": "These two metal bands launch open casting call for fans to attend special live tapings - Chaoszine",
@@ -1000,7 +1000,7 @@
     "timestamp": "2026-10-31T14:58:29+00:00",
     "isoDate": "2026-10-31",
     "date": "31 Out",
-    "d": "\"We wanted to get them on tour, and they said, 'No. They're doing good on their own already.'\" James Hetfield Says Turnstile Turned Down Touring with Metallica Alex Young",
+    "d": "\"We wanted to get them on tour, and they said no. They're doing good on their own alread.\" James Hetfield Says Turnstile Turned Down Touring with Metallica Alex Young",
     "category": "general",
     "sources": [
       {
@@ -1515,6 +1515,677 @@
     "releaseKey": "record s o the month|july 2026",
     "kind": "review",
     "section": "rev"
+  },
+  {
+    "b": "Draped In Black",
+    "t": "Descending From The Heavens",
+    "g": "core",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "31 Out",
+    "isoDate": "2026-10-31",
+    "url": "https://musicbrainz.org/release-group/b56e745b-9607-4bee-b4ca-7ed44cef8e4f",
+    "d": "metalcore",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/b56e745b-9607-4bee-b4ca-7ed44cef8e4f"
+      }
+    ],
+    "mbid": "b56e745b-9607-4bee-b4ca-7ed44cef8e4f",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "title": "40 Below Summer’s “Cutting The Cord” Music Video Debuts",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/31/news/40-below-summers-cutting-the-cord-music-video-debuts/",
+    "timestamp": "2026-10-31T19:05:08+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "The shoot was overseen by Alfonso Civile of Heartsick. The post 40 Below Summer’s “Cutting The Cord” Music Video Debuts appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/31/news/40-below-summers-cutting-the-cord-music-video-debuts/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Repentance’s New Single “Among The Wolves” Debuts",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/31/news/repentances-new-single-among-the-wolves-debuts/",
+    "timestamp": "2026-10-31T18:55:59+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Featuring contributions from their late guitarist Shaun Glass. The post Repentance’s New Single “Among The Wolves” Debuts appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/31/news/repentances-new-single-among-the-wolves-debuts/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Theftuous (Snot, Relative Ash, Etc.) Premiere “Ghost Town”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/31/news/theftuous-snot-relative-ash-etc-premiere-ghost-town/",
+    "timestamp": "2026-10-31T18:37:46+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Their first new track of the year. The post Theftuous (Snot, Relative Ash, Etc.) Premiere “Ghost Town” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/31/news/theftuous-snot-relative-ash-etc-premiere-ghost-town/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "James Hetfield Reveals Turnstile Said No To Touring With Metallica",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/31/news/james-hetfield-reveals-turnstile-said-no-to-touring-with-metallica/",
+    "timestamp": "2026-10-31T18:21:26+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "The Metallica guys remain big fans regardless. The post James Hetfield Reveals Turnstile Said No To Touring With Metallica appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/31/news/james-hetfield-reveals-turnstile-said-no-to-touring-with-metallica/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Hardcore Punk Band Turnstile Takes Over the National Mall with Benefit Show - The Georgetown Voice",
+    "src": "The Georgetown Voice",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM0x0czNrUXpwMW8yTWR3a1A0NHRBa0lYMzBpQUhGV1FxQ3hIbERiYUxNRmZsZE9wZkxZNWlYVlI4a0x1WmNKOXh6OGMyNXZzdmJRSGpManE1emhLdDRhMU9jX2VKMEVUOThyYVI3N1R6Rm91bVZBeWJ0NXI5aGd3N25ENnlnbjBtUjg5NWsyMXI1MHI2NUE0cUc3REVTYWF2dE1YSWRiYldQTVpITjF2S3Q4VGtjUQ?oc=5",
+    "timestamp": "2026-10-31T18:17:32+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Hardcore Punk Band Turnstile Takes Over the National Mall with Benefit Show The Georgetown Voice",
+    "category": "core",
+    "sources": [
+      {
+        "name": "The Georgetown Voice",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM0x0czNrUXpwMW8yTWR3a1A0NHRBa0lYMzBpQUhGV1FxQ3hIbERiYUxNRmZsZE9wZkxZNWlYVlI4a0x1WmNKOXh6OGMyNXZzdmJRSGpManE1emhLdDRhMU9jX2VKMEVUOThyYVI3N1R6Rm91bVZBeWJ0NXI5aGd3N25ENnlnbjBtUjg5NWsyMXI1MHI2NUE0cUc3REVTYWF2dE1YSWRiYldQTVpITjF2S3Q4VGtjUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Inaugural European/UK Edition Lamb Of God’s ‘Headbangers Boat’ Cruise Set For 2027",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/31/news/inaugural-european-uk-edition-lamb-of-gods-headbangers-boat-cruise-set-for-2027/",
+    "timestamp": "2026-10-31T18:09:55+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Featuring Lamb Of God, Paleface Swiss, Bleed From Within, Kublai Khan TX and more. The post Inaugural European/UK Edition Lamb Of God’s ‘Headbangers Boat’ Cruise Set For 2027 appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/31/news/inaugural-european-uk-edition-lamb-of-gods-headbangers-boat-cruise-set-for-2027/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "In This Moment’s Live In-Studio Performance Of “I Want To Believe” At SiriusXM Arrives Online",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/31/news/in-this-moments-live-in-studio-performance-of-i-want-to-believe-at-siriusxm-arrives-online/",
+    "timestamp": "2026-10-31T17:58:03+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Must be the season of the witch. The post In This Moment’s Live In-Studio Performance Of “I Want To Believe” At SiriusXM Arrives Online appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/31/news/in-this-moments-live-in-studio-performance-of-i-want-to-believe-at-siriusxm-arrives-online/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "My Chemical Romance Confirmed Their New Album Plans And Rolled Out Setlist Surprises With The Used Last Night",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/10/31/news/my-chemical-romance-confirmed-their-new-album-plans-and-rolled-out-setlist-surprises-with-the-used-last-night/",
+    "timestamp": "2026-10-31T17:47:15+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "A live debut and a pair of collaborative live performances for the first time since 2005. The post My Chemical Romance Confirmed Their New Album Plans And Rolled Out Setlist Surprises With The Used Last Night appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/10/31/news/my-chemical-romance-confirmed-their-new-album-plans-and-rolled-out-setlist-surprises-with-the-used-last-night/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch: VINNY APPICE's SABBATH KNIGHTS Performs BLACK SABBATH And DIO Classics In Roseville, California",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/watch-vinny-appices-sabbath-knights-performs-black-sabbath-and-dio-classics-in-roseville-california",
+    "timestamp": "2026-10-31T17:20:42+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "BLACK SABBATH, DIO and HEAVEN & HELL drummer Vinny Appice performed with his ultimate BLACK SABBATH/DIO show, called SABBATH KNIGHTS, Friday night (October 30) at Goldfield Trading Post Roseville in Roseville, California. Fan-filmed video of the concert can be seen below (courtesy of Hadesmetal). Jo...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/watch-vinny-appices-sabbath-knights-performs-black-sabbath-and-dio-classics-in-roseville-california"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Cancer Bats Live Nottingham: Rescue Rooms Gig Review - Rock News UK",
+    "src": "Rock News UK",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xUHZ5OGsyZVNnUG0zTi0tdFFtYlN1NF94NV9TRUxJcE81ejFDdDljODJzNHdXblZYNmRvbV9jM0pObF9UendpVEhSd0QxOVlxM1RIUDE1ZndqRm9NUzBQallaRzY5b1FIc0RlNmoxTi1ZTjFOaVFXa2ZmRktlUQ?oc=5",
+    "timestamp": "2026-10-31T16:51:49+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Cancer Bats Live Nottingham: Rescue Rooms Gig Review Rock News UK",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Rock News UK",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xUHZ5OGsyZVNnUG0zTi0tdFFtYlN1NF94NV9TRUxJcE81ejFDdDljODJzNHdXblZYNmRvbV9jM0pObF9UendpVEhSd0QxOVlxM1RIUDE1ZndqRm9NUzBQallaRzY5b1FIc0RlNmoxTi1ZTjFOaVFXa2ZmRktlUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Native James Releases Music Video for Pounding Single, “DUMB BRUDDAH” - V13 Media",
+    "src": "V13 Media",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmJFT19Sc3NHM3dpWjNiQlA4dS1yNFlfbzBaRDhtVnJzcFZpZlhlZXpkOENOTUxDdnRkTU9Cc1dKLTNWeHFzU0xEVzdwRzUwTVFQeXBBWExHTXltWGd0U18xVGw4MGJrZTRnYmdiQ2ppTXZkOTRpSU03Z3FDZVUtS1ZVQ0pqcWJHcklUX2dRRzdHVzIxMUE?oc=5",
+    "timestamp": "2026-10-31T12:49:15+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Native James Releases Music Video for Pounding Single, “DUMB BRUDDAH” V13 Media",
+    "category": "core",
+    "sources": [
+      {
+        "name": "V13 Media",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmJFT19Sc3NHM3dpWjNiQlA4dS1yNFlfbzBaRDhtVnJzcFZpZlhlZXpkOENOTUxDdnRkTU9Cc1dKLTNWeHFzU0xEVzdwRzUwTVFQeXBBWExHTXltWGd0U18xVGw4MGJrZTRnYmdiQ2ppTXZkOTRpSU03Z3FDZVUtS1ZVQ0pqcWJHcklUX2dRRzdHVzIxMUE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Fast hardcore, old factory haunts and a basketball court: DIE ABETE premiere \"Giovani Volpi\" - IDIOTEQ.com",
+    "src": "IDIOTEQ.com",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3d3ZHNxVlY3RmJQaGtmX1A3WHZWVGRoQUllM0JPRXlBcjNaQmhhSmlNcS1ONkFucU9udWZjWXo0UEV0aWl2TUs4d3doT0JfclNhcmdfb3VLNU9vNWtFM1NxX29idG9xa0tWWDFkNkVMMUQ1ZzhucDhjUUt5S1FZUVNoZ2pMU01wZmZHc051VWpqWnFxaXFvUFJKdWhQSjNQYVJwMERNU0RkMTU2NGc?oc=5",
+    "timestamp": "2026-10-31T12:00:00+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Fast hardcore, old factory haunts and a basketball court: DIE ABETE premiere \"Giovani Volpi\" IDIOTEQ.com",
+    "category": "core",
+    "sources": [
+      {
+        "name": "IDIOTEQ.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3d3ZHNxVlY3RmJQaGtmX1A3WHZWVGRoQUllM0JPRXlBcjNaQmhhSmlNcS1ONkFucU9udWZjWXo0UEV0aWl2TUs4d3doT0JfclNhcmdfb3VLNU9vNWtFM1NxX29idG9xa0tWWDFkNkVMMUQ1ZzhucDhjUUt5S1FZUVNoZ2pMU01wZmZHc051VWpqWnFxaXFvUFJKdWhQSjNQYVJwMERNU0RkMTU2NGc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Snooper – “Orange Exposure”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2516216/snooper-orange-exposure/music/",
+    "timestamp": "2026-10-31T18:12:57+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "The post Snooper – “Orange Exposure” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2516216/snooper-orange-exposure/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "My Chemical Romance Bring Out Bert McCracken, Confirm Plans For New Album",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2516212/my-chemical-romance-bring-out-bert-mccracken-confirm-plans-for-new-album/news/",
+    "timestamp": "2026-10-31T17:59:29+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "The post My Chemical Romance Bring Out Bert McCracken, Confirm Plans For New Album appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2516212/my-chemical-romance-bring-out-bert-mccracken-confirm-plans-for-new-album/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "James Hetfield Says Turnstile Turned Down Metallica Tour",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2516208/james-hetfield-says-turnstile-turned-down-metallica-tour/news/",
+    "timestamp": "2026-10-31T17:25:39+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "The post James Hetfield Says Turnstile Turned Down Metallica Tour appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2516208/james-hetfield-says-turnstile-turned-down-metallica-tour/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Deep Purple Postpone Shows as Singer Ian Gillan Hospitalized Due to “Medical Emergency”",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/deep-purple-ian-gillan-medical-emergency/",
+    "timestamp": "2026-10-31T17:12:36+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "The legendary rock act is in the midst of a UK/European tour. Deep Purple Postpone Shows as Singer Ian Gillan Hospitalized Due to “Medical Emergency” Spencer Kaufman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/deep-purple-ian-gillan-medical-emergency/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Harry Styles Says the Scariest Thing This Halloween Is New York City’s Coffee Prices",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/harry-styles-harryween-coffee-prices/",
+    "timestamp": "2026-10-31T16:56:46+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Wearing an Elvis Presley costume at Madison Square Garden, Styles poked fun at checkout screens asking customers to tip 20, 22, or 24 percent. Harry Styles Says the Scariest Thing This Halloween Is New York City’s Coffee Prices Alex Krinsky",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/harry-styles-harryween-coffee-prices/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Two Arrested in Murder of SNL Writer Jimmy Fowlie’s Sister",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/10/two-arrested-in-murder-of-snl-writer-sister/",
+    "timestamp": "2026-10-31T16:49:49+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Downer disappeared in December 2025, prompting her brother to publicly appeal for answers about her whereabouts. Two Arrested in Murder of SNL Writer Jimmy Fowlie’s Sister Alex Krinsky",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/10/two-arrested-in-murder-of-snl-writer-sister/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Tim McGraw shuts down rumor about Taylor Swift, Travis Kelce's wedding - Detroit Free Press",
+    "src": "Detroit Free Press",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHRCWWptVnVlQmVTVmgzblNjMUd6QWpLY1dneUVUNVpfS1o0aXZVZHlWZTdYU0lCcUdFUWtBVGd4WEhyQ0pLU0tkOXVDSXBPSEVDd05ReUpHQnBrZzZfczVjMEhtOUt4UThYNlpzdFBmRFJtbU9RN3UxYXg0dngyR3JIdzZkcXhsYXlIXzAtc1p6SGpHZ1BqSERfU3dibDRvMEphdlVsMHZYaGpUdGN3cjdsdlN1SjVmVzY1cmhaMA?oc=5",
+    "timestamp": "2026-10-31T16:21:10+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Tim McGraw shuts down rumor about Taylor Swift, Travis Kelce's wedding Detroit Free Press",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Detroit Free Press",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHRCWWptVnVlQmVTVmgzblNjMUd6QWpLY1dneUVUNVpfS1o0aXZVZHlWZTdYU0lCcUdFUWtBVGd4WEhyQ0pLU0tkOXVDSXBPSEVDd05ReUpHQnBrZzZfczVjMEhtOUt4UThYNlpzdFBmRFJtbU9RN3UxYXg0dngyR3JIdzZkcXhsYXlIXzAtc1p6SGpHZ1BqSERfU3dibDRvMEphdlVsMHZYaGpUdGN3cjdsdlN1SjVmVzY1cmhaMA?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "’90s rock band’s frontman stuns fans: ‘Unable to tour any longer for health reason’ - PennLive.com",
+    "src": "PennLive.com",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMlkyMEx6YzZrdmdNWEt2Rm5nV3N1T1pEanhON1NDMVh0U2poVlRfdkx5cDhXSlNFWHBRQTFoWklsd1QwdG9ZRGZ2aVl6SDNmOTdISzFDNjhmckpqLTB2QUFubTZVQ1RYdkRFaDdrc2I1RlE2YXdiSHhzQnZBWDNaR0NkQmZ3NnNKbWl0aXpWR3ZtX05RMjBXMkJmblR5Q1NzSjRneUFmUTlvYXNmcG00VzZ5WUJIUkZ0ZWJaZGw4eDB3T0NLRHE0bkVR0gHeAUFVX3lxTE1pYU82QWRuNEpldGRKRkctTEcwa3l5Wk1za0xFS1JhSXBTR1psam9kWWlxZU9Xa243QTRvUWExUkI1MWhaZjdiR0lsY2NGT1lWNEtpREI3TXdDa0I5RUtUV0djdzV4VFlMWlBXbHd6RC14WTVmN1ZreUhUTzM0aEU3Ml9iVUUwQ0J1dHVPWW9KOWJNZjJHaWVBY2Y0R1YxTTBOZ252LWxNZEVkWVBuNXpNMkM0bkEyNXVkQVJjdU1zbkt3UXFIMHBHaEdiTXJ2S0dPMnpXcy1CQkFXNmxVZw?oc=5",
+    "timestamp": "2026-10-31T09:00:00+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "’90s rock band’s frontman stuns fans: ‘Unable to tour any longer for health reason’ PennLive.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "PennLive.com",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMlkyMEx6YzZrdmdNWEt2Rm5nV3N1T1pEanhON1NDMVh0U2poVlRfdkx5cDhXSlNFWHBRQTFoWklsd1QwdG9ZRGZ2aVl6SDNmOTdISzFDNjhmckpqLTB2QUFubTZVQ1RYdkRFaDdrc2I1RlE2YXdiSHhzQnZBWDNaR0NkQmZ3NnNKbWl0aXpWR3ZtX05RMjBXMkJmblR5Q1NzSjRneUFmUTlvYXNmcG00VzZ5WUJIUkZ0ZWJaZGw4eDB3T0NLRHE0bkVR0gHeAUFVX3lxTE1pYU82QWRuNEpldGRKRkctTEcwa3l5Wk1za0xFS1JhSXBTR1psam9kWWlxZU9Xa243QTRvUWExUkI1MWhaZjdiR0lsY2NGT1lWNEtpREI3TXdDa0I5RUtUV0djdzV4VFlMWlBXbHd6RC14WTVmN1ZreUhUTzM0aEU3Ml9iVUUwQ0J1dHVPWW9KOWJNZjJHaWVBY2Y0R1YxTTBOZ252LWxNZEVkWVBuNXpNMkM0bkEyNXVkQVJjdU1zbkt3UXFIMHBHaEdiTXJ2S0dPMnpXcy1CQkFXNmxVZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Big music shake-up in Shah Rukh Khan’s ‘KING’! Anirudh Ravichander reportedly exits - Mathrubhumi English",
+    "src": "Mathrubhumi English",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMDMxYnlvZ01ob2xEX2NKOFBpbXN5LV94MXQxWkhtUWFTNE5kYVNkT2RRMmdVWHh5R0p2RFdSMWV4d2RaLVUtc2pyOTd4eWlvZGdZcHJ4U2Z2NFF0b01rSW5LRjhSZjNLUHhVNmRtQVRDMDktR3o2MlBYUERQVnFZVW84NFQwQ3JVQkcyQ2Q1SHJMR2NvV0pTemNQcllQV0ZZa3hFZS0tMy11bEtIRUF5QldiWWdhMy1Dbm4xMG4tdmotUl9Bem9IUTB4RVdXTDBnSGd6MNIB2gFBVV95cUxNSm0zbXZyNU9QOGlaYnY3VWF5SEtRVnpieHBaQ2Z5UHNkd1hldWxTRUpPSWxGYXZXbjhSTWlzZWhjMlA5dGQ3cU8wVFA0YUduR1ljUXlpN292eGhxczNiYTlscTJfTk5xMFdNdnRrZF9EU1NtZDFWek9Ha2d4TWw0bXAtNUdzYTdLZ1FDSUp6aGRPTkh2TUhUakE1RFM1cnVib3RYTGpfZFJ3ZG80clZQV1h4dkl2SU5oQ1REN0JFY3BTelpuejJESlREaTZMRFZia3lPWGF3RU5vZw?oc=5",
+    "timestamp": "2026-10-31T06:22:13+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Big music shake-up in Shah Rukh Khan’s ‘KING’! Anirudh Ravichander reportedly exits Mathrubhumi English",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Mathrubhumi English",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMDMxYnlvZ01ob2xEX2NKOFBpbXN5LV94MXQxWkhtUWFTNE5kYVNkT2RRMmdVWHh5R0p2RFdSMWV4d2RaLVUtc2pyOTd4eWlvZGdZcHJ4U2Z2NFF0b01rSW5LRjhSZjNLUHhVNmRtQVRDMDktR3o2MlBYUERQVnFZVW84NFQwQ3JVQkcyQ2Q1SHJMR2NvV0pTemNQcllQV0ZZa3hFZS0tMy11bEtIRUF5QldiWWdhMy1Dbm4xMG4tdmotUl9Bem9IUTB4RVdXTDBnSGd6MNIB2gFBVV95cUxNSm0zbXZyNU9QOGlaYnY3VWF5SEtRVnpieHBaQ2Z5UHNkd1hldWxTRUpPSWxGYXZXbjhSTWlzZWhjMlA5dGQ3cU8wVFA0YUduR1ljUXlpN292eGhxczNiYTlscTJfTk5xMFdNdnRrZF9EU1NtZDFWek9Ha2d4TWw0bXAtNUdzYTdLZ1FDSUp6aGRPTkh2TUhUakE1RFM1cnVib3RYTGpfZFJ3ZG80clZQV1h4dkl2SU5oQ1REN0JFY3BTelpuejJESlREaTZMRFZia3lPWGF3RU5vZw?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Festival de música neonazi reúne centenas de participantes de vários países na Póvoa de Varzim - Jornal Renovação",
+    "src": "Jornal Renovação",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQTM4QS1ScWw5aG9tN05QTUtBd3dtbHlmSDRlNzRNc0FmMC1wX0FCaUlPbW5pZWVwZm5BQXlUU3I1M1poekFyWWhGZ1ZIWlJvMjFBa25Ncy1HbU1tcVZpYTgxZjNuX1gydGlsbVlsb2NCczJ3OGwxN2l2aFg0aXJjVHdKbjA0OTczRnFsbTVKeGdPYlB2VEhWNW85NHhRRGJQakpGZm92dFRfQWl6UWpSb1ByREtXZHJWMGE4?oc=5",
+    "timestamp": "2026-10-31T18:26:49+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Festival de música neonazi reúne centenas de participantes de vários países na Póvoa de Varzim Jornal Renovação",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Jornal Renovação",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQTM4QS1ScWw5aG9tN05QTUtBd3dtbHlmSDRlNzRNc0FmMC1wX0FCaUlPbW5pZWVwZm5BQXlUU3I1M1poekFyWWhGZ1ZIWlJvMjFBa25Ncy1HbU1tcVZpYTgxZjNuX1gydGlsbVlsb2NCczJ3OGwxN2l2aFg0aXJjVHdKbjA0OTczRnFsbTVKeGdPYlB2VEhWNW85NHhRRGJQakpGZm92dFRfQWl6UWpSb1ByREtXZHJWMGE4?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Barba Verde, Vida Verde: Steve Andrews Salvando o Planeta Uma Música de Cada Vez - Portugal Resident",
+    "src": "Portugal Resident",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYzh6RTNveDFmWUM0SUxrQklzZkh4b0tmUi1faWdOSXdXd1dPanl5bF9WYkQwOWxuYU4xLUdvSTVybFJlUlRlRkd0VFRjOHpYTHJzQlVjS1hnb1RRSXhIeFVwM3pNM2w0RjVkRWk4b0pYU1VZc2Z0eXdEU0FfM2VyUFptNkdrUzB0ZkhoZURlRldmcFd1UTZJ?oc=5",
+    "timestamp": "2026-10-31T13:11:18+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Barba Verde, Vida Verde: Steve Andrews Salvando o Planeta Uma Música de Cada Vez Portugal Resident",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Portugal Resident",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYzh6RTNveDFmWUM0SUxrQklzZkh4b0tmUi1faWdOSXdXd1dPanl5bF9WYkQwOWxuYU4xLUdvSTVybFJlUlRlRkd0VFRjOHpYTHJzQlVjS1hnb1RRSXhIeFVwM3pNM2w0RjVkRWk4b0pYU1VZc2Z0eXdEU0FfM2VyUFptNkdrUzB0ZkhoZURlRldmcFd1UTZJ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Festival de música neonazi reúne centenas na Póvoa de Varzim - oRegiões",
+    "src": "oRegiões",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMkpqeW82Zk1rcDdUOTJtOTFrZFFEVFFVajZLMWE4eFVVVHIwblpCa1QzeTNrb1pUYXhLbjRhNEYtMWw4ZFd6cFM1aXZUM0tXTERENmFqM19nQWJqRnF3Wkp1dVdHeUp3NmRfN05teFBlWVhwZVRMMHhkc2gtak1idlJHSkZnMUJC?oc=5",
+    "timestamp": "2026-10-31T12:30:58+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Festival de música neonazi reúne centenas na Póvoa de Varzim oRegiões",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "oRegiões",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMkpqeW82Zk1rcDdUOTJtOTFrZFFEVFFVajZLMWE4eFVVVHIwblpCa1QzeTNrb1pUYXhLbjRhNEYtMWw4ZFd6cFM1aXZUM0tXTERENmFqM19nQWJqRnF3Wkp1dVdHeUp3NmRfN05teFBlWVhwZVRMMHhkc2gtak1idlJHSkZnMUJC?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Carla Prata atua na Casa Capitão - Bantumen",
+    "src": "Bantumen",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT1hSU044TDN5RUpXSTRuOFlna2w2MlpFcEsza3RhaWhqVmJPZC1zRnMwNkdFNnROVDF1SkVJLXQyMWRVamFnY3B0RVMxUHlpWXM0Q1JDenNzUkkwNHVUNlBLckloQmJ0bm1VM21zWUE0ak8xenZFWTlSX0NHeDVqSGtRdV9iLVB1ekk3aEp2Vy1MYmFaaWp5bThnRlNqb1MwNDBuQkZCUmloQQ?oc=5",
+    "timestamp": "2026-10-31T10:56:39+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Carla Prata atua na Casa Capitão Bantumen",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Bantumen",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT1hSU044TDN5RUpXSTRuOFlna2w2MlpFcEsza3RhaWhqVmJPZC1zRnMwNkdFNnROVDF1SkVJLXQyMWRVamFnY3B0RVMxUHlpWXM0Q1JDenNzUkkwNHVUNlBLckloQmJ0bm1VM21zWUE0ak8xenZFWTlSX0NHeDVqSGtRdV9iLVB1ekk3aEp2Vy1MYmFaaWp5bThnRlNqb1MwNDBuQkZCUmloQQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "“Nativo“: Um projeto que mergulha nas raízes da música tradicional portuguesa - Renascença",
+    "src": "Renascença",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMlVXYkdlWmpLamNjQWE2VUMzU1dOME9BemZTOXNBczRUYzFkRUxQdUJXY3pKa2FPMnkzcElEdThCNVZLNHVBb3NFUDN2RWEyR3lTLTV4UzB6aTNFckliSVNWYjJEMnhfTWxwWjJaWkFJSDFKYmE5XzRSOHZfZ0NISFhpNW1VT2xHaGw4MkxtYnYwYnVDbkk4VklZa0dRWU5qUFpENGgxRGk2dnQyb1JSRF9zY0Y4QnhKNXNteFkxX3FTUdIBwgFBVV95cUxNMlVXYkdlWmpLamNjQWE2VUMzU1dOME9BemZTOXNBczRUYzFkRUxQdUJXY3pKa2FPMnkzcElEdThCNVZLNHVBb3NFUDN2RWEyR3lTLTV4UzB6aTNFckliSVNWYjJEMnhfTWxwWjJaWkFJSDFKYmE5XzRSOHZfZ0NISFhpNW1VT2xHaGw4MkxtYnYwYnVDbkk4VklZa0dRWU5qUFpENGgxRGk2dnQyb1JSRF9zY0Y4QnhKNXNteFkxX3FTUQ?oc=5",
+    "timestamp": "2026-10-31T10:03:00+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "“Nativo“: Um projeto que mergulha nas raízes da música tradicional portuguesa Renascença",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Renascença",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMlVXYkdlWmpLamNjQWE2VUMzU1dOME9BemZTOXNBczRUYzFkRUxQdUJXY3pKa2FPMnkzcElEdThCNVZLNHVBb3NFUDN2RWEyR3lTLTV4UzB6aTNFckliSVNWYjJEMnhfTWxwWjJaWkFJSDFKYmE5XzRSOHZfZ0NISFhpNW1VT2xHaGw4MkxtYnYwYnVDbkk4VklZa0dRWU5qUFpENGgxRGk2dnQyb1JSRF9zY0Y4QnhKNXNteFkxX3FTUdIBwgFBVV95cUxNMlVXYkdlWmpLamNjQWE2VUMzU1dOME9BemZTOXNBczRUYzFkRUxQdUJXY3pKa2FPMnkzcElEdThCNVZLNHVBb3NFUDN2RWEyR3lTLTV4UzB6aTNFckliSVNWYjJEMnhfTWxwWjJaWkFJSDFKYmE5XzRSOHZfZ0NISFhpNW1VT2xHaGw4MkxtYnYwYnVDbkk4VklZa0dRWU5qUFpENGgxRGk2dnQyb1JSRF9zY0Y4QnhKNXNteFkxX3FTUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "title": "Patrick Stewart Remembered as “That Rare Actor” in Tributes from Ian McKellen, William Shatner, Seth MacFarlane, and More",
@@ -5098,7 +5769,7 @@
     "title": "200 Stab Wounds, Rev3rent, Darkest Hour & More Added to Metal Injection's Top Tracks of the Week",
     "src": "Metal Injection",
     "url": "https://metalinjection.net/playlist/top-tracks-of-the-week-playlist/200-stab-wounds-rev3rent-darkest-hour-more-added-to-metal-injections-top-tracks-of-the-week",
-    "timestamp": "2026-10-30T22:57:58+00:00",
+    "timestamp": "2026-10-30T16:15:42+00:00",
     "isoDate": "2026-10-30",
     "date": "30 Out",
     "d": "As well as picks from Native James, Enslaved, Gaera, and more. The post 200 Stab Wounds, Rev3rent, Darkest Hour & More Added to Metal Injection's Top Tracks of the Week appeared first on Metal Injection .",
@@ -5107,10 +5778,6 @@
       {
         "name": "Metal Injection",
         "url": "https://metalinjection.net/playlist/top-tracks-of-the-week-playlist/200-stab-wounds-rev3rent-darkest-hour-more-added-to-metal-injections-top-tracks-of-the-week"
-      },
-      {
-        "name": "Metal Injection",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYm1kWEd0dTZ3WER5MWtMOV9fdDRhbFFjdlFjanVaZG5OSmNCb0tPaDF2RE15RTB6aWFFVlU3dmRpU1NRbnNfMXhyalozTGhoenBlZkpMMnd5YlBWNGpPc0Nnam5KUUR3X2tXVGV0VlJ0T2ZqMC1EaDd0bzVrdlg2cDQxbm1WaUkwazNxUVkwOXItN04wM0F3NW5XQ05XbVUtN1l5VGRXR1hXSjYteVVSZ2s2czRIVEtsWEFzOUFockw0NXBQXzJ4Uk5BRl8zYXBac3JGNnV1VmpEcTZiSm5Bajd3X1VMZHdZcnFmdldseng?oc=5"
       }
     ],
     "status": "official",
@@ -5803,10 +6470,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -6008,7 +6675,7 @@
     "isoDate": "2026-10-30",
     "date": "30 Out",
     "d": "NICKELBACK ANNOUNCES THE EVERYTHING UNDER THE SUN TOUR Metal Planet Music",
-    "category": "general",
+    "category": "metal",
     "sources": [
       {
         "name": "Metal Planet Music",
@@ -6023,7 +6690,7 @@
     "isCore": false,
     "star": false,
     "kind": "news",
-    "section": "buzz"
+    "section": "news"
   },
   {
     "b": "Various Artists",
@@ -6776,15 +7443,19 @@
       {
         "name": "Consequence",
         "url": "https://consequence.net/2026/10/ministry-hate-to-go-take-out-or-delivery-stream/"
+      },
+      {
+        "name": "Consequence of Sound",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN0ZkcTNvVGFhTDNxVnVvWlZLWF8yZTNIYmlOVnpWS3dRSjAydXlqVEV1bnRySklRNlJhUno3eE9HMl9uNGQ5ekxoVGplSzgtSV9ZcVh5Wk9EbnJNV3ZYYUs0VW0yX3p0UVI2dm85c05nVUVVY1EzVi1jUkpEWWpNNTdmVmpSZUU?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 1,
+    "sourceCount": 2,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": false,
+    "star": true,
     "kind": "news",
     "section": "buzz"
   },
@@ -7126,15 +7797,19 @@
       {
         "name": "Consequence",
         "url": "https://consequence.net/2026/10/queens-of-the-stone-age-perfecth-album-stream/"
+      },
+      {
+        "name": "Consequence of Sound",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWUlCbWczT01uTUhITGMtdEFTcFRmU2tOcU44ZVhRU2ZRTjFKVHFRMXc3ZXM1TzBBMXJKd3Bpd0hIRDJKeV9hRzhaTkdxaE9Rd0ktLXZ3UGp5OTFDbWUySkhEdXFOajdsd0QxenVwQi1sR1BBYXFrMFN1QXdFYmxLRm4xU3U?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 1,
+    "sourceCount": 2,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": false,
+    "star": true,
     "kind": "news",
     "section": "buzz"
   },
@@ -8683,6 +9358,102 @@
     "star": false,
     "kind": "news",
     "section": "buzz"
+  },
+  {
+    "b": "Nobodylikesbirdie",
+    "t": "Tous les lendemains",
+    "g": "hiphop",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "30 Out",
+    "isoDate": "2026-10-30",
+    "url": "https://musicbrainz.org/release-group/079e0022-db59-41fa-81b1-062401c8b08b",
+    "d": "hip hop, plugg",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/079e0022-db59-41fa-81b1-062401c8b08b"
+      }
+    ],
+    "mbid": "079e0022-db59-41fa-81b1-062401c8b08b",
+    "star": false,
+    "kind": "release",
+    "section": "main"
+  },
+  {
+    "title": "\"We thought it'd be fun to do songs that people would hate\": Foo Fighters finally release lost cover of Gerry Rafferty's Baker Street - MusicRadar",
+    "src": "MusicRadar",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMXF1ZUYwR3ZpT0R2V1dublkzcnlTV0RRUjktMTZ5VzRHd0pBOFVLOU9Xb0xOeGU4S2xkX3c2OUtseVpMVzBqS0padGZRMW5mbms1dnAyVm00WEdYSnZWeC16aE9fN1poM0FKYUtJbzMyQlRueHdiWW5YRG93WEFhYmdQUHVQYS1FQXZmZjJNc19pZ0JUMnBvZmF6NU9teW1wSDdFQVMxRkJOQmpYVkJVZTNZUGEwQ1ZCa21lbG9WdnJ0aHRUZU5XbFlVUHZVUjlna3hMUWFNazhId1V6NFU2OGNueXNIVEhOQllyajB2MmQ0QTJxeDQ5UVU2UzEtV0hrbmppU1F5dEZZZw?oc=5",
+    "timestamp": "2026-10-30T15:00:00+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "\"We thought it'd be fun to do songs that people would hate\": Foo Fighters finally release lost cover of Gerry Rafferty's Baker Street MusicRadar",
+    "category": "general",
+    "sources": [
+      {
+        "name": "MusicRadar",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMXF1ZUYwR3ZpT0R2V1dublkzcnlTV0RRUjktMTZ5VzRHd0pBOFVLOU9Xb0xOeGU4S2xkX3c2OUtseVpMVzBqS0padGZRMW5mbms1dnAyVm00WEdYSnZWeC16aE9fN1poM0FKYUtJbzMyQlRueHdiWW5YRG93WEFhYmdQUHVQYS1FQXZmZjJNc19pZ0JUMnBvZmF6NU9teW1wSDdFQVMxRkJOQmpYVkJVZTNZUGEwQ1ZCa21lbG9WdnJ0aHRUZU5XbFlVUHZVUjlna3hMUWFNazhId1V6NFU2OGNueXNIVEhOQllyajB2MmQ0QTJxeDQ5UVU2UzEtV0hrbmppU1F5dEZZZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Os discos que marcaram os anos 70 em Portugal - SAPO",
+    "src": "SAPO",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeVFpZDFWTmV3Rm1GMTBEUXpWUUdvc1JhRW00NGluUkdrQTVhb1J5WERlRFp6NG53SWYwcUxma0NPeVBLUXRkNm1tVWdiYjNjaTNTYXZjR0c0Y3V6WWdCbHM1dFlWSkZFR0hCU2RKeWd0b1FWanJ0MjNCNlNRUHQyYw?oc=5",
+    "timestamp": "2026-10-30T15:37:14+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Os discos que marcaram os anos 70 em Portugal SAPO",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "SAPO",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeVFpZDFWTmV3Rm1GMTBEUXpWUUdvc1JhRW00NGluUkdrQTVhb1J5WERlRFp6NG53SWYwcUxma0NPeVBLUXRkNm1tVWdiYjNjaTNTYXZjR0c0Y3V6WWdCbHM1dFlWSkZFR0hCU2RKeWd0b1FWanJ0MjNCNlNRUHQyYw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Rankings: notas do 9.º ano pioram. Litoral domina o topo da tabela e escolas públicas ficam para trás - CNN Portugal",
+    "src": "CNN Portugal",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbXZLSUlSelo0WHVBMkpaMUZGM0tLWXduRnc1aGJBRGNXUkJJYVNkTU82WE4xTjEyZndBMHhPTG1rbEE4YkUtZ0N6TGw5NWFBNGFXRTJPbi02OFBnYXYzU2x3VUN1eGEzX2ItVWxjTmc5QW1TUkVjVHNGMlhrWFdnVU1wRlU3cWdNWjJ4X05BR1dIdEM1aHJ5UG1IWUZJVGZab3Q0MlNZcW1NckN3ZWR2TjFvTWRfaWNvcFZSV3VHM2RHWHc3aFA4eEpwbFdsd0Q3S00tSk9sOGI4TGxydEQ5WjV5UnJ6LVF1ZHRWdTg4RnhIeXRoYWlQNHloZ3NOZklDUVVYMTNR?oc=5",
+    "timestamp": "2026-10-30T00:02:15+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Rankings: notas do 9.º ano pioram. Litoral domina o topo da tabela e escolas públicas ficam para trás CNN Portugal",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "CNN Portugal",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbXZLSUlSelo0WHVBMkpaMUZGM0tLWXduRnc1aGJBRGNXUkJJYVNkTU82WE4xTjEyZndBMHhPTG1rbEE4YkUtZ0N6TGw5NWFBNGFXRTJPbi02OFBnYXYzU2x3VUN1eGEzX2ItVWxjTmc5QW1TUkVjVHNGMlhrWFdnVU1wRlU3cWdNWjJ4X05BR1dIdEM1aHJ5UG1IWUZJVGZab3Q0MlNZcW1NckN3ZWR2TjFvTWRfaWNvcFZSV3VHM2RHWHc3aFA4eEpwbFdsd0Q3S00tSk9sOGI4TGxydEQ5WjV5UnJ6LVF1ZHRWdTg4RnhIeXRoYWlQNHloZ3NOZklDUVVYMTNR?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "b": "Demonstration of Power",
@@ -12207,7 +12978,7 @@
     "isoDate": "2026-10-29",
     "date": "29 Out",
     "d": "William Shatner's heavy metal band is playing at Ferg's in February wtsp.com",
-    "category": "general",
+    "category": "metal",
     "sources": [
       {
         "name": "wtsp.com",
@@ -12222,7 +12993,7 @@
     "isCore": false,
     "star": false,
     "kind": "news",
-    "section": "buzz"
+    "section": "news"
   },
   {
     "title": "Mammoth Welcome Intervals Drummer Nathan Bulla Following The Departure Of Garrett Whitlock",
@@ -12712,6 +13483,10 @@
       {
         "name": "Stereogum",
         "url": "https://stereogum.com/2515916/band-to-watch-piss/interviews/band-to-watch/"
+      },
+      {
+        "name": "Stereogum",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JUzJoQXpBZy02dHlLOU1XelA0eG54SU1ONm5ITThHTWZmUkFSc3YtbUdFZFBxcVZtNG1QbHd5QjVpTllyX3JPNzRWSmViTHJhYWk1dm4tV1RwZHY1d1VIVlp2TGZCVHQ2OHFLSUp2Wm1xaTBXamZ0Q1NBcFBwdw?oc=5"
       }
     ],
     "status": "official",
@@ -14667,7 +15442,7 @@
     "title": "U2 regressam a Portugal em maio de 2027. Concerto acontece no Estádio da Luz - CNN Portugal",
     "src": "CNN Portugal",
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYXVwWHROOWhaczRsYy1qMkh4TlJTbDhMSHNpc0t3aXZzS2E3Tmp1bHdQX2gzbEFhUUFSWmR6alpjNVJGc3o3MzJxZ1g4UWU0VjRMUUVubGxXbDRvVGllcF96Q1B0TEIwZVZNZzE2QjJEblVpLTlYMnFoSzA2TFhKZk9SN0lQcmJtY2w2eVJUNG83eTB3a201WnhFTFhzb3hKbG1BQnMwT3hodXh1LV9WNVNZWlpZTV9iY3FGbU9jU0RRb3FCdHF4ejRVWTNwalN1ZjRrNS0zM2RnbmVCVTZ0VjJIc05VWGs2NWc?oc=5",
-    "timestamp": "2026-10-29T16:25:38+00:00",
+    "timestamp": "2026-10-29T11:18:00+00:00",
     "isoDate": "2026-10-29",
     "date": "29 Out",
     "d": "U2 regressam a Portugal em maio de 2027. Concerto acontece no Estádio da Luz CNN Portugal",
@@ -15167,6 +15942,96 @@
     "isPT": false,
     "isCore": false,
     "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "As melhores coisas para fazer este fim-de-semana em Lisboa - Time Out Lisboa",
+    "src": "Time Out Lisboa",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORUoxR1FzTk93amE5SzFERFQxU1BiX1NqdXRObVRjaXJtWEdKM3pfd29fU3gxckRyVTlfMUl2elhJVDdFZkdjOE9keDVuSDl4bkhhTDhYb29HNExpTkhxT1VqUi1ab0hFaVoxd25BaWI2QTJFS3RCSU8tT3dkSEcxcmRBS3hYMUJoQUhj?oc=5",
+    "timestamp": "2026-10-29T00:00:00+00:00",
+    "isoDate": "2026-10-29",
+    "date": "29 Out",
+    "d": "As melhores coisas para fazer este fim-de-semana em Lisboa Time Out Lisboa",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Time Out Lisboa",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORUoxR1FzTk93amE5SzFERFQxU1BiX1NqdXRObVRjaXJtWEdKM3pfd29fU3gxckRyVTlfMUl2elhJVDdFZkdjOE9keDVuSDl4bkhhTDhYb29HNExpTkhxT1VqUi1ab0hFaVoxd25BaWI2QTJFS3RCSU8tT3dkSEcxcmRBS3hYMUJoQUhj?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "INTERVIEW: Benefit concert to fund music therapy grants - fox10tv.com",
+    "src": "fox10tv.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZnVBWlFMYnBVRldqWGFkMi01cDhMd1drVWJ4ekFUMVRzd2pXNEhOdVA0N2FIQ0pwTlduNzNpeVRQU1FiVWdCQlNwSXhWMl9JQjRIbHZUX1ZGRDVmZnZyVm1BNGRFNm13YTBtNVU4dFZOTnpJRW5MSlBiOFpFOUNJMmc2Y0RGeW41NHlPeFFBUWxNRlo5N0JsUg?oc=5",
+    "timestamp": "2026-10-29T23:22:00+00:00",
+    "isoDate": "2026-10-29",
+    "date": "29 Out",
+    "d": "INTERVIEW: Benefit concert to fund music therapy grants fox10tv.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "fox10tv.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZnVBWlFMYnBVRldqWGFkMi01cDhMd1drVWJ4ekFUMVRzd2pXNEhOdVA0N2FIQ0pwTlduNzNpeVRQU1FiVWdCQlNwSXhWMl9JQjRIbHZUX1ZGRDVmZnZyVm1BNGRFNm13YTBtNVU4dFZOTnpJRW5MSlBiOFpFOUNJMmc2Y0RGeW41NHlPeFFBUWxNRlo5N0JsUg?oc=5"
+      },
+      {
+        "name": "WECT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNHRJTF9oaExYQ2FZc0NPcTlaWUloSEdVeGZoWU0yZFV5VkhsNE5XZVIyUGIwazhkMHhKdDUxMXdjNFVoaTRzZnpkSFkyUW5JOW50NzRTRm5ZUG54TEFWQW1JdXgyMmFQTzk2aGxtQWJUazhvSnFWVk5LR182QWtEd2ZXZndkNmVvSnpaaFVBYjNHOTkt?oc=5"
+      },
+      {
+        "name": "KCRG",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb2wzS2VLaGNPanNaaGxaRGxUelBReGo5RzdDMGZqenJaS2hVZTFFYUhTOEV6cmZfblRIQjNvaE9sLVN1YWVfZ3ZNOFpYcUlXRzBMQjYtVnVTbENEenZ0Y0NBZFpmX2wyVEdza0ZqNTJVQkVBU2N3YmRUMTdjbDN2WUloS3lZcFZVY0djakNyVFlReDFI?oc=5"
+      },
+      {
+        "name": "Live 5 News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQS15VG9zTnJycXhvWFM3aXdIQnpqX0ZIQXFWOXNzbldqZHg3SC1jZkdHUHFMMUZJaWc4M3U2YXBJajRzOGNJanZtSDk2LTdTajNfR2xMUWdrRjk3RjNPMDJrREZLS3J2UVRIN014SmwyRlJWX2ZCRS1oX09RZkVucWdXOXdHNjllU284cEhxcGVBZFMxMjFTSDJUZw?oc=5"
+      },
+      {
+        "name": "WBTV",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkgyeTZrb1AxdFVHemVnQlE0Ti11UVlKcW5YSlpRbml3YUxKbVBrQVJxSlYxSW0tekNVSzJWWURJY0d6MGE0a1VyTHFKUDZfSm5GUVI3XzR1NnlDVV96NTdLSmhieHVGa2tURjNPd3NlUFB5enpWM2R0cFJUaFZQdlRrNW92VHJkZnBjZEt2RE9HeGRm?oc=5"
+      },
+      {
+        "name": "KWCH",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNGZ3WlMxU3NuN1FJNUszWng4VldDZjFVcTdCV0w5ZTUxb3pzSUpQODVLVXM1LTIxaFZsTkkzNkxQUGNXdnBHN3dyZktnREtYb3FJNllXdXFtUFZrajA5SkJmOXFhMGtwY1B1OUpCUG92Rk5KRld1NldvTGpYNGN4V2ZaN3JjRk9jU1hZem16ZWJUUUVh?oc=5"
+      },
+      {
+        "name": "WLFI",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd0JYMGdYX3g2R29KMUpoak5LblppOUR3ZG5FNDVuU3ZWUEtjOVlueGQ5WkJOXy1pV045UUFZV3FXR251NEhWbXN3bGp1UzNLNi1ob1pzcFdCTG9fRGQ1M2d6T1ZCS2MxZFd1b2NXRHg5QzVkZTlGeHdoNlBMX0d5MjN0aHVWUmNmdUg0MUJfdXIycEJM?oc=5"
+      },
+      {
+        "name": "KMOV",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUHBNMmpQVFRja3pYZUp5ZWtLdzRvcUJENUVWRTl4Z1VGTU1hdUNHajRvVzE5WTBlNTItcW1tdURxc0dsSkpWck9XRjZSbHB0alJGcVpkTTRSUWJoaVZSd2VSa21zX24wZE15REtqREk4YlhPakQ2V0I1ck1MSk5ONi1Md3liY0ZJbm1pWW00NzNFRnZxbWZWd1NTM0drdw?oc=5"
+      },
+      {
+        "name": "Hawaii News Now",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOajJVX1kzRGhfU2xmV1BHTlZMbjRFU18zcUhOUHBUYW53TEJhMU9VR0RkZXlLNDlPa0J1dHI1dVRfTzhZQ2M4UGFQYlIwZ3NEbFpOMWRFY0VuTEVEaW9DN1Z2Z0ZBclppcGhaSnhQSFd0Z0t1UFhiTTdiemxoMVVUVUJmaVFSdno2RXJBaXk2d180aE9XYmtsTGlPeVFpeFFj?oc=5"
+      },
+      {
+        "name": "WKYT",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWlIwZzFWWFVsMDA5TUFXR3p6WGh1U2FWMjJfSlVTanBNMzZqUHRhRGFnYlU4cXNkNkp5aUtyaTV3eVFyTmt4X3V1YUEzUlpnbXhROERleFA5V1BENDYwVEdJMFE5NXpQR3A0bXNwS3JGd1NtQ3gzMmhTd2Izd1c1UkwxZTZuZzkxdVV3ZlpWWUZtVUdE?oc=5"
+      },
+      {
+        "name": "KATC.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPclkxZDhjQ3ZNY0FwVTFOYXlVbkJDNjdfQnkwclZLQnFlRm9iNjg2TkdpWVFvVGVnVTNGX2JKNFNWTnhCSlZ4c3ZsaWFjMDRyRFBDYmMzT19DNUs3MzhJNFRReFJPZ21hbVkyOE5uNTctc1lBNkJmZ0VMSEQ0LXlNTGtFQlNBY0tTejd2MkdJWXdvai1tdW5EbUcxS1ZoU1FxUWZBWFhB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 11,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
     "kind": "news",
     "section": "buzz"
   },
@@ -30478,8 +31343,8 @@
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbURTbUVSN2gyb1BraWZmTmlRNUNZQXFCemhQLXI3S2lYc3UtSVJnbDdRQjVqemxwa3JjakFYalNGd09iQzVHREQ5Mk9hNy1SOTZ5c3VocGFNVmgxeWw0dW13MWUwNWhMT0dMaDF3QTU3UXVpdmxKQ0l4OHljX01HT05aNXRDNDJfZkVHVG4yc2JoSVRINzNlbmY2TWVPdw?oc=5"
       },
       {
-        "name": "AOL.co.uk",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yMHJ2ek5uS1EtUnZiVnZKWmlqd0NHZGItN0VNY1ZfOGljNi1LMFAtMHJtMnNwOHJlWWNKa1NvcFN5MXJPaHVRcTFrbi1SRm9TRWg2alBsdDF5NEFLSHU5UDFiRkhwRWhrRWJVT3BaZzFOTlRjeHc?oc=5"
+        "name": "AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11aHlwRXdseEpUMktHVkZINjJwd1MyOGVraER2VC1RS3ZQVnpYcldEbmRvUmFWRVFnMWkyTUVSZ1hZX0ZYUkxGbWczUV94aEo1TkZOaXE5OGZNdi04bVJBLU5IMFlkajJQcFFLWjRyNXA4czQ?oc=5"
       }
     ],
     "status": "official",
@@ -60332,31 +61197,6 @@
       {
         "name": "4gnews",
         "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfNThUVGpFdHZDc1BsMDUyNnByaWUyYTQyYUpaT1hoZXRFNEwyT0g2ajduY0U2cHh1WlRsemFuZTdqeHRpMFR4VXRMb0thUm51VjVWNG1sc09kUmlTVFE?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": true,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "pt"
-  },
-  {
-    "title": "As melhores coisas para fazer este fim-de-semana em Lisboa - Time Out Lisboa",
-    "src": "Time Out Lisboa",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORUoxR1FzTk93amE5SzFERFQxU1BiX1NqdXRObVRjaXJtWEdKM3pfd29fU3gxckRyVTlfMUl2elhJVDdFZkdjOE9keDVuSDl4bkhhTDhYb29HNExpTkhxT1VqUi1ab0hFaVoxd25BaWI2QTJFS3RCSU8tT3dkSEcxcmRBS3hYMUJoQUhj?oc=5",
-    "timestamp": "2026-10-21T23:00:00+00:00",
-    "isoDate": "2026-10-21",
-    "date": "21 Out",
-    "d": "As melhores coisas para fazer este fim-de-semana em Lisboa Time Out Lisboa",
-    "category": "pt",
-    "sources": [
-      {
-        "name": "Time Out Lisboa",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORUoxR1FzTk93amE5SzFERFQxU1BiX1NqdXRObVRjaXJtWEdKM3pfd29fU3gxckRyVTlfMUl2elhJVDdFZkdjOE9keDVuSDl4bkhhTDhYb29HNExpTkhxT1VqUi1ab0hFaVoxd25BaWI2QTJFS3RCSU8tT3dkSEcxcmRBS3hYMUJoQUhj?oc=5"
       }
     ],
     "status": "official",
