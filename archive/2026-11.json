@@ -58,10 +58,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -83,10 +83,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -108,10 +108,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -258,10 +258,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -283,10 +283,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -308,10 +308,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -333,10 +333,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -358,10 +358,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -383,10 +383,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -963,7 +963,7 @@
     "isoDate": "2026-11-01",
     "date": "1 Nov",
     "d": "Interview With Chicago’s Modern Hard Rock/Metal Band “Cease To Resist” Metalheads Forever Magazine",
-    "category": "general",
+    "category": "metal",
     "sources": [
       {
         "name": "Metalheads Forever Magazine",
@@ -978,7 +978,7 @@
     "isCore": false,
     "star": true,
     "kind": "news",
-    "section": "buzz"
+    "section": "news"
   },
   {
     "title": "TOMMY THAYER And DORO PESCH Perform With KISS Tribute Band At '50 Years Of Kiss In Germany' Official KISS Fan Celebration",
@@ -1181,13 +1181,13 @@
     "section": "buzz"
   },
   {
-    "title": "Michael Mann Accidentally Shoots Himself at Firing Range: Report",
+    "title": "Michael Mann Accidentally Shoots Himself at Firing Range",
     "src": "Consequence",
     "url": "https://consequence.net/2026/11/michael-mann-shoots-himself-at-firing-range/",
     "timestamp": "2026-11-01T13:55:20+00:00",
     "isoDate": "2026-11-01",
     "date": "1 Nov",
-    "d": "The director was taken by ambulance to a local hospital. Michael Mann Accidentally Shoots Himself at Firing Range: Report Alex Young",
+    "d": "The director was taken by ambulance to a local hospital. Michael Mann Accidentally Shoots Himself at Firing Range Alex Young",
     "category": "general",
     "sources": [
       {
@@ -1246,7 +1246,7 @@
       },
       {
         "name": "DN Brasil",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZzA2TTl0WTAyUy1JejgxdkN4VWQ4anJGQmxOTDR0QVNFT0RyZjJXVDJuM1ZTaU9ieVgwRzVoRDhEOWgzaVM4bTZJbThWU0txcUZkUmdkR0k4RDFPU0YzRDZZaDJuYWw0NG1IMENIRDl6LUJOdEpYbm5kODdIRmR3NnJ6d3owMF9SVUNWcHFPWjN6NmJZNDdDYVZ2bWMxcWV1UGlYQ3cwb1podkZPNk54ZE1CdzQ?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYW85Y1FaUTBJaFBXaG9NQVJGU2pCNTJIZlh0V3JMazV1MzVDNjBINGMwNUhac0dwbFhWYUJtSGxWYzFXNjJqM2o0VVdXeU5BbDktS0FEc1V6My1kVEgyQVVZeGtCY3htS2dBZHhQZlBHTkIzVExTYWYyME9IZnZpRlM2dDNTazNpZ3BqOTJUNWc0SDQzVkFzb0Znd3cxSFJXckNSa2VpbVZkUFBuUnRBXzVqWkdHTkllYXdVMUxvcHh1ZUpLc3BCdEdHTi1sdUtnU0Q1VWNR?oc=5"
       }
     ],
     "status": "official",
@@ -1400,13 +1400,13 @@
     "section": "news"
   },
   {
-    "title": "DJ Uncovers and Releases Lost Daft Punk Mix From the 1990s",
+    "title": "Lost Daft Punk Mix From 1997 Discovered and Released",
     "src": "Consequence",
     "url": "https://consequence.net/2026/11/dj-uncovers-lost-daft-punk-mix/",
     "timestamp": "2026-11-01T16:53:42+00:00",
     "isoDate": "2026-11-01",
     "date": "1 Nov",
-    "d": "The French EDM duo sent him the mix to play on a radio show to promote their 1997 debut album, the DJ said. DJ Uncovers and Releases Lost Daft Punk Mix From the 1990s Travis Bland",
+    "d": "The French EDM duo sent him the mix to DJ Ralph Lawson to promote their 1997 debut album. Lost Daft Punk Mix From 1997 Discovered and Released Travis Bland",
     "category": "general",
     "sources": [
       {
@@ -1512,6 +1512,356 @@
       {
         "name": "ESC PORTUGAL",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ndzhTTzdEcENyNE9TcTg0U25EZ1gwSWo5R2pQY0ZsaDUzb0RzekV6U1ozNURRZXNwc21Ba2ZVSEJLRVNjTHY5OGZUdXhEakQ0dXRmay0yZGw0RXZiYVIyREc5bHVhMVI3bHZ3N1FKTFNUQWdmc1BQeG0tU3llWU0?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "JUSTIN SARGENT On Becoming SKID ROW's New Singer: It's 'Surreal' And 'A Dream Come True'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/justin-sargent-on-becoming-skid-rows-new-singer-its-surreal-and-a-dream-come-true",
+    "timestamp": "2026-11-01T20:05:23+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "During an appearance on the October 29 episode of SiriusXM's \"Trunk Nation With Eddie Trunk\", SKID ROW guitarist Dave \"Snake\" Sabo and the band's new singer, Broadway veteran Justin Sargent, spoke about Justin's addition to the group, more than two and a half years after the departure of Erik Grönwa...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/justin-sargent-on-becoming-skid-rows-new-singer-its-surreal-and-a-dream-come-true"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Here’s This Week’s Top Ten Stories On Theprp.com (November 01st, 2026)",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/11/01/news/heres-this-weeks-top-ten-stories-on-theprp-com-november-01st-2026/",
+    "timestamp": "2026-11-01T19:24:11+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "Covers, anniversary tours, comics and more. The post Here’s This Week’s Top Ten Stories On Theprp.com (November 01st, 2026) appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/11/01/news/heres-this-weeks-top-ten-stories-on-theprp-com-november-01st-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Suicide Silence’s Mark Heylmun Shares Tribute To Mitch Lucker On The 14th Anniversary Of His Death",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/11/01/news/suicide-silences-mark-heylmun-shares-tribute-to-mitch-lucker-on-the-14th-anniversary-of-his-death/",
+    "timestamp": "2026-11-01T19:07:34+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "\"I’m grateful to see how he’s reached “Legendary” status. He deserves all the respect he gets because he is the GOAT.\" The post Suicide Silence’s Mark Heylmun Shares Tribute To Mitch Lucker On The 14th Anniversary Of His Death appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/11/01/news/suicide-silences-mark-heylmun-shares-tribute-to-mitch-lucker-on-the-14th-anniversary-of-his-death/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "In This Moment’s In-Studio Performance Of “Whore” For SiriusXM Released",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/11/01/news/in-this-moments-in-studio-performance-of-whore-for-siriusxm-released/",
+    "timestamp": "2026-11-01T18:52:47+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "The group's biggest hit to date. The post In This Moment’s In-Studio Performance Of “Whore” For SiriusXM Released appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/11/01/news/in-this-moments-in-studio-performance-of-whore-for-siriusxm-released/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Paleface Swiss Covered Three Slipknot Songs While Dressed As Them At Last Night’s Halloween Show",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/11/01/news/paleface-swiss-covered-three-slipknot-songs-while-dressed-as-them-at-last-nights-halloween-show/",
+    "timestamp": "2026-11-01T18:40:31+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "The group opened their set with that surprise medley at the 2026 'Core Fest'. The post Paleface Swiss Covered Three Slipknot Songs While Dressed As Them At Last Night’s Halloween Show appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/11/01/news/paleface-swiss-covered-three-slipknot-songs-while-dressed-as-them-at-last-nights-halloween-show/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "CURSED AND CALLING bring weight, melody and Berlin hardcore roots to \"Feel the Sun\" - IDIOTEQ.com",
+    "src": "IDIOTEQ.com",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsWGo5SWpkVnc0eTFaRVZOaUJDc3U4MlBDcmV0eU8xTTJGWUxiMEtfaUlFZzBvRnkteHpURWNXbHFKOEVtcDVMWjEzNjlkMUlQbU9YQnlGQXdmUkN0TUcxZlNn?oc=5",
+    "timestamp": "2026-11-01T18:25:25+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "CURSED AND CALLING bring weight, melody and Berlin hardcore roots to \"Feel the Sun\" IDIOTEQ.com",
+    "category": "core",
+    "sources": [
+      {
+        "name": "IDIOTEQ.com",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsWGo5SWpkVnc0eTFaRVZOaUJDc3U4MlBDcmV0eU8xTTJGWUxiMEtfaUlFZzBvRnkteHpURWNXbHFKOEVtcDVMWjEzNjlkMUlQbU9YQnlGQXdmUkN0TUcxZlNn?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "EVANESCENCE's AMY LEE: 'It's A Beautiful Thing To Be Able To Bring Big Groups Of People Together To Feel Something Real'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/evanescences-amy-lee-its-a-beautiful-thing-to-be-able-to-bring-big-groups-of-people-together-to-feel-something-real",
+    "timestamp": "2026-11-01T18:06:19+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "At this year's Sick New World Texas festival in Fort Worth, Texas, EVANESCENCE's Amy Lee spoke to Rock 100.5 The KATT FM's Cameron Buchholtz about the band's renewed popularity following the release of EVANESCENCE's latest album, \"Sanctuary\", which came out in June. The singer said (as transcribed b...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/evanescences-amy-lee-its-a-beautiful-thing-to-be-able-to-bring-big-groups-of-people-together-to-feel-something-real"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Metallica Celebrate Halloween With Spooky Sphere Song Debut",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/metallica-halloween-spooky-sphere-residency-song-debut-setlist-video/",
+    "timestamp": "2026-11-01T17:30:48+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "Last night (Oct. 31), Metallica played a spooky song from 1991's 'Metallica' for the first time during their Las Vegas Sphere residency. Plus, their regular \"Kirk and Rob Doodle\" received a creepy coating! Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/metallica-halloween-spooky-sphere-residency-song-debut-setlist-video/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Here’s What Heavy Metal & Hard Rock Artists Wore For Halloween 2026",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/11/01/news/heres-what-heavy-metal-hard-rock-artists-wore-for-halloween-2026/",
+    "timestamp": "2026-11-01T09:43:28+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "Featuring members of Metallica, Limp Bizkit, Fear Factory, Quicksand, The Pretty Reckless and many more. The post Here’s What Heavy Metal & Hard Rock Artists Wore For Halloween 2026 appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/11/01/news/heres-what-heavy-metal-hard-rock-artists-wore-for-halloween-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Wu-Tang Clan to Headline Halftime Show of Detroit Lions’ Thanksgiving Day Game",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/11/wu-tang-clan-thanksgiving-day-lions-halftime-show/",
+    "timestamp": "2026-11-01T19:28:48+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "The halftime show is being executive produced by Eminem. Wu-Tang Clan to Headline Halftime Show of Detroit Lions’ Thanksgiving Day Game Alex Young",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/11/wu-tang-clan-thanksgiving-day-lions-halftime-show/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Harry Styles Covers “Psycho Killer” on Final Night of MSG Residency",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/11/harry-styles-covers-psycho-killer/",
+    "timestamp": "2026-11-01T17:50:10+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "The singer also donned a Pizza Rat costume and broke an arena record. Harry Styles Covers “Psycho Killer” on Final Night of MSG Residency Travis Bland",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/11/harry-styles-covers-psycho-killer/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Creekers Release New Album Follow the Sound as Their Bluegrass Career Gains Momentum - Vermilion County First",
+    "src": "Vermilion County First",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUJfdVE2ZXIta3FBLTBZb1FuOUxtRnlVR24wZkRXd3dIeC0zTUNkQTJ2RTBZeFNOdFlaSHRneWdXUlJFYkVra21VVWQ5V19mWkI1aGVuenJGcjY5OFVPVzlpYVRITFRFbWJrTmdjcmVBLXJGOWFXZE5BNEIxMmJJQ2J1VmRvSzREQ2FZeklvMG03UlZJSDJTbkt6TGtrY1BaRU1RU3R6VjFrQmcyaVNXa0JtYzNvZDRDTnJTZDNjYzNkQ0VsQi1SeG5sdWlBQQ?oc=5",
+    "timestamp": "2026-11-01T11:20:24+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "The Creekers Release New Album Follow the Sound as Their Bluegrass Career Gains Momentum Vermilion County First",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Vermilion County First",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUJfdVE2ZXIta3FBLTBZb1FuOUxtRnlVR24wZkRXd3dIeC0zTUNkQTJ2RTBZeFNOdFlaSHRneWdXUlJFYkVra21VVWQ5V19mWkI1aGVuenJGcjY5OFVPVzlpYVRITFRFbWJrTmdjcmVBLXJGOWFXZE5BNEIxMmJJQ2J1VmRvSzREQ2FZeklvMG03UlZJSDJTbkt6TGtrY1BaRU1RU3R6VjFrQmcyaVNXa0JtYzNvZDRDTnJTZDNjYzNkQ0VsQi1SeG5sdWlBQQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Rui Veloso: 46 anos depois, o cavaleiro cá canta (e o Campo Pequeno abre-lhe a porta)",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/rui-veloso-46-anos-depois-o-cavaleiro-ca-canta-e-o-campo-pequeno-abre-lhe-a-porta/",
+    "timestamp": "2026-11-01T19:53:35+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "%featured_image% Rui Veloso levou o seu formato intimista de trio de guitarras ao Sagres Campo Pequeno, em Lisboa, para um concerto especial que reuniu quase nove mil pessoas. Entre canções que atravessam 46 anos de carreira, histórias partilhadas e homenagens a amigos e companheiros de música, a noite voltou a mostrar",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/rui-veloso-46-anos-depois-o-cavaleiro-ca-canta-e-o-campo-pequeno-abre-lhe-a-porta/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Moonfest: Moonspell celebram 35 anos de carreira na MEO Arena com Amorphis, Zeal & Ardor, Towards The Sinister e Heavenwood",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/moonfest-moonspell-celebram-35-anos-de-carreira-na-meo-arena-com-amorphis-zeal-ardor-towards-the-sinister-e-heavenwood/",
+    "timestamp": "2026-11-01T17:38:28+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "%featured_image% Os Moonspell vão celebrar 35 anos de carreira com um festival próprio. O Moonfest realiza-se a 30 de outubro de 2027, na MEO Arena, em Lisboa, e junta ao cartaz os Amorphis, Zeal & Ardor, Towards The Sinister e Heavenwood.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/moonfest-moonspell-celebram-35-anos-de-carreira-na-meo-arena-com-amorphis-zeal-ardor-towards-the-sinister-e-heavenwood/"
       }
     ],
     "status": "official",

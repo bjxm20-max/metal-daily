@@ -901,7 +901,7 @@
     "isoDate": "2026-10-31",
     "date": "31 Out",
     "d": "Rock band cancels all remaining concerts on first reunion tour in 33 years Syracuse.com",
-    "category": "general",
+    "category": "metal",
     "sources": [
       {
         "name": "Syracuse.com",
@@ -916,7 +916,7 @@
     "isCore": false,
     "star": false,
     "kind": "news",
-    "section": "buzz"
+    "section": "news"
   },
   {
     "title": "These two metal bands launch open casting call for fans to attend special live tapings - Chaoszine",
@@ -1056,19 +1056,15 @@
       {
         "name": "Consequence",
         "url": "https://consequence.net/2026/10/my-chemical-romance-plans-for-new-album/"
-      },
-      {
-        "name": "Consequence of Sound",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6MUcwXzFueElFOEd1OXlJd3pUOXNjR2lyRTZOZVd0X1BBTUlwdEVNZ25kSEZValcyT2l2NV9fbzlJZ3V0Y1RWWDdUdmFlemdEMlBxZzl6S0lEek5SZWd1bS1DS3pWSE94NlBSdjh1TnVjR3p4VkhMN015T1Y?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -3006,6 +3002,81 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Fugazi - Britannica",
+    "src": "Britannica",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tTmdPdmtqWFBVRHZBYzVVRlhTZURzUEJVdEdjNHU4SlFzdURZUVo1VVpPenRvY3B4cUlXVDQxVlQ3MEx5NTBpTHhOUHIzZVFw?oc=5",
+    "timestamp": "2026-10-31T05:00:00+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Fugazi Britannica",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Britannica",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tTmdPdmtqWFBVRHZBYzVVRlhTZURzUEJVdEdjNHU4SlFzdURZUVo1VVpPenRvY3B4cUlXVDQxVlQ3MEx5NTBpTHhOUHIzZVFw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Macklemore concludes Free Palestine tour with sold-out show in London - The Independent",
+    "src": "The Independent",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTUhJSElHSFpETWN3MG9SU3RnNVVpMjJvYTNYMExNRXVJUEJzdVhreEYzYUxfQ29Tb25nV1lFS0xPMTdxSWVaSkxpUDIyT1lNcW1aZ0hLM1dMOWgwZVlNT2V0RFZvVEw1ajNaR1RaNTlQa3ozMlF0dkdNZjVCcGVtV2hYYXJLRzhXVjRlQXNUNXNLUnk3SzdvU241N21xd0RmX1ktSW16VlRhSF82Nl9GOHMxb2xiWThReTlSLTFZdUp1SXM?oc=5",
+    "timestamp": "2026-10-31T13:06:00+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Macklemore concludes Free Palestine tour with sold-out show in London The Independent",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Independent",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTUhJSElHSFpETWN3MG9SU3RnNVVpMjJvYTNYMExNRXVJUEJzdVhreEYzYUxfQ29Tb25nV1lFS0xPMTdxSWVaSkxpUDIyT1lNcW1aZ0hLM1dMOWgwZVlNT2V0RFZvVEw1ajNaR1RaNTlQa3ozMlF0dkdNZjVCcGVtV2hYYXJLRzhXVjRlQXNUNXNLUnk3SzdvU241N21xd0RmX1ktSW16VlRhSF82Nl9GOHMxb2xiWThReTlSLTFZdUp1SXM?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "My Chemical Romance's Gerard Way reveals plans to make new album in 2027 and return to touring in 2028 - NME",
+    "src": "NME",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaEVQZzBLenBLcEZlREl0cVZIRHRxQmI2WGU4aDJpTG14bHJobTNWMXFidkIwdVVUVXBHR2tRS2xnT1RVdmlXeVV2cTVsdkE5dE9MazJwRkdueTFfZVZxU3JGWXNTNzNnd0h1Wm81V0d2TUJDX2NHRDAtNjdROExnTzk0bTZfTXpiODZxTUlLWHVOWWRYd0tMQ1ltenlET2R2dTBWZ0VR?oc=5",
+    "timestamp": "2026-10-31T08:42:27+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "My Chemical Romance's Gerard Way reveals plans to make new album in 2027 and return to touring in 2028 NME",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NME",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaEVQZzBLenBLcEZlREl0cVZIRHRxQmI2WGU4aDJpTG14bHJobTNWMXFidkIwdVVUVXBHR2tRS2xnT1RVdmlXeVV2cTVsdkE5dE9MazJwRkdueTFfZVZxU3JGWXNTNzNnd0h1Wm81V0d2TUJDX2NHRDAtNjdROExnTzk0bTZfTXpiODZxTUlLWHVOWWRYd0tMQ1ltenlET2R2dTBWZ0VR?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
   },
   {
     "title": "Patrick Stewart Remembered as “That Rare Actor” in Tributes from Ian McKellen, William Shatner, Seth MacFarlane, and More",
@@ -6648,6 +6719,10 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/most-streamed-metal-artists-spotify/"
+      },
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80bmQtR3dJaFNJNjdhdU1UYklsaEMwRHVOVVVZaEpiZnpsMEROMmFvSmFVNVgtR3d2b1gzR19kcElrVXBnb0lTVDdvcHBaT2U0SHdHSFhtWW13U0t6OHhOSjA3cVdDZzF1?oc=5"
       }
     ],
     "status": "official",
@@ -8209,19 +8284,15 @@
       {
         "name": "Consequence",
         "url": "https://consequence.net/2026/10/ministry-hate-to-go-take-out-or-delivery-stream/"
-      },
-      {
-        "name": "Consequence of Sound",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN0ZkcTNvVGFhTDNxVnVvWlZLWF8yZTNIYmlOVnpWS3dRSjAydXlqVEV1bnRySklRNlJhUno3eE9HMl9uNGQ5ekxoVGplSzgtSV9ZcVh5Wk9EbnJNV3ZYYUs0VW0yX3p0UVI2dm85c05nVUVVY1EzVi1jUkpEWWpNNTdmVmpSZUU?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -10718,6 +10789,106 @@
     "section": "buzz"
   },
   {
+    "title": "Macaulay Culkin Cancels 2026 Australian Tour - theMusic",
+    "src": "theMusic",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdXFxbXJFQXJhUlZCeHZOMlU4UmludjYtTUlRX0p6eFFJWW1FYU01RjhvR2xhVmJlOU1yalRYZzFSamxrd2dzdDJxdHZNOUthVlZuQnpTSXYyMWRtc3hQUU9iOVF3V3h2QlcxLW1EMk4zdE01a0s2aE9HTEg4V2RmY05aaU9CWFZxUUpZcXgyeUtrc3hXZlJKOXlR?oc=5",
+    "timestamp": "2026-10-30T22:34:00+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Macaulay Culkin Cancels 2026 Australian Tour theMusic",
+    "category": "general",
+    "sources": [
+      {
+        "name": "theMusic",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdXFxbXJFQXJhUlZCeHZOMlU4UmludjYtTUlRX0p6eFFJWW1FYU01RjhvR2xhVmJlOU1yalRYZzFSamxrd2dzdDJxdHZNOUthVlZuQnpTSXYyMWRtc3hQUU9iOVF3V3h2QlcxLW1EMk4zdE01a0s2aE9HTEg4V2RmY05aaU9CWFZxUUpZcXgyeUtrc3hXZlJKOXlR?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Castellows release two new songs - The Music Universe",
+    "src": "The Music Universe",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwbjRva1NFNzNpZDlRd1VpMlhTb1NkWEFTSk1fcW05dnpMd3Z1Ym90UXA4M0VxWFR2djl2LXVCd0hvcDk5YkdTclRJS0lfcTU3S3M3Q0I0OWo1WndxdXRyeTRnWVdhaWVqcmpJYWNXcXdhYWcw?oc=5",
+    "timestamp": "2026-10-30T18:04:02+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "The Castellows release two new songs The Music Universe",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Music Universe",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwbjRva1NFNzNpZDlRd1VpMlhTb1NkWEFTSk1fcW05dnpMd3Z1Ym90UXA4M0VxWFR2djl2LXVCd0hvcDk5YkdTclRJS0lfcTU3S3M3Q0I0OWo1WndxdXRyeTRnWVdhaWVqcmpJYWNXcXdhYWcw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Florence + The Machine announce ‘Everybody Scream Tour Live’ - The Music Universe",
+    "src": "The Music Universe",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMnBXanZFUjhFSGlZbFJ1dlctNHAxalB5X2NPYlNFbFZCTTc2SGhNdUdodnktQVl3THVna3BlLVFuejdubUJEcmlGbGxHVlRqX0hBbzRNRWs0Z1ROUmJYMlZ6SFpqeUJVeTNMODBUWkxrcHhhTXljcmVTMkt4N1I4UEZSeVdSZUQ0YTlMSVVjZw?oc=5",
+    "timestamp": "2026-10-30T17:01:35+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Florence + The Machine announce ‘Everybody Scream Tour Live’ The Music Universe",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Music Universe",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMnBXanZFUjhFSGlZbFJ1dlctNHAxalB5X2NPYlNFbFZCTTc2SGhNdUdodnktQVl3THVna3BlLVFuejdubUJEcmlGbGxHVlRqX0hBbzRNRWs0Z1ROUmJYMlZ6SFpqeUJVeTNMODBUWkxrcHhhTXljcmVTMkt4N1I4UEZSeVdSZUQ0YTlMSVVjZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Stone Sour to release ‘Audio Secrecy’ 15th Anniversary Edition - The Music Universe",
+    "src": "The Music Universe",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTJuSHh6bTd3a0lVQVdBTkliR2dBbDJMRWRScVFuRnBSZXMyRzJxVFpJcFhBeUIzaWJxQ0NFS3U5Z3lXRzhSMVBreUdSUG9jX2tRam55bnZPOUI2aG9tVmp0VmY5aHhFVkRxemN6NTE3aUhNWG9KUHRsUUdPUFdaZ1l0VFhhOHpDSVZoRlByUkNBRGV4?oc=5",
+    "timestamp": "2026-10-30T15:48:41+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Stone Sour to release ‘Audio Secrecy’ 15th Anniversary Edition The Music Universe",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Music Universe",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTJuSHh6bTd3a0lVQVdBTkliR2dBbDJMRWRScVFuRnBSZXMyRzJxVFpJcFhBeUIzaWJxQ0NFS3U5Z3lXRzhSMVBreUdSUG9jX2tRam55bnZPOUI2aG9tVmp0VmY5aHhFVkRxemN6NTE3aUhNWG9KUHRsUUdPUFdaZ1l0VFhhOHpDSVZoRlByUkNBRGV4?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
     "b": "Demonstration of Power",
     "t": "In the Name of…",
     "g": "core",
@@ -10903,13 +11074,17 @@
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTzlMNF9zbUpFTGVGX2ViOHV0cnU4TkptNTY0c1Z6REF5NXE0RXNzeE9NLXROMm1pcHVJSWVRMUt1VmJ5OWNKOHZzRk9sRk9wOHZfb2YyYXBiUXkxcVhyV0RMX3Y4V3VTc3ZHc3AwTDVob29SREVpT2NyRXNoUlR6X1YtRQ?oc=5"
       },
       {
+        "name": "AOL.ca",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10c2lnS3R5UjRHejVZWWdreGoxeWxldEdVb3FMempXX2dLQk1UazBfUzhOY0lCUGo0bHFKTWY1b0dfelZ1OVdmdFJpblFJZ0d3SEdSb21wN0tfVUpxUGNXUzlHOFIwTHJTdU9jUkQyWXBuMU1TdWpndS01b3dFMFk?oc=5"
+      },
+      {
         "name": "AOL.com",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON003UElVc2tyMUVzWktlQ0swV050a2hXYTBrRHpqSGZNME1tRlZxZWxSbW9tS3h1eTdCOTFROFJQLVNOekcwNWNaSmVuSkFWUnlMdFNabi0wZlREc2ZVRmtPQjlWNEJKOWdrYVRDaTg2VTBKUUJTUnRaT2JWaGJ2WQ?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 2,
+    "sourceCount": 3,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
@@ -15174,10 +15349,6 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/bands-that-are-dad-rock-now/"
-      },
-      {
-        "name": "Loudwire",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ncWlfbGI5WllHenZ4QkhnbTM3WUU1U0FjbGdpWlNBS2JkUFFZNl9xZEg4aDA1VTZtaEVOQW1pN1hSQm40Mm02V0p0YnVVZVMyT2pNWEtLZkJTZUZ1aXc?oc=5"
       }
     ],
     "status": "official",
@@ -24614,6 +24785,31 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "For Baltimore-bred Turnstile, DC show was a moment — and a homecoming - Maryland Daily Record",
+    "src": "Maryland Daily Record",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRmJwRVhCSFZ5djkzQUxMV0tWQXk4ZDRfMFE1aFlxdGh6cXZYMTd2M0syUk50eDBhQ0tlMW5ZTV9HbEczRlNSZGlZalhHWDlReDRtYkMxc2dqS2RiMFd3OElDc0lETzhaWmxaa0hFLXNmOElDM21RbUdIX01BOW1ockd2bnZocmdQYWJoZFEwREZHNlhlZ253?oc=5",
+    "timestamp": "2026-10-28T20:29:39+00:00",
+    "isoDate": "2026-10-28",
+    "date": "28 Out",
+    "d": "For Baltimore-bred Turnstile, DC show was a moment — and a homecoming Maryland Daily Record",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Maryland Daily Record",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRmJwRVhCSFZ5djkzQUxMV0tWQXk4ZDRfMFE1aFlxdGh6cXZYMTd2M0syUk50eDBhQ0tlMW5ZTV9HbEczRlNSZGlZalhHWDlReDRtYkMxc2dqS2RiMFd3OElDc0lETzhaWmxaa0hFLXNmOElDM21RbUdIX01BOW1ockd2bnZocmdQYWJoZFEwREZHNlhlZ253?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
   },
   {
     "title": "A Full List of Current 2026 K-Pop Concerts (Updating) - Billboard",
