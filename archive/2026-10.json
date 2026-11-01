@@ -200,13 +200,13 @@
     "section": "core"
   },
   {
-    "title": "Rage Against The Machine’s Zack De La Rocha Sees Turnstile As A Gateway To Hardcore’s Pioneers - The Mosh Network",
+    "title": "Zack De La Rocha Hopes Turnstile Leads Fans To Hardcore's Roots - The Mosh Network",
     "src": "The Mosh Network",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04MDExRURQbFd3aVJMVlNicTBsSnRPYzZocXVwZC11SU53MDVMSFZFeGdfUHliaU9nMG9vTHFRdGVTdTlOZWY0SEZvTDVsUDRndHladHg1aDZESDZTSzRDLXl3cEpIbGZCdUFrSld4Yw?oc=5",
     "timestamp": "2026-10-31T00:14:56+00:00",
     "isoDate": "2026-10-31",
     "date": "31 Out",
-    "d": "Rage Against The Machine’s Zack De La Rocha Sees Turnstile As A Gateway To Hardcore’s Pioneers The Mosh Network",
+    "d": "Zack De La Rocha Hopes Turnstile Leads Fans To Hardcore's Roots The Mosh Network",
     "category": "core",
     "sources": [
       {
@@ -367,10 +367,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -901,7 +901,7 @@
     "isoDate": "2026-10-31",
     "date": "31 Out",
     "d": "Rock band cancels all remaining concerts on first reunion tour in 33 years Syracuse.com",
-    "category": "metal",
+    "category": "general",
     "sources": [
       {
         "name": "Syracuse.com",
@@ -916,7 +916,7 @@
     "isCore": false,
     "star": false,
     "kind": "news",
-    "section": "news"
+    "section": "buzz"
   },
   {
     "title": "These two metal bands launch open casting call for fans to attend special live tapings - Chaoszine",
@@ -1056,15 +1056,19 @@
       {
         "name": "Consequence",
         "url": "https://consequence.net/2026/10/my-chemical-romance-plans-for-new-album/"
+      },
+      {
+        "name": "Consequence of Sound",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6MUcwXzFueElFOEd1OXlJd3pUOXNjR2lyRTZOZVd0X1BBTUlwdEVNZ25kSEZValcyT2l2NV9fbzlJZ3V0Y1RWWDdUdmFlemdEMlBxZzl6S0lEek5SZWd1bS1DS3pWSE94NlBSdjh1TnVjR3p4VkhMN015T1Y?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 1,
+    "sourceCount": 2,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": false,
+    "star": true,
     "kind": "news",
     "section": "buzz"
   },
@@ -2820,6 +2824,177 @@
       {
         "name": "ZAP Notícias",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbjQxejk5SXdFWVZtMGpWNU1pUi1udThDRmQ1YXo4S3VrMFhaUFNTY2ZjRWVBY2pfM2xkWjNzWUpZSDhYUUF0Z3N0VmRuX3gzNEZrdWNTU2pHM0Zsc3gzYTNHTGdUUENGdlZHUlNlRkJOS1RTSlZrVkZvWi15ZWc3U1hJRkk1MUxuaUduNWRxY2xsWkMz?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Spite My Angel",
+    "t": "Legion",
+    "g": "core",
+    "fmt": "Single",
+    "lbl": "MusicBrainz",
+    "date": "31 Out",
+    "isoDate": "2026-10-31",
+    "url": "https://musicbrainz.org/release-group/55b53196-d387-4288-97cf-ff936f78f3f9",
+    "d": "metalcore",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/55b53196-d387-4288-97cf-ff936f78f3f9"
+      }
+    ],
+    "mbid": "55b53196-d387-4288-97cf-ff936f78f3f9",
+    "star": false,
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "title": "Kidneythieves Release First New Song in 10 Years, Gaining Popularity Among Gen Z - AOL.com",
+    "src": "AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdS1wNHRyREN5aS1mbzF0RWxKRWk1UmFRQXppSkxhS3FuQVlKT3p0MHN0bnhKUFpSbXFQdE9lUW1sdi16Zko1U2s3ZGk4WUc2TmxzU1JERC1oNGFFQkFmU2Z0VGEtbWtBMlNaekJma3puUFdlejByQmdlaG1aRGppM1RFVW55Zw?oc=5",
+    "timestamp": "2026-10-31T20:55:44+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Kidneythieves Release First New Song in 10 Years, Gaining Popularity Among Gen Z AOL.com",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdS1wNHRyREN5aS1mbzF0RWxKRWk1UmFRQXppSkxhS3FuQVlKT3p0MHN0bnhKUFpSbXFQdE9lUW1sdi16Zko1U2s3ZGk4WUc2TmxzU1JERC1oNGFFQkFmU2Z0VGEtbWtBMlNaekJma3puUFdlejByQmdlaG1aRGppM1RFVW55Zw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Record Biz in Sales Free Fall: Madonna's July Release \"Confessions II\" Was the Last Album to Debut at Number 1 with over 100,000 Copies Sold - Showbiz411",
+    "src": "Showbiz411",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR0xYcUdvbm1EWlFRR1AwXzdNWkpoRXFHRVk1TXRWbjZyUGZpbmUxVHFhOXBSLUJLTXNVZXdaakZoTmZZT0tFSko2Rk11WUNoT2ZLUXFfLXZvdU1SV3JldnJUUVh2bTF4NXRTc3E4Q1BpaDVtbDF5NU5rR0JWUmMtN21RRUhid09WUjhISk1ZWmhYSmtHUVA5LVdpbUhaNkVNSDdLS00xSWtaYVAxOTRUMndsSkhRYWQxR3BmbDBHRDRXSjNjRFFXd1FMWW5CZ3RjNGZiVktWd1dQUVY3cjhRRW14Uk55MEF2UU9SNjRTYWZRRThIQjRobXRxWll5SjVKZkZV?oc=5",
+    "timestamp": "2026-10-31T21:38:23+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Record Biz in Sales Free Fall: Madonna's July Release \"Confessions II\" Was the Last Album to Debut at Number 1 with over 100,000 Copies Sold Showbiz411",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Showbiz411",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR0xYcUdvbm1EWlFRR1AwXzdNWkpoRXFHRVk1TXRWbjZyUGZpbmUxVHFhOXBSLUJLTXNVZXdaakZoTmZZT0tFSko2Rk11WUNoT2ZLUXFfLXZvdU1SV3JldnJUUVh2bTF4NXRTc3E4Q1BpaDVtbDF5NU5rR0JWUmMtN21RRUhid09WUjhISk1ZWmhYSmtHUVA5LVdpbUhaNkVNSDdLS00xSWtaYVAxOTRUMndsSkhRYWQxR3BmbDBHRDRXSjNjRFFXd1FMWW5CZ3RjNGZiVktWd1dQUVY3cjhRRW14Uk55MEF2UU9SNjRTYWZRRThIQjRobXRxWll5SjVKZkZV?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "AGAINST THE CURRENT ALBUM RELEASE OF ‘TILL DEATH & BACK’ OUT NOW - https://rocknloadmag.com/",
+    "src": "https://rocknloadmag.com/",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3R6ODdCaGpBdUpEN0hQYTlmaWNCMC1Cb1kzSjRRUjBpNGFSOGNXWG16NUIxT0JqaEhaV182YVpCd1RtamN2UFBtbGNmQTItTUpkcjE5RmtUU21LVWRjdzI0eVQ1OHhfWmhHX3NGekpWUzRLbGNXamQ4X2ZtZWxSQzMwYUozSDZFbFV1QjFZQQ?oc=5",
+    "timestamp": "2026-10-31T21:02:23+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "AGAINST THE CURRENT ALBUM RELEASE OF ‘TILL DEATH & BACK’ OUT NOW https://rocknloadmag.com/",
+    "category": "general",
+    "sources": [
+      {
+        "name": "https://rocknloadmag.com/",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3R6ODdCaGpBdUpEN0hQYTlmaWNCMC1Cb1kzSjRRUjBpNGFSOGNXWG16NUIxT0JqaEhaV182YVpCd1RtamN2UFBtbGNmQTItTUpkcjE5RmtUU21LVWRjdzI0eVQ1OHhfWmhHX3NGekpWUzRLbGNXamQ4X2ZtZWxSQzMwYUozSDZFbFV1QjFZQQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "iOS 18: A mysterious new audio feature is reportedly coming to Apple Music - Mashable",
+    "src": "Mashable",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04Ykg3WTg0LXo0SUVCRGdfZFhYeThEbUF5cVh5YzZwazBuNUdKVHk0QWVselY0RWpvbWRNLTgwb04yNGR6YlIxbERlWHlKV29VNnQxWk11NXY3c3h0SE1IM1BOZEd2WUNmY3UtYmUwTGYwTHozNlktdmRCZVU?oc=5",
+    "timestamp": "2026-10-31T14:28:41+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "iOS 18: A mysterious new audio feature is reportedly coming to Apple Music Mashable",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04Ykg3WTg0LXo0SUVCRGdfZFhYeThEbUF5cVh5YzZwazBuNUdKVHk0QWVselY0RWpvbWRNLTgwb04yNGR6YlIxbERlWHlKV29VNnQxWk11NXY3c3h0SE1IM1BOZEd2WUNmY3UtYmUwTGYwTHozNlktdmRCZVU?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Legendary rock band cancels tour due to ‘sudden and unexpected medical circumstances’ - San Francisco Chronicle",
+    "src": "San Francisco Chronicle",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOEhpT1NPTUpNcFV2SDFpUTdRakUxdjl0S1NQZVhzU3B2UUJIbW9sb3NJV3dKbmlxN3NqOVQtckFsOVlUSkZrQlgzODRJeVRkMHBjRmlIQ0pFcEc2b0FaLVNqZWNEU2pDQTVTYWV2a0VzSmhLczdQSmFNazZKWmRWVE92UkoxR0FtLUh0by1KN0Vib0ZVd1RnZw?oc=5",
+    "timestamp": "2026-10-31T03:05:25+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "Legendary rock band cancels tour due to ‘sudden and unexpected medical circumstances’ San Francisco Chronicle",
+    "category": "general",
+    "sources": [
+      {
+        "name": "San Francisco Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOEhpT1NPTUpNcFV2SDFpUTdRakUxdjl0S1NQZVhzU3B2UUJIbW9sb3NJV3dKbmlxN3NqOVQtckFsOVlUSkZrQlgzODRJeVRkMHBjRmlIQ0pFcEc2b0FaLVNqZWNEU2pDQTVTYWV2a0VzSmhLczdQSmFNazZKWmRWVE92UkoxR0FtLUh0by1KN0Vib0ZVd1RnZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "As raízes espirituais ocultas da cultura rave e por que ela está vivendo um grande renascimento",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/as-raizes-espirituais-ocultas-da-cultura-rave-e-por-que-ela-esta-vivendo-um-grande-renascimento/",
+    "timestamp": "2026-10-31T16:11:05+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "%featured_image% Para muita gente, a rave é vista como uma expressãoll da vida noturna, dos excessos, do estilo e de uma fuga movida pela música. Embora isso não esteja totalmente errado, essa visão não explica por que o fenômeno rave continua tão forte na nossa cultura. O que torna a rave mais significativa na nossa s",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/as-raizes-espirituais-ocultas-da-cultura-rave-e-por-que-ela-esta-vivendo-um-grande-renascimento/"
       }
     ],
     "status": "official",
@@ -5047,7 +5222,7 @@
     "isoDate": "2026-10-30",
     "date": "30 Out",
     "d": "Metal band announces new lead singer: ‘Tremendous respect’ Syracuse.com",
-    "category": "general",
+    "category": "metal",
     "sources": [
       {
         "name": "Syracuse.com",
@@ -5062,7 +5237,7 @@
     "isCore": false,
     "star": false,
     "kind": "news",
-    "section": "buzz"
+    "section": "news"
   },
   {
     "title": "Lily Allen Dresses as Ticketmaster Seat Map for Halloween",
@@ -6414,7 +6589,7 @@
     "title": "200 Stab Wounds, Rev3rent, Darkest Hour & More Added to Metal Injection's Top Tracks of the Week",
     "src": "Metal Injection",
     "url": "https://metalinjection.net/playlist/top-tracks-of-the-week-playlist/200-stab-wounds-rev3rent-darkest-hour-more-added-to-metal-injections-top-tracks-of-the-week",
-    "timestamp": "2026-10-30T22:57:58+00:00",
+    "timestamp": "2026-10-30T16:15:42+00:00",
     "isoDate": "2026-10-30",
     "date": "30 Out",
     "d": "As well as picks from Native James, Enslaved, Gaera, and more. The post 200 Stab Wounds, Rev3rent, Darkest Hour & More Added to Metal Injection's Top Tracks of the Week appeared first on Metal Injection .",
@@ -6423,10 +6598,6 @@
       {
         "name": "Metal Injection",
         "url": "https://metalinjection.net/playlist/top-tracks-of-the-week-playlist/200-stab-wounds-rev3rent-darkest-hour-more-added-to-metal-injections-top-tracks-of-the-week"
-      },
-      {
-        "name": "Metal Injection",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYm1kWEd0dTZ3WER5MWtMOV9fdDRhbFFjdlFjanVaZG5OSmNCb0tPaDF2RE15RTB6aWFFVlU3dmRpU1NRbnNfMXhyalozTGhoenBlZkpMMnd5YlBWNGpPc0Nnam5KUUR3X2tXVGV0VlJ0T2ZqMC1EaDd0bzVrdlg2cDQxbm1WaUkwazNxUVkwOXItN04wM0F3NW5XQ05XbVUtN1l5VGRXR1hXSjYteVVSZ2s2czRIVEtsWEFzOUFockw0NXBQXzJ4Uk5BRl8zYXBac3JGNnV1VmpEcTZiSm5Bajd3X1VMZHdZcnFmdldseng?oc=5"
       }
     ],
     "status": "official",
@@ -6477,10 +6648,6 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/most-streamed-metal-artists-spotify/"
-      },
-      {
-        "name": "Loudwire",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80bmQtR3dJaFNJNjdhdU1UYklsaEMwRHVOVVVZaEpiZnpsMEROMmFvSmFVNVgtR3d2b1gzR19kcElrVXBnb0lTVDdvcHBaT2U0SHdHSFhtWW13U0t6OHhOSjA3cVdDZzF1?oc=5"
       }
     ],
     "status": "official",
@@ -7227,13 +7394,13 @@
     "section": "buzz"
   },
   {
-    "title": "Lil Baby Interview: The Atlanta Rapper Takes On New Challenges - The New York Times",
+    "title": "Lil Baby Still Has Ups and Downs, Even at the Top - The New York Times",
     "src": "The New York Times",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDMyY21USUJLMDQyOXp2VFA1MXFGZVRjYkFOVWFXaFlBci10S0RfcUdkNWdBME03RTNQRlNkNTRBYkFmSWxYbkhMc0Z6aHFEeEJRS010b3ZaS19LMkFaOVlfRy1PQmo2c2Z0cW1ybUU5MGYtR0cwaW9hRFh1N2RMcDcxMA?oc=5",
     "timestamp": "2026-10-30T09:02:27+00:00",
     "isoDate": "2026-10-30",
     "date": "30 Out",
-    "d": "Lil Baby Interview: The Atlanta Rapper Takes On New Challenges The New York Times",
+    "d": "Lil Baby Still Has Ups and Downs, Even at the Top The New York Times",
     "category": "general",
     "sources": [
       {
@@ -8042,15 +8209,19 @@
       {
         "name": "Consequence",
         "url": "https://consequence.net/2026/10/ministry-hate-to-go-take-out-or-delivery-stream/"
+      },
+      {
+        "name": "Consequence of Sound",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN0ZkcTNvVGFhTDNxVnVvWlZLWF8yZTNIYmlOVnpWS3dRSjAydXlqVEV1bnRySklRNlJhUno3eE9HMl9uNGQ5ekxoVGplSzgtSV9ZcVh5Wk9EbnJNV3ZYYUs0VW0yX3p0UVI2dm85c05nVUVVY1EzVi1jUkpEWWpNNTdmVmpSZUU?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 1,
+    "sourceCount": 2,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": false,
+    "star": true,
     "kind": "news",
     "section": "buzz"
   },
@@ -10447,6 +10618,106 @@
     "section": "buzz"
   },
   {
+    "title": "Festivais, esplanadas e festas: os melhores planos para Novembro - Time Out Lisboa",
+    "src": "Time Out Lisboa",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDA3Z1BKcEhOdW1oOUtGMGFaODBBX2JubWhuUEFTb2h4WmR0dTlEMWcxemVnd0NGTkk1RUwwQzdqaXBnNDBabDgyZmM1dzNJSlllQk04V2o4dUx0ZXA1bHBkV2xieGFwM21uU19HVlcxVUZGdTQzdGdPdFg3UzhoUW5MMTdUc1oxc3A3LWZ4VHk?oc=5",
+    "timestamp": "2026-10-30T00:00:00+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Festivais, esplanadas e festas: os melhores planos para Novembro Time Out Lisboa",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Time Out Lisboa",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDA3Z1BKcEhOdW1oOUtGMGFaODBBX2JubWhuUEFTb2h4WmR0dTlEMWcxemVnd0NGTkk1RUwwQzdqaXBnNDBabDgyZmM1dzNJSlllQk04V2o4dUx0ZXA1bHBkV2xieGFwM21uU19HVlcxVUZGdTQzdGdPdFg3UzhoUW5MMTdUc1oxc3A3LWZ4VHk?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Queens of the Stone Age Release New Album Perfecth: Stream - Consequence of Sound",
+    "src": "Consequence of Sound",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWUlCbWczT01uTUhITGMtdEFTcFRmU2tOcU44ZVhRU2ZRTjFKVHFRMXc3ZXM1TzBBMXJKd3Bpd0hIRDJKeV9hRzhaTkdxaE9Rd0ktLXZ3UGp5OTFDbWUySkhEdXFOajdsd0QxenVwQi1sR1BBYXFrMFN1QXdFYmxLRm4xU3U?oc=5",
+    "timestamp": "2026-10-30T17:44:32+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Queens of the Stone Age Release New Album Perfecth: Stream Consequence of Sound",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence of Sound",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWUlCbWczT01uTUhITGMtdEFTcFRmU2tOcU44ZVhRU2ZRTjFKVHFRMXc3ZXM1TzBBMXJKd3Bpd0hIRDJKeV9hRzhaTkdxaE9Rd0ktLXZ3UGp5OTFDbWUySkhEdXFOajdsd0QxenVwQi1sR1BBYXFrMFN1QXdFYmxLRm4xU3U?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Gnarls Barkley cancels tour weeks before San Francisco show - San Francisco Chronicle",
+    "src": "San Francisco Chronicle",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWFFnbGdXX3hPMXRqV1gtWnRDR25BVk9kaUdXMTBwUTdMVTBWcG80dkhVSGxEM0dkaG9OakhTYnlQdWRvTS1LaFRGdU1tby1wOEJ6THhyVm5WZGhhREJETUpnamV2OHpld0laclA5am5wcFExVVkwNTRwaTgxRW9ZVHpqeFpwZ1ZtWlVjRUFMenh0NXVoWkE?oc=5",
+    "timestamp": "2026-10-30T04:18:34+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Gnarls Barkley cancels tour weeks before San Francisco show San Francisco Chronicle",
+    "category": "general",
+    "sources": [
+      {
+        "name": "San Francisco Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWFFnbGdXX3hPMXRqV1gtWnRDR25BVk9kaUdXMTBwUTdMVTBWcG80dkhVSGxEM0dkaG9OakhTYnlQdWRvTS1LaFRGdU1tby1wOEJ6THhyVm5WZGhhREJETUpnamV2OHpld0laclA5am5wcFExVVkwNTRwaTgxRW9ZVHpqeFpwZ1ZtWlVjRUFMenh0NXVoWkE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "DJ Akademiks Claims Drake Is Nearing Biggest Record Deal in History - Complex",
+    "src": "Complex",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnFSd3Jpd2JKNjBoSWxObUVFbjduVWRKdTMzWlBzVU5uZDlUNXdHT0VXbVBfcWlwVlU4VmNJUmZUZlBnV1lFS0k1b1hXdUxlNV9ia3YxVVRkeTN5VldtLXZNelNoLUhKemhTTzdNSkxPR0VFbG5KcEpBS2VjQTl2N2M0NFRTOHlZ?oc=5",
+    "timestamp": "2026-10-30T04:06:57+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "DJ Akademiks Claims Drake Is Nearing Biggest Record Deal in History Complex",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Complex",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnFSd3Jpd2JKNjBoSWxObUVFbjduVWRKdTMzWlBzVU5uZDlUNXdHT0VXbVBfcWlwVlU4VmNJUmZUZlBnV1lFS0k1b1hXdUxlNV9ia3YxVVRkeTN5VldtLXZNelNoLUhKemhTTzdNSkxPR0VFbG5KcEpBS2VjQTl2N2M0NFRTOHlZ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
     "b": "Demonstration of Power",
     "t": "In the Name of…",
     "g": "core",
@@ -10632,17 +10903,13 @@
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTzlMNF9zbUpFTGVGX2ViOHV0cnU4TkptNTY0c1Z6REF5NXE0RXNzeE9NLXROMm1pcHVJSWVRMUt1VmJ5OWNKOHZzRk9sRk9wOHZfb2YyYXBiUXkxcVhyV0RMX3Y4V3VTc3ZHc3AwTDVob29SREVpT2NyRXNoUlR6X1YtRQ?oc=5"
       },
       {
-        "name": "AOL.ca",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10c2lnS3R5UjRHejVZWWdreGoxeWxldEdVb3FMempXX2dLQk1UazBfUzhOY0lCUGo0bHFKTWY1b0dfelZ1OVdmdFJpblFJZ0d3SEdSb21wN0tfVUpxUGNXUzlHOFIwTHJTdU9jUkQyWXBuMU1TdWpndS01b3dFMFk?oc=5"
-      },
-      {
         "name": "AOL.com",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON003UElVc2tyMUVzWktlQ0swV050a2hXYTBrRHpqSGZNME1tRlZxZWxSbW9tS3h1eTdCOTFROFJQLVNOekcwNWNaSmVuSkFWUnlMdFNabi0wZlREc2ZVRmtPQjlWNEJKOWdrYVRDaTg2VTBKUUJTUnRaT2JWaGJ2WQ?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 3,
+    "sourceCount": 2,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
@@ -14907,6 +15174,10 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/bands-that-are-dad-rock-now/"
+      },
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ncWlfbGI5WllHenZ4QkhnbTM3WUU1U0FjbGdpWlNBS2JkUFFZNl9xZEg4aDA1VTZtaEVOQW1pN1hSQm40Mm02V0p0YnVVZVMyT2pNWEtLZkJTZUZ1aXc?oc=5"
       }
     ],
     "status": "official",
@@ -17129,6 +17400,31 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "The 20 greatest hair metal bands of all time - Yardbarker",
+    "src": "Yardbarker",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGFlMlZ0dHZ4SVdvaWVmeWlpRU9OU1V1X09NNGgtUU5HV3VPV29yQzg1S2ZjWGpqZWdFWlpRdUdwdGFNbEwwaVBFdEYxUlItOE54VExJRWFmaUo0S2tnZlcyOEdURTNmY2N0QmxocmQ0ODZfbjgwak1XUTRvY3lmckRVdjlrbFdVY0E3LXBQMjVDdzFEci0tcnROYXk3NVEzQlBvTjR3ZGtJOWM?oc=5",
+    "timestamp": "2026-10-29T10:04:36+00:00",
+    "isoDate": "2026-10-29",
+    "date": "29 Out",
+    "d": "The 20 greatest hair metal bands of all time Yardbarker",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Yardbarker",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGFlMlZ0dHZ4SVdvaWVmeWlpRU9OU1V1X09NNGgtUU5HV3VPV29yQzg1S2ZjWGpqZWdFWlpRdUdwdGFNbEwwaVBFdEYxUlItOE54VExJRWFmaUo0S2tnZlcyOEdURTNmY2N0QmxocmQ0ODZfbjgwak1XUTRvY3lmckRVdjlrbFdVY0E3LXBQMjVDdzFEci0tcnROYXk3NVEzQlBvTjR3ZGtJOWM?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
   },
   {
     "title": "LITA FORD Releases New Single 'Dracula'",
@@ -31099,31 +31395,6 @@
     "section": "buzz"
   },
   {
-    "title": "Festivais, esplanadas e festas: os melhores planos para Novembro - Time Out Lisboa",
-    "src": "Time Out Lisboa",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDA3Z1BKcEhOdW1oOUtGMGFaODBBX2JubWhuUEFTb2h4WmR0dTlEMWcxemVnd0NGTkk1RUwwQzdqaXBnNDBabDgyZmM1dzNJSlllQk04V2o4dUx0ZXA1bHBkV2xieGFwM21uU19HVlcxVUZGdTQzdGdPdFg3UzhoUW5MMTdUc1oxc3A3LWZ4VHk?oc=5",
-    "timestamp": "2026-10-27T00:00:00+00:00",
-    "isoDate": "2026-10-27",
-    "date": "27 Out",
-    "d": "Festivais, esplanadas e festas: os melhores planos para Novembro Time Out Lisboa",
-    "category": "pt",
-    "sources": [
-      {
-        "name": "Time Out Lisboa",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDA3Z1BKcEhOdW1oOUtGMGFaODBBX2JubWhuUEFTb2h4WmR0dTlEMWcxemVnd0NGTkk1RUwwQzdqaXBnNDBabDgyZmM1dzNJSlllQk04V2o4dUx0ZXA1bHBkV2xieGFwM21uU19HVlcxVUZGdTQzdGdPdFg3UzhoUW5MMTdUc1oxc3A3LWZ4VHk?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": true,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "pt"
-  },
-  {
     "b": "xiao xiao",
     "t": "Virtual Lover",
     "g": "punk",
@@ -31272,31 +31543,6 @@
     "star": false,
     "kind": "news",
     "section": "pt"
-  },
-  {
-    "title": "The 20 greatest hair metal bands of all time - Yardbarker",
-    "src": "Yardbarker",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGFlMlZ0dHZ4SVdvaWVmeWlpRU9OU1V1X09NNGgtUU5HV3VPV29yQzg1S2ZjWGpqZWdFWlpRdUdwdGFNbEwwaVBFdEYxUlItOE54VExJRWFmaUo0S2tnZlcyOEdURTNmY2N0QmxocmQ0ODZfbjgwak1XUTRvY3lmckRVdjlrbFdVY0E3LXBQMjVDdzFEci0tcnROYXk3NVEzQlBvTjR3ZGtJOWM?oc=5",
-    "timestamp": "2026-10-27T17:44:14+00:00",
-    "isoDate": "2026-10-27",
-    "date": "27 Out",
-    "d": "The 20 greatest hair metal bands of all time Yardbarker",
-    "category": "metal",
-    "sources": [
-      {
-        "name": "Yardbarker",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGFlMlZ0dHZ4SVdvaWVmeWlpRU9OU1V1X09NNGgtUU5HV3VPV29yQzg1S2ZjWGpqZWdFWlpRdUdwdGFNbEwwaVBFdEYxUlItOE54VExJRWFmaUo0S2tnZlcyOEdURTNmY2N0QmxocmQ0ODZfbjgwak1XUTRvY3lmckRVdjlrbFdVY0E3LXBQMjVDdzFEci0tcnROYXk3NVEzQlBvTjR3ZGtJOWM?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "news"
   },
   {
     "title": "Aether Realm drop music video for explosive new album single “Broken Fist” featuring Taj Jewett - Chaoszine",

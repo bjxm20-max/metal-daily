@@ -408,10 +408,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -433,10 +433,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -508,10 +508,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -963,7 +963,7 @@
     "isoDate": "2026-11-01",
     "date": "1 Nov",
     "d": "Interview With Chicago’s Modern Hard Rock/Metal Band “Cease To Resist” Metalheads Forever Magazine",
-    "category": "metal",
+    "category": "general",
     "sources": [
       {
         "name": "Metalheads Forever Magazine",
@@ -978,7 +978,7 @@
     "isCore": false,
     "star": true,
     "kind": "news",
-    "section": "news"
+    "section": "buzz"
   },
   {
     "title": "TOMMY THAYER And DORO PESCH Perform With KISS Tribute Band At '50 Years Of Kiss In Germany' Official KISS Fan Celebration",
@@ -1273,5 +1273,255 @@
     "releaseKey": "grave monolith|grave monolith review",
     "kind": "review",
     "section": "rev"
+  },
+  {
+    "title": "DAVE LOMBARDO Reflects On SLAYER's 'Reign In Blood': 'The Reviews Weren't All Great At The Time'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/dave-lombardo-reflects-on-slayers-reign-in-blood-the-reviews-werent-all-great-at-the-time",
+    "timestamp": "2026-11-01T16:41:53+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "In a new interview with Ed Hack of This Day In Metal, former SLAYER drummer Dave Lombardo spoke about the 40th anniversary of the band's classic third album, \"Reign In Blood\". Asked when he and his then-bandmates realized they had written something significant and influential with the record that ch...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/dave-lombardo-reflects-on-slayers-reign-in-blood-the-reviews-werent-all-great-at-the-time"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "SCOTT HOLIDAY On How RIVAL SONS Treat Royalty Income: 'We Don't Split Everything Equally, But We Split Things Very Amicably'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/scott-holiday-on-how-rival-sons-treat-royalty-income-we-dont-split-everything-equally-but-we-split-things-very-amicably",
+    "timestamp": "2026-11-01T15:56:14+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "In the latest episode of Soren's Sunday Session, RIVAL SONS guitarist Scott Holiday joined Danish guitarist and producer Søren Andersen for an honest conversation about rock 'n' roll, songwriting, guitar tone and surviving the music business. Addressing the fact that some bands split royalty income...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/scott-holiday-on-how-rival-sons-treat-royalty-income-we-dont-split-everything-equally-but-we-split-things-very-amicably"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Band To Watch: Allegaeon – Technical Death Metal with Brains and Plenty of Power - Impericon",
+    "src": "Impericon",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRDJoT2F3bC1icFN2WGtJT3YxUGlfYWpERTQ0YlRGZ1hHZXQ3NU9wZnROTnhuRDlWX0NoUEQxczFFSS1ueFQwcFZudGtYNS0xcDFJM3pBSFpGQ1NNRFpmRldjM2RaeUpUaVVfUjNQRkM2blEzY0ROQURoMXA3NnZ3VXp0dXZWOVItY1Zvczk3RDNOQkMzLWhVblRtR1g2STZkM1ZtaVFwbWs3WnhlUjh5cm5VNnpFV1pGcEE?oc=5",
+    "timestamp": "2026-11-01T15:23:27+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "Band To Watch: Allegaeon – Technical Death Metal with Brains and Plenty of Power Impericon",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Impericon",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRDJoT2F3bC1icFN2WGtJT3YxUGlfYWpERTQ0YlRGZ1hHZXQ3NU9wZnROTnhuRDlWX0NoUEQxczFFSS1ueFQwcFZudGtYNS0xcDFJM3pBSFpGQ1NNRFpmRldjM2RaeUpUaVVfUjNQRkM2blEzY0ROQURoMXA3NnZ3VXp0dXZWOVItY1Zvczk3RDNOQkMzLWhVblRtR1g2STZkM1ZtaVFwbWs3WnhlUjh5cm5VNnpFV1pGcEE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "QUEEN's BRIAN MAY On Being Vegan: 'Why Do We Think We're More Important Than All The Other Animals? There's No Basis For That'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/queens-brian-may-on-being-vegan-why-do-we-think-were-more-important-than-all-the-other-animals-theres-no-basis-for-that",
+    "timestamp": "2026-11-01T15:11:29+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "In a new interview with Samuel Goldsmith of the U.K.'s Good Food Podcast, QUEEN guitarist Brian May talked about being vegan. Although May had been fighting for wildlife for years, he didn't actually go vegan until January 2020, when he took part in Veganuary as an experiment. Since the coronavirus...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/queens-brian-may-on-being-vegan-why-do-we-think-were-more-important-than-all-the-other-animals-theres-no-basis-for-that"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Rock Stars Celebrating Birthdays in November",
+    "src": "Loudwire",
+    "url": "https://loudwire.com/november-rock-metal-rock-star-birthdays/",
+    "timestamp": "2026-11-01T15:00:08+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "Scroll through to see if you share a birthday with a rock star. Continue reading…",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Loudwire",
+        "url": "https://loudwire.com/november-rock-metal-rock-star-birthdays/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "DJ Uncovers and Releases Lost Daft Punk Mix From the 1990s",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/11/dj-uncovers-lost-daft-punk-mix/",
+    "timestamp": "2026-11-01T16:53:42+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "The French EDM duo sent him the mix to play on a radio show to promote their 1997 debut album, the DJ said. DJ Uncovers and Releases Lost Daft Punk Mix From the 1990s Travis Bland",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/11/dj-uncovers-lost-daft-punk-mix/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Gracie Abrams (And David S. Pumpkins) Returns To SNL",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2516238/gracie-abrams-and-david-s-pumpkins-returns-to-snl/news/",
+    "timestamp": "2026-11-01T16:50:27+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "The post Gracie Abrams (And David S. Pumpkins) Returns To SNL appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2516238/gracie-abrams-and-david-s-pumpkins-returns-to-snl/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Pittsburgh local music releases for November 2026 - TribLIVE.com",
+    "src": "TribLIVE.com",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGU3ZpM0RWTkRJd2xHYkl0THNBMGJvQmhucW9lOEE1S0VDcjN4TmF5WnNNX1NBR3JNUTREcThxWDlZcDZWeTlVTWNudXI3SFR3S3JrSnpn?oc=5",
+    "timestamp": "2026-11-01T12:47:30+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "Pittsburgh local music releases for November 2026 TribLIVE.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "TribLIVE.com",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGU3ZpM0RWTkRJd2xHYkl0THNBMGJvQmhucW9lOEE1S0VDcjN4TmF5WnNNX1NBR3JNUTREcThxWDlZcDZWeTlVTWNudXI3SFR3S3JrSnpn?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Atividade cultural do município de Castelo Branco - oRegiões",
+    "src": "oRegiões",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS1A1MEp3R1BTdmZ1WXNNM01MZ0RGV3NVVS1nYUNWSTBSZE1qV1p3N2FteDZvU2pUeTJtV3RZY2E4OEJfV2hyQ0JRTURIeWZaQnN2cTJTeGo2b1preUhkVk92cUtfQ2RFU0hhRldSLWJDTjEwQkQxRmpsT0ZFeDAxTWtn?oc=5",
+    "timestamp": "2026-11-01T16:47:43+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "Atividade cultural do município de Castelo Branco oRegiões",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "oRegiões",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS1A1MEp3R1BTdmZ1WXNNM01MZ0RGV3NVVS1nYUNWSTBSZE1qV1p3N2FteDZvU2pUeTJtV3RZY2E4OEJfV2hyQ0JRTURIeWZaQnN2cTJTeGo2b1preUhkVk92cUtfQ2RFU0hhRldSLWJDTjEwQkQxRmpsT0ZFeDAxTWtn?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "FC2027: Karetus admitem regresso ao Festival da Canção em 2027 - ESC PORTUGAL",
+    "src": "ESC PORTUGAL",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ndzhTTzdEcENyNE9TcTg0U25EZ1gwSWo5R2pQY0ZsaDUzb0RzekV6U1ozNURRZXNwc21Ba2ZVSEJLRVNjTHY5OGZUdXhEakQ0dXRmay0yZGw0RXZiYVIyREc5bHVhMVI3bHZ3N1FKTFNUQWdmc1BQeG0tU3llWU0?oc=5",
+    "timestamp": "2026-11-01T16:33:00+00:00",
+    "isoDate": "2026-11-01",
+    "date": "1 Nov",
+    "d": "FC2027: Karetus admitem regresso ao Festival da Canção em 2027 ESC PORTUGAL",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "ESC PORTUGAL",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ndzhTTzdEcENyNE9TcTg0U25EZ1gwSWo5R2pQY0ZsaDUzb0RzekV6U1ozNURRZXNwc21Ba2ZVSEJLRVNjTHY5OGZUdXhEakQ0dXRmay0yZGw0RXZiYVIyREc5bHVhMVI3bHZ3N1FKTFNUQWdmc1BQeG0tU3llWU0?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
   }
 ]
