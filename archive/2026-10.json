@@ -1764,10 +1764,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -2494,7 +2494,7 @@
     "isoDate": "2026-10-31",
     "date": "31 Out",
     "d": "Who would turn down a tour with Metallica? Apparently, Turnstile would Chaoszine",
-    "category": "metal",
+    "category": "core",
     "sources": [
       {
         "name": "Chaoszine",
@@ -2506,10 +2506,10 @@
     "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
-    "isCore": false,
+    "isCore": true,
     "star": false,
     "kind": "news",
-    "section": "news"
+    "section": "core"
   },
   {
     "title": "\"It feels like you’re floating through a nightmare, but somehow, all you want to do is dance.\" The Pretty Reckless, Chelsea Wolfe, Green Lung, Skindred and more pick their favourite spooky tracks for Metal Hammer's 2026 ",
@@ -3101,6 +3101,56 @@
     "alterportal": true,
     "kind": "release",
     "section": "alter"
+  },
+  {
+    "title": "🇩🇪 The Riff Report Blog: 18 Best German Heavy Metal Bands That You Should Listen To 🤘⚒️ - theriffreport.co.uk",
+    "src": "theriffreport.co.uk",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQYy1EZDR2VDUtNndrbXZBVzZuYlF0dHdNOUdEWmkzOWN6UEhQdG92cmJhN2JvamQwbDNiS2hlRFRjUm9ES2RFY1lRM2w1eE5vRjFkQzFmSExSdVhNUjAtVlBJUTAyYVhwTnkzZ3lPS0ZnVjNVMjlJVHIxb2dYSkJOOWVaY0pKWER6LXV5c3EtWDQzdVZKcHozT1cyTm1CQWNUQy1lSWZxNEV3UXlaWnhtN2RxXzhNLVFYWGh6VjNYRnMyVU5CTU1TVThEbm9hVHFBVkRrUzM0RmRQZVctZENYWE4zaUFWckxEdGpjaWQzdjluWWtaLVFV?oc=5",
+    "timestamp": "2026-10-31T07:00:00+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "🇩🇪 The Riff Report Blog: 18 Best German Heavy Metal Bands That You Should Listen To 🤘⚒️ theriffreport.co.uk",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "theriffreport.co.uk",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQYy1EZDR2VDUtNndrbXZBVzZuYlF0dHdNOUdEWmkzOWN6UEhQdG92cmJhN2JvamQwbDNiS2hlRFRjUm9ES2RFY1lRM2w1eE5vRjFkQzFmSExSdVhNUjAtVlBJUTAyYVhwTnkzZ3lPS0ZnVjNVMjlJVHIxb2dYSkJOOWVaY0pKWER6LXV5c3EtWDQzdVZKcHozT1cyTm1CQWNUQy1lSWZxNEV3UXlaWnhtN2RxXzhNLVFYWGh6VjNYRnMyVU5CTU1TVThEbm9hVHFBVkRrUzM0RmRQZVctZENYWE4zaUFWckxEdGpjaWQzdjluWWtaLVFV?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "My Chemical Romance Confirm Plans for New Album - Consequence of Sound",
+    "src": "Consequence of Sound",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6MUcwXzFueElFOEd1OXlJd3pUOXNjR2lyRTZOZVd0X1BBTUlwdEVNZ25kSEZValcyT2l2NV9fbzlJZ3V0Y1RWWDdUdmFlemdEMlBxZzl6S0lEek5SZWd1bS1DS3pWSE94NlBSdjh1TnVjR3p4VkhMN015T1Y?oc=5",
+    "timestamp": "2026-10-31T12:53:59+00:00",
+    "isoDate": "2026-10-31",
+    "date": "31 Out",
+    "d": "My Chemical Romance Confirm Plans for New Album Consequence of Sound",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence of Sound",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6MUcwXzFueElFOEd1OXlJd3pUOXNjR2lyRTZOZVd0X1BBTUlwdEVNZ25kSEZValcyT2l2NV9fbzlJZ3V0Y1RWWDdUdmFlemdEMlBxZzl6S0lEek5SZWd1bS1DS3pWSE94NlBSdjh1TnVjR3p4VkhMN015T1Y?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
   },
   {
     "title": "Patrick Stewart Remembered as “That Rare Actor” in Tributes from Ian McKellen, William Shatner, Seth MacFarlane, and More",
@@ -6743,6 +6793,10 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/most-streamed-metal-artists-spotify/"
+      },
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80bmQtR3dJaFNJNjdhdU1UYklsaEMwRHVOVVVZaEpiZnpsMEROMmFvSmFVNVgtR3d2b1gzR19kcElrVXBnb0lTVDdvcHBaT2U0SHdHSFhtWW13U0t6OHhOSjA3cVdDZzF1?oc=5"
       }
     ],
     "status": "official",
@@ -10284,31 +10338,6 @@
     "section": "pt"
   },
   {
-    "title": "Rankings: notas do 9.º ano pioram. Litoral domina o topo da tabela e escolas públicas ficam para trás - CNN Portugal",
-    "src": "CNN Portugal",
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbXZLSUlSelo0WHVBMkpaMUZGM0tLWXduRnc1aGJBRGNXUkJJYVNkTU82WE4xTjEyZndBMHhPTG1rbEE4YkUtZ0N6TGw5NWFBNGFXRTJPbi02OFBnYXYzU2x3VUN1eGEzX2ItVWxjTmc5QW1TUkVjVHNGMlhrWFdnVU1wRlU3cWdNWjJ4X05BR1dIdEM1aHJ5UG1IWUZJVGZab3Q0MlNZcW1NckN3ZWR2TjFvTWRfaWNvcFZSV3VHM2RHWHc3aFA4eEpwbFdsd0Q3S00tSk9sOGI4TGxydEQ5WjV5UnJ6LVF1ZHRWdTg4RnhIeXRoYWlQNHloZ3NOZklDUVVYMTNR?oc=5",
-    "timestamp": "2026-10-30T00:02:15+00:00",
-    "isoDate": "2026-10-30",
-    "date": "30 Out",
-    "d": "Rankings: notas do 9.º ano pioram. Litoral domina o topo da tabela e escolas públicas ficam para trás CNN Portugal",
-    "category": "pt",
-    "sources": [
-      {
-        "name": "CNN Portugal",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbXZLSUlSelo0WHVBMkpaMUZGM0tLWXduRnc1aGJBRGNXUkJJYVNkTU82WE4xTjEyZndBMHhPTG1rbEE4YkUtZ0N6TGw5NWFBNGFXRTJPbi02OFBnYXYzU2x3VUN1eGEzX2ItVWxjTmc5QW1TUkVjVHNGMlhrWFdnVU1wRlU3cWdNWjJ4X05BR1dIdEM1aHJ5UG1IWUZJVGZab3Q0MlNZcW1NckN3ZWR2TjFvTWRfaWNvcFZSV3VHM2RHWHc3aFA4eEpwbFdsd0Q3S00tSk9sOGI4TGxydEQ5WjV5UnJ6LVF1ZHRWdTg4RnhIeXRoYWlQNHloZ3NOZklDUVVYMTNR?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": true,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "pt"
-  },
-  {
     "title": "Legendary Heavy Metal Band Finds New Singer After Global Search - Wide Open Country",
     "src": "Wide Open Country",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV1NDQUROVDV2NzRETWI5NW04OU43OGNCMFdBR2dCZ1duVnBDS0M2bHZ0WmhzeWRqSFI5Z2FaemZoZTh6TW9pM0MxdWh4alc2THNyYzVLM1ptQWxyMXA1UVgyY1dza3pNR0prbGQ1azd1Zk9GX09IeUdRT0UzWFd3UzVDdVhOcy10cmtoNXBZWHd5TkZ2Qk5maVFpS0M?oc=5",
@@ -10957,6 +10986,156 @@
     "star": false,
     "kind": "news",
     "section": "buzz"
+  },
+  {
+    "title": "Monk: An Interview with Frank Bach - Lambgoat",
+    "src": "Lambgoat",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMi1qb1NQMzdDMWExdDAwbG9aekwxYTZ2OC1RTzZkbUEtdGZrdVYtUUxqcUZEMDJHMlFGektlN1NDbUgxMGpra1RsZGNVa2dJeTR3dlNGc3h1N1VWRzBUUnFUdHRPaGxoanprVmZSVFdVSnplQzA0SjY0TDc4OE5Mb245WU5QZw?oc=5",
+    "timestamp": "2026-10-30T16:45:59+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Monk: An Interview with Frank Bach Lambgoat",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Lambgoat",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMi1qb1NQMzdDMWExdDAwbG9aekwxYTZ2OC1RTzZkbUEtdGZrdVYtUUxqcUZEMDJHMlFGektlN1NDbUgxMGpra1RsZGNVa2dJeTR3dlNGc3h1N1VWRzBUUnFUdHRPaGxoanprVmZSVFdVSnplQzA0SjY0TDc4OE5Mb245WU5QZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "The Offspring, Pennywise and more to unite for T.S.O.L.’s Mike Roche benefit performance - My Clallam County",
+    "src": "My Clallam County",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeElSSkh3VmRCTUxWRmZpTkluMzhJQ2Noand4eHRLNnRBUnQ2dld6cWNVc1lzcGRWUDlfWUFlNmNfNnd0ZkpqdmhzelMyQzFhRWkxYkNDUjRLZzE2N09VVnNHWURLeFJiS29xR1pfT3JZUFgyX29oSFJaREVvdkpSRE85V2JROU8zT1ZaYXNTQTgzVmJSTWRBZjc4YldzVi1mQ2ZJUHZJVlhpaXR6dnlHZzdDUEFaWmJKUHJXX2FEUlI3RklUektOWDBB?oc=5",
+    "timestamp": "2026-10-30T12:57:08+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "The Offspring, Pennywise and more to unite for T.S.O.L.’s Mike Roche benefit performance My Clallam County",
+    "category": "core",
+    "sources": [
+      {
+        "name": "My Clallam County",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeElSSkh3VmRCTUxWRmZpTkluMzhJQ2Noand4eHRLNnRBUnQ2dld6cWNVc1lzcGRWUDlfWUFlNmNfNnd0ZkpqdmhzelMyQzFhRWkxYkNDUjRLZzE2N09VVnNHWURLeFJiS29xR1pfT3JZUFgyX29oSFJaREVvdkpSRE85V2JROU8zT1ZaYXNTQTgzVmJSTWRBZjc4YldzVi1mQ2ZJUHZJVlhpaXR6dnlHZzdDUEFaWmJKUHJXX2FEUlI3RklUektOWDBB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Murder on Sunset brings local music and Halloween spirit to the Chameleon - The Spokesman-Review",
+    "src": "The Spokesman-Review",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZld5VmRMSFFSdVJZTDRnYk15V29yeFh1emNxdUJyZUJPYnF0NG92LUdUZEcxSXQxNDk0M0JZemFkaFRIQVFEV0JWdjJZZTd0UENFcHBCSm15b1d4UGRZNnFjYnRFWDhiRDhfMnNUeGtUbmQxQ25HU0FnZmkwN2hsU29TWlE3TGJ6MF9fZnZjLXRma0UyaFR0VHJfWmJiQQ?oc=5",
+    "timestamp": "2026-10-30T07:00:00+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Murder on Sunset brings local music and Halloween spirit to the Chameleon The Spokesman-Review",
+    "category": "core",
+    "sources": [
+      {
+        "name": "The Spokesman-Review",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZld5VmRMSFFSdVJZTDRnYk15V29yeFh1emNxdUJyZUJPYnF0NG92LUdUZEcxSXQxNDk0M0JZemFkaFRIQVFEV0JWdjJZZTd0UENFcHBCSm15b1d4UGRZNnFjYnRFWDhiRDhfMnNUeGtUbmQxQ25HU0FnZmkwN2hsU29TWlE3TGJ6MF9fZnZjLXRma0UyaFR0VHJfWmJiQQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Drake Reportedly Set to Sign Biggest Record Deal in History With UMG - DancehallMag",
+    "src": "DancehallMag",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeGthOXJ6bjRjeE04aXd1NDNZbWxKdkpBeXdYc3VsdTVPSC1LQmV4U3ZyOHk5eGFNYXdUUWlVMmpRbi16TFBRTHJ1VENfY1JuYmZta0YtVDY4Nk9UUEd3SUV6UkpsUDF3VmdBdnliTjBhSkpQMlFlemZ1ZmN5TFFVWDJZNVpfY2N2bUVpazlGem5UWUN1d0FGbVpyYkJzQ1lYTnQ1bDkzTWlDRWRvOERxdlhUMGJTcTVRWlE?oc=5",
+    "timestamp": "2026-10-30T13:49:41+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Drake Reportedly Set to Sign Biggest Record Deal in History With UMG DancehallMag",
+    "category": "general",
+    "sources": [
+      {
+        "name": "DancehallMag",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeGthOXJ6bjRjeE04aXd1NDNZbWxKdkpBeXdYc3VsdTVPSC1LQmV4U3ZyOHk5eGFNYXdUUWlVMmpRbi16TFBRTHJ1VENfY1JuYmZta0YtVDY4Nk9UUEd3SUV6UkpsUDF3VmdBdnliTjBhSkpQMlFlemZ1ZmN5TFFVWDJZNVpfY2N2bUVpazlGem5UWUN1d0FGbVpyYkJzQ1lYTnQ1bDkzTWlDRWRvOERxdlhUMGJTcTVRWlE?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Madu: a cantora brasileira que transforma a experiência de viver longe de casa em música - SAPO",
+    "src": "SAPO",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZGdQcThJOVFuU1lOSWxhV1ppdkdoZkxtWUh0cTZLaTB6X0plUmZieTBaaGU4a1pIVVNBRHV3NkZmLVdUbkNXQVdUZEJoS1hJUk1GVUpjb3FlcC1vM1JuaHdSQ3ZWckpnMUdWLTlGNVlBV0d3MjBsOGx1a0VwZWptVEdCT0JBVndKSXhCb3Uyc19GOUJ3aFNvbnZNQ2h2YTk5WHJ1eDlUUlpwaXdUTnAyN1did3dQMkhPdmhWNGhfa3dHSDczX0RvU2xhTEllTTJ0OHRaQmJ3?oc=5",
+    "timestamp": "2026-10-30T18:16:00+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Madu: a cantora brasileira que transforma a experiência de viver longe de casa em música SAPO",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "SAPO",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZGdQcThJOVFuU1lOSWxhV1ppdkdoZkxtWUh0cTZLaTB6X0plUmZieTBaaGU4a1pIVVNBRHV3NkZmLVdUbkNXQVdUZEJoS1hJUk1GVUpjb3FlcC1vM1JuaHdSQ3ZWckpnMUdWLTlGNVlBV0d3MjBsOGx1a0VwZWptVEdCT0JBVndKSXhCb3Uyc19GOUJ3aFNvbnZNQ2h2YTk5WHJ1eDlUUlpwaXdUTnAyN1did3dQMkhPdmhWNGhfa3dHSDczX0RvU2xhTEllTTJ0OHRaQmJ3?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Rankings: notas do 9.º ano pioram. Litoral domina o topo da tabela e escolas públicas ficam para trás - CNN Portugal",
+    "src": "CNN Portugal",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbXZLSUlSelo0WHVBMkpaMUZGM0tLWXduRnc1aGJBRGNXUkJJYVNkTU82WE4xTjEyZndBMHhPTG1rbEE4YkUtZ0N6TGw5NWFBNGFXRTJPbi02OFBnYXYzU2x3VUN1eGEzX2ItVWxjTmc5QW1TUkVjVHNGMlhrWFdnVU1wRlU3cWdNWjJ4X05BR1dIdEM1aHJ5UG1IWUZJVGZab3Q0MlNZcW1NckN3ZWR2TjFvTWRfaWNvcFZSV3VHM2RHWHc3aFA4eEpwbFdsd0Q3S00tSk9sOGI4TGxydEQ5WjV5UnJ6LVF1ZHRWdTg4RnhIeXRoYWlQNHloZ3NOZklDUVVYMTNR?oc=5",
+    "timestamp": "2026-10-29T23:01:00+00:00",
+    "isoDate": "2026-10-29",
+    "date": "29 Out",
+    "d": "Rankings: notas do 9.º ano pioram. Litoral domina o topo da tabela e escolas públicas ficam para trás CNN Portugal",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "CNN Portugal",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbXZLSUlSelo0WHVBMkpaMUZGM0tLWXduRnc1aGJBRGNXUkJJYVNkTU82WE4xTjEyZndBMHhPTG1rbEE4YkUtZ0N6TGw5NWFBNGFXRTJPbi02OFBnYXYzU2x3VUN1eGEzX2ItVWxjTmc5QW1TUkVjVHNGMlhrWFdnVU1wRlU3cWdNWjJ4X05BR1dIdEM1aHJ5UG1IWUZJVGZab3Q0MlNZcW1NckN3ZWR2TjFvTWRfaWNvcFZSV3VHM2RHWHc3aFA4eEpwbFdsd0Q3S00tSk9sOGI4TGxydEQ5WjV5UnJ6LVF1ZHRWdTg4RnhIeXRoYWlQNHloZ3NOZklDUVVYMTNR?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "b": "Demonstration of Power",
@@ -15411,10 +15590,6 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/bands-that-are-dad-rock-now/"
-      },
-      {
-        "name": "Loudwire",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ncWlfbGI5WllHenZ4QkhnbTM3WUU1U0FjbGdpWlNBS2JkUFFZNl9xZEg4aDA1VTZtaEVOQW1pN1hSQm40Mm02V0p0YnVVZVMyT2pNWEtLZkJTZUZ1aXc?oc=5"
       }
     ],
     "status": "official",
@@ -17662,6 +17837,56 @@
     "star": false,
     "kind": "news",
     "section": "news"
+  },
+  {
+    "title": "Reality show 'For a Dream' amplia alcance internacional e chega à Rádio Popular FM, em Portugal - Correio Braziliense",
+    "src": "Correio Braziliense",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYlBqb1N4ejhJZ3FLb0c1SlhhMHFjanNrREp3WndvMTNCTmFXWUVvTi12S1IxN0h5NWpkWXFKRkswbDNZOUoxSTJNbXYxUGxxdWhUSk91UHlzcDdIM3oyNy1MUWlhRzYzbkY1VHNpblFhSGUzSThkMWxVa0kyMXJOTndOX2F4aEdMd1VtLWJJczQ0TUVjNmNLOUlyeG5BWkNVMmJNN1FGZFBDNGx5X2dtSll6bERscnJWY1pfWFhteWpiZTBLTENvYXpQMXdmaGNGRDhzZExUQkM3eU1fLWtValFvSVdaTnpXa3A2UXpJN0pxYjFUYzZjOTFEV0thN2tfOVNNa0xJYknSAY4CQVVfeXFMTVZTWlJLSmNoTWwyQUtRdU1sMHhmUERqcmtqSkk5NXB3SVBPMExJT09KbEs2OTVoUDQxOVhxLUxodHVTd2RrdHZSZFBaQmdPWmd0ZndTU3lQcmRMdEx5OTFTVVR1RU1oQTlMcS1TNmRqVzB3TnoyT1VFeDlqRUpySUlkcGdJV01nY2tzdEtCN1BtWFY2Qnp1dlJZUnZqVkxsbnBmNHhfd1E2WURnZUEwc1R4Qk9UaW1KVnpZeEI0azkyZS1URVlhalphU3ZPSkZJSjBFcmRHNnJiS3I5QjBQQThEMnFCR2R5QUhRYXFXX05lNVFDc1UwcF9LbWNvX0FBQk52UXlmZHczY0Z5TjFn?oc=5",
+    "timestamp": "2026-10-29T07:00:00+00:00",
+    "isoDate": "2026-10-29",
+    "date": "29 Out",
+    "d": "Reality show 'For a Dream' amplia alcance internacional e chega à Rádio Popular FM, em Portugal Correio Braziliense",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Correio Braziliense",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYlBqb1N4ejhJZ3FLb0c1SlhhMHFjanNrREp3WndvMTNCTmFXWUVvTi12S1IxN0h5NWpkWXFKRkswbDNZOUoxSTJNbXYxUGxxdWhUSk91UHlzcDdIM3oyNy1MUWlhRzYzbkY1VHNpblFhSGUzSThkMWxVa0kyMXJOTndOX2F4aEdMd1VtLWJJczQ0TUVjNmNLOUlyeG5BWkNVMmJNN1FGZFBDNGx5X2dtSll6bERscnJWY1pfWFhteWpiZTBLTENvYXpQMXdmaGNGRDhzZExUQkM3eU1fLWtValFvSVdaTnpXa3A2UXpJN0pxYjFUYzZjOTFEV0thN2tfOVNNa0xJYknSAY4CQVVfeXFMTVZTWlJLSmNoTWwyQUtRdU1sMHhmUERqcmtqSkk5NXB3SVBPMExJT09KbEs2OTVoUDQxOVhxLUxodHVTd2RrdHZSZFBaQmdPWmd0ZndTU3lQcmRMdEx5OTFTVVR1RU1oQTlMcS1TNmRqVzB3TnoyT1VFeDlqRUpySUlkcGdJV01nY2tzdEtCN1BtWFY2Qnp1dlJZUnZqVkxsbnBmNHhfd1E2WURnZUEwc1R4Qk9UaW1KVnpZeEI0azkyZS1URVlhalphU3ZPSkZJSjBFcmRHNnJiS3I5QjBQQThEMnFCR2R5QUhRYXFXX05lNVFDc1UwcF9LbWNvX0FBQk52UXlmZHczY0Z5TjFn?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "É oficial! Fontaines D.C., FKA Twigs, The Chemical Brothers, Lola Young e beabadoobee estão entre os 55 artistas do Primavera Sound Porto 2027 - Porto Secreto",
+    "src": "Porto Secreto",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aODJDb20tSzk5YmJ6aUFHWHJSUjk3bG03X0VYam9tSXpvUW1PX0JFTmwtX2diWjRWRlBnb1VNZ05rcXZmTGxhVzlDNDJnQk9xZ2hLaGhLeHAteWhLaUhmYUhkR194ZHhDY2N5cA?oc=5",
+    "timestamp": "2026-10-29T17:21:42+00:00",
+    "isoDate": "2026-10-29",
+    "date": "29 Out",
+    "d": "É oficial! Fontaines D.C., FKA Twigs, The Chemical Brothers, Lola Young e beabadoobee estão entre os 55 artistas do Primavera Sound Porto 2027 Porto Secreto",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Porto Secreto",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aODJDb20tSzk5YmJ6aUFHWHJSUjk3bG03X0VYam9tSXpvUW1PX0JFTmwtX2diWjRWRlBnb1VNZ05rcXZmTGxhVzlDNDJnQk9xZ2hLaGhLeHAteWhLaUhmYUhkR194ZHhDY2N5cA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "title": "LITA FORD Releases New Single 'Dracula'",
@@ -31882,6 +32107,106 @@
     "section": "news"
   },
   {
+    "title": "U2 anunciam nova digressão com cartaz em Lisboa! - RFM",
+    "src": "RFM",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd3N2S2FzU1hIQ0t6dFBfcGNoTXk1LUNmVGNKM1o5TjExenhTOW1nUFNXNDdRTXF1NDRNd1h2Z1U4c21ZNFUwN3BFOVktYU9xUW43eHZpSG9DRXVkeWpEdVJjbGdWSmxEXzhIZDQyV2lncEVPRGFZa05yTW1FWHZyRXhBLWx3d9IBiwFBVV95cUxPbHFvbXJONnN0X1RzRkNuMDJ0Rjhwa3VYb1ZUZ0JTMXMtdmk5ODlTQ3NsbTVhQ3VhNXZQMjlNX0V1QWo5bVJGRnZHWTVyMk9NRjJxRGI3Rm1acTl6R1V2YzRkOEtMaEJqYm91QXowbmdoYTBId3cwd2c1dnBteDZ6Y3BMc1Y1R1BIckdZ?oc=5",
+    "timestamp": "2026-10-27T18:25:00+00:00",
+    "isoDate": "2026-10-27",
+    "date": "27 Out",
+    "d": "U2 anunciam nova digressão com cartaz em Lisboa! RFM",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "RFM",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd3N2S2FzU1hIQ0t6dFBfcGNoTXk1LUNmVGNKM1o5TjExenhTOW1nUFNXNDdRTXF1NDRNd1h2Z1U4c21ZNFUwN3BFOVktYU9xUW43eHZpSG9DRXVkeWpEdVJjbGdWSmxEXzhIZDQyV2lncEVPRGFZa05yTW1FWHZyRXhBLWx3d9IBiwFBVV95cUxPbHFvbXJONnN0X1RzRkNuMDJ0Rjhwa3VYb1ZUZ0JTMXMtdmk5ODlTQ3NsbTVhQ3VhNXZQMjlNX0V1QWo5bVJGRnZHWTVyMk9NRjJxRGI3Rm1acTl6R1V2YzRkOEtMaEJqYm91QXowbmdoYTBId3cwd2c1dnBteDZ6Y3BMc1Y1R1BIckdZ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Hino da Independência: a composição de dom Pedro 1º que Lula transformou em canção da vitória - BBC",
+    "src": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGLV9Jd21VTE50X0tUQnVtOThNR25jcmhQUEtZUTctamg0QUdZQjR4WU9EbGhfbXppRy1iRWxRN29Pbk50YVlQQmNnckwtS1FvOUkxNmlURjNyRWRvUHJzMGNIa9IBaEFVX3lxTE1lQUdkWm5xM0pObUE5VDF1dU9TanQwU2Nlc3c3TG9mUF9CR21pWlpMUVU1TEFPZ29DV05kcnVYWDlmbVNFSmFwazcxREVkYkU0aGU0N3ZMdmpaVVVfOHp3UWYwZGJQMjBY?oc=5",
+    "timestamp": "2026-10-27T14:23:47+00:00",
+    "isoDate": "2026-10-27",
+    "date": "27 Out",
+    "d": "Hino da Independência: a composição de dom Pedro 1º que Lula transformou em canção da vitória BBC",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGLV9Jd21VTE50X0tUQnVtOThNR25jcmhQUEtZUTctamg0QUdZQjR4WU9EbGhfbXppRy1iRWxRN29Pbk50YVlQQmNnckwtS1FvOUkxNmlURjNyRWRvUHJzMGNIa9IBaEFVX3lxTE1lQUdkWm5xM0pObUE5VDF1dU9TanQwU2Nlc3c3TG9mUF9CR21pWlpMUVU1TEFPZ29DV05kcnVYWDlmbVNFSmFwazcxREVkYkU0aGU0N3ZMdmpaVVVfOHp3UWYwZGJQMjBY?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Artist Lineup Confirmed for Third Edition of Light The Dark - Popzine",
+    "src": "Popzine",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZUQwLWlmSVBacUxEVnpXOHJkalpVc0FHbURGU0Q3blVFeENIY0N5akVQWVUxVGczd1hTYmZDXzRJdWRwMXMwZlRwTmdUbGU1QkhyNElPUmU4MUYwLXVTc2dTeS1kYmpCVWtwWWduMEZuZWZSM1JwM3RkRUh5V2ktN3lYUkt2VFRpbEtJ?oc=5",
+    "timestamp": "2026-10-27T13:32:15+00:00",
+    "isoDate": "2026-10-27",
+    "date": "27 Out",
+    "d": "Artist Lineup Confirmed for Third Edition of Light The Dark Popzine",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Popzine",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZUQwLWlmSVBacUxEVnpXOHJkalpVc0FHbURGU0Q3blVFeENIY0N5akVQWVUxVGczd1hTYmZDXzRJdWRwMXMwZlRwTmdUbGU1QkhyNElPUmU4MUYwLXVTc2dTeS1kYmpCVWtwWWduMEZuZWZSM1JwM3RkRUh5V2ktN3lYUkt2VFRpbEtJ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "In 1985, an ultra-fast band called Napalm Death debuted at a DIY pub in Sparkhill - how Birmingham’s legendary Mermaid birthed the brutal grindcore genre - Secret Birmingham",
+    "src": "Secret Birmingham",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yUmc3SnJRSUdEdXlFMHhuS1N3TnZZU2FmT3VZMVlRVTEtNW5NSmhINFhUdU5MdjdzQTdVQVpmNjEwam5qYXZyMkdfWTNtdVBpQUhNN0lNVDhoZjVOZUZiUkZtWnBlZEJCeTEwOVhsNlZtM1pnWlpjSUlEb2FmQ00?oc=5",
+    "timestamp": "2026-10-27T07:48:00+00:00",
+    "isoDate": "2026-10-27",
+    "date": "27 Out",
+    "d": "In 1985, an ultra-fast band called Napalm Death debuted at a DIY pub in Sparkhill - how Birmingham’s legendary Mermaid birthed the brutal grindcore genre Secret Birmingham",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Secret Birmingham",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yUmc3SnJRSUdEdXlFMHhuS1N3TnZZU2FmT3VZMVlRVTEtNW5NSmhINFhUdU5MdjdzQTdVQVpmNjEwam5qYXZyMkdfWTNtdVBpQUhNN0lNVDhoZjVOZUZiUkZtWnBlZEJCeTEwOVhsNlZtM1pnWlpjSUlEb2FmQ00?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
     "title": "Eurovision 2026 Portugal: Bandidos do Cante - \"Rosa\" - Eurovisionworld",
     "src": "Eurovisionworld",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KVjI1N2xsNkNaUmtQR1FYdzVNUGlfZGNrdEZ2Nlh4eV9IUHFOb24xY1JNcmEwdHdlVjl4SHdDeXA5cWpsOElDdHEybWdzTjNIQTRyeTc5T3hJY014czhSQm93?oc=5",
@@ -37418,6 +37743,31 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Live Review: Turnstile @ Washington Monument — 10/24/26 - Parklife DC",
+    "src": "Parklife DC",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUmduX1h4Y0xmVzNua0otN0w3WWktRnBxQWIyQ3E4el9SZklEMlFkeE5Xc1VQeG9iSjgxbmVaUEwxRURFN281a05OQXhCNFl0REozMVRPQl9hb3BtazljMVc5UHlaNzE3b252OGQ4YzFhaElIWjVlc20yeGlnQW0tWXFYNjRSS3BLMGFBQzJ3?oc=5",
+    "timestamp": "2026-10-26T18:28:43+00:00",
+    "isoDate": "2026-10-26",
+    "date": "26 Out",
+    "d": "Live Review: Turnstile @ Washington Monument — 10/24/26 Parklife DC",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Parklife DC",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUmduX1h4Y0xmVzNua0otN0w3WWktRnBxQWIyQ3E4el9SZklEMlFkeE5Xc1VQeG9iSjgxbmVaUEwxRURFN281a05OQXhCNFl0REozMVRPQl9hb3BtazljMVc5UHlaNzE3b252OGQ4YzFhaElIWjVlc20yeGlnQW0tWXFYNjRSS3BLMGFBQzJ3?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
   },
   {
     "title": "Attekus - City of Albany",
@@ -69318,6 +69668,138 @@
     "section": "pt"
   },
   {
+    "b": "Tom Kelly",
+    "t": "A Soundmap of the Pacific Crest Trail, 2023: Northern California Pt. 1—lassen to Oregon",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "20 Out",
+    "isoDate": "2026-10-20",
+    "url": "https://musicbrainz.org/release-group/6a9ae109-780b-4a68-98a2-e82c674bf945",
+    "d": "",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/6a9ae109-780b-4a68-98a2-e82c674bf945"
+      }
+    ],
+    "mbid": "6a9ae109-780b-4a68-98a2-e82c674bf945",
+    "star": false,
+    "country": "PT",
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Tom Kelly",
+    "t": "A Soundmap of the Pacific Crest Trail, 2023: Washington Pt. 2—snoqualmie to Northern Terminus",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "20 Out",
+    "isoDate": "2026-10-20",
+    "url": "https://musicbrainz.org/release-group/ec278d7a-34b2-4f2e-85e3-4daa91c7d55b",
+    "d": "",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/ec278d7a-34b2-4f2e-85e3-4daa91c7d55b"
+      }
+    ],
+    "mbid": "ec278d7a-34b2-4f2e-85e3-4daa91c7d55b",
+    "star": false,
+    "country": "PT",
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Tom Kelly",
+    "t": "A Soundmap of the Pacific Crest Trail, 2023: Northern California Pt. 2—donner Pass to Chester",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "20 Out",
+    "isoDate": "2026-10-20",
+    "url": "https://musicbrainz.org/release-group/150d7b34-b33f-4716-81b2-5105573464a1",
+    "d": "",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/150d7b34-b33f-4716-81b2-5105573464a1"
+      }
+    ],
+    "mbid": "150d7b34-b33f-4716-81b2-5105573464a1",
+    "star": false,
+    "country": "PT",
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Tom Kelly",
+    "t": "A Soundmap of the Pacific Crest Trail, 2023: Southern California Pt. 1—southern Terminus to Mojave Desert",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "20 Out",
+    "isoDate": "2026-10-20",
+    "url": "https://musicbrainz.org/release-group/8685c0c0-6007-42a2-a0cb-64a7ba34555b",
+    "d": "",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/8685c0c0-6007-42a2-a0cb-64a7ba34555b"
+      }
+    ],
+    "mbid": "8685c0c0-6007-42a2-a0cb-64a7ba34555b",
+    "star": false,
+    "country": "PT",
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Tom Kelly",
+    "t": "A Soundmap of the Pacific Crest Trail, 2023: Southern California Pt. 2—mojave Desert to Kennedy Meadows",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "20 Out",
+    "isoDate": "2026-10-20",
+    "url": "https://musicbrainz.org/release-group/ec5b164e-195f-4bac-9981-e86a02060ab2",
+    "d": "",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/ec5b164e-195f-4bac-9981-e86a02060ab2"
+      }
+    ],
+    "mbid": "ec5b164e-195f-4bac-9981-e86a02060ab2",
+    "star": false,
+    "country": "PT",
+    "kind": "release",
+    "section": "recent"
+  },
+  {
+    "b": "Tom Kelly",
+    "t": "A Soundmap of the Pacific Crest Trail, 2023: Washington Pt. 1—bridge of the Gods to Snoqualmie",
+    "g": "heavy",
+    "fmt": "Album",
+    "lbl": "MusicBrainz",
+    "date": "20 Out",
+    "isoDate": "2026-10-20",
+    "url": "https://musicbrainz.org/release-group/52cd5666-3146-4710-8356-4141b2f4d013",
+    "d": "",
+    "sources": [
+      {
+        "name": "MusicBrainz",
+        "url": "https://musicbrainz.org/release-group/52cd5666-3146-4710-8356-4141b2f4d013"
+      }
+    ],
+    "mbid": "52cd5666-3146-4710-8356-4141b2f4d013",
+    "star": false,
+    "country": "PT",
+    "kind": "release",
+    "section": "recent"
+  },
+  {
     "title": "Ministry's Al Jourgensen Shares Concern Over the Future of A.I.",
     "src": "Loudwire",
     "url": "https://loudwire.com/ministry-al-jourgensen-concern-future-artificial-intelligence-hate-to-go-interview/",
@@ -74835,31 +75317,6 @@
     "star": false,
     "kind": "news",
     "section": "buzz"
-  },
-  {
-    "title": "Reality show 'For a Dream' amplia alcance internacional e chega à Rádio Popular FM, em Portugal - Correio Braziliense",
-    "src": "Correio Braziliense",
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYlBqb1N4ejhJZ3FLb0c1SlhhMHFjanNrREp3WndvMTNCTmFXWUVvTi12S1IxN0h5NWpkWXFKRkswbDNZOUoxSTJNbXYxUGxxdWhUSk91UHlzcDdIM3oyNy1MUWlhRzYzbkY1VHNpblFhSGUzSThkMWxVa0kyMXJOTndOX2F4aEdMd1VtLWJJczQ0TUVjNmNLOUlyeG5BWkNVMmJNN1FGZFBDNGx5X2dtSll6bERscnJWY1pfWFhteWpiZTBLTENvYXpQMXdmaGNGRDhzZExUQkM3eU1fLWtValFvSVdaTnpXa3A2UXpJN0pxYjFUYzZjOTFEV0thN2tfOVNNa0xJYknSAY4CQVVfeXFMTVZTWlJLSmNoTWwyQUtRdU1sMHhmUERqcmtqSkk5NXB3SVBPMExJT09KbEs2OTVoUDQxOVhxLUxodHVTd2RrdHZSZFBaQmdPWmd0ZndTU3lQcmRMdEx5OTFTVVR1RU1oQTlMcS1TNmRqVzB3TnoyT1VFeDlqRUpySUlkcGdJV01nY2tzdEtCN1BtWFY2Qnp1dlJZUnZqVkxsbnBmNHhfd1E2WURnZUEwc1R4Qk9UaW1KVnpZeEI0azkyZS1URVlhalphU3ZPSkZJSjBFcmRHNnJiS3I5QjBQQThEMnFCR2R5QUhRYXFXX05lNVFDc1UwcF9LbWNvX0FBQk52UXlmZHczY0Z5TjFn?oc=5",
-    "timestamp": "2026-10-19T09:04:00+00:00",
-    "isoDate": "2026-10-19",
-    "date": "19 Out",
-    "d": "Reality show 'For a Dream' amplia alcance internacional e chega à Rádio Popular FM, em Portugal Correio Braziliense",
-    "category": "pt",
-    "sources": [
-      {
-        "name": "Correio Braziliense",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYlBqb1N4ejhJZ3FLb0c1SlhhMHFjanNrREp3WndvMTNCTmFXWUVvTi12S1IxN0h5NWpkWXFKRkswbDNZOUoxSTJNbXYxUGxxdWhUSk91UHlzcDdIM3oyNy1MUWlhRzYzbkY1VHNpblFhSGUzSThkMWxVa0kyMXJOTndOX2F4aEdMd1VtLWJJczQ0TUVjNmNLOUlyeG5BWkNVMmJNN1FGZFBDNGx5X2dtSll6bERscnJWY1pfWFhteWpiZTBLTENvYXpQMXdmaGNGRDhzZExUQkM3eU1fLWtValFvSVdaTnpXa3A2UXpJN0pxYjFUYzZjOTFEV0thN2tfOVNNa0xJYknSAY4CQVVfeXFMTVZTWlJLSmNoTWwyQUtRdU1sMHhmUERqcmtqSkk5NXB3SVBPMExJT09KbEs2OTVoUDQxOVhxLUxodHVTd2RrdHZSZFBaQmdPWmd0ZndTU3lQcmRMdEx5OTFTVVR1RU1oQTlMcS1TNmRqVzB3TnoyT1VFeDlqRUpySUlkcGdJV01nY2tzdEtCN1BtWFY2Qnp1dlJZUnZqVkxsbnBmNHhfd1E2WURnZUEwc1R4Qk9UaW1KVnpZeEI0azkyZS1URVlhalphU3ZPSkZJSjBFcmRHNnJiS3I5QjBQQThEMnFCR2R5QUhRYXFXX05lNVFDc1UwcF9LbWNvX0FBQk52UXlmZHczY0Z5TjFn?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": true,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "pt"
   },
   {
     "title": "Neurosis Launch Fall Reunion Tour in San Francisco: Photos, Video + Setlist - Consequence of Sound",
