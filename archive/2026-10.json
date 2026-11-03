@@ -901,7 +901,7 @@
     "isoDate": "2026-10-31",
     "date": "31 Out",
     "d": "Rock band cancels all remaining concerts on first reunion tour in 33 years Syracuse.com",
-    "category": "general",
+    "category": "metal",
     "sources": [
       {
         "name": "Syracuse.com",
@@ -916,7 +916,7 @@
     "isCore": false,
     "star": false,
     "kind": "news",
-    "section": "buzz"
+    "section": "news"
   },
   {
     "title": "These two metal bands launch open casting call for fans to attend special live tapings - Chaoszine",
@@ -6897,6 +6897,10 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/most-streamed-metal-artists-spotify/"
+      },
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80bmQtR3dJaFNJNjdhdU1UYklsaEMwRHVOVVVZaEpiZnpsMEROMmFvSmFVNVgtR3d2b1gzR19kcElrVXBnb0lTVDdvcHBaT2U0SHdHSFhtWW13U0t6OHhOSjA3cVdDZzF1?oc=5"
       }
     ],
     "status": "official",
@@ -11309,6 +11313,31 @@
     "section": "buzz"
   },
   {
+    "title": "Machine Girl Halloween - Pioneer Works",
+    "src": "Pioneer Works",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MNFhVVkdjcTBfYmVLY1RfOWh4TE5wdWd0TEJsWXJjQld5azZiLS05TDd0Z18wb0tIWmFkZkx6S05tX3ZTMVpxdi05NE1VUGdTYUt0UnlCazZKZw?oc=5",
+    "timestamp": "2026-10-30T07:00:00+00:00",
+    "isoDate": "2026-10-30",
+    "date": "30 Out",
+    "d": "Machine Girl Halloween Pioneer Works",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Pioneer Works",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MNFhVVkdjcTBfYmVLY1RfOWh4TE5wdWd0TEJsWXJjQld5azZiLS05TDd0Z18wb0tIWmFkZkx6S05tX3ZTMVpxdi05NE1VUGdTYUt0UnlCazZKZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
     "title": "Rankings: notas do 9.º ano pioram. Litoral domina o topo da tabela e escolas públicas ficam para trás - CNN Portugal",
     "src": "CNN Portugal",
     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbXZLSUlSelo0WHVBMkpaMUZGM0tLWXduRnc1aGJBRGNXUkJJYVNkTU82WE4xTjEyZndBMHhPTG1rbEE4YkUtZ0N6TGw5NWFBNGFXRTJPbi02OFBnYXYzU2x3VUN1eGEzX2ItVWxjTmc5QW1TUkVjVHNGMlhrWFdnVU1wRlU3cWdNWjJ4X05BR1dIdEM1aHJ5UG1IWUZJVGZab3Q0MlNZcW1NckN3ZWR2TjFvTWRfaWNvcFZSV3VHM2RHWHc3aFA4eEpwbFdsd0Q3S00tSk9sOGI4TGxydEQ5WjV5UnJ6LVF1ZHRWdTg4RnhIeXRoYWlQNHloZ3NOZklDUVVYMTNR?oc=5",
@@ -11517,11 +11546,15 @@
       {
         "name": "AOL.com",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTzlMNF9zbUpFTGVGX2ViOHV0cnU4TkptNTY0c1Z6REF5NXE0RXNzeE9NLXROMm1pcHVJSWVRMUt1VmJ5OWNKOHZzRk9sRk9wOHZfb2YyYXBiUXkxcVhyV0RMX3Y4V3VTc3ZHc3AwTDVob29SREVpT2NyRXNoUlR6X1YtRQ?oc=5"
+      },
+      {
+        "name": "AOL.ca",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10c2lnS3R5UjRHejVZWWdreGoxeWxldEdVb3FMempXX2dLQk1UazBfUzhOY0lCUGo0bHFKTWY1b0dfelZ1OVdmdFJpblFJZ0d3SEdSb21wN0tfVUpxUGNXUzlHOFIwTHJTdU9jUkQyWXBuMU1TdWpndS01b3dFMFk?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 2,
+    "sourceCount": 3,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
@@ -13598,7 +13631,7 @@
     "title": "Skid Row – Announce New Lead Singer Justin Sargent - Metal Planet Music",
     "src": "Metal Planet Music",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZk40eUVYY3lBWkZRZ2dmNklvanFvSE1RX29EX3FlQTh3eS1LN0I1QlRuUGJVRHVkb0EtWUpJYjVQc0JIWkxRaW5RMEpjWXV4ODhYak9BV1k3d0hDVWpDZEF0VmdXUVNjeE01eTluV25rZUhlb2Q1Uk1Cd3J2bXpncnlkLXdkTTZGZkRDbW0ySQ?oc=5",
-    "timestamp": "2026-10-29T17:21:14+00:00",
+    "timestamp": "2026-10-29T17:04:06+00:00",
     "isoDate": "2026-10-29",
     "date": "29 Out",
     "d": "Skid Row – Announce New Lead Singer Justin Sargent Metal Planet Music",
@@ -15794,10 +15827,6 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/bands-that-are-dad-rock-now/"
-      },
-      {
-        "name": "Loudwire",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ncWlfbGI5WllHenZ4QkhnbTM3WUU1U0FjbGdpWlNBS2JkUFFZNl9xZEg4aDA1VTZtaEVOQW1pN1hSQm40Mm02V0p0YnVVZVMyT2pNWEtLZkJTZUZ1aXc?oc=5"
       }
     ],
     "status": "official",
@@ -18120,6 +18149,31 @@
     "star": false,
     "kind": "news",
     "section": "news"
+  },
+  {
+    "title": "U2 vão dar concerto no Estádio da Luz em maio de 2027: venda de bilhetes já começou - Expresso",
+    "src": "Expresso",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSEdXT21PeGc1b0ZCWHJhSmxxNFpRQ1duR0VIeFljSXF2RC12bEpxYWQxWl9qbTdYaUFfakx5cF9tQy1kWVROYmxSNHZ1ZUlVQk9NY1R6OGRDZ3VTUmdWVnlEQmNZc2IwdV8tRzZyMV9pYWppS0dxa1VIbHNMQWZSS2lLX0xXVUc4YUVlbmc5dHcxU0NZNGV6T3dROHpvVWdjS29teTNhQlRRSGFqMFNvOTUzLTFpOWVzVXFkeU1Ia2FLdnFWX3l1UW5OeWRzM29Od0xr?oc=5",
+    "timestamp": "2026-10-29T12:10:23+00:00",
+    "isoDate": "2026-10-29",
+    "date": "29 Out",
+    "d": "U2 vão dar concerto no Estádio da Luz em maio de 2027: venda de bilhetes já começou Expresso",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Expresso",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSEdXT21PeGc1b0ZCWHJhSmxxNFpRQ1duR0VIeFljSXF2RC12bEpxYWQxWl9qbTdYaUFfakx5cF9tQy1kWVROYmxSNHZ1ZUlVQk9NY1R6OGRDZ3VTUmdWVnlEQmNZc2IwdV8tRzZyMV9pYWppS0dxa1VIbHNMQWZSS2lLX0xXVUc4YUVlbmc5dHcxU0NZNGV6T3dROHpvVWdjS29teTNhQlRRSGFqMFNvOTUzLTFpOWVzVXFkeU1Ia2FLdnFWX3l1UW5OeWRzM29Od0xr?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "title": "LITA FORD Releases New Single 'Dracula'",
