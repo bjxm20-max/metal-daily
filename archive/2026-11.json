@@ -202,10 +202,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -227,21 +227,21 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
   {
-    "title": "Deftones Brought An “Eros” Track Back To the Stage For The First Time Since 2008 Last Night",
+    "title": "Deftones Brought An “Eros” Track Back To The Stage For The First Time Since 2008 Last Night",
     "src": "ThePRP",
     "url": "https://www.theprp.com/2026/11/08/news/deftones-brought-an-eros-track-back-to-the-stage-for-the-first-time-since-2008-last-night/",
     "timestamp": "2026-11-08T09:15:42+00:00",
     "isoDate": "2026-11-08",
     "date": "8 Nov",
-    "d": "Marking its third known live performance overall. The post Deftones Brought An “Eros” Track Back To the Stage For The First Time Since 2008 Last Night appeared first on Theprp.com .",
+    "d": "Marking its third known live performance overall. The post Deftones Brought An “Eros” Track Back To The Stage For The First Time Since 2008 Last Night appeared first on Theprp.com .",
     "category": "metal",
     "sources": [
       {
@@ -352,10 +352,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -377,10 +377,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -402,10 +402,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -427,35 +427,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
-    "kind": "news",
-    "section": "buzz"
-  },
-  {
-    "title": "Taylor Swift - Britannica",
-    "src": "Britannica",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9femZaalRhODBTZGdVT1NVdEh0ZUtfUjJUaUhZS01HdFlXQTJXSVJLUzNDZ185cmd4eTJzY1lRTHRfSUVKWkZwSjhNcFh6T2lla2pEYkFudWdVWXRTY2c?oc=5",
-    "timestamp": "2026-11-08T11:35:21+00:00",
-    "isoDate": "2026-11-08",
-    "date": "8 Nov",
-    "d": "Taylor Swift Britannica",
-    "category": "general",
-    "sources": [
-      {
-        "name": "Britannica",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9femZaalRhODBTZGdVT1NVdEh0ZUtfUjJUaUhZS01HdFlXQTJXSVJLUzNDZ185cmd4eTJzY1lRTHRfSUVKWkZwSjhNcFh6T2lla2pEYkFudWdVWXRTY2c?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": true,
-    "isPT": false,
-    "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1102,7 +1077,7 @@
     "title": "Todos os concertos marcados para 2026 e 2027 em Portugal - Expresso",
     "src": "Expresso",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSU8wUFpOWWwyZXpBT0xQWXZScVJiX2U0b0gxUnZ0ekhFcEVQMC11MTFqUGk4SEZGTzBOUG9pNnV5UlZCeHZrWWttRDZLQVprY0Q4RGtaX2pUWlFkTTNKa00xMk05V0E0VlBFNmRCOVRnSHBJcS0wUEdUdWV5anBMM19VZ25YMVZLbHEzRzI5eGY2c2JxTTQ5YXk2ZFZndnY4UHJMblNMel9tVHoyWVE?oc=5",
-    "timestamp": "2026-11-08T12:46:45+00:00",
+    "timestamp": "2026-11-08T18:50:17+00:00",
     "isoDate": "2026-11-08",
     "date": "8 Nov",
     "d": "Todos os concertos marcados para 2026 e 2027 em Portugal Expresso",
@@ -1537,6 +1512,381 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "ZAK TELL On Why CLAWFINGER No Longer Performs One Of Its Biggest Songs Containing Anti-Racist Message: The Topic 'Deserves To Be Addressed Properly'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/zak-tell-on-why-clawfinger-no-longer-performs-one-of-its-biggest-songs-containing-anti-racist-message-the-topic-deserves-to-be-addressed-properly",
+    "timestamp": "2026-11-08T19:41:18+00:00",
+    "isoDate": "2026-11-08",
+    "date": "8 Nov",
+    "d": "In a new interview with the IMPACT Metal Channel, vocalist Zak Tell of the long-running Swedish rap/metal combo CLAWFINGER was asked for his opinion of the current political situation in his home country. Zak responded (as transcribed by BLABBERMOUTH.NET): \"It's a mess, like it is in a lot of places...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/zak-tell-on-why-clawfinger-no-longer-performs-one-of-its-biggest-songs-containing-anti-racist-message-the-topic-deserves-to-be-addressed-properly"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Sepultura Play Final Concert In São Paulo, Brazil - The Mosh Network",
+    "src": "The Mosh Network",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZYVUybEFpU2xxRktFVExld0ZnN0gyUlA3ZzFZS1hCRjJVNHdlalQwdzBFTVhLbjJYRXJhTWhsZlVfUmJERmRhUk1sU2pCdldtNTNzMDBfd1VZc0F1SnQwSnF0NnB4OXMtcVJyRg?oc=5",
+    "timestamp": "2026-11-08T19:31:28+00:00",
+    "isoDate": "2026-11-08",
+    "date": "8 Nov",
+    "d": "Sepultura Play Final Concert In São Paulo, Brazil The Mosh Network",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "The Mosh Network",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZYVUybEFpU2xxRktFVExld0ZnN0gyUlA3ZzFZS1hCRjJVNHdlalQwdzBFTVhLbjJYRXJhTWhsZlVfUmJERmRhUk1sU2pCdldtNTNzMDBfd1VZc0F1SnQwSnF0NnB4OXMtcVJyRg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Celine Dion and Jack Black Spotted Jamming Out at Las Vegas Metallica Concert - Wide Open Country",
+    "src": "Wide Open Country",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Gb1BjR3VxbDRmemk0emhLRm1NZmJRSy1iSzdjYXV6S2NseFJvdjBjbEJsRjdVZ1RRSlFYSXhFVVJQNV8ydEpnSWxGal9RaVJ3M3pXcHRjdU1uQ0dZVHhpbUpBSkRZYXNaN0dBVllVRFBDSTZkWUw0SjhR?oc=5",
+    "timestamp": "2026-11-08T19:00:00+00:00",
+    "isoDate": "2026-11-08",
+    "date": "8 Nov",
+    "d": "Celine Dion and Jack Black Spotted Jamming Out at Las Vegas Metallica Concert Wide Open Country",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Wide Open Country",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Gb1BjR3VxbDRmemk0emhLRm1NZmJRSy1iSzdjYXV6S2NseFJvdjBjbEJsRjdVZ1RRSlFYSXhFVVJQNV8ydEpnSWxGal9RaVJ3M3pXcHRjdU1uQ0dZVHhpbUpBSkRZYXNaN0dBVllVRFBDSTZkWUw0SjhR?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Here’s This Week’s Top Ten Stories On Theprp.com (November 08th, 2026)",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/11/08/news/heres-this-weeks-top-ten-stories-on-theprp-com-november-08th-2026/",
+    "timestamp": "2026-11-08T18:29:30+00:00",
+    "isoDate": "2026-11-08",
+    "date": "8 Nov",
+    "d": "Halloween, Metallica, Celine, Cheesy vinyl and more. The post Here’s This Week’s Top Ten Stories On Theprp.com (November 08th, 2026) appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/11/08/news/heres-this-weeks-top-ten-stories-on-theprp-com-november-08th-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Celine Dion Was Back On Air Bass At Metallica’s Latest Show At The Sphere, This Time Joined By Jack Black",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/11/08/news/celine-dion-was-back-on-air-bass-at-metallicas-latest-show-at-the-sphere-this-time-joined-by-jack-black/",
+    "timestamp": "2026-11-08T18:16:18+00:00",
+    "isoDate": "2026-11-08",
+    "date": "8 Nov",
+    "d": "It really is all coming black to me now. The post Celine Dion Was Back On Air Bass At Metallica’s Latest Show At The Sphere, This Time Joined By Jack Black appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/11/08/news/celine-dion-was-back-on-air-bass-at-metallicas-latest-show-at-the-sphere-this-time-joined-by-jack-black/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Silly Goose Performed Live At A Denny’s Yesterday And Shot A New Music Video",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/11/08/news/silly-goose-performed-live-at-a-dennys-yesterday-and-shot-a-new-music-video/",
+    "timestamp": "2026-11-08T17:59:25+00:00",
+    "isoDate": "2026-11-08",
+    "date": "8 Nov",
+    "d": "The 'Goose Slam' was served. The post Silly Goose Performed Live At A Denny’s Yesterday And Shot A New Music Video appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/11/08/news/silly-goose-performed-live-at-a-dennys-yesterday-and-shot-a-new-music-video/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "John Tempesta Has Announced He Is No Longer A Member Of The Cult",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/11/08/news/john-tempesta-has-announced-he-is-no-longer-a-member-of-the-cult/",
+    "timestamp": "2026-11-08T17:40:29+00:00",
+    "isoDate": "2026-11-08",
+    "date": "8 Nov",
+    "d": "That would be the band. The post John Tempesta Has Announced He Is No Longer A Member Of The Cult appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/11/08/news/john-tempesta-has-announced-he-is-no-longer-a-member-of-the-cult/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "NICKELBACK's MIKE KROEGER: 'To Get Too Emotionally Involved In Politics Is A Real Fool's Errand. There's No Benefit To It.'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/nickelbacks-mike-kroeger-to-get-too-emotionally-involved-in-politics-is-a-real-fools-errand-theres-no-benefit-to-it",
+    "timestamp": "2026-11-08T17:36:05+00:00",
+    "isoDate": "2026-11-08",
+    "date": "8 Nov",
+    "d": "In a new interview with Metal Hammer Spain, NICKELBACK bassist Mike Kroeger, who founded the Canadian rock band in 1995 with his brother Chad, was asked how he views the current friction between Canada and the U.S., having lived in Los Angeles for nearly a decade. He said (as transcribed by BLABBERM...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/nickelbacks-mike-kroeger-to-get-too-emotionally-involved-in-politics-is-a-real-fools-errand-theres-no-benefit-to-it"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "News: The Royal They Reissue Debut Album on Vinyl, Release Music Video - New Noise Magazine",
+    "src": "New Noise Magazine",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObVZLOEZIcGM2QnVKT2ZscEk0cG9LSTFNOUNZVU1lQ0pIN1FCVl9yd2RZbnBVSkVpNTl2MC1EYjVQMG43ckhMOHhEY1Rmc2dBLTBBbjhETXpwaXM3YUNJenFrdzdPeDZBS1NPa2NpNWh1a2xLR0F1ZlJ6T2lkUm9RVUtOdTJaSWl5d3BxODRpYV96LVBnR2tMeTFxVnktbmc?oc=5",
+    "timestamp": "2026-11-08T19:47:25+00:00",
+    "isoDate": "2026-11-08",
+    "date": "8 Nov",
+    "d": "News: The Royal They Reissue Debut Album on Vinyl, Release Music Video New Noise Magazine",
+    "category": "general",
+    "sources": [
+      {
+        "name": "New Noise Magazine",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObVZLOEZIcGM2QnVKT2ZscEk0cG9LSTFNOUNZVU1lQ0pIN1FCVl9yd2RZbnBVSkVpNTl2MC1EYjVQMG43ckhMOHhEY1Rmc2dBLTBBbjhETXpwaXM3YUNJenFrdzdPeDZBS1NPa2NpNWh1a2xLR0F1ZlJ6T2lkUm9RVUtOdTJaSWl5d3BxODRpYV96LVBnR2tMeTFxVnktbmc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Dave Chappelle Jokes He “Feels Better” After Charlie Kirk Killing",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/11/dave-chappelle-charlie-kirk-joke/",
+    "timestamp": "2026-11-08T18:51:40+00:00",
+    "isoDate": "2026-11-08",
+    "date": "8 Nov",
+    "d": "The never-shy-of-controversy comedian joked about the right-wing influencer's killing at a Madison Square Garden show. Dave Chappelle Jokes He “Feels Better” After Charlie Kirk Killing Travis Bland",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/11/dave-chappelle-charlie-kirk-joke/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "The Edge Wrote An Elf Sequel That Wasn’t Made For Some Reason",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2517003/the-edge-wrote-an-elf-sequel-that-wasnt-made-for-some-reason/news/",
+    "timestamp": "2026-11-08T18:04:23+00:00",
+    "isoDate": "2026-11-08",
+    "date": "8 Nov",
+    "d": "The post The Edge Wrote An Elf Sequel That Wasn’t Made For Some Reason appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2517003/the-edge-wrote-an-elf-sequel-that-wasnt-made-for-some-reason/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "I tried playing the browser game 'Notice of Personal Information Leak,' which claims to completely protect personal information, but a large number of errors kept appearing and ignoring the warnings while the song of the",
+    "src": "GIGAZINE",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IM284aTZZQng1N3hja2hsdW55RXhGcHA4cXdVbzJJeHM4OVlnam5uRlphTGYxOUVjcDc4WlFkcG80eEVpYnI5aUVBWjBrcTQ2ZjZuZGxZdzJfUnhnUTY4?oc=5",
+    "timestamp": "2026-11-08T16:46:57+00:00",
+    "isoDate": "2026-11-08",
+    "date": "8 Nov",
+    "d": "I tried playing the browser game 'Notice of Personal Information Leak,' which claims to completely protect personal information, but a large number of errors kept appearing and ignoring the warnings while the song of the same name played. GIGAZINE",
+    "category": "general",
+    "sources": [
+      {
+        "name": "GIGAZINE",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IM284aTZZQng1N3hja2hsdW55RXhGcHA4cXdVbzJJeHM4OVlnam5uRlphTGYxOUVjcDc4WlFkcG80eEVpYnI5aUVBWjBrcTQ2ZjZuZGxZdzJfUnhnUTY4?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Brasileiros torcem por Portugal na Finalíssima frente à Argentina - Notícias ao Minuto",
+    "src": "Notícias ao Minuto",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFRESmhUeTVLY1d5QWFvTS1ueTdKSW0zaTZZc0xxblRBNUxPMzlsQkdSYnN6SEduLWg5MkdlekFuUlpzM3NaQnlDZHYwZGJkaWVlUGlHdy1UQWRiWDVhbVd2ZGVvU2VsbXYxVWdNYVhpd19jbHVHSVVQZ3Q5aUQ3UEVGMlp6clZkTnl0MmR1eWV2NXhwN0RwNzlGYUZUQ0g5UDVNZUcxRnFIcmNuRkludnVzZFdnUQ?oc=5",
+    "timestamp": "2026-11-08T18:07:00+00:00",
+    "isoDate": "2026-11-08",
+    "date": "8 Nov",
+    "d": "Brasileiros torcem por Portugal na Finalíssima frente à Argentina Notícias ao Minuto",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Notícias ao Minuto",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFRESmhUeTVLY1d5QWFvTS1ueTdKSW0zaTZZc0xxblRBNUxPMzlsQkdSYnN6SEduLWg5MkdlekFuUlpzM3NaQnlDZHYwZGJkaWVlUGlHdy1UQWRiWDVhbVd2ZGVvU2VsbXYxVWdNYVhpd19jbHVHSVVQZ3Q5aUQ3UEVGMlp6clZkTnl0MmR1eWV2NXhwN0RwNzlGYUZUQ0g5UDVNZUcxRnFIcmNuRkludnVzZFdnUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "ESCA2026: Jeff Satur atua no interval act do Festival Eurovisão Ásia 2026 - ESC PORTUGAL",
+    "src": "ESC PORTUGAL",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcjdMYllEdXc0QS1UOS1NS0FxZVkzLTc4ZGhIMFRnUlUxV0x3LWtGR0U5OGd4dXBEOEdVTXIydDU4a1lISzlGSFJxQ1UteTVtSmpSQklieThVbW1yY0NKRGdyV0pmclZSaTlpSlc3a3ROWXcwcGI4MkZYTTNHZnYtdjZ3?oc=5",
+    "timestamp": "2026-11-08T17:34:00+00:00",
+    "isoDate": "2026-11-08",
+    "date": "8 Nov",
+    "d": "ESCA2026: Jeff Satur atua no interval act do Festival Eurovisão Ásia 2026 ESC PORTUGAL",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "ESC PORTUGAL",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcjdMYllEdXc0QS1UOS1NS0FxZVkzLTc4ZGhIMFRnUlUxV0x3LWtGR0U5OGd4dXBEOEdVTXIydDU4a1lISzlGSFJxQ1UteTVtSmpSQklieThVbW1yY0NKRGdyV0pmclZSaTlpSlc3a3ROWXcwcGI4MkZYTTNHZnYtdjZ3?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Taylor Swift - Britannica",
+    "src": "Britannica",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9femZaalRhODBTZGdVT1NVdEh0ZUtfUjJUaUhZS01HdFlXQTJXSVJLUzNDZ185cmd4eTJzY1lRTHRfSUVKWkZwSjhNcFh6T2lla2pEYkFudWdVWXRTY2c?oc=5",
+    "timestamp": "2026-11-07T08:00:00+00:00",
+    "isoDate": "2026-11-07",
+    "date": "7 Nov",
+    "d": "Taylor Swift Britannica",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Britannica",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9femZaalRhODBTZGdVT1NVdEh0ZUtfUjJUaUhZS01HdFlXQTJXSVJLUzNDZ185cmd4eTJzY1lRTHRfSUVKWkZwSjhNcFh6T2lla2pEYkFudWdVWXRTY2c?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
   },
   {
     "title": "Julian Edelman and Rob Gronkowski released a music video, and it’s a must-watch - Boston.com",
@@ -3560,6 +3910,31 @@
     ],
     "status": "rumor",
     "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "'We don't take George Michael seriously enough' - BBC",
+    "src": "BBC",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RWFFSekZ4WGVSWlBfeng5Wkc3aE1XZ3I4RGtfQWREX3VSdjlXeGhDeFN0V3lfUkFxanRRaEswb3dTVDFyNE14M1pZZDR1Ym5TRDNnak4xeEhINFU?oc=5",
+    "timestamp": "2026-11-07T17:06:07+00:00",
+    "isoDate": "2026-11-07",
+    "date": "7 Nov",
+    "d": "'We don't take George Michael seriously enough' BBC",
+    "category": "general",
+    "sources": [
+      {
+        "name": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RWFFSekZ4WGVSWlBfeng5Wkc3aE1XZ3I4RGtfQWREX3VSdjlXeGhDeFN0V3lfUkFxanRRaEswb3dTVDFyNE14M1pZZDR1Ym5TRDNnak4xeEhINFU?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
     "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
@@ -10841,6 +11216,31 @@
       {
         "name": "Far Out Magazine",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTGJxU3B3NzZXZzZNU2l3Y3lfQ2NuTG1wb3k3LXFyS0lsVzk0OHZpcjdYLTh0OEFHcHFRR2dwaVViNmxQa1VsVFBvNEhodFd2VDFRaHVlaXFCVENYd1BfYk5HbW05eEliTUJSNmRpa3NHVGVqbHlJaXYyVG1XU2J6VlU3eXJpTEdGZXc?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Daft Punk Reportedly Rejects GTA 6; 34-Track Album [2026] - shattered.io",
+    "src": "shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mOGJSb2RZalJQSG1hWVNRM1hXeml0Q19YQlZHMlUzSjM5aTJieEl2QXA0bDlaUEZfUmgwQjBzVzZzdGozc0ZvRG5EQVRnZUxLekNiQjZwSmlabnhDZWVlNC05SDVUT2hUbV96bjZTYXZ5bVpyR3lucGpB?oc=5",
+    "timestamp": "2026-11-06T18:44:35+00:00",
+    "isoDate": "2026-11-06",
+    "date": "6 Nov",
+    "d": "Daft Punk Reportedly Rejects GTA 6; 34-Track Album [2026] shattered.io",
+    "category": "general",
+    "sources": [
+      {
+        "name": "shattered.io",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mOGJSb2RZalJQSG1hWVNRM1hXeml0Q19YQlZHMlUzSjM5aTJieEl2QXA0bDlaUEZfUmgwQjBzVzZzdGozc0ZvRG5EQVRnZUxLekNiQjZwSmlabnhDZWVlNC05SDVUT2hUbV96bjZTYXZ5bVpyR3lucGpB?oc=5"
       }
     ],
     "status": "rumor",
@@ -22792,7 +23192,7 @@
     "title": "The 25 best bands that feature multiple-guitars - Yardbarker",
     "src": "Yardbarker",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc1o1aTRTWHdHc25XZDdFNjB4WXhfN1B2V254SEdwWWZTMmk2ME04TFNKUzVXVFdXekFzWVJVX19Xa1ZfV1kydGdGR1Zld1Rtd2EtTDNfNWxxb2RpeW9sb0lTZDZpU2pQVFc5YW5EOTNTdmcxV0ptRW8xZlpXbFFPUEJkM05qNWx2R1FxdmJjU1haTUNBcU9HWmZjTjM?oc=5",
-    "timestamp": "2026-11-04T21:28:56+00:00",
+    "timestamp": "2026-11-04T17:47:11+00:00",
     "isoDate": "2026-11-04",
     "date": "4 Nov",
     "d": "The 25 best bands that feature multiple-guitars Yardbarker",
@@ -22937,6 +23337,56 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Grammy-nominated hardcore legends HATEBREED share music video for “Decisions Become Destinies” - https://rocknloadmag.com/",
+    "src": "https://rocknloadmag.com/",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRGhCNi1qVGVwNFlXeUNvNEJwTnBGWWZhWWQ0YnBKNHlSaG51bUE5cXpaM19Jb3M3LUtCaUZVMzRQSWRQUE56dkJSY1pTa0ItUkFqTGRuYy12al9jRk80NXFJc00yOVUxUjFocjZCd2VNTVhJV04yQ2s5MXh5WTMtSjVZRUxkeTM5QUpBVFJQUVZoTlpGT2RGM21GUzZITHZyQjdlbGZ4UndDLWwtamtCNWVSYVFkbkxWNnc?oc=5",
+    "timestamp": "2026-11-04T21:10:32+00:00",
+    "isoDate": "2026-11-04",
+    "date": "4 Nov",
+    "d": "Grammy-nominated hardcore legends HATEBREED share music video for “Decisions Become Destinies” https://rocknloadmag.com/",
+    "category": "core",
+    "sources": [
+      {
+        "name": "https://rocknloadmag.com/",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRGhCNi1qVGVwNFlXeUNvNEJwTnBGWWZhWWQ0YnBKNHlSaG51bUE5cXpaM19Jb3M3LUtCaUZVMzRQSWRQUE56dkJSY1pTa0ItUkFqTGRuYy12al9jRk80NXFJc00yOVUxUjFocjZCd2VNTVhJV04yQ2s5MXh5WTMtSjVZRUxkeTM5QUpBVFJQUVZoTlpGT2RGM21GUzZITHZyQjdlbGZ4UndDLWwtamtCNWVSYVFkbkxWNnc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "7 Times Heavy Metal and Wrestling Rocked Together - Pro Wrestling Stories",
+    "src": "Pro Wrestling Stories",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbS0yQkFBMjZPbjZLM21CdGhlaEFPZURfR1NrRjd6cWJjOG91em5ONjJReG5UUnFPb1E5czVJc2FPVWhnTjdLQjRveFpQdHdlVVlUSW1nNE44N0F2Yi16ZDFKcENrM29kMGl2ZVVnTk02c1pFNnMwVHVYVjFnejJhem13?oc=5",
+    "timestamp": "2026-11-04T01:39:54+00:00",
+    "isoDate": "2026-11-04",
+    "date": "4 Nov",
+    "d": "7 Times Heavy Metal and Wrestling Rocked Together Pro Wrestling Stories",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Pro Wrestling Stories",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbS0yQkFBMjZPbjZLM21CdGhlaEFPZURfR1NrRjd6cWJjOG91em5ONjJReG5UUnFPb1E5czVJc2FPVWhnTjdLQjRveFpQdHdlVVlUSW1nNE44N0F2Yi16ZDFKcENrM29kMGl2ZVVnTk02c1pFNnMwVHVYVjFnejJhem13?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
   },
   {
     "title": "Mastodon Moves to Dismiss Key Claims in Brent Hinds Estate Lawsuit",
@@ -28424,6 +28874,31 @@
       {
         "name": "Dying Scene",
         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd0lMaHk3LXBjTEg4a0hWenZfbVR6R2N5b3Y3NXA4d0xRM2hYS2JDQ1JNRzF6bWFSSEVIWm5sNVpyaG9OU0NhbGpVeTdiU1ZRYldjSzhPZXBNR05ndmdsVGZpYldsM3RJZy00MWF4b3RqRkhpRjN6eHRzOThTdk8zNWtZUFI?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Review: Skitsystem, 'Profithysteri' 7” reissue (Not Enough Records, 2026) - No Echo",
+    "src": "No Echo",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSzB2U1JDMTdyb0F3SlFlVEJHZk9rVW01b0U0WlJpOXRmMWhDdWQxSDdMV1hieDhFVWlfVzBQa3l5cHJJcWE1ZGw0Vm50RHpMYTQxM2hDUlcyNnNYRFFpOFdURmJkaWVOU0c2VnhsQ21laC1pX2VZNXVkOWYtcjBoQW1NaTBnanFabGoycg?oc=5",
+    "timestamp": "2026-11-03T08:00:00+00:00",
+    "isoDate": "2026-11-03",
+    "date": "3 Nov",
+    "d": "Review: Skitsystem, 'Profithysteri' 7” reissue (Not Enough Records, 2026) No Echo",
+    "category": "core",
+    "sources": [
+      {
+        "name": "No Echo",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSzB2U1JDMTdyb0F3SlFlVEJHZk9rVW01b0U0WlJpOXRmMWhDdWQxSDdMV1hieDhFVWlfVzBQa3l5cHJJcWE1ZGw0Vm50RHpMYTQxM2hDUlcyNnNYRFFpOFdURmJkaWVOU0c2VnhsQ21laC1pX2VZNXVkOWYtcjBoQW1NaTBnanFabGoycg?oc=5"
       }
     ],
     "status": "official",
