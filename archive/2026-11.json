@@ -212,10 +212,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -859,10 +859,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -934,10 +934,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -1409,10 +1409,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1484,10 +1484,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1934,10 +1934,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -2230,7 +2230,7 @@
     "title": "Hear LORNA SHORE’s WILL RAMOS join BULLET FOR MY VALENTINE on new song “I Don’t Trust Tomorrow”",
     "src": "Revolver",
     "url": "https://www.revolvermag.com/music/hear-lorna-shores-will-ramos-join-bullet-for-my-valentine-on-new-song-i-dont-trust-tomorrow/",
-    "timestamp": "2026-11-12T16:12:28+00:00",
+    "timestamp": "2026-11-12T02:00:00+00:00",
     "isoDate": "2026-11-12",
     "date": "12 Nov",
     "d": "“It’s about the fear of an uncertain future”",
@@ -2244,10 +2244,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -3605,7 +3605,7 @@
     "title": "Morgan Wallen Announces Last Time I Checked Tour 2027: See The Full List Of Dates And How To Buy Tickets - Music Mayhem",
     "src": "Music Mayhem",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbXFDTm83S0R6X0w5N0FuVC0tdV9Fd09YWE52UXFyTElaZm1KOGxjSmhjYlppQTFxQ2NEYU9nMVkzRUZCa2JHOW9oRl9Wc1F4VUZfQVVXZUMzYzdiYjlGQlBSdFlBN0k0UFk4cVZhOUJYRTloaWNWODhrWFp4a0xiZG16ekNwSnJXLWRzMmZkNDZxbW1VX2FFLWxkQTFoZEsyakVxcHkwbHRGNmdsWDZITGlCVmpzb1BkOXV6QmRlWVFZQmx4c1laa25TeTQ2bVE3WUE?oc=5",
-    "timestamp": "2026-11-12T14:17:23+00:00",
+    "timestamp": "2026-11-12T16:39:55+00:00",
     "isoDate": "2026-11-12",
     "date": "12 Nov",
     "d": "Morgan Wallen Announces Last Time I Checked Tour 2027: See The Full List Of Dates And How To Buy Tickets Music Mayhem",
@@ -3630,7 +3630,7 @@
     "title": "Morgan Wallen’s Last Time I Checked Tour is coming to Buffalo on July 23 and 24, 2027 - Buffalo Bills",
     "src": "Buffalo Bills",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVkJBS3R1WmFfMFFfRTRnSFFhMHlTWUZ0aTk3c1FTdkJEcGtzYVZmWjNuLVptWTNkYWRmVU93UUVzYkJyWTJ2V3h1cjFGM1pSR0REaWVWcEpHcldnVjVhbW53X1lDVXlLcml3eWpZVjNOY29Zclh6R2JlMEtMNUxMaGctcDVLbmhudmdkbWh0UTRmbUdUZk01VjRoRWp6RkE5aWtsYW5R?oc=5",
-    "timestamp": "2026-11-12T14:02:47+00:00",
+    "timestamp": "2026-11-12T14:12:03+00:00",
     "isoDate": "2026-11-12",
     "date": "12 Nov",
     "d": "Morgan Wallen’s Last Time I Checked Tour is coming to Buffalo on July 23 and 24, 2027 Buffalo Bills",
@@ -3740,6 +3740,916 @@
     "releaseKey": "artificial brain|antillia review",
     "kind": "review",
     "section": "rev"
+  },
+  {
+    "b": "The Mosaic Window",
+    "t": "Answered Prayers",
+    "g": "death",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "12 Nov",
+    "isoDate": "2026-11-12",
+    "url": "https://alterportal.net/2026_albums/190830-the-mosaic-window-answered-prayers-2026.html",
+    "d": "Melodic Black Metal / Death Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190830-the-mosaic-window-answered-prayers-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Serpent (SE)",
+    "t": "The Pit and the Pendulum",
+    "g": "death",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "12 Nov",
+    "isoDate": "2026-11-12",
+    "url": "https://alterportal.net/2026_albums/190832-serpent-the-pit-and-the-pendulum-2026.html",
+    "d": "Melodic Death Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190832-serpent-the-pit-and-the-pendulum-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Fading Light",
+    "t": "The Spell of a New Dawn",
+    "g": "death",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "12 Nov",
+    "isoDate": "2026-11-12",
+    "url": "https://alterportal.net/2026_albums/190831-fading-light-the-spell-of-a-new-dawn-2026.html",
+    "d": "Symphonic Black Metal / Melodic Death Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190831-fading-light-the-spell-of-a-new-dawn-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "Avatar Land Zakk Wylde Cameo For Their New Christmas Track “Naughty List”",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/11/12/news/avatar-land-zakk-wylde-cameo-for-their-new-christmas-track-naughty-list/",
+    "timestamp": "2026-11-12T19:23:50+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "Well, it is officially that time of year. The post Avatar Land Zakk Wylde Cameo For Their New Christmas Track “Naughty List” appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/11/12/news/avatar-land-zakk-wylde-cameo-for-their-new-christmas-track-naughty-list/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Filth Is Eternal Reunited With Their Tour Van That Was Stolen Last Month, Arrests Made",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/11/12/news/filth-is-eternal-reunited-with-their-tour-van-that-was-stolen-last-month-arrests-made/",
+    "timestamp": "2026-11-12T19:14:01+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "That van was stolen from them roughly two weeks ago. The post Filth Is Eternal Reunited With Their Tour Van That Was Stolen Last Month, Arrests Made appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/11/12/news/filth-is-eternal-reunited-with-their-tour-van-that-was-stolen-last-month-arrests-made/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "NATE BERGMAN KICKS OFF FRESH HARDCORE/AMERICANA ERA WITH NEW SINGLE “THE BUTCHER” - https://rocknloadmag.com/",
+    "src": "https://rocknloadmag.com/",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNek1oTDVxaGI0X1Q0WE1DYzhoR1k4WS1lTk5zbFI3d0JGRWt6eVZ1WXVkRFVDb1hSSERwUzhIUk9hVzM2SU5hZ1VGZnlJc1ZIaXY0ejdJRlBXekpUdVRqcTl2Q1V1cTBQQnZLUF9Ub1VZSU9WX0hxbzlKejRxcnZOblBWcGZBS1RKOUhISUhHZjBCbGt5WnVhY1ZaRHl3dF96V0hsNjIzVnk?oc=5",
+    "timestamp": "2026-11-12T19:02:57+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "NATE BERGMAN KICKS OFF FRESH HARDCORE/AMERICANA ERA WITH NEW SINGLE “THE BUTCHER” https://rocknloadmag.com/",
+    "category": "core",
+    "sources": [
+      {
+        "name": "https://rocknloadmag.com/",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNek1oTDVxaGI0X1Q0WE1DYzhoR1k4WS1lTk5zbFI3d0JGRWt6eVZ1WXVkRFVDb1hSSERwUzhIUk9hVzM2SU5hZ1VGZnlJc1ZIaXY0ejdJRlBXekpUdVRqcTl2Q1V1cTBQQnZLUF9Ub1VZSU9WX0hxbzlKejRxcnZOblBWcGZBS1RKOUhISUhHZjBCbGt5WnVhY1ZaRHl3dF96V0hsNjIzVnk?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Survivalist’s “House Of Hate” Music Video Debuts Just Ahead Of Their New EP",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/11/12/news/survivalists-house-of-hate-music-video-debuts-just-ahead-of-their-new-ep/",
+    "timestamp": "2026-11-12T18:54:08+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "\"Four Nails\" will be out tomorrow, November 13th. The post Survivalist’s “House Of Hate” Music Video Debuts Just Ahead Of Their New EP appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/11/12/news/survivalists-house-of-hate-music-video-debuts-just-ahead-of-their-new-ep/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Haywire To Perform In A Cornfield At 2027 ‘Hinterland’ Festival In Iowa",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/11/12/news/haywire-to-perform-in-a-cornfield-at-2027-hinterland-festival-in-iowa/",
+    "timestamp": "2026-11-12T18:43:32+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "Slayyyter, Phoebe Bridgers and Billy Strings will headline. The post Haywire To Perform In A Cornfield At 2027 ‘Hinterland’ Festival In Iowa appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/11/12/news/haywire-to-perform-in-a-cornfield-at-2027-hinterland-festival-in-iowa/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "QUICKSAND Announces 'Apple Music Sessions', Live Two-Song Release Recorded On 'The Zane Lowe Show'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/quicksand-announces-apple-music-sessions-live-two-song-release-recorded-on-the-zane-lowe-show",
+    "timestamp": "2026-11-12T18:40:39+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "Iconic New York City post-hardcore band QUICKSAND presents \"Apple Music Sessions\", its brand new, live, two-song release recorded on \"The Zane Lowe Show\". Captured at Apple Music's Los Angeles studio, the band performs \"Get To It\" from its critically acclaimed new album, \"Bring On The Psychics\", and...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/quicksand-announces-apple-music-sessions-live-two-song-release-recorded-on-the-zane-lowe-show"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Foreign Hands’ “The Promise Of Garnet Eyes” Debuts Online",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/11/12/news/foreign-hands-the-promise-of-garnet-eyes-debuts-online/",
+    "timestamp": "2026-11-12T18:26:34+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "They'll also be touring this December. The post Foreign Hands’ “The Promise Of Garnet Eyes” Debuts Online appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/11/12/news/foreign-hands-the-promise-of-garnet-eyes-debuts-online/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "QUEENS OF THE STONE AGE Share Music Video For 'From The Cliff' From 'Perfecth' Album",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/queens-of-the-stone-age-share-music-video-for-from-the-cliff-from-perfecth-album",
+    "timestamp": "2026-11-12T18:26:01+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "QUEENS OF THE STONE AGE have released the official video for \"From The Cliff\", a song from their ninth studio album, \"Perfecth\", which came out on October 30. For Josh Homme, who has always found it easier to write about pain, melancholy, or anger, \"From The Cliff\" represents an intentional effort t...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/queens-of-the-stone-age-share-music-video-for-from-the-cliff-from-perfecth-album"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch: Queens Of The Stone Age Drops NSFW New Video for \"From The Cliff\"",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/watch-queens-of-the-stone-age-drops-nsfw-new-video-for-from-the-cliff",
+    "timestamp": "2026-11-12T18:24:33+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "Just days after the release of their ninth record Perfecth, Queens Of The Stone Age have delivered a sexy and relatively NSFW video for their track \"From The Cliff.\" Dig […] The post Watch: Queens Of The Stone Age Drops NSFW New Video for \"From The Cliff\" appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/watch-queens-of-the-stone-age-drops-nsfw-new-video-for-from-the-cliff"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Ahren Stringer (Ex-The Amity Affliction) Teases His New Deathcore Band Funerals",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/11/12/news/ahren-stringer-ex-the-amity-affliction-teases-his-new-deathcore-band-funerals/",
+    "timestamp": "2026-11-12T18:12:30+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "A member of Dreamcult joins him in that outfit. The post Ahren Stringer (Ex-The Amity Affliction) Teases His New Deathcore Band Funerals appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/11/12/news/ahren-stringer-ex-the-amity-affliction-teases-his-new-deathcore-band-funerals/"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "medium",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Decibel Magazine Reveal Their ‘Top 40 Albums Of 2026’",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/11/12/news/decibel-magazine-reveal-their-top-40-albums-of-2026/",
+    "timestamp": "2026-11-12T17:43:27+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "List season is once again upon us. The post Decibel Magazine Reveal Their ‘Top 40 Albums Of 2026’ appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/11/12/news/decibel-magazine-reveal-their-top-40-albums-of-2026/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Deftones Announce 2027 North American Tour With Knocked Loose and Julie",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/tour-dates/deftones-2027-tour-dates-knocked-loose-julie",
+    "timestamp": "2026-11-12T15:09:06+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "Heavy and melody join together. The post Deftones Announce 2027 North American Tour With Knocked Loose and Julie appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/tour-dates/deftones-2027-tour-dates-knocked-loose-julie"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Listen: Bullet For My Valentine Enlist Will Ramos On \"I Don't Trust Tomorrow\"",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/new-music/bullet-for-my-valentine-i-dont-trust-tomorrow-will-ramos",
+    "timestamp": "2026-11-12T14:56:06+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "Check out what the band are hailing their heaviest song yet. The post Listen: Bullet For My Valentine Enlist Will Ramos On \"I Don't Trust Tomorrow\" appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/new-music/bullet-for-my-valentine-i-dont-trust-tomorrow-will-ramos"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Casio launches metal-clad G-Shock GM-6900XG-8 collab watch featuring a translucent band - Gizmochina",
+    "src": "Gizmochina",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaTF2eVBHdDd0ekd5QmhhR29MT0pqRjAwSEw4bktIVEZERU5OalVxQVQ5YURySm9HNExveS12aWprNHF3R205NHVFZXJGV0FVRzdFdFhQa2QzQjdVZ3ltM2EtN0NtVGNvVDJBM1dwMWRMa2JKNXhQdDRLQml4S1FaZWo1a0twSEs2amY4WXFvWVhwUG5wTDA5RE1Kb0huckU5VXlhV1ZtUWw?oc=5",
+    "timestamp": "2026-11-12T13:57:29+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "Casio launches metal-clad G-Shock GM-6900XG-8 collab watch featuring a translucent band Gizmochina",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Gizmochina",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaTF2eVBHdDd0ekd5QmhhR29MT0pqRjAwSEw4bktIVEZERU5OalVxQVQ5YURySm9HNExveS12aWprNHF3R205NHVFZXJGV0FVRzdFdFhQa2QzQjdVZ3ltM2EtN0NtVGNvVDJBM1dwMWRMa2JKNXhQdDRLQml4S1FaZWo1a0twSEs2amY4WXFvWVhwUG5wTDA5RE1Kb0huckU5VXlhV1ZtUWw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Review: Nomad Titanium Link Band for Apple Watch - AppleInsider",
+    "src": "AppleInsider",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM1dIUXBjMXljTGlLSGtfbzNQeC1IQTBGR3pKUDhfNFk4VkRPQTZfLWlPS0RUMHZZbzdmTXlXUlpVNlB3WGY1WU91SS1GbV90eUhxeHF4QjNTSWVoZEEwMG83ejVVR1ZIcVhKTHRKRDVNTzFXN3NBb2pOM2FsMk8yV3pBaTlTalhrSW1v?oc=5",
+    "timestamp": "2026-11-12T03:55:57+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "Review: Nomad Titanium Link Band for Apple Watch AppleInsider",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "AppleInsider",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM1dIUXBjMXljTGlLSGtfbzNQeC1IQTBGR3pKUDhfNFk4VkRPQTZfLWlPS0RUMHZZbzdmTXlXUlpVNlB3WGY1WU91SS1GbV90eUhxeHF4QjNTSWVoZEEwMG83ejVVR1ZIcVhKTHRKRDVNTzFXN3NBb2pOM2FsMk8yV3pBaTlTalhrSW1v?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Eminem celebrates ‘Infinite EP’ with 30th anniversary release - The Music Universe",
+    "src": "The Music Universe",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNODJLZ2RQaGk1dFBxZjhzNUM5TXM1M05FbnJyX01KZTkxb05mUl8ydzg0V0VITklIQm5ZZkNQRVN5TjhZQ29ROHRxNktNcG5PMnktTkJ3S19GSElwZHQ4YWszd3pqNW55NE1WLTc5T2V3OEwwOWtVN2dpc05LOWF5RThndUR2X2wwMl9ncE9uLUw0cFU?oc=5",
+    "timestamp": "2026-11-12T19:15:10+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "Eminem celebrates ‘Infinite EP’ with 30th anniversary release The Music Universe",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Music Universe",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNODJLZ2RQaGk1dFBxZjhzNUM5TXM1M05FbnJyX01KZTkxb05mUl8ydzg0V0VITklIQm5ZZkNQRVN5TjhZQ29ROHRxNktNcG5PMnktTkJ3S19GSElwZHQ4YWszd3pqNW55NE1WLTc5T2V3OEwwOWtVN2dpc05LOWF5RThndUR2X2wwMl9ncE9uLUw0cFU?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Make Them Suffer release new music video for ‘Black Sheep’ - Distorted Sound Magazine -",
+    "src": "Distorted Sound Magazine -",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdFZDMG9VTENQY205ZENWZ3pKbXA5N0xZWTY2Z3dsZkRSdHJiVlRPRURwMHJzMUhKb1JvU0hYWHdxRFZMY2YzcGpSc29EdWFkV1p1a3BSZ2lZN25OZDA3MXRzek9OUWU3S09aY3pwdmt6Nm5uT2wzNG1sd3huVXFkdzV3UXZkaklBMHNkVFpHZmI?oc=5",
+    "timestamp": "2026-11-12T19:11:32+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "Make Them Suffer release new music video for ‘Black Sheep’ Distorted Sound Magazine -",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Distorted Sound Magazine -",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdFZDMG9VTENQY205ZENWZ3pKbXA5N0xZWTY2Z3dsZkRSdHJiVlRPRURwMHJzMUhKb1JvU0hYWHdxRFZMY2YzcGpSc29EdWFkV1p1a3BSZ2lZN25OZDA3MXRzek9OUWU3S09aY3pwdmt6Nm5uT2wzNG1sd3huVXFkdzV3UXZkaklBMHNkVFpHZmI?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Alexisonfire Announce New Album, Unleash Single “Push the River”: Stream",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/11/alexisonfire-new-album-unleash-push-the-river/",
+    "timestamp": "2026-11-12T19:00:02+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "Bleed It, their second LP since re-forming in 2015, will be out March 19th. Alexisonfire Announce New Album, Unleash Single “Push the River”: Stream Langdon Hickman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/11/alexisonfire-new-album-unleash-push-the-river/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Riho Sayashi on the Strength of ‘Not Pushing Too Hard,’ Learned After Walking Away from Idol Stardom at 17: Billboard Japan Women in Music Interview - Billboard",
+    "src": "Billboard",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeUZlQ3BSazRXV3F5NFU4WkZaYVM5TUhmVXk0ZzNvTEdUblQtVzdXN1FpM0lvWWhhSktMa0Y5dGpTMXpreU5KU3U5Uy1kczRGMXQ2Z0JNWXpnLXhWM2pPRExQc0ZQc0gyeV9Tdk9kY2lLZkRxczBwME90WWdrZEZaVlJmaWVyOU51Qm4wbE8tUlFHT0ZPZnAyaThQNjlVUU5qNE5DVVZ6Nmc0ckpD?oc=5",
+    "timestamp": "2026-11-12T18:35:20+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "Riho Sayashi on the Strength of ‘Not Pushing Too Hard,’ Learned After Walking Away from Idol Stardom at 17: Billboard Japan Women in Music Interview Billboard",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Billboard",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeUZlQ3BSazRXV3F5NFU4WkZaYVM5TUhmVXk0ZzNvTEdUblQtVzdXN1FpM0lvWWhhSktMa0Y5dGpTMXpreU5KU3U5Uy1kczRGMXQ2Z0JNWXpnLXhWM2pPRExQc0ZQc0gyeV9Tdk9kY2lLZkRxczBwME90WWdrZEZaVlJmaWVyOU51Qm4wbE8tUlFHT0ZPZnAyaThQNjlVUU5qNE5DVVZ6Nmc0ckpD?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Mass Text Announce New Album Perfect New Knife: Hear “Pink Slips”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2517757/mass-text-announce-new-album-perfect-new-knife-hear-pink-slips/music/",
+    "timestamp": "2026-11-12T18:33:36+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "The post Mass Text Announce New Album <em>Perfect New Knife</em>: Hear “Pink Slips” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2517757/mass-text-announce-new-album-perfect-new-knife-hear-pink-slips/music/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Letterkenny Cast Announces 2027 North American Tour",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/11/letterkenny-live-2027-tour-dates/",
+    "timestamp": "2026-11-12T18:33:16+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "The February and March run will feature never-before-seen sketches and material. Letterkenny Cast Announces 2027 North American Tour Eddie Fu",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/11/letterkenny-live-2027-tour-dates/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "New 750-Cap Venue Domino to Open on Brooklyn Waterfront in 2027",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/11/domino-venue-brooklyn-williamsburg-waterfront/",
+    "timestamp": "2026-11-12T18:22:14+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "The venue will be built and operated by Mumford & Sons founder Ben Lovett's tvg Hospitality in partnership with Emerson Hospitality. New 750-Cap Venue Domino to Open on Brooklyn Waterfront in 2027 Eddie Fu",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/11/domino-venue-brooklyn-williamsburg-waterfront/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Russell Brand’s Pubic Hair Removed from London Museum",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/11/russell-brands-pubic-hair-removed-from-london-museum/",
+    "timestamp": "2026-11-12T18:17:43+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "The proprietor of the curiosities museum explained, \"My museum is full of disgusting things but even I have limits.” Russell Brand’s Pubic Hair Removed from London Museum Wren Graves",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/11/russell-brands-pubic-hair-removed-from-london-museum/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Michael Rapaport Cosigns “Dope New Group” Yeah Yeah Yeahs, Karen O Shares New Solo Song “Soft Machine”",
+    "src": "Stereogum",
+    "url": "https://stereogum.com/2517760/michael-rapaport-cosigns-dope-new-group-yeah-yeah-yeahs-karen-o-shares-new-solo-song-soft-machine/news/",
+    "timestamp": "2026-11-12T18:09:24+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "The post Michael Rapaport Cosigns “Dope New Group” Yeah Yeah Yeahs, Karen O Shares New Solo Song “Soft Machine” appeared first on Stereogum .",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Stereogum",
+        "url": "https://stereogum.com/2517760/michael-rapaport-cosigns-dope-new-group-yeah-yeah-yeahs-karen-o-shares-new-solo-song-soft-machine/news/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Jimmy Page Is Done with Touring But Is “Still Playing” Guitar",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/11/jimmy-page-no-more-tours-still-plays-guitar/",
+    "timestamp": "2026-11-12T18:09:09+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "The legendary Led Zeppelin guitarist has also released a new collector's signature amp. Jimmy Page Is Done with Touring But Is “Still Playing” Guitar Langdon Hickman",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/11/jimmy-page-no-more-tours-still-plays-guitar/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "WEEKEND FUN: “Les Mis” School Edition, Live Music, Tour Historic House, Armenian Religious Art, and Mindfulness Walk - watertownmanews.com",
+    "src": "watertownmanews.com",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUUlQUW1hVVJybnM4cEhicWduVTExOFBKMy1BLUtpcXE4TnUwR0xyaXFCRDdHd0YySlhIUHZuMVhDeTNyMWh0TXMybDRVSkJfOEdLYTRKWWZjd0NBbVF1NXlVcGhhd1VXM1BrV00tYVEzVG9zb1RmQk9XX0JNeWR6cTVZM2tidmtWYkVSb2xPWlU4TjhSVUdGYUFCYjhLNU9GQ0tzQlJ0dDc5cEtBOVd3b0dmSEF1cktWazVhcnRxRmhKbjFMX1NCMklBU0JZN0RlRmYwUE1kN042cm9CX0ptWHR6UQ?oc=5",
+    "timestamp": "2026-11-12T18:01:45+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "WEEKEND FUN: “Les Mis” School Edition, Live Music, Tour Historic House, Armenian Religious Art, and Mindfulness Walk watertownmanews.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "watertownmanews.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUUlQUW1hVVJybnM4cEhicWduVTExOFBKMy1BLUtpcXE4TnUwR0xyaXFCRDdHd0YySlhIUHZuMVhDeTNyMWh0TXMybDRVSkJfOEdLYTRKWWZjd0NBbVF1NXlVcGhhd1VXM1BrV00tYVEzVG9zb1RmQk9XX0JNeWR6cTVZM2tidmtWYkVSb2xPWlU4TjhSVUdGYUFCYjhLNU9GQ0tzQlJ0dDc5cEtBOVd3b0dmSEF1cktWazVhcnRxRmhKbjFMX1NCMklBU0JZN0RlRmYwUE1kN042cm9CX0ptWHR6UQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Robyn Makes Tiny Desk Concert Debut: Watch",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/11/robyn-tiny-desk-concert-watch/",
+    "timestamp": "2026-11-12T17:59:08+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "Robyn dusted off \"Ever Again\" and her breakout hit \"Show Me Love,\" plus new songs \"Light Up\" and \"Sucker for Love.\" Robyn Makes Tiny Desk Concert Debut: Watch Paolo Ragusa",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/11/robyn-tiny-desk-concert-watch/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Star Wars 50th Anniversary Release Will Include New Music from John Williams - Polygon.com",
+    "src": "Polygon.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVW9yUHFGelgtVFJxcVN0ei1GTkJuZWpRcU1fSm5wZUtPaXRVQ2JmWG0tUHRYRlVLTWVrczdpT1NvcTBRRVBqN1FiMkZGSXdLZTd1YjlRbDV6VGo4dFpxZkdjbEpTSUlYV1pQQVp3cmhzQlhreHlYMEtCcGppNDRnLXBaMl9xMF9pS3M4?oc=5",
+    "timestamp": "2026-11-12T17:53:01+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "Star Wars 50th Anniversary Release Will Include New Music from John Williams Polygon.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Polygon.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVW9yUHFGelgtVFJxcVN0ei1GTkJuZWpRcU1fSm5wZUtPaXRVQ2JmWG0tUHRYRlVLTWVrczdpT1NvcTBRRVBqN1FiMkZGSXdLZTd1YjlRbDV6VGo4dFpxZkdjbEpTSUlYV1pQQVp3cmhzQlhreHlYMEtCcGppNDRnLXBaMl9xMF9pS3M4?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Sam Fender Announces Spring 2027 North American Tour",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/11/sam-fender-spring-2027-north-american-tour/",
+    "timestamp": "2026-11-12T17:45:13+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "The 10-date run will see the Mercury Prize winner hit major stages like Radio City Music Hall and Red Rocks Amphitheatre. Sam Fender Announces Spring 2027 North American Tour Ben Kaye",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/11/sam-fender-spring-2027-north-american-tour/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Sam Fender plots 2027 North American tour - The Music Universe",
+    "src": "The Music Universe",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02RjFwYk5ELWpiNWVTWGp4QnBNR2hTb2VGYkxpQ01ZV1M4N0puLVo3bm5mX0l3bUEwb285YUtOM3BoSmFmUWVydXFkWWxLdkhydGhPeXVPT2JRRDlhbHI1YXRPZUgyY19ZcDgxYXlwTE0xZjhWRGJKM1FtQQ?oc=5",
+    "timestamp": "2026-11-12T17:41:14+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "Sam Fender plots 2027 North American tour The Music Universe",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Music Universe",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02RjFwYk5ELWpiNWVTWGp4QnBNR2hTb2VGYkxpQ01ZV1M4N0puLVo3bm5mX0l3bUEwb285YUtOM3BoSmFmUWVydXFkWWxLdkhydGhPeXVPT2JRRDlhbHI1YXRPZUgyY19ZcDgxYXlwTE0xZjhWRGJKM1FtQQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Phoebe Bridgers Extends Tour Into 2027",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/phoebe-bridgers-extends-tour-into-2027/",
+    "timestamp": "2026-11-12T17:40:34+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/phoebe-bridgers-extends-tour-into-2027/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Eminem’s Debut Release ‘Infinite’ Now Streaming for 30th Anniversary - Rolling Stone",
+    "src": "Rolling Stone",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXRtYm1ZVGlxLXdTZ3lFUUhGMVgyMjdUT0k3VjNLVURUMzhzM3ZXVy1hWkh3TGhPWFdWNmRTV3dsalRGNnJ3TmlmZEdfcm1OMGJsTGRXa0xYcVRDaDYxSzZnZW9iS0Ftd0FENnRna1FGa0lOdEdRQlVGd0hQQ0JPV25DQ29JcEE4MmdHSlV5VVp3QWVyS1h0Tg?oc=5",
+    "timestamp": "2026-11-12T17:33:16+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "Eminem’s Debut Release ‘Infinite’ Now Streaming for 30th Anniversary Rolling Stone",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Rolling Stone",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXRtYm1ZVGlxLXdTZ3lFUUhGMVgyMjdUT0k3VjNLVURUMzhzM3ZXVy1hWkh3TGhPWFdWNmRTV3dsalRGNnJ3TmlmZEdfcm1OMGJsTGRXa0xYcVRDaDYxSzZnZW9iS0Ftd0FENnRna1FGa0lOdEdRQlVGd0hQQ0JPV25DQ29JcEE4MmdHSlV5VVp3QWVyS1h0Tg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Organ Fairchild and Hayley Jane Band Plan 4 Show December Tour - NYS Music",
+    "src": "NYS Music",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORV84US1aVnE0NVhMRUlPZkhMaVRvNld3VVBUeGNZYUtYQ283bW5XNGIxWE9zbmExQVVwVnZMdmFPNVF4WDZNdmlmemlWdV8xYUVYSl9HYkxaSnBFLUg2VzZyQ3dFLU50V1dFcExNQ0VYWTctcXhZdFBNN1JoM1ZLcUJQZ3VxakhrTHRJ?oc=5",
+    "timestamp": "2026-11-12T12:47:00+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "Organ Fairchild and Hayley Jane Band Plan 4 Show December Tour NYS Music",
+    "category": "general",
+    "sources": [
+      {
+        "name": "NYS Music",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORV84US1aVnE0NVhMRUlPZkhMaVRvNld3VVBUeGNZYUtYQ283bW5XNGIxWE9zbmExQVVwVnZMdmFPNVF4WDZNdmlmemlWdV8xYUVYSl9HYkxaSnBFLUg2VzZyQ3dFLU50V1dFcExNQ0VYWTctcXhZdFBNN1JoM1ZLcUJQZ3VxakhrTHRJ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Paris: 10 shows de metal imperdíveis em 2027 - Sortir à Paris",
+    "src": "Sortir à Paris",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQjU3UFVJdlNpUFlibS0xOWZuckd2blFUNDd1aTBlaVJrOG5PZG5OV0h1UTdmTERESWdKR1B4WXNtSTgwX0NMcVRGQUJLM2haQ1JDaWdQUU1tUjE4aDFVQUhGWDVBT3F0WVB3ZTNIN1JJTzFfZVNEMkhkMEYxT0pzUkxlU291Qmc4TURXd3NHdXh3WmkwV1cxc3FwVW5DbVh4Z2poTVBlVnNEb3FrSUh4WlhVNWs4ak9mSlpEZ2NsYUdaVlpUZ2lvRjA0UzNUREk?oc=5",
+    "timestamp": "2026-11-12T10:54:12+00:00",
+    "isoDate": "2026-11-12",
+    "date": "12 Nov",
+    "d": "Paris: 10 shows de metal imperdíveis em 2027 Sortir à Paris",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Sortir à Paris",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQjU3UFVJdlNpUFlibS0xOWZuckd2blFUNDd1aTBlaVJrOG5PZG5OV0h1UTdmTERESWdKR1B4WXNtSTgwX0NMcVRGQUJLM2haQ1JDaWdQUU1tUjE4aDFVQUhGWDVBT3F0WVB3ZTNIN1JJTzFfZVNEMkhkMEYxT0pzUkxlU291Qmc4TURXd3NHdXh3WmkwV1cxc3FwVW5DbVh4Z2poTVBlVnNEb3FrSUh4WlhVNWs4ak9mSlpEZ2NsYUdaVlpUZ2lvRjA0UzNUREk?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "title": "Train Announce 2027 Australian Tour With Barenaked Ladies - Rolling Stone Australia",
@@ -9811,6 +10721,31 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Armlock announce new album “Amazing” via Run For Cover Records - share new single/video \"Lifer\" - Chaoszine",
+    "src": "Chaoszine",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ21yRjZmeTNkVVNLVDRsdGpPclREWDU1WHpCVnkwTzZYczdhTVNwaHdrT0ZSSjNaNGdBeU9ZX1VLREFCdWZrTU5lTnVaZnR0eFhZRklVQkR2M19JbEdVUDVNTi1NSERvYXJYNy1oX013SjRPWE5aa3NCMng4eENxQS1VcnFRRnZVOHhWMFd6VTIyZ0ZSZFlDcUdkeFA5VktpZUxQR1Uzd0xSV29rY190S1dB?oc=5",
+    "timestamp": "2026-11-11T20:09:52+00:00",
+    "isoDate": "2026-11-11",
+    "date": "11 Nov",
+    "d": "Armlock announce new album “Amazing” via Run For Cover Records - share new single/video \"Lifer\" Chaoszine",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Chaoszine",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ21yRjZmeTNkVVNLVDRsdGpPclREWDU1WHpCVnkwTzZYczdhTVNwaHdrT0ZSSjNaNGdBeU9ZX1VLREFCdWZrTU5lTnVaZnR0eFhZRklVQkR2M19JbEdVUDVNTi1NSERvYXJYNy1oX013SjRPWE5aa3NCMng4eENxQS1VcnFRRnZVOHhWMFd6VTIyZ0ZSZFlDcUdkeFA5VktpZUxQR1Uzd0xSV29rY190S1dB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
   },
   {
     "title": "The Rankin Family Reunites for First Cross-Canada Tour in Almost 15 Years - Billboard",
@@ -21964,6 +22899,31 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "The 25 most unforgettable punk rock characters - Yardbarker",
+    "src": "Yardbarker",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOXzBNeF94elZiT2dCbVdnVWFYaEtTTmdNa0NvMXdRN0wwR0w2V1hCZUdPZUVXZ3BGaUpMZDJQNmxDWFNyNG1vMlhyem5penNsSjR4dlllVkl6OXRSOC05dzFaXzFnX1dkV0JWR0RGel9iLVBrNlFZSWNMMFFaTmMwNFhuTmFIODJrbFNYamY4eEtCbGJ4SEVZM2d4M0J0Y3BI?oc=5",
+    "timestamp": "2026-11-09T18:06:11+00:00",
+    "isoDate": "2026-11-09",
+    "date": "9 Nov",
+    "d": "The 25 most unforgettable punk rock characters Yardbarker",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Yardbarker",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOXzBNeF94elZiT2dCbVdnVWFYaEtTTmdNa0NvMXdRN0wwR0w2V1hCZUdPZUVXZ3BGaUpMZDJQNmxDWFNyNG1vMlhyem5penNsSjR4dlllVkl6OXRSOC05dzFaXzFnX1dkV0JWR0RGel9iLVBrNlFZSWNMMFFaTmMwNFhuTmFIODJrbFNYamY4eEtCbGJ4SEVZM2d4M0J0Y3BI?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
   },
   {
     "title": "Today’s Wordle answer and hints for #1968 on November 08",
