@@ -462,10 +462,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -487,10 +487,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -612,10 +612,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -1148,10 +1148,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1173,10 +1173,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1198,10 +1198,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1227,6 +1227,216 @@
     "isPT": false,
     "isCore": false,
     "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "b": "VA",
+    "t": "Grand Theft Auto VI: The Album",
+    "g": "rock",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "21 Nov",
+    "isoDate": "2026-11-21",
+    "url": "https://alterportal.net/neformat/190911-va-grand-theft-auto-vi-the-album-2026.html",
+    "d": "Протекция ROCKSTAR, Ноябрь 1/2",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/neformat/190911-va-grand-theft-auto-vi-the-album-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Deliver the Galaxy",
+    "t": "Those Who Came from Heaven",
+    "g": "death",
+    "fmt": "Album",
+    "lbl": "Alterportal",
+    "date": "21 Nov",
+    "isoDate": "2026-11-21",
+    "url": "https://alterportal.net/2026_albums/190914-deliver-the-galaxy-those-who-came-from-heaven-2026.html",
+    "d": "Melodic Death Metal",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190914-deliver-the-galaxy-those-who-came-from-heaven-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "A Match to Burn",
+    "t": "The Naturalization of Suffering",
+    "g": "core",
+    "fmt": "EP",
+    "lbl": "Alterportal",
+    "date": "21 Nov",
+    "isoDate": "2026-11-21",
+    "url": "https://alterportal.net/2026_albums/190915-a-match-to-burn-the-naturalization-of-suffering-ep-2026.html",
+    "d": "Melodic Death Metal / Metalcore",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/2026_albums/190915-a-match-to-burn-the-naturalization-of-suffering-ep-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "title": "It Dies Today Launch GoFundMe For Retired Pro Wrestler Who Broke His Leg In The Mosh Pit At Their Buffalo Show",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/11/21/news/it-dies-today-launch-gofundme-for-retired-pro-wrestler-who-broke-his-leg-in-the-mosh-pit-at-their-buffalo-show/",
+    "timestamp": "2026-11-21T18:28:50+00:00",
+    "isoDate": "2026-11-21",
+    "date": "21 Nov",
+    "d": "An unfortunate spin kick accident caused the break. The post It Dies Today Launch GoFundMe For Retired Pro Wrestler Who Broke His Leg In The Mosh Pit At Their Buffalo Show appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/11/21/news/it-dies-today-launch-gofundme-for-retired-pro-wrestler-who-broke-his-leg-in-the-mosh-pit-at-their-buffalo-show/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "IGOR CAVALERA On SEPULTURA's Final Concert: 'I Don't Think It's The End. I Think It's The End Of That Version Of SEPULTURA.'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/igor-cavalera-on-sepulturas-final-concert-i-dont-think-its-the-end-i-think-its-the-end-of-that-version-of-sepultura",
+    "timestamp": "2026-11-21T17:18:04+00:00",
+    "isoDate": "2026-11-21",
+    "date": "21 Nov",
+    "d": "Long Live Rock 'N' Roll has shared a report from the November 20 question-and-answer session at Transmissions XVIII festival in Ravenna, Italy where original SEPULTURA drummer Igor \"Iggor\" Cavalera addressed the fact that SEPULTURA played its final concert on November 7, 2026 at the Suhai Music Hall...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/igor-cavalera-on-sepulturas-final-concert-i-dont-think-its-the-end-i-think-its-the-end-of-that-version-of-sepultura"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "SABATON Releases Music Video For Swedish-Language Song 'Till Seger' From 'Legends' Album",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/sabaton-releases-music-video-for-swedish-language-song-till-seger-from-legends-album",
+    "timestamp": "2026-11-21T16:14:57+00:00",
+    "isoDate": "2026-11-21",
+    "date": "21 Nov",
+    "d": "Swedish metallers SABATON have released the official music video for the song \"Till Seger\" (Swedish for \"To Victory\"). The Swedish-language track closes SABATON's eleventh studio album, \"Legends\", which came out in October 2025 via Better Noise Music. SABATON states: \"We're beyond excited for 'The G...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/sabaton-releases-music-video-for-swedish-language-song-till-seger-from-legends-album"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "GTA 6 Radio Stations: Full Rock & Metal Soundtrack Guide - Rock News UK",
+    "src": "Rock News UK",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SbTBnQ3B0a3cwSW1mRENMZVRmcFFCVFNVRm85cFJmc0xUanNhN09FekxHdTRfMFF0NkM4LTc3djFNVnFFSEZSbUd2T1Fnem1LMlJCVFRrVkZwV0lLT3hnRVZXSTJZUF9panZfT0tLbUxWVWNrdjQ0Mkt3?oc=5",
+    "timestamp": "2026-11-21T10:21:41+00:00",
+    "isoDate": "2026-11-21",
+    "date": "21 Nov",
+    "d": "GTA 6 Radio Stations: Full Rock & Metal Soundtrack Guide Rock News UK",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Rock News UK",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SbTBnQ3B0a3cwSW1mRENMZVRmcFFCVFNVRm85cFJmc0xUanNhN09FekxHdTRfMFF0NkM4LTc3djFNVnFFSEZSbUd2T1Fnem1LMlJCVFRrVkZwV0lLT3hnRVZXSTJZUF9panZfT0tLbUxWVWNrdjQ0Mkt3?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "SNAYX release new music video for ‘Violence’ - Distorted Sound Magazine -",
+    "src": "Distorted Sound Magazine -",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16dDBIZjVNc1dIOWUwYnVwOEE5YlhSR0NmbUxhaFdXZnJROUlDdURiOGlvZHBmNHpBYkNxT0IwQjl3UExOdG9FYVRUUkE0SkNjNUs0OXp2bUtsWmNxdm51ZG13V3pjc1B4SXR4aC1jVFphLW5FT0EzZ3BYNzlRZw?oc=5",
+    "timestamp": "2026-11-21T17:41:31+00:00",
+    "isoDate": "2026-11-21",
+    "date": "21 Nov",
+    "d": "SNAYX release new music video for ‘Violence’ Distorted Sound Magazine -",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Distorted Sound Magazine -",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16dDBIZjVNc1dIOWUwYnVwOEE5YlhSR0NmbUxhaFdXZnJROUlDdURiOGlvZHBmNHpBYkNxT0IwQjl3UExOdG9FYVRUUkE0SkNjNUs0OXp2bUtsWmNxdm51ZG13V3pjc1B4SXR4aC1jVFphLW5FT0EzZ3BYNzlRZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Bokassa release new music video for ‘One Day My Head Is Gonna Win’ - Distorted Sound Magazine -",
+    "src": "Distorted Sound Magazine -",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcHpLMFZsNEFickdGTERTVnJrTXBoaTdqYzZEdUtuRV9HSzg5TldrTGxnbGVOb2dhSkpHSmY0MnlwTEIzckQyZkdYTEs1bm9WRV9VYUFLZnQ1OHdFcmZsWWZ5Z1dzVHlqcFRHRjNUbG5pei1OYWJ1cXBhUkhGUTNBUHJEYVZEd3pqRDZnMEh6akhNMDBLa2lpc01ONA?oc=5",
+    "timestamp": "2026-11-21T17:15:24+00:00",
+    "isoDate": "2026-11-21",
+    "date": "21 Nov",
+    "d": "Bokassa release new music video for ‘One Day My Head Is Gonna Win’ Distorted Sound Magazine -",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Distorted Sound Magazine -",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcHpLMFZsNEFickdGTERTVnJrTXBoaTdqYzZEdUtuRV9HSzg5TldrTGxnbGVOb2dhSkpHSmY0MnlwTEIzckQyZkdYTEs1bm9WRV9VYUFLZnQ1OHdFcmZsWWZ5Z1dzVHlqcFRHRjNUbG5pei1OYWJ1cXBhUkhGUTNBUHJEYVZEd3pqRDZnMEh6akhNMDBLa2lpc01ONA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
     "kind": "news",
     "section": "buzz"
   },
@@ -7569,6 +7779,106 @@
     "section": "buzz"
   },
   {
+    "title": "Zach Top Expands ‘Cold Beer & Country Music’ Tour - TicketNews",
+    "src": "TicketNews",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkgwZmtVN1hSazRZUE4xQzBxVEFLNElqZmRtdE5xQ01RdGk5dXdWbzNaTlBRdmZWcG8wTzhnQmI5OWg1RHRuUjBRaklaMFV2b3VpZDFpNHlaNjhWSVhPWmxRcDFpZXVPOUFSM3VDNTIyRmdBQktmM3hKNkFxMXpheVZoTU5EU0pC?oc=5",
+    "timestamp": "2026-11-20T21:16:10+00:00",
+    "isoDate": "2026-11-20",
+    "date": "20 Nov",
+    "d": "Zach Top Expands ‘Cold Beer & Country Music’ Tour TicketNews",
+    "category": "general",
+    "sources": [
+      {
+        "name": "TicketNews",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkgwZmtVN1hSazRZUE4xQzBxVEFLNElqZmRtdE5xQ01RdGk5dXdWbzNaTlBRdmZWcG8wTzhnQmI5OWg1RHRuUjBRaklaMFV2b3VpZDFpNHlaNjhWSVhPWmxRcDFpZXVPOUFSM3VDNTIyRmdBQktmM3hKNkFxMXpheVZoTU5EU0pC?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Yokai Throne unveils new single \"Heathen\" - Chaoszine",
+    "src": "Chaoszine",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lUFdxUUs0YUpPQUdlNHk1OC0tSElRNnZUbDZad2FzSzBKc0NmOFJpQ2RQRWhrUGhVMEx5WnZyY01JT1ZmUTk3UEpfOW9FWDN4SDRhcjFsbkJQOXZFQWxib3hBMElEV0lxWmpoa1RQbw?oc=5",
+    "timestamp": "2026-11-20T01:50:15+00:00",
+    "isoDate": "2026-11-20",
+    "date": "20 Nov",
+    "d": "Yokai Throne unveils new single \"Heathen\" Chaoszine",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Chaoszine",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lUFdxUUs0YUpPQUdlNHk1OC0tSElRNnZUbDZad2FzSzBKc0NmOFJpQ2RQRWhrUGhVMEx5WnZyY01JT1ZmUTk3UEpfOW9FWDN4SDRhcjFsbkJQOXZFQWxib3hBMElEV0lxWmpoa1RQbw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Filme de animação \"Viana - A Lenda dos Corações de Ouro\" estreia em simultâneo a versão portuguesa e inglesa - RTP",
+    "src": "RTP",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLXVxMXlQNkhyd2JkNDAxVHFwVjRHLTdvN1JSQV9HSFNNWjdSVkZSUkNXLUhkay16eHMzbEpycTFib2JHRm1UdzRvRWpTZ1V6VEw0Y0dOcVZkMVI4S1pHem53LXlDYjQwTDlmY05RRVZsRlJrR1Y2QzJ5emxoYXZVVm9KVlVpQXhlVTl6ZzZVY19yZk9vWXRYNWY2YXgxdVdTcGhSQWRfZ3BXWVZLdnl6eENOOHlmUzJvNkhyZXRsWU9CSk1SVTRUbmJWTE51dmQ5d1k2b0lLOHctdGF1QWstM3J0bw?oc=5",
+    "timestamp": "2026-11-20T22:33:14+00:00",
+    "isoDate": "2026-11-20",
+    "date": "20 Nov",
+    "d": "Filme de animação \"Viana - A Lenda dos Corações de Ouro\" estreia em simultâneo a versão portuguesa e inglesa RTP",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "RTP",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLXVxMXlQNkhyd2JkNDAxVHFwVjRHLTdvN1JSQV9HSFNNWjdSVkZSUkNXLUhkay16eHMzbEpycTFib2JHRm1UdzRvRWpTZ1V6VEw0Y0dOcVZkMVI4S1pHem53LXlDYjQwTDlmY05RRVZsRlJrR1Y2QzJ5emxoYXZVVm9KVlVpQXhlVTl6ZzZVY19yZk9vWXRYNWY2YXgxdVdTcGhSQWRfZ3BXWVZLdnl6eENOOHlmUzJvNkhyZXRsWU9CSk1SVTRUbmJWTE51dmQ5d1k2b0lLOHctdGF1QWstM3J0bw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Famoso português passou por fase difícil de miséria e pobreza extrema: \"As roupas tinham marcas de xixi e fezes dos ratos\" - Notícias de hoje - IOL",
+    "src": "Notícias de hoje - IOL",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMXMtemJYWEJYbE96QzZyU21lVTNMNzQydjJpbTdsS2g1dkM5M0UyQ3dGRGlhMGt3cWYtR2dfZFdnNjIwU0d2RldUdWc2NFc3TXBsU2l5X3NQLWs0ZGF1YnUxbXVVSE92TFNwaUNkZ2Rndm81YzdTS3VNNHcwSFhJLUNleVJIMlFqV2w5Ylhtcjd4VTg5bjFWeDAxYXBnbExSam9pd3VsRWNHSWotYk5MVXg2N2loLUJPSGlnekRJUVcyb2ViNU1CMWlaTjVzeHEta2NmZFpUc1JaUmZYZndEYWFTMmdvMFJFcGJwTFpfbGptMTly?oc=5",
+    "timestamp": "2026-11-20T16:16:00+00:00",
+    "isoDate": "2026-11-20",
+    "date": "20 Nov",
+    "d": "Famoso português passou por fase difícil de miséria e pobreza extrema: \"As roupas tinham marcas de xixi e fezes dos ratos\" Notícias de hoje - IOL",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Notícias de hoje - IOL",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMXMtemJYWEJYbE96QzZyU21lVTNMNzQydjJpbTdsS2g1dkM5M0UyQ3dGRGlhMGt3cWYtR2dfZFdnNjIwU0d2RldUdWc2NFc3TXBsU2l5X3NQLWs0ZGF1YnUxbXVVSE92TFNwaUNkZ2Rndm81YzdTS3VNNHcwSFhJLUNleVJIMlFqV2w5Ylhtcjd4VTg5bjFWeDAxYXBnbExSam9pd3VsRWNHSWotYk5MVXg2N2loLUJPSGlnekRJUVcyb2ViNU1CMWlaTjVzeHEta2NmZFpUc1JaUmZYZndEYWFTMmdvMFJFcGJwTFpfbGptMTly?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
     "title": "Heavy metal rock star dead at 61 — after revealing ‘medical issue’ - Page Six",
     "src": "Page Six",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQW9Lb0Z1NFI3dFk3Tk4xS0Z2OTRodldld3ZnX2NjdjRMY1VqVkFzVC1JT3F3Q2pnRElWY1psSlpBS1Y2Q1NhM3VfaFBfUmZ1bkRXbU1qVGtxaENMNTZpMDgtVHhjNi1iYjBuWllnc2lTY3d3RkQzTjhHQXEybUNVM3dWUnMwZWQ4S1lCU2pMWUhGTnAzNS1RMHgwTFBhNFB4Wnc3MHBiLW4yX3VZaWJKWGRB?oc=5",
@@ -9948,7 +10258,7 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 2,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
     "star": true,
@@ -37241,31 +37551,6 @@
     "alterportal": true,
     "kind": "release",
     "section": "alter"
-  },
-  {
-    "title": "Zach Top Expands ‘Cold Beer & Country Music’ Tour - TicketNews",
-    "src": "TicketNews",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkgwZmtVN1hSazRZUE4xQzBxVEFLNElqZmRtdE5xQ01RdGk5dXdWbzNaTlBRdmZWcG8wTzhnQmI5OWg1RHRuUjBRaklaMFV2b3VpZDFpNHlaNjhWSVhPWmxRcDFpZXVPOUFSM3VDNTIyRmdBQktmM3hKNkFxMXpheVZoTU5EU0pC?oc=5",
-    "timestamp": "2026-11-14T02:44:42+00:00",
-    "isoDate": "2026-11-14",
-    "date": "14 Nov",
-    "d": "Zach Top Expands ‘Cold Beer & Country Music’ Tour TicketNews",
-    "category": "general",
-    "sources": [
-      {
-        "name": "TicketNews",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkgwZmtVN1hSazRZUE4xQzBxVEFLNElqZmRtdE5xQ01RdGk5dXdWbzNaTlBRdmZWcG8wTzhnQmI5OWg1RHRuUjBRaklaMFV2b3VpZDFpNHlaNjhWSVhPWmxRcDFpZXVPOUFSM3VDNTIyRmdBQktmM3hKNkFxMXpheVZoTU5EU0pC?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "buzz"
   },
   {
     "b": "x Tip The Scale x",
