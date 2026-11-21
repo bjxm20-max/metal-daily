@@ -117,10 +117,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -142,10 +142,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -292,10 +292,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -317,10 +317,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -528,7 +528,7 @@
     "title": "Music Release Showdown: LISA, the Star-Studded ‘GTA VI’ Album, and Heavyweight Drops Take Over the Week - The Hype Magazine",
     "src": "The Hype Magazine",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzdCUTY4aWtPMDFtRVJFTGU3bElGa0lxTVN0dG5RSXZTZHVjbVdYeUQ2NW9KUHJ0UERvYUhoZVdjNUdYazkwZC1QbFAxeHo2SG5IcUowak9zeEhpMjNBa1c4ZWg0aXVYSDFuWWpmX0pHOUJheGNMWlczLVRzcF9BWG1lLVBOc01telEwNEFRQ2lYOUFXdkEyQjFn?oc=5",
-    "timestamp": "2026-11-21T07:01:20+00:00",
+    "timestamp": "2026-11-21T06:30:50+00:00",
     "isoDate": "2026-11-21",
     "date": "21 Nov",
     "d": "Music Release Showdown: LISA, the Star-Studded ‘GTA VI’ Album, and Heavyweight Drops Take Over the Week The Hype Magazine",
@@ -838,10 +838,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -863,10 +863,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -888,10 +888,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -913,10 +913,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -1313,10 +1313,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -1488,10 +1488,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1542,6 +1542,131 @@
     "isPT": true,
     "isCore": false,
     "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "A tale of two scenes - themuse.ca",
+    "src": "themuse.ca",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45QTIwejdQN0prSE1xcV9rQTYta1JyZU0tUmx2YkdPcHp0RlluejAzcWp5NHhadmhNcGNxWEZRWkZDQXEyNm5Ham1BMlJyWTNuZXc?oc=5",
+    "timestamp": "2026-11-21T22:44:53+00:00",
+    "isoDate": "2026-11-21",
+    "date": "21 Nov",
+    "d": "A tale of two scenes themuse.ca",
+    "category": "core",
+    "sources": [
+      {
+        "name": "themuse.ca",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45QTIwejdQN0prSE1xcV9rQTYta1JyZU0tUmx2YkdPcHp0RlluejAzcWp5NHhadmhNcGNxWEZRWkZDQXEyNm5Ham1BMlJyWTNuZXc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "JOHN DOLMAYAN Says 'Big Things Are Coming For SYSTEM OF A DOWN'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/john-dolmayan-says-big-things-are-coming-for-system-of-a-down",
+    "timestamp": "2026-11-21T22:21:10+00:00",
+    "isoDate": "2026-11-21",
+    "date": "21 Nov",
+    "d": "In a new interview with Go With Elmo, the weekly podcast hosted by Elmo Lovano, a renowned musical director, producer, and founder of Jammcard, SYSTEM OF A DOWN drummer John Dolmayan addressed the fact that he and his bandmates will play four shows next June at Rose Bowl Stadium in Pasadena, Califor...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/john-dolmayan-says-big-things-are-coming-for-system-of-a-down"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "METALLICA's 'All Within My Hands' Foundation Donates $100,000 To Support Children Affected By Domestic Violence",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/metallicas-all-within-my-hands-foundation-donates-100000-to-support-children-affected-by-domestic-violence",
+    "timestamp": "2026-11-21T21:40:01+00:00",
+    "isoDate": "2026-11-21",
+    "date": "21 Nov",
+    "d": "SafeNest, Southern Nevada's largest nonprofit dedicated to ending domestic and sexual violence, has received a $100,000 grant from METALLICA's foundation, All Within My Hands, to expand support for children and families affected by domestic violence in Clark County. Renee Richardson, director of ph...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/metallicas-all-within-my-hands-foundation-donates-100000-to-support-children-affected-by-domestic-violence"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Ben Affleck reportedly concerned about Jennifer Lopez's possible revenge songs - The Express Tribune",
+    "src": "The Express Tribune",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX3Y2NEJTaTY4REdmTGxOZFR1N0JiOUNpN1Fuald1MjVMNE1FNFZzZkFVTDk4MHprZzlzVmxkTW5vZHpMNTV0bl9RSXdzV0dBcWtSSGs2TWFWNUdxNVRocjVwNDdudDVoSDZ3S2dWbl9lNGROQ3ZQZkpHUTFMaVRRcjFnZ0dNdWlUVDMxeC1Fa3dmLVZ5YndNVWpvZUlOc3MydjVFakNvaGFUVjBNdE1KcTRSQlbSAbwBQVVfeXFMT09EMW96UjJQLWxlbkMxdlkyeV9mQ3BKSkxJREhLRGstcE1fSkNITWFKaHZnZ3UwWXN2cTIzNV9uU0dsOFRsOVhveVRmU1M1bG52aFJkU1o5SUJGXzdWU2tPNVBZcXBVVDJQcThIaFBiTDA5OXVRNDVrWTQ2TUtfamdfVmtfVmwyTjA3OEFaMjMtdHBTVEV1eHpLRkRmRy1BNVNDLTZPVGk0SG93ekJ4a2E2OUpEQmREaGxGeWg?oc=5",
+    "timestamp": "2026-11-21T22:33:19+00:00",
+    "isoDate": "2026-11-21",
+    "date": "21 Nov",
+    "d": "Ben Affleck reportedly concerned about Jennifer Lopez's possible revenge songs The Express Tribune",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX3Y2NEJTaTY4REdmTGxOZFR1N0JiOUNpN1Fuald1MjVMNE1FNFZzZkFVTDk4MHprZzlzVmxkTW5vZHpMNTV0bl9RSXdzV0dBcWtSSGs2TWFWNUdxNVRocjVwNDdudDVoSDZ3S2dWbl9lNGROQ3ZQZkpHUTFMaVRRcjFnZ0dNdWlUVDMxeC1Fa3dmLVZ5YndNVWpvZUlOc3MydjVFakNvaGFUVjBNdE1KcTRSQlbSAbwBQVVfeXFMT09EMW96UjJQLWxlbkMxdlkyeV9mQ3BKSkxJREhLRGstcE1fSkNITWFKaHZnZ3UwWXN2cTIzNV9uU0dsOFRsOVhveVRmU1M1bG52aFJkU1o5SUJGXzdWU2tPNVBZcXBVVDJQcThIaFBiTDA5OXVRNDVrWTQ2TUtfamdfVmtfVmwyTjA3OEFaMjMtdHBTVEV1eHpLRkRmRy1BNVNDLTZPVGk0SG93ekJ4a2E2OUpEQmREaGxGeWg?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "\"Esta força que é cantar em conjunto”: como o movimento de coros (re)despertou com os protestos de rua - Observador",
+    "src": "Observador",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeHl1OUNBVnlrTFJhZ3p5bzRfRkFvUTYxZWdRNVBKWHkyZzJ0MTNqQVlYMTIxR0xWX1JJT2ExZUV2eUdYUEFIQzhpTnF5bldUWWhEdldRVWhKTjU5WFowd0ZlMVQtODdqQ1FtRHdTbVVOOTMyWldpcnpOalFaWW9OVmJPZGZTTWI4eWVINmhtZjJEbGlPU0pRS3JtM3oxbGFyV3VEVXZuUlBhYy1KZnlkbDZSNXNXcTVjNFVyQlM1SmxRdXpybUR3blhn?oc=5",
+    "timestamp": "2026-11-21T12:33:00+00:00",
+    "isoDate": "2026-11-21",
+    "date": "21 Nov",
+    "d": "\"Esta força que é cantar em conjunto”: como o movimento de coros (re)despertou com os protestos de rua Observador",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Observador",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeHl1OUNBVnlrTFJhZ3p5bzRfRkFvUTYxZWdRNVBKWHkyZzJ0MTNqQVlYMTIxR0xWX1JJT2ExZUV2eUdYUEFIQzhpTnF5bldUWWhEdldRVWhKTjU5WFowd0ZlMVQtODdqQ1FtRHdTbVVOOTMyWldpcnpOalFaWW9OVmJPZGZTTWI4eWVINmhtZjJEbGlPU0pRS3JtM3oxbGFyV3VEVXZuUlBhYy1KZnlkbDZSNXNXcTVjNFVyQlM1SmxRdXpybUR3blhn?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -8149,6 +8274,56 @@
     "section": "alter"
   },
   {
+    "title": "Blondie Are Waiting for the Clouds to Part on Wistful New Song ‘Come Back Home’ - Rolling Stone",
+    "src": "Rolling Stone",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRGVvVTd4TDJJVXhYNTNVcUc0LVRmUzRYZ1NQYzFMY0NveGd6NTdqTUFiSjRLQktyY2hCekI3VnVua2pWMEM5bUt0RzFLTVhzc1lrUWVzdHN4QXE4NHlzUm56Q3RnNVc1VGM4Z1pmRjZlRXpIT1NnRHpmZkwwQURpbklJdFQ5Wl8tdFBHME02eUNLNW9PVDVEcG5JcUNFZw?oc=5",
+    "timestamp": "2026-11-20T05:01:29+00:00",
+    "isoDate": "2026-11-20",
+    "date": "20 Nov",
+    "d": "Blondie Are Waiting for the Clouds to Part on Wistful New Song ‘Come Back Home’ Rolling Stone",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Rolling Stone",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRGVvVTd4TDJJVXhYNTNVcUc0LVRmUzRYZ1NQYzFMY0NveGd6NTdqTUFiSjRLQktyY2hCekI3VnVua2pWMEM5bUt0RzFLTVhzc1lrUWVzdHN4QXE4NHlzUm56Q3RnNVc1VGM4Z1pmRjZlRXpIT1NnRHpmZkwwQURpbklJdFQ5Wl8tdFBHME02eUNLNW9PVDVEcG5JcUNFZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ciao Baby Alvor – Cozinha italiana, receitas de família e música ao vivo - The Portugal News",
+    "src": "The Portugal News",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQUhqejEyd0Nac21BdWdVUENqUHhxNzZwM2x4bUlVODFkX1hkbG90VTRoYmp1eXZYTkdHMzFiY3RmdlE1NDRjYW5WdGZBNTR3cC02VkpfMjhGUW5fZE5sT01BUDlIdlV1dlduc1h3c2ViN3BIZTVTOU1iRXFNWUw5bEdSMTVzSThHTXM0TzlRanc3WEc2bDAxdW13VDlOOHZPMkxuZVcwZmdhekktZEF0RXZaUnBHRk5pVF84bWk3dHNSQ19DYlltYXRhN1k?oc=5",
+    "timestamp": "2026-11-20T08:00:00+00:00",
+    "isoDate": "2026-11-20",
+    "date": "20 Nov",
+    "d": "Ciao Baby Alvor – Cozinha italiana, receitas de família e música ao vivo The Portugal News",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "The Portugal News",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQUhqejEyd0Nac21BdWdVUENqUHhxNzZwM2x4bUlVODFkX1hkbG90VTRoYmp1eXZYTkdHMzFiY3RmdlE1NDRjYW5WdGZBNTR3cC02VkpfMjhGUW5fZE5sT01BUDlIdlV1dlduc1h3c2ViN3BIZTVTOU1iRXFNWUw5bEdSMTVzSThHTXM0TzlRanc3WEc2bDAxdW13VDlOOHZPMkxuZVcwZmdhekktZEF0RXZaUnBHRk5pVF84bWk3dHNSQ19DYlltYXRhN1k?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
     "title": "Heavy metal rock star dead at 61 — after revealing ‘medical issue’ - Page Six",
     "src": "Page Six",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQW9Lb0Z1NFI3dFk3Tk4xS0Z2OTRodldld3ZnX2NjdjRMY1VqVkFzVC1JT3F3Q2pnRElWY1psSlpBS1Y2Q1NhM3VfaFBfUmZ1bkRXbU1qVGtxaENMNTZpMDgtVHhjNi1iYjBuWllnc2lTY3d3RkQzTjhHQXEybUNVM3dWUnMwZWQ4S1lCU2pMWUhGTnAzNS1RMHgwTFBhNFB4Wnc3MHBiLW4yX3VZaWJKWGRB?oc=5",
@@ -8552,7 +8727,7 @@
     "title": "When Metal Meets the Reels: How Rock Legends Found a Second Stage in Gaming - Metal Planet Music",
     "src": "Metal Planet Music",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONjh0em1XcGIzamlJRU1jNDhjcTZGR1g3OENMd1k1bjdGUTlBU3ZaVzJIbmJ1YjlTR1p0cUVoLXRtd0oyMTkwMG1Na1Z5NEwyOGpiTUNOWUd0T1pNOVdJSGNWMEN3RzU1eWpKYlBVU1pQMjF1Uzh0M292YzkyOG91SzNleU1iaWItUmd5UEVrWHZxYUFTOVRTYk9XNmJDejh1ajNjQ3pianpLWWhkbU1wOWpR?oc=5",
-    "timestamp": "2026-11-19T13:22:44+00:00",
+    "timestamp": "2026-11-19T13:22:35+00:00",
     "isoDate": "2026-11-19",
     "date": "19 Nov",
     "d": "When Metal Meets the Reels: How Rock Legends Found a Second Stage in Gaming Metal Planet Music",
