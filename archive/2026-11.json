@@ -100,75 +100,6 @@
     "section": "buzz"
   },
   {
-    "title": "O jornal do Brasil em Portugal - DN Brasil",
-    "src": "DN Brasil",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd2dUcF9ncE5FMjBwbFZoUGtxZnlIVFAtVXhHTEMzeEJBUlZYUGFHVVpCNHdCalpjT0RrTnNuSEhVZ0pBZWxUTkVKNzJFOWxLTjMwekY2ZmlwMmdvY0MtVU5rdklZOVJwMXJIREFWQkxQdXNsZ1ZvTXFYVmVwSFo1ZE1YckVWMU9qWjVIWXpodmUwdmxqQ2pYZmNLRUFXcUJacEwtdE4tZXNsVVR1blZzX1ZfdzRzdUNQLUJjMkRHME1KbzYxeHk4WHEtVVo1ZHpuZG9HaFZ0WnA?oc=5",
-    "timestamp": "2026-11-22T01:00:00+00:00",
-    "isoDate": "2026-11-22",
-    "date": "22 Nov",
-    "d": "O jornal do Brasil em Portugal DN Brasil",
-    "category": "pt",
-    "sources": [
-      {
-        "name": "DN Brasil",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd2dUcF9ncE5FMjBwbFZoUGtxZnlIVFAtVXhHTEMzeEJBUlZYUGFHVVpCNHdCalpjT0RrTnNuSEhVZ0pBZWxUTkVKNzJFOWxLTjMwekY2ZmlwMmdvY0MtVU5rdklZOVJwMXJIREFWQkxQdXNsZ1ZvTXFYVmVwSFo1ZE1YckVWMU9qWjVIWXpodmUwdmxqQ2pYZmNLRUFXcUJacEwtdE4tZXNsVVR1blZzX1ZfdzRzdUNQLUJjMkRHME1KbzYxeHk4WHEtVVo1ZHpuZG9HaFZ0WnA?oc=5"
-      },
-      {
-        "name": "DN Brasil",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdjU1M3VxRER6bVloSDQ1OUg4Rmx5YXdKVnNtNHdZbENJUDlacTc5YlpWRlZkNXBZUXdDVEpfajVSdGp4Rjl3ODN2VjlyR0cxWjlJT29DdHVoeWc0eFE4cWtPZHJqUlNOS19hUzRfOWVsRTEtRDR0TjdLYVIzaVlUWk44NmpqVGJVclhjR0ZJTHpjUnltNXVKYkpYdVNZT0pjdVNSZ3lBcE5meWJJWU1QaTNqOXdlLUZldmJGNnlrUVA0VkpmRnc?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": true,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "pt"
-  },
-  {
-    "b": "сплошь",
-    "t": "Singles",
-    "g": "prog",
-    "fmt": "Single",
-    "lbl": "Alterportal",
-    "date": "22 Nov",
-    "isoDate": "2026-11-22",
-    "url": "https://alterportal.net/core/190919-splosh-singles-2026.html",
-    "d": "Post-Metal / Screamo",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/core/190919-splosh-singles-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
-    "b": "H.E.R.O.",
-    "t": "Buried in Bloom",
-    "g": "heavy",
-    "fmt": "Single",
-    "lbl": "Alterportal",
-    "date": "22 Nov",
-    "isoDate": "2026-11-22",
-    "url": "https://alterportal.net/alternative/190916-hero-buried-in-bloom-single-2026.html",
-    "d": "",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/alternative/190916-hero-buried-in-bloom-single-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
     "title": "See DOWN's Entire Performance At 'The Great Nola Trendkill' Festival",
     "src": "Blabbermouth",
     "url": "https://blabbermouth.net/news/see-downs-entire-performance-at-the-great-nola-trendkill-festival",
@@ -211,10 +142,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -236,10 +167,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -247,7 +178,7 @@
     "title": "Watch: Ex-ACCEPT Singer DAVID REECE Performs With The Band For The First Time In 37 Years",
     "src": "Blabbermouth",
     "url": "https://blabbermouth.net/news/watch-ex-accept-singer-david-reece-performs-with-the-band-for-the-first-time-in-37-years",
-    "timestamp": "2026-11-22T18:16:27+00:00",
+    "timestamp": "2026-11-22T20:54:55+00:00",
     "isoDate": "2026-11-22",
     "date": "22 Nov",
     "d": "David Reece, the American vocalist who fronted ACCEPT in the late '80s, reunited with the band on stage last night (Saturday, November 21) at Turbinenhalle in Oberhausen, Germany to perform two songs in honor of ACCEPT's 50th anniversary: \"Hellhammer\" and \"Balls To The Wall\". Reece shared lead vocal...",
@@ -486,10 +417,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -511,10 +442,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -536,10 +467,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -547,7 +478,7 @@
     "title": "Maruja thank fans for supporting them through burnout after “beautiful and brutal year” with new live album ‘The Holy Inadequate’ and Ritual Union headline set",
     "src": "NME",
     "url": "https://www.nme.com/news/music/maruja-thank-fans-burnout-live-album-holy-inadequate-ritual-union-headline-3976651",
-    "timestamp": "2026-11-22T10:41:59+00:00",
+    "timestamp": "2026-11-22T10:54:13+00:00",
     "isoDate": "2026-11-22",
     "date": "22 Nov",
     "d": "The Manchester jazz-punks played over 100 shows in 2025 before taking time off the road – and have now confirmed a major Bristol festival appearance for next year The post Maruja thank fans for supporting them through burnout after “beautiful and brutal year” with new live album ‘The Holy Inadequate’ and Ritual Union h",
@@ -556,6 +487,10 @@
       {
         "name": "NME",
         "url": "https://www.nme.com/news/music/maruja-thank-fans-burnout-live-album-holy-inadequate-ritual-union-headline-3976651"
+      },
+      {
+        "name": "NME",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM2lIb25uUjkzUHhsdV85d25GMXBoYjlrNHlPRHdkTVVsNkJxR1BZVjhBQjJMUElHdVM5b3lLUnJOVVlyZlpxbnh5SHV6QXE0ZHpTYjZzbWZJVkVURVQ4Qjk3TWs0Z1RMZUo4enpmdFJmX245TlY4aUQyMGJNeTdDYTFzSVRGMEFtY2ZVRU9GSmJuOWRxT0JCem1MWU1Kb3RGZDZNN3AzS0pSWEVHRmlQRlZFaw?oc=5"
       }
     ],
     "status": "official",
@@ -736,10 +671,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -761,10 +696,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -857,86 +792,6 @@
     "releaseKey": "pitchfork|glitter",
     "kind": "review",
     "section": "rev"
-  },
-  {
-    "b": "Terror Symphony",
-    "t": "Face of the Prey",
-    "g": "heavy",
-    "fmt": "Single",
-    "lbl": "Alterportal",
-    "date": "22 Nov",
-    "isoDate": "2026-11-22",
-    "url": "https://alterportal.net/core/190922-terror-symphony-face-of-the-prey-single-2026.html",
-    "d": "Стиль:",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/core/190922-terror-symphony-face-of-the-prey-single-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
-    "b": "Novagløw",
-    "t": "REM",
-    "g": "heavy",
-    "fmt": "Single",
-    "lbl": "Alterportal",
-    "date": "22 Nov",
-    "isoDate": "2026-11-22",
-    "url": "https://alterportal.net/alternative/190921-novaglow-rem-single-2026.html",
-    "d": "Стиль:",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/alternative/190921-novaglow-rem-single-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
-    "b": "Let Me Bleed",
-    "t": "Say Goodbye",
-    "g": "electro",
-    "fmt": "Single",
-    "lbl": "Alterportal",
-    "date": "22 Nov",
-    "isoDate": "2026-11-22",
-    "url": "https://alterportal.net/alternative/190920-let-me-bleed-say-goodbye-single-2026.html",
-    "d": "Alternative Metal / Electronic",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/alternative/190920-let-me-bleed-say-goodbye-single-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
-    "b": "Kayla King",
-    "t": "Break Me",
-    "g": "heavy",
-    "fmt": "Single",
-    "lbl": "Alterportal",
-    "date": "22 Nov",
-    "isoDate": "2026-11-22",
-    "url": "https://alterportal.net/alternative/190923-kayla-king-break-me-single-2026.html",
-    "d": "Стиль:",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/alternative/190923-kayla-king-break-me-single-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
   },
   {
     "title": "CLINT LOWERY Says SEVENDUST Members 'Split Everything Equally' In Order 'To Keep It Harmonious'",
@@ -1355,46 +1210,6 @@
     "section": "recent"
   },
   {
-    "b": "Magdalene Rose",
-    "t": "Do You Want to Be Free?",
-    "g": "heavy",
-    "fmt": "Single",
-    "lbl": "Alterportal",
-    "date": "22 Nov",
-    "isoDate": "2026-11-22",
-    "url": "https://alterportal.net/alternative/190925-magdalene-rose-do-you-want-to-be-free-single-2026.html",
-    "d": "Стиль:",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/alternative/190925-magdalene-rose-do-you-want-to-be-free-single-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
-    "b": "Allalonealaska",
-    "t": "Spiralling.",
-    "g": "heavy",
-    "fmt": "Single",
-    "lbl": "Alterportal",
-    "date": "22 Nov",
-    "isoDate": "2026-11-22",
-    "url": "https://alterportal.net/alternative/190924-allalonealaska-spiralling-single-2026.html",
-    "d": "Стиль:",
-    "sources": [
-      {
-        "name": "Alterportal",
-        "url": "https://alterportal.net/alternative/190924-allalonealaska-spiralling-single-2026.html"
-      }
-    ],
-    "alterportal": true,
-    "kind": "release",
-    "section": "alter"
-  },
-  {
     "title": "Here’s This Week’s Top Ten Stories On Theprp.com (November 22nd, 2026)",
     "src": "ThePRP",
     "url": "https://www.theprp.com/2026/11/22/news/heres-this-weeks-top-ten-stories-on-theprp-com-november-22nd-2026/",
@@ -1693,6 +1508,666 @@
     "star": true,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Enslaved celebrate album release with visualiser for focus track - Metal Planet Music",
+    "src": "Metal Planet Music",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTzdEdlRSRUtHRzloeXl5Nnc2Nko0T2N6SzltajY2R2tfcU1sWXFzd0pwcmpYemtUSWZBck50S0U4NnhvRUgxcVdZTFFacjBIS2VnVmdHWlY2MDUxUHZESW1GNHJ1eFNmczE1aU1NUk1JUkpxVEJ2Tnp5T0RPQlRFNFlveFNaSG50MUVuS1FxUUtMWFdVM2szanJyLWtGam55c1FnQw?oc=5",
+    "timestamp": "2026-11-22T19:08:22+00:00",
+    "isoDate": "2026-11-22",
+    "date": "22 Nov",
+    "d": "Enslaved celebrate album release with visualiser for focus track Metal Planet Music",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Metal Planet Music",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTzdEdlRSRUtHRzloeXl5Nnc2Nko0T2N6SzltajY2R2tfcU1sWXFzd0pwcmpYemtUSWZBck50S0U4NnhvRUgxcVdZTFFacjBIS2VnVmdHWlY2MDUxUHZESW1GNHJ1eFNmczE1aU1NUk1JUkpxVEJ2Tnp5T0RPQlRFNFlveFNaSG50MUVuS1FxUUtMWFdVM2szanJyLWtGam55c1FnQw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "IRON MAIDEN's BRUCE DICKINSON On His Solo Albums: 'I Can Do Exactly What I Want. I Don't Have To Worry About STEVE HARRIS.'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/iron-maidens-bruce-dickinson-on-his-solo-albums-i-can-do-exactly-what-i-want-i-dont-have-to-worry-about-steve-harris",
+    "timestamp": "2026-11-22T20:49:11+00:00",
+    "isoDate": "2026-11-22",
+    "date": "22 Nov",
+    "d": "In a new interview with Igor Miranda of Rolling Stone Brasil, IRON MAIDEN singer Bruce Dickinson spoke about his upcoming solo album, \"PsychoGod\", which will arrive globally on March 12, 2027 via BMG. Asked what he feels he can express through his solo material that he can't do with IRON MAIDEN, Bru...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/iron-maidens-bruce-dickinson-on-his-solo-albums-i-can-do-exactly-what-i-want-i-dont-have-to-worry-about-steve-harris"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "See NAPALM DEATH's Entire November 2026 Concert In Vilnius, Lithuania",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/see-napalm-deaths-entire-november-2026-concert-in-vilnius-lithuania",
+    "timestamp": "2026-11-22T18:40:25+00:00",
+    "isoDate": "2026-11-22",
+    "date": "22 Nov",
+    "d": "The MetalAlive channel on YouTube has uploaded video of NAPALM DEATH's entire November 19 concert at Loftas in Vilnius, Lithuania. Check it out below. Featured songs: 01. Instinct Of Survival 02. Strong-Arm 03. Continuing War On Stupidity 04. Everyday Pox 05. Contagion 06. Plague Rages 07. Narcissus...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/see-napalm-deaths-entire-november-2026-concert-in-vilnius-lithuania"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Aalborg folk-punk band Stöj Snak confront the internet, takes Danish folk punks Stöj Snak from childhood memories to political fury on \"Gravity\" - IDIOTEQ.com",
+    "src": "IDIOTEQ.com",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMzdZY1ZIdGg1bGtmcXBHSGtPSnVGRll2UHItZjFqMUJkRmpFZWducVoxT3RvZFhzbC1aczFieXlnWTcxY0YxemZtWE8xMHZLaWNiYTk2V3lCbVJ6ME9sbERlQkdJMk1mOWhiVU5BdHUtVS10UE1aWUlDa0FQenppaWxMM2NfWncxeEtZWm5CUWV0QkhydWUtaHRhRVVsdGUtXzR0eWNFdEJNdTVIakVqRk1GNlEwSTNU?oc=5",
+    "timestamp": "2026-11-22T18:24:49+00:00",
+    "isoDate": "2026-11-22",
+    "date": "22 Nov",
+    "d": "Aalborg folk-punk band Stöj Snak confront the internet, takes Danish folk punks Stöj Snak from childhood memories to political fury on \"Gravity\" IDIOTEQ.com",
+    "category": "core",
+    "sources": [
+      {
+        "name": "IDIOTEQ.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMzdZY1ZIdGg1bGtmcXBHSGtPSnVGRll2UHItZjFqMUJkRmpFZWducVoxT3RvZFhzbC1aczFieXlnWTcxY0YxemZtWE8xMHZLaWNiYTk2V3lCbVJ6ME9sbERlQkdJMk1mOWhiVU5BdHUtVS10UE1aWUlDa0FQenppaWxMM2NfWncxeEtZWm5CUWV0QkhydWUtaHRhRVVsdGUtXzR0eWNFdEJNdTVIakVqRk1GNlEwSTNU?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Billy Idol Australia Tour 2027: Dates, Tickets, Venues - Rolling Stone Australia",
+    "src": "Rolling Stone Australia",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV28wWi1iZElvNm1RUjVwWVRnMWV4OVRKaDhZWHA1bld0bXRZTW9OQnRyaW5LOC1icUtxMTRuSTJnbHp2Um8zb1dDUUpPeEx2eXJEclQtX244VkFyWlNCUkt1WTVmNWo2MVdtdTVST0hNTHBYaVgyQzVSd1JQN0VfUlB2N2h4XzBoNmNv?oc=5",
+    "timestamp": "2026-11-22T20:30:13+00:00",
+    "isoDate": "2026-11-22",
+    "date": "22 Nov",
+    "d": "Billy Idol Australia Tour 2027: Dates, Tickets, Venues Rolling Stone Australia",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Rolling Stone Australia",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV28wWi1iZElvNm1RUjVwWVRnMWV4OVRKaDhZWHA1bld0bXRZTW9OQnRyaW5LOC1icUtxMTRuSTJnbHp2Um8zb1dDUUpPeEx2eXJEclQtX244VkFyWlNCUkt1WTVmNWo2MVdtdTVST0hNTHBYaVgyQzVSd1JQN0VfUlB2N2h4XzBoNmNv?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Billy Idol Confirms Australian Dates for April 2027 - Noise11",
+    "src": "Noise11",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4TTFVbWdXSkIxdGkwMUxOclJvOHpaYUp5UFRWdXNZWVJmckJ2SVhhU0haLXJVZG5Xc2NrMkxUTThnTlg2S0NxWk1IRFQxUXBIU1BYMkNMMVhEb3FHV09WM3NvN0lyQVV4dGRqUUVOMHk?oc=5",
+    "timestamp": "2026-11-22T20:00:11+00:00",
+    "isoDate": "2026-11-22",
+    "date": "22 Nov",
+    "d": "Billy Idol Confirms Australian Dates for April 2027 Noise11",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Noise11",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4TTFVbWdXSkIxdGkwMUxOclJvOHpaYUp5UFRWdXNZWVJmckJ2SVhhU0haLXJVZG5Xc2NrMkxUTThnTlg2S0NxWk1IRFQxUXBIU1BYMkNMMVhEb3FHV09WM3NvN0lyQVV4dGRqUUVOMHk?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Billy Idol Announces 2027 Australian Tour - theMusic",
+    "src": "theMusic",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX1RGYTlPYXVtcFNSR1FSelgyMzc1X2hWY1dsMWo1bThHa1p4bXFYRDEzd0VUakFCTzFfczRjaVluTERiVGpiWXQxbXVSM01IdmxtTVQ0WHE4eGVlcEN1TWhaZGZkY21LZG1MQnBqMFJKelJ1QXY4azJ6VnQxYnozclRyMkVtWk53ZE83XzEwcVRZejJGTWc?oc=5",
+    "timestamp": "2026-11-22T20:00:00+00:00",
+    "isoDate": "2026-11-22",
+    "date": "22 Nov",
+    "d": "Billy Idol Announces 2027 Australian Tour theMusic",
+    "category": "general",
+    "sources": [
+      {
+        "name": "theMusic",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX1RGYTlPYXVtcFNSR1FSelgyMzc1X2hWY1dsMWo1bThHa1p4bXFYRDEzd0VUakFCTzFfczRjaVluTERiVGpiWXQxbXVSM01IdmxtTVQ0WHE4eGVlcEN1TWhaZGZkY21LZG1MQnBqMFJKelJ1QXY4azJ6VnQxYnozclRyMkVtWk53ZE83XzEwcVRZejJGTWc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Dead Flesh release new music video for ‘Primal’ - Distorted Sound Magazine -",
+    "src": "Distorted Sound Magazine -",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRlBoRTl6bHhJNzVhYnBRT283cFhGWHpRZU0xTXRTRXE0d2oyQU1XeGIzbzhXdEZTSmNhRVJuT0c4UGJyejlsNjV1cDJ2WTNuRjd3U0FQN3BodUkxa0tqc0Y4NEp6UkFIMTNMcG9oTnNHVk1tZ1lrdUZlQ2RSQUZZckhn?oc=5",
+    "timestamp": "2026-11-22T19:06:16+00:00",
+    "isoDate": "2026-11-22",
+    "date": "22 Nov",
+    "d": "Dead Flesh release new music video for ‘Primal’ Distorted Sound Magazine -",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Distorted Sound Magazine -",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRlBoRTl6bHhJNzVhYnBRT283cFhGWHpRZU0xTXRTRXE0d2oyQU1XeGIzbzhXdEZTSmNhRVJuT0c4UGJyejlsNjV1cDJ2WTNuRjd3U0FQN3BodUkxa0tqc0Y4NEp6UkFIMTNMcG9oTnNHVk1tZ1lrdUZlQ2RSQUZZckhn?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Paige Lewis Music: Album Release Party! Full Band w/ Special Guest Libby Koch - The Facts",
+    "src": "The Facts",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc01nbVZHVEE4Z3ltMDZ2YjNyQWdPZ2xtOENRazYzYkpEVldoVGpUdWtFdlFKWk44ak9tVFlMMTc4SVNzNFRKMTlEME05VnBNTzBUWlFlMDRjTEtrRnBsZnV3dWtRMHREaEZBZEw5VFhZOVJ3LTh1bUU1ck1ldE5kV2RIam8zMTNtMzF0bGxjV0ZkXzY2SDJQcXFlSmp6WmlSY21mSktDNVlhWUlZLW5CeldFSW5MazdDSUdBUTMtSnFpbmRpYTctbDMtcWRoenFnQmZ2cWUxVGhoUUdES2lZ?oc=5",
+    "timestamp": "2026-11-22T18:48:07+00:00",
+    "isoDate": "2026-11-22",
+    "date": "22 Nov",
+    "d": "Paige Lewis Music: Album Release Party! Full Band w/ Special Guest Libby Koch The Facts",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Facts",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc01nbVZHVEE4Z3ltMDZ2YjNyQWdPZ2xtOENRazYzYkpEVldoVGpUdWtFdlFKWk44ak9tVFlMMTc4SVNzNFRKMTlEME05VnBNTzBUWlFlMDRjTEtrRnBsZnV3dWtRMHREaEZBZEw5VFhZOVJ3LTh1bUU1ck1ldE5kV2RIam8zMTNtMzF0bGxjV0ZkXzY2SDJQcXFlSmp6WmlSY21mSktDNVlhWUlZLW5CeldFSW5MazdDSUdBUTMtSnFpbmRpYTctbDMtcWRoenFnQmZ2cWUxVGhoUUdES2lZ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Dino d'Santiago vence mais um prémio nos EUA e quer unir países lusófonos pela música - SÁBADO",
+    "src": "SÁBADO",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGJpM0U4RWd0akpPeHFtWUpoamVNTGtBcXlxLUFkenVLVmE0OGRPaUFwaDBYNmtvSHVpNHNEcU5SaHdhT2xJX1g3NzJnRGJ2cG9DQUhNNUt5MmZyODVtUk5KajZJZnR0bDUxS2JIVmc2X1poeWUtUEwxZlYyOVBQbVo2eVoySVJGVlVITjhjUEIzMW5La1dyWmhSSWR1YzgwOGtwWi1QUzYteFBaU3JiTFRBbHhyd9IBtgFBVV95cUxOMGJpM0U4RWd0akpPeHFtWUpoamVNTGtBcXlxLUFkenVLVmE0OGRPaUFwaDBYNmtvSHVpNHNEcU5SaHdhT2xJX1g3NzJnRGJ2cG9DQUhNNUt5MmZyODVtUk5KajZJZnR0bDUxS2JIVmc2X1poeWUtUEwxZlYyOVBQbVo2eVoySVJGVlVITjhjUEIzMW5La1dyWmhSSWR1YzgwOGtwWi1QUzYteFBaU3JiTFRBbHhydw?oc=5",
+    "timestamp": "2026-11-22T19:17:00+00:00",
+    "isoDate": "2026-11-22",
+    "date": "22 Nov",
+    "d": "Dino d'Santiago vence mais um prémio nos EUA e quer unir países lusófonos pela música SÁBADO",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "SÁBADO",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGJpM0U4RWd0akpPeHFtWUpoamVNTGtBcXlxLUFkenVLVmE0OGRPaUFwaDBYNmtvSHVpNHNEcU5SaHdhT2xJX1g3NzJnRGJ2cG9DQUhNNUt5MmZyODVtUk5KajZJZnR0bDUxS2JIVmc2X1poeWUtUEwxZlYyOVBQbVo2eVoySVJGVlVITjhjUEIzMW5La1dyWmhSSWR1YzgwOGtwWi1QUzYteFBaU3JiTFRBbHhyd9IBtgFBVV95cUxOMGJpM0U4RWd0akpPeHFtWUpoamVNTGtBcXlxLUFkenVLVmE0OGRPaUFwaDBYNmtvSHVpNHNEcU5SaHdhT2xJX1g3NzJnRGJ2cG9DQUhNNUt5MmZyODVtUk5KajZJZnR0bDUxS2JIVmc2X1poeWUtUEwxZlYyOVBQbVo2eVoySVJGVlVITjhjUEIzMW5La1dyWmhSSWR1YzgwOGtwWi1QUzYteFBaU3JiTFRBbHhydw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Entrevista. Hélio Morais: “Tal como nos falta alguma literacia financeira em Portugal, acho que falta a alguns artistas conhecer melhor o seu próprio setor” - Comunidade Cultura e Arte",
+    "src": "Comunidade Cultura e Arte",
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdnoxV2Z3cTFUNXR0VDBwdmtIejhPek1vS2lvcEZnMzloZ0FVcTk5U3FUcmRLQlZsSFdkUnM1U2hmRUpoYlFPUUpqV0pmT09yOUVzOEVQemxFM21pdFhaTVg2WWlPUWNuVjE0a0RVNThMVW8xZ3VDMzFTQmxOanFKQktCSWFSOUdacnRFeU1OTVZHNURRdFJtblNQV0Q2TDB2aXE5VnpFSTAwdFNKb2xaeUczUDM1aTUxOUlLbmtoOTVxZ1dLTlI0YVY4VWNNVHRoaW45amk2R3l0YVM3Z2Y0TFR1UFBpQjV5Z1d6cXVneXFhU1VHUVVwcW1XUGRmWHdwRmlXY1dHOGRUV0hmTWk3cWxRQVI1Zw?oc=5",
+    "timestamp": "2026-11-22T18:58:49+00:00",
+    "isoDate": "2026-11-22",
+    "date": "22 Nov",
+    "d": "Entrevista. Hélio Morais: “Tal como nos falta alguma literacia financeira em Portugal, acho que falta a alguns artistas conhecer melhor o seu próprio setor” Comunidade Cultura e Arte",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Comunidade Cultura e Arte",
+        "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOdnoxV2Z3cTFUNXR0VDBwdmtIejhPek1vS2lvcEZnMzloZ0FVcTk5U3FUcmRLQlZsSFdkUnM1U2hmRUpoYlFPUUpqV0pmT09yOUVzOEVQemxFM21pdFhaTVg2WWlPUWNuVjE0a0RVNThMVW8xZ3VDMzFTQmxOanFKQktCSWFSOUdacnRFeU1OTVZHNURRdFJtblNQV0Q2TDB2aXE5VnpFSTAwdFNKb2xaeUczUDM1aTUxOUlLbmtoOTVxZ1dLTlI0YVY4VWNNVHRoaW45amk2R3l0YVM3Z2Y0TFR1UFBpQjV5Z1d6cXVneXFhU1VHUVVwcW1XUGRmWHdwRmlXY1dHOGRUV0hmTWk3cWxRQVI1Zw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Dino d’Santiago conquista prémio nos EUA e quer promover encontros musicais entre países lusófonos - O Vilaverdense",
+    "src": "O Vilaverdense",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMTNJZ1dYZHVQRnR6SWR1S29Ld3NhOFoteXVIaHBWd3I1aWpUWHluSW1fR0U5M2JjTTNXTmd6bURJMWFGUUJtOFJyUHNVUk9LNXJ1eWpDVHd5ODVVcC1fM3hhRjlULW83aWVEZWYwUDVTeDRTcHpndmtEMnJNbkxJWndsRTlOZ3BmVWxYZGp4YV8zZmpJY1R6UVlqa2RIMEhsWEV2N1ZHMjdNNnU2V0dTLXFqRnNqQ29TazNJOEt6QnA?oc=5",
+    "timestamp": "2026-11-22T18:36:00+00:00",
+    "isoDate": "2026-11-22",
+    "date": "22 Nov",
+    "d": "Dino d’Santiago conquista prémio nos EUA e quer promover encontros musicais entre países lusófonos O Vilaverdense",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "O Vilaverdense",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMTNJZ1dYZHVQRnR6SWR1S29Ld3NhOFoteXVIaHBWd3I1aWpUWHluSW1fR0U5M2JjTTNXTmd6bURJMWFGUUJtOFJyUHNVUk9LNXJ1eWpDVHd5ODVVcC1fM3hhRjlULW83aWVEZWYwUDVTeDRTcHpndmtEMnJNbkxJWndsRTlOZ3BmVWxYZGp4YV8zZmpJY1R6UVlqa2RIMEhsWEV2N1ZHMjdNNnU2V0dTLXFqRnNqQ29TazNJOEt6QnA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "10 festivais que valem a pena visitar em Portugal em agosto - The Portugal News",
+    "src": "The Portugal News",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ2tQZXJpbDJKTWNVS2p0cTdzc1FlSlZkT0RWdlhaN0thMHFMcUhJVFdtNHlVYXFKZklQNEU4b0hNNnF2YkswOVZ2aHYyZWMwR0Z2REgyUHoyT2dzQjNma0ozNVhQWS1oT0d1YV9BeHlLN053alRUY2JQdmtPTmtiWHRyR1pkYlo3di1TbVk2RF95cjRnWFVKYWxXYllTZXZZcmdqZWUzTWVzQVNwMEJoNTQzT2REdEktaC14Z3Z2RQ?oc=5",
+    "timestamp": "2026-11-22T16:52:30+00:00",
+    "isoDate": "2026-11-22",
+    "date": "22 Nov",
+    "d": "10 festivais que valem a pena visitar em Portugal em agosto The Portugal News",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "The Portugal News",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ2tQZXJpbDJKTWNVS2p0cTdzc1FlSlZkT0RWdlhaN0thMHFMcUhJVFdtNHlVYXFKZklQNEU4b0hNNnF2YkswOVZ2aHYyZWMwR0Z2REgyUHoyT2dzQjNma0ozNVhQWS1oT0d1YV9BeHlLN053alRUY2JQdmtPTmtiWHRyR1pkYlo3di1TbVk2RF95cjRnWFVKYWxXYllTZXZZcmdqZWUzTWVzQVNwMEJoNTQzT2REdEktaC14Z3Z2RQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "The Yard - Uma nova adição a ser lançada no Algarve - The Portugal News",
+    "src": "The Portugal News",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX1JEcnd4VllFS0hGdy1KYkJUdXBUdnpWLXZnbFJva3BmalU2eWRHVXJPRW9lVGZKZER6QU5hY3FaN2RJWE95Q0xsdkdfVERtNk9hWl9yc3otRmNXTmptMlV1YkpJYW1nY3k5SXBOQ2laRk1xODhablFGTThsQWpoQ3RxR01INWFVZU1DWWVRcGFfVmdMeDI5ZVFvY3hmN2l2cVVBenFxWGxaRDBKd0hvRQ?oc=5",
+    "timestamp": "2026-11-22T16:45:05+00:00",
+    "isoDate": "2026-11-22",
+    "date": "22 Nov",
+    "d": "The Yard - Uma nova adição a ser lançada no Algarve The Portugal News",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "The Portugal News",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX1JEcnd4VllFS0hGdy1KYkJUdXBUdnpWLXZnbFJva3BmalU2eWRHVXJPRW9lVGZKZER6QU5hY3FaN2RJWE95Q0xsdkdfVERtNk9hWl9yc3otRmNXTmptMlV1YkpJYW1nY3k5SXBOQ2laRk1xODhablFGTThsQWpoQ3RxR01INWFVZU1DWWVRcGFfVmdMeDI5ZVFvY3hmN2l2cVVBenFxWGxaRDBKd0hvRQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "O festival de música regressa à cidade portuguesa - The Portugal News",
+    "src": "The Portugal News",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQlF1ME9QcWxNYVFEbVhlaDdrOS1kTUItTHFPME8tUHVKNFhDakNOWERVa1ZDUy1jQjR0YmhCbzd5ajh4TGFVU2ZfaUdheEFIUTZleVl3V05WREhRUmNET1BxRFl0RjhKbzRacTdUSHM3cWNUVXZHMnpOMzJwTExja1RmOHpWRXMtRFdmNTQ3OGFqQWFOeHdWVzdDQXE5OEtTMkFscTBEWDVUREdNNkgyTGFn?oc=5",
+    "timestamp": "2026-11-22T15:36:11+00:00",
+    "isoDate": "2026-11-22",
+    "date": "22 Nov",
+    "d": "O festival de música regressa à cidade portuguesa The Portugal News",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "The Portugal News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQlF1ME9QcWxNYVFEbVhlaDdrOS1kTUItTHFPME8tUHVKNFhDakNOWERVa1ZDUy1jQjR0YmhCbzd5ajh4TGFVU2ZfaUdheEFIUTZleVl3V05WREhRUmNET1BxRFl0RjhKbzRacTdUSHM3cWNUVXZHMnpOMzJwTExja1RmOHpWRXMtRFdmNTQ3OGFqQWFOeHdWVzdDQXE5OEtTMkFscTBEWDVUREdNNkgyTGFn?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "The Yard - Um novo lançamento no Algarve - The Portugal News",
+    "src": "The Portugal News",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONDB3b1ZNdzNWdGE0LUlTRlBncl80NjVSMkdqTmYyVkxiUElnTEpZZnQxT19qcm9BTDgyYmhaTGRORlROZldVSjB1bjlhaV9tVDFCNGVvMGhOT29kaXR4SkhuaFlIcUx2ZFpRSmdCaXFiWS1RUXVaX2VBOUNRNy0xMl9QSFAxNjE1bGtQSndJdUJwa2RNaWd5WlgtMkNzaHV3OUZj?oc=5",
+    "timestamp": "2026-11-22T11:26:14+00:00",
+    "isoDate": "2026-11-22",
+    "date": "22 Nov",
+    "d": "The Yard - Um novo lançamento no Algarve The Portugal News",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "The Portugal News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONDB3b1ZNdzNWdGE0LUlTRlBncl80NjVSMkdqTmYyVkxiUElnTEpZZnQxT19qcm9BTDgyYmhaTGRORlROZldVSjB1bjlhaV9tVDFCNGVvMGhOT29kaXR4SkhuaFlIcUx2ZFpRSmdCaXFiWS1RUXVaX2VBOUNRNy0xMl9QSFAxNjE1bGtQSndJdUJwa2RNaWd5WlgtMkNzaHV3OUZj?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "O homem por trás do hino nacional português - The Portugal News",
+    "src": "The Portugal News",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWXdsN3A1dk5Cal9XbFQyUFRsSE00Q2JWY1FGY21vckxCMENHSGUxUGsxdEY3ZGloNnVFWjllNjBkdTdWS3BhblZtQXc0ZEJIX0lxRjJEcWd5Zk0tbWhYQkZnbko1WjhpRENGNTlnZUxtRkdSc1lyRFlCZ2RXQk1sQmdTZnhLSE9ONzIxczBLazdudjljVWp6OXFlS1VJTFNvdHRZRzZid3pPUQ?oc=5",
+    "timestamp": "2026-11-22T09:18:05+00:00",
+    "isoDate": "2026-11-22",
+    "date": "22 Nov",
+    "d": "O homem por trás do hino nacional português The Portugal News",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "The Portugal News",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWXdsN3A1dk5Cal9XbFQyUFRsSE00Q2JWY1FGY21vckxCMENHSGUxUGsxdEY3ZGloNnVFWjllNjBkdTdWS3BhblZtQXc0ZEJIX0lxRjJEcWd5Zk0tbWhYQkZnbko1WjhpRENGNTlnZUxtRkdSc1lyRFlCZ2RXQk1sQmdTZnhLSE9ONzIxczBLazdudjljVWp6OXFlS1VJTFNvdHRZRzZid3pPUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "A sorte dos irlandeses? A curiosa paixão de Portugal pelos «Irish Pubs» - The Portugal News",
+    "src": "The Portugal News",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUmh0TzlJbWJPQmVZZElwdmlha0hNOFFhWmhVTmEwZk0ycnpSbDRyaVBtMXlZelhiVTRmcWtYWjVBaWFyanZQQWNNQWpwUUhLTTYweVVQWXhETko0ai0zT3dTVlFWYkRpMlQ0aWIwajVZQmtpUjBSZVFqVmdiYnJSY1g1ZlQ0ZlZQY3Y2SkpGaFhnUlpjNndrMWtvYVpxbUp1cW4tdTBNVDR5bTRYa3EtdFRZNDROSTZUM09ETk5wV3g0SERtV0s2ZjZfYw?oc=5",
+    "timestamp": "2026-11-22T02:50:31+00:00",
+    "isoDate": "2026-11-22",
+    "date": "22 Nov",
+    "d": "A sorte dos irlandeses? A curiosa paixão de Portugal pelos «Irish Pubs» The Portugal News",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "The Portugal News",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUmh0TzlJbWJPQmVZZElwdmlha0hNOFFhWmhVTmEwZk0ycnpSbDRyaVBtMXlZelhiVTRmcWtYWjVBaWFyanZQQWNNQWpwUUhLTTYweVVQWXhETko0ai0zT3dTVlFWYkRpMlQ0aWIwajVZQmtpUjBSZVFqVmdiYnJSY1g1ZlQ0ZlZQY3Y2SkpGaFhnUlpjNndrMWtvYVpxbUp1cW4tdTBNVDR5bTRYa3EtdFRZNDROSTZUM09ETk5wV3g0SERtV0s2ZjZfYw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Ícone do pagode romântico, Raça Negra se apresenta no Casino do Estoril em dezembro - DN Brasil",
+    "src": "DN Brasil",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdjU1M3VxRER6bVloSDQ1OUg4Rmx5YXdKVnNtNHdZbENJUDlacTc5YlpWRlZkNXBZUXdDVEpfajVSdGp4Rjl3ODN2VjlyR0cxWjlJT29DdHVoeWc0eFE4cWtPZHJqUlNOS19hUzRfOWVsRTEtRDR0TjdLYVIzaVlUWk44NmpqVGJVclhjR0ZJTHpjUnltNXVKYkpYdVNZT0pjdVNSZ3lBcE5meWJJWU1QaTNqOXdlLUZldmJGNnlrUVA0VkpmRnc?oc=5",
+    "timestamp": "2026-11-22T01:00:00+00:00",
+    "isoDate": "2026-11-22",
+    "date": "22 Nov",
+    "d": "Ícone do pagode romântico, Raça Negra se apresenta no Casino do Estoril em dezembro DN Brasil",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "DN Brasil",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdjU1M3VxRER6bVloSDQ1OUg4Rmx5YXdKVnNtNHdZbENJUDlacTc5YlpWRlZkNXBZUXdDVEpfajVSdGp4Rjl3ODN2VjlyR0cxWjlJT29DdHVoeWc0eFE4cWtPZHJqUlNOS19hUzRfOWVsRTEtRDR0TjdLYVIzaVlUWk44NmpqVGJVclhjR0ZJTHpjUnltNXVKYkpYdVNZT0pjdVNSZ3lBcE5meWJJWU1QaTNqOXdlLUZldmJGNnlrUVA0VkpmRnc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "O jornal do Brasil em Portugal - DN Brasil",
+    "src": "DN Brasil",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd2dUcF9ncE5FMjBwbFZoUGtxZnlIVFAtVXhHTEMzeEJBUlZYUGFHVVpCNHdCalpjT0RrTnNuSEhVZ0pBZWxUTkVKNzJFOWxLTjMwekY2ZmlwMmdvY0MtVU5rdklZOVJwMXJIREFWQkxQdXNsZ1ZvTXFYVmVwSFo1ZE1YckVWMU9qWjVIWXpodmUwdmxqQ2pYZmNLRUFXcUJacEwtdE4tZXNsVVR1blZzX1ZfdzRzdUNQLUJjMkRHME1KbzYxeHk4WHEtVVo1ZHpuZG9HaFZ0WnA?oc=5",
+    "timestamp": "2026-11-21T13:00:00+00:00",
+    "isoDate": "2026-11-21",
+    "date": "21 Nov",
+    "d": "O jornal do Brasil em Portugal DN Brasil",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "DN Brasil",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd2dUcF9ncE5FMjBwbFZoUGtxZnlIVFAtVXhHTEMzeEJBUlZYUGFHVVpCNHdCalpjT0RrTnNuSEhVZ0pBZWxUTkVKNzJFOWxLTjMwekY2ZmlwMmdvY0MtVU5rdklZOVJwMXJIREFWQkxQdXNsZ1ZvTXFYVmVwSFo1ZE1YckVWMU9qWjVIWXpodmUwdmxqQ2pYZmNLRUFXcUJacEwtdE4tZXNsVVR1blZzX1ZfdzRzdUNQLUJjMkRHME1KbzYxeHk4WHEtVVo1ZHpuZG9HaFZ0WnA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "сплошь",
+    "t": "Singles",
+    "g": "prog",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "21 Nov",
+    "isoDate": "2026-11-21",
+    "url": "https://alterportal.net/core/190919-splosh-singles-2026.html",
+    "d": "Post-Metal / Screamo",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/core/190919-splosh-singles-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "H.E.R.O.",
+    "t": "Buried in Bloom",
+    "g": "heavy",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "21 Nov",
+    "isoDate": "2026-11-21",
+    "url": "https://alterportal.net/alternative/190916-hero-buried-in-bloom-single-2026.html",
+    "d": "",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190916-hero-buried-in-bloom-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Terror Symphony",
+    "t": "Face of the Prey",
+    "g": "heavy",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "21 Nov",
+    "isoDate": "2026-11-21",
+    "url": "https://alterportal.net/core/190922-terror-symphony-face-of-the-prey-single-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/core/190922-terror-symphony-face-of-the-prey-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Novagløw",
+    "t": "REM",
+    "g": "heavy",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "21 Nov",
+    "isoDate": "2026-11-21",
+    "url": "https://alterportal.net/alternative/190921-novaglow-rem-single-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190921-novaglow-rem-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Let Me Bleed",
+    "t": "Say Goodbye",
+    "g": "electro",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "21 Nov",
+    "isoDate": "2026-11-21",
+    "url": "https://alterportal.net/alternative/190920-let-me-bleed-say-goodbye-single-2026.html",
+    "d": "Alternative Metal / Electronic",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190920-let-me-bleed-say-goodbye-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Kayla King",
+    "t": "Break Me",
+    "g": "heavy",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "21 Nov",
+    "isoDate": "2026-11-21",
+    "url": "https://alterportal.net/alternative/190923-kayla-king-break-me-single-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190923-kayla-king-break-me-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Magdalene Rose",
+    "t": "Do You Want to Be Free?",
+    "g": "heavy",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "21 Nov",
+    "isoDate": "2026-11-21",
+    "url": "https://alterportal.net/alternative/190925-magdalene-rose-do-you-want-to-be-free-single-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190925-magdalene-rose-do-you-want-to-be-free-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
+  },
+  {
+    "b": "Allalonealaska",
+    "t": "Spiralling.",
+    "g": "heavy",
+    "fmt": "Single",
+    "lbl": "Alterportal",
+    "date": "21 Nov",
+    "isoDate": "2026-11-21",
+    "url": "https://alterportal.net/alternative/190924-allalonealaska-spiralling-single-2026.html",
+    "d": "Стиль:",
+    "sources": [
+      {
+        "name": "Alterportal",
+        "url": "https://alterportal.net/alternative/190924-allalonealaska-spiralling-single-2026.html"
+      }
+    ],
+    "alterportal": true,
+    "kind": "release",
+    "section": "alter"
   },
   {
     "title": "GATES TO HELL Announces New Vocalist JP KAINE, Share 'Rotting Heart' Single",
@@ -3606,6 +4081,131 @@
     "section": "pt"
   },
   {
+    "title": "The 10 best new metal songs you need to hear right now - Louder",
+    "src": "Louder",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMDdIb3NHbW84QnY2V1hieGcyaEpyY3VRSWhCbzltY1NHajkzOXJRbEU2RklYTEpCenAwRlBMUlUxdVFYUVFNYmcwT25UMVotTDR1NDE2RE1yd19HZDRYOHAwbzluZVFiWWNfRUY2WjVvV3MycDVRR0ZROGdTc05MX09ZSkFkM3BCeVhxcTRQTTNQQ1JyTVJlYUMxQ0RKTVNWNjE5SUtVblFuUmowN3dDd2kzT3QtaXdjSk9Xb0ttUC1Zc2t1MzlhODJqRW9nT19pdWx2bkdyUmludw?oc=5",
+    "timestamp": "2026-11-21T10:00:00+00:00",
+    "isoDate": "2026-11-21",
+    "date": "21 Nov",
+    "d": "The 10 best new metal songs you need to hear right now Louder",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Louder",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMDdIb3NHbW84QnY2V1hieGcyaEpyY3VRSWhCbzltY1NHajkzOXJRbEU2RklYTEpCenAwRlBMUlUxdVFYUVFNYmcwT25UMVotTDR1NDE2RE1yd19HZDRYOHAwbzluZVFiWWNfRUY2WjVvV3MycDVRR0ZROGdTc05MX09ZSkFkM3BCeVhxcTRQTTNQQ1JyTVJlYUMxQ0RKTVNWNjE5SUtVblFuUmowN3dDd2kzT3QtaXdjSk9Xb0ttUC1Zc2t1MzlhODJqRW9nT19pdWx2bkdyUmludw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "A NOITE MEMORÁVEL DE BRYAN ADAMS EM LISBOA (VÍDEO) - 24Horas.pt",
+    "src": "24Horas.pt",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSE93QmF1RHpSbkxWY3BDZjhqRFJVYmstWGNyMHlJOHc1a1YtNmpPX19CZ0k5enVYcjIwTjJuV2o3cDBhcVhKeDdUc0Y3MVZqR1RNcjFzWXNkWTJYRjc1bXZPZFVDYWpzSnktUVNGVDdudnkzNWR5M2RhMC1nM21ZOQ?oc=5",
+    "timestamp": "2026-11-21T19:30:00+00:00",
+    "isoDate": "2026-11-21",
+    "date": "21 Nov",
+    "d": "A NOITE MEMORÁVEL DE BRYAN ADAMS EM LISBOA (VÍDEO) 24Horas.pt",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "24Horas.pt",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSE93QmF1RHpSbkxWY3BDZjhqRFJVYmstWGNyMHlJOHc1a1YtNmpPX19CZ0k5enVYcjIwTjJuV2o3cDBhcVhKeDdUc0Y3MVZqR1RNcjFzWXNkWTJYRjc1bXZPZFVDYWpzSnktUVNGVDdudnkzNWR5M2RhMC1nM21ZOQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Ciao Baby Alvor — Comida italiana, receitas familiares e música ao vivo - The Portugal News",
+    "src": "The Portugal News",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb2ZOZVB2dWRQWkpOSmMxU2Q4VTItT01VZEdVTlFnRVBUN0xjLWtyM0EtNWJDcGN5OGtxOFRJakVIVEFLeGJOYUJTV2UtTS1IdG13RDZRc3NEZjN5ek5GNk1CQWxDbEMxcEZnNGt0OTVEZE4wMTBEOHNkblRmSmJPdTdlaGwxU2FlRXN5czctR1R2OXF3NGJobEpqZjdLVktIa2E4c2V2R0lwLWd5ZlhndDN6N3ZvT1g1OE4wTkFNZUFLVHhCRmpYTVRn?oc=5",
+    "timestamp": "2026-11-21T11:26:05+00:00",
+    "isoDate": "2026-11-21",
+    "date": "21 Nov",
+    "d": "Ciao Baby Alvor — Comida italiana, receitas familiares e música ao vivo The Portugal News",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "The Portugal News",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb2ZOZVB2dWRQWkpOSmMxU2Q4VTItT01VZEdVTlFnRVBUN0xjLWtyM0EtNWJDcGN5OGtxOFRJakVIVEFLeGJOYUJTV2UtTS1IdG13RDZRc3NEZjN5ek5GNk1CQWxDbEMxcEZnNGt0OTVEZE4wMTBEOHNkblRmSmJPdTdlaGwxU2FlRXN5czctR1R2OXF3NGJobEpqZjdLVktIa2E4c2V2R0lwLWd5ZlhndDN6N3ZvT1g1OE4wTkFNZUFLVHhCRmpYTVRn?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "A estreia do Rock & Dão contou com a presença de grandes nomes da música - The Portugal News",
+    "src": "The Portugal News",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc0hrcWlrVnM1M3FmdWhRT3JEM2lFTUpGS01RYjZHbzJuZF85NV8tcVc4S3IyRFg5NnBWTzlNS1RlV1dzdnJNUHRIelBnVDB6azItQ3l3VnNON0ZwQTExaWJIUjNmM2JyUnhSV0pPVjhLZ21vN3FrTmZNVXdJOWtHSVRzeGNrQ3RjeGNlb3dsalFnU3ZHT1BVbi1UTktnS2lOWGNIcnl6N2Itdl9KTkNSRGsyOHdTMDFkT0tkTExoaTVkYzFmek5YUG1JcEhIZTdFcmdV?oc=5",
+    "timestamp": "2026-11-21T07:19:50+00:00",
+    "isoDate": "2026-11-21",
+    "date": "21 Nov",
+    "d": "A estreia do Rock & Dão contou com a presença de grandes nomes da música The Portugal News",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "The Portugal News",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPc0hrcWlrVnM1M3FmdWhRT3JEM2lFTUpGS01RYjZHbzJuZF85NV8tcVc4S3IyRFg5NnBWTzlNS1RlV1dzdnJNUHRIelBnVDB6azItQ3l3VnNON0ZwQTExaWJIUjNmM2JyUnhSV0pPVjhLZ21vN3FrTmZNVXdJOWtHSVRzeGNrQ3RjeGNlb3dsalFnU3ZHT1BVbi1UTktnS2lOWGNIcnl6N2Itdl9KTkNSRGsyOHdTMDFkT0tkTExoaTVkYzFmek5YUG1JcEhIZTdFcmdV?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Festival Folclórico Raízes 2026 - The Portugal News",
+    "src": "The Portugal News",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSTFsX1dMcDhoT3N5RGdXVHpiWW1yT1BuT1FsSFd6NnVfR0dYc0o0NUVWcmFMWTZ6UnoyRnlGcjFEcHJ2MjlzNG5SdUs4S3RnZXc5Qm02NDQtQzUzRGxLd0xXcm9Nbklhajhyc2JDODZaa2FXVG9SeDNqblVtVXN1eXFqQWpTLVE1QzdQT3VKaUczdmdNODdMbDZ3?oc=5",
+    "timestamp": "2026-11-21T04:29:01+00:00",
+    "isoDate": "2026-11-21",
+    "date": "21 Nov",
+    "d": "Festival Folclórico Raízes 2026 The Portugal News",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "The Portugal News",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSTFsX1dMcDhoT3N5RGdXVHpiWW1yT1BuT1FsSFd6NnVfR0dYc0o0NUVWcmFMWTZ6UnoyRnlGcjFEcHJ2MjlzNG5SdUs4S3RnZXc5Qm02NDQtQzUzRGxLd0xXcm9Nbklhajhyc2JDODZaa2FXVG9SeDNqblVtVXN1eXFqQWpTLVE1QzdQT3VKaUczdmdNODdMbDZ3?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
     "title": "Zach Top Adds New Arena Dates to ‘Cold Beer & Country Music Tour’ - TicketNews",
     "src": "TicketNews",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYW1LblZIcjd4X0F5V2RWTE1vcEVQMGZuc3ZCcUQ2UlN6WU9YUVpCdFJCclNsWXJtdXNKNGZ4WHpyWW1wMjY3RWpsVFY4amsta2tIMGZaZDBCQUpuNDh0akFpMWhPZWFUcXlMd0ZaUkRCT19mTjBCYmRHbUhmRkpiTjd3SmprbmUtQ0xMS2FEWE5WZ2pZWFdGNzNEVWZTdw?oc=5",
@@ -3983,6 +4583,10 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/2026-hard-rock-metal-album-release-calendar/"
+      },
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nTUp5MUNLYUxYdTdBNzBoMmt3ajZFcjhxSXl3MGJsWU1ra1U0UEoxa2pacEE4bGp1NHJtMkZmUFVUa2xteHZEbDlqZWpsTkx6bXhtLVVSTENISkZULWFrZnpzYS0zLUZXbXZqMy1RVVE3VlE?oc=5"
       }
     ],
     "status": "official",
@@ -4055,6 +4659,10 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/power-trip-mutual-death-warrant-grand-theft-auto-6/"
+      },
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FU3JueU5tUTBxYi0wYWlJekt2akdHazFRd09wR0p1S3JOdGlpeUxkbE9aZFZJa0hnRGdhcE5hNEJremRKZjNQQlBmTkRzSmh2WHVRZWkxZU9RQ2MzN0FUaUdXQm80UjFjMjkxdzFSQU4xQi16eGI2UlpzZi0?oc=5"
       }
     ],
     "status": "official",
@@ -5021,7 +5629,7 @@
     "title": "A Full List of Current 2026 K-pop Concerts (Updating) - Billboard",
     "src": "Billboard",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeDZIeThySXZfTW5YMXBIcmRNTUR1YVdXOVR1eks1UDdyY0JEQnl5eTk3bDMxa0tVWUcyRnQ0cGVNM3d3WE5remplWW1QSzVtMVo1bE1tX201UFZXLXhZanBNNTBIa2dsazhrbmN3aWJzVExTWmhpQl9RUFBSOWVGallhSnhWZEJ5RE45Rk1IbnZjTGFJMWpn?oc=5",
-    "timestamp": "2026-11-20T18:43:09+00:00",
+    "timestamp": "2026-11-20T08:00:00+00:00",
     "isoDate": "2026-11-20",
     "date": "20 Nov",
     "d": "A Full List of Current 2026 K-pop Concerts (Updating) Billboard",
@@ -5035,10 +5643,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -10357,6 +10965,106 @@
     "section": "buzz"
   },
   {
+    "title": "Trivium have endured nervous breakdowns, personnel changes and abandoned tours but Crown In The Grave is a defiant victory from one of metal's most beloved contemporary bands - Louder",
+    "src": "Louder",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZzhWWXBfZ19ucE82X1V6Vjg5VndLdkdzYkh1c05JMElTbDBXY1JYSlE1YnJfdTdPUjctN0E4b1liV05ELWcwTzB2TUE3NjQwemxXYm1ZZ1VjV3hzMGVJaWpMMTBjYkQ3ZG1oV1VEdE9UM182MDVqNFRCWS1SVXU0LVpxdkppNm8?oc=5",
+    "timestamp": "2026-11-20T14:57:27+00:00",
+    "isoDate": "2026-11-20",
+    "date": "20 Nov",
+    "d": "Trivium have endured nervous breakdowns, personnel changes and abandoned tours but Crown In The Grave is a defiant victory from one of metal's most beloved contemporary bands Louder",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Louder",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZzhWWXBfZ19ucE82X1V6Vjg5VndLdkdzYkh1c05JMElTbDBXY1JYSlE1YnJfdTdPUjctN0E4b1liV05ELWcwTzB2TUE3NjQwemxXYm1ZZ1VjV3hzMGVJaWpMMTBjYkQ3ZG1oV1VEdE9UM182MDVqNFRCWS1SVXU0LVpxdkppNm8?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Artistas portugueses nomeados para os Latin Grammy - The Portugal News",
+    "src": "The Portugal News",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMjl4dDJsb3JFU1pXMFZLeDVLTVlQZURhWUFwdUVBQ09HQkxrU2JOZ0laRXRBWDNxcTY4SHBIS2hPU3ZuSHlGOFN2VzlzU3VVX0FZbnZWMXBIckRsRHN0T3NEbkk0bEU4RXR0U3dzT25sM1p6SHBLa2pRTnZ4NTh1TTM0Ykp5cWNQbkJRdG96QmR0R0EzWmxDMmRHMDVWalowS3NhcHg0bWFENS1PX0Qtb21kSQ?oc=5",
+    "timestamp": "2026-11-20T20:15:00+00:00",
+    "isoDate": "2026-11-20",
+    "date": "20 Nov",
+    "d": "Artistas portugueses nomeados para os Latin Grammy The Portugal News",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "The Portugal News",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMjl4dDJsb3JFU1pXMFZLeDVLTVlQZURhWUFwdUVBQ09HQkxrU2JOZ0laRXRBWDNxcTY4SHBIS2hPU3ZuSHlGOFN2VzlzU3VVX0FZbnZWMXBIckRsRHN0T3NEbkk0bEU4RXR0U3dzT25sM1p6SHBLa2pRTnZ4NTh1TTM0Ykp5cWNQbkJRdG96QmR0R0EzWmxDMmRHMDVWalowS3NhcHg0bWFENS1PX0Qtb21kSQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "10 festivais que vale a pena visitar em Portugal neste mês de agosto - The Portugal News",
+    "src": "The Portugal News",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHVSdGVadG1RQ1VCWFV2Tmh6MHh6NVBsTmNsbjFGM3ZNR00xTWgzdWJrVllHQXhiSTNfTFR1MThYbzhNWUVmYzVrWmRlc0Rfb0pVNnFVdVJvWWN0cVh4Q3B1RjI1YkRJcGVuTnUyNUZGMHlwM0JvLVR3dlc1WXlSMzZObjJSYm16YjZoaEs2aXc5d3FJZlRzVXA3WHBpQkdsN3Q3cXZXczl5Z21IaGl5NFRYVEQ5ZnV5eXdWUldPc3ViM1NZZVBPY2FLcw?oc=5",
+    "timestamp": "2026-11-20T17:26:15+00:00",
+    "isoDate": "2026-11-20",
+    "date": "20 Nov",
+    "d": "10 festivais que vale a pena visitar em Portugal neste mês de agosto The Portugal News",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "The Portugal News",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHVSdGVadG1RQ1VCWFV2Tmh6MHh6NVBsTmNsbjFGM3ZNR00xTWgzdWJrVllHQXhiSTNfTFR1MThYbzhNWUVmYzVrWmRlc0Rfb0pVNnFVdVJvWWN0cVh4Q3B1RjI1YkRJcGVuTnUyNUZGMHlwM0JvLVR3dlc1WXlSMzZObjJSYm16YjZoaEs2aXc5d3FJZlRzVXA3WHBpQkdsN3Q3cXZXczl5Z21IaGl5NFRYVEQ5ZnV5eXdWUldPc3ViM1NZZVBPY2FLcw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "O “Big Four Do Thrash Metal” No GTA VI: Estas São As Músicas De Metal Que Vais Ouvir No Jogo - Impericon",
+    "src": "Impericon",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSm5jMkctejJZZ2M1aXBEb3U1Wl9pWlFZV3F0cFZUUk1xbkQ0MDlza0ZHZHlTUVFqVEFfcEpBbTB4bHlfV0U3QjFyS0FCcGQ5anoyQ1JHa0VFUzBtd2VVX2xCenVZSFdLTDZYcHpUUVJXc3NfZWJwYkZNdXVWcUIzQV9jNUVjbzJ0OU8zdE1sNFhFNkFiUHFjb094R3Z4cUtsREd6anQ3NHFua3lYZHk3N09lZ2lWZ3J6X3ZkTWxCTVl6SndyazFKSTdQNDE?oc=5",
+    "timestamp": "2026-11-20T13:04:16+00:00",
+    "isoDate": "2026-11-20",
+    "date": "20 Nov",
+    "d": "O “Big Four Do Thrash Metal” No GTA VI: Estas São As Músicas De Metal Que Vais Ouvir No Jogo Impericon",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Impericon",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSm5jMkctejJZZ2M1aXBEb3U1Wl9pWlFZV3F0cFZUUk1xbkQ0MDlza0ZHZHlTUVFqVEFfcEpBbTB4bHlfV0U3QjFyS0FCcGQ5anoyQ1JHa0VFUzBtd2VVX2xCenVZSFdLTDZYcHpUUVJXc3NfZWJwYkZNdXVWcUIzQV9jNUVjbzJ0OU8zdE1sNFhFNkFiUHFjb094R3Z4cUtsREd6anQ3NHFua3lYZHk3N09lZ2lWZ3J6X3ZkTWxCTVl6SndyazFKSTdQNDE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
     "title": "Heavy metal rock star dead at 61 — after revealing ‘medical issue’ - Page Six",
     "src": "Page Six",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQW9Lb0Z1NFI3dFk3Tk4xS0Z2OTRodldld3ZnX2NjdjRMY1VqVkFzVC1JT3F3Q2pnRElWY1psSlpBS1Y2Q1NhM3VfaFBfUmZ1bkRXbU1qVGtxaENMNTZpMDgtVHhjNi1iYjBuWllnc2lTY3d3RkQzTjhHQXEybUNVM3dWUnMwZWQ4S1lCU2pMWUhGTnAzNS1RMHgwTFBhNFB4Wnc3MHBiLW4yX3VZaWJKWGRB?oc=5",
@@ -12365,17 +13073,17 @@
     "section": "pt"
   },
   {
-    "title": "Janelas para Portugal celebra cultura e tradições portuguesas em Belém - Guarany Junior",
-    "src": "Guarany Junior",
+    "title": "Janelas para Portugal celebra cultura e tradições portuguesas em Belém - Portal Guarany Júnior",
+    "src": "Portal Guarany Júnior",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX052TGIwOURodU0teUZ1a0VuWFM0Z01lbklZbDdIZU0wNjZwZnN0d3JTN1lPcmFzOGE5UFcxVTZ2ME5Xdy05YVlBWU9Lc3dISW9LYU45Y2dacGhCM3ViVlN1dVpRMFhzeUhWaVU3bTdEZV9nN0tOSG5ncW1TU3Q1eTA3cFlhWVBBbHJmVHNIWkZEVDhRcERrQmtYMkRsMTI0OGcwelNSTGRyZXNVLUUySkZkcDRtUQ?oc=5",
     "timestamp": "2026-11-19T02:46:54+00:00",
     "isoDate": "2026-11-19",
     "date": "19 Nov",
-    "d": "Janelas para Portugal celebra cultura e tradições portuguesas em Belém Guarany Junior",
+    "d": "Janelas para Portugal celebra cultura e tradições portuguesas em Belém Portal Guarany Júnior",
     "category": "pt",
     "sources": [
       {
-        "name": "Guarany Junior",
+        "name": "Portal Guarany Júnior",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX052TGIwOURodU0teUZ1a0VuWFM0Z01lbklZbDdIZU0wNjZwZnN0d3JTN1lPcmFzOGE5UFcxVTZ2ME5Xdy05YVlBWU9Lc3dISW9LYU45Y2dacGhCM3ViVlN1dVpRMFhzeUhWaVU3bTdEZV9nN0tOSG5ncW1TU3Q1eTA3cFlhWVBBbHJmVHNIWkZEVDhRcERrQmtYMkRsMTI0OGcwelNSTGRyZXNVLUUySkZkcDRtUQ?oc=5"
       }
     ],
@@ -17056,6 +17764,56 @@
     "section": "buzz"
   },
   {
+    "title": "Décadas depois, Bryan Adams revela os maiores mitos sobre o “Summer of ’69” - NiT New in Town",
+    "src": "NiT New in Town",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRi1hZEwxOEl5ZHowcTlzSVJlSU1sSU4taUQ3Z0V3MldtOXNhQjlfRjFMMXFRbTAwdzlFSHFIR0M5dk9hVGhJY1U0aHpFSHlIYWk0V3lXSTJpT1RPUHdXRk1yZk50ZkJ5UmI4MFZIQTdhb0Y5SVg1OTFiT21JRjZobi1jenpZaHVtZWh3Q3FBdmJJbkVaWmVkUmVnRFdIZlU4d3RuYkUzTlA?oc=5",
+    "timestamp": "2026-11-19T23:21:00+00:00",
+    "isoDate": "2026-11-19",
+    "date": "19 Nov",
+    "d": "Décadas depois, Bryan Adams revela os maiores mitos sobre o “Summer of ’69” NiT New in Town",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "NiT New in Town",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRi1hZEwxOEl5ZHowcTlzSVJlSU1sSU4taUQ3Z0V3MldtOXNhQjlfRjFMMXFRbTAwdzlFSHFIR0M5dk9hVGhJY1U0aHpFSHlIYWk0V3lXSTJpT1RPUHdXRk1yZk50ZkJ5UmI4MFZIQTdhb0Y5SVg1OTFiT21JRjZobi1jenpZaHVtZWh3Q3FBdmJJbkVaWmVkUmVnRFdIZlU4d3RuYkUzTlA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Com agenda em emissoras portuguesas, Cylene Araújo prepara temporada internacional dedicada à música nordestina - EGOBrazil",
+    "src": "EGOBrazil",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWWdzd0NOdEVKakRIbV9QYmM5Wk1IS1dsNkpvLU9PcXdjNnc3dGZyTzFoUWc2SncwM2tLYUJrNm5uYjk1dEJVSUZMY05vOE9nbFktYlM3WGRpVFdaWlp3UnBWcGFvUEFXUDdnUW54UVVPSUhWTHVTamVnQ1VuZTE2ODRKWVVRTWY5YTMzRjVqaXVmWWJ4SHF0SkcyeHFaUEhXQjkzM3pER1dwZVR2YlhWQUlYZkM0XzAxUzNPVkNQR1JEM01wa1BYdFdSdzJTSFFNZEE?oc=5",
+    "timestamp": "2026-11-19T02:13:31+00:00",
+    "isoDate": "2026-11-19",
+    "date": "19 Nov",
+    "d": "Com agenda em emissoras portuguesas, Cylene Araújo prepara temporada internacional dedicada à música nordestina EGOBrazil",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "EGOBrazil",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWWdzd0NOdEVKakRIbV9QYmM5Wk1IS1dsNkpvLU9PcXdjNnc3dGZyTzFoUWc2SncwM2tLYUJrNm5uYjk1dEJVSUZMY05vOE9nbFktYlM3WGRpVFdaWlp3UnBWcGFvUEFXUDdnUW54UVVPSUhWTHVTamVnQ1VuZTE2ODRKWVVRTWY5YTMzRjVqaXVmWWJ4SHF0SkcyeHFaUEhXQjkzM3pER1dwZVR2YlhWQUlYZkM0XzAxUzNPVkNQR1JEM01wa1BYdFdSdzJTSFFNZEE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
     "title": "PISS Announce Vancouver Album Release Show, Add Second Date - Exclaim!",
     "src": "Exclaim!",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQekZGN29JenNTNVlJcFk4WE0wZVFicmVTTkxrMmUtdjN1ZVBtTlVzaDdiV3lBMmZESzFzYTA1WlNZVzJnWW1pbUN5Z0hyemk4Qnk5RGZCbElmTXhiUTA3Z3p4ZWpqSmptZ0VnQXViajlpeXczZlRMZ1poU2t3UlFUUTA2Y0k0My01NE1DZXRmUUN4eU83UTh2eQ?oc=5",
@@ -19996,6 +20754,10 @@
       {
         "name": "Loudwire",
         "url": "https://loudwire.com/rock-metal-soundtrack-songs-grand-theft-auto-6/"
+      },
+      {
+        "name": "Loudwire",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02Tm1uOXctbjhlSHBsUnp5VjhoamlXMU52d2N5M3p1bDNkN0VNODEzc21HS2ZnRDJCSTBwV2hYTUJ0VTE5aFExeXdpaDVoU2FZd1FMYk1DNnVxZ0xoa3pOVmpLcTBwaXF1allFcGZFSFlTdDNpcmhB?oc=5"
       }
     ],
     "status": "official",
@@ -22779,6 +23541,31 @@
     "star": false,
     "kind": "news",
     "section": "core"
+  },
+  {
+    "title": "Sepultura e mais! GTA 6 traz músicas brasileiras em suas rádios - Estadão",
+    "src": "Estadão",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRXpUM0hPMmRFbVVjbmR1anVfdGo2aWEwOURqYkFFcU8xcnF6cDJkTWI0ZW1Ld2J4SXRPSTFhYkdxQW53OGxLanpacDI2Nmx1Zno2WnRyLTRzamVXSHNma2wxNXA2SU56Y091RVhFNUNqTXBVcGpCbF9ESGtjVEdDT2Y4S3M0RHhweTdXVkFKaXF5b1pFUEs2d3VDQTFqeUJhc3E4ZHlDNTjSAa4BQVVfeXFMTk1ydks2dE56SUJzTUNWVUo4OEI3eHpxNHFEcm1hR3pycnNfNVBFWi1IYzVuM1JpXzZLQ0twZVhfeEZNTzJqWjdzaVRxWklZZzh0cHVMTFJYbGhBVFRaRTA2alpFX3NLcU9hcUllMjRfaVJTNmd4d0oyRjZaYm43SWRwN2hnNTBGRWgzRWNIeGxKUmV6bExyRk5UdUhhNHhfLTRTc3BoMkZ0Nmo2cll3?oc=5",
+    "timestamp": "2026-11-18T17:30:00+00:00",
+    "isoDate": "2026-11-18",
+    "date": "18 Nov",
+    "d": "Sepultura e mais! GTA 6 traz músicas brasileiras em suas rádios Estadão",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Estadão",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRXpUM0hPMmRFbVVjbmR1anVfdGo2aWEwOURqYkFFcU8xcnF6cDJkTWI0ZW1Ld2J4SXRPSTFhYkdxQW53OGxLanpacDI2Nmx1Zno2WnRyLTRzamVXSHNma2wxNXA2SU56Y091RVhFNUNqTXBVcGpCbF9ESGtjVEdDT2Y4S3M0RHhweTdXVkFKaXF5b1pFUEs2d3VDQTFqeUJhc3E4ZHlDNTjSAa4BQVVfeXFMTk1ydks2dE56SUJzTUNWVUo4OEI3eHpxNHFEcm1hR3pycnNfNVBFWi1IYzVuM1JpXzZLQ0twZVhfeEZNTzJqWjdzaVRxWklZZzh0cHVMTFJYbGhBVFRaRTA2alpFX3NLcU9hcUllMjRfaVJTNmd4d0oyRjZaYm43SWRwN2hnNTBGRWgzRWNIeGxKUmV6bExyRk5UdUhhNHhfLTRTc3BoMkZ0Nmo2cll3?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "title": "Why Vancouver punks Piss open every show with a trigger warning: “More controversial than we expected it to be” - Far Out Magazine",
@@ -29523,6 +30310,81 @@
     "section": "news"
   },
   {
+    "title": "Padre Guilherme lança oficialmente «Uma Casa Portuguesa» com Rita Guerra - Quinto Canal",
+    "src": "Quinto Canal",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSWwwcmZmZWpwMWNzNmUzeEtiUFQ0S0NodkhaTUw5LXUwRHVmQ05HM2ZiUXBpRmhjZUhPOXlHOTljZ0haWk1TbU5EWmpLYWdXNmNYOXpxUUlWaFJraXFnR0VUbW43aTRoR2FzUEtpb3lYT203Uk5NUFRmQllYMTZYMXFpa3NJbGhIdHFhbVNzZXZlV0w5ZXhLUk5JTUQ3SWJnOWd3dg?oc=5",
+    "timestamp": "2026-11-17T03:59:00+00:00",
+    "isoDate": "2026-11-17",
+    "date": "17 Nov",
+    "d": "Padre Guilherme lança oficialmente «Uma Casa Portuguesa» com Rita Guerra Quinto Canal",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Quinto Canal",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSWwwcmZmZWpwMWNzNmUzeEtiUFQ0S0NodkhaTUw5LXUwRHVmQ05HM2ZiUXBpRmhjZUhPOXlHOTljZ0haWk1TbU5EWmpLYWdXNmNYOXpxUUlWaFJraXFnR0VUbW43aTRoR2FzUEtpb3lYT203Uk5NUFRmQllYMTZYMXFpa3NJbGhIdHFhbVNzZXZlV0w5ZXhLUk5JTUQ3SWJnOWd3dg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Hotel Senac Grogotó prepara jantar temático com sabores e música de Portugal - barbacenatem.com.br",
+    "src": "barbacenatem.com.br",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQalRfOGJJODBZeEdlR2plRy1pcFRWd21tREk3OVZnU0lBaGtmNjAyeUJySnFKdTVyUlQ4Z0lzb2R2RjY3VjdlUEFLTFRSTkJDNFpkb2xhdmJuVG9iZGpzWmRSZWFoQ2ZRNnRLdDkwSHgwZTFXR3FOZmFMdjItWE1nVHNjWlRsQ1pBWHZpR25zeFRzWHlQZGJleGZuQ1V5V1R6VjNHcTdCUDE?oc=5",
+    "timestamp": "2026-11-17T16:26:10+00:00",
+    "isoDate": "2026-11-17",
+    "date": "17 Nov",
+    "d": "Hotel Senac Grogotó prepara jantar temático com sabores e música de Portugal barbacenatem.com.br",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "barbacenatem.com.br",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQalRfOGJJODBZeEdlR2plRy1pcFRWd21tREk3OVZnU0lBaGtmNjAyeUJySnFKdTVyUlQ4Z0lzb2R2RjY3VjdlUEFLTFRSTkJDNFpkb2xhdmJuVG9iZGpzWmRSZWFoQ2ZRNnRLdDkwSHgwZTFXR3FOZmFMdjItWE1nVHNjWlRsQ1pBWHZpR25zeFRzWHlQZGJleGZuQ1V5V1R6VjNHcTdCUDE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "José Afonso, Traz Outro Amigo Também de 17 nov 2026 - RTP",
+    "src": "RTP",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdzZRNl9wZ2JMWFA3bHVaLV8xcEtacFZfMklCMFcyeUszeUFkUmNiT0ZFT3MtbXFlNzc1TkpvSFJXNHRvWnRtZzlRa2FrX2xnaWhlcnA0NWtLZDRzaGZjUVNVajE4TkZmZTM2a1hFSG1KU21rektZd2NERFRkemJsclJn?oc=5",
+    "timestamp": "2026-11-17T08:00:00+00:00",
+    "isoDate": "2026-11-17",
+    "date": "17 Nov",
+    "d": "José Afonso, Traz Outro Amigo Também de 17 nov 2026 RTP",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "RTP",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdzZRNl9wZ2JMWFA3bHVaLV8xcEtacFZfMklCMFcyeUszeUFkUmNiT0ZFT3MtbXFlNzc1TkpvSFJXNHRvWnRtZzlRa2FrX2xnaWhlcnA0NWtLZDRzaGZjUVNVajE4TkZmZTM2a1hFSG1KU21rektZd2NERFRkemJsclJn?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
     "title": "The 25 most unforgettable punk rock characters - Yardbarker",
     "src": "Yardbarker",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOXzBNeF94elZiT2dCbVdnVWFYaEtTTmdNa0NvMXdRN0wwR0w2V1hCZUdPZUVXZ3BGaUpMZDJQNmxDWFNyNG1vMlhyem5penNsSjR4dlllVkl6OXRSOC05dzFaXzFnX1dkV0JWR0RGel9iLVBrNlFZSWNMMFFaTmMwNFhuTmFIODJrbFNYamY4eEtCbGJ4SEVZM2d4M0J0Y3BI?oc=5",
@@ -31589,31 +32451,6 @@
       {
         "name": "SAPO",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObXJCcFljV3ZneHZGTGtTV2FZcTFOWkNKcHZMdVJZZHNkempnbFM0RTdNYjJlRklvMjVaRU9NOFBUX0N6UDlIMWxwUmxFMzByY0cyajgyUTRrZGtaSGg0TTQ3ZVdGeGhSZDJWSDVwdnFFLVc2bkVKUzFlQkVGcEg3cUwzeWF0TTQtNExpSDNCeUVGNm9qcjI1OXJucDR1Qy1JSTYxMTZ4TWJaX2xxNjg1OGl1VlJoYjZ0eS1lUzBR?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": true,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "pt"
-  },
-  {
-    "title": "Padre Guilherme lança oficialmente «Uma Casa Portuguesa» com Rita Guerra - Quinto Canal",
-    "src": "Quinto Canal",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSWwwcmZmZWpwMWNzNmUzeEtiUFQ0S0NodkhaTUw5LXUwRHVmQ05HM2ZiUXBpRmhjZUhPOXlHOTljZ0haWk1TbU5EWmpLYWdXNmNYOXpxUUlWaFJraXFnR0VUbW43aTRoR2FzUEtpb3lYT203Uk5NUFRmQllYMTZYMXFpa3NJbGhIdHFhbVNzZXZlV0w5ZXhLUk5JTUQ3SWJnOWd3dg?oc=5",
-    "timestamp": "2026-11-16T01:47:03+00:00",
-    "isoDate": "2026-11-16",
-    "date": "16 Nov",
-    "d": "Padre Guilherme lança oficialmente «Uma Casa Portuguesa» com Rita Guerra Quinto Canal",
-    "category": "pt",
-    "sources": [
-      {
-        "name": "Quinto Canal",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSWwwcmZmZWpwMWNzNmUzeEtiUFQ0S0NodkhaTUw5LXUwRHVmQ05HM2ZiUXBpRmhjZUhPOXlHOTljZ0haWk1TbU5EWmpLYWdXNmNYOXpxUUlWaFJraXFnR0VUbW43aTRoR2FzUEtpb3lYT203Uk5NUFRmQllYMTZYMXFpa3NJbGhIdHFhbVNzZXZlV0w5ZXhLUk5JTUQ3SWJnOWd3dg?oc=5"
       }
     ],
     "status": "official",
@@ -34134,10 +34971,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -35475,6 +36312,31 @@
       {
         "name": "Jornal de Notícias",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd1hZeDctLUFocFRoeFRtVUVNanRKNzhkTS1nSEt4RlQxcDNZSGRFTUNlMTBnd3pLYnNIUElrR1lmeWJQZmRabE4tajFhWTBIYnlWekZYeVNmMFktbFhCekc1SEdiTkxTOFdTUVJjTlNSR2ZJSnI3U0VDT21NVUxTVHczcHhld1BjUVNMUk4tZ28zOWlzUU1ncGdJYnlpUXE2VVZCX1NQTQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Laurus Nobilis Music Fest anuncia Crypta para 15 de julho - Diário do Minho",
+    "src": "Diário do Minho",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTUR0RGZZZUs0eE11QXJndUhoQ18yREU3VFh4cTMwT2ZMdlJJSGp2Y1FLUHVNMTc5SXlqT3ROdFdMN0lpWWpYblJOU3FFSVVCRkdQSDgxaEtQVnJuNDZwWTBLVFI4cHdlYzBodm1mektMT1NwT1BaZllOdGFpQjdsd25nNWxHR3FRWkFSWUd1dGZVdlJIQ1J4UklTa2YyOF9lcGJEUEg1T0lPZVcxbzI4RGpwWU9HZElpSWk1MW1mUWpnWDJ2bXfSAcsBQVVfeXFMTUNXMlVKSVBwSXZxbldpc2xiNTBBZEFfVmx0d3Z1WGl6LUpPbC14dThPam1hR2dUdWJLRnMzWkpDaGJ4MmdSN0g5THFVWnltQ2lybUNaZWJLOU9VZ1c2RnBDblhNc0luUGV5dUdYeXpqbk5wbmZnNVhiV0s5V2hfS0VQVWcyMmxma1RhZTJXUXpKRVFIWGVwcm9KRlJQRHpKVTFNUElFbnNCeUFpQkg5NU5yTVozeHZDeFkyVExibjVMcURncERqcXNtZjg?oc=5",
+    "timestamp": "2026-11-16T11:46:00+00:00",
+    "isoDate": "2026-11-16",
+    "date": "16 Nov",
+    "d": "Laurus Nobilis Music Fest anuncia Crypta para 15 de julho Diário do Minho",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Diário do Minho",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTUR0RGZZZUs0eE11QXJndUhoQ18yREU3VFh4cTMwT2ZMdlJJSGp2Y1FLUHVNMTc5SXlqT3ROdFdMN0lpWWpYblJOU3FFSVVCRkdQSDgxaEtQVnJuNDZwWTBLVFI4cHdlYzBodm1mektMT1NwT1BaZllOdGFpQjdsd25nNWxHR3FRWkFSWUd1dGZVdlJIQ1J4UklTa2YyOF9lcGJEUEg1T0lPZVcxbzI4RGpwWU9HZElpSWk1MW1mUWpnWDJ2bXfSAcsBQVVfeXFMTUNXMlVKSVBwSXZxbldpc2xiNTBBZEFfVmx0d3Z1WGl6LUpPbC14dThPam1hR2dUdWJLRnMzWkpDaGJ4MmdSN0g5THFVWnltQ2lybUNaZWJLOU9VZ1c2RnBDblhNc0luUGV5dUdYeXpqbk5wbmZnNVhiV0s5V2hfS0VQVWcyMmxma1RhZTJXUXpKRVFIWGVwcm9KRlJQRHpKVTFNUElFbnNCeUFpQkg5NU5yTVozeHZDeFkyVExibjVMcURncERqcXNtZjg?oc=5"
       }
     ],
     "status": "official",
@@ -37763,31 +38625,6 @@
     ],
     "status": "rumor",
     "confidence": "low",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "buzz"
-  },
-  {
-    "title": "Enslaved celebrate album release with visualiser for focus track - Metal Planet Music",
-    "src": "Metal Planet Music",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTzdEdlRSRUtHRzloeXl5Nnc2Nko0T2N6SzltajY2R2tfcU1sWXFzd0pwcmpYemtUSWZBck50S0U4NnhvRUgxcVdZTFFacjBIS2VnVmdHWlY2MDUxUHZESW1GNHJ1eFNmczE1aU1NUk1JUkpxVEJ2Tnp5T0RPQlRFNFlveFNaSG50MUVuS1FxUUtMWFdVM2szanJyLWtGam55c1FnQw?oc=5",
-    "timestamp": "2026-11-15T18:08:05+00:00",
-    "isoDate": "2026-11-15",
-    "date": "15 Nov",
-    "d": "Enslaved celebrate album release with visualiser for focus track Metal Planet Music",
-    "category": "general",
-    "sources": [
-      {
-        "name": "Metal Planet Music",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTzdEdlRSRUtHRzloeXl5Nnc2Nko0T2N6SzltajY2R2tfcU1sWXFzd0pwcmpYemtUSWZBck50S0U4NnhvRUgxcVdZTFFacjBIS2VnVmdHWlY2MDUxUHZESW1GNHJ1eFNmczE1aU1NUk1JUkpxVEJ2Tnp5T0RPQlRFNFlveFNaSG50MUVuS1FxUUtMWFdVM2szanJyLWtGam55c1FnQw?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
     "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
