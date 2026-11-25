@@ -509,10 +509,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -534,10 +534,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -559,10 +559,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -609,10 +609,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -634,10 +634,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -659,10 +659,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -684,10 +684,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -709,10 +709,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -734,10 +734,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -759,10 +759,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -784,10 +784,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -834,10 +834,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -929,19 +929,15 @@
       {
         "name": "People.com",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS1B5SExLZ2JzenN6cTMxeVB3UXZtalkwdXk2T3lScUJ5LWtlWnVKVVpCa2dJMGpZNUluWjBQbGt5MW5uMEotSk92MWVkcXBnWWVMT3JrUTlORExlRW8yYWU4ZUdwQ2pNU3AzYjctMnl1RXAtUmVpV3I2bWJ5eWw2bHFveV92X1dDYW5HMkdjdnJiWlJXWnVLNklReFoybk45Z2NkMkFCX190RVdCVnlzLVRjTVUyTkhkVmtrMGxpQ3VOYWVIVXRLQw?oc=5"
-      },
-      {
-        "name": "AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU3pINUFjaWZza0R5OGVTb2ExWWd6U0RWS3NwME5rdlk3c0RseUp4bFY0M3QzWjZOLS0yS3pkU1BKa3JORER3Zkd3Q1M2SktJWngtYXZHZjBJVzNWZDNGT2RFeDkzaVJZdkh4SV9veC03aVVqTGVSYkxJcmJKeUhZekwzS1VzZw?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "news"
   },
@@ -1174,7 +1170,7 @@
     "title": "Polish Death Metal Band Cry Of The Nile Share Second Single ‘The Dark Night Of The Soul’ From Debut Album ‘Via Ad Nihilum’ - All Music Magazine UK",
     "src": "All Music Magazine UK",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOVdpU0h2QjFIYlgxLXJ0ODh5UG5fcXMyZmhfMHlWQVJuaUJkd3JJZWdPaERBWmN5UmIzekw1Q2pUb0V4YWd1a0ppUzhWOVdzTUdSaUJfZjM4bDlUUlNSRWFCa0swblR6LVFqdEMxU2xwYVlqOXVydjByVzNmRDA2Q3ZHM0R5MGQ2YW43X3ZnZ1Z1Rzl0QU9haGxESnJxbWNYMzhzRVN6U2xNZEJkU3dUdjAzS25yUTM4UDRSWXdVOVBXbDNacjU5VXZxMUVIWi0wTjI0?oc=5",
-    "timestamp": "2026-11-24T11:57:10+00:00",
+    "timestamp": "2026-11-24T11:57:11+00:00",
     "isoDate": "2026-11-24",
     "date": "24 Nov",
     "d": "Polish Death Metal Band Cry Of The Nile Share Second Single ‘The Dark Night Of The Soul’ From Debut Album ‘Via Ad Nihilum’ All Music Magazine UK",
@@ -1638,10 +1634,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1663,10 +1659,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1688,10 +1684,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1713,10 +1709,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1738,10 +1734,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1763,10 +1759,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1788,10 +1784,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1813,10 +1809,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1863,10 +1859,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1888,10 +1884,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1913,10 +1909,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1963,10 +1959,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -1988,10 +1984,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2013,10 +2009,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2088,10 +2084,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2113,10 +2109,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2138,10 +2134,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2188,10 +2184,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2238,10 +2234,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2288,10 +2284,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2313,10 +2309,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2363,10 +2359,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -2688,10 +2684,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -2717,10 +2713,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -3577,10 +3573,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -3602,21 +3598,21 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
   {
-    "title": "Julien Baker Confirms New Album, Return to Music Hall of Williamsburg - Relix",
+    "title": "Julien Baker Plays Music Hall of Williamsburg Closing Shows - Relix",
     "src": "Relix",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjNHOEV6OGVsc2xpN2I5Y3FXeG94alo2bmxFUERoX3Y1d25kMW9ZSDA2a0xOb3ZaR0gwWGRMNUhUYk5MSUJYUGpES1NabXU3VkJMeHZqb3hKUUlVTjFhTEJqT3VVc2tPV0llVC10RkoxSE9FcHRWZ09pdjcwUHhMcWY2bGlVenhuMlBOQWo3RVZDcF9GcjJWMUZ6OXExWms?oc=5",
     "timestamp": "2026-11-24T15:32:00+00:00",
     "isoDate": "2026-11-24",
     "date": "24 Nov",
-    "d": "Julien Baker Confirms New Album, Return to Music Hall of Williamsburg Relix",
+    "d": "Julien Baker Plays Music Hall of Williamsburg Closing Shows Relix",
     "category": "general",
     "sources": [
       {
@@ -3627,10 +3623,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -3652,10 +3648,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -4188,7 +4184,7 @@
     "title": "5 Things to Know About Anuel AA Ahead of His ‘RHLM2’ Album Release - Billboard",
     "src": "Billboard",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOFBlZk4zX2wwYTEtTGdCRW1kRjFJZDBGX2dTV2NrcXdkbmVaelc3N0thdFI5aGYtazhESWJXamJuVXlyV1hXVVVzbmkxejYzdHgzaG13Q3ZXX3hGd3dwdHFvUHp0R2xLX0FsbjdtTURPNzVlOThyLU03RzhQLXdIaC1lNHk?oc=5",
-    "timestamp": "2026-11-24T21:11:15+00:00",
+    "timestamp": "2026-11-24T21:14:15+00:00",
     "isoDate": "2026-11-24",
     "date": "24 Nov",
     "d": "5 Things to Know About Anuel AA Ahead of His ‘RHLM2’ Album Release Billboard",
@@ -4477,10 +4473,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -4502,10 +4498,10 @@
     "status": "rumor",
     "confidence": "low",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -4527,10 +4523,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -4577,10 +4573,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -4880,8 +4876,8 @@
     "g": "doom",
     "fmt": "Album",
     "lbl": "Alterportal",
-    "date": "23 Nov",
-    "isoDate": "2026-11-23",
+    "date": "24 Nov",
+    "isoDate": "2026-11-24",
     "url": "https://alterportal.net/2026_albums/190931-the-konsent-the-konsent-2026.html",
     "d": "Progressive Metal / Doom Metal",
     "sources": [
@@ -4900,8 +4896,8 @@
     "g": "black",
     "fmt": "Album",
     "lbl": "Alterportal",
-    "date": "23 Nov",
-    "isoDate": "2026-11-23",
+    "date": "24 Nov",
+    "isoDate": "2026-11-24",
     "url": "https://alterportal.net/2026_albums/190932-mga-traitors-to-the-human-cause-2026.html",
     "d": "Black Metal",
     "sources": [
@@ -4913,6 +4909,531 @@
     "alterportal": true,
     "kind": "release",
     "section": "alter"
+  },
+  {
+    "title": "MIKKEY DEE's Advice To Young Musicians: 'Stay The F*** Away From A.I.'",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/mikkey-dees-advice-to-young-musicians-stay-the-f-away-from-a-i",
+    "timestamp": "2026-11-24T22:09:27+00:00",
+    "isoDate": "2026-11-24",
+    "date": "24 Nov",
+    "d": "In a new interview with \"Reckless\" Rexx Ruger of Pod Scum, Mikkey Dee, the veteran Swedish hard rock drummer best known for his work with MOTÖRHEAD, SCORPIONS and KING DIAMOND, was asked what advice he would give to a young musician looking to break into the music business. He said (as transcribed b...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/mikkey-dees-advice-to-young-musicians-stay-the-f-away-from-a-i"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: DOWN – VOLUME 5",
+    "src": "MetalSucks",
+    "url": "https://www.metalsucks.net/2026/11/24/disgruntled-dad-reviews-with-dave-mustcomplain-down-volume-5/",
+    "timestamp": "2026-11-24T15:00:00+00:00",
+    "isoDate": "2026-11-24",
+    "date": "24 Nov",
+    "d": "And we have a winner, folks! The post DISGRUNTLED DAD REVIEWS With DAVE MUSTCOMPLAIN: DOWN – VOLUME 5 appeared first on MetalSucks .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "MetalSucks",
+        "url": "https://www.metalsucks.net/2026/11/24/disgruntled-dad-reviews-with-dave-mustcomplain-down-volume-5/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Ninajirachi Drops I Love My Computer Remix Album",
+    "src": "Pitchfork",
+    "url": "https://pitchfork.com/story/ninajirachi-drops-i-love-my-computer-remix-album/",
+    "timestamp": "2026-11-24T23:06:25+00:00",
+    "isoDate": "2026-11-24",
+    "date": "24 Nov",
+    "d": "",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/story/ninajirachi-drops-i-love-my-computer-remix-album/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ashe Reacts To 'Insane' Rumor Her Hit 'Stop The Wedding!' Is About FINNEAS - 106.7 Lite FM",
+    "src": "106.7 Lite FM",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdTBWcTE1aXJLWi00UjZiZzNIOUFEZG0xaTk3UmItekN1WkhTdmw1NVlsX1VleFpfR3ZiVlRPNk1PSjF1aWlVN2w2b2F1SS0xdUQ0YmU4SWkyNC11X0tHN3NMd3dIM3BaLURPbUUyakNpMmtDQ0hpQS1ZSG84bTNhTzlMV1YtamdjRzBzcjR4YXpxLXAzcEdhRlp4Y0hVTEJZLU5EVi1HY0tBam1SZzlvY2R1RW9UQQ?oc=5",
+    "timestamp": "2026-11-24T22:20:00+00:00",
+    "isoDate": "2026-11-24",
+    "date": "24 Nov",
+    "d": "Ashe Reacts To 'Insane' Rumor Her Hit 'Stop The Wedding!' Is About FINNEAS 106.7 Lite FM",
+    "category": "general",
+    "sources": [
+      {
+        "name": "106.7 Lite FM",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdTBWcTE1aXJLWi00UjZiZzNIOUFEZG0xaTk3UmItekN1WkhTdmw1NVlsX1VleFpfR3ZiVlRPNk1PSjF1aWlVN2w2b2F1SS0xdUQ0YmU4SWkyNC11X0tHN3NMd3dIM3BaLURPbUUyakNpMmtDQ0hpQS1ZSG84bTNhTzlMV1YtamdjRzBzcjR4YXpxLXAzcEdhRlp4Y0hVTEJZLU5EVi1HY0tBam1SZzlvY2R1RW9UQQ?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Interview: Tess Marshall Talks Album Release Show A GOOD THING at The Green Room 42 - BroadwayWorld",
+    "src": "BroadwayWorld",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWkNXbEZTd0xYdWlXTURldU9uSzF4NlZSYTlwZWVWS28weTNJMWVRUUI4MHlOSXZLY1pwc01oemNBd3VLYlM3TTZYT1EzNFpKR3Z5Ti1MV25oS0dCNzA1RTN2ZHFFTUdZMVlvamdnZi1OWUpySHFrZkJsVG14d1RBazBrZzFDWm0yem12aFdSQlczdzYxUkVoWDlqYjNXeWpkTnJscnhwTDI1d19DOUtWbU1ZSHBTeFlHUkJqaFJHcTRheWFSRmNnejM1RGFGVjA4a3c4?oc=5",
+    "timestamp": "2026-11-24T21:20:35+00:00",
+    "isoDate": "2026-11-24",
+    "date": "24 Nov",
+    "d": "Interview: Tess Marshall Talks Album Release Show A GOOD THING at The Green Room 42 BroadwayWorld",
+    "category": "general",
+    "sources": [
+      {
+        "name": "BroadwayWorld",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWkNXbEZTd0xYdWlXTURldU9uSzF4NlZSYTlwZWVWS28weTNJMWVRUUI4MHlOSXZLY1pwc01oemNBd3VLYlM3TTZYT1EzNFpKR3Z5Ti1MV25oS0dCNzA1RTN2ZHFFTUdZMVlvamdnZi1OWUpySHFrZkJsVG14d1RBazBrZzFDWm0yem12aFdSQlczdzYxUkVoWDlqYjNXeWpkTnJscnhwTDI1d19DOUtWbU1ZSHBTeFlHUkJqaFJHcTRheWFSRmNnejM1RGFGVjA4a3c4?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Makari on New Music, Warped Tour, and Finding the Silver Lining - MELODIC Magazine",
+    "src": "MELODIC Magazine",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWsxWTNoQXhIVGI5MnRWMDBLbmV2dU5ybldQUGprLVN1ZFF4bU9iYXFkRHZ6S3BybWF5WjQyaVAyTVRsMTNuU2xmcXRqMm52U2Q3WGoyWTJYTC1FZnk5WDZzSnRqczBoTFpjZmdicTFMdGYtNW83MkdwNmxuOVVBUXgtOGFtS0lRNDBWR0M2cG9ESnVZRm0wZGhUMVpJLUE?oc=5",
+    "timestamp": "2026-11-24T19:43:51+00:00",
+    "isoDate": "2026-11-24",
+    "date": "24 Nov",
+    "d": "Makari on New Music, Warped Tour, and Finding the Silver Lining MELODIC Magazine",
+    "category": "general",
+    "sources": [
+      {
+        "name": "MELODIC Magazine",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWsxWTNoQXhIVGI5MnRWMDBLbmV2dU5ybldQUGprLVN1ZFF4bU9iYXFkRHZ6S3BybWF5WjQyaVAyTVRsMTNuU2xmcXRqMm52U2Q3WGoyWTJYTC1FZnk5WDZzSnRqczBoTFpjZmdicTFMdGYtNW83MkdwNmxuOVVBUXgtOGFtS0lRNDBWR0M2cG9ESnVZRm0wZGhUMVpJLUE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Armin van Buuren Announces ‘Awake’ World Tour Along With New Album Release Date - EDMTunes",
+    "src": "EDMTunes",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUl9rTkpTTGhiZ1FIek1DeXo0SEx1emdFXzNRcExia3h5RV9lTUgxc2haQ0ljZlNucVFzc0R2SkN3RjZqOTVIb3R5UkdDeFZ2LU1MdjBfbGVqYk1TWHU5TnIyU05wMkVIa2JHazI0MVRxVV9TMEd3Tk9jb012WDdCb3RnaEJwSEpGdHNjNWhUblZsSGs4NUoxRzFPQVk0T295cXRqODA4Y1BCTGFoTXZ5b2d2ZXE?oc=5",
+    "timestamp": "2026-11-24T19:37:20+00:00",
+    "isoDate": "2026-11-24",
+    "date": "24 Nov",
+    "d": "Armin van Buuren Announces ‘Awake’ World Tour Along With New Album Release Date EDMTunes",
+    "category": "general",
+    "sources": [
+      {
+        "name": "EDMTunes",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUl9rTkpTTGhiZ1FIek1DeXo0SEx1emdFXzNRcExia3h5RV9lTUgxc2haQ0ljZlNucVFzc0R2SkN3RjZqOTVIb3R5UkdDeFZ2LU1MdjBfbGVqYk1TWHU5TnIyU05wMkVIa2JHazI0MVRxVV9TMEd3Tk9jb012WDdCb3RnaEJwSEpGdHNjNWhUblZsSGs4NUoxRzFPQVk0T295cXRqODA4Y1BCTGFoTXZ5b2d2ZXE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Show Photos: The Sound of Music National Tour - Broadway Shows",
+    "src": "Broadway Shows",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWFAtY3FpT01yTEFuR2pjTXUzV2ZGZGpQT0R6bXZaeG9QdVI2VTV1MjkxVkxzeV9maF9EUGtJR0VqVlpNVHYzZlp5M3FLaEVoMzBlcjRMZzNEMXRlajNYOHR3Y3k0b2ZXYVItM3ZlZ2lhODIwYmM5dm9GUVh4UTUtbEJiSU4zZFFBU0tLRk5CNlZ3M29Q?oc=5",
+    "timestamp": "2026-11-24T19:15:44+00:00",
+    "isoDate": "2026-11-24",
+    "date": "24 Nov",
+    "d": "Show Photos: The Sound of Music National Tour Broadway Shows",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Broadway Shows",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWFAtY3FpT01yTEFuR2pjTXUzV2ZGZGpQT0R6bXZaeG9QdVI2VTV1MjkxVkxzeV9maF9EUGtJR0VqVlpNVHYzZlp5M3FLaEVoMzBlcjRMZzNEMXRlajNYOHR3Y3k0b2ZXYVItM3ZlZ2lhODIwYmM5dm9GUVh4UTUtbEJiSU4zZFFBU0tLRk5CNlZ3M29Q?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Brad Paisley Plots International Concert Dates for 2027 - Taste of Country",
+    "src": "Taste of Country",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EVG93QkhhOUY0VWxXbFNsVlVZRS1FUktRR2RvX2FSTFRDQVdJUEJubnhoX21UTk5lZ2MtVEtEVTlDNmtoTlJfSmU5WmVRVEJ4bUxfbFZGRjlFNjYwbkFoSEp1UUphdzZhT1Mw?oc=5",
+    "timestamp": "2026-11-24T18:51:11+00:00",
+    "isoDate": "2026-11-24",
+    "date": "24 Nov",
+    "d": "Brad Paisley Plots International Concert Dates for 2027 Taste of Country",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Taste of Country",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EVG93QkhhOUY0VWxXbFNsVlVZRS1FUktRR2RvX2FSTFRDQVdJUEJubnhoX21UTk5lZ2MtVEtEVTlDNmtoTlJfSmU5WmVRVEJ4bUxfbFZGRjlFNjYwbkFoSEp1UUphdzZhT1Mw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ariana Grande Doc to Show the Process Behind ‘Eternal Sunshine’ and ‘Petal’ - Rolling Stone",
+    "src": "Rolling Stone",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdDlVVkFvekhIU0NFZ2dYRUZjT0tOMlN4ZnhNT1FadEVqMmlDSTMzREhiR040cWo2RUJ6ZE42dmxVMDZDUFQyVFF5WktPNEYxQ09zV2JkWHpxanFPS21hUGxkN3NYOXBpaDBpZEpvb0QzUmV2VEZXVmlFb1VSV1JpdkFCa0FFQzBfM2FFU2tSMnhVUnpjbFV5Q19MSC02QQ?oc=5",
+    "timestamp": "2026-11-24T17:58:05+00:00",
+    "isoDate": "2026-11-24",
+    "date": "24 Nov",
+    "d": "Ariana Grande Doc to Show the Process Behind ‘Eternal Sunshine’ and ‘Petal’ Rolling Stone",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Rolling Stone",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdDlVVkFvekhIU0NFZ2dYRUZjT0tOMlN4ZnhNT1FadEVqMmlDSTMzREhiR040cWo2RUJ6ZE42dmxVMDZDUFQyVFF5WktPNEYxQ09zV2JkWHpxanFPS21hUGxkN3NYOXBpaDBpZEpvb0QzUmV2VEZXVmlFb1VSV1JpdkFCa0FFQzBfM2FFU2tSMnhVUnpjbFV5Q19MSC02QQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "U2 announces ‘Greatest Show On Earth’ North American tour dates, including three California concerts - Los Angeles Daily News",
+    "src": "Los Angeles Daily News",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTVI2WGw1cXc0eXpZSTlrMjJIbVJlc25rWUVMc0diYnM0cXBtTVpHVE9VWVRFNTNMYTJIUjRWTG13Uzh0OUFuVXhlNVQzTGlMMzJvcV8xQjVnRW9qTjZ6eEdzTHM2S0c0aGlOWXVoR2ZMVUZOUXMxUDdHWmxvT1Z4aC1jQlgzOEZvMGpRYjlxMldtc1IwUE0zY0xhR092T3h2eDNlMTJybGg4SlM4WEdRNzRMOERWNlF5VmRPMThMbldnTm5lZlBtZUlpSnN2MzFk?oc=5",
+    "timestamp": "2026-11-24T17:20:59+00:00",
+    "isoDate": "2026-11-24",
+    "date": "24 Nov",
+    "d": "U2 announces ‘Greatest Show On Earth’ North American tour dates, including three California concerts Los Angeles Daily News",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Los Angeles Daily News",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTVI2WGw1cXc0eXpZSTlrMjJIbVJlc25rWUVMc0diYnM0cXBtTVpHVE9VWVRFNTNMYTJIUjRWTG13Uzh0OUFuVXhlNVQzTGlMMzJvcV8xQjVnRW9qTjZ6eEdzTHM2S0c0aGlOWXVoR2ZMVUZOUXMxUDdHWmxvT1Z4aC1jQlgzOEZvMGpRYjlxMldtc1IwUE0zY0xhR092T3h2eDNlMTJybGg4SlM4WEdRNzRMOERWNlF5VmRPMThMbldnTm5lZlBtZUlpSnN2MzFk?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ariana Grande Announces Eternal Sunshine Tour Concert Film & Behind-the-Scenes Documentary - Billboard",
+    "src": "Billboard",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc3pLU3Qyc1EtNUZrNkVjcEVYR041bFlnM29vS3UwSjhNUzJSeWNja3BheWhWOUotRzVOcE1SMTE1SXZvY3JfQi1zMm51Q1ROczZJUzdYNVMwZHkyWFZoSGdaUkxfUHlkVUVJbzJ5NTM0UTkwS2w2U2dlM2s5aGVDRTY3NDZmN05QVHU2QmVOanEtRHk4dEV4bDA3eHhSRmVpWmtfZGM0YzhKT29wSkpFSmhQU0FIZw?oc=5",
+    "timestamp": "2026-11-24T17:13:26+00:00",
+    "isoDate": "2026-11-24",
+    "date": "24 Nov",
+    "d": "Ariana Grande Announces Eternal Sunshine Tour Concert Film & Behind-the-Scenes Documentary Billboard",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Billboard",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc3pLU3Qyc1EtNUZrNkVjcEVYR041bFlnM29vS3UwSjhNUzJSeWNja3BheWhWOUotRzVOcE1SMTE1SXZvY3JfQi1zMm51Q1ROczZJUzdYNVMwZHkyWFZoSGdaUkxfUHlkVUVJbzJ5NTM0UTkwS2w2U2dlM2s5aGVDRTY3NDZmN05QVHU2QmVOanEtRHk4dEV4bDA3eHhSRmVpWmtfZGM0YzhKT29wSkpFSmhQU0FIZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ashe Addresses Rumor Her Song \"Stop the Wedding!\" Is About Finneas Marrying Claudia Sulewski - E! News",
+    "src": "E! News",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWllYWldOZEQ4ZkoweUU5bkxMaXZFN1Uta2oyQnR5MG1FMU5LZEhDbVNrWFZoejdvWWNxamExRzllRG1jeElGVHR4Q2ItWE56Vkk4RUtsalJSYklKSThGMkhTYWUxTm1SSFVLdzRYaU9weG5mdTlsdDJJUEZHTXJ2QU1qX0lUcm1xcFo1T2M3c1RFTmMtWXJrcFJuYlpzdURDbkJvOGI5dWdJOG1PMWVQYWV1TEFJWXF1VDltVVJuNGo1TjdVNDlUa3lUVWVJZVk?oc=5",
+    "timestamp": "2026-11-24T17:00:49+00:00",
+    "isoDate": "2026-11-24",
+    "date": "24 Nov",
+    "d": "Ashe Addresses Rumor Her Song \"Stop the Wedding!\" Is About Finneas Marrying Claudia Sulewski E! News",
+    "category": "general",
+    "sources": [
+      {
+        "name": "E! News",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWllYWldOZEQ4ZkoweUU5bkxMaXZFN1Uta2oyQnR5MG1FMU5LZEhDbVNrWFZoejdvWWNxamExRzllRG1jeElGVHR4Q2ItWE56Vkk4RUtsalJSYklKSThGMkhTYWUxTm1SSFVLdzRYaU9weG5mdTlsdDJJUEZHTXJ2QU1qX0lUcm1xcFo1T2M3c1RFTmMtWXJrcFJuYlpzdURDbkJvOGI5dWdJOG1PMWVQYWV1TEFJWXF1VDltVVJuNGo1TjdVNDlUa3lUVWVJZVk?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Macklemore donates over $2 million from Free Palestine tour - Paste Magazine",
+    "src": "Paste Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZUtqeUplWXI5RjIwWVpqQ3RMaUltVWptXzc1RnJxSFRTaTgzU2lwWElKUzY3TDJEU1hCd0RMRTJwVmJHWE1xQ1Q2VENfSnRabmVGcTNVOFlBOGg4aU1MMlVMNW1WcEdfY203c0pzZnBGQzNqRkhvdU45QmFadFFDWnZTUWFYLTJEbEh4TFowdG1GNDM5Z3VuQ0pXZDB5Qkl0WXVmbFA3cWM?oc=5",
+    "timestamp": "2026-11-24T16:35:41+00:00",
+    "isoDate": "2026-11-24",
+    "date": "24 Nov",
+    "d": "Macklemore donates over $2 million from Free Palestine tour Paste Magazine",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Paste Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZUtqeUplWXI5RjIwWVpqQ3RMaUltVWptXzc1RnJxSFRTaTgzU2lwWElKUzY3TDJEU1hCd0RMRTJwVmJHWE1xQ1Q2VENfSnRabmVGcTNVOFlBOGg4aU1MMlVMNW1WcEdfY203c0pzZnBGQzNqRkhvdU45QmFadFFDWnZTUWFYLTJEbEh4TFowdG1GNDM5Z3VuQ0pXZDB5Qkl0WXVmbFA3cWM?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "U2 to launch North American tour at Miami’s Hard Rock Stadium: Date, ticket details - Sun Sentinel",
+    "src": "Sun Sentinel",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRkh0QTNsQkUta0xRajhzN3E5bjJTQ3lhY1VCNVhIQy1qSFZwMEplYmE2MU5helpENGZYSlpoekhLc1l3TVJnUU1pZ3JqVldBQTJneUdYZUpnaExaVUZxNl96S1hFS0dwUG1hSXBlSHBhZjdpVVVmZEZzcll4d0liY2lMVVVGbU1xQ3lPYnJLa2U2SW4wQ1JSUEdyTEtNcjBBZTg3WExzbkJhV1dEMXItQklKZVpTWjZQY3RF?oc=5",
+    "timestamp": "2026-11-24T14:19:36+00:00",
+    "isoDate": "2026-11-24",
+    "date": "24 Nov",
+    "d": "U2 to launch North American tour at Miami’s Hard Rock Stadium: Date, ticket details Sun Sentinel",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Sun Sentinel",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRkh0QTNsQkUta0xRajhzN3E5bjJTQ3lhY1VCNVhIQy1qSFZwMEplYmE2MU5helpENGZYSlpoekhLc1l3TVJnUU1pZ3JqVldBQTJneUdYZUpnaExaVUZxNl96S1hFS0dwUG1hSXBlSHBhZjdpVVVmZEZzcll4d0liY2lMVVVGbU1xQ3lPYnJLa2U2SW4wQ1JSUEdyTEtNcjBBZTg3WExzbkJhV1dEMXItQklKZVpTWjZQY3RF?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "U2 reveals North America dates for ‘Carnaval De Luz’ 2027 World Tour - Audacy",
+    "src": "Audacy",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KZExwaFNIRndIcDJNQndSS0E0STR1b1BrUk84aDZ6VmRkcmNnSkg1SldQTzJFNlFKdHBFRmJ5ZUpoMlRQUXNLeTJBX3Z5UG96MWxwVnBBb3hKLXdBMVVz?oc=5",
+    "timestamp": "2026-11-24T14:19:00+00:00",
+    "isoDate": "2026-11-24",
+    "date": "24 Nov",
+    "d": "U2 reveals North America dates for ‘Carnaval De Luz’ 2027 World Tour Audacy",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Audacy",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KZExwaFNIRndIcDJNQndSS0E0STR1b1BrUk84aDZ6VmRkcmNnSkg1SldQTzJFNlFKdHBFRmJ5ZUpoMlRQUXNLeTJBX3Z5UG96MWxwVnBBb3hKLXdBMVVz?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "U2 Announce The Greatest Show On Earth World Tour: See Dates - Ticketmaster Blog",
+    "src": "Ticketmaster Blog",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KWG9MdlNIYkphbEF5em9GNlczUHRYVEgwMzFmd3JIV2pRM3VjNjZpUWVLdnNlZzdmTzQ5X1FmaEtsNXB4QlY0N0pTOHNZaHF6LW4tbTZtSWlWOHdxbHc?oc=5",
+    "timestamp": "2026-11-24T14:08:34+00:00",
+    "isoDate": "2026-11-24",
+    "date": "24 Nov",
+    "d": "U2 Announce The Greatest Show On Earth World Tour: See Dates Ticketmaster Blog",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Ticketmaster Blog",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KWG9MdlNIYkphbEF5em9GNlczUHRYVEgwMzFmd3JIV2pRM3VjNjZpUWVLdnNlZzdmTzQ5X1FmaEtsNXB4QlY0N0pTOHNZaHF6LW4tbTZtSWlWOHdxbHc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Adéla Sets Dates For Huge 2027 World Tour - Billboard",
+    "src": "Billboard",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYW9ibXdlRDNsSkhKM0cwdGlILWExSExqeWdnNmpzc2R0T2xsM2RlQlBFTVJfdUtJVk43anZRbUNDc1Zud284QVpiLUpRUnl0R2ZUcGU4a3RoREY1WncwcGhCV3VWTVNaTHBFZHlndjRPT3ZIbmNaRUM3dHhTcm1UU0ZNUVp1bWs?oc=5",
+    "timestamp": "2026-11-24T13:09:55+00:00",
+    "isoDate": "2026-11-24",
+    "date": "24 Nov",
+    "d": "Adéla Sets Dates For Huge 2027 World Tour Billboard",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Billboard",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYW9ibXdlRDNsSkhKM0cwdGlILWExSExqeWdnNmpzc2R0T2xsM2RlQlBFTVJfdUtJVk43anZRbUNDc1Zud284QVpiLUpRUnl0R2ZUcGU4a3RoREY1WncwcGhCV3VWTVNaTHBFZHlndjRPT3ZIbmNaRUM3dHhTcm1UU0ZNUVp1bWs?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "\"It's a personal song for me...\" Peter Gabriel shares Yes It Will Go, the penultimate single release ahead of new album o\\i - Louder",
+    "src": "Louder",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUjVUOUVJMTdXbHlfWTNpOWpWZHB0MjVHaGUyVmpsc0RKLXFzSHBpQW1SV2hUeW5GeXdJSHBSLU5URHlFeDhTOVY2anVNY1dFbjN3R2lsaVpOZVhMNUxmUHFiT3p6d05zQ1k3WjdYVXVGNWFWUVVDS3FBQTFla1V6WWxMZGFaOGNXc0Utdm5BQXNVMW10N3FJcWphVnVUcUFpWmkxcWFia1NzNzVKV09Zb0lhNWR6ZzJ2RWhyRW9JQVY5YndvNlhQazltSWI0T1g5WXNJX2RBOVdzUklkc3dXMDVCMlpSNWoxdU02SHlYcE9BRmRj?oc=5",
+    "timestamp": "2026-11-24T13:09:44+00:00",
+    "isoDate": "2026-11-24",
+    "date": "24 Nov",
+    "d": "\"It's a personal song for me...\" Peter Gabriel shares Yes It Will Go, the penultimate single release ahead of new album o\\i Louder",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Louder",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUjVUOUVJMTdXbHlfWTNpOWpWZHB0MjVHaGUyVmpsc0RKLXFzSHBpQW1SV2hUeW5GeXdJSHBSLU5URHlFeDhTOVY2anVNY1dFbjN3R2lsaVpOZVhMNUxmUHFiT3p6d05zQ1k3WjdYVXVGNWFWUVVDS3FBQTFla1V6WWxMZGFaOGNXc0Utdm5BQXNVMW10N3FJcWphVnVUcUFpWmkxcWFia1NzNzVKV09Zb0lhNWR6ZzJ2RWhyRW9JQVY5YndvNlhQazltSWI0T1g5WXNJX2RBOVdzUklkc3dXMDVCMlpSNWoxdU02SHlYcE9BRmRj?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "U2 to embark on 2027 'The Greatest Show On Earth' stadium world tour across Mexico, South America - Big Country News |",
+    "src": "Big Country News |",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeEtyaWg2SjhCcnFpT0NKNUtPV1dVdTJoQlgwSzJQbkNCT25IQWlfOVFsZHZoTUlOUC1remlLdlU0ZW1zOHZJRF9HaFhKdUp1RVhBYldRS1NTNDlrb3M1YmFZVXdqTVZwTUJ0LTJpX1Z3Ym1MSW1PbnpEWnQxd2x4M19GS21TWVdDSG5VZDI4NVc2VWVEQjllc2lJamxBNFppcUR5ZWcydEdyTUZYa0lsYUtzLTByUzd5enl1NHB6ZGl1WFVQVHExY1dmUDNJc09aNUE?oc=5",
+    "timestamp": "2026-11-24T11:28:47+00:00",
+    "isoDate": "2026-11-24",
+    "date": "24 Nov",
+    "d": "U2 to embark on 2027 'The Greatest Show On Earth' stadium world tour across Mexico, South America Big Country News |",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Big Country News |",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeEtyaWg2SjhCcnFpT0NKNUtPV1dVdTJoQlgwSzJQbkNCT25IQWlfOVFsZHZoTUlOUC1remlLdlU0ZW1zOHZJRF9HaFhKdUp1RVhBYldRS1NTNDlrb3M1YmFZVXdqTVZwTUJ0LTJpX1Z3Ym1MSW1PbnpEWnQxd2x4M19GS21TWVdDSG5VZDI4NVc2VWVEQjllc2lJamxBNFppcUR5ZWcydEdyTUZYa0lsYUtzLTByUzd5enl1NHB6ZGl1WFVQVHExY1dmUDNJc09aNUE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Bárbara Tinoco e Os Quatro e Meia inauguram novo festival de música em Torres Vedras - 24 Notícias",
+    "src": "24 Notícias",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNjVEVW5ENzNPaHVIOWxJLXg1ZWVnbEZhX3Q5NWtDaWViajVkanJ0TzQ5Y1R3ZlFmSXFEdV92SU1MMWNwMWxQYWE1SkFwampGSTZ0cDM2QVNkWlZmX0llbHg0OU4yWjItMU44czNsYXBYYWxHbG1pQkFCN2toSmxEUVp4N0ZjRjdHZXkzYVVqcnJrd2RJVzd3M21XV09nTThVSHBiT3lyNEJNN0R5djRYdW5FMk56b29YY0lZNXdVTHdGZw?oc=5",
+    "timestamp": "2026-11-24T16:29:55+00:00",
+    "isoDate": "2026-11-24",
+    "date": "24 Nov",
+    "d": "Bárbara Tinoco e Os Quatro e Meia inauguram novo festival de música em Torres Vedras 24 Notícias",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "24 Notícias",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNjVEVW5ENzNPaHVIOWxJLXg1ZWVnbEZhX3Q5NWtDaWViajVkanJ0TzQ5Y1R3ZlFmSXFEdV92SU1MMWNwMWxQYWE1SkFwampGSTZ0cDM2QVNkWlZmX0llbHg0OU4yWjItMU44czNsYXBYYWxHbG1pQkFCN2toSmxEUVp4N0ZjRjdHZXkzYVVqcnJrd2RJVzd3M21XV09nTThVSHBiT3lyNEJNN0R5djRYdW5FMk56b29YY0lZNXdVTHdGZw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
   },
   {
     "title": "Unreleased D’Angelo Song “Kamikazi” Appears in GTA 6",
@@ -10371,6 +10892,131 @@
     "section": "buzz"
   },
   {
+    "title": "Ghost: Every Album Ranked – From Opus Eponymous to Skeletá - Impericon",
+    "src": "Impericon",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTDV5RUdvZEpkNkRYQ2xJWnVsdEZfSW1Jdm50S2loOGpkbnBKd3YycGxwQ0FuakpTNlRuSTR0SkY1a2Y0ZTFBTTFWYlp6SVBmaVJCeGhkRzJXWGh3ZDhoUXVBT0p5T3BYMWdkWFVhX0VvUmFVMVZFRXZKclVuU2swTUl3a2VfMVZIWFA1TjBxc0ctbUxfSkxXUk9ZZU4?oc=5",
+    "timestamp": "2026-11-23T19:18:29+00:00",
+    "isoDate": "2026-11-23",
+    "date": "23 Nov",
+    "d": "Ghost: Every Album Ranked – From Opus Eponymous to Skeletá Impericon",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Impericon",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTDV5RUdvZEpkNkRYQ2xJWnVsdEZfSW1Jdm50S2loOGpkbnBKd3YycGxwQ0FuakpTNlRuSTR0SkY1a2Y0ZTFBTTFWYlp6SVBmaVJCeGhkRzJXWGh3ZDhoUXVBT0p5T3BYMWdkWFVhX0VvUmFVMVZFRXZKclVuU2swTUl3a2VfMVZIWFA1TjBxc0ctbUxfSkxXUk9ZZU4?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Dartmouth Wind Ensemble, UNAM Team Up for Tour of Mexico - Dartmouth",
+    "src": "Dartmouth",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUEpwYU9wVEFjazVkTE95Q25hOFhzc1M2Y254Tk9TUHNCQnVoR1gzdXhMUU05U1lsTk92TXJuWWFXN1I4RnlKdE1Oa3pFU3VvTGxndWJEX0YwSVRMdDNtcmVRNHQ0QXFDZGJ4VnVObThkeEptM2lVNUFpNXdORmJmVzctUFJGdmkzTXhNYkNB?oc=5",
+    "timestamp": "2026-11-23T19:08:58+00:00",
+    "isoDate": "2026-11-23",
+    "date": "23 Nov",
+    "d": "Dartmouth Wind Ensemble, UNAM Team Up for Tour of Mexico Dartmouth",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Dartmouth",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUEpwYU9wVEFjazVkTE95Q25hOFhzc1M2Y254Tk9TUHNCQnVoR1gzdXhMUU05U1lsTk92TXJuWWFXN1I4RnlKdE1Oa3pFU3VvTGxndWJEX0YwSVRMdDNtcmVRNHQ0QXFDZGJ4VnVObThkeEptM2lVNUFpNXdORmJmVzctUFJGdmkzTXhNYkNB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ariana Grande Teases Eternal Sunshine Tour Concert Film: ‘Coming Soon’ - Billboard",
+    "src": "Billboard",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkdlYndfeUt2WUlzWFVENnNfVjQzXzBYdWEtV080SWNYenFvQWkzaEFheTlkd2xtZHJLclp2MlNGanQ1SzBqalJXUzBlMmZ3VmFJQnNhUjRXb0t4Q2xnTl9ydTIzbFgzenMzZ2hLOGlzMHRBR2FZV1FEWUl6WV81VEUwZkRKdEtlZTdIdWhTRzNaMG9jVnptU0VHbEdzSXlkajNUWUtBX2FPTUFXR0FPMzgzNHVtUQ?oc=5",
+    "timestamp": "2026-11-23T18:57:46+00:00",
+    "isoDate": "2026-11-23",
+    "date": "23 Nov",
+    "d": "Ariana Grande Teases Eternal Sunshine Tour Concert Film: ‘Coming Soon’ Billboard",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Billboard",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkdlYndfeUt2WUlzWFVENnNfVjQzXzBYdWEtV080SWNYenFvQWkzaEFheTlkd2xtZHJLclp2MlNGanQ1SzBqalJXUzBlMmZ3VmFJQnNhUjRXb0t4Q2xnTl9ydTIzbFgzenMzZ2hLOGlzMHRBR2FZV1FEWUl6WV81VEUwZkRKdEtlZTdIdWhTRzNaMG9jVnptU0VHbEdzSXlkajNUWUtBX2FPTUFXR0FPMzgzNHVtUQ?oc=5"
+      }
+    ],
+    "status": "rumor",
+    "confidence": "low",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "ADÉLA Announces 2027 \"PRIMA\" North American Tour Dates - Consequence of Sound",
+    "src": "Consequence of Sound",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU0ZsRXF1clpRYlFVX1FhR2REcUJibW5nemdqSXM0WGlqN3A3dXJvZHpxM1ZUOHgzd2hhc1J1N0xpWFdyWnJjS1o3S2VwRzZTWkltbEZ5ek45dXRoajctbmo2RS1xMGJEZlNvUU5HZm5ubl9WUFBOd3FfVVZrUkJXQw?oc=5",
+    "timestamp": "2026-11-23T15:39:17+00:00",
+    "isoDate": "2026-11-23",
+    "date": "23 Nov",
+    "d": "ADÉLA Announces 2027 \"PRIMA\" North American Tour Dates Consequence of Sound",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence of Sound",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU0ZsRXF1clpRYlFVX1FhR2REcUJibW5nemdqSXM0WGlqN3A3dXJvZHpxM1ZUOHgzd2hhc1J1N0xpWFdyWnJjS1o3S2VwRzZTWkltbEZ5ek45dXRoajctbmo2RS1xMGJEZlNvUU5HZm5ubl9WUFBOd3FfVVZrUkJXQw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Manchester police evacuate 12,000 from rapper Don Toliver concert after substance release - ABC News - Breaking News, Latest News and Videos",
+    "src": "ABC News - Breaking News, Latest News and Videos",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOVhXTWdqYm9GZmQzMGI5VUV6UUU2NzBiU2dQRUZpcWstXzlTQ181MXRTWGYtU1Vtem0tTjBXNEdOY0R6RGI4QUxxcTk4TEhzQXFQVXMxbG1UaUNJTzRGTW13SHY2bGthdVB3X2RBLXg2cVJUVjhRZGEzWlYyRVlZN0FyZjVRQ0d5Tm51aS0zNXR3aFg5WnFlZkRKcWJTU01ORnhiT29pU3FiVGphYXlmb0U4bU13QlXSAbwBQVVfeXFMT0Q3dU9XQ0FYOTdLVWt0Z3VkTXZfQlZvUW8yTkg2S0VvX3JRbzZWY2dWTDBROWtTWFJnYzJSMjRYTlF4emU0b19hT2ZxZFdHWFdTWWZwc0k3RmtMWVdnZEJJYnlmLXFqeU5oYjR2QXk2N1M3MFAtRmFUZWlfLUdoY1hSa1A0TnlYVHB3SUhCYWNaQ1YzVmw5NTdVbl9HTW1DYmZOMWFpNkFTem9yczBMd1VGRTJPcF9raEc2Z1I?oc=5",
+    "timestamp": "2026-11-23T13:14:18+00:00",
+    "isoDate": "2026-11-23",
+    "date": "23 Nov",
+    "d": "Manchester police evacuate 12,000 from rapper Don Toliver concert after substance release ABC News - Breaking News, Latest News and Videos",
+    "category": "general",
+    "sources": [
+      {
+        "name": "ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOVhXTWdqYm9GZmQzMGI5VUV6UUU2NzBiU2dQRUZpcWstXzlTQ181MXRTWGYtU1Vtem0tTjBXNEdOY0R6RGI4QUxxcTk4TEhzQXFQVXMxbG1UaUNJTzRGTW13SHY2bGthdVB3X2RBLXg2cVJUVjhRZGEzWlYyRVlZN0FyZjVRQ0d5Tm51aS0zNXR3aFg5WnFlZkRKcWJTU01ORnhiT29pU3FiVGphYXlmb0U4bU13QlXSAbwBQVVfeXFMT0Q3dU9XQ0FYOTdLVWt0Z3VkTXZfQlZvUW8yTkg2S0VvX3JRbzZWY2dWTDBROWtTWFJnYzJSMjRYTlF4emU0b19hT2ZxZFdHWFdTWWZwc0k3RmtMWVdnZEJJYnlmLXFqeU5oYjR2QXk2N1M3MFAtRmFUZWlfLUdoY1hSa1A0TnlYVHB3SUhCYWNaQ1YzVmw5NTdVbl9HTW1DYmZOMWFpNkFTem9yczBMd1VGRTJPcF9raEc2Z1I?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
     "title": "See DOWN's Entire Performance At 'The Great Nola Trendkill' Festival",
     "src": "Blabbermouth",
     "url": "https://blabbermouth.net/news/see-downs-entire-performance-at-the-great-nola-trendkill-festival",
@@ -15748,6 +16394,31 @@
     "section": "core"
   },
   {
+    "title": "A estreia do Rock & Dão trouxe grandes nomes da música - The Portugal News",
+    "src": "The Portugal News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHlydDBKU1NtTWR4REZKQ09uenF3S25SWFRIV1VuZm5VZ1NGa3h6MEJ0S2RJSjNxc2JQQXE0bjI0S0NqODdRN25Qc0EwOHlfODdVQlUyZEhaZWdKSTVlZnV3MFVpdlVBbDN1Nm1xTjY3cU9reXpob3AzeTQ3YmVzWDNUWTNFZ1dCNnhzSmdYbWp2ZVpVeGRwTlBvRWR0YVU2eXZQQkZwQVduX3RGRHloU3gtbGNBQQ?oc=5",
+    "timestamp": "2026-11-21T19:01:48+00:00",
+    "isoDate": "2026-11-21",
+    "date": "21 Nov",
+    "d": "A estreia do Rock & Dão trouxe grandes nomes da música The Portugal News",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "The Portugal News",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeHlydDBKU1NtTWR4REZKQ09uenF3S25SWFRIV1VuZm5VZ1NGa3h6MEJ0S2RJSjNxc2JQQXE0bjI0S0NqODdRN25Qc0EwOHlfODdVQlUyZEhaZWdKSTVlZnV3MFVpdlVBbDN1Nm1xTjY3cU9reXpob3AzeTQ3YmVzWDNUWTNFZ1dCNnhzSmdYbWp2ZVpVeGRwTlBvRWR0YVU2eXZQQkZwQVduX3RGRHloU3gtbGNBQQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
     "title": "New Album Releases for November 20, 2026: Toro y Moi, Pomme, Bodywash and More - Exclaim!",
     "src": "Exclaim!",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KVmR4U0hfT1hNRnFLc2F6c182cmwwTzkxWUVTeFF1Q3BPRm5DWk9vdTJpQlVtQVpEVVJ5Z3E5bUtFZTJ4elVSb0h1NkVmLU5TNVBNQmx1a2ZnLVU4bFV5WG94OG94RXZTWE5nT1M5NA?oc=5",
@@ -18182,7 +18853,7 @@
     "title": "Album Review: The Effigies – Fire. Aim. Ready. - New Noise Magazine",
     "src": "New Noise Magazine",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EdGh3bUVndDNGUUFRMVV1SFBLZlRiZ2NnNFJnT1FRUEtYam02MVZfX2NoQUNVaW9MYlQ3TU96Ni1OQ0U3X3c5Q2w2Zi1MZW5rOEVWbDBPckJZTmF6OFRobjVLQkN1aHdZSkVEXzNRTjZvZU9Vbmw3bjdUcEhfcVE?oc=5",
-    "timestamp": "2026-11-20T15:57:22+00:00",
+    "timestamp": "2026-11-20T15:52:30+00:00",
     "isoDate": "2026-11-20",
     "date": "20 Nov",
     "d": "Album Review: The Effigies – Fire. Aim. Ready. New Noise Magazine",
@@ -18191,19 +18862,15 @@
       {
         "name": "New Noise Magazine",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EdGh3bUVndDNGUUFRMVV1SFBLZlRiZ2NnNFJnT1FRUEtYam02MVZfX2NoQUNVaW9MYlQ3TU96Ni1OQ0U3X3c5Q2w2Zi1MZW5rOEVWbDBPckJZTmF6OFRobjVLQkN1aHdZSkVEXzNRTjZvZU9Vbmw3bjdUcEhfcVE?oc=5"
-      },
-      {
-        "name": "cedarnews.net",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTDF0eU5kQnVsM1NMbng2QlNULVJSXzY5em80Y1FKXzNpQjdSSFAtX2p1MXM0TmxycHU4djJZdk1LSk0tdk5UUVRiTVFqYmotWDZJU1RXVURCNmdCLTVReUtXS1FhUVhnX1hRb1RCcVZJYVNmNkpILUJXeFFNLUc1YmRkVQ?oc=5"
       }
     ],
     "status": "official",
     "confidence": "confirmed",
-    "sourceCount": 2,
+    "sourceCount": 1,
     "isBreaking": false,
     "isPT": false,
     "isCore": true,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "core"
   },
@@ -22472,13 +23139,13 @@
     "section": "buzz"
   },
   {
-    "title": "Trivium - Crown In The Grave Metal Hammer album review - Louder",
+    "title": "Trivium have endured nervous breakdowns, personnel changes and abandoned tours but Crown In The Grave is a defiant victory from one of metal's most beloved contemporary bands - Louder",
     "src": "Louder",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZzhWWXBfZ19ucE82X1V6Vjg5VndLdkdzYkh1c05JMElTbDBXY1JYSlE1YnJfdTdPUjctN0E4b1liV05ELWcwTzB2TUE3NjQwemxXYm1ZZ1VjV3hzMGVJaWpMMTBjYkQ3ZG1oV1VEdE9UM182MDVqNFRCWS1SVXU0LVpxdkppNm8?oc=5",
     "timestamp": "2026-11-20T14:57:27+00:00",
     "isoDate": "2026-11-20",
     "date": "20 Nov",
-    "d": "Trivium - Crown In The Grave Metal Hammer album review Louder",
+    "d": "Trivium have endured nervous breakdowns, personnel changes and abandoned tours but Crown In The Grave is a defiant victory from one of metal's most beloved contemporary bands Louder",
     "category": "metal",
     "sources": [
       {
@@ -29916,6 +30583,31 @@
       {
         "name": "Thoughts Words Action",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYjZ5Yzl6ZXRlOXpvVnY1bUJaN1laNTkzcFZacTBOYm1vLVVPZFdhLXJoYTREaktfV0hocmQ2M09WN0VvVVJjX1lrTzZDWWV6WW9DcWo2clRIcmxfV1plLWgtWnlPNVh0eUQ4Z3RYVHhoVjZibVJSeTFkMU4tdnR4Q1RzVWdkR2djVjBTRNIBkgFBVV95cUxPakJMX3ZKSkdxaFpVbXNEbU9BdnZCRjVzT3BoZEdpWnQyMzBicnpDd0N1NHdmQnZPS2lCbWlnQjY3Qi1zLTRtVVhfbHptZlNiREVDcUgzN0pwNWFqbE1BLXdVTUdZMjg3UG1qZElGSG1ia01Namd1alZPenNzSlVtQl93VFdfdDVsVHk0dy1LUWpBdw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "dryba - dryba LP (Grazil Records) - Thoughts Words Action - Thoughts Words Action",
+    "src": "Thoughts Words Action",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvWHpaQ3JpWGR6cXhjMHhqZFpqd2Q3STh3ZTdiRjJ0R1VTWXFUcW5tQzZLUnNMTXhVS2h1ZHp6YVpsWE11d2NPVkUwLXd2VnZRbXQwVVc0aUtLMTN1enV2MHNDVEdxNk92Nm1RY2Njamd3VEpTR3hUVXlMLVU4UdIBgwFBVV95cUxOOEVxbFpkWHpEQUE0RzdEeDh1c1N5ekt3dzVlTVpuQ2hPb1NrTmJTM0F1ckdTc3R4WUhpY3hDWFlORWhKUUlwanRLbmRHdzhCUkRoYjVkNDREM2JOUGZqTjF0RU9FZzc3WlljV0Z2cnI4YlVpekJlcjN0aDNFTll2a0JUSQ?oc=5",
+    "timestamp": "2026-11-19T10:54:49+00:00",
+    "isoDate": "2026-11-19",
+    "date": "19 Nov",
+    "d": "dryba - dryba LP (Grazil Records) - Thoughts Words Action Thoughts Words Action",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Thoughts Words Action",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvWHpaQ3JpWGR6cXhjMHhqZFpqd2Q3STh3ZTdiRjJ0R1VTWXFUcW5tQzZLUnNMTXhVS2h1ZHp6YVpsWE11d2NPVkUwLXd2VnZRbXQwVVc0aUtLMTN1enV2MHNDVEdxNk92Nm1RY2Njamd3VEpTR3hUVXlMLVU4UdIBgwFBVV95cUxOOEVxbFpkWHpEQUE0RzdEeDh1c1N5ekt3dzVlTVpuQ2hPb1NrTmJTM0F1ckdTc3R4WUhpY3hDWFlORWhKUUlwanRLbmRHdzhCUkRoYjVkNDREM2JOUGZqTjF0RU9FZzc3WlljV0Z2cnI4YlVpekJlcjN0aDNFTll2a0JUSQ?oc=5"
       }
     ],
     "status": "official",
