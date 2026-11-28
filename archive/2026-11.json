@@ -599,10 +599,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -624,10 +624,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -799,10 +799,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -818,6 +818,471 @@
     "score": "",
     "cat": "general",
     "releaseKey": "la ola nocturna|experimental songs deviant pop from the spanish 80s",
+    "kind": "review",
+    "section": "rev"
+  },
+  {
+    "title": "18 of the Biggest Emo Hits Ever from When We Were Young Festival Artists - SiriusXM",
+    "src": "SiriusXM",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90YWtIaFBoSlg5RmdrSkVNTEdyU3JxTWcxR21jRkZ4U09uUjhSdGtweWE0WklHdEV1Z1BYTnpTcUp0UmxWdzFGMDJMUXJWSmNPREdBOA?oc=5",
+    "timestamp": "2026-11-28T06:34:31+00:00",
+    "isoDate": "2026-11-28",
+    "date": "28 Nov",
+    "d": "18 of the Biggest Emo Hits Ever from When We Were Young Festival Artists SiriusXM",
+    "category": "core",
+    "sources": [
+      {
+        "name": "SiriusXM",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90YWtIaFBoSlg5RmdrSkVNTEdyU3JxTWcxR21jRkZ4U09uUjhSdGtweWE0WklHdEV1Z1BYTnpTcUp0UmxWdzFGMDJMUXJWSmNPREdBOA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Album Review: Trivium – Crown In The Grave - Metal Planet Music",
+    "src": "Metal Planet Music",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0o1SENVUWJVTDVtblBTcE15T3JpTU5EMTNTYlJWWTFVVHlzcFluZC1iSmRsbEMzRzhQLTBFX2hUU2FubFJlMVJlbDctWW00QzNtVFpvdnhZR0VzZHNyNzhpMjgzOUt5OHRGeExaUVIwcVRHekZEUTdJUlNIR3M1ZWZrTQ?oc=5",
+    "timestamp": "2026-11-28T09:58:41+00:00",
+    "isoDate": "2026-11-28",
+    "date": "28 Nov",
+    "d": "Album Review: Trivium – Crown In The Grave Metal Planet Music",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Planet Music",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0o1SENVUWJVTDVtblBTcE15T3JpTU5EMTNTYlJWWTFVVHlzcFluZC1iSmRsbEMzRzhQLTBFX2hUU2FubFJlMVJlbDctWW00QzNtVFpvdnhZR0VzZHNyNzhpMjgzOUt5OHRGeExaUVIwcVRHekZEUTdJUlNIR3M1ZWZrTQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Classic Rock in iGaming: Music’s Digital Second Life - Metal Planet Music",
+    "src": "Metal Planet Music",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTHZEVkF5ZWZWaWlDTFB2eW5fYVBoOVpqYm9nSExuQXNjNjdXc280TjU2WnJ1NllQLUI2UzBKZXpGdGktdzFkOVlLZUpkQV9tMXFVcUM4TWxsZUVRVGJQWXQxOER0MnlkeDg4djlwOF9vd196VmlvZ3FvOXBjVHJnejJ0eUtNU25kRkhNcFBNaGxqUQ?oc=5",
+    "timestamp": "2026-11-28T10:05:33+00:00",
+    "isoDate": "2026-11-28",
+    "date": "28 Nov",
+    "d": "Classic Rock in iGaming: Music’s Digital Second Life Metal Planet Music",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Planet Music",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTHZEVkF5ZWZWaWlDTFB2eW5fYVBoOVpqYm9nSExuQXNjNjdXc280TjU2WnJ1NllQLUI2UzBKZXpGdGktdzFkOVlLZUpkQV9tMXFVcUM4TWxsZUVRVGJQWXQxOER0MnlkeDg4djlwOF9vd196VmlvZ3FvOXBjVHJnejJ0eUtNU25kRkhNcFBNaGxqUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Album Review: Hatebreed – Fatal Paradox - Metal Planet Music",
+    "src": "Metal Planet Music",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhdGQ2TWgtYm5MU2xxZEtpRzhFQW9Uc1FNbmtjbDl5eXNmaEozVlJkcWtRb2Z4UVpyMG9MOWV0ZUFYUm1Ea3dSekEyUk5MTWFiRjI1VHBZemhoYVNlTUU4ZkFxcDFTWnFkQ1MzS3BtbUlxcDBZNEN3Zmc2N091X3M?oc=5",
+    "timestamp": "2026-11-28T08:47:28+00:00",
+    "isoDate": "2026-11-28",
+    "date": "28 Nov",
+    "d": "Album Review: Hatebreed – Fatal Paradox Metal Planet Music",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Planet Music",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhdGQ2TWgtYm5MU2xxZEtpRzhFQW9Uc1FNbmtjbDl5eXNmaEozVlJkcWtRb2Z4UVpyMG9MOWV0ZUFYUm1Ea3dSekEyUk5MTWFiRjI1VHBZemhoYVNlTUU4ZkFxcDFTWnFkQ1MzS3BtbUlxcDBZNEN3Zmc2N091X3M?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Guitarist Chris Garza Quits Suicide Silence",
+    "src": "ThePRP",
+    "url": "https://www.theprp.com/2026/11/28/news/guitarist-chris-garza-quits-suicide-silence/",
+    "timestamp": "2026-11-28T17:01:28+00:00",
+    "isoDate": "2026-11-28",
+    "date": "28 Nov",
+    "d": "A newly issued statement reveals the decision had been weighing on him for some time now. The post Guitarist Chris Garza Quits Suicide Silence appeared first on Theprp.com .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "ThePRP",
+        "url": "https://www.theprp.com/2026/11/28/news/guitarist-chris-garza-quits-suicide-silence/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "MORGAN ROSE Says SEVENDUST 'Supporters' Are 'Not Fans': It 'Seems A Little Belittling To Me' To Call Them That",
+    "src": "Blabbermouth",
+    "url": "https://blabbermouth.net/news/morgan-rose-says-sevendust-supporters-are-not-fans-it-seems-a-little-belittling-to-me-to-call-them-that",
+    "timestamp": "2026-11-28T15:57:56+00:00",
+    "isoDate": "2026-11-28",
+    "date": "28 Nov",
+    "d": "Atlanta hard rock veterans SEVENDUST were once prepared to take their final bow, but an unexpected wave of viral momentum and a breakthrough European tour have sparked a major late-career resurgence for the band. Speaking to Letty Sharp of The Smashing Skull Sessions podcast, founding drummer Morgan...",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Blabbermouth",
+        "url": "https://blabbermouth.net/news/morgan-rose-says-sevendust-supporters-are-not-fans-it-seems-a-little-belittling-to-me-to-call-them-that"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "How Rage Against the Machine Beat Simon Cowell to Christmas No. 1",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/editorials/how-rage-against-the-machine-beat-simon-cowell-to-christmas-no-1",
+    "timestamp": "2026-11-28T15:18:17+00:00",
+    "isoDate": "2026-11-28",
+    "date": "28 Nov",
+    "d": "Fed up with Simon Cowell owning the UK Christmas chart, two fans rallied more than half a million buyers behind Rage Against the Machine. The post How Rage Against the Machine Beat Simon Cowell to Christmas No. 1 appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/editorials/how-rage-against-the-machine-beat-simon-cowell-to-christmas-no-1"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Watch: Gojira's Mario Duplantier Releases New Drum Solo Video \"In Limbo\"",
+    "src": "Metal Injection",
+    "url": "https://metalinjection.net/news/watch-gojiras-mario-duplantier-releases-new-drum-solo-video-in-limbo",
+    "timestamp": "2026-11-28T15:16:15+00:00",
+    "isoDate": "2026-11-28",
+    "date": "28 Nov",
+    "d": "Gojira fans know a thing or two about living in limbo. A new album from the French titans was promised for 2026, but the calendar is down to its last […] The post Watch: Gojira's Mario Duplantier Releases New Drum Solo Video \"In Limbo\" appeared first on Metal Injection .",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Metal Injection",
+        "url": "https://metalinjection.net/news/watch-gojiras-mario-duplantier-releases-new-drum-solo-video-in-limbo"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "He photographs Baltimore’s hardcore music scene without hearing a note - The Baltimore Banner",
+    "src": "The Baltimore Banner",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0tZOWFPbmZua2pONG9qSFREMy1jMDA1OXZCR3Byd25kb1NSSTFBN1VZbHpVXy1GZDVZR2NKOGxlOUtrZUh3b0RIVk1BT3RpUHhhcm03NjhKUldSdUVNZUk2cEJQcDFLY05NUERfRXluTUNzZEYtY2poUVJOeDdibEpSQVhKZ09KcTF0RUt2WWZlU1FQU0Ezb29CeHNhSlB3dktoeDZIWVJ0djNrTE9lNHFoakxSeldBdVh4amFB?oc=5",
+    "timestamp": "2026-11-28T10:30:00+00:00",
+    "isoDate": "2026-11-28",
+    "date": "28 Nov",
+    "d": "He photographs Baltimore’s hardcore music scene without hearing a note The Baltimore Banner",
+    "category": "core",
+    "sources": [
+      {
+        "name": "The Baltimore Banner",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0tZOWFPbmZua2pONG9qSFREMy1jMDA1OXZCR3Byd25kb1NSSTFBN1VZbHpVXy1GZDVZR2NKOGxlOUtrZUh3b0RIVk1BT3RpUHhhcm03NjhKUldSdUVNZUk2cEJQcDFLY05NUERfRXluTUNzZEYtY2poUVJOeDdibEpSQVhKZ09KcTF0RUt2WWZlU1FQU0Ezb29CeHNhSlB3dktoeDZIWVJ0djNrTE9lNHFoakxSeldBdVh4amFB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": true,
+    "star": true,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Bipolar Architecture release new music video for ‘Untouchable’ - Distorted Sound Magazine -",
+    "src": "Distorted Sound Magazine -",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbFZ2cExaOU1NTlYwa19abXV2UEdaSTdTWl9zVHl0c0g5RWFxMmZmMkpVZ2xBRzR3bkpxZ240Z2pxTklEQkhLNm5KWWN3NjdFelh3STFQMHYwenpBMVVveEsyY25BWjc5X2ZPSmJaLWt3dVMtQ3ZFdlB6Uk14cnJCdGllbkhORkRqSkNLRVU0TXNhOVU4OVE?oc=5",
+    "timestamp": "2026-11-28T16:51:02+00:00",
+    "isoDate": "2026-11-28",
+    "date": "28 Nov",
+    "d": "Bipolar Architecture release new music video for ‘Untouchable’ Distorted Sound Magazine -",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Distorted Sound Magazine -",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbFZ2cExaOU1NTlYwa19abXV2UEdaSTdTWl9zVHl0c0g5RWFxMmZmMkpVZ2xBRzR3bkpxZ240Z2pxTklEQkhLNm5KWWN3NjdFelh3STFQMHYwenpBMVVveEsyY25BWjc5X2ZPSmJaLWt3dVMtQ3ZFdlB6Uk14cnJCdGllbkhORkRqSkNLRVU0TXNhOVU4OVE?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Ginuwine Is on a Mission to Take Back His Master Tapes in Absurd AI Video Game",
+    "src": "Consequence",
+    "url": "https://consequence.net/2026/11/ginuwine-ai-video-game/",
+    "timestamp": "2026-11-28T15:37:47+00:00",
+    "isoDate": "2026-11-28",
+    "date": "28 Nov",
+    "d": "The R&B singer goes face-to-face with an evil Sony Music executive in the outlandish web game. Ginuwine Is on a Mission to Take Back His Master Tapes in Absurd AI Video Game Travis Bland",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Consequence",
+        "url": "https://consequence.net/2026/11/ginuwine-ai-video-game/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Classic rock singer to release album with new band: ‘Sounds amazing’ - Syracuse.com",
+    "src": "Syracuse.com",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON0VaQ2I2clcydjFJYl9RcnQ5RzAwT1pHaGcyd2dvMFVUSDI5cnRKc0FvUDN6TlNCdDBUaVBINEZQUmdNek9fUjlJYjhrdjJueldHaHE4QTBTVy1PYzYwYWpvUnNFemdNNGJ5djlhZ2JCUmxVR0FEQ1liYmRpbXd4Ml9sVmEtZV81RmFUMnV3VUV6Qnd2MVp4V0NySURfRXdDM1hmSE1xY0RLVjRoYzBFQ2JMNklUb1No0gHMAUFVX3lxTE1UNWt5S09Xc0JRd1k0Y0ZURktNZUY2SzRZY3RhYVZ2elE5MW1heDNZRERBY00xMXd3aWtKdGRIU2RINGd4cVFPaUFCTzQtbTQ3Y21WbTV1XzJEal9mS09ta0ZSLXZjU1BRYmVHT0tOV3FCbUhCeWVqdF82eHc2cHZSOG5hQnFMaHg3MWxxeDRWZmQtTFZieGo5QW9WRmVuSGtreDNPa01MRWFPV3lsb19Fd0M3VVVmNFBtRXoyVGpybm1XMjNLWkxyTkMxaA?oc=5",
+    "timestamp": "2026-11-28T10:52:00+00:00",
+    "isoDate": "2026-11-28",
+    "date": "28 Nov",
+    "d": "Classic rock singer to release album with new band: ‘Sounds amazing’ Syracuse.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Syracuse.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON0VaQ2I2clcydjFJYl9RcnQ5RzAwT1pHaGcyd2dvMFVUSDI5cnRKc0FvUDN6TlNCdDBUaVBINEZQUmdNek9fUjlJYjhrdjJueldHaHE4QTBTVy1PYzYwYWpvUnNFemdNNGJ5djlhZ2JCUmxVR0FEQ1liYmRpbXd4Ml9sVmEtZV81RmFUMnV3VUV6Qnd2MVp4V0NySURfRXdDM1hmSE1xY0RLVjRoYzBFQ2JMNklUb1No0gHMAUFVX3lxTE1UNWt5S09Xc0JRd1k0Y0ZURktNZUY2SzRZY3RhYVZ2elE5MW1heDNZRERBY00xMXd3aWtKdGRIU2RINGd4cVFPaUFCTzQtbTQ3Y21WbTV1XzJEal9mS09ta0ZSLXZjU1BRYmVHT0tOV3FCbUhCeWVqdF82eHc2cHZSOG5hQnFMaHg3MWxxeDRWZmQtTFZieGo5QW9WRmVuSGtreDNPa01MRWFPV3lsb19Fd0M3VVVmNFBtRXoyVGpybm1XMjNLWkxyTkMxaA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Mouth Culture release new music video for ‘Dying To Stay’ - Distorted Sound Magazine -",
+    "src": "Distorted Sound Magazine -",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWDFRSnhYdld6c3p2ZjNxS09yVGVtbC1LVkU3Y0JYWVdCek00SU5yR01JQzM3Uy03VV8xLWE2YUtqV2JibmlnWDhFRENITDVNNmtNSWY4cW1yT1ZNeUF3RnhPR2lRWTBNYmRvTnROY3poTFB6czN2ek5ONjVybWlZTDhwYXRuN21KaWdsSXBrMA?oc=5",
+    "timestamp": "2026-11-28T10:35:44+00:00",
+    "isoDate": "2026-11-28",
+    "date": "28 Nov",
+    "d": "Mouth Culture release new music video for ‘Dying To Stay’ Distorted Sound Magazine -",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Distorted Sound Magazine -",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWDFRSnhYdld6c3p2ZjNxS09yVGVtbC1LVkU3Y0JYWVdCek00SU5yR01JQzM3Uy03VV8xLWE2YUtqV2JibmlnWDhFRENITDVNNmtNSWY4cW1yT1ZNeUF3RnhPR2lRWTBNYmRvTnROY3poTFB6czN2ek5ONjVybWlZTDhwYXRuN21KaWdsSXBrMA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": false,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Interview With Swedish Rock Band \"Killer Clan of F.U.N.\" - Metalheads Forever Magazine",
+    "src": "Metalheads Forever Magazine",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jaTdISFZ0WlNuVXlQTWlNNGNlU2RNOWpTVjB3TEFIa1lKUWdsMnZUODhlb0JfSG9PUm0zMDJGY3ptZW9JeHhxVTZHQ1AwbkZKb1c2MGNHbmgtTTNpV3BKMnBXSGlXY3hSZS1OaFJRekZMSnMtR1psUENSM3FLd00?oc=5",
+    "timestamp": "2026-11-28T05:20:36+00:00",
+    "isoDate": "2026-11-28",
+    "date": "28 Nov",
+    "d": "Interview With Swedish Rock Band \"Killer Clan of F.U.N.\" Metalheads Forever Magazine",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Metalheads Forever Magazine",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jaTdISFZ0WlNuVXlQTWlNNGNlU2RNOWpTVjB3TEFIa1lKUWdsMnZUODhlb0JfSG9PUm0zMDJGY3ptZW9JeHhxVTZHQ1AwbkZKb1c2MGNHbmgtTTNpV3BKMnBXSGlXY3hSZS1OaFJRekZMSnMtR1psUENSM3FLd00?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Hit Me Baby One More Time: Britney Spears back in the recording studio, experimenting with sounds for a new album release in 2027 - https://creammagazine.com/",
+    "src": "https://creammagazine.com/",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdFNDaERMeFhhT1pqb09mMldnRFFBZXRSaXhkbkFjM0hqSlZ1STlUUEpsYm1ZX2tnUnp6WkNRU0YzODdieEZ6TWxlTkVSRjJvNU9SNEQ4OG5nMS0wNzJWWUstRy1NXzdkVzItSFRZb1lTU2R2cjdEM1BCS3YzdF8yTzNmZ3lnSTZZNTNFTHlvZk5Rd2lnZ2pMNUd5RVNFMG9ZM1RXemNXcHd3a1NhUnEyekhoRU1CemFUYWlXa2trNGp5Qjh5QS1sNlpqU3NOUGNZVUxjQ3p3NnBCUG00UXFtQVN3dXlucVduTC1XVk9OSUxpNFI5UjJXZA?oc=5",
+    "timestamp": "2026-11-28T03:54:19+00:00",
+    "isoDate": "2026-11-28",
+    "date": "28 Nov",
+    "d": "Hit Me Baby One More Time: Britney Spears back in the recording studio, experimenting with sounds for a new album release in 2027 https://creammagazine.com/",
+    "category": "general",
+    "sources": [
+      {
+        "name": "https://creammagazine.com/",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdFNDaERMeFhhT1pqb09mMldnRFFBZXRSaXhkbkFjM0hqSlZ1STlUUEpsYm1ZX2tnUnp6WkNRU0YzODdieEZ6TWxlTkVSRjJvNU9SNEQ4OG5nMS0wNzJWWUstRy1NXzdkVzItSFRZb1lTU2R2cjdEM1BCS3YzdF8yTzNmZ3lnSTZZNTNFTHlvZk5Rd2lnZ2pMNUd5RVNFMG9ZM1RXemNXcHd3a1NhUnEyekhoRU1CemFUYWlXa2trNGp5Qjh5QS1sNlpqU3NOUGNZVUxjQ3p3NnBCUG00UXFtQVN3dXlucVduTC1XVk9OSUxpNFI5UjJXZA?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Fuerza Regida Announces ‘Pisteando Con La Regida Vol. 4’ After Partial Legal Victory Against Rancho Humilde - Billboard",
+    "src": "Billboard",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZlVmVXBtbG0xYlFUUDdkNjJxTDNTOHNqaGEzcmU1UHRvVjNXcEJ0QWtaMl9lclRUb0hTcDZLUk9wdXMzNXpFcFY4eERCVFU3MlZDN0l0VFV3RnRGUnBOdkxValgtV0RIV2FCc29VcHdCUEs1N2llQkZrMEk5YWIwOUZLaC1iLUItdFZUSTNUMUN5bzhsUWR0dkRzdUJqNTd3MlN4VWJIc2pjZlZ0?oc=5",
+    "timestamp": "2026-11-28T00:52:07+00:00",
+    "isoDate": "2026-11-28",
+    "date": "28 Nov",
+    "d": "Fuerza Regida Announces ‘Pisteando Con La Regida Vol. 4’ After Partial Legal Victory Against Rancho Humilde Billboard",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Billboard",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZlVmVXBtbG0xYlFUUDdkNjJxTDNTOHNqaGEzcmU1UHRvVjNXcEJ0QWtaMl9lclRUb0hTcDZLUk9wdXMzNXpFcFY4eERCVFU3MlZDN0l0VFV3RnRGUnBOdkxValgtV0RIV2FCc29VcHdCUEs1N2llQkZrMEk5YWIwOUZLaC1iLUItdFZUSTNUMUN5bzhsUWR0dkRzdUJqNTd3MlN4VWJIc2pjZlZ0?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Paulo Sousa regressa aos palcos com concerto no Capitólio em 2027 - CA Notícias",
+    "src": "CA Notícias",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUVBqRXk3a0Q2bUJ0RzdNbDE3TXJQaW1VbFZtb0FMR0o4YWZCR1FFVDVhZE8wMVNhMkpVRHh3bk1FNG5oUkVxYjItaU1kSjh0ZExWZ09FVXVsTXpfMjlXMXItcUxQRDhxYy1Vd1FRVFczNE14Q2p1RTlnTlQtVm12VEdlaWVCLXBJUVZ6R1RGQ2oxUQ?oc=5",
+    "timestamp": "2026-11-28T11:25:58+00:00",
+    "isoDate": "2026-11-28",
+    "date": "28 Nov",
+    "d": "Paulo Sousa regressa aos palcos com concerto no Capitólio em 2027 CA Notícias",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "CA Notícias",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUVBqRXk3a0Q2bUJ0RzdNbDE3TXJQaW1VbFZtb0FMR0o4YWZCR1FFVDVhZE8wMVNhMkpVRHh3bk1FNG5oUkVxYjItaU1kSjh0ZExWZ09FVXVsTXpfMjlXMXItcUxQRDhxYy1Vd1FRVFczNE14Q2p1RTlnTlQtVm12VEdlaWVCLXBJUVZ6R1RGQ2oxUQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": true,
+    "isPT": true,
+    "isCore": false,
+    "star": true,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Um Concerto Terapia – HMB e Tim: quando a música ganha uma nova dimensão",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/um-concerto-terapia-hmb-e-tim-quando-a-musica-ganha-uma-nova-dimensao/",
+    "timestamp": "2026-11-28T01:00:14+00:00",
+    "isoDate": "2026-11-28",
+    "date": "28 Nov",
+    "d": "%featured_image% Os HMB e Tim, dos Xutos & Pontapés, juntaram-se no Teatro Tivoli BBVA, em Lisboa, para o espectáculo \"E Agora?\", um encontro entre duas gerações da música portuguesa que deu também origem a um EP de versões de três clássicos dos Xutos.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/um-concerto-terapia-hmb-e-tim-quando-a-musica-ganha-uma-nova-dimensao/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "b": "Iommi",
+    "t": "From the Dark Review",
+    "src": "Angry Metal Guy",
+    "date": "28 Nov",
+    "isoDate": "2026-11-28",
+    "timestamp": "2026-11-28T15:57:26+00:00",
+    "url": "https://www.angrymetalguy.com/iommi-from-the-dark-review/",
+    "d": "\"It has been way too long since Tony Iommi's riffs have last graced new music in proper full-length form. Aside from Heaven & Hell 's excellent The Devil You Know in 2009 and Black Sabbath 's 2013 farewell, the previous time we heard of Iommi was 2005 Glenn Hu",
+    "score": "",
+    "cat": "metal",
+    "releaseKey": "iommi|from the dark review",
     "kind": "review",
     "section": "rev"
   },
@@ -1370,13 +1835,13 @@
     "section": "news"
   },
   {
-    "title": "Empty Nesters No Sad EP, Their First Full-Band Record - Kazi Magazine",
+    "title": "Empty Nesters Release No Sad, Their First Full-Band Record - Kazi Magazine",
     "src": "Kazi Magazine",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HT2NFSFM0REhHMGIybFFaOGZsTmlZUDlkQmVWZC1hc2hQdlhzd1lHblh6ck5VdVZXYVVsWjB2eWs3aW1tbWNvTzluaDlWaU83QzVYR3E0ZWFubkx4dFI4?oc=5",
-    "timestamp": "2026-11-27T14:03:13+00:00",
+    "timestamp": "2026-11-27T21:55:37+00:00",
     "isoDate": "2026-11-27",
     "date": "27 Nov",
-    "d": "Empty Nesters No Sad EP, Their First Full-Band Record Kazi Magazine",
+    "d": "Empty Nesters Release No Sad, Their First Full-Band Record Kazi Magazine",
     "category": "core",
     "sources": [
       {
@@ -2675,31 +3140,6 @@
     "section": "buzz"
   },
   {
-    "title": "18 of the Biggest Emo Hits Ever from When We Were Young Festival Artists - SiriusXM",
-    "src": "SiriusXM",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90YWtIaFBoSlg5RmdrSkVNTEdyU3JxTWcxR21jRkZ4U09uUjhSdGtweWE0WklHdEV1Z1BYTnpTcUp0UmxWdzFGMDJMUXJWSmNPREdBOA?oc=5",
-    "timestamp": "2026-11-27T22:42:12+00:00",
-    "isoDate": "2026-11-27",
-    "date": "27 Nov",
-    "d": "18 of the Biggest Emo Hits Ever from When We Were Young Festival Artists SiriusXM",
-    "category": "core",
-    "sources": [
-      {
-        "name": "SiriusXM",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90YWtIaFBoSlg5RmdrSkVNTEdyU3JxTWcxR21jRkZ4U09uUjhSdGtweWE0WklHdEV1Z1BYTnpTcUp0UmxWdzFGMDJMUXJWSmNPREdBOA?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": true,
-    "isPT": false,
-    "isCore": true,
-    "star": true,
-    "kind": "news",
-    "section": "core"
-  },
-  {
     "title": "PISS Expand 2027 Tour Dates - Exclaim!",
     "src": "Exclaim!",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQekZGN29JenNTNVlJcFk4WE0wZVFicmVTTkxrMmUtdjN1ZVBtTlVzaDdiV3lBMmZESzFzYTA1WlNZVzJnWW1pbUN5Z0hyemk4Qnk5RGZCbElmTXhiUTA3Z3p4ZWpqSmptZ0VnQXViajlpeXczZlRMZ1poU2t3UlFUUTA2Y0k0My01NE1DZXRmUUN4eU83UTh2eQ?oc=5",
@@ -3617,10 +4057,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -3642,10 +4082,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": true,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "pt"
   },
@@ -3748,31 +4188,6 @@
     "star": false,
     "kind": "news",
     "section": "pt"
-  },
-  {
-    "title": "U2 Announce Special Live Netflix Performance For November 2026 – UK Fans Can Watch The Rock Legends Celebrate 50 Years Of Music! - https://theriffreport.co.uk/",
-    "src": "https://theriffreport.co.uk/",
-    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWE5FNlZOb1otN2hrUkdqQTd6YkpoQmdXaHp1OGZtYkVkVVhnQTlaeG9qSnktQzVZeGtOdzZrUklCTmk4QWhWZGlpeVdQeWZCbmkyd2Z5TElLMGhKQS04WUtobWVOaU9uczF1cU5LTHdFTEt4VWE4bjNWaWwxWHhhSXFYUVZ3VUlRYlVLcTkzMGs3czBvVFI4M0FVaHFXcmtxZW53V2RhVXl5Yk93azNyTkZaQ2R2NzE1LTIxMmJwM00zNkNEZ2ZWa0tDZlVIcG9GQkFPM0ZoTk8zUEdqS3VmcllqdVc1SkZGdTZ5c2lHeGFzQ0dSeTAtejdNMTBQR2xOd1BPVzJVV0tsejQ?oc=5",
-    "timestamp": "2026-11-27T02:14:55+00:00",
-    "isoDate": "2026-11-27",
-    "date": "27 Nov",
-    "d": "U2 Announce Special Live Netflix Performance For November 2026 – UK Fans Can Watch The Rock Legends Celebrate 50 Years Of Music! https://theriffreport.co.uk/",
-    "category": "metal",
-    "sources": [
-      {
-        "name": "https://theriffreport.co.uk/",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWE5FNlZOb1otN2hrUkdqQTd6YkpoQmdXaHp1OGZtYkVkVVhnQTlaeG9qSnktQzVZeGtOdzZrUklCTmk4QWhWZGlpeVdQeWZCbmkyd2Z5TElLMGhKQS04WUtobWVOaU9uczF1cU5LTHdFTEt4VWE4bjNWaWwxWHhhSXFYUVZ3VUlRYlVLcTkzMGs3czBvVFI4M0FVaHFXcmtxZW53V2RhVXl5Yk93azNyTkZaQ2R2NzE1LTIxMmJwM00zNkNEZ2ZWa0tDZlVIcG9GQkFPM0ZoTk8zUEdqS3VmcllqdVc1SkZGdTZ5c2lHeGFzQ0dSeTAtejdNMTBQR2xOd1BPVzJVV0tsejQ?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "news"
   },
   {
     "b": "James Yorkston",
@@ -4163,10 +4578,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -4188,10 +4603,10 @@
     "status": "official",
     "confidence": "confirmed",
     "sourceCount": 1,
-    "isBreaking": true,
+    "isBreaking": false,
     "isPT": false,
     "isCore": false,
-    "star": true,
+    "star": false,
     "kind": "news",
     "section": "buzz"
   },
@@ -4221,56 +4636,6 @@
     "section": "pt"
   },
   {
-    "title": "Album Review: Trivium – Crown In The Grave - Metal Planet Music",
-    "src": "Metal Planet Music",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0o1SENVUWJVTDVtblBTcE15T3JpTU5EMTNTYlJWWTFVVHlzcFluZC1iSmRsbEMzRzhQLTBFX2hUU2FubFJlMVJlbDctWW00QzNtVFpvdnhZR0VzZHNyNzhpMjgzOUt5OHRGeExaUVIwcVRHekZEUTdJUlNIR3M1ZWZrTQ?oc=5",
-    "timestamp": "2026-11-27T19:20:40+00:00",
-    "isoDate": "2026-11-27",
-    "date": "27 Nov",
-    "d": "Album Review: Trivium – Crown In The Grave Metal Planet Music",
-    "category": "metal",
-    "sources": [
-      {
-        "name": "Metal Planet Music",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0o1SENVUWJVTDVtblBTcE15T3JpTU5EMTNTYlJWWTFVVHlzcFluZC1iSmRsbEMzRzhQLTBFX2hUU2FubFJlMVJlbDctWW00QzNtVFpvdnhZR0VzZHNyNzhpMjgzOUt5OHRGeExaUVIwcVRHekZEUTdJUlNIR3M1ZWZrTQ?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": true,
-    "isPT": false,
-    "isCore": false,
-    "star": true,
-    "kind": "news",
-    "section": "news"
-  },
-  {
-    "title": "Classic Rock in iGaming: Music’s Digital Second Life - Metal Planet Music",
-    "src": "Metal Planet Music",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTHZEVkF5ZWZWaWlDTFB2eW5fYVBoOVpqYm9nSExuQXNjNjdXc280TjU2WnJ1NllQLUI2UzBKZXpGdGktdzFkOVlLZUpkQV9tMXFVcUM4TWxsZUVRVGJQWXQxOER0MnlkeDg4djlwOF9vd196VmlvZ3FvOXBjVHJnejJ0eUtNU25kRkhNcFBNaGxqUQ?oc=5",
-    "timestamp": "2026-11-27T17:36:44+00:00",
-    "isoDate": "2026-11-27",
-    "date": "27 Nov",
-    "d": "Classic Rock in iGaming: Music’s Digital Second Life Metal Planet Music",
-    "category": "metal",
-    "sources": [
-      {
-        "name": "Metal Planet Music",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTHZEVkF5ZWZWaWlDTFB2eW5fYVBoOVpqYm9nSExuQXNjNjdXc280TjU2WnJ1NllQLUI2UzBKZXpGdGktdzFkOVlLZUpkQV9tMXFVcUM4TWxsZUVRVGJQWXQxOER0MnlkeDg4djlwOF9vd196VmlvZ3FvOXBjVHJnejJ0eUtNU25kRkhNcFBNaGxqUQ?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": true,
-    "isPT": false,
-    "isCore": false,
-    "star": true,
-    "kind": "news",
-    "section": "news"
-  },
-  {
     "title": "New Album Releases for November 27, 2026: Björk, Peter Gabriel, Stray Kids and More - Exclaim!",
     "src": "Exclaim!",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KVmR4U0hfT1hNRnFLc2F6c182cmwwTzkxWUVTeFF1Q3BPRm5DWk9vdTJpQlVtQVpEVVJ5Z3E5bUtFZTJ4elVSb0h1NkVmLU5TNVBNQmx1a2ZnLVU4bFV5WG94OG94RXZTWE5nT1M5NA?oc=5",
@@ -4294,31 +4659,6 @@
     "star": false,
     "kind": "news",
     "section": "buzz"
-  },
-  {
-    "title": "Album Review: Hatebreed – Fatal Paradox - Metal Planet Music",
-    "src": "Metal Planet Music",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhdGQ2TWgtYm5MU2xxZEtpRzhFQW9Uc1FNbmtjbDl5eXNmaEozVlJkcWtRb2Z4UVpyMG9MOWV0ZUFYUm1Ea3dSekEyUk5MTWFiRjI1VHBZemhoYVNlTUU4ZkFxcDFTWnFkQ1MzS3BtbUlxcDBZNEN3Zmc2N091X3M?oc=5",
-    "timestamp": "2026-11-27T12:39:58+00:00",
-    "isoDate": "2026-11-27",
-    "date": "27 Nov",
-    "d": "Album Review: Hatebreed – Fatal Paradox Metal Planet Music",
-    "category": "metal",
-    "sources": [
-      {
-        "name": "Metal Planet Music",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhdGQ2TWgtYm5MU2xxZEtpRzhFQW9Uc1FNbmtjbDl5eXNmaEozVlJkcWtRb2Z4UVpyMG9MOWV0ZUFYUm1Ea3dSekEyUk5MTWFiRjI1VHBZemhoYVNlTUU4ZkFxcDFTWnFkQ1MzS3BtbUlxcDBZNEN3Zmc2N091X3M?oc=5"
-      }
-    ],
-    "status": "official",
-    "confidence": "confirmed",
-    "sourceCount": 1,
-    "isBreaking": false,
-    "isPT": false,
-    "isCore": false,
-    "star": false,
-    "kind": "news",
-    "section": "news"
   },
   {
     "b": "Paperthin Fleet",
@@ -5885,6 +6225,256 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "The Father of Serpents release “The Weight of Silence”; new single previews upcoming album - KarloBag.eu",
+    "src": "KarloBag.eu",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd1hsa0twSmlTYl81eklXYXVQbXhxcV9zdzlET21vM0I3SnVJWXdGNDdCazJGRl9wVTZiWF92dUFaVkRKYXgxcVRfZXNkVnJzV08tbFNVeXlCUF9reXJRUzhlTXhTZEMwb1o0WllFQjY5WXA3VHctYW0zS2g3OENVTHFuNEo4RndfVE90eVlZTl9XdmlnZUVnLUFINEtSXzhCNmJ6TTU1dDd4VlhpNXZybHQxNjQ4M28?oc=5",
+    "timestamp": "2026-11-27T18:36:23+00:00",
+    "isoDate": "2026-11-27",
+    "date": "27 Nov",
+    "d": "The Father of Serpents release “The Weight of Silence”; new single previews upcoming album KarloBag.eu",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "KarloBag.eu",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd1hsa0twSmlTYl81eklXYXVQbXhxcV9zdzlET21vM0I3SnVJWXdGNDdCazJGRl9wVTZiWF92dUFaVkRKYXgxcVRfZXNkVnJzV08tbFNVeXlCUF9reXJRUzhlTXhTZEMwb1o0WllFQjY5WXA3VHctYW0zS2g3OENVTHFuNEo4RndfVE90eVlZTl9XdmlnZUVnLUFINEtSXzhCNmJ6TTU1dDd4VlhpNXZybHQxNjQ4M28?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Factory Floor release new album One Trip - Northern Transmissions",
+    "src": "Northern Transmissions",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWllmdm5YcTBtZWc2eG91VXlHaUpOLTZyRUJDbnR4WV9rX3ppcXJFcFhfWmIxN0lEUWRBMTVrNHZPTE9NWDVza3VMa09JcTVsZDRZbWJERlNsaGQyQUdNb0xZQWFrbnVIVFNmYmZFTnhtNFY5T3VSU3RhdDVjMHNEbg?oc=5",
+    "timestamp": "2026-11-27T23:36:17+00:00",
+    "isoDate": "2026-11-27",
+    "date": "27 Nov",
+    "d": "Factory Floor release new album One Trip Northern Transmissions",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Northern Transmissions",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWllmdm5YcTBtZWc2eG91VXlHaUpOLTZyRUJDbnR4WV9rX3ppcXJFcFhfWmIxN0lEUWRBMTVrNHZPTE9NWDVza3VMa09JcTVsZDRZbWJERlNsaGQyQUdNb0xZQWFrbnVIVFNmYmZFTnhtNFY5T3VSU3RhdDVjMHNEbg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Interview: Dylan Neal (THIEF) - The Big Takeover",
+    "src": "The Big Takeover",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jT3AwU1ZWQkd1M3BEV21lXzllVE5IbXl6eTFpc0VwNFJ4RnNFNl9kdzRzOUJRd204TTVxaUt0Ymt6YzVtVlN0cFk1SExxeXlXdjhCUklRX3VnRXVxQTdjbE9xZi1JU2ctSnhUdEhB?oc=5",
+    "timestamp": "2026-11-27T18:22:41+00:00",
+    "isoDate": "2026-11-27",
+    "date": "27 Nov",
+    "d": "Interview: Dylan Neal (THIEF) The Big Takeover",
+    "category": "general",
+    "sources": [
+      {
+        "name": "The Big Takeover",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jT3AwU1ZWQkd1M3BEV21lXzllVE5IbXl6eTFpc0VwNFJ4RnNFNl9kdzRzOUJRd204TTVxaUt0Ymt6YzVtVlN0cFk1SExxeXlXdjhCUklRX3VnRXVxQTdjbE9xZi1JU2ctSnhUdEhB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Q&A: Caryn Dixon finds her voice in small-town roots and Nashville dreams - TribLIVE.com",
+    "src": "TribLIVE.com",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NMVFDQ05NSmdXcGxjVnFjWWhlazhNSjRsR2NrNk5OeDZlVWRqdXdhY3JRcDQ2SkhrVHpEU3E5Z3N2Sl9sY3pjOW1CeGxwQ1FYUFlSTTV3?oc=5",
+    "timestamp": "2026-11-27T17:06:06+00:00",
+    "isoDate": "2026-11-27",
+    "date": "27 Nov",
+    "d": "Q&A: Caryn Dixon finds her voice in small-town roots and Nashville dreams TribLIVE.com",
+    "category": "general",
+    "sources": [
+      {
+        "name": "TribLIVE.com",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NMVFDQ05NSmdXcGxjVnFjWWhlazhNSjRsR2NrNk5OeDZlVWRqdXdhY3JRcDQ2SkhrVHpEU3E5Z3N2Sl9sY3pjOW1CeGxwQ1FYUFlSTTV3?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Pyogenesis to release new studio album “Adolescence” on January 15th 2027 - Grande Rock webzine",
+    "src": "Grande Rock webzine",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQi1xeVVoTEE1V0dJTTNobkxfVHlOTE5hdW1VM0NaaHZrQ1N2XzlxLVhremc4dlljX3pLVlVsUTRMcnBQV3JkbWpzeWoyNTYtWS16Yk9iWHpIQnJOQ1JuN0llUDRUem5NRUlSNXg3bFFDOUhtaDVaUWYwTlBrY0h4c1RuaTQxQU9jbUkzYzRFLUpNMlFOYVRoT01CUWU1cjJ2cVJB?oc=5",
+    "timestamp": "2026-11-27T12:27:33+00:00",
+    "isoDate": "2026-11-27",
+    "date": "27 Nov",
+    "d": "Pyogenesis to release new studio album “Adolescence” on January 15th 2027 Grande Rock webzine",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Grande Rock webzine",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQi1xeVVoTEE1V0dJTTNobkxfVHlOTE5hdW1VM0NaaHZrQ1N2XzlxLVhremc4dlljX3pLVlVsUTRMcnBQV3JkbWpzeWoyNTYtWS16Yk9iWHpIQnJOQ1JuN0llUDRUem5NRUlSNXg3bFFDOUhtaDVaUWYwTlBrY0h4c1RuaTQxQU9jbUkzYzRFLUpNMlFOYVRoT01CUWU1cjJ2cVJB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Interview With The Amazing Bobby Ingram Of America’s Greatest Band “Molly Hatchet” - Metalheads Forever Magazine",
+    "src": "Metalheads Forever Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYmFOWDItdi1td2hjMG5QMHFid1JoenVXOTV0a0NDZkRCR05aUnVQaXFZUVNrdjFWN0c5MGVzaGpDazFrWUZQUVN5R3hQc2VHblFwQTdYSTRUT1FDMjd2cWV2VFp4cy16Yi00dFNYUVZuX1NfZjg0eHZ0SmpidDZTTlVtcTNVRExYaWdxRVZYQ2ZhbFFiVmx3V2liLVk1RGNMdmc?oc=5",
+    "timestamp": "2026-11-27T11:51:48+00:00",
+    "isoDate": "2026-11-27",
+    "date": "27 Nov",
+    "d": "Interview With The Amazing Bobby Ingram Of America’s Greatest Band “Molly Hatchet” Metalheads Forever Magazine",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Metalheads Forever Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYmFOWDItdi1td2hjMG5QMHFid1JoenVXOTV0a0NDZkRCR05aUnVQaXFZUVNrdjFWN0c5MGVzaGpDazFrWUZQUVN5R3hQc2VHblFwQTdYSTRUT1FDMjd2cWV2VFp4cy16Yi00dFNYUVZuX1NfZjg0eHZ0SmpidDZTTlVtcTNVRExYaWdxRVZYQ2ZhbFFiVmx3V2liLVk1RGNMdmc?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Milovan Release Debut Album \"Iznajmljena Sloboda\" - Thoughts Words Action",
+    "src": "Thoughts Words Action",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SdVlrN1dDUGhuTTRfdHY3enhhd3BDUGRzWVl0YmU1ZmJjZUZPT0c0RXdGVnp5UkFkYUZhRjJFV09SOWVWYmdvamFXeHJMbGpUWThUVmdmVXdiSzVrYlB0bnVTWnByOTdkdk9RRnVmQXdzcWZsQkdLVVRzONIBgAFBVV95cUxNc1JRZ3dINW5YRm9peWh6X3l0czJoZEZXRi1kMThKOXQ5NkRkemhHalZUQTdfWUczY1VmMzVDWkYyUHozQzE4VUZfUDI2b0lQLTNoaDJGR05WY2stMkhhWC1xME9iaGtvUFZFNW5qREFTSi00aVV0YWt2RGdOVGNrUw?oc=5",
+    "timestamp": "2026-11-27T10:22:56+00:00",
+    "isoDate": "2026-11-27",
+    "date": "27 Nov",
+    "d": "Milovan Release Debut Album \"Iznajmljena Sloboda\" Thoughts Words Action",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Thoughts Words Action",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SdVlrN1dDUGhuTTRfdHY3enhhd3BDUGRzWVl0YmU1ZmJjZUZPT0c0RXdGVnp5UkFkYUZhRjJFV09SOWVWYmdvamFXeHJMbGpUWThUVmdmVXdiSzVrYlB0bnVTWnByOTdkdk9RRnVmQXdzcWZsQkdLVVRzONIBgAFBVV95cUxNc1JRZ3dINW5YRm9peWh6X3l0czJoZEZXRi1kMThKOXQ5NkRkemhHalZUQTdfWUczY1VmMzVDWkYyUHozQzE4VUZfUDI2b0lQLTNoaDJGR05WY2stMkhhWC1xME9iaGtvUFZFNW5qREFTSi00aVV0YWt2RGdOVGNrUw?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Matinee Hardcore reúne quatro bandas de Portugal e Espanha na Casa Capitão",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/matinee-hardcore-reune-quatro-bandas-de-portugal-e-espanha-na-casa-capitao/",
+    "timestamp": "2026-11-27T23:14:53+00:00",
+    "isoDate": "2026-11-27",
+    "date": "27 Nov",
+    "d": "%featured_image% O Sótão da Casa Capitão, em Lisboa, recebe no próximo domingo, 29 de novembro, a Matinee Hardcore, uma tarde dedicada à música hardcore e à cultura DIY, com um cartaz que junta quatro bandas da cena underground portuguesa e espanhola.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/matinee-hardcore-reune-quatro-bandas-de-portugal-e-espanha-na-casa-capitao/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "NE-YO, Dino D’Santiago e João Gomes estão confirmados para o MEO Mares 2027",
+    "src": "Arte Sonora",
+    "url": "https://artesonora.pt/ne-yo-dino-dsantiago-e-joao-gomes-estao-confirmados-para-o-meo-mares-2027/",
+    "timestamp": "2026-11-27T22:37:49+00:00",
+    "isoDate": "2026-11-27",
+    "date": "27 Nov",
+    "d": "%featured_image% O cartaz do MEO Mares tem novidades. Três dias de música, celebração e experiências junto ao mar, com um cartaz que continua a crescer e a reunir grandes nomes da música nacional e internacional.",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Arte Sonora",
+        "url": "https://artesonora.pt/ne-yo-dino-dsantiago-e-joao-gomes-estao-confirmados-para-o-meo-mares-2027/"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "U2 Announce Special Live Netflix Performance For November 2026 – UK Fans Can Watch The Rock Legends Celebrate 50 Years Of Music! - https://theriffreport.co.uk/",
+    "src": "https://theriffreport.co.uk/",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWE5FNlZOb1otN2hrUkdqQTd6YkpoQmdXaHp1OGZtYkVkVVhnQTlaeG9qSnktQzVZeGtOdzZrUklCTmk4QWhWZGlpeVdQeWZCbmkyd2Z5TElLMGhKQS04WUtobWVOaU9uczF1cU5LTHdFTEt4VWE4bjNWaWwxWHhhSXFYUVZ3VUlRYlVLcTkzMGs3czBvVFI4M0FVaHFXcmtxZW53V2RhVXl5Yk93azNyTkZaQ2R2NzE1LTIxMmJwM00zNkNEZ2ZWa0tDZlVIcG9GQkFPM0ZoTk8zUEdqS3VmcllqdVc1SkZGdTZ5c2lHeGFzQ0dSeTAtejdNMTBQR2xOd1BPVzJVV0tsejQ?oc=5",
+    "timestamp": "2026-11-26T08:00:00+00:00",
+    "isoDate": "2026-11-26",
+    "date": "26 Nov",
+    "d": "U2 Announce Special Live Netflix Performance For November 2026 – UK Fans Can Watch The Rock Legends Celebrate 50 Years Of Music! https://theriffreport.co.uk/",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "https://theriffreport.co.uk/",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWE5FNlZOb1otN2hrUkdqQTd6YkpoQmdXaHp1OGZtYkVkVVhnQTlaeG9qSnktQzVZeGtOdzZrUklCTmk4QWhWZGlpeVdQeWZCbmkyd2Z5TElLMGhKQS04WUtobWVOaU9uczF1cU5LTHdFTEt4VWE4bjNWaWwxWHhhSXFYUVZ3VUlRYlVLcTkzMGs3czBvVFI4M0FVaHFXcmtxZW53V2RhVXl5Yk93azNyTkZaQ2R2NzE1LTIxMmJwM00zNkNEZ2ZWa0tDZlVIcG9GQkFPM0ZoTk8zUEdqS3VmcllqdVc1SkZGdTZ5c2lHeGFzQ0dSeTAtejdNMTBQR2xOd1BPVzJVV0tsejQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
   },
   {
     "title": "Legendary Swedish Death Metal Band ENTOMBED To Perform At 2027 Edition Of SWEDEN ROCK FESTIVAL",
@@ -9029,6 +9619,81 @@
       {
         "name": "mxdwn Music",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdER4WVBpdXVhcERydWJQSkEyMko2RS1kb1FZSmk3QlU2Y0lKVTJ2Y3UyeUR5SUpldDl5TVRBaWp4YTJLbmFudGxxUkpIbUZncHNseGNnc0pZZDJ4bFBaaVR3bk1ndDNMN3liLVFMUk1pUWtJanQySlhxaFdvS2Z3Z2o5Q1d5dDBXY0JSV1MzMGthVDhZT3dqb21NaVdBU3lnMHpyMkg5RlhseDRiSlZpX1NQSE9LNzDSAbwBQVVfeXFMTjRndWMwNXV3WFhGbmlnSmJIUmZNRGd1S3VUa2FhWjUzdncyT18zRXAzVEtDeHNGRENzcXZxaTVVcVZlakJxOElmV2djcTItb2NwRTkycnp0eS1PdzRGanREVjVUUXA2ZWVtVDR6aG5uUlY1c1VBMTVEdUlySFBkYV96Umg5VUN5U1FlSWFfV2hLdTR4eU9DVzlFRVcxUVpxVG5vLVBZbV8wSU1nNkJFckFTSm02Q3FpcTNoc0Y?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "Top 10 Dillinger Escape Plan Songs - Classic Rock History",
+    "src": "Classic Rock History",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fMS1lX2lha003UHd5bDhWVUlFUXl6RnJBQWZ5MFZETF9BZEJaenRsd254RkVvNjE3c3dCMnY4TzFFX3pVLXJlTnQ0ZUFCN3JiMkh4VkJLUmhZSUpYQkNkTE9ldEFzYnFfdkdsVUszQUF2SVlFbHlvTnpB?oc=5",
+    "timestamp": "2026-11-26T08:00:00+00:00",
+    "isoDate": "2026-11-26",
+    "date": "26 Nov",
+    "d": "Top 10 Dillinger Escape Plan Songs Classic Rock History",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Classic Rock History",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fMS1lX2lha003UHd5bDhWVUlFUXl6RnJBQWZ5MFZETF9BZEJaenRsd254RkVvNjE3c3dCMnY4TzFFX3pVLXJlTnQ0ZUFCN3JiMkh4VkJLUmhZSUpYQkNkTE9ldEFzYnFfdkdsVUszQUF2SVlFbHlvTnpB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Plainfield high schools release schedule for holiday band and choir concerts - Shaw Local",
+    "src": "Shaw Local",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSkpXVkZTX2tYOWQtN3NTRzhkNlp1MXQwalNiSlNwR0JYcWdlcDdMM0NReUhjY0tsOVN4Ujl2M3pNUExGc0ZoejhFMkp5NDhYaGNHN1pXNmlwMjBUTE1Nei1NYjdPSWZQVHo1ek9wdmZJUjhvTjhsWW1ZQnBxejRFSmlabDVZc1I4cEtWM2pTZHlnNGFiVDR6dVkzZG9EVlJyUC0xNG1UelZZMGQ0UG1uRUV5dTNLZEZhWGRPU0dONFF2MmdMdDFON2Zn?oc=5",
+    "timestamp": "2026-11-26T16:00:00+00:00",
+    "isoDate": "2026-11-26",
+    "date": "26 Nov",
+    "d": "Plainfield high schools release schedule for holiday band and choir concerts Shaw Local",
+    "category": "general",
+    "sources": [
+      {
+        "name": "Shaw Local",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSkpXVkZTX2tYOWQtN3NTRzhkNlp1MXQwalNiSlNwR0JYcWdlcDdMM0NReUhjY0tsOVN4Ujl2M3pNUExGc0ZoejhFMkp5NDhYaGNHN1pXNmlwMjBUTE1Nei1NYjdPSWZQVHo1ek9wdmZJUjhvTjhsWW1ZQnBxejRFSmlabDVZc1I4cEtWM2pTZHlnNGFiVDR6dVkzZG9EVlJyUC0xNG1UelZZMGQ0UG1uRUV5dTNLZEZhWGRPU0dONFF2MmdMdDFON2Zn?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
+  },
+  {
+    "title": "MAYDAY PARADE to release deluxe edition of ‘SWEET, SAD, SUGAR’ on Dec. 4, celebrating the band’s 20th anniversary - MELODIC Magazine",
+    "src": "MELODIC Magazine",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONC1rX1VOOWNoYkNFaXZpZkJ4Zmd1bXcxTGNQX1FqNTNNTnpBRzFDdEVVR185Y1Y5c0VGVGdVamlhS0tCMFJuVTRmbDFzODYyU3NzWklEUWdHMnpkemRhTWlXRE50Skd1RTBPOFN6X2NVaFRnYklyVjkwOUdCdzlaSmZ1SGFtaDV2N1lHOV85RWRZcXpFdlA3VUNSX0pITTN3NTBFZGFYdmVJRDlGdDVOaTNVVFJaRkJOaTU5UEkxSXRmemFFQkIzNm5CXzRxYk5NNE1DaGJIQjVzSy1WcGJjcDhMd2tvbS1sNHFYNzJiS1dDWUxKdnpN?oc=5",
+    "timestamp": "2026-11-26T08:00:00+00:00",
+    "isoDate": "2026-11-26",
+    "date": "26 Nov",
+    "d": "MAYDAY PARADE to release deluxe edition of ‘SWEET, SAD, SUGAR’ on Dec. 4, celebrating the band’s 20th anniversary MELODIC Magazine",
+    "category": "general",
+    "sources": [
+      {
+        "name": "MELODIC Magazine",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONC1rX1VOOWNoYkNFaXZpZkJ4Zmd1bXcxTGNQX1FqNTNNTnpBRzFDdEVVR185Y1Y5c0VGVGdVamlhS0tCMFJuVTRmbDFzODYyU3NzWklEUWdHMnpkemRhTWlXRE50Skd1RTBPOFN6X2NVaFRnYklyVjkwOUdCdzlaSmZ1SGFtaDV2N1lHOV85RWRZcXpFdlA3VUNSX0pITTN3NTBFZGFYdmVJRDlGdDVOaTNVVFJaRkJOaTU5UEkxSXRmemFFQkIzNm5CXzRxYk5NNE1DaGJIQjVzSy1WcGJjcDhMd2tvbS1sNHFYNzJiS1dDWUxKdnpN?oc=5"
       }
     ],
     "status": "official",
@@ -14100,6 +14765,81 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "Top 10 Budgie Songs - Classic Rock History",
+    "src": "Classic Rock History",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZWHUyRlBnUnNyWERnd0FtNEpzbGR6clFpYlV1RDR2QWNzemlobGcxVzE1YUNLbktuRDVpam1yT0toYkR1V3hTS0wwZnJtblZ5bVdPVl9EbjBhcGNWTmoxaVA0eTRZQQ?oc=5",
+    "timestamp": "2026-11-25T08:00:00+00:00",
+    "isoDate": "2026-11-25",
+    "date": "25 Nov",
+    "d": "Top 10 Budgie Songs Classic Rock History",
+    "category": "metal",
+    "sources": [
+      {
+        "name": "Classic Rock History",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZWHUyRlBnUnNyWERnd0FtNEpzbGR6clFpYlV1RDR2QWNzemlobGcxVzE1YUNLbktuRDVpam1yT0toYkR1V3hTS0wwZnJtblZ5bVdPVl9EbjBhcGNWTmoxaVA0eTRZQQ?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "news"
+  },
+  {
+    "title": "Winston McCall Net Worth - Celebrity Net Worth",
+    "src": "Celebrity Net Worth",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSXZJUjFhaDRJdWM1NXNXMDhoNU9QQUdrUk16Yy1yOHZ6Q2FCcW8xR2NXOXp2TEpNY09RckRXR3ZFUXY1bFA3ZEE2cXhvVmVOeHctQmZ4Y0IwVGQ5ZFpiQjdjcVpHQ0pJV09uNHlHOEdDX2hHYlhDMG9DY1JSeWZFaG9LdHZzZHQ4TWRCVmxuSHY?oc=5",
+    "timestamp": "2026-11-25T08:00:00+00:00",
+    "isoDate": "2026-11-25",
+    "date": "25 Nov",
+    "d": "Winston McCall Net Worth Celebrity Net Worth",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Celebrity Net Worth",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSXZJUjFhaDRJdWM1NXNXMDhoNU9QQUdrUk16Yy1yOHZ6Q2FCcW8xR2NXOXp2TEpNY09RckRXR3ZFUXY1bFA3ZEE2cXhvVmVOeHctQmZ4Y0IwVGQ5ZFpiQjdjcVpHQ0pJV09uNHlHOEdDX2hHYlhDMG9DY1JSeWZFaG9LdHZzZHQ4TWRCVmxuSHY?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
+  },
+  {
+    "title": "Iconic alt-rock band Wilco extends tour with new Houston date in 2027 - CultureMap Houston",
+    "src": "CultureMap Houston",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OZGI1cm42SWtBNW9mbHJzS0V6Umk3ZWhWSGRpN1d3d0hYUWV3VWVUTG9pV2N0QlI1MWQzN1lVU1NpYmt4RXd3ZFRuZXl1V3JrcldCb2RLc1RLNThSRmluWnluQ1UxeVZrQjVjMGNaOEtuYkcyNW1VMzAyMnBaSTg?oc=5",
+    "timestamp": "2026-11-25T16:30:00+00:00",
+    "isoDate": "2026-11-25",
+    "date": "25 Nov",
+    "d": "Iconic alt-rock band Wilco extends tour with new Houston date in 2027 CultureMap Houston",
+    "category": "general",
+    "sources": [
+      {
+        "name": "CultureMap Houston",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OZGI1cm42SWtBNW9mbHJzS0V6Umk3ZWhWSGRpN1d3d0hYUWV3VWVUTG9pV2N0QlI1MWQzN1lVU1NpYmt4RXd3ZFRuZXl1V3JrcldCb2RLc1RLNThSRmluWnluQ1UxeVZrQjVjMGNaOEtuYkcyNW1VMzAyMnBaSTg?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "buzz"
   },
   {
     "title": "The Straight Edge Story Behind CM Punk’s Pepsi Tattoo - THE SCRAP",
@@ -30091,6 +30831,56 @@
     "star": false,
     "kind": "news",
     "section": "pt"
+  },
+  {
+    "title": "VI edição do Festival Internacional de Órgão e Música Sacra decorre, em valongo, até 22 de novembro - Câmara Municipal de Valongo",
+    "src": "Câmara Municipal de Valongo",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS0pQMVMzUlBQX09OMk5hcThVeWU2akpfc2lyRXFERVRyQVNvVDNlZjlRWWFvaXl1OG9pd0xfR1l4d2s4NDlOSkJXcjFJM3BoVnBuNXdOX2Y1aFNjamY4LVM0MUVDSVBUZTBMQnIwbzhiWGVlTjJwQlNXNWFmRVFsRHptNnJ5a2dsNVJhMW9PMnI2SjI5NHJrYVlkTUtSZmtlNEJqa2lfeVVGNERKallGbjJOMVd2bHE3N2lPRGduUHpEajV6YTRtcU80cU5jNm1LZVhXVlMzNWdVRnVPUTNpLVNn?oc=5",
+    "timestamp": "2026-11-22T08:00:00+00:00",
+    "isoDate": "2026-11-22",
+    "date": "22 Nov",
+    "d": "VI edição do Festival Internacional de Órgão e Música Sacra decorre, em valongo, até 22 de novembro Câmara Municipal de Valongo",
+    "category": "pt",
+    "sources": [
+      {
+        "name": "Câmara Municipal de Valongo",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS0pQMVMzUlBQX09OMk5hcThVeWU2akpfc2lyRXFERVRyQVNvVDNlZjlRWWFvaXl1OG9pd0xfR1l4d2s4NDlOSkJXcjFJM3BoVnBuNXdOX2Y1aFNjamY4LVM0MUVDSVBUZTBMQnIwbzhiWGVlTjJwQlNXNWFmRVFsRHptNnJ5a2dsNVJhMW9PMnI2SjI5NHJrYVlkTUtSZmtlNEJqa2lfeVVGNERKallGbjJOMVd2bHE3N2lPRGduUHpEajV6YTRtcU80cU5jNm1LZVhXVlMzNWdVRnVPUTNpLVNn?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": true,
+    "isCore": false,
+    "star": false,
+    "kind": "news",
+    "section": "pt"
+  },
+  {
+    "title": "Greg Ginn Net Worth - Celebrity Net Worth",
+    "src": "Celebrity Net Worth",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSDNaMzJJNGpHWW1CdUstYkhWR0FKNUF0UTE5WGpzMWZEOGNlTXFDcmdmcThCSWhEZ2EwZU8zRXRPbWlXSmlxV3M3eEE1U0d2aTU4bnFnd3d6S0lmODVCb2dmd3lhQ1g5bkE0bWlmN0szZHFuS000dkFmdDRYcTNCSElCVUhnZ0lFd3JLNHlB?oc=5",
+    "timestamp": "2026-11-22T08:00:00+00:00",
+    "isoDate": "2026-11-22",
+    "date": "22 Nov",
+    "d": "Greg Ginn Net Worth Celebrity Net Worth",
+    "category": "core",
+    "sources": [
+      {
+        "name": "Celebrity Net Worth",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSDNaMzJJNGpHWW1CdUstYkhWR0FKNUF0UTE5WGpzMWZEOGNlTXFDcmdmcThCSWhEZ2EwZU8zRXRPbWlXSmlxV3M3eEE1U0d2aTU4bnFnd3d6S0lmODVCb2dmd3lhQ1g5bkE0bWlmN0szZHFuS000dkFmdDRYcTNCSElCVUhnZ0lFd3JLNHlB?oc=5"
+      }
+    ],
+    "status": "official",
+    "confidence": "confirmed",
+    "sourceCount": 1,
+    "isBreaking": false,
+    "isPT": false,
+    "isCore": true,
+    "star": false,
+    "kind": "news",
+    "section": "core"
   },
   {
     "title": "O jornal do Brasil em Portugal - DN Brasil",
